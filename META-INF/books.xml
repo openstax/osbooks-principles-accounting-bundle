@@ -1,3 +1,4 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book />
+    <book slug="principles-financial-accounting" collection-id="col25448" href="../collections/principles-financial-accounting.collection.xml" />
+    <book slug="principles-managerial-accounting" collection-id="col25479" href="../collections/principles-managerial-accounting.collection.xml" />
 </container>
