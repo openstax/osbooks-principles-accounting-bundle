@@ -1,0 +1,200 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Evaluate and Determine How to Make Decisions When Resources Are Constrained</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68086</md:content-id>
+  <md:title>Evaluate and Determine How to Make Decisions When Resources Are Constrained</md:title>
+  <md:abstract/>
+  <md:uuid>8deba5ed-57c1-4097-92b6-6dab8b2cdf44</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm201314560">Companies use various resources to be productive. These resources, which include time, labor, space, and machines, are limited, thus constraining the ability of a company to have unlimited productive capacity. For example, a retail store is constrained by the amount of floor space available to display its goods, while a law office may be constrained by the number of hours the paralegal team can feasibly work. These constraints require companies to make decisions on the best ways to allocate their resources in a way that maximizes the benefit to the firm. This situation is especially true when a company is operating at capacity or makes multiple products or provides multiple services.</para>
+<para id="fs-idm179443584">The question as to which products and how many should be made is a common constraint problem. For example, consider a business that runs at capacity, making four products by running two eight-hour shifts per day, seven days a week for 50 weeks per year. This business is limited to 5,600 working hours per year (8 hr. shifts × 2 shifts × 7 days per week × 50 weeks) unless a third shift is added. Adding a third shift may be prohibitive for any number of reasons, including local ordinances that prevent operating twenty-four hours a day, Environmental Protection Agency constraints, or the down-time of the machines that is required several hours a day for maintenance and calibration. What is the best way for this company to use these work hours? Which products should it produce first and how many of each should it produce?</para>
+<para id="fs-idm215231424">These types of situations constrain, or limit, management’s ability to use their facilities and workforce. Having limited availability of a resource, such as time, labor, or machine hours means that item becomes a scarce resource. A <term>constraint</term> is a scarce resource that limits the output or productive capacity of the organization.</para>
+<para id="fs-idm177399024">Ordinarily, there are very few actual constraints in any process. Sometimes, there is only one. However, the existence of a constraint can have a major effect on the productivity of an organization. This fact applies to all types of entities, such as production facilities or service providers. One way to view this issue is to consider the old cliché that <emphasis effect="italics">a chain is only as strong as its weakest link.</emphasis> In the example, when trying to measure or estimate an organization’s maximum efficiency, its results will often be reduced by the overall negative effects of the constraints. When the constraint slows production, it is called a <term>bottleneck</term>. Managers are often faced with the problem of deciding how to best use a scarce resource to prevent bottlenecks. Under the constraint of limited resources, how do managers make decisions when they are working within these conditions?</para>
+<section id="fs-idm196170640">
+<title>Fundamentals of How to Make Decisions When Resources are Constrained</title>
+<para id="fs-idm177448416">As with other short-term decisions, a company must consider the relevant costs and revenues when making decisions when resources are constrained. Whether the organization facing a constraint is a merchandising, manufacturing, or service organization, the initial step in allocating scarce or constrained resources is to determine the <term>unit contribution margin</term>, which is the selling price per unit minus the variable cost per unit, for each product or service. The company should produce or provide the products or services that generate the highest contribution margin first, followed by those with the second highest, and so forth. The total contribution margin will be maximized by promoting those products or accepting those orders with the highest contribution margin in relation to the scarce resource. In other words, products or services should be ranked based on their <term>unit contribution margin per production restraint</term>, which is the unit contribution margin divided by the production restraint.</para>
+<para id="fs-idm194593360">If constraints are not managed, a bottleneck usually results, meaning that production slows and a back-up occurs at stages prior to the bottleneck. For example, in producing boxes of cereal, if the cereal is produced at a rate of 1,000 ounces per minute but the bagging machines can only bag 800 ounces per minute, this will create a bottleneck. Similarly, if on a Saturday morning before a home football game, the local grocery store has ten checkout lines but only opens four of them, long lines will result from the constraint of too few checkout lanes available. Management must decide how many scarce resources (employees, in this example) to pull from stocking the shelves to running cash registers. It may be difficult to see how bottlenecks affect profitability, and they appear to be more of a timing or throughput issue. But bottlenecks can affect profitability in a number of ways. Bottlenecks at the grocery story can result in customers leaving to store shop elsewhere or can negatively affect the reputation of the store, which can impact future sales. In the cereal example, bottlenecks in the packaging area can slow the delivery of boxes of cereal to distributors and individual stores. Poor or inconsistent delivery may drive customers to purchase from other cereal manufacturers, which would have a definite impact on profitability.</para>
+<para id="fs-idm205394928">A common problem relating to constraints occurs in multi-product production environments. Management will need to evaluate the constraints to determine the best mix of products that will minimize the effects of the constraints. In addition to making sure that the best product mix is chosen, managers should seek ways to increase the effective capacity of the constraint. Conceptually, there are two ways a company can do this: increase the rate of output at the bottleneck, or increase the time available at the bottleneck. Increasing the capacity of the constraint or bottleneck is also called <emphasis effect="italics">relaxing the constraint</emphasis> or <emphasis effect="italics">elevating the constraint</emphasis>. Some specific examples of ways to relax the constraint include:</para>
+<list id="fs-idm177882096" list-type="bulleted">
+<item>Keep the production facilities open longer hours. This may allow the work-flow through the bottleneck area to be slowed and thus prevent the bottleneck from occurring. However, this may require paying workers overtime pay.</item>
+<item>If working extra hours is not a viable option, then moving additional workers to the bottleneck area may be beneficial as long as the areas from which they were moved are adequately covered and additional problem areas do not result.</item>
+<item>Instead of using current workers, additional staff may be hired to smooth the work flow through the bottleneck area.</item>
+<item>Outsource some or all of the work in the area of the bottleneck. It may be cheaper and more cost effective to buy parts of components than to slow production due to the bottleneck.</item>
+<item>Redesign the production process to prevent the bottleneck by adding more resources to eliminate the bottleneck, reorganizing the process to distribute the bottleneck-causing activities to different parts of the production process, or managing processing times at other stages prior to the bottleneck to help prevent the bottleneck form occurring.</item>
+<item>Insuring a minimal number of defects and rework, since they typically slow the production process and thus add to the bottleneck.</item>
+</list>
+<para id="fs-idm177386336">Preventing and minimizing bottlenecks can have significant benefits to the bottom line of the company. The reduction of bottlenecks allows the company to move more products through the production phase and thus be ready to sell.</para>
+<note id="fs-idm194606784" class="ethical-considerations">
+<title>When to Include a Lifesaving Option: The Case of the Ford Pinto</title>
+<para id="fs-idm218528368">The case of the fiery <emphasis class="colored-text">Ford</emphasis> Pinto demonstrates that more than cost and revenue should be considered when making an ethical business decision. In the early 1970s, the <emphasis class="colored-text">Ford Motor Company</emphasis> set out to build a Pinto for less than $2,000. Cars were much less expensive then, and Ford had to determine whether or not to include a component part that cost around $10. Given the high cost, Ford decided not to include the component, a rubber bladder for the gas tank. However, in rear-end collisions at over 21 miles per hour, the rubber bladder component functions to prevent the gas tank from flooding the interior of the car with gasoline and gas fumes. Because of the decision not to include the component, a number of Pintos involved in collisions exploded into flames, injuring and sometimes killing the occupants.</para>
+<para id="fs-idm216332448">Although <emphasis class="colored-text">Ford</emphasis> was aware of the defect, the company’s cost/benefit analysis indicated it was less expensive to build Pintos without the rubber bladder, even when including expected reimbursement costs for anyone injured or killed. However, the decision to allow a defective product to be built in order to reduce overall costs caused a significant hit to <emphasis class="colored-text">Ford</emphasis>’s reputation. Ultimately, the litigation costs for knowingly constructing a defective car were higher than the original cost of including the rubber bladder component. While <emphasis class="colored-text">Ford</emphasis>’s decision seemed profitable in the short-term, their financial analysis could have been improved if it also took into account long-term impacts.</para>
+</note>
+</section>
+<section id="fs-idm196386416">
+<title>Sample Data</title>
+<para id="fs-idm177665296">Wood World, Inc., produces wooden desks, chairs, and bookcases. These items are produced using the same machines, and there is a maximum of 80,000 machine-hours available during the year. The information about the production time and costs for these three items is:</para>
+<media id="fs-idm195606576" alt="Variable, Desk, Chair, and Bookcase, respectively: Hours to produce 1, 0.5, 0.25. Selling price $350, $200, $175. Direct materials $40, $30, $35. Direct labor $70, $65, $50. Variable overhead $55, $50, $45. Fixed overhead $28, $32, $24.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_06_Wood01_img.jpg"/>
+</media>
+<para id="fs-idm199310688">Wood World is limited in producing its products by the number of possible machine-hours. Orders have been received for 60,000 desks, 48,000 chairs, and 40,000 bookcases, which will require 94,000 machine-hours to produce. Since there are not enough machine-hours available to fill all of the orders, which orders should Wood World fill first?</para>
+</section>
+<section id="fs-idm199029952">
+<title>Calculations Using Sample Data</title>
+<para id="fs-idm201929936">To address this question, Wood World must find the contribution margin per machine-hour since machine-hours are the constraining factor for production.</para>
+<media id="fs-idm179426096" alt="Variable, Desk, Chair, and Bookcase, respectively: Selling price $350, $200, $175 less Direct materials $40, $30, $35 less Direct labor $70, $65, $50 less Variable overhead $55, $50, $45 equals Contribution margin $185, $55, $48 divided by Hours to produce 1, 0.5, 0.25 equals Contribution margin per machine hour $185, $110, $192.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_06_Wood02_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm195504304">
+<title>Final Analysis of the Decisions</title>
+<para id="fs-idm205783376">Wood World should fulfill the orders for bookcases first, desks second, and chairs last. The bookcases provide the highest contribution margin per machine-hour, followed by desks and then chairs. Maximizing the contribution margin per constraint, in this case per machine-hour, is the best way for Wood World to manage the constraint. How many of each item will be produced?</para>
+<media id="fs-idm205289648" alt="Available machine hours 80,000 plus Hours to fill bookcase orders (40,000 times 0.25) 10,000 equals Remaining hours 70,000. Remaining hours plus Hours to fill desk orders (60,000 times 1) 60,000 equals Remaining hours 10,000. Remaining hours divided by Hours needed to produce chairs 0.50 equals Chair orders that would need to be filled 20,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_06_Wood03_img.jpg"/>
+</media>
+<para id="fs-idm201436832">Therefore, based on contribution margin and the constraint of machine hours, Wood World should fill all 40,000 of the bookcase orders first, then fill the 60,000 desk orders and, and fill 20,000 of the chair orders last.</para>
+<para id="fs-idm197917088">Are there any qualitative issues that Wood World should consider? One concern may be that customers who typically buy a desk and chair together may not be able to do so if the chair production is affected by a bottleneck. Another qualitative issue in keeping with the furniture example is that a company might find producing dining room tables to be significantly more profitable than matching chairs or matching cupboards. However, they will still be required to produce the less profitable chairs and cupboards, because many consumers will want to buy all three items as a set.</para>
+<para id="fs-idm178972416">The benefits of effectively managing constraints can be enormous. Managers need to understand the positive impact effective management of constrained resources can have on the company’s bottom line. The contribution margin per unit of the scarce resource can be used to assess the value of relaxing the constraint. When there is unsatisfied demand for a single product because of a constraint, the value of additional time on the constraint is simply the contribution margin per unit of the scarce resource for that product. When there are two or more products with unsatisfied demand, the value of additional time on the bottleneck would be the largest contribution margin per unit of the scarce resource for any product whose demand is unsatisfied. In many situations, when dealing with conflicting time constraints an evaluation of multiple bottlenecks might identify a viable solution. While many bottleneck issues and their solutions could be somewhat complex, others might be addressed more simply. For example, in some cases the problem might be solved by the addition of an additional work shift.</para>
+<note id="fs-idm194617312" class="concepts-practice">
+<title>Distributing Caseloads at a Law Firm</title>
+<para id="fs-idm188566192">As a new business school graduate, you landed you first job in the human resources department of large national law firm in New York City. Your position is providing you with many opportunities to learn about the company and the various tasks for which the human resources department is responsible. Your most recent assignment is to determine the best way to distribute caseloads to the junior level attorneys based on their areas of expertise and to assign paralegal hours to assist the junior level attorneys. What are the constraints with which you are dealing? What information do you need to properly complete this assignment? What type of analysis would be required to effectively allocate caseload hours?</para>
+</note>
+</section>
+<section id="fs-idm177996592" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm210594528" list-type="bulleted" bullet-style="bullet">
+<item>Deciding to how to use scare resources is a choice between alternatives.</item>
+<item>Scarce resources can include anything that limits productive capacity, such as machine-hours or labor hours.</item>
+<item>Choosing how to use the scarce resource involves determining the contribution margin for each product or service that uses the constrained resource. The products or services with the highest contribution margin have the largest impact on income.</item>
+<item>Choosing how to manage the scarce resource will help reduce bottlenecks.</item>
+</list>
+</section>
+<section id="fs-idm203141696" class="multiple-choice">
+<exercise id="fs-idm196934096">
+<problem id="fs-idm196515728">
+<para id="fs-idm179538704"><link class="lo-reference" document="m68086"/>A company produces two products, E and F, in batches of 100 units. The production and cost data are:</para>
+<media id="fs-idm194616560" alt="Product E Contribution margin per batch $450, Machine set-ups needed per batch 25. Product F Contribution margin per batch $340, Machine set-ups needed per batch 20.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_06_MC02_img.jpg"/>
+</media>
+<para id="fs-idm188106160">The company can only perform 12,000 set-ups each period yet there is unlimited demand for each product. What is the differential profit from producing product E instead of product F for the year?</para>
+<list id="fs-idm196776576" list-type="enumerated" number-style="upper-alpha">
+<item>$216,000</item>
+<item>$204,000</item>
+<item>$12,000</item>
+<item>$54,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm203355136">
+<problem id="fs-idm222469216">
+<para id="fs-idm217817328"><link class="lo-reference" document="m68086"/>When operating in a constrained environment, which products should be produced?</para>
+<list id="fs-idm210746288" list-type="enumerated" number-style="upper-alpha">
+<item>products with the highest contribution margin per unit</item>
+<item>products with the highest contribution margin per unit of the constrained process</item>
+<item>products with the highest selling price</item>
+<item>products with the lowest allocated joint cost</item>
+</list>
+</problem>
+<solution id="fs-idm193788016">
+<para id="fs-idm199015440">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm215908544" class="exercise-set-a">
+<exercise id="fs-idm194843936">
+<problem id="fs-idm195501472">
+<para id="fs-idm225619504"><link class="lo-reference" document="m68086"/>Rough Stuff makes 2 products: khaki shorts and khaki pants for men. Each product passes through the cutting machine area, which is the chief constraint during production. Khaki shorts take 15 minutes on the cutting machine and have a contribution margin per pair of shorts of $16. Khaki pants take 24 minutes on the cutting machine and have a contribution margin per pair of pants of $32. If it is assumed that Rough Stuff has 4,800 hours available on the cutting machine to service a minimum demand for each product of 3,000 units, how much will profits increase if 100 more hours of machine time can be obtained?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm215862464">
+<problem id="fs-idm177647728">
+<para id="fs-idm201519440"><link class="lo-reference" document="m68086"/>Rough Stuff makes 2 products: khaki shorts and khaki pants for men. Each product passes through the cutting machine area, which is the chief constraint during production. Khaki shorts take 15 minutes on the cutting machine and have a contribution margin per pair of shorts of $16. Khaki pants take 24 minutes on the cutting machine and have a contribution margin per pair of pants of $32. If it is assumed that Rough Stuff has 4,800 hours available on the cutting machine to service a minimum demand for each product of 3,000 units, how many of each product should be made?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm209759968" class="exercise-set-b">
+<exercise id="fs-idm215838080">
+<problem id="fs-idm214322736">
+<para id="fs-idm183991536"><link class="lo-reference" document="m68086"/>Power Corp. makes 2 products: blades for table saws and blades for handsaws. Each product passes through the sharpening machine area, which is the chief constraint during production. Handsaw blades take 15 minutes on the sharpening machine and have a contribution margin per blade of $15. Table saw blades take 20 minutes on the sharpening machine and have a contribution margin per blade of $35. If it is assumed that Power Corp. has 5,000 hours available on the sharpening machine to service a minimum demand for each product of 4,000 units, how much will profits increase if 200 more hours of machine time can be obtained?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm196304560">
+<problem id="fs-idm199528384">
+<para id="fs-idm224026784"><link class="lo-reference" document="m68086"/>Power Corp. makes 2 products: blades for table saws and blades for handsaws. Each product passes through the sharpening machine area, which is the chief constraint during production. Handsaw blades take 15 minutes on the sharpening machine and have a contribution margin per blade of $15. Table saw blades take 20 minutes on the sharpening machine and have a contribution margin per blade of $35. If it is assumed that Power Corp. has 5,000 hours available on the sharpening machine to service a minimum demand for each product of 4,000 units, how many of each product should be made?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm216238528" class="problem-set-a">
+<exercise id="fs-idm201165152">
+<problem id="fs-idm209788560">
+<para id="fs-idm194530144"><link class="lo-reference" document="m68086"/>At Gems in the Rough, a jewelry company, the engraving department is a bottleneck. The company is considering hiring an extra worker, whose salary will be $56,000 per year, to ease the problem. Using the extra worker, the company will be able to engrave 8,000 more units per year. The selling price per unit is $16. The cost per unit currently is $11.85 as shown:</para>
+<media id="fs-idm215471200" alt="Direct material $4.50. Direct labor $2.10. Variable overhead $1.45. Fixed overhead (primarily depreciation of equipment) $3.80. Equals a total of $11.85.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_06_PA01_img.jpg"/>
+</media>
+<para id="fs-idm201037984">What is the annual financial impact of hiring the extra worker for the bottleneck process?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm217591584">
+<problem id="fs-idm196517648">
+<para id="fs-idm212903664"><link class="lo-reference" document="m68086"/>Sports Specialists makes baseballs and softballs in a three-step process. Unfortunately, the sewing machine process has been identified as a bottleneck. Each softball has a contribution margin of $6.00 and each baseball has a contribution margin of $2.00. The sewing machine can make 10 softballs or 25 baseballs in one hour.</para>
+<list id="fs-idm203740256" list-type="enumerated" number-style="upper-alpha"><item>If demand for both products is unlimited and the sewing machine capacity cannot be expanded, which product should be produced?</item>
+<item>If demand for each ball is limited to 6,000 balls and there are 800 hours available on the machine, how many of each product should be produced?</item>
+</list></problem>
+</exercise>
+</section>
+<section id="fs-idm210781760" class="problem-set-b">
+<exercise id="fs-idm177848480">
+<problem id="fs-idm199641024">
+<para id="fs-idm200925200"><link class="lo-reference" document="m68086"/>At Stardust Gems, a faux gem and jewelry company, the setting department is a bottleneck. The company is considering hiring an extra worker, whose salary will be $67,000 per year, to ease the problem. Using the extra worker, the company will be able to produce and sell 9,000 more units per year. The selling price per unit is $20. The cost per unit currently is $15.85 as shown:</para>
+<media id="fs-idm209819744" alt="Direct material $5.50. Direct labor $3.10. Variable overhead $2.45. Fixed overhead (primarily depreciation of equipment) $4.80. Equals a total of $15.85.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_06_PB01_img.jpg"/>
+</media>
+<para id="fs-idm198398640">What is the annual financial impact of hiring the extra worker for the bottleneck process?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm216472192">
+<problem id="fs-idm214970800">
+<para id="fs-idm223436320"><link class="lo-reference" document="m68086"/>Sports Buffs makes basketballs and footballs in a three-step process. Unfortunately, the stem insertion process has been identified as a bottleneck. Each basketball has a contribution margin of $15.00 and each football has a contribution margin of $4.00. The stem insertion equipment can make 10 basketballs or 30 footballs in one hour.</para>
+<list id="fs-idm204112496" list-type="enumerated" number-style="upper-alpha">
+<item>If demand for both products is unlimited and the stem insertion machine capacity cannot be expanded, which product should be produced?</item>
+<item>If demand for each ball is limited to 30,000 balls and there are 4,000 hours available on the machine, how many of each product should be produced?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm212921680" class="thought-provokers">
+<exercise id="fs-idm197033408">
+<problem id="fs-idm218920352">
+<para id="fs-idm215076736"><link class="lo-reference" document="m68086"/>Akimoto’s Bicycle Co assembles three types of bicycles: Charger, Sublime, Kidde. Due to their residential location they operate with one 8 hour shift, 5 days per week, 50 weeks a year. Balancing the bikes is the bottleneck. The information about production time and costs for these three bicycles are:</para>
+<media id="fs-idm224024080" alt="Charger, Sublime, and Kidde, respectively: Hours to produce 2, 1.75, 0.5; Selling price $600, $300, $200; Direct material $100, $75, $50; Direct labor $150, $100, $75; Variable overhead $50, $25, $25; Fixed overhead $25, $25, $20.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_06_TP_img.jpg"/>
+</media>
+<list id="fs-idm198380112" list-type="enumerated" number-style="upper-alpha">
+<item>How many of each bicycle should be produced to maximize profits?</item>
+<item>What qualitative factors would you need to consider?</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm214598256">
+<term>bottleneck</term>
+<meaning id="fs-idm199490224">point at which a constraint slows production</meaning>
+</definition>
+<definition id="fs-idm196206288">
+<term>constraint</term>
+<meaning id="fs-idm216492928">scarce resource that limits output or productive capacity of an organization</meaning>
+</definition>
+<definition id="fs-idm207219936">
+<term>unit contribution margin</term>
+<meaning id="fs-idm178771168">selling price per unit minus variable cost per unit</meaning>
+</definition>
+<definition id="fs-idm203619232">
+<term>unit contribution margin per production restraint</term>
+<meaning id="fs-idm224966528">unit contribution margin divided by the production restrain</meaning>
+</definition>
+</glossary>
+</document>

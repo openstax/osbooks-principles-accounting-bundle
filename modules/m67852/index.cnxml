@@ -1,0 +1,223 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Use the Ledger Balances to Prepare an Adjusted Trial Balance</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67852</md:content-id>
+  <md:title>Use the Ledger Balances to Prepare an Adjusted Trial Balance</md:title>
+  <md:abstract/>
+  <md:uuid>0b0ca318-7e6e-4d86-8dad-d7fef8676492</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm330316272">Once all of the adjusting entries have been posted to the general ledger, we are ready to start working on preparing the adjusted trial balance. Preparing an adjusted trial balance is the sixth step in the accounting cycle. An <term>adjusted trial balance</term> is a list of all accounts in the general ledger, including adjusting entries, which have nonzero balances. This trial balance is an important step in the accounting process because it helps identify any computational errors throughout the first five steps in the cycle.</para>
+<para id="fs-idm355737344">As with the unadjusted trial balance, transferring information from T-accounts to the adjusted trial balance requires consideration of the final balance in each account. If the final balance in the ledger account (T-account) is a debit balance, you will record the total in the left column of the trial balance. If the final balance in the ledger account (T-account) is a credit balance, you will record the total in the right column.</para>
+<para id="fs-idm358876416">Once all ledger accounts and their balances are recorded, the debit and credit columns on the adjusted trial balance are totaled to see if the figures in each column match. The final total in the debit column must be the same dollar amount that is determined in the final credit column.</para>
+<para id="fs-idm362494256">Let’s now take a look at the adjusted T-accounts and adjusted trial balance for Printing Plus to see how the information is transferred from these T-accounts to the adjusted trial balance. We only focus on those general ledger accounts that had balance adjustments.</para>
+<media id="fs-idm364896048" alt="Printing Plus Adjusted Trial Balance, January 31, 2019. Debit accounts: Cash $24,800; Accounts Receivable 1,200; Interest Receivable 140; Supplies 400; Equipment 3,500; Dividends 100; Supplies Expense 100; Depreciation Expense Equipment 75; Salaries Expense 5,100; Utility Expense 300; Total Debits $35,715. Credit accounts: Accumulated Depreciation: Equipment 75; Accounts Payable 500; Salaries Payable 1,500; Unearned Revenue 3,400; Common Stock 20,000; Interest Revenue 140; Service Revenue 10,100; Total Credits $35,715. To the right of the adjusted trial balance are ten T-accounts, highlighting the January 31 adjusting entries, with lines connecting the balances of the T-accounts to the adjusted trial balance. The ten T-accounts, in order, are: Interest Receivable, debit balance 140. Supplies, debit balance 400. Accumulated Depreciation: Equipment, credit balance 75. Salaries Payable, credit balance 1,500. Unearned Revenue, credit balance 3,400. Service Revenue, credit balance 10,100. Interest Revenue, credit balance 140. Supplies Expense, debit balance 100. Salaries Expense, debit balance 5,100. Depreciation Expense Equipment, debit balance 75.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_04_ATB01_img.jpg"/>
+</media>
+<para id="fs-idm372637568">For example, Interest Receivable is an adjusted account that has a final balance of $140 on the debit side. This balance is transferred to the Interest Receivable account in the debit column on the adjusted trial balance. Supplies ($400), Supplies Expense ($100), Salaries Expense ($5,100), and Depreciation Expense–Equipment ($75) also have debit final balances in their adjusted T-accounts, so this information will be transferred to the debit column on the adjusted trial balance. Accumulated Depreciation–Equipment ($75), Salaries Payable ($1,500), Unearned Revenue ($3,400), Service Revenue ($10,100), and Interest Revenue ($140) all have credit final balances in their T-accounts. These credit balances would transfer to the credit column on the adjusted trial balance.</para>
+<para id="fs-idm306394912">Once all balances are transferred to the adjusted trial balance, we sum each of the debit and credit columns. The debit and credit columns both total $35,715, which means they are equal and in balance.</para>
+<media id="fs-idm344625056" alt="Printing Plus Adjusted Trial Balance, January 31, 2019. Debit accounts: Cash $24,800; Accounts Receivable 1,200; Interest Receivable 140; Supplies 400; Equipment 3,500; Dividends 100; Supplies Expense 100; Depreciation Expense: Equipment 75; Salaries Expense 5,100; Utility Expense 300; Total Debits $35,715. Credit accounts: Accumulated Depreciation: Equipment 75; Accounts Payable 500; Salaries Payable 1,500; Unearned Revenue 3,400; Common Stock 20,000; Interest Revenue 140; Service Revenue 10,100; Total Credits $35,715.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_04_ATB02_img.jpg"/>
+</media>
+<para id="fs-idm365968672">After the adjusted trial balance is complete, we next prepare the company’s financial statements.</para>
+<note id="fs-idm315505088" class="think-through">
+<title>Cash or Accrual Basis Accounting?</title>
+<para id="fs-idm306253456">You are a new accountant at a salon. The salon had previously used cash basis accounting to prepare its financial records but now considers switching to an accrual basis method. You have been tasked with determining if this transition is appropriate.</para>
+<para id="fs-idm341526384">When you go through the records you notice that this transition will greatly impact how the salon reports revenues and expenses. The salon will now report some revenues and expenses before it receives or pays cash.</para>
+<para id="fs-idm358892352">How will change positively impact its business reporting? How will it negatively impact its business reporting? If you were the accountant, would you recommend the salon transition from cash basis to accrual basis?</para>
+</note>
+<note id="fs-idm370664160" class="concepts-practice">
+<title>Why Is the Adjusted Trial Balance So Important?</title>
+<para id="fs-idm360077424">As you have learned, the adjusted trial balance is an important step in the accounting process. But outside of the accounting department, why is the adjusted trial balance important to the rest of the organization? An employee or customer may not immediately see the impact of the adjusted trial balance on his or her involvement with the company.</para>
+<para id="fs-idm357101520">The adjusted trial balance is the key point to ensure all debits and credits are in the general ledger accounts balance before information is transferred to financial statements. Financial statements drive decision-making for a business. Budgeting for employee salaries, revenue expectations, sales prices, expense reductions, and long-term growth strategies are all impacted by what is provided on the financial statements.</para>
+<para id="fs-idm360711072">So if the company skips over creating an adjusted trial balance to make sure all accounts are balanced or adjusted, it runs the risk of creating incorrect financial statements and making important decisions based on inaccurate financial information.</para>
+</note>
+<section id="fs-idm360984320" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm361972048" list-type="bulleted" bullet-style="bullet">
+<item>Adjusted trial balance: The adjusted trial balance lists all accounts in the general ledger, including adjusting entries, which have nonzero balances. This trial balance is an important step in the accounting process because it helps identify any computational errors throughout the first five steps in the cycle.</item>
+</list>
+</section>
+<section id="fs-idm309064848" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm343131664">
+<problem id="fs-idm364527584">
+<para id="fs-idm306637040"><link class="lo-reference" document="m67852"/>What critical purpose does the adjusted trial balance serve?</para>
+<list id="fs-idm631774464" list-type="enumerated" number-style="upper-alpha">
+<item>It proves that transactions have been posted correctly</item>
+<item>It is the source document from which to prepare the financial statements</item>
+<item>It shows the beginning balances of every account, to be used to start the new year’s records</item>
+<item>It proves that all journal entries have been made correctly.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm355329344">
+<problem id="fs-idm360289360">
+<para id="fs-idm632015184"><link class="lo-reference" document="m67852"/>Which of the following accounts’ balance would be a different number on the Balance Sheet than it is on the adjusted trial balance?</para>
+<list id="fs-idm315167712" list-type="enumerated" number-style="upper-alpha">
+<item>accumulated depreciation</item>
+<item>unearned service revenue</item>
+<item>retained earnings</item>
+<item>dividends</item>
+</list>
+</problem>
+<solution id="fs-idm361841648">
+<para id="fs-idm629130464">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm364387264" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm631582160">
+<problem id="fs-idm361550432">
+<para id="fs-idm364026192"><link class="lo-reference" document="m67852"/>What is the difference between the trial balance and the adjusted trial balance?</para>
+</problem>
+<solution id="fs-idm356079376">
+<para id="fs-idm632348272">The adjusted trial balance is the summary of account balances after the adjustments have been posted, so it reflects the corrected balances of all accounts.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm314642432">
+<problem id="fs-idm343618656">
+<para id="fs-idm627266720"><link class="lo-reference" document="m67852"/>Why is the adjusted trial balance trusted as a reliable source for building the financial statements?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm366363696" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm342958368">
+<problem id="fs-idm372838176">
+<para id="fs-idm366165232"><link class="lo-reference" document="m67852"/>Prepare an adjusted trial balance from the following adjusted account balances (assume accounts have normal balances).</para>
+<media id="fs-idm306505216" class="scaled-down-30" alt="Accounts Payable 6,600; Accounts Receivable 12,750; Administrative Expense 49,150; Cash 28,900; Common Stock 15,000; Prepaid Insurance 8,800; Service Revenue 78,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_04_EA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm365172160">
+<problem id="fs-idm363958128">
+<para id="fs-idm372922272"><link class="lo-reference" document="m67852"/>Prepare an adjusted trial balance from the following account information, considering the adjustment data provided (assume accounts have normal balances).</para>
+<media id="fs-idm319127408" class="scaled-down-30" alt="Accounts Payable 11,700; Accounts Receivable 17,100; Administrative Expense 54,800; Cash 44,800; Common Stock 30,000; Prepaid Insurance 16,000; Service Revenue 91,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_04_EA02_img.jpg"/>
+</media>
+<para id="fs-idm631945216">Adjustments needed:</para>
+<para id="fs-idm309199088">Salaries due to administrative employees, but unpaid at period end, $2,000</para>
+<para id="fs-idm628963248">Insurance still unexpired at end of the period, $12,000</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm355930096" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm631022048">
+<problem id="fs-idm322957824">
+<para id="fs-idm363901648"><link class="lo-reference" document="m67852"/>Prepare an adjusted trial balance from the following adjusted account balances (assume accounts have normal balances).</para>
+<media id="fs-idm359216816" class="scaled-down-30" alt="Accounts Payable 22,400; Accounts Receivable 45,750; Administrative Expense 57,700; Cash 56,500; Common Stock 40,000; Prepaid Rent 8,750; Revenue 106,300.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_04_EB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm370680048">
+<problem id="fs-idm315588080">
+<para id="fs-idm368386320"><link class="lo-reference" document="m67852"/>Prepare an adjusted trial balance from the following account information, considering the adjustment data provided (assume accounts have normal balances).</para>
+<media id="fs-idm359294768" class="scaled-down-30" alt="Accounts Payable 10,075; Accounts Receivable 15,500; Cash 64,575; Common Stock 31,000; Fees Earned Revenue 82,000; Operating Expense 38,000; Supplies 5,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_04_EB02_img.jpg"/>
+</media>
+<para id="fs-idm357576960">Adjustments needed:</para>
+<list id="fs-idm632381584" list-type="bulleted">
+<item>Physical count of supplies inventory remaining at end of period, $2,150</item>
+<item>Taxes payable at end of period, $3,850</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm360902672" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm363673312">
+<problem id="fs-idm364266256">
+<para id="fs-idm364853296"><link class="lo-reference" document="m67852"/>Prepare an adjusted trial balance from the adjusted account balances; solve for the one missing account balance: Cash (assume accounts have normal balances).</para>
+<media id="fs-idm319066320" class="scaled-down-30" alt="Accounts Payable 19,000; Accounts Receivable 23,760; Cash ?; Common Stock 38,000; Dividends 9,000; Equipment 20,000; Prepaid Insurance 21,466; Land 45,000; Notes Payable 61,000; Retained Earnings 18,815; Insurance Expense 19,689; Service Revenue 90,550; Supplies 5,250; Salaries Expense 51,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_04_PA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm315297920">
+<problem id="fs-idm323169200">
+<para id="fs-idm365140352"><link class="lo-reference" document="m67852"/>Prepare an adjusted trial balance from the following account information, considering the adjustment data provided (assume accounts have normal balances). Equipment was recently purchased, so there is neither depreciation expense nor accumulated depreciation.</para>
+<media id="fs-idm630897600" class="scaled-down-30" alt="Accounts Payable 9,500; Accounts Receivable 14,260; Cash 22,222; Common Stock 30,000; Dividends 5,000; Equipment 12,000; Prepaid Insurance 25,444; Land 20,000; Notes Payable 26,000; Retained Earnings 12,815; Insurance Expense 12,689; Service Revenue 89,550; Supplies 2,750; Salaries Expense 53,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_04_PA02_img.jpg"/>
+</media>
+<para id="fs-idm359904352">Adjustments needed:</para>
+<list id="fs-idm360858032" list-type="bulleted">
+<item>Salaries due to employees, but unpaid at the end of the period, $2,000</item>
+<item>Insurance still unexpired at end of the period, $12,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm623482960">
+<problem id="fs-idm360826352">
+<para id="fs-idm368141168"><link class="lo-reference" document="m67852"/>Prepare an adjusted trial balance from the following account information, and also considering the adjustment data provided (assume accounts have normal balances). Equipment was recently purchased, so there is neither depreciation expense nor accumulated depreciation.</para>
+<media id="fs-idm360010752" class="scaled-down-30" alt="Accounts Payable 26,000; Accounts Receivable 8,000; Cash 29,000; Common Stock 33,000; Dividends 9,000; Equipment 68,000; Notes Payable (due next month) 29,000; Salaries Expense 42,000; Salaries Payable 2,000; Service Revenue 75,000; Supplies 5,000; Transportation Expense 4,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_04_PA03_img.jpg"/>
+</media>
+<para id="fs-idm356807360">Adjustments needed:</para>
+<list id="fs-idm628799552" list-type="bulleted">
+<item>Remaining unpaid Salaries due to employees at the end of the period, $0</item>
+<item>Accrued Interest Payable at the end of the period, $7,700</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm344621872" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm371051056">
+<problem id="fs-idm360944608">
+<para id="fs-idm356154688"><link class="lo-reference" document="m67852"/>Prepare an adjusted trial balance from the adjusted account balances; solve for the one missing account balance: Dividends (assume accounts have normal balances). Equipment was recently purchased, so there is neither depreciation expense nor accumulated depreciation.</para>
+<media id="fs-idm361711184" class="scaled-down-30" alt="Accounts Payable 9,000; Accounts Receivable 16,032; Cash 20,450; Common Stock 24,000; Dividends ?; Equipment 29,000; Prepaid Insurance 9,444; Land 34,000; Notes Payable 8,000; Retained Earnings 31,315; Insurance Expense 12,689; Service Revenue 82,500; Supplies 9,700; Salaries Expense 51,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_04_PB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm365094464">
+<problem id="fs-idm322775440">
+<para id="fs-idm356075264"><link class="lo-reference" document="m67852"/>Prepare an adjusted trial balance from the following account information, considering the adjustment data provided (assume accounts have normal balances). Building and Equipment were recently purchased, so there is neither depreciation expense nor accumulated depreciation.</para>
+<media id="fs-idm367123120" class="scaled-down-30" alt="Accounts Payable 3,600; Accounts Receivable 45,333; Building 156,000; Cash 50,480; Common Stock 110,000; Dividends 18,000; Equipment 33,500; Fees Earned Revenue 225,430; Land 18,000; Supplies Expense 5,123; Notes Payable 85,500; Retained Earnings 60,606; Salaries Expense 151,900; Supplies 6,800.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_04_PB02_img.jpg"/>
+</media>
+<para id="fs-idm641023296">Adjustments needed:</para>
+<list id="fs-idm320199392" list-type="bulleted">
+<item>Physical count of supplies inventory remaining at end of period, $3,300</item>
+<item>Customer fees collected in advance (payments were recorded as Fees Earned), $18,500</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm319137424">
+<problem id="fs-idm306401088">
+<para id="fs-idm363895152"><link class="lo-reference" document="m67852"/>Prepare an adjusted trial balance from the following account information, and also considering the adjustment data provided (assume accounts have normal balances).</para>
+<media id="fs-idm360287440" class="scaled-down-30" alt="Accounts Payable 18,000; Accounts Receivable 4,000; Investments 88,000; Cash 19,000; Common Stock 30,000; Dividends 16,000; Prepaid Insurance 20,000; Insurance Expense 8,000; Land 26,000; Notes Payable (long term) 55,000; Salaries Expense 37,000; Sales Revenue 115,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_04_PB03_img.jpg"/>
+</media>
+<para id="fs-idm359230160">Adjustments needed:</para>
+<list id="fs-idm345664224" list-type="bulleted">
+<item>Accrued interest revenue on investments at period end, $2,200</item>
+<item>Insurance still unexpired at end of the period, $12,000</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm319926704" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm347128832">
+<problem id="fs-idm306599536">
+<para id="fs-idm319894960"><link class="lo-reference" document="m67852"/>Assume you are employed as the chief financial officer of a corporation and are responsible for preparation of the financial statements, including the adjusting process and preparation of the adjusted trial balance. The company is facing a slow year, and after your adjusting entries, the financial statements are accurately reflecting that fact. However, as you are discussing the matter with your boss, the chief executive officer (CEO), he suggests that you have the power to make further adjustments to the statements, and that you should use that power to “adjust” the profits and equity into a stronger position, so that investor confidence in the company’s prospects will be restored.</para>
+<para id="fs-idm325571424">Write a short memo to the CEO, stating your intentions about what you can and/or will do to make the financial statements more appealing. Be specific about any planned adjustments that could be made, assuming that normal period-end adjustments have already been reflected accurately in the financial statements that you prepared.</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm365985360">
+<term>adjusted trial balance</term>
+<meaning id="fs-idm360890304">list of all accounts in the general ledger, including adjusting entries, which have nonzero balances</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,570 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Explain the Process of Securing Equity Financing through the Issuance of Stock</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67917</md:content-id>
+  <md:title>Explain the Process of Securing Equity Financing through the Issuance of Stock</md:title>
+  <md:abstract/>
+  <md:uuid>539fea66-9241-4852-b683-5f93818f5b98</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm282636624">A <term>corporation</term> is a legal business structure involving one or more individuals (owners) who are legally distinct (separate) from the business that is created under state laws. The owners of a corporation are called <term>stockholders</term> (or shareholders) and may or may not be employees of the corporation. Most corporations rely on a combination of debt (liabilities) and equity (stock) to raise capital. Both debt and equity financing have the goal of obtaining funding, often referred to as capital, to be used to acquire other assets needed for operations or expansion. <term>Capital</term> consists of the total cash and other assets owned by a company found on the left side of the accounting equation. The method of financing these assets is evidenced by looking at the right side of the accounting equation, either recorded as liabilities or shareholders’ equity.</para>
+<section id="fs-idm284124368">
+<title>The Organization of a Corporation</title>
+<para id="fs-idm276879520"><term>Incorporation</term> is the process of forming a company into a corporate legal entity. The advantages of incorporating are available to a corporation regardless of size, from a corporation with one shareholder to those with hundreds of thousands of shareholders. To issue stock, an entity must first be incorporated in a state.</para>
+<para id="fs-idm270782784">The process of incorporating requires filing the appropriate paperwork and receiving approval from a governmental entity to operate as a corporation. Each state has separate requirements for creating a corporation, but ultimately, each state grants a corporation the right to conduct business in the respective state in which the corporation is formed. The steps to incorporate are similar in most states:</para>
+<list id="fs-idm277962688" list-type="enumerated" number-style="arabic">
+<item>The founders (incorporators) choose an available business name that complies with the state’s corporation rules. A state will not allow a corporation to choose a name that is already in use or that has been in use in recent years. Also, similar names might be disallowed.</item>
+<item>The founders of a corporation prepare <term>articles of incorporation</term> called a “charter,” which defines the basic structure and purpose of the corporation and the amount of capital stock that can be issued or sold.</item>
+<item>The founders file the articles of incorporation with the Department of State of the state in which the incorporation is desired. Once the articles are filed and any required fees are paid, the government approves the incorporation.</item>
+<item>The incorporators hold an organizational meeting to elect the board of directors. Board meetings must be documented with formal board minutes (a written record of the items discussed, decisions made, and action plans resulting from the meeting). The board of directors generally meets at least annually. <emphasis class="colored-text">Microsoft</emphasis>, for example, has 14 directors on its board.<footnote id="fs-idm277480864">Microsoft Corporation. “Board of Directors.” https://www.microsoft.com/en-us/Investor/corporate-governance/board-of-directors.aspx</footnote> Boards may have more or fewer directors than this, but most boards have a minimum of at least three directors.</item>
+<item>The board of directors prepares and adopts corporate bylaws. These bylaws lay out the operating rules for the corporation. Templates for drawing up corporate bylaws are usually available from the state to ensure that they conform with that state’s requirements.</item>
+<item>The board of directors agrees upon a par value price for the stock. Par value is a legal concept discussed later in this section. The price that the company receives (the initial market value) will be determined by what the purchasing public is willing to pay. For example, the company might set the par value at $1 per share, while the investing public on the day of issuance might be willing to pay $30 per share for the stock.</item>
+</list>
+<note id="fs-idm277883728" class="concepts-practice">
+<title>Deciding Where to Incorporate</title>
+<para id="fs-idm278745808">With 50 states to choose from, how do corporations decide where to incorporate? Many corporations are formed in either Delaware or Nevada for several reasons. Delaware is especially advantageous for large corporations because it has some of the most flexible business laws in the nation and its court system has a division specifically for handling business cases that operates without juries. Additionally, companies formed in Delaware that do not transact business in the state do not need to pay state corporate income tax. Delaware imposes no personal tax for non-residents, and shareholders can be non-residents. In addition, stock shares owned by non-Delaware residents are not subject to Delaware state taxation.</para>
+<para id="fs-idm272254480">Because of these advantages, Delaware dominated the share of business incorporation for several decades. In recent years, though, other states are seeking to compete for these businesses by offering similarly attractive benefits of incorporation. Nevada in particular has made headway. It has no state corporate income tax and does not impose any fees on shares or shareholders. After the initial set up fees, Nevada has no personal or franchise tax for corporations or their shareholders. Nevada, like Delaware, does not require shareholders to be state residents. If a corporation chooses to incorporate in Delaware, Nevada, or any state that is not its home state, it will need to register to do business in its home state. Corporations that transact in states other than their state of incorporation are considered <emphasis effect="italics">foreign</emphasis> and may be subject to fees, local taxes, and annual reporting requirements that can be time consuming and expensive.</para>
+</note>
+</section>
+<section id="fs-idm269600784">
+<title>Advantages of the Corporate Form</title>
+<para id="fs-idm273112880">Compared to other forms of organization for businesses, corporations have several advantages. A corporation is a separate legal entity, it provides limited liability for its owner or owners, ownership is transferable, it has a continuing existence, and capital is generally easy to raise.</para>
+<section id="fs-idm262352416">
+<title>Separate Legal Entity</title>
+<para id="fs-idm262351776">A sole proprietorship, a partnership, and a corporation are different types of business entities. However, only a corporation is a legal entity. As a separate legal entity, a corporation can obtain funds by selling shares of stock, it can incur debt, it can become a party to a contract, it can sue other parties, and it can be sued. The owners are separate from the corporation. This separate legal status complies with one of the basic accounting concepts—the <term>accounting entity concept</term>, which indicates that the economic activity of an entity (the corporation) must be kept separate from the personal financial affairs of the owners.</para>
+</section>
+<section id="fs-idm270231216">
+<title>Limited Liability</title>
+<para id="fs-idm274105632">Many individuals seek to incorporate a business because they want the protection of <term class="no-emphasis">limited liability</term>. A corporation usually limits the liability of an investor to the amount of his or her investment in the corporation. For example, if a corporation enters into a loan agreement to borrow a sum of money and is unable to repay the loan, the lender cannot recover the amount owed from the shareholders (owners) unless the owners signed a personal guarantee. This is the opposite of partnerships and sole proprietorships. In partnerships and sole proprietorships, the owners can be held responsible for any unpaid financial obligations of the business and can be sued to pay obligations.</para>
+</section>
+<section id="fs-idm268358448">
+<title>Transferable Ownership</title>
+<para id="fs-idm268357808">Shareholders in a corporation can transfer shares to other parties without affecting the corporation’s operations. In effect, the transfer takes place between the parties outside of the corporation. In most corporations, the company generally does not have to give permission for shares to be transferred to another party. No journal entry is recorded in the corporation’s accounting records when a shareholder sells his or her stock to another shareholder. However, a memo entry must be made in the corporate stock ownership records so any dividends can be issued to the correct shareholder.</para>
+</section>
+<section id="fs-idm269689984">
+<title>Continuing Existence</title>
+<para id="fs-idm271166192">From a legal perspective, a corporation is granted existence forever with no termination date. This legal aspect falls in line with the basic accounting concept of the <term>going concern assumption</term>, which states that absent any evidence to the contrary, a business will continue to operate in the indefinite future. Because ownership of shares in a corporation is transferrable, re-incorporation is not necessary when ownership changes hands. This differs from a partnership, which ends when a partner dies, or from a sole proprietorship, which ends when the owner terminates the business.</para>
+</section>
+<section id="fs-idm269641040">
+<title>Ease of Raising Capital</title>
+<para id="fs-idm271847872">Because shares of stock can be easily transferred, corporations have a sizeable market of investors from whom to obtain capital. More than 65 million American households<footnote id="fs-idm270255312">Financial Samurai. “What Percent of Americans Hold Stocks?” February 18, 2019. https://www.financialsamurai.com/what-percent-of-americans-own-stocks/</footnote> hold investments in the securities markets. Compared to sole proprietorships (whose owners must obtain loans or invest their own funds) or to partnerships (which must typically obtain funds from the existing partners or seek other partners to join; although some partnerships are able borrow from outside parties), a corporation will find that capital is relatively easy to raise.</para>
+</section>
+</section>
+<section id="fs-idm270969184">
+<title>Disadvantages of the Corporate Form</title>
+<para id="fs-idm270968544">As compared to other organizations for businesses, there are also disadvantages to operating as a corporation. They include the costs of organization, regulation, and taxation.</para>
+<section id="fs-idm270967968">
+<title>Costs of Organization</title>
+<para id="fs-idm270967328">Corporations incur costs associated with organizing the corporate entity, which include attorney fees, promotion costs, and filing fees paid to the state. These costs are debited to an account called <term>organization costs</term>. Assume that on January 1, Rayco Corporation made a payment for $750 to its attorney to prepare the incorporation documents and paid $450 to the state for filing fees. Rayco also incurred and paid $1,200 to advertise and promote the stock offering. The total organization costs are $2,400 ($750 + $450 + $1,200). The journal entry recorded by Rayco is a $2,400 debit to Organization Costs and a $2,400 credit to Cash.</para>
+<media id="fs-idm273723760" alt="Journal entry for January 1: Debit Organization Costs Expense for 2,400 and credit Cash for 2,400. Explanation: “To record organization costs.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_01_Journ01_img.jpg"/>
+</media>
+<para id="fs-idm270854432">Organization costs are reported as part of the operating expenses on the corporation’s income statement.</para>
+</section>
+<section id="fs-idm272148080">
+<title>Regulation</title>
+<para id="fs-idm277712672">Compared to partnerships and sole proprietorships, corporations are subject to considerably more regulation both by the states in which they are incorporated and the states in which they operate. Each state provides limits to the powers that a corporation may exercise and specifies the rights and liabilities of shareholders. The <term>Securities and Exchange Commission (SEC)</term> is a federal agency that regulates corporations whose shares are listed and traded on security exchanges such as the New York Stock Exchange (NYSE), the National Association of Securities Dealers Automated Quotations Exchange (NASDAQ), and others; it accomplishes this through required periodic filings and other regulations. States also require the filing of periodic reports and payment of annual fees.</para>
+</section>
+<section id="fs-idm273721936">
+<title>Taxation</title>
+<para id="fs-idm270638896">As legal entities, typical corporations (C corporations, named after the specific subchapter of the Internal Revenue Service code under which they are taxed), are subject to federal and state income taxes (in those states with corporate taxes) based on the income they earn. Stockholders are also subject to income taxes, both on the dividends they receive from corporations and any gains they realize when they dispose of their stock. The income taxation of both the corporate entity’s income and the stockholder’s dividend is referred to as <term>double taxation</term> because the income is taxed to the corporation that earned the income and then taxed again to stockholders when they receive a distribution of the corporation’s income.</para>
+<para id="fs-idm278749520">Corporations that are closely held (with fewer than 100 stockholders) can be classified as S corporations, so named because they have elected to be taxed under subchapter S of the Internal Revenue Service code. For the most part, S corporations pay no income taxes because the income of the corporation is divided among and passed through to each of the stockholders, each of whom pays income taxes on his or her share. Both Subchapter S (Sub S) and similar Limited Liability Companies (LLCs) are not taxed at the business entity but instead pass their taxable income to their owners.</para>
+</section>
+</section>
+<section id="fs-idm270141280">
+<title>Financing Options: Debt versus Equity</title>
+<para id="fs-idm276977680">Before exploring the process for securing corporate financing through equity, it is important to review the advantages and disadvantages of acquiring capital through debt. When deciding whether to raise capital by issuing debt or equity, a corporation needs to consider dilution of ownership, repayment of debt, cash obligations, budgeting impacts, administrative costs, and credit risks.</para>
+<section id="fs-idm270062608">
+<title>Dilution of Ownership</title>
+<para id="fs-idm270061968">The most significant consideration of whether a company should seek funding using debt or equity financing is the effect on the company’s financial position. Issuance of debt does not dilute the company’s ownership as no additional ownership shares are issued. Issuing debt, or borrowing, creates an increase in cash, an asset, and an increase in a liability, such as notes payable or bonds payable. Because borrowing is independent of an owner’s ownership interest in the business, it has no effect on stockholders’ equity, and ownership of the corporation remains the same as illustrated in the accounting equation in <link target-id="OSX_Acct_F14_01_IssueDebt"/>.</para>
+<figure id="OSX_Acct_F14_01_IssueDebt" class="scaled-down">
+<media id="fs-idm265673856" alt="Assets equals Liabilities plus Stockholders’ Equity. There is an arrow showing an increase in assets and an arrow showing an increase in Liabilities, with no effect on Stockholders’ Equity.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_01_IssueDebt.jpg"/>
+</media>
+<caption>Debt Financing. Debt financing increases assets and liabilities but has no effect on stockholders’ equity. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm269116320">On the other hand, when a corporation issues stock, it is financing with equity. The same increase in cash occurs, but financing causes an increase in a capital stock account in stockholders’ equity as illustrated in the accounting equation in <link target-id="OSX_Acct_F14_01_IssueEq"/>.</para>
+<figure id="OSX_Acct_F14_01_IssueEq" class="scaled-down">
+<media id="fs-idm269168048" alt="Assets equals Liabilities plus Stockholders’ Equity. There is an arrow showing an increase in assets, no effect on Liabilities, and an arrow showing an increase in Stockholders’ Equity.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_01_IssueEq.jpg"/>
+</media>
+<caption>Equity Financing. Equity financing increases assets and stockholders’ equity but has no effect on liabilities. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm274119952">This increase in stockholders’ equity implies that more shareholders will be allowed to vote and will participate in the distribution of profits and assets upon liquidation.</para>
+</section>
+<section id="fs-idm262365872">
+<title>Repayment of Debt</title>
+<para id="fs-idm262365232">A second concern when choosing between debt and equity financing relates to the repayment to the lender. A lender is a debt holder entitled to repayment of the original principal amount of the loan plus interest. Once the debt is paid, the corporation has no additional obligation to the lender. This allows owners of a corporation to claim a larger portion of the future earnings than would be possible if more stock were sold to investors. In addition, the interest component of the debt is an expense, which reduces the amount of income on which a company’s income tax liability is calculated, thereby lowering the corporation’s tax liability and the actual cost of the loan to the company.</para>
+</section>
+<section id="fs-idm269704720">
+<title>Cash Obligations</title>
+<para id="fs-idm275161280">The most obvious difference between debt and equity financing is that with debt, the principal and interest must be repaid, whereas with equity, there is no repayment requirement. The decision to declare dividends is solely up to the board of directors, so if a company has limitations on cash, it can skip or defer the declaration of dividends. When a company obtains capital through debt, it must have sufficient cash available to cover the repayment. This can put pressure on the company to meet debt obligations when cash is needed for other uses.</para>
+</section>
+<section id="fs-idm275432752">
+<title>Budgeting</title>
+<para id="fs-idm284015424">Except in the case of variable interest loans, loan and interest payments are easy to estimate for the purpose of budgeting cash payments. Loan payments do not tend to be flexible; instead the principal payment is required month after month. Moreover, interest costs incurred with debt are an additional fixed cost to the company, which raises the company’s break-even point (total revenue equals total costs) as well as its cash flow demands.</para>
+</section>
+<section id="fs-idm275006320">
+<title>Cost Differences</title>
+<para id="fs-idm271118192">Issuing debt rather than equity may reduce additional administration costs associated with having additional shareholders. These costs may include the costs for informational mailings, processing and direct-depositing dividend payments, and holding shareholder meetings. Issuing debt also saves the time associated with shareholder controversies, which can often defer certain management actions until a shareholder vote can be conducted.</para>
+</section>
+<section id="fs-idm276835952">
+<title>Risk Assessment by Creditors</title>
+<para id="fs-idm268334128">Borrowing commits the borrower to comply with debt covenants that can restrict both the financing options and the opportunities that extend beyond the main business function. This can limit a company’s vision or opportunities for change. For example, many debt covenants restrict a corporation’s <term>debt-to-equity ratio</term>, which measures the portion of debt used by a company relative to the amount of stockholders’ equity, calculated by dividing total debt by total equity.</para>
+<media id="fs-idm271946768" class="scaled-down-30" alt="Debt-to-Equity Ratio equals Total Debt divided by Total Equity.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_01_Eq01_img.jpg"/>
+</media>
+<para id="fs-idm269146416">When a company borrows additional funds, its total debt (the numerator) rises. Because there is no change in total equity, the denominator remains the same, causing the debt-to-equity ratio to increase. Because an increase in this ratio usually means that the company will have more difficulty in repaying the debt, lenders and investors consider this an added risk. Accordingly, a business is limited in the amount of debt it can carry. A debt agreement may also restrict the company from borrowing additional funds.</para>
+<para id="fs-idm272452432">To increase the likelihood of debt repayment, a debt agreement often requires that a company’s assets serve as collateral, or for the company’s owners to guarantee repayment. Increased risks to the company from high-interest debt and high amounts of debt, particularly when the economy is unstable, include obstacles to growth and the potential for insolvency resulting from the costs of holding debt. These important considerations should be assessed prior to determining whether a company should choose debt or equity financing.</para>
+<note id="fs-idm283945424" class="think-through">
+<title>Financing a Business Expansion</title>
+<para id="fs-idm281975136">You are the CFO of a small corporation. The president, who is one of five shareholders, has created an innovative new product that is testing well with substantial demand. To begin manufacturing, $400,000 is needed to acquire the equipment. The corporation’s balance sheet shows total assets of $2,400,000 and total liabilities of $600,000. Most of the liabilities relate to debt that carries a covenant requiring that the company maintain a debt-to-equity ratio not exceeding 0.50 times. Determine the effect that each of the two options of obtaining additional capital will have on the debt covenant. Prepare a brief memo outlining the advantages of issuing shares of common stock.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm283165712">
+<title>How Stocks Work</title>
+<para id="fs-idm277220288">The Securities and Exchange Commission (SEC) (www.sec.gov) is a government agency that regulates large and small public corporations. Its mission is “to protect investors, maintain fair, orderly, and efficient markets, and facilitate capital formation.”<footnote id="fs-idm278808912">U.S. Securities and Exchange Commission. “What We Do.” June 10, 2013. https://www.sec.gov/Article/whatwedo.html</footnote> The SEC identifies these as its five primary responsibilities:</para>
+<list id="fs-idm283734208" list-type="bulleted" bullet-style="bullet">
+<item>Inform and protect investors</item>
+<item>Facilitate capital information</item>
+<item>Enforce federal securities laws</item>
+<item>Regulate securities markets</item>
+<item>Provide data</item>
+</list>
+<para id="fs-idm269095584">Under the <term class="no-emphasis">Securities Act of 1933</term>,<footnote id="fs-idm270229312">U.S. Securities and Exchange Commission. “Registration under the Securities Act of 1933.”  https://www.investor.gov/additional-resources/general-resources/glossary/registration-under-securities-act-1933</footnote> all corporations that make their shares available for sale publicly in the United States are expected to register with the SEC. The SEC’s registration requirement covers all securities—not simply shares of stock—including most tradable financial instruments. The Securities Act of 1933, also known as the “truth in securities law,” aims to provide investors with the financial data they need to make informed decisions. While some companies are exempt from filing documents with the SEC, those that offer securities for sale in the U.S. and that are not exempt must file a number of forms along with financial statements audited by certified public accountants.</para>
+<section id="fs-idm272344272">
+<title>Private versus Public Corporations</title>
+<para id="fs-idm273229840">Both private and public corporations become incorporated in the same manner through the state governmental agencies that handles incorporation. The journal entries and financial reporting are the same whether a company is a public or a private corporation. A <term>private corporation</term> is usually owned by a relatively small number of investors. Its shares are not publicly traded, and the ownership of the stock is restricted to only those allowed by the board of directors.</para>
+<para id="fs-idm271857680">The SEC defines a <term>publicly traded company</term> as a company that “discloses certain business and financial information regularly to the public” and whose “securities trade on public markets.”<footnote id="fs-idm274562832">U. S. Securities and Exchange Commission. “Public Companies.” https://www.investor.gov/introduction-investing/basics/how-market-works/public-companies</footnote> A company can initially operate as private and later decide to “go public,” while other companies go public at the point of incorporation. The process of going public refers to a company undertaking an <term>initial public offering (IPO)</term> by issuing shares of its stock to the public for the first time. After its IPO, the corporation becomes subject to public reporting requirements and its shares are frequently listed on a stock exchange.<footnote id="fs-idm268734624">U.S. Securities and Exchange Commission. “Companies, Going Public.” October 14, 2014. https://www.sec.gov/fast-answers/answers-comppublichtm.html</footnote></para>
+<note id="fs-idm270092128" class="concepts-practice">
+<title>Spreading the Risk</title>
+<para id="fs-idm265732480">The <emphasis class="colored-text">East India Company</emphasis> became the world’s first publicly traded company as the result of a single factor—risk. During the 1600s, single companies felt it was too risky to sail from the European mainland to the East Indies. These islands held vast resources and trade opportunities, enticing explorers to cross the Atlantic Ocean in search of fortunes. In 1600, several shipping companies joined forces and formed “Governor and Company of Merchants of London trading with the East Indies,” which was referred to as the <emphasis class="colored-text">East India Company</emphasis>. This arrangement allowed the shipping companies—the investors—to purchase shares in multiple companies rather than investing in a single voyage. If a single ship out of a fleet was lost at sea, investors could still generate a profit from ships that successfully completely their voyages.<footnote id="fs-idm281806672">Johnson Hur. “History of The Stock Market.” BeBusinessed.com. October 2016. https://bebusinessed.com/history/history-of-the-stock-market/</footnote></para>
+</note>
+</section>
+<section id="fs-idm278308208">
+<title>The Secondary Market</title>
+<para id="fs-idm273746304">A corporation’s shares continue to be bought and sold by the public after the initial public offering. Investors interested in purchasing shares of a corporation’s stock have several options. One option is to buy stock on the <term>secondary market</term>, an organized market where previously issued stocks and bonds can be traded after they are issued. Many investors purchase through stock exchanges like the New York Stock Exchange or NASDAQ using a brokerage firm. A full-service brokerage firm provides investment advice as well as a variety of financial planning services, whereas a discount brokerage offers a reduced commission and often does not provide investment advice. Most of the <term>stock trading</term>—buying and selling of shares by investors—takes place through <term>brokers</term>, registered members of the stock exchange who buy and sell stock on behalf of others. Online access to trading has broadened the secondary market significantly over the past few decades. Alternatively, stocks can be purchased from <term>investment bankers</term>, who provide advice to companies wishing to issue new stock, purchase the stock from the company issuing the stock, and then resell the securities to the public.<footnote id="fs-idm268999024">Dr. Econ. “Why Do Investment Banks Syndicate a New Securities Issue (and Related Questions).” Federal Reserve Bank of San Francisco. December 1999. https://www.frbsf.org/education/publications/doctor-econ/1999/december/investment-bank-securities-retirement-insurance/</footnote></para>
+</section>
+<section id="fs-idm281836528">
+<title>Marketing a Company’s Stock</title>
+<para id="fs-idm275027680">Once a corporation has completed the incorporation process, it can issue stock. Each share of stock sold entitles the shareholder (the investor) to a percentage of ownership in the company. Private corporations are usually owned by a small number of investors and are not traded on a public exchange. Regardless of whether the corporation is public or private, the steps to finding investors are similar:</para>
+<list id="fs-idm274434496" list-type="enumerated" number-style="arabic">
+<item>Have a trusted and reliable management team. These should be experienced professionals who can guide the corporation.</item>
+<item>Have a financial reporting system in place. Accurate financial reporting is key to providing potential investors with reliable information.</item>
+<item>Choose an investment banker to provide advice and to assist in raising capital. Investment bankers are individuals who work in a financial institution that is primarily in the business of raising capital for corporations.</item>
+<item>Write the company’s story. This adds personality to the corporation. What is the mission, why it will be successful, and what sets the corporation apart?</item>
+<item>Approach potential investors. Selecting the right investment bankers will be extremely helpful with this step.</item>
+</list>
+</section>
+</section>
+<section id="fs-idm265658080">
+<title>Capital Stock</title>
+<para id="fs-idm265657440">A company’s corporate charter specifies the classes of shares and the number of shares of each class that a company can issue. There are two classes of capital stock—common stock and preferred stock. The two classes of stock enable a company to attract capital from investors with different risk preferences. Both classes of stock can be sold by either public or non-public companies; however, if a company issues only one class, it must be common stock. Companies report both common and preferred stock in the stockholders’ equity section of the balance sheet.</para>
+<section id="fs-idm280551296">
+<title>Common Stock</title>
+<para id="fs-idm277729344">A company’s primary class of stock issued is <term>common stock</term>, and each share represents a partial claim to ownership or a share of the company’s business. For many companies, this is the only class of stock they have authorized. Common stockholders have four basic rights.</para>
+<list id="fs-idm276673200" list-type="enumerated" number-style="arabic">
+<item>Common stockholders have the right to vote on corporate matters, including the selection of corporate directors and other issues requiring the approval of owners. Each share of stock owned by an investor generally grants the investor one vote.</item>
+<item>Common stockholders have the right to share in corporate net income proportionally through dividends.</item>
+<item>If the corporation should have to liquidate, common stockholders have the right to share in any distribution of assets after all creditors and any preferred stockholders have been paid.</item>
+<item>In some jurisdictions, common shareholders have a <term>preemptive right</term>, which allows shareholders the option to maintain their ownership percentage when new shares of stock are issued by the company. For example, suppose a company has 1,000 shares of stock issued and plans to issue 200 more shares. A shareholder who currently owns 50 shares will be given the right to buy a percentage of the new issue equal to his current percentage of ownership. His current percentage of ownership is 5%:</item>
+</list>
+<equation id="fs-idm265651152" class="unnumbered"><m:math><m:mrow><m:mtext>Original ownership percentage</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>50</m:mn></m:mrow><m:mrow><m:mn>1,000</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>5</m:mn><m:mtext>%</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm281857920">This shareholder will be given the right to buy 5% of the new issue, or 10 new shares.</para>
+<equation id="fs-idm244765296" class="unnumbered"><m:math><m:mrow><m:mtext>Number of new shares to be purchases</m:mtext><m:mo>=</m:mo><m:mn>5%</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>200</m:mn><m:mspace width="0.2em"/><m:mtext>shares</m:mtext><m:mo>=</m:mo><m:mn>10</m:mn><m:mspace width="0.2em"/><m:mtext>shares</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm271739712">Should the shareholder choose not to buy the shares, the company can offer the shares to other investors. The purpose of the preemptive right is to prevent new issuances of stock from reducing the ownership percentage of the current shareholders. If the shareholder in our example is not offered the opportunity to buy 5% of the additional shares (his current ownership percentage) and the new shares are sold to other investors, the shareholder’s ownership percentage will drop because the total shares issued will increase.</para>
+<equation id="fs-idm238975040" class="unnumbered"><m:math><m:mrow><m:mtext>Total number of issues shares after the new issue</m:mtext><m:mo>=</m:mo><m:mn>1,000</m:mn><m:mo>+</m:mo><m:mn>200</m:mn><m:mo>=</m:mo><m:mn>1,200</m:mn><m:mspace width="0.2em"/><m:mtext>shares</m:mtext></m:mrow></m:math></equation>
+<equation id="fs-idm277660160" class="unnumbered"><m:math><m:mrow><m:mtext>New ownership percentage</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>50</m:mn></m:mrow><m:mrow><m:mn>1,200</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>4.17</m:mn><m:mtext>%</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm268886880">The shareholder would now own only 4.17% of the corporation, compared to the previous 5%.</para>
+</section>
+<section id="fs-idm270931584">
+<title>Preferred Stock</title>
+<para id="fs-idm271979392">A company’s charter may authorize more than one class of stock. <term>Preferred stock</term> has unique rights that are “preferred,” or more advantageous, to shareholders than common stock. The classification of preferred stock is often a controversial area in accounting as some researchers believe preferred stock has characteristics closer to that of a stock/bond hybrid security, with characteristics of debt rather than a true equity item. For example, unlike common stockholders, preferred shareholders typically do not have voting rights; in this way, they are similar to bondholders. In addition, preferred shares do not share in the common stock dividend distributions. Instead, the “preferred” classification entitles shareholders to a dividend that is fixed (assuming sufficient dividends are declared), similar to the fixed interest rate associated with bonds and other debt items. Preferred stock also mimics debt in that preferred shareholders have a priority of dividend payments over common stockholders. While there may be characteristics of both debt and equity, preferred stock is still reported as part of stockholders’ equity on the balance sheet.</para>
+<para id="fs-idm274984464">Not every corporation authorizes and issues preferred stock, and there are some important characteristics that corporations should consider when deciding to issue preferred stock. The price of preferred stock typically has less volatility in the stock market. This makes it easier for companies to more reliably budget the amount of the expected capital contribution since the share price is not expected to fluctuate as freely as for common stock. For the investor, this means there is less chance of large gains or losses on the sale of preferred stock.</para>
+</section>
+<section id="fs-idm265643744">
+<title>The Status of Shares of Stock</title>
+<para id="fs-idm265643104">The corporate charter specifies the number of <term>authorized shares</term>, which is the maximum number of shares that a corporation can issue to its investors as approved by the state in which the company is incorporated. Once shares are sold to investors, they are considered <term>issued shares</term>. Shares that are issued and are currently held by investors are called <term>outstanding shares</term> because they are “out” in the hands of investors. Occasionally, a company repurchases shares from investors. While these shares are still issued, they are no longer considered to be outstanding. These repurchased shares are called <term>treasury stock</term>.</para>
+<para id="fs-idm265640656">Assume that Waystar Corporation has 2,000 shares of capital stock authorized in its corporate charter. During May, Waystar issues 1,500 of these shares to investors. These investors are now called stockholders because they “hold” shares of stock. Because the other 500 authorized shares have not been issued they are considered unissued shares. Now assume that Waystar buys back 100 shares of stock from the investors who own the 1,500 shares. Only 1,400 of the issued shares are considered outstanding, because 100 shares are now held by the company as treasury shares.</para>
+<media id="fs-idm268343936" alt="Chart showing a box with 2,000 Authorized Shares divided into two boxes: 1,500 Issued Shares and 500 Unissued Shares. The Issued Shares box is then divided into two boxes: 1,400 Outstanding Shares and 100 Treasury Shares.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_01_WayShares_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm283701664"><title>Stock Values</title><para id="fs-idm270525552">Two of the most important values associated with stock are market value and par value. The <term>market value of stock</term> is the price at which the stock of a public company trades on the stock market. This amount does not appear in the corporation’s accounting records, nor in the company’s financial statements.</para>
+<para id="fs-idm274879664">Most corporate charters specify the <term>par value</term> assigned to each share of stock. This value is printed on the stock certificates and is often referred to as a face value because it is printed on the “face” of the certificate. Incorporators typically set the par value at a very small arbitrary amount because it is used internally for accounting purposes and has no economic significance. Because par value often has some legal significance, it is considered to be legal capital. In some states, par value is the minimum price at which the stock can be sold. If for some reason a share of stock with a par value of one dollar was issued for less than its par value of one dollar known as issuing at a <term>stock discount</term>, the shareholder could be held liable for the difference between the issue price and the par value if liquidation occurs and any creditors remain unpaid.</para>
+<para id="fs-idm271810512">Under some state laws, corporations are sometimes allowed to issue <term>no-par stock</term>—a stock with no par value assigned. When this occurs, the company’s board of directors typically assigns a <term>stated value</term> to each share of stock, which serves as the company’s legal capital. Companies generally account for stated value in the accounting records in the same manner as par value. If the company’s board fails to assign a stated value to no-par stock, the entire proceeds of the stock sale are treated as legal capital. A portion of the stockholders’ equity section of <emphasis class="colored-text">Frontier Communications Corporation</emphasis>’s balance sheet as of December 31, 2017 displays the reported preferred and common stock. The par value of the preferred stock is $0.01 per share and $0.25 per share for common stock. The legal capital of the preferred stock is $192.50, while the legal capital of the common stock is $19,883.<footnote id="fs-idm265635552">Frontier Communications Corporation. 10-K Filing. February 28, 2018. https://www.sec.gov/Archives/edgar/data/20520/000002052018000007/ftr-20171231x10k.htm#Exhibits_and_Financial_Statement_Schedul</footnote></para>
+<media id="fs-idm277660416" alt="Frontier Communications Corporation, Stockholders’ Equity, December 31, 2017. Preferred Stock, $0.01 par value (50,000 authorized shares, 11.125%, Series A, 19,250 shares issued and outstanding) $192.50. Common stock, $0.25 par value (175,000 authorized shares, 79,532 issued, and 78,441 and 78,170 outstanding at December 31, 2017 and 2016, respectively) 19,883.00.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_01_FCCstock_img.jpg"/>
+</media>
+<note id="fs-idm269141104" class="ethical-considerations">
+<title>Shareholders, Stakeholders, and the Business Judgment Rule</title>
+<para id="fs-idm275001904">Shareholders are the owners of a corporation, whereas stakeholders have an interest in the outcome of decisions of the corporation. Courts have ruled that, “A business corporation is organized and carried on primarily for the profit of the stockholders” as initially ruled in the early case <emphasis effect="italics">Dodge v. Ford Motor Co.</emphasis>, 204 Mich. 459, 170 N.W. 668 (Mich. 1919). This early case outlined the “business judgment rule.” It allows for a corporation to use its judgment in how to run the company in the best interests of the shareholders, but also allows the corporation the ability to make decisions for the benefit of the company’s stakeholders. The term known as the “business judgment rule” has been expanded in numerous cases to include making decisions directly for the benefit of stakeholders, thereby allowing management to run a company in a prudent fashion. The stakeholder theories started in the <emphasis effect="italics">Dodge</emphasis> case have been expended to allow corporations to make decisions for the corporation’s benefit, including decisions that support stakeholder rights.</para>
+<para id="fs-idm268738880">Prudent management of a corporation includes making decisions that support stakeholders and shareholders. A shareholder is also a stakeholder in any decision. A stakeholder is anyone with an interest in the outcome in the corporation’s decision, even if the person owns no financial interest in the corporation. Corporations need to take a proactive step in managing stakeholder concerns and issues. Strategies on how to manage stakeholder needs have been developed from both a moral perspective and a risk management perspective. Both approaches allow management to understand the issues related to their stakeholders and to make decisions in the best interest of the corporation and its owners. Proper stakeholder management should allow corporations to develop profitable long-term plans that lead to greater viability of the corporation.</para>
+</note>
+</section></section>
+<section id="fs-idm270962080" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm271130528" list-type="bulleted" bullet-style="bullet">
+<item>The process of forming a corporation involves several steps, which result in a legal entity that can issue stock, enter into contracts, buy and sell assets, and borrow funds.</item>
+<item>The corporate form has several advantages, which include the ability to function as a separate legal entity, limited liability, transferable ownership, continuing existence, and ease of raising capital.</item>
+<item>The disadvantages of operating as a corporation include the costs of organization, regulation, and potential double taxation.</item>
+<item>There are a number of considerations when choosing whether to finance with debt or equity as a means to raise capital, including dilution of ownership, the repayment obligation, the cash obligation, budgeting reliability, cost savings, and the risk assessment by creditors.</item>
+<item>The Securities and Exchange Commission regulates large and small public corporations.</item>
+<item>There are key differences between public corporations that experience an IPO and private corporations.</item>
+<item>A corporation’s shares continue to be bought and sold by the public in the secondary market after an IPO.</item>
+<item>The process of marketing a company’s stock involves several steps.</item>
+<item>Capital stock consists of two classes of stock—common and preferred, each providing the company with the ability to attract capital from investors.</item>
+<item>Shares of stock are categorized as authorized, issued, and outstanding.</item>
+<item>Shares of stock are measured based on their market or par value. Some stock is no-par, which carries a stated value.</item>
+<item>A company’s primary class of stock issued is common stock, and each share represents a partial claim to ownership or a share of the company’s business. Common shareholders have four rights: right to vote, the right to share in corporate net income through dividends, the right to share in any distribution of assets upon liquidation, and a preemptive right.</item>
+<item>Preferred stock, by definition, has preferred characteristics, which are more advantageous to shareholders over common stock characteristics. These include dividend preferences such as cumulative and participating and a preference for asset distribution upon liquidation. These shares can also be callable or convertible.</item>
+</list>
+</section>
+<section id="fs-idm265626880" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm265626000">
+<problem id="fs-idm265625744">
+<para id="fs-idm265625488"><link class="lo-reference" document="m67917"/>Which of the following is <emphasis effect="italics">not</emphasis> a characteristic that sets preferred stock apart from common stock?</para>
+<list id="fs-idm265623872" list-type="enumerated" number-style="upper-alpha">
+<item>voting rights</item>
+<item>dividend payments</item>
+<item>transferability</item>
+<item>ownership</item>
+</list>
+</problem>
+<solution id="fs-idm265621344">
+<para id="fs-idm265621088">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm265620448">
+<problem id="fs-idm265620192">
+<para id="fs-idm265619936"><link class="lo-reference" document="m67917"/>Issued stock is defined as stock that ________.</para>
+<list id="fs-idm265618944" list-type="enumerated" number-style="upper-alpha">
+<item>is available for sale</item>
+<item>that is held by the corporation</item>
+<item>has been sold to investors</item>
+<item>has no voting rights</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm265615520">
+<problem id="fs-idm265615264">
+<para id="fs-idm265615008"><link class="lo-reference" document="m67917"/>Your friend is considering incorporating and asks for advice. Which of the following is <emphasis effect="italics">not</emphasis> a major concern?</para>
+<list id="fs-idm265613280" list-type="enumerated" number-style="upper-alpha">
+<item>colors for the logo</item>
+<item>which state in which to incorporate</item>
+<item>number of shares of stock to authorize</item>
+<item>selection of the corporation name</item>
+</list>
+</problem>
+<solution id="fs-idm265610752">
+<para id="fs-idm265610496">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm265609856">
+<problem id="fs-idm265609600">
+<para id="fs-idm265609344"><link class="lo-reference" document="m67917"/>Par value of a stock refers to the ________.</para>
+<list id="fs-idm265608352" list-type="enumerated" number-style="upper-alpha">
+<item>issue price of a stock</item>
+<item>value assigned by the incorporation documents</item>
+<item>maximum selling price of a stock</item>
+<item>dividend to be paid by the corporation</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm265604928">
+<problem id="fs-idm265604672">
+<para id="fs-idm265604416"><link class="lo-reference" document="m67917"/>Which of the following is not one of the five primary responsibilities of the Securities and Exchange Commission (the SEC)?</para>
+<list id="fs-idm277731136" list-type="enumerated" number-style="upper-alpha">
+<item>inform and protect investors</item>
+<item>regulate securities law</item>
+<item>facilitate capital formation</item>
+<item>assure that dividends are paid by corporations</item>
+</list>
+</problem>
+<solution id="fs-idm272256128">
+<para id="fs-idm273467520">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm281923056">
+<problem id="fs-idm278332192">
+<para id="fs-idm272251648"><link class="lo-reference" document="m67917"/>When a C corporation has only one class of stock it is referred to as ________.</para>
+<list id="fs-idm278802048" list-type="enumerated" number-style="upper-alpha">
+<item>stated value stock</item>
+<item>par value stock</item>
+<item>common stock</item>
+<item>preferred stock</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm271671264">
+<problem id="fs-idm280697536">
+<para id="fs-idm270308912"><link class="lo-reference" document="m67917"/>The number of shares that a corporation’s incorporation documents allows it to sell is referred to as ________.</para>
+<list id="fs-idm273795216" list-type="enumerated" number-style="upper-alpha">
+<item>issued stock</item>
+<item>outstanding stock</item>
+<item>common stock</item>
+<item>authorized stock</item>
+</list>
+</problem>
+<solution id="fs-idm273792688">
+<para id="fs-idm273792432">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm273791664" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm273790784">
+<problem id="fs-idm273790528">
+<para id="fs-idm273790272"><link class="lo-reference" document="m67917"/>Your corporation needs additional capital to fund an expansion. Discuss the advantages and disadvantages of raising capital through the issuance of stock. Would debt be a better option? Why or why not?</para>
+</problem>
+<solution id="fs-idm273789152">
+<para id="fs-idm273788896">Advantages of raising capital through stock include no repayment, no interest, and no mandatory dividends. Disadvantages include giving up ownership and marketability of stock. Debt requires repayment and an interest component. Interest is tax deductible whereas dividends are not.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm273787952">
+<problem id="fs-idm273787696">
+<para id="fs-idm273787440"><link class="lo-reference" document="m67917"/>How many shares of stock should your new corporation authorize? How did you arrive at your number?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm273785168">
+<problem id="fs-idm273784912">
+<para id="fs-idm273784656"><link class="lo-reference" document="m67917"/>What factors should a new company consider in deciding in which state to incorporate?</para>
+</problem>
+<solution id="fs-idm273783536">
+<para id="fs-idm273783280">The incorporation laws and which states have favorable laws for corporations.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm273779968">
+<problem id="fs-idm273779712">
+<para id="fs-idm273779456"><link class="lo-reference" document="m67917"/>What are some of the reasons a business owner might choose the corporate form of business?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm273777024" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm278302224">
+<problem id="fs-idm283655840">
+<para id="fs-idm280923024"><link class="lo-reference" document="m67917"/>You are an accountant working for a company that has recently decided to incorporate. The company has incurred $4,300 for attorney’s fees, promotion costs, and filing fees with the state of incorporation as a part of organizing the corporate entity. What is the journal entry to record these costs on March 13, assuming they are paid in cash?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm265680256">
+<problem id="fs-idm280803344">
+<para id="fs-idm272055632"><link class="lo-reference" document="m67917"/>What is the impact on stockholders’ equity when a company uses debt financing as a source of funding?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm273772544">
+<problem id="fs-idm273772288">
+<para id="fs-idm273772032"><link class="lo-reference" document="m67917"/>What is the most obvious difference between debt and equity financing?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm273770896">
+<problem id="fs-idm273770640">
+<para id="fs-idm273770384"><link class="lo-reference" document="m67917"/>How do creditors assess risk when lending funds to a company?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm273769008" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm273768128">
+<problem id="fs-idm273767872">
+<para id="fs-idm273767616"><link class="lo-reference" document="m67917"/>Your high school friend started a business that has blossomed over the years, and she is considering incorporating so she can sell shares of stock and expand. She has asked you for help understanding the process she will need to undertake. How do you explain the process of incorporation to her?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm273766064">
+<problem id="fs-idm273765808">
+<para id="fs-idm273765552"><link class="lo-reference" document="m67917"/>You are an accountant working for a manufacturing company that makes personal care products and has recently decided to incorporate. The company incurred a total of $7,900 for attorney’s fees, promotion costs, and filing fees with the state of incorporation as a part of organizing the corporate entity. What is the journal entry to record these costs on February 28, assuming they are paid in cash?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm268251104">
+<problem id="fs-idm278392832">
+<para id="fs-idm272648160"><link class="lo-reference" document="m67917"/>What is the impact on stockholders’ equity when a company uses equity financing as a source of funding?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm273762800">
+<problem id="fs-idm273762544">
+<para id="fs-idm273762288"><link class="lo-reference" document="m67917"/>What is the biggest disadvantage to be considered when exploring the option of equity financing versus debt financing?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm273761136">
+<problem id="fs-idm273760880">
+<para id="fs-idm273760624"><link class="lo-reference" document="m67917"/>Your high school friend started a business that has blossomed over the years, and he is considering incorporating so he can sell shares of stock and expand. He has asked you for help understanding the costs of incorporating. What are some of the costs that he will face as he organizes the corporation and begins to sell shares of stock?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm273759120" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm273758352">
+<problem id="fs-idm273758096">
+<para id="fs-idm273757840"><link class="lo-reference" document="m67917"/>You are a CPA who has been hired by DEF Company to assist with their initial public offering. Prepare a memo to the president of DEF outlining the steps you will take to launch the IPO.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm273756608">
+<problem id="fs-idm273756352">
+<para id="fs-idm273756096"><link class="lo-reference" document="m67917"/>You are a CPA who has been hired by DEF Company to assist with their incorporation process. Prepare a memo to the president of DEF explaining the different statuses of shares of stock: authorized shares, issued shares, outstanding shares, and treasury shares.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm273755072">
+<problem id="fs-idm273754816">
+<para id="fs-idm273754560"><link class="lo-reference" document="m67917"/>You are a CPA who has been hired by DEF Company to assist with their initial public offering. Prepare a memo to the president of DEF outlining the two most significant values, market value and par value, associated with stock.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm273753296" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm273752416">
+<problem id="fs-idm273752160">
+<para id="fs-idm273751904"><link class="lo-reference" document="m67917"/>You are the president of Duke Company and are leading the company through the process of incorporation. The next step is determining the type of stock the company should offer. You are relying on feedback from several key executives at Duke to help you assess the wisdom in this decision. Prepare a memo to your executive team outlining the differences between common stock and preferred stock. The memo should be complete enough to assist them with assessing differences and providing you with robust feedback.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm273750128">
+<problem id="fs-idm273749872">
+<para id="fs-idm273749616"><link class="lo-reference" document="m67917"/>You are the president of Duke Company and are leading the company through the process of incorporation. The company has determined that common stock shares will be issued, but several key executives at Duke are not quite sure they understand the preemptive right feature associated with common shares. Prepare a memo to your executive team outlining the meaning of this right.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm274047872" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm274046992">
+<problem id="fs-idm274046736">
+<para id="fs-idm274046480"><link class="lo-reference" document="m67917"/>Your bakery is incorporated and is looking for investors. Write a one paragraph story of why investors should buy stock in your company. What makes your bakery special?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm274045040">
+<problem id="fs-idm274044784">
+<para id="fs-idm274044528"><link class="lo-reference" document="m67917"/>Do some research: why did <emphasis class="colored-text">Facebook</emphasis> choose to reincorporate in Delaware?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm274043280">
+<problem id="fs-idm274043024">
+<para id="fs-idm274042768"><link class="lo-reference" document="m67917"/>Do some research: why is <emphasis class="colored-text">Comcast</emphasis> incorporated in Pennsylvania?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm274041008">
+<term>accounting entity concept</term>
+<meaning id="fs-idm274040368">concept indicating that the financial activity of an entity (corporation) must be kept separate from that of the owners</meaning>
+</definition>
+<definition id="fs-idm274039728">
+<term>articles of incorporation</term>
+<meaning id="fs-idm274039088">(also, charter) define the basic structure and purpose of a corporation and the amount of capital stock that can be issued or sold</meaning>
+</definition>
+<definition id="fs-idm274038432">
+<term>authorized shares</term>
+<meaning id="fs-idm274037792">maximum number of shares that a corporation can issue to investors; approved by state in which company is incorporated and specified in the corporate charter</meaning>
+</definition>
+<definition id="fs-idm274037104">
+<term>brokers</term>
+<meaning id="fs-idm274036464">buy and sell issues of stock on behalf of others</meaning>
+</definition>
+<definition id="fs-idm274035952">
+<term>capital</term>
+<meaning id="fs-idm274035312">cash and other assets owned by a company</meaning>
+</definition>
+<definition id="fs-idm274034800">
+<term>common stock</term>
+<meaning id="fs-idm274034160">corporation’s primary class of stock issued, with each share representing a partial claim to ownership or a share of the company’s business</meaning>
+</definition>
+<definition id="fs-idm274033344">
+<term>corporation</term>
+<meaning id="fs-idm274032704">legal business structure involving one or more individuals (owners) who are legally distinct (separate) from the business</meaning>
+</definition>
+<definition id="fs-idm274032192">
+<term>debt-to-equity ratio</term>
+<meaning id="fs-idm274031552">measures the portion of debt used by a company relative to the amount of stockholders’ equity, calculated by dividing total debt by total equity</meaning>
+</definition>
+<definition id="fs-idm274030848">
+<term>double taxation</term>
+<meaning id="fs-idm274030208">occurs when income is taxed to the corporation that earned the income, and then taxed again to stockholders when they receive a distribution of the corporation’s income as dividends</meaning>
+</definition>
+<definition id="fs-idm272166272">
+<term>going concern assumption</term>
+<meaning id="fs-idm270222272">absent any evidence to the contrary, assumption that a business will continue to operate in the indefinite future</meaning>
+</definition>
+<definition id="fs-idm269625776">
+<term>incorporation</term>
+<meaning id="fs-idm278729216">process of constituting a company into a legal entity</meaning>
+</definition>
+<definition id="fs-idm282012704">
+<term>initial public offering (IPO)</term>
+<meaning id="fs-idm272343024">when a company issues shares of its stock to the public for the first time</meaning>
+</definition>
+<definition id="fs-idm278283568">
+<term>investment banker</term>
+<meaning id="fs-idm274411104">financial professional who provides advice to companies wishing to issue new stock, then purchase the stock from the company issuing the stock and resell the securities to the public</meaning>
+</definition>
+<definition id="fs-idm274692256">
+<term>issued shares</term>
+<meaning id="fs-idm270224160">authorized shares that have been sold to shareholders</meaning>
+</definition>
+<definition id="fs-idm274879424">
+<term>market value of stock</term>
+<meaning id="fs-idm280703392">price at which the stock of public companies trades on the stock market</meaning>
+</definition>
+<definition id="fs-idm270519568">
+<term>no-par stock</term>
+<meaning id="fs-idm270419344">stock issued with no par value assigned to it in a corporate charter</meaning>
+</definition>
+<definition id="fs-idm269514048">
+<term>organization costs</term>
+<meaning id="fs-idm272662464">costs of organizing the corporate entity that include attorney fees, promotion costs, and filing fees paid to the state</meaning>
+</definition>
+<definition id="fs-idm274766240">
+<term>outstanding shares</term>
+<meaning id="fs-idm272310496">shares that have been issues and are currently held by shareholders</meaning>
+</definition>
+<definition id="fs-idm276997520">
+<term>par value</term>
+<meaning id="fs-idm272561632">value assigned to stock in the company’s charter and is typically set at a very small arbitrary amount; serves as legal capital</meaning>
+</definition>
+<definition id="fs-idm274029136">
+<term>preemptive right</term>
+<meaning id="fs-idm274028496">allows stockholders the option to maintain their ownership percentage when new shares of stock are issued by the company</meaning>
+</definition>
+<definition id="fs-idm274027840">
+<term>preferred stock</term>
+<meaning id="fs-idm274027200">type of stock that entitles the holder to unique preferences that are advantageous over common stock features</meaning>
+</definition>
+<definition id="fs-idm274026560">
+<term>publicly traded company</term>
+<meaning id="fs-idm274025920">company whose stock is traded (bought and sold) on an organized stock exchange</meaning>
+</definition>
+<definition id="fs-idm274025264">
+<term>private corporation</term>
+<meaning id="fs-idm274024624">corporation usually owned by a relatively small number of investors; shares are not traded publicly, and the ownership of the stock is restricted to only those allowed by the board of directors</meaning>
+</definition>
+<definition id="fs-idm274023904">
+<term>secondary market</term>
+<meaning id="fs-idm274023264">organized market where previously issued stocks and bonds can be traded after they are issued</meaning>
+</definition>
+<definition id="fs-idm274022752">
+<term>Securities and Exchange Commission (SEC)</term>
+<meaning id="fs-idm274022112">federal regulatory agency that regulates corporations with shares listed and traded on security exchanges through required periodic filings</meaning>
+</definition>
+<definition id="fs-idm274021440">
+<term>stated value</term>
+<meaning id="fs-idm274020800">is an amount a board of director’s assigns to each share of a company’s stock; functions as the legal capital</meaning>
+</definition>
+<definition id="fs-idm274020128">
+<term>stock discount</term>
+<meaning id="fs-idm274019488">amount at which stock is issued below the par value of stock</meaning>
+</definition>
+<definition id="fs-idm274018976">
+<term>stockholder</term>
+<meaning id="fs-idm274018336">owner of stock, or shares, in a business</meaning>
+</definition>
+<definition id="fs-idm274017696">
+<term>stock trading</term>
+<meaning id="fs-idm274017056">buying and selling of shares by investors and brokers</meaning>
+</definition>
+<definition id="fs-idm274016544">
+<term>treasury stock</term>
+<meaning id="fs-idm274015904">company’s own shares that it has repurchased from investors</meaning>
+</definition>
+</glossary>
+</document>

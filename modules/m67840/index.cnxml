@@ -1,0 +1,427 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Prepare an Income Statement, Statement of Owner’s Equity, and Balance Sheet</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67840</md:content-id>
+  <md:title>Prepare an Income Statement, Statement of Owner’s Equity, and Balance Sheet</md:title>
+  <md:abstract/>
+  <md:uuid>e6d70429-1a97-409b-92e7-ee20dab6fe1c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm383871760">One of the key factors for success for those beginning the study of accounting is to understand how the elements of the financial statements relate to each of the financial statements. That is, once the transactions are categorized into the elements, knowing what to do next is vital. This is the beginning of the process to create the financial statements. It is important to note that financial statements are discussed in the order in which the statements are presented.</para>
+<section id="fs-idm339247488">
+<title>Elements of the Financial Statements</title>
+<para id="fs-idm387781424">When thinking of the relationship between the elements and the financial statements, we might think of a baking analogy: the elements represent the ingredients, and the financial statements represent the finished product. As with baking a cake (see <link target-id="OSX_Acct_F02_03_CakeArt"/>), knowing the ingredients (elements) and how each ingredient relates to the final product (financial statements) is vital to the study of accounting.</para>
+<figure id="OSX_Acct_F02_03_CakeArt">
+<media id="fs-idm390222768" alt="The photograph on the left is of a baker mixing dough. The photograph on the right is of a finished cake.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_CakeArt.jpg"/>
+</media>
+<caption>Baking requires an understanding of the different ingredients, how the ingredients are used, and how the ingredients will impact the final product (a). If used correctly, the final product will be beautiful and, more importantly, delicious, like the cake shown in (b). In a similar manner, the study of accounting requires an understanding of how the accounting elements relate to the final product—the financial statements. (credit (a): modification of “U.S. Navy Culinary Specialist Seaman Robert Fritschie mixes cake batter aboard the amphibious command ship USS Blue Ridge (LCC 19) Aug. 7, 2013, while underway in the Solomon Sea 130807-N-NN332-044” by MC3 Jarred Harral/Wikimedia Commons, Public Domain; credit (b): modification of “Easter Cake with Colorful Topping” by Kaboompics .com/Pexels, CC0)</caption>
+</figure>
+<para id="fs-idm394748320">To help accountants prepare and users better understand financial statements, the profession has outlined what is referred to as <term>elements of the financial statements</term>, which are those categories or accounts that accountants use to record transactions and prepare financial statements. There are ten elements of the financial statements, and we have already discussed most of them.</para>
+<list id="fs-idm385978416" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Revenue—</emphasis>value of goods and services the organization sold or provided.</item>
+<item><emphasis effect="bold">Expenses—</emphasis>costs of providing the goods or services for which the organization earns revenue.</item>
+<item><emphasis effect="bold">Gains—</emphasis>gains are similar to revenue but relate to “incidental or peripheral” activities of the organization.</item>
+<item><emphasis effect="bold">Losses—</emphasis>losses are similar to expenses but related to “incidental or peripheral” activities of the organization.</item>
+<item><emphasis effect="bold">Assets—</emphasis>items the organization owns, controls, or has a claim to.</item>
+<item><emphasis effect="bold">Liabilities—</emphasis>amounts the organization owes to others (also called creditors).</item>
+<item><emphasis effect="bold">Equity—</emphasis>the net worth (or net assets) of the organization.</item>
+<item><emphasis effect="bold">Investment by owners—</emphasis>cash or other assets provided to the organization in exchange for an ownership interest.</item>
+<item><emphasis effect="bold">Distribution to owners—</emphasis>cash, other assets, or ownership interest (equity) provided to owners.</item>
+<item><emphasis effect="bold"><term>Comprehensive income</term>—</emphasis>defined as the “change in equity of a business enterprise during a period from transactions and other events and circumstances from nonowner sources” (SFAC No. 6, p. 21). While further discussion of comprehensive income is reserved for intermediate and advanced studies in accounting, it is worth noting that comprehensive income has four components, focusing on activities related to foreign currency, derivatives, investments, and pensions.</item>
+</list>
+</section>
+<section id="fs-idm399040832">
+<title>Financial Statements for a Sample Company</title>
+<para id="fs-idm360905536">Now it is time to bake the cake (i.e., prepare the financial statements). We have all of the ingredients (elements of the financial statements) ready, so let’s now return to the financial statements themselves. Let’s use as an example a fictitious company named Cheesy Chuck’s Classic Corn. This company is a small retail store that makes and sells a variety of gourmet popcorn treats. It is an exciting time because the store opened in the current month, June.</para>
+<para id="fs-idm385905888">Assume that as part of your summer job with Cheesy Chuck’s, the owner—you guessed it, Chuck—has asked you to take over for a former employee who graduated college and will be taking an accounting job in New York City. In addition to your duties involving making and selling popcorn at Cheesy Chuck’s, part of your responsibility will be doing the accounting for the business. The owner, Chuck, heard that you are studying accounting and could really use the help, because he spends most of his time developing new popcorn flavors.</para>
+<para id="fs-idm383275968">The former employee has done a nice job of keeping track of the accounting records, so you can focus on your first task of creating the June financial statements, which Chuck is eager to see. <link target-id="OSX_Acct_F02_03_ChuckFI"/> shows the financial information (as of June 30) for Cheesy Chuck’s.</para>
+<figure id="OSX_Acct_F02_03_ChuckFI" class="scaled-down">
+<media id="fs-idm388580576" alt="Cheesy Chuck’s Classic Corn, Trial Balance, For the Month Ended June 30, 2018. Revenues $85,000; Expenses: Popcorn 22,800, toppings and seasonings 17,300, Employee wages and benefits 10,700, Lease payments 24,000, Utilities 3,200, Advertising 900, Miscellaneous 300; Cash 6,200; Equipment 12,500; Accounts Payable 650; Wages Payable 1,200; Investment by Owner 12,500; Drawings by owner minus 1,450.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_ChuckFI.jpg"/>
+</media>
+<caption>Trial Balance for Cheesy Chuck’s Classic Corn. Accountants record and summarize accounting information into accounts, which help to track, summarize, and prepare accounting information. This table is a variation of what accountants call a “trial balance.” A trial balance is a summary of accounts and aids accountants in creating financial statements. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm388593696">We should note that we are oversimplifying some of the things in this example. First, the amounts in the accounting records were given. We did not explain how the amounts would be derived. This process is explained starting in <link document="m67842">Analyzing and Recording Transactions</link>. Second, we are ignoring the timing of certain cash flows such as hiring, purchases, and other startup costs. In reality, businesses must invest cash to prepare the store, train employees, and obtain the equipment and inventory necessary to open. These costs will precede the selling of goods and services. In the example to follow, for instance, we use Lease payments of $24,000, which represents lease payments for the building ($20,000) and equipment ($4,000). In practice, when companies lease items, the accountants must determine, based on accounting rules, whether or not the business “owns” the item. If it is determined the business “owns” the building or equipment, the item is listed on the balance sheet at the original cost. Accountants also take into account the building or equipment’s value when the item is worn out. The difference in these two values (the original cost and the ending value) will be allocated over a relevant period of time. As an example, assume a business purchased equipment for $18,000 and the equipment will be worth $2,000 after four years, giving an estimated decline in value (due to usage) of $16,000 ($18,000 − $2,000). The business will allocate $4,000 of the equipment cost over each of the four years ($18,000 minus $2,000 over four years). This is called <emphasis effect="italics">depreciation</emphasis> and is one of the topics that is covered in <link document="m67894">Long-Term Assets</link>.</para>
+<para id="fs-idm396048224">Also, the Equipment with a value of $12,500 in the financial information provided was purchased at the end of the first accounting period. It is an asset that will be depreciated in the future, but no depreciation expense is allocated in our example.</para>
+<section id="fs-idm391734208">
+<title>Income Statement</title>
+<para id="fs-idm386567280">Let’s prepare the income statement so we can inform how Cheesy Chuck’s performed for the month of June (remember, an income statement is <emphasis effect="italics">for a period of time</emphasis>). Our first step is to determine the value of goods and services that the organization sold or provided for a given period of time. These are the inflows to the business, and because the inflows relate to the primary purpose of the business (making and selling popcorn), we classify those items as Revenues, Sales, or Fees Earned. For this example, we use Revenue. The revenue for Cheesy Chuck’s for the month of June is $85,000.</para>
+<para id="fs-idm376292880">Next, we need to show the total expenses for Cheesy Chuck’s. Because Cheesy Chuck’s tracks different types of expenses, we need to add the amounts to calculate total expenses. If you added correctly, you get total expenses for the month of June of $79,200. The final step to create the income statement is to determine the amount of net income or net loss for Cheesy Chuck’s. Since revenues ($85,000) are greater than expenses ($79,200), Cheesy Chuck’s has a net income of $5,800 for the month of June.</para>
+<para id="fs-idm375624128"><link target-id="OSX_Acct_F02_03_ChuckIS"/> displays the June income statement for Cheesy Chuck’s Classic Corn.</para>
+<figure id="OSX_Acct_F02_03_ChuckIS" class="scaled-down">
+<media id="fs-idm380880960" alt="Cheesy Chuck’s Classic Corn, Income Statement, For the Month Ended June 30, 2018. Revenues $85,000, less Expenses: Popcorn 22,800, Toppings and seasonings 17,300, Employee wages and benefits 10,700, Lease payments 24,000, Utilities 3,200, Advertising 900, Miscellaneous 300 for Total Expenses 79,200 equaling Net Income $5,800. This Net Income figure will be used in the Statement of Owner’s Equity.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_ChuckIS.jpg"/>
+</media>
+<caption>Income Statement for Cheesy Chuck’s Classic Corn. The income statement for Cheesy Chuck’s shows the business had Net Income of $5,800 for the month ended June 30. This amount will be used to prepare the next financial statement, the statement of owner’s equity. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm387728256">Financial statements are created using numerous standard conventions or practices. The standard conventions provide consistency and help assure financial statement users the information is presented in a similar manner, regardless of the organization issuing the financial statement. Let’s look at the standard conventions shown in the Cheesy Chuck’s income statement:</para>
+<list id="fs-idm382216912" list-type="bulleted" bullet-style="bullet">
+<item>The heading of the income statement includes three lines.
+<list id="fs-idm391124912" list-type="bulleted" bullet-style="bullet">
+<item>The first line lists the business name.</item>
+<item>The middle line indicates the financial statement that is being presented.</item>
+<item>The last line indicates the time frame of the financial statement. Do not forget the income statement is <emphasis effect="italics">for a period of time</emphasis> (the month of June in our example).</item>
+</list></item>
+<item>There are three columns.
+<list id="fs-idm372986256" list-type="bulleted" bullet-style="bullet">
+<item>Going from left to right, the first column is the category heading or account.</item>
+<item>The second column is used when there are numerous accounts in a particular category (Expenses, in our example).</item>
+<item>The third column is a total column. In this illustration, it is the column where subtotals are listed and net income is determined (subtracting Expenses from Revenues).</item>
+</list></item>
+<item>Subtotals are indicated by a single underline, while totals are indicated by a double underline. Notice the amount of Miscellaneous Expense ($300) is formatted with a single underline to indicate that a subtotal will follow. Similarly, the amount of “Net Income” ($5,800) is formatted with a double underline to indicate that it is the final value/total of the financial statement.</item>
+<item>There are no gains or losses for Cheesy Chuck’s. Gains and losses are not unusual transactions for businesses, but gains and losses may be infrequent for some, especially small, businesses.</item>
+</list>
+<note id="fs-idm389511424" class="concepts-practice">
+<title>McDonald’s</title>
+<para id="fs-idm389993568">For the year ended December 31, 2016, <emphasis class="colored-text">McDonald’s</emphasis> had sales of $24.6 billion.<footnote id="fs-idm389633536">McDonald’s Corporation. U.S. Securities and Exchange Commission 10-K Filing. March 1, 2017. http://d18rn0p25nwr6d.cloudfront.net/CIK-0000063908/62200c2b-da82-4364-be92-79ed454e3b88.pdf</footnote> The amount of sales is often used by the business as the starting point for planning the next year. No doubt, there are a lot of people involved in the planning for a business the size of <emphasis class="colored-text">McDonald’s</emphasis>. Two key people at <emphasis class="colored-text">McDonald’s</emphasis> are the purchasing manager and the sales manager (although they might have different titles). Let’s look at how <emphasis class="colored-text">McDonald’s</emphasis> 2016 sales amount might be used by each of these individuals. In each case, do not forget that <emphasis class="colored-text">McDonald’s</emphasis> is a global company.</para>
+<para id="fs-idm372658496">A purchasing manager at <emphasis class="colored-text">McDonald’s</emphasis>, for example, is responsible for finding suppliers, negotiating costs, arranging for delivery, and many other functions necessary to have the ingredients ready for the stores to prepare the food for their customers. Expecting that <emphasis class="colored-text">McDonald’s</emphasis> will have over $24 billion of sales during 2017, how many eggs do you think the purchasing manager at <emphasis class="colored-text">McDonald’s</emphasis> would need to purchase for the year? According to the <emphasis class="colored-text">McDonald’s</emphasis> website, the company uses over two billion eggs a year.<footnote id="fs-idm321532912">McDonald’s. “Our Food. Your Questions. Breakfast.” n.d. https://www.mcdonalds.com/us/en-us/about-our-food/our-food-your-questions/breakfast.html</footnote> Take a moment to list the details that would have to be coordinated in order to purchase and deliver over two billion eggs to the many <emphasis class="colored-text">McDonald’s</emphasis> restaurants around the world.</para>
+<para id="fs-idm386125920">A sales manager is responsible for establishing and attaining sales goals within the company. Assume that <emphasis class="colored-text">McDonald’s</emphasis> 2017 sales are expected to exceed the amount of sales in 2016. What conclusions would you make based on this information? What do you think might be influencing these amounts? What factors do you think would be important to the sales manager in deciding what action, if any, to take? Now assume that <emphasis class="colored-text">McDonald’s</emphasis> 2017 sales are expected to be below the 2016 sales level. What conclusions would you make based on this information? What do you think might be influencing these amounts? What factors do you think would be important to the sales manager in deciding what action, if any, to take?</para>
+</note>
+</section>
+<section id="fs-idm385151024">
+<title>Statement of Owner’s Equity</title>
+<para id="fs-idm387801856">Let’s create the statement of owner’s equity for Cheesy Chuck’s for the month of June. Since Cheesy Chuck’s is a brand-new business, there is no beginning balance of Owner’s Equity. The first items to account for are the increases in value/equity, which are investments by owners and net income. As you look at the accounting information you were provided, you recognize the amount invested by the owner, Chuck, was $12,500. Next, we account for the increase in value as a result of net income, which was determined in the income statement to be $5,800. Next, we determine if there were any activities that decreased the value of the business. More specifically, we are accounting for the value of distributions to the owners and net loss, if any.</para>
+<para id="fs-idm342914656">It is important to note that an organization will have either net income or net loss for the period, but not both. Also, small businesses in particular may have periods where there are no investments by, or distributions to, the owner(s). For the month of June, Chuck withdrew $1,450 from the business. This is a good time to recall the terminology used by accountants based on the legal structure of the particular business. Since the account was titled “Drawings by Owner” and because Chuck is the only owner, we can assume this is a sole proprietorship. If the business was structured as a corporation, this activity would be called something like “Dividends Paid to Owners.”</para>
+<para id="fs-idm390005392">At this stage, remember that since we are working with a sole proprietorship to help simplify the examples, we have addressed the owner’s value in the firm as <emphasis effect="italics">capital</emphasis> or <emphasis effect="italics">owner’s equity</emphasis>. However, later we switch the structure of the business to a corporation, and instead of owner’s equity, we begin using such account titles as <emphasis effect="italics">common stock</emphasis> and <emphasis effect="italics">retained earnings</emphasis> to represent the owner’s interests. The corporate treatment is more complicated, because corporations may have a few owners up to potentially thousands of owners (stockholders). The details of accounting for the interests of corporations are covered in <link document="m67916">Corporation Accounting</link>.</para>
+<para id="fs-idm385208832">So how much did the value of Cheesy Chuck’s change during the month of June? You are correct if you answered $16,850. Since this is a brand-new store, the beginning value of the business is zero. During the month, the owner invested $12,500 and the business had profitable operations (net income) of $5,800. Also, during the month the owner withdrew $1,450, resulting in a net change (and ending balance) to owner’s equity of $16,850. Shown in a formula:</para>
+<para id="fs-idm387641744">Beginning Balance + Investments by Owners ± Net Income (Net Loss) – Distributions, or</para>
+<equation id="fs-idm395507360" class="unnumbered"><m:math><m:mrow><m:mn>$0</m:mn><m:mo>+</m:mo><m:mn>$12,500</m:mn><m:mo>+</m:mo><m:mn>$5,800</m:mn><m:mo>–</m:mo><m:mn>$1,450</m:mn><m:mo>=</m:mo><m:mn>$16,850</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm391247184"><link target-id="OSX_Acct_F02_03_ChuckSOE"/> shows what the statement of owner’s equity for Cheesy Chuck’s Classic Corn would look like.</para>
+<figure id="OSX_Acct_F02_03_ChuckSOE">
+<media id="fs-idm386260160" alt="Cheesy Chuck’s Classic Corn, Statement of Owner’s Equity, For the month Ended June 30, 2018. Chuck, Capital: June 1, 2018 $0; Increases: Investments by owner $12,500, Net income for the month of june, 2018 [obtained from the income statement] 5,800. Total Increase 18,300. Decreases: Drawings by owner (1,450). Total Decrease (1,450); Chuck, Capital: June 30, 2018 $16,850 [To be used in Balance Sheet]">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_ChuckSOE.jpg"/>
+</media>
+<caption>Statement of Owner’s Equity for Cheesy Chuck’s Classic Corn. The statement of owner’s equity demonstrates how the net worth (also called equity) of the business changed over the period of time (the month of June in this case). Notice the amount of net income (or net loss) is brought from the income statement. In a similar manner, the ending equity balance (Capital for Cheesy Chuck’s because it is a sole proprietorship) is carried forward to the balance sheet. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm388876736">Notice the following about the statement of owner’s equity for Cheesy Chuck’s:</para>
+<list id="fs-idm388083184" list-type="bulleted" bullet-style="bullet">
+<item>The format is similar to the format of the income statement (three lines for the heading, three columns).</item>
+<item>The statement follows a chronological order, starting with the first day of the month, accounting for the changes that occurred throughout the month, and ending with the final day of the month.</item>
+</list>
+<para id="fs-idm383896992">The statement uses the final number from the financial statement previously completed. In this case, the statement of owner’s equity uses the net income (or net loss) amount from the income statement (Net Income, $5,800).</para>
+</section>
+<section id="fs-idm388667376">
+<title>Balance Sheet</title>
+<para id="fs-idm390841440">Let’s create a balance sheet for Cheesy Chuck’s for June 30. To begin, we look at the accounting records and determine what assets the business owns and the value of each. Cheesy Chuck’s has two assets: Cash ($6,200) and Equipment ($12,500). Adding the amount of assets gives a total asset value of $18,700. As discussed previously, the equipment that was recently purchased will be depreciated in the future, beginning with the next accounting period.</para>
+<para id="fs-idm375543680">Next, we determine the amount of money that Cheesy Chuck’s owes (liabilities). There are also two liabilities for Cheesy Chuck’s. The first account listed in the records is Accounts Payable for $650. Accounts Payable is the amount that Cheesy Chuck’s must pay <emphasis effect="italics">in the future</emphasis> to vendors (also called suppliers) for the ingredients to make the gourmet popcorn. The other liability is Wages Payable for $1,200. This is the amount that Cheesy Chuck’s must pay in the future to employees for work that has been performed. Adding the two amounts gives us total liabilities of $1,850. (Here’s a hint as you develop your understanding of accounting: Liabilities often include the word “payable.” So, when you see “payable” in the account title, know these are amounts owed in the future—liabilities.)</para>
+<para id="fs-idm385357200">Finally, we determine the amount of equity the owner, Cheesy Chuck, has in the business. The amount of owner’s equity was determined on the statement of owner’s equity in the previous step ($16,850). Can you think of another way to confirm the amount of owner’s equity? Recall that equity is also called net assets (assets minus liabilities). If you take the total assets of Cheesy Chuck’s of $18,700 and subtract the total liabilities of $1,850, you get owner’s equity of $16,850. Using the basic accounting equation, the balance sheet for Cheesy Chuck’s as of June 30 is shown in <link target-id="OSX_Acct_F02_03_ChuckBS"/>.</para>
+<figure id="OSX_Acct_F02_03_ChuckBS">
+<media id="fs-idm398428192" alt="Cheesy Chuck’s Classic Corn, Balance Sheet, As of June 30, 2018. Assets: Cash 6,200, Equipment 12,500. Total Assets 18,700. Liabilities: Accounts Payable 650, Wages Payable 1,200. Total Liabilties 1,850; Owner’s Equity: Cheesy Chuck, Capital 16,800. Total Owner’s Equity 16,850; Total Liabilities and Owner’s Equity 18,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_ChuckBS.jpg"/>
+</media>
+<caption>Balance Sheet for Cheesy Chuck’s Classic Corn. The balance sheet shows what the business owns (Assets), owes (Liabilities), and is worth (equity) on a given date. Notice the amount of Owner’s Equity (Capital for Cheesy Chuck’s) was brought forward from the statement of owner’s equity. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm386493168">
+<title>Connecting the Income Statement and the Balance Sheet</title>
+<para id="fs-idm397932672">Another way to think of the connection between the income statement and balance sheet (which is aided by the statement of owner’s equity) is by using a sports analogy. The income statement summarizes the financial <emphasis effect="italics">performance</emphasis> of the business for a given period of time. The income statement reports how the business performed financially each month—the firm earned either net income or net loss. This is similar to the outcome of a particular game—the team either won or lost.</para>
+<para id="fs-idm383798080">The balance sheet summarizes the financial <emphasis effect="italics">position</emphasis> of the business on a given date. Meaning, because of the financial <emphasis effect="italics">performance</emphasis> over the past twelve months, for example, this is the financial <emphasis effect="italics">position</emphasis> of the business as of December 31. Think of the balance sheet as being similar to a team’s overall win/loss record—to a certain extent a team’s strength can be perceived by its win/loss record.</para>
+<para id="fs-idm396336224">However, because different companies have different sizes, you do not necessarily want to compare the balance sheets of two different companies. For example, you would not want to compare a local retail store with Walmart. In most cases you want to compare a company with its past balance sheet information.</para>
+</section>
+<section id="fs-idm379568112">
+<title>Statement of Cash Flows</title>
+<para id="fs-idm387025824">In <link document="m67838">Describe the Income Statement, Statement of Owner’s Equity, Balance Sheet, and Statement of Cash Flows, and How They Interrelate</link>, we discussed the function of and the basic characteristics of the statement of cash flows. This fourth and final financial statement lists the cash inflows and cash outflows for the business <emphasis effect="italics">for a period of time</emphasis>. It was created to fill in some informational gaps that existed in the other three statements (income statement, owner’s equity/retained earnings statement, and the balance sheet). A full demonstration of the creation of the statement of cash flows is presented in <link document="m67838">Statement of Cash Flows</link>.</para>
+</section>
+<section id="fs-idm384168496">
+<title>Creating Financial Statements: A Summary</title>
+<para id="fs-idm387037936">In this example using a fictitious company, Cheesy Chuck’s, we began with the account balances and demonstrated how to prepare the financial statements for the month of June, the first month of operations for the business. It will be helpful to revisit the process by summarizing the information we started with and how that information was used to create the four financial statements: income statement, statement of owner’s equity, balance sheet, and statement of cash flows.</para>
+<para id="fs-idm383434176">We started with the account balances shown in <link target-id="OSX_Acct_F02_03_ChuckSum01"/>.</para>
+<figure id="OSX_Acct_F02_03_ChuckSum01" class="scaled-down">
+<media id="fs-idm385370080" alt="Cheesy Chuck’s Classic Corn, Account Balances, For the Month Ended June 30, 2018. Revenues $85,000; Expenses: Popcorn 22,800, toppings and seasonings 17,300, Employee wages and benefits 10,700, Lease payments 24,000, Utilities 3,200, Advertising 900, Miscellaneous 300; Cash 6,200; Equipment 12,500; Accounts Payable 650; Wages Payable 1,200; Investment by Owner 12,500; Drawings by owner minus 1,450.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_ChuckSum01.jpg"/>
+</media>
+<caption>Account Balances for Cheesy Chuck’s Classic Corn. Obtaining the account balances is the starting point for preparing financial statements. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm399083184">The next step was to create the income statement, which shows the financial <emphasis effect="italics">performance</emphasis> of the business. The income statement is shown in <link target-id="OSX_Acct_F02_03_ChuckSum02"/>.</para>
+<figure id="OSX_Acct_F02_03_ChuckSum02" class="scaled-down">
+<media id="fs-idm396854752" alt="Cheesy Chuck’s Classic Corn, Trial Balance, For the Month Ended June 30, 2018. Revenues $85,000; Expenses: Popcorn 22,800, toppings and seasonings 17,300, Employee wages and benefits 10,700, Lease payments 24,000, Utilities 3,200, Advertising 900, Miscellaneous 300; Cash 6,200; Equipment 12,500; Accounts Payable 650; Wages Payable 1,200; Investment by Owner 12,500; Drawings by owner minus 1,450.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_ChuckSum02.jpg"/>
+</media>
+<caption>Income Statement for Cheesy Chuck’s Classic Corn. The income statement uses information from the trial balance, which lists the accounts and account totals. The income statement shows the financial performance of a business for a period of time. The net income or net loss will be carried forward to the statement of owner’s equity. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm370359216">Next, we created the statement of owner’s equity, shown in <link target-id="OSX_Acct_F02_03_ChuckSum03"/>. The statement of owner’s equity demonstrates how the equity (or net worth) of the business changed for the month of June. Do not forget that the Net Income (or Net Loss) is carried forward to the statement of owner’s equity.</para>
+<figure id="OSX_Acct_F02_03_ChuckSum03" class="scaled-down">
+<media id="fs-idm381076256" alt="Cheesy Chuck’s Classic Corn, Statement of Owner’s Equity, For the month Ended June 30, 2018. Chuck, Capital: June 1, 2018 $0; Increases: Investments by owner $12,500, Net income for the month of june, 2018 [obtained from the income statement] 5,800. Total Increase 18,300. Decreases: Drawings by owner (1,450). Total Decrease (1,450); Chuck, Capital: June 30, 2018 $16,850 [To be used in Balance Sheet].">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_ChuckSum03.jpg"/>
+</media>
+<caption>Statement of Owner’s Equity for Cheesy Chuck’s Classic Corn. The statement of owner’s equity shows how the net worth/value (or equity) of business changed for the period of time. This statement includes Net Income (or Net Loss), which was brought forward from the income statement. The ending balance is carried forward to the balance sheet. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm380981264">The third financial statement created is the balance sheet, which shows the company’s financial <emphasis effect="italics">position</emphasis> on a given date. Cheesy Chuck’s balance sheet is shown in <link target-id="OSX_Acct_F02_03_ChuckSum04"/>.</para>
+<figure id="OSX_Acct_F02_03_ChuckSum04" class="scaled-down">
+<media id="fs-idm379596640" alt="Cheesy Chuck’s Classic Corn, Balance Sheet, As of June 30, 2018. Assets: Cash 6,200, Equipment 12,500. Total Assets 18,700. Liabilities: Accounts Payable 650, Wages Payable 1,200. Total Liabilties 1,850; Owner’s Equity: Cheesy Chuck, Capital 16,800. Total Owner’s Equity 16,850; Total Liabilities and Owner’s Equity 18,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_ChuckSum04.jpg"/>
+</media>
+<caption>Balance Sheet for Cheesy Chuck’s Classic Corn. The balance sheet shows the assets, liabilities, and owner’s equity of a business on a given date. Notice the balance sheet is the accounting equation in financial statement form: Assets = Liabilities + Owner’s Equity. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm359627376" class="think-through">
+<title>Financial Statement Analysis</title>
+<para id="fs-idm371803280">In <link document="m67837">Why It Matters</link>, we pointed out that accounting information from the financial statements can be useful to business owners. The financial statements provide feedback to the owners regarding the financial performance and financial position of the business, helping the owners to make decisions about the business.</para>
+<para id="fs-idm361056976">Using the June financial statements, analyze Cheesy Chuck’s and prepare a brief presentation. Consider this from the perspective of the owner, Chuck. Describe the financial performance of and financial position of the business. What areas of the business would you want to analyze further to get additional information? What changes would you consider making to the business, if any, and why or why not?</para>
+</note>
+<note id="fs-idm382389488" class="ethical-considerations">
+<title>Financial Statement Manipulation at Waste Management Inc.</title>
+<para id="fs-idm391411344">Accountants have an ethical duty to accurately report the financial results of their company and to ensure that the company’s annual reports communicate relevant information to stakeholders. If accountants and company management fail to do so, they may incur heavy penalties.</para>
+<para id="fs-idm381224464">For example, in 2002 the Securities and Exchange Commission (SEC) charged the top management of <emphasis class="colored-text">Waste Management, Inc.</emphasis> with inflating profits by $1.7 billion to meet earnings targets in the period 1992–1997. An SEC press release alleged “that defendants fraudulently manipulated the company’s financial results to meet predetermined earnings targets. . . . They employed a multitude of improper accounting practices to achieve this objective.”<footnote id="fs-idm391572320">U.S. Securities and Exchange Commission. “Waste Management Founder, Five Other Former Top Officers Sued for Massive Fraud.” March 26, 2002. https://www.sec.gov/news/headlines/wastemgmt6.htm</footnote> The defendants in the case manipulated reports to defer or eliminate expenses, which fraudulently inflated their earnings. Because they failed to accurately report the financial results of their company, the top accountants and management of <emphasis class="colored-text">Waste Management, Inc.</emphasis> face charges.</para>
+<para id="fs-idm388843360">Thomas C. Newkirk, the associate director of the SEC’s Division of Enforcement, stated, “For years, these defendants cooked the books, enriched themselves, preserved their jobs, and duped unsuspecting shareholders”<footnote id="fs-idm364201424">U.S. Securities and Exchange Commission. “Waste Management Founder, Five Other Former Top Officers Sued for Massive Fraud.” March 26, 2002. https://www.sec.gov/news/headlines/wastemgmt6.htm</footnote> The defendants, who included members of the company board and executives, benefited personally from their fraud in the millions of dollars through performance-based bonuses, charitable giving, and sale of company stock. The company’s accounting firm, <emphasis class="colored-text">Arthur Andersen</emphasis>, abetted the fraud by identifying the improper practices but doing little to stop them.</para></note>
+</section>
+</section>
+<section id="fs-idm381273952">
+<title>Liquidity Ratios</title>
+<para id="fs-idm375310240">In addition to reviewing the financial statements in order to make decisions, owners and other stakeholders may also utilize financial ratios to assess the financial health of the organization. While a more in-depth discussion of financial ratios occurs in <link document="m68108">Appendix A: Financial Statement Analysis</link>, here we introduce <emphasis effect="italics">liquidity ratios</emphasis>, a common, easy, and useful way to analyze the financial statements.</para>
+<para id="fs-idm390913120"><term>Liquidity</term> refers to the business’s ability to convert assets into cash in order to meet short-term cash needs. Examples of the most liquid assets include accounts receivable and inventory for merchandising or manufacturing businesses. The reason these are among the most liquid assets is that these assets will be turned into cash more quickly than land or buildings, for example. Accounts receivable represents goods or services that have already been sold and will typically be paid/collected within thirty to forty-five days. Inventory is less liquid than accounts receivable because the product must first be sold before it generates cash (either through a cash sale or sale on account). Inventory is, however, more liquid than land or buildings because, under most circumstances, it is easier and quicker for a business to find someone to purchase its goods than it is to find a buyer for land or buildings.</para><section id="fs-idm380989872">
+<title>Working Capital</title>
+<para id="fs-idm365862736">The starting point for understanding liquidity ratios is to define <term>working capital</term>—current assets minus current liabilities. Recall that current assets and current liabilities are amounts generally settled in one year or less. Working capital (current assets minus current liabilities) is used to assess the dollar amount of assets a business has available to meet its short-term liabilities. A positive working capital amount is desirable and indicates the business has sufficient current assets to meet short-term obligations (liabilities) and still has financial flexibility. A negative amount is undesirable and indicates the business should pay particular attention to the composition of the current assets (that is, how liquid the current assets are) and to the timing of the current liabilities. It is unlikely that all of the current liabilities will be due at the same time, but the amount of working capital gives stakeholders of both small and large businesses an indication of the firm’s ability to meet its short-term obligations.</para>
+<para id="fs-idm399412496">One limitation of working capital is that it is a dollar amount, which can be misleading because business sizes vary. Recall from the discussion on materiality that $1,000, for example, is more material to a small business (like an independent local movie theater) than it is to a large business (like a movie theater chain). Using percentages or ratios allows financial statement users to more easily compare small and large businesses.</para>
+</section>
+<section id="fs-idm385555632">
+<title>Current Ratio</title>
+<para id="fs-idm359795584">The <term>current ratio</term> is closely related to working capital; it represents the current assets divided by current liabilities. The current ratio utilizes the same amounts as working capital (current assets and current liabilities) but presents the amount in ratio, rather than dollar, form. That is, the current ratio is defined as current assets/current liabilities. The interpretation of the current ratio is similar to working capital. A ratio of greater than one indicates that the firm has the ability to meet short-term obligations with a buffer, while a ratio of less than one indicates that the firm should pay close attention to the composition of its current assets as well as the timing of the current liabilities.</para>
+</section>
+<section id="fs-idm360740816">
+<title>Sample Working Capital and Current Ratio Calculations</title>
+<para id="fs-idm386582240">Assume that Chuck, the owner of Cheesy Chuck’s, wants to assess the liquidity of the business. <link target-id="OSX_Acct_F02_03_ChuckRatio"/> shows the June 30, 2018, balance sheet. Assume the Equipment listed on the balance sheet is a noncurrent asset. This is a reasonable assumption as this is the first month of operation and the equipment is expected to last several years. We also assume the Accounts Payable and Wages Payable will be paid within one year and are, therefore, classified as current liabilities.</para>
+<figure id="OSX_Acct_F02_03_ChuckRatio">
+<media id="fs-idm394961248" alt="Cheesy Chuck’s Classic Corn, Balance Sheet, As of June 30, 2018. Assets: Cash 6,200, Equipment 12,500. Total Assets 18,700. Liabilities: Accounts Payable 650, Wages Payable 1,200. Total Liabilties 1,850; Owner’s Equity: Cheesy Chuck, Capital 16,800. Total Owner’s Equity 16,850; Total Liabilities and Owner’s Equity 18,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_ChuckRatio.jpg"/>
+</media>
+<caption>Balance Sheet for Cheesy Chuck’s Classic Corn. The balance sheet provides a snapshot of the company’s financial position. By showing the total assets, total liabilities, and total equity of the business, the balance sheet provides information that is useful for decision-making. In addition, using ratios can give stakeholders another view of the company, allowing for comparisons to prior periods and to other businesses. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm381024912">Working capital is calculated as current assets minus current liabilities. Cheesy Chuck’s has only two assets, and one of the assets, Equipment, is a noncurrent asset, so the value of current assets is the cash amount of $6,200. The working capital of Cheesy Chuck’s is $6,200 – $1,850 or $4,350. Since this amount is over $0 (it is well over $0 in this case), Chuck is confident he has nothing to worry about regarding the liquidity of his business.</para>
+<para id="fs-idm363195104">Let’s further assume that Chuck, while attending a popcorn conference for store owners, has a conversation with the owner of a much larger popcorn store—Captain Caramel’s. The owner of Captain Caramel’s happens to share the working capital for his store is $52,500. At first Chuck feels his business is not doing so well. But then he realizes that Captain Caramel’s is located in a much bigger city (with more customers) and has been around for many years, which has allowed them to build a solid business, which Chuck aspires to do. How would Chuck compare the liquidity of his new business, opened just one month, with the liquidity of a larger and more-established business in another market? The answer is by calculating the current ratio, which removes the size differences (materiality) of the two businesses.</para>
+<para id="fs-idm394865952">The current ratio is calculated as current assets/current liabilities. We use the same amounts that we used in the working capital calculation, but this time we divide the amounts rather than subtract the amounts. So Cheesy Chuck’s current ratio is $6,200 (current assets)/$1,850 (current liabilities), or 3.35. This means that for every dollar of current liabilities, Cheesy Chuck’s has $3.35 of current assets. Chuck is pleased with the ratio but does not know how this compares to another popcorn store, so he asked his new friend from Captain Caramel’s. The owner of Captain Caramel’s shares that his store has a current ratio of 4.25. While it is still better than Cheesy Chuck’s, Chuck is encouraged to learn that his store is performing at a more competitive level than he previously thought by comparing the dollar amounts of working capital.</para>
+<note id="fs-idm380852448" class="ifrs-connection">
+<title>IFRS and US GAAP in Financial Statements</title>
+<para id="fs-idm360680400">Understanding the elements that make up financial statements, the organization of those elements within the financial statements, and what information each statement relays is important, whether analyzing the financial statements of a US company or one from Honduras. Since most US companies apply generally accepted accounting principles (GAAP)<footnote id="fs-idm380987296">Publicly traded companies in the United States must file their financial statements with the SEC, and those statements must be compiled using US GAAP. However, in some states, private companies can apply IFRS for SMEs (small and medium entities).</footnote> as prescribed by the Financial Accounting Standards Board (FASB), and most international companies apply some version of the International Financial Reporting Standards (IFRS),<footnote id="fs-idm376679296">The following site identifies which countries require IFRS, which use a modified version of IFRS, and which countries prohibit the use of IFRS. https://www.iasplus.com/en/resources/ifrs-topics/use-of-ifrs</footnote> knowing how these two sets of accounting standards are similar or different regarding the elements of the financial statements will facilitate analysis and decision-making.</para>
+<para id="fs-idm386428512">Both IFRS and US GAAP have the same elements as components of financial statements: assets, liabilities, equity, income, and expenses. Equity, income, and expenses have similar subcategorization between the two types of GAAP (US GAAP and IFRS) as described. For example, income can be in the form of earned income (a lawyer providing legal services) or in the form of gains (interest earned on an investment account). The definition of each of these elements is similar between IFRS and US GAAP, but there are some differences that can influence the value of the account or the placement of the account on the financial statements. Many of these differences are discussed in detail later in this course when that element—for example, the nuances of accounting for liabilities—is discussed. Here is an example to illustrate how these minor differences in definition can impact placement within the financial statements when using US GAAP versus IFRS. ACME Car Rental Company typically rents its cars for a time of two years or 60,000 miles. At the end of whichever of these two measures occurs first, the cars are sold. Under both US GAAP and IFRS, the cars are noncurrent assets during the period when they are rented. Once the cars are being “held for sale,” under IFRS rules, the cars become current assets. However, under US GAAP, there is no specific rule as to where to list those “held for sale” cars; thus, they could still list the cars as noncurrent assets. As you learn more about the analysis of companies and financial information, this difference in placement on the financial statements will become more meaningful. At this point, simply know that financial analysis can include ratios, which is the comparison of two numbers, and thus any time you change the denominator or the numerator, the ratio result will change.</para>
+<para id="fs-idm359791312">There are many similarities and some differences in the actual presentation of the various financial statements, but these are discussed in <link document="m67848">The Adjustment Process</link> at which point these similarities and differences will be more meaningful and easier to follow.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm391608176" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm375459152" list-type="bulleted" bullet-style="bullet">
+<item>There are ten financial statement elements: revenues, expenses, gains, losses, assets, liabilities, equity, investments by owners, distributions to owners, and comprehensive income.</item>
+<item>There are standard conventions for the order of preparing financial statements (income statement, statement of owner’s equity, balance sheet, and statement of cash flows) and for the format (three-line heading and columnar structure).</item>
+<item>Financial ratios, which are calculated using financial statement information, are often beneficial to aid in financial decision-making. Ratios allow for comparisons between businesses and determining trends between periods within the same business.</item>
+<item>Liquidity ratios assess the firm’s ability to convert assets into cash.</item>
+<item>Working Capital (Current Assets – Current Liabilities) is a liquidity ratio that measures a firm’s ability to meet current obligations.</item>
+<item>The Current Ratio (Current Assets/Current Liabilities) is similar to Working Capital but allows for comparisons between firms by determining the proportion of current assets to current liabilities.</item>
+</list>
+</section>
+<section id="fs-idm384472304" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm339789968">
+<problem id="fs-idm391053104">
+<para id="fs-idm389316768"><link class="lo-reference" document="m67840"/>Which of the following is not an element of the financial statements?</para>
+<list id="fs-idm390968464" list-type="enumerated" number-style="upper-alpha">
+<item>future potential sales price of inventory</item>
+<item>assets</item>
+<item>liabilities</item>
+<item>equity</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm383825312">
+<problem id="fs-idm396831216">
+<para id="fs-idm383921792"><link class="lo-reference" document="m67840"/>Which of the following is the correct order of preparing the financial statements?</para>
+<list id="fs-idm377485712" list-type="enumerated" number-style="upper-alpha">
+<item>income statement, statement of cash flows, balance sheet, statement of owner’s equity</item>
+<item>income statement, statement of owner’s equity, balance sheet, statement of cash flows</item>
+<item>income statement, balance sheet, statement of owner’s equity, statement of cash flows</item>
+<item>income statement, balance sheet, statement of cash flows, statement of owner’s equity</item>
+</list>
+</problem>
+<solution id="fs-idm370272368">
+<para id="fs-idm373352624">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm374265504">
+<problem id="fs-idm384854832">
+<para id="fs-idm374279664"><link class="lo-reference" document="m67840"/>The three heading lines of financial statements typically include which of the following?</para>
+<list id="fs-idm362228112" list-type="enumerated" number-style="upper-alpha">
+<item>company, statement title, time period of report</item>
+<item>company headquarters, statement title, name of preparer</item>
+<item>statement title, time period of report, name of preparer</item>
+<item>name of auditor, statement title, fiscal year end</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm347423312">
+<problem id="fs-idm387042672">
+<para id="fs-idm363030112"><link class="lo-reference" document="m67840"/>Which financial statement shows the financial <emphasis effect="italics">performance</emphasis> of the company on a cash basis?</para>
+<list id="fs-idm383872208" list-type="enumerated" number-style="upper-alpha">
+<item>balance sheet</item>
+<item>statement of owner’s equity</item>
+<item>statement of cash flows</item>
+<item>income statement</item>
+</list>
+</problem>
+<solution id="fs-idm396201936">
+<para id="fs-idm372136144">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm374579344">
+<problem id="fs-idm391149712">
+<para id="fs-idm378014816"><link class="lo-reference" document="m67840"/>Which financial statement shows the financial <emphasis effect="italics">position</emphasis> of the company?</para>
+<list id="fs-idm373505840" list-type="enumerated" number-style="upper-alpha">
+<item>balance sheet</item>
+<item>statement of owner’s equity</item>
+<item>statement of cash flows</item>
+<item>income statement</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm377566608">
+<problem id="fs-idm364202800">
+<para id="fs-idm348339440"><link class="lo-reference" document="m67840"/>Working capital is an indication of the firm’s ________.</para>
+<list id="fs-idm343047632" list-type="enumerated" number-style="upper-alpha">
+<item>asset utilization</item>
+<item>amount of noncurrent liabilities</item>
+<item>liquidity</item>
+<item>amount of noncurrent assets</item>
+</list>
+</problem>
+<solution id="fs-idm381203520">
+<para id="fs-idm370660736">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm387792416" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm374714800">
+<problem id="fs-idm374429648">
+<para id="fs-idm386493616"><link class="lo-reference" document="m67840"/>Identify the order in which the four financial statements are prepared, and explain how the first three statements are interrelated.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm385300000">
+<problem id="fs-idm370702688">
+<para id="fs-idm374678976"><link class="lo-reference" document="m67840"/>Explain how the following items affect equity: revenue, expenses, investments by owners, and distributions to owners.</para>
+</problem>
+<solution id="fs-idm373994640">
+<para id="fs-idm360908368">Revenues and investments increase equity, while expenses and distributions decrease equity.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm373677520">
+<problem id="fs-idm372630048">
+<para id="fs-idm375793440"><link class="lo-reference" document="m67840"/>Explain the purpose of the statement of cash flows and why this statement is needed.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm389138144" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm382120432">
+<problem id="fs-idm379006160">
+<para id="fs-idm370976240"><link class="lo-reference" document="m67840"/>Prepare an income statement using the following information for DL Enterprises for the month of July 2018.</para>
+<media id="fs-idm380870160" class="scaled-down-30" alt="Sales revenue $62,500, Rental revenue 15,300, Product expense 52,200, Wages expense 18,900, Owner investment 12,000, Equipment purchases 56,000, Utilities expense 1,800, Taxes expense 400.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_EA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm363235184">
+<problem id="fs-idm385497632">
+<para id="fs-idm337776768"><link class="lo-reference" document="m67840"/>Prepare a statement of owner’s equity using the information provided for Pirate Landing for the month of October 2018.</para>
+<media id="fs-idm372915024" class="scaled-down-30" alt="Cash $14,500, Pirate Pete capital October 1 56,000, Net loss October 2017 7,800, Owner investments 1,500, Wages payable 3,250, Supplies expense 750, Owner withdrawals 100.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_EA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm380173616">
+<problem id="fs-idm380173360">
+<para id="fs-idm387682096"><link class="lo-reference" document="m67840"/>Prepare a balance sheet using the following information for the Ginger Company as of March 31, 2019.</para>
+<media id="fs-idm360865072" class="scaled-down-30" alt="Accounts payable $1,730, Cash 11,050, Ginger Ale capital March 1 17,300, Inventory 8,230, Wages payable 2,150, Sales 13,600, Product expenses 8,200, Ginger Ale capital March 31 22,700, Equipment 7,300.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_EA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm358807920" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm385498848">
+<problem id="fs-idm384558096">
+<para id="fs-idm384557840"><link class="lo-reference" document="m67840"/>Prepare an income statement using the following information for CK Company for the month of February 2019.</para>
+<media id="fs-idm370936384" class="scaled-down-30" alt="Sales revenue $26,250, Rental revenue 6,426, Product expense 21,924, Wages expense 7,938, Owner investment 5,040, Equipment purchases 23,520, Utilities expense 756, Taxes expense 168.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_EB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm387989088">
+<problem id="fs-idm387988832">
+<para id="fs-idm375501184"><link class="lo-reference" document="m67840"/>Prepare a statement of owner’s equity using the following information for the Can Due Shop for the month of September 2018.</para>
+<media id="fs-idm381997744" class="scaled-down-30" alt="Cash $51,040, Steve due capital September 197,120, Net income September 2018 27,456, Owner investments 5,280, Wages payable 11,440, Supplies expense 2,640, Owner withdrawals 352.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_EB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm359840528">
+<problem id="fs-idm348759440">
+<para id="fs-idm348759184"><link class="lo-reference" document="m67840"/>Prepare a balance sheet using the following information for Mike’s Consulting as of January 31, 2019.</para>
+<media id="fs-idm378909552" class="scaled-down-30" alt="Accounts payable $570, Cash 3,646, Mike Michael capital January 1 5,709, Inventory 2,716, Wages payable 710, Sales 4,488, Product expenses 2,706, Mike Michael capital January 31 7,491, Equipment 2,409.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_EB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm385425040" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm377076896">
+<problem id="fs-idm349278096">
+<para id="fs-idm349277840"><link class="lo-reference" document="m67840"/>The following ten transactions occurred during the July grand opening of the Pancake Palace. Assume all Retained Earnings transactions relate to the primary purpose of the business.</para>
+<media id="fs-idm384459184" alt="Increase Cash $50,000, increase Common Stock $50,000. Decrease Cash 6,000, increase Inventory 6,000. Increase Equipment 22,000, increase Accounts Payable 22,000. Increase Cash 1,250, increase Retained Earnings 1,250. Decrease Cash 750, decrease Retained Earnings 750 Increase Accounts Payable 600, decrease Retained Earnings 600. Increase Wages Payable 3,000, decrease Retained Earnings 3,000. Increase Cash 3,200, increase Retained Earnings 3,200 Increase Liabilities 175, decrease Retained Earnings 175. Decrease Cash 1,000, increase Equipment 1,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_PA03_img.jpg"/>
+</media>
+<list id="fs-idm385847184" list-type="enumerated" number-style="upper-alpha">
+<item>Calculate the ending balance for each account.</item>
+<item>Create the income statement.</item>
+<item>Create the statement of owner’s equity.</item>
+<item>Create the balance sheet.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm387841744" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm397603008">
+<problem id="fs-idm397602752">
+<para id="fs-idm389091408"><link class="lo-reference" document="m67840"/>For each of the following ten independent transactions, provide a written description of what occurred in each transaction. <link document="m67839" target-id="OSX_Acct_F02_02_GraphEqn"/> might help you.</para>
+<media id="fs-idm375743248" alt="Increase Cash $57,500, increase Common Stock 57,500. Decrease Cash 6,900, increase Inventory 6,900. Increase Equipment 25,300, increase Accounts Payable 25,300. Increase Cash 1,438, increase Retained Earnings 1,438. Decrease Cash 863, decrease Retained Earnings 863. Increase Accounts Payable 460, decrease Retained Earnings 460. Increase Wages Payable 3,450, decrease Retained Earnings 3,450. Increase Cash 3,680, increase Retained Earnings 3,680. Increase Accounts Payable 102, decrease Retained Earnings 102. Decrease Cash 1,150, increase Equipment 1,150.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_TP01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm379755296">
+<problem id="fs-idm373368528">
+<para id="fs-idm373368272"><link class="lo-reference" document="m67840"/>The following historical information is from Assisi Community Markets.</para>
+<media id="fs-idm342530448" alt="Year 1 42,000, 12,500, 6,200, 12,500, 3,200. Year 2 37,500, 16,800, 7,600, 14,600, 3,700. Year 3 26,800, 22,900, 10,300, 19,800, 4,500. Year 4 22,100, 28,000, 15,400, 20,600, 6,000. Year 5 15,700, 29,500, 16,700, 22,900, 8,200.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_03_TP02_img.jpg"/>
+</media>
+<para id="fs-idm344754512">Calculate the working capital and current ratio for each year. What observations do you make, and what actions might the owner consider taking?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm380499024">
+<term>comprehensive income</term>
+<meaning id="fs-idm380721952">change in equity of a business enterprise during a period from transactions and other events and circumstances from nonowner sources</meaning>
+</definition>
+<definition id="fs-idm377349360">
+<term>current ratio</term>
+<meaning id="fs-idm375426960">current assets divided by current liabilities; used to determine a company’s liquidity (ability to meet short-term obligations)</meaning>
+</definition>
+<definition id="fs-idm385474880">
+<term>elements of the financial statements</term>
+<meaning id="fs-idm340675136">categories or groupings used to record transactions and prepare financial statements</meaning>
+</definition>
+<definition id="fs-idm338313136">
+<term>liquidity</term>
+<meaning id="fs-idm370398656">ability to convert assets into cash in order to meet primarily short-term cash needs or emergencies</meaning>
+</definition>
+<definition id="fs-idm381910944">
+<term>working capital</term>
+<meaning id="fs-idm342654464">current assets less current liabilities; sometimes used as a measure of liquidity</meaning>
+</definition>
+</glossary>
+</document>

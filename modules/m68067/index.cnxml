@@ -1,0 +1,273 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Prepare Flexible Budgets</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68067</md:content-id>
+  <md:title>Prepare Flexible Budgets</md:title>
+  <md:abstract/>
+  <md:uuid>fe7b3450-90b8-4ed5-894b-aef1467e2c4c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm492613696">A company makes a budget for the smallest time period possible so that management can find and adjust problems to minimize their impact on the business. Everything starts with the estimated sales, but what happens if the sales are more or less than expected? How does this affect the budget? What adjustments does a company have to make in order to compare the actual numbers to budgeted numbers when evaluating results? If production is higher than planned and has been increased to meet the increased sales, expenses will be over budget. But is this bad? To account for actual sales and expenses differing from budgeted sales and expenses, companies will often create flexible budgets to allow budgets to fluctuate with future demand.</para>
+<section id="fs-idm201240624">
+<title>Flexible Budgets</title>
+<para id="fs-idm189472944">A <term>flexible budget</term> is one based on different volumes of sales. A flexible budget flexes the static budget for each anticipated level of production. This flexibility allows management to estimate what the budgeted numbers would look like at various levels of sales. Flexible budgets are prepared at each analysis period (usually monthly), rather than in advance, since the idea is to compare the operating income to the expenses deemed appropriate at the actual production level.</para>
+<para id="fs-idm163705456">Big Bad Bikes is planning to use a flexible budget when they begin making trainers. The company knows its variable costs per unit and knows it is introducing its new product to the marketplace. Its estimations of sales and sales price will likely change as the product takes hold and customers purchase it. Big Bad Bikes developed a flexible budget that shows the change in income and expenses as the number of units changes. It also looked at the effect a change in price would have if the number of units remained the same. The expenses that do not change are the fixed expenses, as shown in <link target-id="OSX_Acct_M07_04_BBBFlexBud"/>.</para>
+<figure id="OSX_Acct_M07_04_BBBFlexBud">
+<media id="fs-idm179018912" alt="A flexible budget for Big Bad Bikes presents three budget scenarios for different quantities of units sold and different sale prices. Per-unit costs are identified: direct material $4, direct labor $15, variable manufacturing overhead $3, and variable sales and admin $3. In the first scenario, 1,000 units are sold at a sales price of $70 for total sales income of $70,000. Budget items for the first scenario are: direct material $4,000, direct labor $15,000, variable manufacturing overhead $3,000, fixed manufacturing overhead $29,000, total cost of goods sold $51,000, gross profit $19,000, variable sales and admin $2,500, fixed sales and admin $18,000, income taxes $1,000, total other expenses $21,500, resulting in a net loss of $2,500. In the second scenario, 1,500 units are sold at a sales price of $70 for total sales income of $105,000. Budget items for the second scenario are: direct material $6,000, direct labor $22,500, variable manufacturing overhead $4,500, fixed manufacturing overhead $29,000, total cost of goods sold $62,000, gross profit $43,000, variable sales and admin $3,750, fixed sales and admin $18,000, income taxes $1,000, total other expenses $22,750, resulting in a net income gain of $20,250. In the third scenario, 1,500 units are sold at a sales price of $75 for total sales income of $112,500. Budget items for the third scenario are: direct material $6,000, direct labor $22,500, variable manufacturing overhead $4,500, fixed manufacturing overhead $29,000, total cost of goods sold $62,000, gross profit $50,500, variable sales and admin $3,750, fixed sales and admin $18,000, income taxes $1,000, total other expenses $22,750, resulting in a net income gain of $27,750.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_04_BBBFlexBud.jpg"/>
+</media>
+<caption>Flexible Budget for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm204102384">
+<title>Static versus Flexible Budgets</title>
+<para id="fs-idm200370128">A <term>static budget</term> is one that is prepared based on a single level of output for a given period. The master budget, and all the budgets included in the master budget, are examples of static budgets. Actual results are compared to the static budget numbers as one means to evaluate company performance. However, this comparison may be like comparing apples to oranges because variable costs should follow production, which should follow sales. Thus, if sales differ from what is budgeted, then comparing actual costs to budgeted costs may not provide a clear indicator of how well the company is meeting its targets. A flexible budget created each period allows for a comparison of apples to apples because it will calculate budgeted costs based on the actual sales activity.</para>
+<para id="fs-idm220377936">For example, <link target-id="OSX_Acct_M07_04_BBBStaticB"/> shows a static quarterly budget for 1,500 trainers sold by Big Bad Bikes. The budget will change if there are more or fewer units sold.</para>
+<figure id="OSX_Acct_M07_04_BBBStaticB" class="scaled-down">
+<media id="fs-idm200052272" alt="Big Bad Bikes, Static Quarterly Budget for Each Quarter: Units sold 1,500 times Sales price $70 equals Sales $105,000. Budget items are: Direct material $6,000, Direct labor $22,500, Variable manufacturing overhead $4,500, Fixed manufacturing overhead $29,000, Total cost of goods sold $62,000, gross profit $43,000, variable sales and admin $3,750, fixed sales and admin $18,000, no interest expense, income taxes $1,000, total other expenses $22,750, net income $20,250.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_04_BBBStaticB.jpg"/>
+</media>
+<caption>Static Budget for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm199310688">
+<title>Budget with Varying Levels of Production</title>
+<para id="fs-idm163067296">Companies develop a budget based on their expectations for their most likely level of sales and expenses. Often, a company can expect that their production and sales volume will vary from budget period to budget period. They can use their various expected levels of production to create a flexible budget that includes these different levels of production. Then, they can modify the flexible budget when they have their actual production volume and compare it to the flexible budget for the same production volume. A flexible budget is more complicated, requires a solid understanding of a company’s fixed and variable expenses, and allows for greater control over changes that occur throughout the year. For example, suppose a proposed sale of items does not occur because the expected client opted to go with another supplier. In a static budget situation, this would result in large variances in many accounts due to the static budget being set based on sales that included the potential large client. A flexible budget on the other hand would allow management to adjust their expectations in the budget for both changes in costs and revenue that would occur from the loss of the potential client. The changes made in the flexible budget would then be compared to what actually occurs to result in more realistic and representative variance. This ability to change the budget also makes it easier to pinpoint who is responsible if a revenue or cost target is missed.</para>
+<para id="fs-idm213603744">Big Bad Bikes used the flexible budget concept to develop a budget based on its expectation that production levels will vary by quarter. By the fourth quarter, sales are expected to be strong enough to pay back the financing from earlier in the year. The budget shown in <link target-id="OSX_Acct_M07_04_BBBVaPrdBd"/> illustrates the payment of interest and contains information helpful to management when determining which items should be produced if production capacity is limited.</para>
+<figure id="OSX_Acct_M07_04_BBBVaPrdBd">
+<media id="fs-idm178945280" alt="A varying production budget for Big Bad Bikes presents budget items for four quarters. Per-unit costs are identified: direct material $4, direct labor $15, variable manufacturing overhead $3, and variable sales and admin $3. In the first quarter, 1,000 units are sold at a sales price of $70 for total sales income of $70,000. Budget items for the first quarter are: direct material $4,000, direct labor $15,000, variable manufacturing overhead $3,000, fixed manufacturing overhead $29,000, total cost of goods sold $51,000, gross profit $19,000, variable sales and admin $2,500, fixed sales and admin $18,000, income taxes $1,000, total other expenses $21,500, resulting in a net loss of $2,500. The second quarter is identical to the first quarter. In the third quarter, 1,500 units are sold for a sales price of $75 for total sales income of $112,500. Budget items for the third quarter are: direct material $6,000, direct labor $22,500, variable manufacturing overhead $4,500, fixed manufacturing overhead $29,000, total cost of goods sold $62,000, gross profit $50,500, variable sales and admin $3,750, fixed sales and admin $18,000, income taxes $1,000, total other expenses $22,750, resulting in a net income gain of $27,750. In the fourth quarter, 2,500 units are sold for a sales price of $75 for total sales income of $187,500. Budget items for the fourth quarter are: direct material $10,000, direct labor $37,500, variable manufacturing overhead $7,500, fixed manufacturing overhead $29,000, total cost of goods sold $84,000, gross profit $103,500, variable sales and admin $6,250, fixed sales and admin $18,000, income taxes $1,653, total other expenses $26,903, resulting in a net income gain of $76,597.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_04_BBBVaPrdBd.jpg"/>
+</media>
+<caption>Varying Production Levels for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm197586384" class="concepts-practice">
+<title>Flexible Budgets and Sustainability</title>
+<para id="fs-idm218589584">The ability to provide flexible budgets can be critical in new or changing businesses where the accuracy of estimating sales or usage my not be strong. For example, organizations are often reporting their sustainability efforts and may have some products that require more electricity than other products. The reporting of the energy per unit of output has sometimes been in error and can mislead management into making changes that may or may not help the company. For example, based on the energy per unit reported, management may decide to change the product mix, the amount that is outsourced, and/or the amount that is produced.<footnote id="fs-idm200656368">Jon Bartley, et al. “Using Flexible Budgeting to Improve Sustainability Measures.: <emphasis effect="italics">American Institute of CPAs</emphasis>. Jan. 23, 2017. https://www.aicpa.org/interestareas/businessindustryandgovernment/resources/sustainability/improvesustainabilitymeasures.html</footnote> If the energy output isn’t correct, the decisions may be wrong and create an adverse impact on the budget.</para>
+</note>
+<note id="fs-idm184296352" class="link-to-learning">
+<para id="fs-idm213489392">In theory, a flexible budget is not difficult to develop since the variable costs change with production and the fixed costs remain the same. However, planning to meet an organization’s goals can be very difficult if there are not many variable costs, if the cash inflows are relatively fixed, and if the fixed costs are high. For example, this <link url="https://openstax.org/l/50HighFixedCost">article shows some large U.S. cities are faced with complicated budgets</link> because of high fixed costs.</para>
+</note>
+</section>
+<section id="fs-idm163831184" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm203769520" list-type="bulleted" bullet-style="bullet">
+<item>A master budget and related budgets are prepared as static budgets for the estimated level of activity.</item>
+<item>A flexible budget adjusts the budgets for various levels of activity and allows for the actual results to be evaluated at the actual volume of activity.</item>
+</list>
+</section>
+<section id="fs-idm161832944" class="multiple-choice">
+<exercise id="fs-idm222609568">
+<problem id="fs-idm211736032">
+<para id="fs-idm177964480"><link class="lo-reference" document="m68067"/>Which budget evaluates the results of operations at the actual level of activity?</para>
+<list id="fs-idm219727568" list-type="enumerated" number-style="upper-alpha">
+<item>capital budget</item>
+<item>cash budget</item>
+<item>flexible budget</item>
+<item>static budget</item>
+</list>
+</problem>
+<solution id="fs-idm199233136">
+<para id="fs-idm177931952">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm194894144">
+<problem id="fs-idm205294128">
+<para id="fs-idm161997136"><link class="lo-reference" document="m68067"/>What is the main difference between static and flexible budgets?</para>
+<list id="fs-idm198680160" list-type="enumerated" number-style="upper-alpha">
+<item>The fixed manufacturing overhead is adjusted for units sold in the flexible budget.</item>
+<item>The variable manufacturing overhead is adjusted in the static budget.</item>
+<item>There is no difference between the budgets.</item>
+<item>The variable costs are adjusted in a flexible budget.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm196784576" class="questions">
+<exercise id="fs-idm166132224">
+<problem id="fs-idm493964816">
+<para id="fs-idm203468768"><link class="lo-reference" document="m68067"/>A company has prepared the operating budget and the cash budget. It is now preparing the budgeted balance sheet. Identify the document that contains each of these balances.</para>
+<list id="fs-idm205740160" list-type="enumerated" number-style="upper-alpha">
+<item>cash</item>
+<item>accounts receivable</item>
+<item>finished goods inventory</item>
+<item>accounts payable</item>
+<item>equipment purchases</item>
+</list>
+</problem>
+<solution id="fs-idm216118080">
+<para id="fs-idm195980608">A. cash budget; B. cash receipts budget; C. production budget; D. cash payments schedule; E. capital assets budget</para>
+</solution>
+</exercise>
+<exercise id="fs-idm200601072">
+<problem id="fs-idm200909472">
+<para id="fs-idm195297296"><link class="lo-reference" document="m68067"/>Fill in the blanks: A flexible budget summarizes _______ and _______ for various volume levels by adjusting the _______ costs for the various levels of activities. The _______ costs remain the same for all levels of activities.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm206802496">
+<problem id="fs-idm200756624">
+<para id="fs-idm199594848"><link class="lo-reference" document="m68067"/>What information is included in the capital asset budget?</para>
+</problem>
+<solution id="fs-idm200041456">
+<para id="fs-idm203883376">This budget is the plan for the purchase and disposal of plant assets and lists the estimated dollar amounts for each.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm215880944" class="exercise-set-a">
+<exercise id="fs-idm169606960">
+<problem id="fs-idm201519440">
+<para id="fs-idm490966272"><link class="lo-reference" document="m68067"/>Cold X, Inc. uses this information when preparing their flexible budget: direct materials of $2 per unit, direct labor of $3 per unit, and manufacturing overhead of $1 per unit. Fixed costs are $35,000. What would be the budgeted amounts for 20,000 and 25,000 units?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm214995024">
+<problem id="fs-idm217720496">
+<para id="fs-idm203505728"><link class="lo-reference" document="m68067"/>Using the provided budgeted information for production of 10,000 and 15,000 units, prepare a flexible budget for 17,000 units.</para>
+<media id="fs-idm205398560" class="scaled-down" alt="Production, 10,000 units, 15,000 units; Expense A, $15,000, 22,500; Expense B, 21,000, 21,000; Expense C, 43,000, 43,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_04_EA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm194880000" class="exercise-set-b">
+<exercise id="fs-idm222594304">
+<problem id="fs-idm219845600">
+<para id="fs-idm225462352"><link class="lo-reference" document="m68067"/>Judge’s Gavel uses this information when preparing their flexible budget: direct materials of $3 per unit, direct labor of $2.50 per unit, and manufacturing overhead of $1.25 per unit. Fixed costs are $49,000. What would be the budgeted amounts for 33,000 and 35,000 units?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm199742800">
+<problem id="fs-idm201825024">
+<para id="fs-idm219424224"><link class="lo-reference" document="m68067"/>Using the following budgeted information for production of 5,000 and 12,000 units, prepare a flexible budget for 9,000 units.</para>
+<media id="fs-idm168858736" class="scaled-down" alt="Production, 5,000 units, 12,000 units; Expense A, $17,500, 42,000; Expense B, 19,000, 19,000; Expense C, 21,000, 21,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_04_EB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm176647104" class="problem-set-a">
+<exercise id="fs-idm194560208">
+<problem id="fs-idm205787984">
+<para id="fs-idm208741424"><link class="lo-reference" document="m68067"/>Prepare a flexible budgeted income for 120,000 units using the following information from a static budget for 100,000 units:</para>
+<media id="fs-idm178852208" class="scaled-down" alt="Sales price $90, Direct material per unit 30, Direct labor per unit 15, Variable manufacturing overhead per unit 13, Fixed manufacturing overhead 75,000, Variable sales and admin expenses per unit 3, Fixed sales and admin expenses 25,000, Taxes 30 percent of income before taxes.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_04_PA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm221017088">
+<problem id="fs-idm162709024">
+<para id="fs-idm214738752"><link class="lo-reference" document="m68067"/>Before the year began, the following static budget was developed for the estimated sales of 100,000. Sales are sluggish and management needs to revise its budget. Use this information to prepare a flexible budget for 80,000 and 90,000 units of sales.</para>
+<media id="fs-idm203583696" class="scaled-down" alt="Sales $3,500,000 less cost of goods sold: Direct material 900,000, Direct labor 1,000,000, Variable manufacturing overhead 80,000 equals 2,230,000 cost of goods sold Equals Gross profit 1,270,000 Less Variable sales and admin expenses 100,000 and Fixed sales and admin expenses 950,000 equals Income before taxes 220,000 Less Taxes 66,000 equals Net Income $154,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_04_PA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm217541536">
+<problem id="fs-idm201324800">
+<para id="fs-idm218699424"><link class="lo-reference" document="m68067"/>Caribbean Hammocks currently sells 75,000 units at $50 per unit. Its expenses are:</para>
+<media id="fs-idm184264272" class="scaled-down" alt="Direct material per unit $9, Direct labor per unit 10, Variable manufacturing overhead per unit 7, Variable sales and admin expenses per unit 2, Fixed manufacturing overhead 75,000, Fixed sales and admin expenses 850,000, Taxes 30 percent of income before taxes.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_04_PA03_img.jpg"/>
+</media>
+<para id="fs-idm214195744">Management believes it can increase sales by 5,000 units for every $5 decrease in sales price. It also believes the additional sales will allow a decrease in direct material of $1 for each additional 5,000 units. Prepare a flexible budgeted income statement for 75,000-, 80,000-, and 85,000-unit sales.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm168662368">
+<problem id="fs-idm205398000">
+<para id="fs-idm214230640"><link class="lo-reference" document="m68067"/>Total Pop’s data show the following information:</para>
+<media id="fs-idm216203712" class="scaled-down" alt="January, February, March, April, May (respectively): Estimated sales (in units) 15,000, 14,500, 16,000, 15,500, 15,800; Sales price per unit $45, 45, 45, 45, 45; Direct labor per unit 3, 3, 2.25, 2, 2; Labor rate per hour $18, 18, 21, 21, 21.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_04_PA04_img.jpg"/>
+</media>
+<para id="fs-idm224070784">New machinery will be added in April. This machine will reduce the labor required per unit and increase the labor rate for those employees qualified to operate the machinery. Finished goods inventory is required to be 20% of the next month’s requirements. Direct material requires 2 pounds per unit at a cost of $3 per pound. The ending inventory required for direct materials is 15% of the next month’s needs. In January, the beginning inventory is 3,000 units of finished goods and 4,470 pounds of material. Prepare a production budget, direct materials budget, and direct labor budget for the first quarter of the year.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm177875792">
+<problem id="fs-idm177950208">
+<para id="fs-idm214672512"><link class="lo-reference" document="m68067"/>Identify the document that contains the information listed in these lines from the budgeted balance sheet shown.</para>
+<list id="fs-idm216266640" list-type="enumerated" number-style="upper-alpha">
+<item>Cash</item>
+<item>Accounts receivable</item>
+<item>Raw materials inventory</item>
+<item>Computers</item>
+<item>Accounts payable</item>
+</list>
+<media id="fs-idm203619232" class="scaled-down" alt="Assets: Cash $2,500,000A; Accounts receivable 5,381,239 B; Raw materials inventory 3,149,183 C; Finished goods inventory 6,239,138 Equals Total current assets $17,269,560; Property, plant, and equipment: Computers $150,000 D, Machinery 9,745,231, less Accumulated Depreciation (5,385,733) equals Net Property, plant, and equipment 4,509,498 Equals Total assets $21,779,058; Liabilities: Accounts Payable $3,242,938 E; Notes payable 8,289,722 Equals Total liabilities $11,532,660; Stockholders’ equity: Common stock $5,000,000, Retained earnings 5,246,398 Equals Total stockholders’ equity $10,246,398; Total liabilities and stockholders’ equity $21,779,058.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_04_PA05_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm210428048" class="problem-set-b">
+<exercise id="fs-idm211668512">
+<problem id="fs-idm222346896">
+<para id="fs-idm218756112"><link class="lo-reference" document="m68067"/>Prepare a flexible budgeted income statement for 47,000 units using the following information from a static budget for 45,000 units:</para>
+<media id="fs-idm211636384" class="scaled-down" alt="Sales price $50, Direct material per unit 12, Direct labor per unit 5, Variable manufacturing overhead per unit 3, Fixed manufacturing overhead 25,000, Variable sales and admin expenses per unit 3, Fixed sales and admin expenses 9,000, Taxes 15 percent of income before taxes.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_04_PB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm205297376">
+<problem id="fs-idm220337296">
+<para id="fs-idm221470128"><link class="lo-reference" document="m68067"/>Before the year began, the following static budget was developed for the estimated sales of 50,000. Sales are higher than expected and management needs to revise its budget. Prepare a flexible budget for 100,000 and 110,000 units of sales.</para>
+<media id="fs-idm210561680" class="scaled-down" alt="50,000 Units: Sales $1,250,000 less cost of goods sold: Direct material 450,000, Direct labor 500,000, Variable manufacturing overhead 125,000, Fixed manufacturing overhead 32,000 equals 1,107,000 cost of goods sold Equals Gross profit 143,000 Less Variable sales and admin expenses 50,000 and Fixed sales and admin expenses 105,000 equals Income before taxes (12,000) Less Taxes (1,800) equals Net Income $(10,200).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_04_PB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm215107968">
+<problem id="fs-idm215901008">
+<para id="fs-idm203678592"><link class="lo-reference" document="m68067"/>Artic Camping Gear’s currently sells 35,000 units at $73 per unit. Its expenses are as follows:</para>
+<media id="fs-idm218947808" class="scaled-down" alt="Direct material per unit $4, Direct labor per unit 7, Variable manufacturing overhead per unit 3, Variable sales and admin expenses per unit 1.50, Fixed manufacturing overhead 21,000, Fixed sales and admin expenses 89,000, Taxes 15 percent of income before taxes.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_04_PB03_img.jpg"/>
+</media>
+<para id="fs-idm218948880">Management believes it can increase sales by 2,000 units for every $5 decrease in sales price. It also believes the additional sales will allow a decrease in direct material of $1 for each additional 2,000 units. Prepare a flexible budgeted income statement for 35,000-, 37,000-, and 39,000-unit sales.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm215046064">
+<problem id="fs-idm209486432">
+<para id="fs-idm217686640"><link class="lo-reference" document="m68067"/>Fruit Tea’s data show the following information:</para>
+<media id="fs-idm208772816" class="scaled-down" alt="August, September, October, November, December (respectively): Estimated sales (in units) 25,000, 25,000, 27,000, 27,500, 28,000; Sales price per unit $31, 31, 31, 31, 31; Direct labor per unit 1.75, 1.75, 1.50, 1.50, 1.50; Labor rate per hour $21, 21, 24, 24, 24.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_04_PB04_img.jpg"/>
+</media>
+<para id="fs-idm213119776">New machinery will be added in October. This machine will reduce the labor required per unit and increase the labor rate for those employees qualified to operate the machinery. Finished goods inventory is required to be 20% of the next month’s requirements. Direct material requires 2.5 pounds per unit at a cost of $5 per pound. The ending inventory required for direct materials is 20% of the next month’s needs. In August, the beginning inventory is 3,750 units of finished goods and 13,125 pounds of materials. Prepare a production budget, direct materials budget, and direct labor budget for the first quarter of the year.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm199503728">
+<problem id="fs-idm177321760">
+<para id="fs-idm217324096"><link class="lo-reference" document="m68067"/>Identify the document that contains the information listed in these lines from the budgeted balance sheet shown.</para>
+<list id="fs-idm348571248" list-type="enumerated" number-style="upper-alpha">
+<item>Accounts receivable</item>
+<item>Finished goods inventory</item>
+<item>Machinery</item>
+<item>Accumulated depreciation</item>
+<item>Notes payable</item>
+<item>Common stock</item>
+</list>
+<media id="fs-idm210134960" class="scaled-down" alt="Assets: Cash $2,500,000; Accounts receivable 5,381,239 A; Raw materials inventory 3,149,183 Finished goods inventory 6,239,138 B; Equals Total current assets $17,269,560; Property, plant, and equipment: Computers $150,000, Machinery 9,745,231 C, less Accumulated Depreciation (5,385,733) D, equals Net Property, plant, and equipment 4,509,498 Equals Total assets $21,779,058; Liabilities: Accounts Payable $3,242,938; Notes payable 8,289,722 E Equals Total liabilities $11,532,660; Stockholders’ equity: Common stock $5,000,000 F, Retained earnings 5,246,398; Equals total stockholders’ equity $10,246,398; Total liabilities and stockholders’ equity $21,779,058.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_04_PB05_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm214666480" class="thought-provokers">
+<exercise id="fs-idm217739616">
+<problem id="fs-idm220287872">
+<para id="fs-idm208795376"><link class="lo-reference" document="m68067"/>The management of Hess, Inc., is developing a flexible budget for the upcoming year. It was not pleased with the small amount of net income the budget showed at all sales levels and is contemplating using a less expensive material. This action reduces direct material cost by $1 per unit. What would be the effects on financial statements and a flexible budget if management takes this approach? Are there other factors that need to be considered?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm199110944">
+<problem id="fs-idm215094960">
+<para id="fs-idm196573168"><link class="lo-reference" document="m68067"/>When would a static budget be effective in evaluating a manager’s performance?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm201076672">
+<term>flexible budget</term>
+<meaning id="fs-idm214475952">budget based on different levels of activity</meaning>
+</definition>
+<definition id="fs-idm201069456">
+<term>static budget</term>
+<meaning id="fs-idm225538080">budget prepared for a single level of activity for a given period</meaning>
+</definition>
+</glossary>
+</document>

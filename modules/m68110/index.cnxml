@@ -1,0 +1,931 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Identify and Apply Basic Cost Behavior Patterns</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68110</md:content-id>
+  <md:title>Identify and Apply Basic Cost Behavior Patterns</md:title>
+  <md:abstract/>
+  <md:uuid>9769b01b-d428-4d6a-bdcc-2cc4fe76e884</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm182470256">Now that we have identified the three key types of businesses, let’s identify <term class="no-emphasis">cost behaviors</term> and apply them to the business environment. In managerial accounting, different companies use the term <emphasis effect="italics">cost</emphasis> in different ways depending on how they will use the cost information. Different decisions require different costs classified in different ways. For instance, a manager may need cost information to plan for the coming year or to make decisions about expanding or discontinuing a product or service. In practice, the classification of costs changes as the use of the cost data changes. In fact, a single cost, such as rent, may be classified by one company as a fixed cost, by another company as a committed cost, and by even another company as a period cost. Understanding different cost classifications and how certain costs can be used in different ways is critical to managerial accounting.</para>
+<note id="fs-idm195427728" class="ethical-considerations">
+<title>Institute of Management Accountants and Certified Management Accountant Certification</title>
+<para id="fs-idm205829088">Managerial accountants provide businesses with clear and direct insight into the monetary effects of any particular operational action under consideration. They are expected to report financial information in a transparent and ethical fashion. The Institute of Management Accountants (IMA) offers the Certified Management Accountant (CMA) certification. IMA members and CMAs agree to uphold a set of ethical principles that includes honesty, fairness, objectivity, and responsibility. Any managerial accountant, even if not an IMA member or certified CMA, should act in accordance with these principles and encourage coworkers to follow ethical principles for reporting financial results and monetary effects of financial decisions related to their organization. The IMA Committee on Ethics encourages organizations and individuals to adopt, promote, and execute business practices consistent with high ethical standards.<footnote id="fs-idm207919888">“Ethics Center.” Institute of Management Accountants. https://www.imanet.org/career-resources/ethics-center?ssopc=1</footnote></para>
+</note>
+<section id="fs-idm221467424">
+<title>Major Cost Behavior Patterns</title>
+<para id="fs-idm214995984">Any discussion of costs begins with the understanding that most costs will be classified in one of three ways: fixed costs, variable costs, or mixed costs. The costs that don’t fall into one of these three categories are hybrid costs, which are examined only briefly because they are addressed in more advanced accounting courses. Because fixed and variable costs are the foundation of all other cost classifications, understanding whether a cost is a fixed cost or a variable cost is very important.</para>
+<section id="fs-idm204348912">
+<title>Fixed versus Variable Costs</title>
+<para id="fs-idm214653712">A <term>fixed cost</term> is an unavoidable operating expense that does not change in total over the short term, even if a business experiences variation in its level of activity. <link target-id="fs-idm206262800"/> illustrates the types of fixed costs for merchandising, service, and manufacturing organizations.</para>
+<table id="fs-idm206262800" class="top-titled" summary="Assessment information">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Examples of Fixed Costs</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Type of Business</entry>
+<entry valign="top" align="center">Fixed Cost</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Merchandising</entry>
+<entry valign="top" align="left">Rent, insurance, managers’ salaries</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Manufacturing</entry>
+<entry valign="top" align="left">Property taxes, insurance, equipment leases</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Service</entry>
+<entry valign="top" align="left">Rent, straight-line depreciation, administrative salaries, and insurance</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm203291200">We have established that fixed costs do not change in total as the level of activity changes, but what about fixed costs on a <emphasis effect="italics">per-unit</emphasis> basis? Let’s examine Tony’s screen-printing company to illustrate how costs can remain fixed in total but change on a per-unit basis.</para>
+<para id="fs-idm208407472">Tony operates a screen-printing company, specializing in custom T-shirts. One of his fixed costs is his monthly rent of $1,000. Regardless of whether he produces and sells any T-shirts, he is obligated under his lease to pay $1,000 per month. However, he can consider this fixed cost on a per-unit basis, as shown in <link target-id="OSX_Acct_M02_02_Tony01"/>.</para>
+<figure id="OSX_Acct_M02_02_Tony01" class="scaled-down">
+<media id="fs-idm202608768" alt="Monthly Rent, Number of T-shirts Manufactured, Average Rent Cost per T-shirt, respectively: $1,000, 200, $5.00; 1,000, 400, 2.50; 1,000, 600, 1.67.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_Tony01.jpg"/>
+</media>
+<caption>Individual Rent Cost per T-Shirt Produced. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm216509616">Tony’s information illustrates that, despite the unchanging fixed cost of rent, as the level of activity increases, the per-unit fixed cost falls. In other words, fixed costs remain fixed in total but can increase or decrease on a per-unit basis.</para>
+<para id="fs-idm196389584">Two specialized types of fixed costs are committed fixed costs and discretionary fixed costs. These classifications are generally used for long-range planning purposes and are covered in upper-level managerial accounting courses, so they are only briefly described here.</para>
+<para id="fs-idm200371264">Committed fixed costs are fixed costs that typically cannot be eliminated if the company is going to continue to function. An example would be the lease of factory equipment for a production company.</para>
+<para id="fs-idm205876192">Discretionary fixed costs generally are fixed costs that can be incurred during some periods and postponed during other periods but which cannot normally be eliminated permanently. Examples could include advertising campaigns and employee training. Both of these costs could potentially be postponed temporarily, but the company would probably incur negative effects if the costs were permanently eliminated. These classifications are generally used for long-range planning purposes.</para>
+<para id="fs-idm213997680">In addition to understanding fixed costs, it is critical to understand variable costs, the second fundamental cost classification. A <term>variable cost</term> is one that varies in direct proportion to the level of activity within the business. Typical costs that are classified as variable costs are the cost of raw materials used to produce a product, labor applied directly to the production of the product, and overhead expenses that change based upon activity. For each variable cost, there is some activity that drives the variable cost up or down. A <term>cost driver</term> is defined as any activity that causes the organization to incur a variable cost. Examples of cost drivers are direct labor hours, machine hours, units produced, and units sold. <link target-id="fs-idm214993264"/> provides examples of variable costs and their associated cost drivers.</para>
+<table id="fs-idm214993264" class="top-titled" summary="Assessment information">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c3">Variable Costs and Associated Cost Drivers</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="center">Variable Cost</entry>
+<entry valign="top" align="center">Cost Driver</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Merchandising</entry>
+<entry valign="top" align="left">Total monthly hourly wages for sales staff</entry>
+<entry valign="top" align="left">Hours business is open during month</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Manufacturing</entry>
+<entry valign="top" align="left">Direct materials used to produce one unit of product</entry>
+<entry valign="top" align="left">Number of units produced</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Service</entry>
+<entry valign="top" align="left">Cost of laundering linens and towels</entry>
+<entry valign="top" align="left">Number of hotel rooms occupied</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm195208416">Unlike fixed costs that remain fixed in total but change on a per-unit basis, variable costs remain the same per unit, but change in total relative to the level of activity in the business. Revisiting Tony’s T-Shirts, <link target-id="OSX_Acct_M02_02_Tony02"/> shows how the variable cost of ink behaves as the level of activity changes.</para>
+<figure id="OSX_Acct_M02_02_Tony02" class="scaled-down">
+<media id="fs-idm197122976" alt="Cost of Ink per T-Shirt, Number of T-shirts Produced, Total Variable Cost of Ink, respectively: $0.15, 2,000, $300; 0.15, 4,000, 600; 0.15, 6,000, 900.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_Tony02.jpg"/>
+</media>
+<caption>Variable Costs per Unit. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm212095856">As <link target-id="OSX_Acct_M02_02_Tony02"/> shows, the variable cost per unit (per T-shirt) does not change as the number of T-shirts produced increases or decreases. However, the variable costs change in total as the number of units produced increases or decreases. In short, total variable costs rise and fall as the level of activity (the cost driver) rises and falls.</para>
+<para id="fs-idm217595136">Distinguishing between fixed and variable costs is critical because the <term>total cost</term> is the sum of all fixed costs (the <term>total fixed costs</term>) and all variable costs (the <term>total variable costs</term>). For every unit produced, every customer served, or every hotel room rented, for example, managers can determine their total costs both per unit of activity and in total by combining their fixed and variable costs together. The graphic in <link target-id="OSX_Acct_M02_02_FixVarCost"/> illustrates the concept of total costs.</para>
+<figure id="OSX_Acct_M02_02_FixVarCost" class="scaled-down">
+<media id="fs-idm209052880" alt="Line graph showing Price as the y-axis and Units as the x-axis. Fixed cost is a horizontal line. Variable cost starts at zero and increases. Total cost starts where Fixed cost meets Price and increases at the same rate as Variable cost.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_FixVarCost.jpg"/>
+</media>
+<caption>Total Cost as the Sum of Total Fixed Costs and Total Variable Costs. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm193539232">Remember that the reason that organizations take the time and effort to classify costs as either fixed or variable is to be able to control costs. When they classify costs properly, managers can use cost data to make decisions and plan for the future of the business.</para>
+<note id="fs-idm193564704" class="concepts-practice">
+<title>Boeing<footnote id="fs-idm193564064">Attribution: Modification of work by Sharon Kioko and Justin Marlowe. “Cost Analysis.” <emphasis effect="italics">Financial Strategy for Public Managers</emphasis>. CC BY 4.0. https://press.rebus.community/financialstrategy/chapter/cost-analysis/</footnote></title>
+<para id="fs-idm193562960">If you’ve ever flown on an airplane, there’s a good chance you know Boeing. The Boeing Company generates around $90 billion each year from selling thousands of airplanes to commercial and military customers around the world. It employs around 200,000 people, and it’s indirectly responsible for more than a million jobs through its suppliers, contractors, regulators, and others. Its main assembly line in Everett, WA, is housed in the largest building in the world, a colossal facility that covers nearly a half-trillion cubic feet. Boeing is, simply put, a massive enterprise.</para>
+<para id="fs-idm194438288">And yet, Boeing’s managers know the exact cost of everything the company uses to produce its airplanes: every propeller, flap, seat belt, welder, computer programmer, and so forth. Moreover, they know how those costs would change if they produced more airplanes or fewer. They also know the price at which they sold each plane and the profit the company made on each sale. Boeing’s executives expect their managers to know this information, in real time, if the company is to remain profitable.</para>
+</note>
+<table id="fs-idm206344304" class="top-titled" summary="Assessment information">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Link between Business Decision and Cost Information Utilized</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Decision</entry>
+<entry valign="top" align="center">Cost Information</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Discontinue a product line</entry>
+<entry valign="top" align="left">Variable costs, overhead directly tied to product, potential reduction in fixed costs</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Add second production shift</entry>
+<entry valign="top" align="left">Labor costs, cost of fringe benefits, potential overhead increases (utilities, security personnel)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Open additional retail outlets</entry>
+<entry valign="top" align="left">Fixed costs, variable operating costs, potential increases in administrative expenses at corporate headquarters</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-idm212762288">
+<title>Average Fixed Costs versus Average Variable Costs</title>
+<para id="fs-idm222468240">Another way management may want to consider their costs is as average costs. Under this approach, managers can calculate both average fixed and average variable costs. <term>Average fixed cost (AFC)</term> is the total fixed costs divided by the total number of units produced, which results in a per-unit cost. The formula is:</para>
+<media id="fs-idm215014288" class="scaled-down" alt="Average Fixed Cost equals total fixed costs divided by total number of units produced.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_AFC_img.jpg"/>
+</media>
+<para id="fs-idm218742720">To show how a company would use AFC to make business decisions, consider Carolina Yachts, a company that manufactures sportfishing boats that are sold to consumers through a network of marinas and boat dealerships. Carolina Yachts produces 625 boats per year, and their total annual fixed costs are $1,560,000. If they want to determine an average fixed cost per unit, they will find it using the formula for AFC:</para>
+<equation id="fs-idm196393648" class="unnumbered"><m:math><m:mrow><m:mtext>AFC</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$1,560,000</m:mn></m:mrow><m:mrow><m:mn>625</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$2,496</m:mn><m:mspace width="0.2em"/><m:mtext>per boat</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm194154064">When they produce 625 boats, Carolina Yachts has an AFC of $2,496 per boat. What happens to the AFC if they increase or decrease the number of boats produced? <link target-id="OSX_Acct_M02_02_Yacht"/> shows the AFC for different numbers of boats.</para>
+<figure id="OSX_Acct_M02_02_Yacht" class="scaled-down">
+<media id="fs-idm198062992" alt="Number of Boats Produced, Total Fixed Costs, Average Fixed Cost (per boat), respectively: 500, $1,560,000, $3,120; 625, 1,560,000, 2,496; 700, 1,560,000, 2,229.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_Yacht.jpg"/>
+</media>
+<caption>Average Fixed Costs for Carolina Yachts. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm206461488">We see that total fixed costs remain unchanged, but the average fixed cost per unit goes up and down with the number of boats produced. As more units are produced, the fixed costs are spread out over more units, making the fixed cost per unit fall. Likewise, as fewer boats are manufactured, the average fixed costs per unit rises. We can use a similar approach with variable costs.</para>
+<para id="fs-idm203909664"><term>Average variable cost (AVC)</term> is the total variable costs divided by the total number of units produced, which results in a per-unit cost. Like ATC, we can use this formula:</para>
+<media id="fs-idm203908864" class="scaled-down" alt="Average Variable Cost equals total variable costs divided by total number of units produced.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_AVC_img.jpg"/>
+</media>
+<para id="fs-idm200076496">To demonstrate AVC, let’s return to Carolina Yachts, which incurs total variable costs of $6,875,000 when they produce 625 boats per year. They can express this as an average variable cost per unit:</para>
+<equation id="fs-idm182285408" class="unnumbered"><m:math><m:mrow><m:mtext>AVC</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$6,875,000</m:mn></m:mrow><m:mrow><m:mn>625</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$11,000</m:mn><m:mspace width="0.2em"/><m:mtext>per boat</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm209465936">Because average variable costs are the average of all costs that change with production levels on a per-unit basis and include both direct materials and direct labor, managers often use AVC to determine if production should continue or not in the short run. As long as the price Carolina Yachts receives for their boats is greater than the per-unit AVC, they know that they are not only covering the variable cost of production, but each boat is making a contribution toward covering fixed costs. If, at any point, the average variable cost per boat rises to the point that the price no longer covers the AVC, Carolina Yachts may consider halting production until the variable costs fall again.</para>
+<para id="fs-idm196360544">These changes in variable costs per unit could be caused by circumstances beyond their control, such as a shortage of raw materials or an increase in shipping costs due to high gas prices. In any case, average variable cost can be useful for managers to get a big picture look at their variable costs per unit.</para>
+<note id="fs-idm194436960" class="link-to-learning">
+<para id="fs-idm194436576">Watch the <link url="https://openstax.org/l/50costing">video from Khan Academy that uses the scenario of computer programming to teach fixed, variable, and marginal cost</link> to learn more.</para>
+</note>
+</section>
+<section id="fs-idm196359712">
+<title>Mixed Costs and Stepped Costs</title>
+<para id="fs-idm196359072">Not all costs can be classified as purely fixed or purely variable. <term>Mixed costs</term> are those that have both a fixed and variable component. It is important, however, to be able to separate mixed costs into their fixed and variable components because, typically, in the short run, we can only change variable costs but not most fixed costs. To examine how these mixed costs actually work, consider the Ocean Breeze hotel.</para>
+<para id="fs-idm197923264">The Ocean Breeze is located in a resort area where the county assesses an occupancy tax that has both a fixed and a variable component. Ocean Breeze pays $2,000 per month, regardless of the number of rooms rented. Even if it does not rent a single room during the month, Ocean Breeze still must remit this tax to the county. The hotel treats this $2,000 as a fixed cost. However, for every night that a room is rented, Ocean Breeze must remit an additional tax amount of $5.00 per room per night. As a result, the occupancy tax is a mixed cost. <link target-id="OSX_Acct_M02_02_OBRoom"/> further illustrates how this mixed cost behaves.</para>
+<figure id="OSX_Acct_M02_02_OBRoom">
+<media id="fs-idm197921328" alt="Number of Rooms Rented per Month (Cost Driver), Fixed Cost Component ($2,000 per month), Variable Cost Component ($5 per room), Total Cost (Fixed + Variable), respectively: 0, $2,000, $0, 2,000; 60, 2,000, 300, 2,300; 85, 2,000, 425, 2,425; 100, 2,000, 500, 2,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_OBRoom.jpg"/>
+</media>
+<caption>Mixed Costs Example for Ocean Breeze. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm209541584">Notice that Ocean Breeze cannot control the fixed portion of this cost and that it remains fixed in total, regardless of the activity level. On the other hand, the variable component is fixed per unit, but changes in total based upon the level of activity. The fixed portion of this cost plus the variable portion of this cost combine to make the total cost. As a result, the formula for total cost looks like this:</para>
+<media id="fs-idm214550544" class="scaled-down-30" alt="Y equals a plus bx.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_TotalCost_img.jpg"/>
+</media>
+<para id="fs-idm214549184">where <emphasis effect="italics">Y</emphasis> is the total mixed cost, <emphasis effect="italics">a</emphasis> is the fixed cost, <emphasis effect="italics">b</emphasis> is the variable cost per unit, and <emphasis effect="italics">x</emphasis> is the level of activity.</para>
+<para id="fs-idm212933504">Graphically, mixed costs can be explained as shown in <link target-id="OSX_Acct_M02_02_OceanBrCst"/>.</para>
+<figure id="OSX_Acct_M02_02_OceanBrCst">
+<media id="fs-idm197906928" alt="A graph shows the mixed costs for Ocean Breeze. The x-axis lists the number of rooms, ranging from 0 to 100. The y-axis lists this mixed occupancy tax, ranging from $0 to $3,500. Fixed costs points are marked at the points of 0 rooms and $2,000, 60 rooms and $2,000, 85 rooms and $2,000, and 100 rooms and $2,000. Variable costs are marked at the points of 0 rooms and $2,000, 60 rooms and $2,300, 85 rooms and $2,425, and 100 rooms and $2,500. The section of the graph that includes both fixed and variable costs is labeled as total mixed costs.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_OceanBrCst.jpg"/>
+</media>
+<caption>Ocean Breeze’s Mixed Cost Graph. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm205404416">The graph shows that mixed costs are typically both fixed and linear in nature. In other words, they will often have an initial cost, in Ocean Breeze’s case, the $2,000 fixed component of the occupancy tax, and a variable component, the $5 per night occupancy tax. Note that the Ocean Breeze mixed cost graph starts at an initial $2,000 for the fixed component and then increases by $5 for each night their rooms are occupied.</para>
+<para id="fs-idm200037296">Some costs behave less linearly. A cost that changes with the level of activity but is not linear is classified as a <term>stepped cost</term>. Step costs remain constant at a fixed amount over a range of activity. The range over which these costs remain unchanged (fixed) is referred to as the <term>relevant range</term>, which is defined as a specific activity level that is bounded by a minimum and maximum amount. Within this relevant range, managers can predict revenue or cost levels. Then, at certain points, the step costs increase to a higher amount. Both fixed and variable costs can take on this stair-step behavior. For instance, wages often act as a stepped variable cost when employees are paid a flat salary and a commission or when the company pays overtime. Further, when additional machinery or equipment is placed into service, businesses will see their fixed costs stepped up. The “trigger” for a cost to step up is the relevant range. Graphically, step costs appear like stair steps (<link target-id="OSX_Acct_M02_02_Stepped"/>).</para>
+<figure id="OSX_Acct_M02_02_Stepped">
+<media id="fs-idm198495856" alt="Graph with Cost in Dollars as the y axis and Level of Activity as the x axis. The graph has a line that looks like a set of steps from the side, increasing from left to right.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_Stepped.jpg"/>
+</media>
+<caption>Step Cost Graph. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm207220416">For example, suppose a quality inspector can inspect a maximum of 80 units in a regular 8-hour shift and his salary is a fixed cost. Then the relevant range for QA inspection is from 0–80 units per shift. If demand for these units increases and more than 80 inspections are needed per shift, the relevant range has been exceeded and the business will have one of two choices:</para>
+<para id="fs-idm214535840">(1) Pay the quality inspector overtime in order to have the additional units inspected. This overtime will “step up” the variable cost per unit. The advantage to handling the increased cost in this way is that when demand falls, the cost can quickly be “stepped down” again. Because these types of step costs can be adjusted quickly and often, they are often still treated as variable costs for planning purposes.</para>
+<para id="fs-idm215002416">(2) “Step up” fixed costs. If the company hires a second quality inspector, they would be stepping up their fixed costs. In effect, they will double the relevant range to allow for a maximum of 160 inspections per shift, assuming the second QA inspector can inspect an additional 80 units per shift. The down side to this approach is that once the new QA inspector is hired, if demand falls again, the company will be incurring fixed costs that are unnecessary. For this reason, adding salaried personnel to address a short-term increase in demand is not a decision most businesses make.</para>
+<para id="fs-idm218294224">Step costs are best explained in the context of a business experiencing increases in activity beyond the relevant range. As an example, let’s return to Tony’s T-Shirts.</para>
+<para id="fs-idm222138144">Tony’s cost of operations and the associated relevant ranges are shown in <link target-id="fs-idm202695984"/>.</para>
+<table id="fs-idm202695984" class="top-titled" summary="Assessment information">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Tony’s T-Shirts Cost Options</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="center">Cost</entry>
+<entry valign="top" align="center">Type of Cost</entry>
+<entry valign="top" align="center">Relevant Range</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Lease on Screen-Printing Machine</entry>
+<entry valign="top" align="left">$2,000 per month</entry>
+<entry valign="top" align="left">Fixed</entry>
+<entry valign="top" align="left">0–2,000 T-shirts per month</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Employee</entry>
+<entry valign="top" align="left">$10 per hour</entry>
+<entry valign="top" align="left">Variable</entry>
+<entry valign="top" align="left">20 shirts per hour</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Tony’s Salary</entry>
+<entry valign="top" align="left">$2,500 per month</entry>
+<entry valign="top" align="left">Fixed</entry>
+<entry valign="top" align="left">N/A</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Screen-Printing Ink</entry>
+<entry valign="top" align="left">$0.25 per shirt</entry>
+<entry valign="top" align="left">Variable</entry>
+<entry valign="top" align="left">N/A</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Building Rent</entry>
+<entry valign="top" align="left">$1,500 per month</entry>
+<entry valign="top" align="left">Fixed</entry>
+<entry valign="top" align="left">2 screen-printing machines and 2 employees</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm195379008">As you can see, Tony has both fixed and variable costs associated with his business. His one screen-printing machine can only produce 2,000 T-shirts per month and his current employee can produce 20 shirts per hour (160 per 8-hour work day). The space that Tony leases is large enough that he could add an additional screen-printing machine and 1 additional employee. If he expands beyond that, he will need to lease a larger space, and presumably his rent would increase at that point. It is easy for Tony to predict his costs as long as he operates within the relevant ranges by applying the total cost equation <emphasis effect="italics">Y</emphasis> = <emphasis effect="italics">a</emphasis> + <emphasis effect="italics">bx</emphasis>. So, for Tony, as long as he produces 2,000 or fewer T-shirts, his total cost will be found by <emphasis effect="italics">Y</emphasis> = $6,000 + $0.75<emphasis effect="italics">x</emphasis>, where the variable cost of $0.75 is the $0.25 cost of the ink per shirt and $0.50 per shirt for labor ($10 per hour wage/20 shirts per hour). As soon as his production passes the 2,000 T-shirts that his one employee and one machine can handle, he will have to add a second employee and lease a second screen-printing machine. In other words, his fixed costs will rise from $6,000 to $8,000, while his variable costs will increase in total because he has two workers now, his variable cost per T-shirt will stay the same (ink plus hourly rate to make one shirt). Thus, his new cost equation is <emphasis effect="italics">Y</emphasis> = $8,000 + $0.75<emphasis effect="italics">x</emphasis> until he “steps up” again and adds a third machine <emphasis effect="italics">and</emphasis> moves to a new location with a presumably higher rent. Let’s take a look at this in chart form to better illustrate the “step” in cost Tony will experience as he steps past 2,000 T-shirts.</para><para id="fs-idm195109488">Tony’s cost information is shown in the chart for volume between 500 and 4,000 shirts.</para>
+<media id="fs-idm195152144" class="scaled-down-30" alt="Number of T-shirts, Total Cost (rounded), respectively: 500, $6,375; 750, 6,563; 1,000, 6,750; 1,250, 6,938; 1,500, 7,125; 1,750, 7,313; 2,000, 7,500; 2,250, 9,688; 2,500, 9,875; 2,750, 10,063; 3,000, 10,250; 3,250, 10,438; 3,500, 10,625; 3,750, 10,625.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_Tony03.jpg"/>
+</media>
+<para id="fs-idm197257776">When presented graphically, notice what happens when Tony steps outside of his original relevant range and has to add a second employee and a second screen-printing machine:</para>
+<figure id="OSX_Acct_M02_02_StepCost">
+<media id="fs-idm205724736" alt="Graph with Total cost as the y axis (0 to $12,000) and number of T-Shirts as the x axis (500 to 3,750.) The line hits the y axis at just above $6,375 for 500 shirts, heads in a straight line to slightly up and to the right until it gets to 2,000 shirts at $7,500. Then the line takes a sharp turn up to 2,250 shirts at $10,813, then levels off in a straight line slightly up and to the right to 3,750 shirts at $12,688.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_StepCost.jpg"/>
+</media>
+<caption>Stepped Variable Costs for Tony’s T-Shirts. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm207483440">It is important to remember that even though Tony’s costs stepped up when he exceeded his original capacity (relevant range), the <emphasis effect="italics">behavior</emphasis> of the costs did not change. His fixed costs still remained fixed in total and his total variable cost rose as the number of T-shirts he produced rose. <link target-id="fs-idm202141104"/> summarizes how costs behave within their relevant ranges.</para>
+<table id="fs-idm202141104" class="top-titled" summary="Assessment information">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c3">Summary of Fixed and Variable Cost Behaviors</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">Cost</entry>
+<entry valign="middle" align="center">In Total</entry>
+<entry valign="middle" align="center">Per Unit</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Variable Cost</entry>
+<entry valign="top" align="left">Changes in response to the level of activity</entry>
+<entry valign="top" align="left">Remains fixed per unit regardless of the level of activity</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Fixed Cost</entry>
+<entry valign="top" align="left">Does not change with the level of activity, within the relevant range, but does change when the relevant range changes</entry>
+<entry valign="top" align="left">Changes based upon activity within the relevant range: increased activity decreases per-unit cost; decreased activity increases per-unit cost</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-idm195362144">
+<title>Product versus Period Costs</title>
+<para id="fs-idm199676176">Many businesses can make decisions by dividing their costs into fixed and variable costs, but there are some business decisions that require grouping costs differently. Sometimes companies need to consider how those costs are reported in the financial statements. At other times, companies group costs based on functions within the business. For example, a business would group administrative and selling expenses by the period (monthly or quarterly) so that they can be reported on an Income Statement. However, a manufacturing firm may carry product costs such as materials from one period to the other in order to have the costs “travel” with the units being produced. It is possible that both the selling and administrative costs and materials costs have both fixed and variable components. As a result, it may be necessary to analyze some fixed costs together with some variable costs. Ultimately, businesses strategically group costs in order to make them more useful for decision-making and planning. Two of the broadest and most common grouping of costs are product costs and period costs.</para>
+<para id="fs-idm207520816"><term>Product costs</term> are all those associated with the acquisition or production of goods and products. When products are purchased for resale, the cost of goods is recorded as an asset on the company’s balance sheet. It is not until the products are sold that they become an expense on the income statement. By moving product costs to the expense account for the cost of goods sold, they are easily matched to the sales revenue income account. For example, Bert’s Bikes is a bicycle retailer who purchases bikes from several wholesale distributors and manufacturers. When Bert purchases bicycles for resale, he places the cost of the bikes into his inventory account, because that is what those bikes are—his inventory available for sale. It is not until someone purchases a bike that it creates sales revenue, and in order to fulfill the requirements of double-entry accounting, he must match that income with an expense: the cost of goods sold (<link target-id="OSX_Acct_M02_02_ProdJrnl"/>).</para>
+<figure id="OSX_Acct_M02_02_ProdJrnl">
+<media id="fs-idm195015344" alt="Journal entry debiting Cost of Goods Sold and crediting Finished Goods Inventory for $25,000 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_ProdJrnl.jpg"/>
+</media>
+<caption>Journal Entry for Cost of Goods Sold. Product costs are collected in the finished goods inventory, where they remain until the goods are sold. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm213591504">Some product costs have both a fixed and variable component. For example, Bert purchases 10 bikes for $100 each. The distributor charges $10 per bike for shipping for 1 to 10 bikes but $8 per bike for 11 to 20 bikes. This shipping cost is fixed per unit but varies in total. If Bert wants to save money and control his cost of goods sold, he can order an 11th bike and drop his shipping cost by $2 per bike. It is important for Bert to know what is fixed and what is variable so that he can control his costs as much as possible.</para>
+<para id="fs-idm182335792">What about the costs Bert incurs that are not product costs? <term>Period costs</term> are simply all of the expenses that are not product costs, such as all selling and administrative expenses. It is important to remember that period costs are treated as expenses in the period in which they occur. In other words, they follow the rules of accrual accounting practice by recognizing the cost (expense) in the period in which they occur regardless of when the cash changes hands. For example, Bert pays his business insurance in January of each year. Bert’s annual insurance premium is $10,800, which is $900 per month. Each month, Bert will recognize 1/12 of this insurance cost as an expense in the period in which it is incurred (<link target-id="OSX_Acct_M02_02_PeriodJrnl"/>).</para>
+<figure id="OSX_Acct_M02_02_PeriodJrnl">
+<media id="fs-idm195028384" alt="Journal entry debiting Insurance Expense and crediting Prepaid Insurance for $900 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_PeriodJrnl.jpg"/>
+</media>
+<caption>Journal Entry for Insurance Expense. Bert applies 1/12 of the prepaid insurance premium per month to the expense account in order to match period costs with period revenues. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm204607632">Why is it so important for Bert to know which costs are product costs and which are period costs? Bert may have little control over his product costs, but he maintains a great deal of control over many of his period costs. For this reason, it is important that Bert be able to identify his period costs and then determine which of them are fixed and which are variable. Remember that fixed costs are fixed over the relevant range, but variable costs change with the level of activity. If Bert wants to control his costs to make his bike business more profitable, he must be able to differentiate between the costs he can and cannot control.</para>
+<para id="fs-idm213454112">Just like a merchandising business such as Bert’s Bikes, manufacturers also classify their costs as either product costs or period costs. For a manufacturing business, product costs are the costs associated with making the product, and period costs are all other costs. For the purposes of external reporting, separating costs into period and product costs is not all that is necessary. However, for management decision-making activities, refinement of the types of product costs is helpful.</para>
+<para id="fs-idm199776560">In a manufacturing firm, the need for management to be aware of the types of costs that make up the cost of a product is of paramount importance. Let’s look at Carolina Yachts again and examine how they can classify the product costs associated with building their sportfishing boats. Just like automobiles, every year, Carolina Yachts makes changes to their boats, introducing new models to their product line. When the engineers begin to redesign boats for the next year, they must be careful not to make changes that would drive the selling price of their boats too high, making them less attractive to the customer. The engineers need to know exactly what the addition of another feature will do to the cost of production. It is not enough for them to get total product cost data; instead, they need specific information about the three classes of product costs: materials, labor, and overhead.</para>
+<para id="fs-idm199402384">As you’ve learned, direct materials are the raw materials and component parts that are directly economically traceable to a unit of production.</para>
+<para id="fs-idm213449568"><link target-id="fs-idm213448880"/> provides some examples of direct materials.</para>
+<table id="fs-idm213448880" class="top-titled" summary="Assessment information">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c3">Examples of Direct Materials</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Manufacturing Business</entry>
+<entry valign="top" align="center">Product</entry>
+<entry valign="top" align="center">Direct Materials</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Bakery</entry>
+<entry valign="top" align="left">Birthday cakes</entry>
+<entry valign="top" align="left">Flour, sugar, eggs, milk</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Automobile manufacturer</entry>
+<entry valign="top" align="left">Cars</entry>
+<entry valign="top" align="left">Glass, steel, tires, carpet</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Furniture manufacturer</entry>
+<entry valign="top" align="left">Recliners</entry>
+<entry valign="top" align="left">Wood, fabric, cotton batting</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm206223600">In each of the examples, managers are able to trace the cost of the materials directly to a specific unit (cake, car, or chair) produced. Since the amount of direct materials required will change based on the number of units produced, direct materials are almost always classified as a variable cost. They remain fixed per unit of production but change in total based on the level of activity within the business.</para>
+<para id="fs-idm195475248">It takes more than materials for Carolina Yachts to build a boat. It requires the application of labor to the raw materials and component parts. You’ve also learned that direct labor is the work of the employees who are directly involved in the production of goods or services. In fact, for many industries, the largest cost incurred in the production process is labor. For Carolina Yachts, their direct labor would include the wages paid to the carpenters, painters, electricians, and welders who build the boats. Like direct materials, direct labor is typically treated as a variable cost because it varies with the level of activity. However, there are some companies that pay a flat weekly or monthly salary for production workers, and for these employees, their compensation could be classified as a fixed cost. For example, many auto mechanics are now paid a flat weekly or monthly salary.</para>
+<para id="fs-idm195515344">While in the example Carolina Yachts is dependent upon direct labor, the production process for companies in many industries is moving from human labor to a more automated production process. For these companies, direct labor in these industries is becoming less significant. For an example, you can research the current production process for the automobile industry.</para>
+<para id="fs-idm195472496">The third major classification of product costs for a manufacturing business is overhead. Manufacturing overhead (sometimes referred to as <emphasis effect="italics">factory overhead</emphasis>) includes all of the costs that a manufacturing business incurs, other than the variable costs of direct materials and direct labor required to build products. These overhead costs are not directly attributable to a specific unit of production, but they are incurred to support the production of goods. Some of the items included in manufacturing overhead include supervisor salaries, depreciation on the factory, maintenance, insurance, and utilities. It is important to note that manufacturing overhead does not include any of the selling or administrative functions of a business. For Carolina Yachts, costs like the sales, marketing, CEO, and clerical staff salaries will not be included in the calculation of manufacturing overhead costs but will instead be allocated to selling and administrative expenses.</para>
+<para id="fs-idm195470608">As you have learned, much of the power of managerial accounting is its ability to break costs down into the smallest possible trackable unit. This also applies to manufacturing overhead. In many cases, businesses have a need to further refine their overhead costs and will track indirect labor and indirect materials.</para>
+<para id="fs-idm195469888">When labor costs are incurred but are not directly involved in the active conversion of materials into finished products, they are classified as <term>indirect labor</term> costs. For example, Carolina Yachts has production supervisors who oversee the manufacturing process but do not actively participate in the construction of the boats. Their wages generally support the production process but cannot be traced back to a single unit. For this reason, the production supervisors’ salary would be classified as indirect labor. Similar to direct labor, on a product or department basis, indirect labor, such as the supervisor’s salary, is often treated as a fixed cost, assuming that it does not vary with the level of activity or number of units produced. However, if you are considering the supervisor’s salary cost on a per unit of production basis, then it could be considered a variable cost.</para>
+<para id="fs-idm212316784">Similarly, not all materials used in the production process can be traced back to a specific unit of production. When this is the case, they are classified as <term>indirect material</term> costs. Although needed to produce the product, these indirect material costs are not traceable to a <emphasis effect="italics">specific</emphasis> unit of production. For Carolina Yachts, their indirect materials include supplies like tools, glue, wax, and cleaning supplies. These materials are required to build a boat, but management cannot easily track how much of a bottle of glue they use or how often they use a particular drill to build a specific boat. These indirect materials and their associated cost represent a small fraction of the total materials needed to complete a unit of production. Like direct materials, indirect materials are classified as a variable cost since they vary with the level of production. <link target-id="fs-idm204190240"/> provides some examples of manufacturing costs and their classifications.</para>
+<table id="fs-idm204190240" class="top-titled" summary="Assessment information">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c3">Examples of Classifications of Manufacturing Costs</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Cost</entry>
+<entry valign="top" align="center">Classification</entry>
+<entry valign="top" align="center">Fixed or Variable</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Production supervisor salary</entry>
+<entry valign="top" align="left">Indirect labor</entry>
+<entry valign="top" align="left">Fixed</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Raw materials used in production</entry>
+<entry valign="top" align="left">Direct materials</entry>
+<entry valign="top" align="left">Variable</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Wages of production employees</entry>
+<entry valign="top" align="left">Direct labor</entry>
+<entry valign="top" align="left">Variable</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Straight-line depreciation on factory equipment</entry>
+<entry valign="top" align="left">General manufacturing overhead</entry>
+<entry valign="top" align="left">Fixed</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Glue and adhesives</entry>
+<entry valign="top" align="left">Indirect materials</entry>
+<entry valign="top" align="left">Variable</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-idm214359696">
+<title>Prime Costs versus Conversion Costs</title>
+<para id="fs-idm211793296">In certain production environments, once a business has separated the costs of the product into direct materials, direct labor, and overhead, the costs can then be gathered into two broader categories: prime costs and conversion costs. <term>Prime costs</term> are the direct material expenses and direct labor costs, while <term>conversion costs</term> are direct labor and general factory overhead combined. Please note that these two categories of costs are examples of cost categories where a particular cost can be included in both. In this case, direct labor is included in both prime costs and conversion costs.</para>
+<para id="fs-idm207176928">These cost classifications are common in businesses that produce large quantities of an item that is then packaged into smaller, sellable quantities such as soft drinks or cereal. In these types of production environments, it easier to lump the costs of direct labor and overhead into one category, since these costs are what are needed to convert raw materials into a finished product. This method of costing is termed <emphasis effect="italics">process costing</emphasis> and is covered in <link document="m68128">Process Costing</link>.</para>
+<para id="fs-idm214473520">Although it seems as if there are many classifications or labels associated with costs, remember that the purpose of cost classification is to assist managers in the decision-making process. Since this type of data is not used for external reporting purposes, it is important to understand that (1) a single cost can have many different labels; (2) the terms are used independently, not simultaneously; and (3) each classification is important to understand in order to make business decisions. <link target-id="OSX_Acct_M02_02_Costs"/> uses some example costs to demonstrate these principles.</para>
+<figure id="OSX_Acct_M02_02_Costs">
+<media id="fs-idm200816640" alt="Chart showing classification of different costs: Rent on production facility is fixed, product, overhead, conversion; Plant supervisor salary is fixed, product, overhead conversion; Raw materials are variable, product, direct materials, prime; Administrative salaries are fixed, period. Commissioned sales staff are variable, period; Delivery truck is mixed, period; Advertising is fixed, period; Plant utilities are mixed, product, overhead, conversion; Income tax is variable, step, period.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_Costs.jpg"/>
+</media>
+<caption>Classification Based on Cost Function. Costs can fall into more than one category, sometimes making the process of cost identification complex. DM, direct materials; DL, direct labor; OH, overhead. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+</section>
+<section id="fs-idm200814000">
+<title>Effects of Changes in Activity Level on Unit Costs and Total Costs</title>
+<para id="fs-idm200813360">We have spent considerable time identifying and describing the various ways that businesses categorize costs. However, categorization itself is not enough. It is important not only to understand the categorization of costs but to understand the relationships between changes in activity levels and the changes in costs in total. It is worth repeating that when a cost is considered to be fixed, that cost is only fixed for the relevant range. Once the boundary of the relevant range has been reached or moved beyond, fixed costs will change and then remain fixed for the new relevant range. Remember that, within a relevant range of activity, where the relevant range refers to a specific activity level that is bounded by a minimum and maximum amount, total fixed costs are constant, but costs change on a per-unit basis. Let’s examine an example that demonstrates how changes in activity can affect costs.</para>
+<note id="fs-idm205310848" class="ethical-considerations">
+<title>Cost Accounting Helps Reduce Fraud and Promotes Ethical Behavior</title>
+<para id="fs-idm194372080">Managerial and related cost accounting systems assist managers in making ethical and sound business decisions. Managerial accountants implement accounting reporting systems to minimize or prevent fraud and promote ethical decision-making. For example, tracking changes in costing activity and ensuring that activity remains in a relevant range, helps ensure that an organization’s business activity is properly bounded within a reasonable range of expense. If the minimum or maximum expense range is exceeded, this can indicate that management is acting without authority or is pursuing unauthorized activities. Excessive costs may even be a red flag that possible fraud is occurring. Cost accounting helps ensure that financial costs are within an acceptable range and helps an organization make reliable forward-looking financial decisions.</para>
+</note>
+</section>
+<section id="fs-idm198264128">
+<title>Comprehensive Example of the Effect on Changes in Activity Level on Costs</title>
+<para id="fs-idm214442608">Pat is planning a three-day ski trip on his spring break after he works on a <emphasis class="colored-text">Habitat for Humanity</emphasis> project in Dallas. The costs for the trip are as follows:</para>
+<media id="fs-idm195774832" class="scaled-down" alt="Car rental (up to five passengers) $200; Condo rental (up to five occupants) 400; Gasoline 120. Food (per day) 40; Lift tickets (per day) 30.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_Cost01_img.jpg"/>
+</media>
+<para id="fs-idm202529232">He is considering his costs for the trip if he goes alone, or if he takes one, two, three, or four friends. However, before he can begin his analysis, he needs to consider the characteristics of the costs. Some of the costs will stay the same no matter how many people go, and some of the costs will fluctuate, based on the number of participants.</para>
+<para id="fs-idm200810928">Those costs that do not change are the fixed costs. Once you incur a fixed cost, it does not change within a given range. For example, Pat can take up to five people in one car, so the cost of the car is fixed for up to five people. However, if he took more friends, then he would need more cars. The condo rental and the gasoline expenses would also be considered fixed costs, because they are not going to change in the reference range.</para>
+<para id="fs-idm182628864">The costs that do change as the number of participants change are the variable costs. The food and lift ticket expenses are examples of variable costs, since they fluctuate based upon the number of participants and the number of days of activities.</para>
+<para id="fs-idm182628480">In analyzing the costs, Pat also needs to consider the total costs and average costs. The analysis will calculate the average fixed costs, the total fixed costs, the average variable costs, and the total variable costs.</para>
+<para id="fs-idm182627856">In the analysis of total costs versus average costs, both total and average fixed costs will stay the same and total and average variable costs will change. Here are the total fixed costs:</para>
+<media id="fs-idm182627264" class="scaled-down-30" alt="Car rental $200 plus Condo 400 plus Gasoline 120 equals Total fixed costs 720.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_Cost02_img.jpg"/>
+</media>
+<para id="fs-idm182626064">The total fixed costs for the trip will be $720.00, no matter whether Pat goes alone or takes up to 4 friends. However, the average fixed costs will be the total fixed costs divided by the number of participants. The average fixed cost could range from $720 (720/1) to $144 (720/5).</para>
+<para id="fs-idm182625376">Here are the variable costs:</para>
+<media id="fs-idm182624944" class="scaled-down-30" alt="Food (per day) $40 plus Lift tickets (per day) 30 equals Average variable cost (per day) $70.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_Cost03_img.jpg"/>
+</media>
+<para id="fs-idm198338288">The average variable cost will be $70.00 per person per day, no matter how many people go on the trip. However, the total variable costs will range from $70.00, if Pat goes alone, to $350.00, if five people go. <link target-id="OSX_Acct_M02_02_CostVar"/> shows the relationships of the various costs, based on the number of participants.</para>
+<figure id="OSX_Acct_M02_02_CostVar">
+<media id="fs-idm197656224" alt="Number of Skiers, Average Variable Cost, Total Variable Cost, Total Fixed Cost, Average Fixed Cost, Average Cost per Skier, respectively: 1, $210, $210, $720, $720, $930; 2, 210, 420, 720, 360, 570; 3, 210, 630, 720, 240, 450; 4, 210, 840, 720, 180, 390; 5, 210, 1,050, 720, 144, 354.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_CostVar.jpg"/>
+</media>
+<caption>Comprehensive Ski Trip Cost Classification. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm182645504">Looking at this analysis, it is clear that, if there is an activity that you think that you cannot afford, it can become less expensive if you are creative in your cost-sharing techniques.</para>
+<note id="fs-idm182644912" class="your-turn">
+<title>Spring Break Trip Planning</title>
+<para id="fs-idm182644096">Margo is planning an 8-day spring break trip from Atlanta, Georgia, to Tampa, Florida, leaving on Sunday and returning the following Sunday. She has located a condominium on the beach and has put a deposit down on the unit. The rental company has a maximum occupancy for the condominium of seven adults. There is an amusement park that she plans to visit. She is going to use her parents’ car, an SUV that can carry up to six people and their luggage. The SUV can travel an average of 20 miles per gallon, the total distance is approximately 1,250 miles (550 miles each way plus driving around Tampa every day), and the average price of gas is $3 per gallon. A season pass for an amusement park she wants to visit is $168 per person. Margo estimates spending $40 per day per person for food. She estimates the costs for the trip as follows:</para>
+<media id="fs-idm195063872" class="scaled-down" alt="Condo Rental $1,400, Gasoline 188, Food (per person per day) 40, Amusement Park Season Pass (per person) 168.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_YT01_img.png"/>
+</media>
+<para id="fs-idm197729696">Now that she has cost estimates, she is trying to decide how many of her friends she wants to invite. Since the car can only seat six people, Marg made a list of five other girls to invite. Use her data to answer the following questions and fill out the cost table:</para>
+<list id="fs-idm182640944" list-type="enumerated" number-style="arabic">
+<item>What are the total variable costs for the trip?</item>
+<item>What are the average variable costs for the trip?</item>
+<item>What are the total fixed costs for the trip?</item>
+<item>What are the average fixed costs for the trip?</item>
+<item>What are the average costs per person for the trip?</item>
+<item>What would the trip cost Margo if she were to go alone?<newline/>
+<media id="fs-idm194177104" alt="Chart to calculate costs with columns: Number of People Including Margo, Total Variable Cost, Average Variable Cost, Total Fixed cost, Average Fixed Cost, Average Cost per Person. Rows are labeled 1 through 6 for number of people and the rest of the cells are blank.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_YT02_img.jpg"/>
+</media></item>
+<item>What additional costs would be incurred if a seventh girl was invited on the trip? Would this be a wise decision (from a cost perspective)? Why or why not?</item>
+<item>Which cost will <emphasis effect="italics">not</emphasis> be affected if a seventh girl was invited on the trip?</item>
+</list>
+<para id="fs-idm193567696"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm193567056" alt="Chart to calculate costs with columns: Number of People Including Margo, Total Variable Cost, Average Variable Cost, Total Fixed cost, Average Fixed Cost, Average Cost per Person, respectively: 1, $488, $488, $1,588, $1,588, $2,076; 2, 976, 488, 1,588, 794, 1,282; 3, 1,464, 488, 1,588, 529, 1,017; 4, 1,952, 488, 1,588, 397, 885; 5, 2,440, 488, 1,588, 318, 806; 6, 2,928, 488, 1,588, 265, 753.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_YTS01_img.png"/>
+</media>
+<para id="fs-idm193565568">Answers will vary. All responses should recognize that there is no room in the car for the seventh girl and her luggage, although the condominium will accommodate the extra person. This means they will have to either find a larger vehicle and incur higher gas expenses or take a second car, which will at least double the fixed gas cost.</para>
+</note>
+</section>
+<section id="fs-idm194435296" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm194434480" list-type="bulleted" bullet-style="bullet">
+<item>Costs can be broadly classified as either fixed or variable costs. However, in order for managers to manage effectively, these two cost classifications are often further expanded to include mixed, step, prime, and conversion costs.</item>
+<item>For manufacturing firms, it is essential that they differentiate among direct materials, direct labor, and manufacturing overhead in order to identify and manage their total product costs.</item>
+<item>For planning purposes, managers must be careful to consider the relevant range because it is only within this relevant range that total fixed costs remain constant.</item>
+</list>
+</section>
+<section id="fs-idm194431936" class="multiple-choice">
+<exercise id="fs-idm194431552">
+<problem id="fs-idm194431296">
+<para id="fs-idm206350944"><link class="lo-reference" document="m68110"/>Conversion costs include all of the following <emphasis effect="italics">except</emphasis>:</para>
+<list id="fs-idm195064416" list-type="enumerated" number-style="upper-alpha">
+<item>wages of production workers</item>
+<item>depreciation on factory equipment</item>
+<item>factory utilities</item>
+<item>direct materials purchased</item>
+</list>
+</problem>
+<solution id="fs-idm208160592">
+<para id="fs-idm198316688">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm197848320">
+<problem id="fs-idm198191792">
+<para id="fs-idm202515872"><link class="lo-reference" document="m68110"/>Which of the following is <emphasis effect="italics">not</emphasis> considered a product cost?</para>
+<list id="fs-idm194416560" list-type="enumerated" number-style="upper-alpha">
+<item>direct materials</item>
+<item>direct labor</item>
+<item>indirect materials</item>
+<item>selling expense</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm194442496">
+<problem id="fs-idm199098368">
+<para id="fs-idm214496256"><link class="lo-reference" document="m68110"/>Fixed costs are expenses that ________.</para>
+<list id="fs-idm216955408" list-type="enumerated" number-style="upper-alpha">
+<item>vary in response to changes in activity level</item>
+<item>remain constant on a per-unit basis</item>
+<item>increase on a per-unit basis as activity increases</item>
+<item>remain constant as activity changes</item>
+</list>
+</problem>
+<solution id="fs-idm216923728">
+<para id="fs-idm219231744">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm219699584">
+<problem id="fs-idm218532832">
+<para id="fs-idm216405552"><link class="lo-reference" document="m68110"/>Variable costs are expenses that ________.</para>
+<list id="fs-idm217073776" list-type="enumerated" number-style="upper-alpha">
+<item>remain constant on a per-unit basis but change in total based on activity level</item>
+<item>remain constant on a per-unit basis and remain constant in total regardless of activity level</item>
+<item>decrease on a per-unit basis as activity level increases</item>
+<item>remain constant in total regardless of activity level within a relevant range</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm197899184">
+<problem id="fs-idm195745456">
+<para id="fs-idm218381872"><link class="lo-reference" document="m68110"/>Total costs for ABC Distributing are $250,000 when the activity level is 10,000 units. If variable costs are $5 per unit, what are their fixed costs?</para>
+<list id="fs-idm208383360" list-type="enumerated" number-style="upper-alpha">
+<item>$240,000</item>
+<item>$200,000</item>
+<item>$260,000</item>
+<item>Their fixed costs cannot be determined from the information presented.</item>
+</list>
+</problem>
+<solution id="fs-idm195161712">
+<para id="fs-idm195722624">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm218400800">
+<problem id="fs-idm219956800">
+<para id="fs-idm218538816"><link class="lo-reference" document="m68110"/>Which of the following would not be classified as manufacturing overhead?</para>
+<list id="fs-idm219907408" list-type="enumerated" number-style="upper-alpha">
+<item>indirect materials</item>
+<item>indirect labor</item>
+<item>direct labor</item>
+<item>property taxes on factory</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm219267424">
+<problem id="fs-idm210489456">
+<para id="fs-idm205763024"><link class="lo-reference" document="m68110"/>Which of the following are prime costs?</para>
+<list id="fs-idm217585936" list-type="enumerated" number-style="upper-alpha">
+<item>indirect materials, indirect labor, and direct labor</item>
+<item>direct labor, indirect materials, and indirect labor</item>
+<item>direct labor and indirect labor</item>
+<item>direct labor and direct materials</item>
+</list>
+</problem>
+<solution id="fs-idm198102800">
+<para id="fs-idm198429200">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm197905568">
+<problem id="fs-idm217549136">
+<para id="fs-idm205749936"><link class="lo-reference" document="m68110"/>Which of the following statements is true regarding average fixed costs?</para>
+<list id="fs-idm216970320" list-type="enumerated" number-style="upper-alpha">
+<item>Average fixed costs per unit remain fixed regardless of level of activity.</item>
+<item>Average fixed costs per unit rise as the level of activity rises.</item>
+<item>Average fixed costs per unit fall as the level of activity rises.</item>
+<item>Average fixed costs per unit cannot be determined.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm216593872" class="questions">
+<exercise id="fs-idm212825824">
+<problem id="fs-idm219445424">
+<para id="fs-idm217625952"><link class="lo-reference" document="m68110"/>Identify and describe the three types of product costs in a manufacturing firm.</para>
+</problem>
+<solution id="fs-idm207113328">
+<para id="fs-idm202418304">Answers will vary but must include direct materials, direct labor, and manufacturing overhead.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm202437888">
+<problem id="fs-idm220265056">
+<para id="fs-idm194227344"><link class="lo-reference" document="m68110"/>Explain the difference between a period cost and a product cost.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm220262656">
+<problem id="fs-idm216184768">
+<para id="fs-idm219335056"><link class="lo-reference" document="m68110"/>Explain the concept of relevant range and how it affects total fixed costs.</para>
+</problem>
+<solution id="fs-idm219376576">
+<para id="fs-idm219746304">Answers will vary but should include that fixed costs remain fixed in total across the relevant range, bounded by a minimum and maximum activity level.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm219426336">
+<problem id="fs-idm219738176">
+<para id="fs-idm199932304"><link class="lo-reference" document="m68110"/>Explain the differences among fixed costs, variable costs, and mixed costs.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm207197696">
+<problem id="fs-idm216317136">
+<para id="fs-idm202688416"><link class="lo-reference" document="m68110"/>Explain the difference between prime costs and conversion costs.</para>
+</problem>
+<solution id="fs-idm219730816">
+<para id="fs-idm218214048">Answers will vary but should include that prime costs are the direct material and direct labor costs, and conversion costs are direct labor and general factory overhead combined.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm202504960" class="exercise-set-a">
+<exercise id="fs-idm219733456">
+<problem id="fs-idm208355008">
+<para id="fs-idm222192384"><link class="lo-reference" document="m68110"/>Hicks Contracting collects and analyzes cost data in order to track the cost of installing decks on new home construction jobs. The following are some of the costs that they incur. Classify these costs as fixed or variable costs and as product or period costs.</para>
+<list id="fs-idm220289440" list-type="enumerated" number-style="upper-alpha">
+<item>Lumber used to construct decks ($12.00 per square foot)</item>
+<item>Carpenter labor used to construct decks ($10 per hour)</item>
+<item>Construction supervisor salary ($45,000 per year)</item>
+<item>Depreciation on tools and equipment ($6,000 per year)</item>
+<item>Selling and administrative expenses ($35,000 per year)</item>
+<item>Rent on corporate office space ($34,000 per year)</item>
+<item>Nails, glue, and other materials required to construct deck (varies per job)</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm222169504">
+<problem id="fs-idm221946016">
+<para id="fs-idm220806960"><link class="lo-reference" document="m68110"/>Rose Company has a relevant range of production between 10,000 and 25,000 units. The following cost data represents average cost per unit for 15,000 units of production.</para>
+<media id="fs-idm199448240" class="scaled-down" alt="Average Cost per Unit: Direct materials $12, Direct labor 10, Indirect materials 2, Fixed manufacturing overhead 4, Variable manufacturing overhead 3, Fixed selling and administrative expenses 8.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_EA02_img.jpg"/>
+</media>
+<para id="fs-idm207897216">Using the cost data from Rose Company, answer the following questions:</para>
+<list id="fs-idm220360080" list-type="enumerated" number-style="upper-alpha">
+<item>If 10,000 units are produced, what is the variable cost per unit?</item>
+<item>If 18,000 units are produced, what is the variable cost per unit?</item>
+<item>If 21,000 units are produced, what are the total variable costs?</item>
+<item>If 11,000 units are produced, what are the total variable costs?</item>
+<item>If 19,000 units are produced, what are the total manufacturing overhead costs incurred?</item>
+<item>If 23,000 units are produced, what are the total manufacturing overhead costs incurred?</item>
+<item>If 19,000 units are produced, what are the per unit manufacturing overhead costs incurred?</item>
+<item>If 25,000 units are produced, what are the per unit manufacturing overhead costs incurred?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm196284752">
+<problem id="fs-idm220322048">
+<para id="fs-idm219548832"><link class="lo-reference" document="m68110"/>Carr Company provides human resource consulting services to small- and medium-sized companies. Last year, Carr provided services to 700 clients. Total fixed costs were $159,000 with total variable costs of $87,500. Based on this information, complete this chart:</para>
+<media id="fs-idm213956720" alt="Columns are: 500 clients, 800 clients, 900 clients. Rows are: Total costs: Fixed costs, Variable costs, Total costs. Cost per client: Fixed cost, Variable cost, Total cost per client.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_EA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm219760304">
+<problem id="fs-idm197048336">
+<para id="fs-idm219710672"><link class="lo-reference" document="m68110"/>Western Trucking operates a fleet of delivery trucks. The fixed expenses to operate the fleet are $79,900 in March and rose to $93,120 in April. It costs Western Trucking $0.15 per mile in variable costs. In March, the delivery trucks were driven a total of 85,000 miles, and in April, they were driven a total of 96,000 miles. Using this information, answer the following:</para>
+<list id="fs-idm196314224" list-type="enumerated" number-style="upper-alpha">
+<item>What were the total costs to operate the fleet in March and April, respectively?</item>
+<item>What were the cost per mile to operate the fleet in March and April, respectively?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm196312336">
+<problem id="fs-idm196312080">
+<para id="fs-idm196311824"><link class="lo-reference" document="m68110"/>Suppose that a company has fixed costs of $18 per unit and variable costs $9 per unit when 15,000 units are produced. What are the fixed costs per unit when 12,000 units are produced?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm196310256" class="exercise-set-b">
+<exercise id="fs-idm196309760">
+<problem id="fs-idm196309504">
+<para id="fs-idm196309248">Roper Furniture manufactures office furniture and tracks cost data across their process. The following are some of the costs that they incur. Classify these costs as fixed or variable costs, and as product costs or period costs.</para>
+<list id="fs-idm196308624" list-type="enumerated" number-style="upper-alpha">
+<item>Wood used to produce desks ($125.00 per desk)</item>
+<item>Production labor used to produce desks ($15 per hour)</item>
+<item>Production supervisor salary ($45,000 per year)</item>
+<item>Depreciation on factory equipment ($60,000 per year)</item>
+<item>Selling and administrative expenses ($45,000 per year)</item>
+<item>Rent on corporate office ($44,000 per year)</item>
+<item>Nails, glue, and other materials required to produce desks (varies per desk)</item>
+<item>Utilities expenses for production facility</item>
+<item>Sales staff commission (5% of gross sales)</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm194084848">
+<problem id="fs-idm219708336">
+<para id="fs-idm219769760"><link class="lo-reference" document="m68110"/>Baxter Company has a relevant range of production between 15,000 and 30,000 units. The following cost data represents average variable costs per unit for 25,000 units of production.</para>
+<media id="fs-idm219781648" class="scaled-down" alt="Average Cost per Unit: Direct materials $10, Direct labor 9, Indirect materials 3, Fixed manufacturing overhead 6, Variable manufacturing overhead 2, Fixed selling and administrative expenses 8.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_EB02_img.jpg"/>
+</media>
+<para id="fs-idm219786208">Using the costs data from Rose Company, answer the following questions:</para>
+<list id="fs-idm219774608" list-type="enumerated" number-style="upper-alpha">
+<item>If 15,000 units are produced, what is the variable cost per unit?</item>
+<item>If 28,000 units are produced, what is the variable cost per unit?</item>
+<item>If 21,000 units are produced, what are the total variable costs?</item>
+<item>If 29,000 units are produced, what are the total variable costs?</item>
+<item>If 17,000 units are produced, what are the total manufacturing overhead costs incurred?</item>
+<item>If 23,000 units are produced, what are the total manufacturing overhead costs incurred?</item>
+<item>If 30,000 units are produced, what are the per unit manufacturing overhead costs incurred?</item>
+<item>If 15,000 units are produced, what are the per unit manufacturing overhead costs incurred?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm219777360">
+<problem id="fs-idm207966944">
+<para id="fs-idm219712896"><link class="lo-reference" document="m68110"/>Sanchez &amp; Vukmin, LLP, is a full-service accounting firm located near Chicago, Illinois.</para>
+<para id="fs-idm220315200">Last year, Sanchez provided tax preparation services to 500 clients. Total fixed costs were $265,000 with total variable costs of $180,000. Based on this information, complete this chart.</para>
+<media id="fs-idm222052256" class="scaled-down" alt="Columns are: 500 clients, 800 clients, 900 clients. Rows are: Total costs: Fixed costs, Variable costs, Total costs. Cost per client: Fixed cost, Variable cost, Total cost per client.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_EB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm219779584">
+<problem id="fs-idm207358560">
+<para id="fs-idm220317584"><link class="lo-reference" document="m68110"/>Case Airlines provides charter airline services. The fixed expenses to operate the company’s aircraft are $377,300 in January and $378,880 in February. It costs Case Airlines $0.45 per mile in variable costs. In January, Case aircraft flew a total of 385,000 miles, and in February, Case aircraft flew a total of 296,000 miles. Using this information, answer the following:</para>
+<list id="fs-idm219311040" list-type="enumerated" number-style="upper-alpha">
+<item>What were the total costs to operate the aircraft in January and February, respectively?</item>
+<item>What were the total costs per mile to operate the fleet in January and February, respectively?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm219572512">
+<problem id="fs-idm219753232">
+<para id="fs-idm220271536"><link class="lo-reference" document="m68110"/>Suppose that a company has fixed costs of $11 per unit and variable costs $6 per unit when 11,000 units are produced. What are the fixed costs per unit when 20,000 units are produced?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm219649728" class="problem-set-a">
+<exercise id="fs-idm222049808">
+<problem id="fs-idm222124688">
+<para id="fs-idm219961552"><link class="lo-reference" document="m68110"/>Listed as follows are various costs found in businesses. Classify each cost as a fixed or variable cost, and as a product and/or period cost.</para>
+<list id="fs-idm219688704" list-type="enumerated" number-style="upper-alpha">
+<item>Wages of administrative staff</item>
+<item>Shipping costs on merchandise sold</item>
+<item>Wages of workers assembling computers</item>
+<item>Cost of lease on factory equipment</item>
+<item>Insurance on factory</item>
+<item>Direct materials used in production of lamps</item>
+<item>Supervisor salary, factory</item>
+<item>Advertising costs</item>
+<item>Property taxes, factory</item>
+<item>Health insurance cost for company executives</item>
+<item>Rent on factory</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm219802976">
+<problem id="fs-idm219667360">
+<para id="fs-idm219798128"><link class="lo-reference" document="m68110"/>Wachowski Company reported these cost data for the year 2017.</para>
+<media id="fs-idm219505600" class="scaled-down" alt="Factory maintenance costs $90,000; Direct labor, wages 352,000; Direct labor, health insurance 32,000; Indirect labor, health insurance 15,000; Health insurance for production supervisor 6,500; Administrative costs 55,000; Rental of office space for administrative staff 17,500; Sales commissions 52,500; Direct material 1,230,000; Indirect materials 632,000; Advertising expense 39,000; Depreciation on factory building 62,000; Indirect labor, wages, 70,000; Production supervisor’s salary 32,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_PA02_img.jpg"/>
+</media>
+<para id="fs-idm219515344">Use the data to complete the following table.</para>
+<table id="fs-idm219523088" class="unnumbered" summary="Assessment information">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Total prime costs</entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Total manufacturing overhead costs</entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Total conversion costs</entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Total product costs</entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Total period costs</entry>
+<entry valign="top" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm219416976" class="problem-set-b">
+<exercise id="fs-idm195195680">
+<problem id="fs-idm219239344">
+<para id="fs-idm219243776"><link class="lo-reference" document="m68110"/>Pocket Umbrella, Inc, is considering producing a new type of umbrella. This new pocket-sized umbrella would fit into a coat pocket or purse. Classify the following costs of this new product as direct materials, direct labor, manufacturing overhead, or selling and administrative.<footnote id="fs-idm196210048">Attribution: Modification of work by Roger Hermanson, James Edwards, and Michael Maher. <emphasis effect="italics">Accounting Principles: A Business Perspective</emphasis>. 2011, CC BY. Source: Available at https://open.umn.edu/opentextbooks/textbooks/383.</footnote></para>
+<list id="fs-idm219283760" list-type="enumerated" number-style="upper-alpha">
+<item>Cost of advertising the product</item>
+<item>Fabric used to make the umbrellas</item>
+<item>Maintenance of cutting machines used to cut the umbrella fabric so it will fit the umbrella frame</item>
+<item>Wages of workers who assemble the product</item>
+<item>President’s salary</item>
+<item>The salary of the supervisor of the people who assemble the product</item>
+<item>Wages of the product tester who stands in a shower to make sure the umbrellas do not leak</item>
+<item>Cost of market research survey</item>
+<item>Salary of the company’s sales managers</item>
+<item>Depreciation of administrative office building</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm219248208">
+<problem id="fs-idm219468048">
+<para id="fs-idm219276704"><link class="lo-reference" document="m68110"/>Using the costs listed in <link target-id="fs-idm195195680">the previous problem</link>, classify the costs as either product costs or period costs.</para></problem>
+</exercise>
+</section>
+<section id="fs-idm219458864" class="thought-provokers">
+<exercise id="fs-idm199106304">
+<problem id="fs-idm198055616">
+<para id="fs-idm194248288"><link class="lo-reference" document="m68110"/>This list contains costs that various organizations incur; they fall into three categories: direct materials (DM), direct labor (DL), or overhead (OH).<footnote id="fs-idm201907552">Attribution: Modification of work by Roger Hermanson, James Edwards, and Michael Maher. <emphasis effect="italics">Accounting Principles: A Business Perspective</emphasis>. 2011, CC BY. Source: Available at https://open.umn.edu/opentextbooks/textbooks/383.</footnote></para>
+<list id="fs-idm196219280" list-type="enumerated" number-style="upper-alpha">
+<item>Classify each of these items as direct materials, direct labor, or overhead.
+<list id="fs-idm219366496" list-type="enumerated" number-style="lower-roman">
+<item>Glue used to attach labels to bottles containing a patented medicine.</item>
+<item>Compressed air used in operating paint sprayers for Student Painters, a company that paints houses and apartments.</item>
+<item>Insurance on a factory building and equipment.</item>
+<item>A production department supervisor’s salary.</item>
+<item>Rent on factory machinery.</item>
+<item>Iron ore in a steel mill.</item>
+<item>Oil, gasoline, and grease for forklift trucks in a manufacturing company’s warehouse.</item>
+<item>Services of painters in building construction.</item>
+<item>Cutting oils used in machining operations.</item>
+<item>Cost of paper towels in a factory employees’ washroom.</item>
+<item>Payroll taxes and fringe benefits related to direct labor.</item>
+<item>The plant electricians’ salaries.</item>
+<item>Crude oil to an oil refinery.</item>
+<item>Copy editor’s salary in a book publishing company.</item>
+</list></item>
+<item>Assume your classifications could be challenged in a court case. Indicate to your attorneys which of your answers for part a might be successfully disputed by the opposing attorneys and why. In which answers are you completely confident?</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm219481760">
+<term>average fixed cost (AFC)</term>
+<meaning id="fs-idm210688304">total fixed costs divided by the total number of units produced, which results in a per-unit cost</meaning>
+</definition>
+<definition id="fs-idm219587040">
+<term>average variable cost (AVC)</term>
+<meaning id="fs-idm196208384">total variable costs divided by the total number of units produced, which results in a per-unit cost</meaning>
+</definition>
+<definition id="fs-idm196207760">
+<term>conversion costs</term>
+<meaning id="fs-idm196207120">total of labor and overhead for a product; the costs that “convert” the direct material into the finished product</meaning>
+</definition>
+<definition id="fs-idm196206544">
+<term>cost driver</term>
+<meaning id="fs-idm196205904">activity that is the reason for the increase or decrease of another cost; examples include labor hours incurred, labor costs paid, amounts of materials used in production, units produced, or any other activity that has a cause-and-effect relationship with incurred costs</meaning>
+</definition>
+<definition id="fs-idm196205392">
+<term>fixed cost</term>
+<meaning id="fs-idm196204752">unavoidable operating expense that does not change in total, regardless of the level of activity</meaning>
+</definition>
+<definition id="fs-idm196204128">
+<term>indirect labor</term>
+<meaning id="fs-idm196203488">labor not directly involved in the active conversion of materials into finished products or the provision of services</meaning>
+</definition>
+<definition id="fs-idm199647328">
+<term>indirect materials</term>
+<meaning id="fs-idm199646688">materials used in production but not efficiently traceable to a specific unit of production</meaning>
+</definition>
+<definition id="fs-idm199646064">
+<term>mixed costs</term>
+<meaning id="fs-idm199645424">expenses that have a fixed component and a variable component</meaning>
+</definition>
+<definition id="fs-idm199644912">
+<term>period costs</term>
+<meaning id="fs-idm199644272">typically related to a particular time period instead of attached to the production of an asset; treated as an expense in the period incurred (examples include many sales and administrative expenses)</meaning>
+</definition>
+<definition id="fs-idm199643712">
+<term>prime costs</term>
+<meaning id="fs-idm199643072">direct material expenses and direct labor costs</meaning>
+</definition>
+<definition id="fs-idm199642496">
+<term>product costs</term>
+<meaning id="fs-idm199641856">all expenses required to manufacture the product: direct materials, direct labor, and manufacturing overhead</meaning>
+</definition>
+<definition id="fs-idm199641344">
+<term>relevant range</term>
+<meaning id="fs-idm199640704">quantitative range of units that can be produced based on the company’s current productive assets; for example, if a company has sufficient fixed assets to produce up to 10,000 units of product, the relevant range would be between 0 and 10,000 units</meaning>
+</definition>
+<definition id="fs-idm199640192">
+<term>stepped cost</term>
+<meaning id="fs-idm200660320">one that changes with the level of activity but will remain constant within a relevant range</meaning>
+</definition>
+<definition id="fs-idm200659696">
+<term>total cost</term>
+<meaning id="fs-idm200659056">sum of all fixed and all variable costs</meaning>
+</definition>
+<definition id="fs-idm200658496">
+<term>total fixed costs</term>
+<meaning id="fs-idm200657856">sum of all fixed costs</meaning>
+</definition>
+<definition id="fs-idm200657344">
+<term>total variable costs</term>
+<meaning id="fs-idm200656704">sum of all variable costs</meaning>
+</definition>
+<definition id="fs-idm200656144">
+<term>variable cost</term>
+<meaning id="fs-idm200655504">one that varies in direct proportion to the level of activity within the business</meaning>
+</definition>
+</glossary>
+</document>

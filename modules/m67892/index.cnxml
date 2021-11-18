@@ -1,0 +1,269 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Explain and Demonstrate the Impact of Inventory Valuation Errors on the Income Statement and Balance Sheet</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67892</md:content-id>
+  <md:title>Explain and Demonstrate the Impact of Inventory Valuation Errors on the Income Statement and Balance Sheet</md:title>
+  <md:abstract/>
+  <md:uuid>62b58790-3574-4650-9573-e22867991f5c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm352581552">Because of the dynamic relationship between cost of goods sold and merchandise inventory, errors in inventory counts have a direct and significant impact on the financial statements of the company. Errors in inventory valuation cause mistaken values to be reported for merchandise inventory and cost of goods sold due to the toggle effect that changes in either one of the two accounts have on the other. As explained, the company has a finite amount of inventory that they can work with during a given period of business operations, such as a year. This limited quantity of goods is known as goods available for sale and is sourced from</para>
+<list id="fs-idm338592992" list-type="enumerated" number-style="arabic">
+<item>beginning inventory (unsold goods left over from the previous period’s operations); and</item>
+<item>purchases of additional inventory during the current period.</item>
+</list>
+<para id="fs-idm320614736">These available inventory items (goods available for sale) will be handled in one of two ways:</para>
+<list id="fs-idm495679408" list-type="enumerated" number-style="arabic">
+<item>be sold to customers (normally) or be lost due to shrinkage, spoilage, or theft (occasionally), and reported as cost of goods sold on the income statement; OR</item>
+<item>be unsold and held in ending inventory, to be passed into the next period, and reported as merchandise inventory on the balance sheet.</item>
+</list>
+<section id="fs-idm327567968">
+<title>Fundamentals of the Impact of Inventory Valuation Errors on the Income Statement and Balance Sheet</title>
+<para id="fs-idm332042320">Understanding this interaction between inventory assets (merchandise inventory balances) and inventory expense (cost of goods sold) highlights the impact of errors. Errors in the valuation of ending merchandise inventory, which is on the balance sheet, produce an equivalent corresponding error in the company’s cost of goods sold for the period, which is on the income statement. When cost of goods sold is overstated, inventory and net income are understated. When cost of goods sold is understated, inventory and net income are overstated. Further, an error in ending inventory carries into the next period, since ending inventory of one period becomes the beginning inventory of the next period, causing both the balance sheet and the income statement values to be wrong in year two as well as in the year of the error. Over a two-year period, misstatements of ending inventory will balance themselves out. For example, an overstatement to ending inventory overstates net income, but next year, since ending inventory becomes beginning inventory, it understates net income. So over a two-year period, this corrects itself. However, financial statements are prepared for one period, so all this means is that two years of cost of goods sold are misstated (the first year is overstated/understated, and the second year is understated/overstated.)</para>
+<para id="fs-idm320070464">In periodic inventory systems, inventory errors commonly arise from careless oversight of physical counts. Another common cause of periodic inventory errors results from management neglecting to take the physical count. Both perpetual and periodic updating inventory systems also face potential errors relating to ownership transfers during transportation (relating to FOB shipping point and FOB destination terms); losses in value due to shrinkage, theft, or obsolescence; and consignment inventory, the goods for which should never be included in the retailer’s inventory but should be recorded as an asset of the consignor, who remains the legal owner of the goods until they are sold.</para>
+</section>
+<section id="fs-idm326578752">
+<title>Calculated Income Statement and Balance Sheet Effects for Two Years</title>
+<para id="fs-idm329107664">Let’s return to The Spy Who Loves You Company dataset to demonstrate the effects of an inventory error on the company’s balance sheet and income statement. Example 1 (shown in <link target-id="OSX_Acct_F10_04_Example01"/>) depicts the balance sheet and income statement toggle when no inventory error is present. Example 2 (see <link target-id="OSX_Acct_F10_04_Example02"/>) shows the balance sheet and income statement inventory toggle, in a case when a $1,500 understatement error occurred at the end of year 1.</para>
+<figure id="OSX_Acct_F10_04_Example01">
+<media id="fs-idm355648208" alt="Balance Sheet for Year 1 has Beginning Inventory of 3,150 plus purchases of 13,005 equals Goods Available for Sale of 16,155 minus Ending Inventory of 8,955. This equals Cost of Goods Sold of 7,200 which goes to the Income Statement of Year 1, where you would subtract it from the Sales of $11,340 to get Gross Margin of 4,140, subtract all other expenses of 3,000 to equal Net Income of $1,140. Balance Sheet for Year 2 has Beginning Inventory of 8,955 plus purchases of 8,816 equals Goods Available for Sale of 17,771 minus Ending Inventory of 9,851. This equals Cost of Goods Sold of 7,920 which goes to the Income Statement of Year 1, where you would subtract it from the Sales of $12,474 to get Gross Margin of 4,554, subtract all other expenses of 3,000 to equal Net Income of $1,554.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_04_Example01.jpg"/>
+</media>
+<caption>Example 1. Assume these values to be correct (no inventory error). This chart shows excerpted values from The Spy Who Loves You Company’s financial statements without inventory errors. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<figure id="OSX_Acct_F10_04_Example02">
+<media id="fs-idm303708912" alt="Balance Sheet for Year 1 has Beginning Inventory of 3,150 plus purchases of 13,005 equals Goods Available for Sale of 16,155 minus Ending Inventory (understated by $1,500) of 7,455.  This equals Cost of Goods Sold of 8,700 which goes to the Income Statement of Year 1, where you would subtract it from the Sales of $11,340 to get Gross Margin of 2,640, subtract all other expenses of 3,000 to equal Net Loss of $360. Balance Sheet for Year 2 has Beginning Inventory of 7,455 plus purchases of 8,816 equals Goods Available for Sale of 16,271 minus Ending Inventory of 8,201. This equals Cost of Goods Sold of 6,420 which goes to the Income Statement of Year 1, where you would subtract it from the Sales of $12,474 to get Gross Margin of 6,054, subtract all other expenses of 3,000 to equal Net Income of $3,054.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_04_Example02.jpg"/>
+</media>
+<caption>Example 2. Assume these values to be incorrect (with inventory error). This chart shows excerpted values from The Spy Who Loves You Company’s financial statements with inventory errors. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm325928976">Comparing the two examples with and without the inventory error highlights the significant effect the error had on the net results reported on the balance sheet and income statements for the two years. Users of financial statements make important business and personal decisions based on the data they receive from the statements and errors of this sort provide those users with faulty information that could negatively affect the quality of their decisions. In these examples, the combined net income was identical for the two years and the error worked itself out at the end of the second year, yet year 1 and year 2 were incorrect and not representative of the true activity of the business for those periods of time. Extreme care should be taken to value inventories accurately.</para>
+</section>
+<section id="fs-idm322737744" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm336549984" list-type="bulleted" bullet-style="bullet">
+<item>The value for cost of the goods available for sale is dependent on accurate beginning and ending inventory numbers. Because of the interrelationship between inventory values and cost of goods sold, when the inventory values are incorrect, the associated income statement and balance sheet accounts are also incorrect.</item>
+<item>Inventory errors at the <emphasis effect="underline">beginning</emphasis> of a reporting period affect only the income statement. Overstatements of beginning inventory result in overstated cost of goods sold and understated net income. Conversely, understatements of beginning inventory result in understated cost of goods sold and overstated net income.</item>
+<item>Inventory errors at the <emphasis effect="underline">end</emphasis> of a reporting period affect both the income statement and the balance sheet. Overstatements of ending inventory result in understated cost of goods sold, overstated net income, overstated assets, and overstated equity. Conversely, understatements of ending inventory result in overstated cost of goods sold, understated net income, understated assets, and understated equity.</item>
+</list>
+</section>
+<section id="fs-idm310692416" class="multiple-choice">
+<exercise id="fs-idm350849344">
+<problem id="fs-idm302648208">
+<para id="fs-idm304119664"><link class="lo-reference" document="m67892"/>Which of the following financial statements would be impacted by a current-year ending inventory error, when using a periodic inventory updating system?</para>
+<list id="fs-idm326728144" list-type="enumerated" number-style="upper-alpha">
+<item>balance sheet</item>
+<item>income statement</item>
+<item>neither statement</item>
+<item>both statements</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm326238448">
+<problem id="fs-idm336622208">
+<para id="fs-idm322118448"><link class="lo-reference" document="m67892"/>Which of the following would cause periodic ending inventory to be overstated?</para>
+<list id="fs-idm331916864" list-type="enumerated" number-style="upper-alpha">
+<item>Goods held on consignment are omitted from the physical count.</item>
+<item>Goods purchased and delivered, but not yet paid for, are included in the physical count.</item>
+<item>Purchased goods shipped FOB destination and not yet delivered are included in the physical count.</item>
+<item>None of the above</item>
+</list>
+</problem>
+<solution id="fs-idm325768272">
+<para id="fs-idm305247232">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm495024736" class="questions">
+<exercise id="fs-idm345027104">
+<problem id="fs-idm321566736">
+<para id="fs-idm327680912"><link class="lo-reference" document="m67892"/>How long does it take an inventory error affecting ending inventory to correct itself in the financial statements? Explain.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm301601696">
+<problem id="fs-idm328365504">
+<para id="fs-idm351858464"><link class="lo-reference" document="m67892"/>What type of issues would arise that might cause inventory errors?</para>
+</problem>
+<solution id="fs-idm309728752">
+<para id="fs-idm341836992">Causes of inventory errors might be related to consigned goods, goods delivered before or after the title transfers, sloppy inventory counts, lost records, calculation errors, and any other circumstance that causes inaccuracy in the counts.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm347870672" class="exercise-set-a">
+<exercise id="fs-idm341373648">
+<problem id="fs-idm347276352">
+<para id="fs-idm320646896"><link class="lo-reference" document="m67892"/>If a group of inventory items costing $15,000 had been omitted from the year-end inventory count, what impact would the error have on the following inventory calculations? Indicate the effect (and amount) as either (a) none, (b) understated $______, or (c) overstated $______.</para>
+<table id="fs-idm304508640" class="top-titled" summary="Assessment data">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c3"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="center">Inventory Item</entry>
+<entry valign="bottom" align="center">None or amount?</entry>
+<entry valign="bottom" align="center">Understated or overstated?</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Beginning Inventory</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Purchases</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Goods Available for Sale</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Ending Inventory</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Cost of Goods Sold</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm353077232">
+<problem id="fs-idm342415232">
+<para id="fs-idm341883136"><link class="lo-reference" document="m67892"/>If Wakowski Company’s ending inventory was actually $86,000 but was adjusted at year end to a balance of $68,000 in error, what would be the impact on the presentation of the balance sheet and income statement for the year that the error occurred, if any?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm327856592">
+<problem id="fs-idm333698576">
+<para id="fs-idm325634896"><link class="lo-reference" document="m67892"/>Shetland Company reported net income on the year-end financial statements of $125,000. However, errors in inventory were discovered after the reports were issued. If inventory was understated by $15,000, how much net income did the company actually earn?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm344094128" class="exercise-set-b">
+<exercise id="fs-idm319725984">
+<problem id="fs-idm339405888">
+<para id="fs-idm339447312"><link class="lo-reference" document="m67892"/>If a group of inventory items costing $3,200 had been double counted during the year-end inventory count, what impact would the error have on the following inventory calculations? Indicate the effect (and amount) as either (a) none, (b) understated $______, or (c) overstated $______.</para>
+<table id="fs-idm303419792" class="top-titled" summary="Assessment data">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c3"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="center">Inventory Item</entry>
+<entry valign="bottom" align="center">None or amount?</entry>
+<entry valign="bottom" align="center">Understated or overstated?</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Beginning Inventory</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Purchases</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Goods Available for Sale</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Ending Inventory</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Cost of Goods Sold</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm328402672">
+<problem id="fs-idm326985344">
+<para id="fs-idm330606928"><link class="lo-reference" document="m67892"/>If Barcelona Company’s ending inventory was actually $122,000, but the cost of consigned goods, with a cost value of $20,000 were accidentally included with the company assets, when making the year-end inventory adjustment, what would be the impact on the presentation of the balance sheet and income statement for the year that the error occurred, if any?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm338080320">
+<problem id="fs-idm345658352">
+<para id="fs-idm495966256"><link class="lo-reference" document="m67892"/>Tanke Company reported net income on the year-end financial statements of $850,200. However, errors in inventory were discovered after the reports were issued. If inventory was overstated by $21,000, how much net income did the company actually earn?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm323102432" class="problem-set-a">
+<exercise id="fs-idm303105648">
+<problem id="fs-idm353592480">
+<para id="fs-idm320776400"><link class="lo-reference" document="m67892"/>Company Elmira reported the following cost of goods sold but later realized that an error had been made in ending inventory for year 2021. The correct inventory amount for 2021 was 32,000. Once the error is corrected, (a) how much is the restated cost of goods sold for 2021? and (b) how much is the restated cost of goods sold for 2022?</para>
+<media id="fs-idm362860448" class="scaled-down" alt="Beginning Inventory plus purchases equals Goods Available for Sale minus Ending Inventory equals Cost of Goods Sold for 2021 and 2022, respectively: 31,000 plus 185,000 equals 216,000 minus 27,000 equals 189,000; 27,000 plus 188,000 equals 215,000 minus 31,000 equals 185,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_04_PA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm303095968">
+<problem id="fs-idm358874080">
+<para id="fs-idm347126688"><link class="lo-reference" document="m67892"/>Assuming a company’s year-end inventory were overstated by $5,000, indicate the effect (overstated/understated/no effect) of the error on the following balance sheet and income statement accounts.</para>
+<list id="fs-idm495010224" list-type="enumerated" number-style="upper-alpha">
+<item>Income Statement: Cost of Goods Sold</item>
+<item>Income Statement: Net Income</item>
+<item>Balance Sheet: Assets</item>
+<item>Balance Sheet: Liabilities</item>
+<item>Balance Sheet: Equity</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm305084624" class="problem-set-b">
+<exercise id="fs-idm305414112">
+<problem id="fs-idm326208496">
+<para id="fs-idm345826096"><link class="lo-reference" document="m67892"/>Company Edgar reported the following cost of goods sold but later realized that an error had been made in ending inventory for year 2021. The correct inventory amount for 2021 was 12,000. Once the error is corrected, (a) how much is the restated cost of goods sold for 2021? and (b) how much is the restated cost of goods sold for 2022?</para>
+<media id="fs-idm305153360" class="scaled-down" alt="Beginning Inventory plus purchases equals Goods Available for Sale minus Ending Inventory equals Cost of Goods Sold for 2021 and 2022, respectively: 11,000 plus 135,000 equals 146,000 minus 16,000 equals 130,000; 16,000 plus 140,000 equals 156,000 minus 14,000 equals 142,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_04_PB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm339498624">
+<problem id="fs-idm326466496">
+<para id="fs-idm325034512"><link class="lo-reference" document="m67892"/>Assuming a company’s year-end inventory were understated by $16,000, indicate the effect (overstated/understated/no effect) of the error on the following balance sheet and income statement accounts.</para>
+<list id="fs-idm323514096" list-type="enumerated" number-style="upper-alpha">
+<item>Income Statement: Cost of Goods Sold</item>
+<item>Income Statement: Net Income</item>
+<item>Balance Sheet: Assets</item>
+<item>Balance Sheet: Liabilities</item>
+<item>Balance Sheet: Equity</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm321888080" class="thought-provokers">
+<exercise id="fs-idm342035008">
+<problem id="fs-idm327395200">
+<para id="fs-idm355523504"><link class="lo-reference" document="m67892"/>Consider the dilemma you might someday face if you are the CFO of a company that is struggling to satisfy investors, creditors, stockholders, and internal company managers. All of these financial statement users are clamoring for higher profits and more net assets (also known as equity). If at some point, you suddenly found yourself not meeting the internal and external earnings and equity targets that these parties expect, you would probably search for some way to make the financial statements look better. What if your boss, the CEO, suggested that maybe you should make just one simple journal entry to record all the goods that your company is holding on consignment, as if that significant amount of goods were owned by your company? She might say that this action on your part would fix a lot of problems at once, since adding the consigned goods to merchandise inventory would simultaneously increase net assets on the balance sheet <emphasis effect="italics">and</emphasis> increase net income on the income statement (since it would decrease cost of goods sold). How would you respond to this request?</para>
+<para id="fs-idm362906960">Write a memo, detailing your willingness or not to embrace this suggestion, giving reasons behind your decision. Remember to exercise diplomacy, even if you must dissent from the opinion of a supervisor. Note that the challenge of the assignment is to keep your integrity intact while also keeping your job, if possible.</para>
+</problem>
+</exercise>
+</section>
+   </content>
+</document>

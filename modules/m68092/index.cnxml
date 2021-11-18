@@ -1,0 +1,562 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Explain the Time Value of Money and Calculate Present and Future Values of Lump Sums and Annuities</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68092</md:content-id>
+  <md:title>Explain the Time Value of Money and Calculate Present and Future Values of Lump Sums and Annuities</md:title>
+  <md:abstract/>
+  <md:uuid>e77edfe4-8646-4f66-b6f0-f0c9139c1020</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm457747504">Your mother gives you $100 cash for a birthday present, and says, “Spend it wisely.” You want to purchase the latest cellular telephone on the market but wonder if this is really the best use of your money. You have a choice: You can spend the money now or spend it in the future. What should you do? Is there a benefit to spending it now as opposed to saving for later use? Does time have an impact on the value of your money in the future? Businesses are confronted with these questions and more when deciding how to allocate investment money. A major factor that affects their investment decisions is the concept of the time value of money.</para>
+<section id="fs-idm483310416">
+<title>Time Value of Money Fundamentals</title>
+<para id="fs-idm448223696">The concept of the <term>time value of money</term> asserts that the value of a dollar today is worth more than the value of a dollar in the future. This is typically because a dollar today can be used now to earn more money in the future. There is also, typically, the possibility of future inflation, which decreases the value of a dollar over time and could lead to a reduction in economic buying power.</para>
+<para id="fs-idm457899888">At this point, potential effects of inflation can probably best be demonstrated by a couple of examples. The first example is the Ford Mustang. The first Ford Mustang sold in 1964 for $2,368. Today’s cheapest Mustang starts at a list price of $25,680. While a significant portion of this increase is due to additional features on newer models, much of the increase is due to the inflation that occurred between 1964 and 2019.</para>
+<para id="fs-idm211660368">Similar inflation characteristics can be demonstrated with housing prices. After World War II, a typical small home often sold for between $16,000 and $30,000. Many of these same homes today are selling for hundreds of thousands of dollars. Much of the increase is due to the location of the property, but a significant part is also attributed to inflation. The annual inflation rate for the Mustang between 1964 and 2019 was approximately 4.5%. If we assume that the home sold for $16,500 in 1948 and the price of the home in 2019 was about $500,000, that’s an annual appreciation rate of almost 5%.</para>
+<para id="fs-idm214246256">Today’s dollar is also more valuable because there is less risk than if the dollar was in a long-term investment, which may or may not yield the expected results. On the other hand, delaying payment from an investment may be beneficial if there is an opportunity to earn interest. The longer payment is delayed, the more available earning potential there is. This can be enticing to businesses and may persuade them to take on the risk of deferment.</para>
+<para id="fs-idm460986592">Businesses consider the time value of money before making an investment decision. They need to know what the future value is of their investment compared to today’s present value and what potential earnings they could see because of delayed payment. These considerations include present and future values.</para>
+<para id="fs-idm457491728">Before you learn about present and future values, it is important to examine two types of cash flows: lump sums and annuities.</para>
+<section id="fs-idm214674464">
+<title>Lump Sums and Annuities</title>
+<para id="fs-idm464710416">A <term>lump sum</term> is a one-time payment or repayment of funds at a particular point in time. A lump sum can be either a present value or future value. For a lump sum, the present value is the value of a given amount today. For example, if you deposited $5,000 into a savings account today at a given rate of interest, say 6%, with the goal of taking it out in exactly three years, the $5,000 today would be a present value-lump sum. Assume for simplicity’s sake that the account pays 6% at the end of each year, and it also compounds interest on the interest earned in any earlier years.</para>
+<para id="fs-idm182853472">In our current example, interest is calculated once a year. However, interest can also be calculated in numerous ways. Some of the most common interest calculations are daily, monthly, quarterly, or annually. One concept important to understand in interest calculations is that of compounding. <term>Compounding</term> is the process of earning interest on previous interest earned, along with the interest earned on the original investment.</para>
+<para id="fs-idm177987168">Returning to our example, if $5,000 is deposited into a savings account for three years earning 6% interest compounded annually, the amount the $5,000 investment would be worth at the end of three years is $5,955.08 ($5,000 × 1.06 – $5,300 × 1.06 – $5,618 × 1.06 – $5,955.08). The $5,955.08 is the future value of $5,000 invested for three years at 6%. More formally, <term>future value</term> is the amount to which either a single investment or a series of investments will grow over a specified time at a given interest rate or rates. The initial $5,000 investment is the present value. Again, more formally, <term>present value</term> is the current value of a single future investment or a series of investments for a specified time at a given interest rate or rates. Another way to phrase this is to say the $5,000 is the present value of $5,955.08 when the initial amount was invested at 6% for three years. The interest earned over the three-year period would be $955.08, and the remaining $5,000 would be the original deposit of $5,000.</para>
+<para id="fs-idm189370624">As shown in the example the future value of a lump sum is the value of the given investment at some point in the future. It is also possible to have a series of payments that constitute a series of lump sums. Assume that a business receives the following four cash flows. They constitute a series of lump sums because they are <emphasis effect="italics">not all</emphasis> the same amount.</para>
+<media id="fs-idm216789744" class="scaled-down-30" alt="December 31, 2019, $12,000; December 31, 2020, $12,000; December 31, 2021, $11,500; December 31, 2022, $12,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_03_LumpSum_img.jpg"/>
+</media>
+<para id="fs-idm449056384">The company would be receiving a stream of four cash flows that are all lump sums. In some situations, the cash flows that occur each time period are the same amount; in other words, the cash flows are even each period. These types of even cash flows occurring at even intervals, such as once a year, are known as an <term>annuity</term>. The following figure shows an annuity that consists of four payments of $12,000 made at the end of each of four years.</para>
+<media id="fs-idm485196704" class="scaled-down-30" alt="December 31, 2019, $12,000; December 31, 2020, $12,000; December 31, 2021, $12,000; December 31, 2022, $12,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_03_CashFlow_img.jpg"/>
+</media>
+<para id="fs-idm203290416">The nature of cash flows—single sum cash flows, even series of cash flows, or uneven series of cash flows—have different effects on compounding.</para>
+</section>
+<section id="fs-idm452336272">
+<title>Compounding</title>
+<para id="fs-idm435555872">Compounding can be applied in many types of financial transactions, such as funding a retirement account or college savings account. Assume that an individual invests $10,000 in a four-year certificate of deposit account that pays 10% interest at the end of each year (in this case 12/31). Any interest earned during the year will be retained until the end of the four-year period and will also earn 10% interest annually.</para>
+<media id="fs-idm208708368" alt="Initial Investment equals 10,000. Year, Interest earned per year, Previous Balance EOY Balance (respectively): One, ($10,000 x 10%) $1,000, $10,000, ($1,000 + 10,000) $11,000; Two, ($11,000 x 10%) $1,100, $11,000, ($1,100 + 11,000) $12,100; Three, ($12,100 x 10%) $1,210, $12,100, ($1,210 + 12,100) $13,310; Four, ($13,310 x 10%) $1,331, $13,310, ($13,310 + 1,331) $14,641; Total Interest Earned equals $4,641.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_03_TotalInt_img.jpg"/>
+</media>
+<para id="fs-idm758158176">Through the effects of compounding—earning interest on interest—the investor earned $4,641 in interest from the four-year investment. If the investor had removed the interest earned instead of reinvesting it in the account, the investor would have earned $1,000 a year for four years, or $4,000 interest ($10,000 × 10% = $1,000 per year × 4 years = $4,000 total interest). Compounding is a concept that is used to determine future value (more detailed calculations of future value will be covered later in this section). But what about present value? Does compounding play a role in determining present value? The term applied to finding present value is called discounting.</para>
+</section>
+<section id="fs-idm442698864">
+<title>Discounting</title>
+<para id="fs-idm163016800"><term>Discounting</term> is the procedure used to calculate the present value of an individual payment or a series of payments that will be received in the future based on an assumed interest rate or return on investment. Let’s look at a simple example to explain the concept of discounting.</para>
+<para id="fs-idm443622960">Assume that you want to accumulate sufficient funds to buy a new car and that you will need $5,000 in three years. Also, assume that your invested funds will earn 8% a year for the three years, and you reinvest any interest earned during the three-year period. If you wanted to take out adequate funds from your savings account to fund the three-year investment, you would need to invest $3,969.16 today and invest it in the account earning 8% for three years. After three years, the $3,969.16 would earn $1,030.84 and grow to exactly the $5,000 that you will need. This is an example of discounting. Discounting is the method by which we take a future value and determine its current, or present, value. An understanding of future value applications and calculations will aid in the understanding of present value uses and calculations.</para>
+</section>
+</section>
+<section id="fs-idm200541152">
+<title>Future Value</title>
+<para id="fs-idm448213088">There are benefits to investing money now in hopes of a larger return in the future. These future earnings are possible because of interest payments received as an incentive for tying up money long-term. Knowing what these future earnings will be can help a business decide if the current investment is worth the long-term potential. Recall, the <term>future value (FV)</term> as the value of an investment after a certain period of time. Future value considers the initial amount invested, the time period of earnings, and the earnings interest rate in the calculation. For example, a bank would consider the future value of a loan based on whether a long-time client meets a certain interest rate return when determining whether to approve the loan.</para>
+<para id="fs-idm365392656">To determine future value, the bank would need some means to determine the future value of the loan. The bank could use formulas, future value tables, a financial calculator, or a spreadsheet application. The same is true for present value calculations. Due to the variety of calculators and spreadsheet applications, we will present the determination of both present and future values using tables. In many college courses today, these tables are used primarily because they are relatively simple to understand while demonstrating the material. For those who prefer formulas, the different formulas used to create each table are printed at the top of the corresponding table. In many finance classes, you will learn how to utilize the formulas. Regarding the use of a financial calculator, while all are similar, the user manual or a quick internet search will provide specific directions for each financial calculator. As for a spreadsheet application such as Microsoft Excel, there are some common formulas, shown in <link target-id="fs-idm185548576"/>. In addition, <link document="m71404">Appendix C</link> provides links to videos and tutorials on using specific aspects of Excel, such as future and present value techniques.</para>
+<table id="fs-idm185548576" class="top-titled" summary="No Summary">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c3">Excel Formulas</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Time Value Component</entry>
+<entry valign="top" align="left">Excel Formula Shorthand</entry>
+<entry valign="top" align="left">Excel Formula Detailed</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Present Value Single Sum</entry>
+<entry valign="top" align="left">=PV</entry>
+<entry valign="top" align="left">=PV(Rate, N, Payment, FV)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Future Value Single Sum</entry>
+<entry valign="top" align="left">+FV</entry>
+<entry valign="top" align="left">=FV(Rate, N, Payment, PV)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Present Value Annuity</entry>
+<entry valign="top" align="left">=PV</entry>
+<entry valign="top" align="left">=PV(Rate, N, Payment, FV, Type)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Future Value Annuity</entry>
+<entry valign="top" align="left">=FV</entry>
+<entry valign="top" align="left">=FV(Rate, N, Payment, PV, Type)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Net Present Value</entry>
+<entry valign="top" align="left">=NPV</entry>
+<entry valign="top" align="left">=NPV(Rate, CF2, CF3, CF4) + CF1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Internal Rate of Return</entry>
+<entry valign="top" align="left">=IRR</entry>
+<entry valign="top" align="left">=IRR(Invest, CF1, CF2, CF3)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c3">Rate = annual interest rate</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c3">N = number of periods</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c3">Payment = annual payment amount, entered as a negative number, use 0 when calculating both present value of a single sum and future value of a single sum</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c3">FV = future value</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c3">PV = current or present value</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c3">Type = 0 for regular annuity, 1 for annuity due</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c3">CF = cash flow for a period, thus CF1 – cash flow period 1, CF2 – cash flow period 2, etc.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c3">Invest = initial investment entered as a negative number</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm344263024">Since we will be using the tables in the examples in the body of the chapter, it is important to know there are four possible table, each used under specific conditions (<link target-id="fs-idm354805120"/>.</para>
+<table id="fs-idm354805120" class="top-titled" summary="">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Time Value of Money Tables</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Situation</entry>
+<entry valign="top" align="left">Table Heading</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Future Value – Lump Sum</entry>
+<entry valign="top" align="left">Future Value of $1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Future Value – Annuity (even payment stream)</entry>
+<entry valign="top" align="left">Future Value of an Annuity</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Present Value – Lump Sum</entry>
+<entry valign="top" align="left">Present Value of $1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Present Value – Annuity (even payment stream)</entry>
+<entry valign="top" align="left">Present Value of an Annuity</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm164651296">In the prior situation, the bank would use either the Future Value of $1 table or Future Value of an Ordinary Annuity table, samples of which are provided in <link document="m71403">Appendix B</link>. To use the correct table, the bank needs to determine whether the customer will pay them back at the end of the loan term or periodically throughout the term of the loan. The Future Value of $1 table is used if the customer will pay back at the end of the period; if the payments will be made periodically throughout the term of the loan, they will use the Future Value of an Annuity table. Choosing the correct table to use is critical for accurate determination of the future value. The application in other business matters is the same: a business needs to also consider if they are making an investment with a repayment in one lump sum or in an annuity structure before choosing a table and making the calculation. In the tables, the columns show interest rates (<emphasis effect="italics">i</emphasis>) and the rows show periods (<emphasis effect="italics">n</emphasis>). The interest columns represent the anticipated interest rate payout for that investment. Interest rates can be based on experience, industry standards, federal fiscal policy expectations, and risk investment. Periods represent the number of years until payment is received. The intersection of the expected payout years and the interest rate is a number called a future value factor. The future value factor is multiplied by the initial investment cost to produce the future value of the expected cash flows (or investment return).</para>
+<section id="fs-idm447911760">
+<title>Future Value of $1</title>
+<para id="fs-idm194894144">A lump sum payment is the present value of an investment when the return will occur at the end of the period in one installment. To determine this return, the Future Value of $1 table is used.</para>
+<para id="fs-idm206787504">For example, you are saving for a vacation you plan to take in 6 years and want to know how much your initial savings will yield in the future. You decide to place $4,500 in an investment account now that yields an anticipated annual return of 8%. Looking at the FV table, <emphasis effect="italics">n</emphasis> = 6 years, and <emphasis effect="italics">i</emphasis> = 8%, which return a future value factor of 1.587. Multiplying this factor by the initial investment amount of $4,500 produces $7,141.50. This means your initial savings of $4,500 will be worth approximately $7,141.50 in 6 years.</para>
+<media id="fs-idm201990816" class="scaled-down" alt="Future Value of $1 Table, Factor equals (1 + i) to the nth power. Columns represent Rate (i), Rows represent Periods (n). Period, 1%, 2%, 3%, 5%, 8% (respectively): 1, 1.010, 1.020, 1.030, 1.050, 1.080; 2, 1.020, 1.040, 1.061, 1.103, 1.166; 3, 1.030, 1.061, 1.093, 1.158, 1.260; 4, 1.041, 1.082, 1.126, 1.216, 1.360; 5, 1.051, 1.104, 1.159, 1.276, 1.469; 6, 1.062, 1.126, 1.194, 1.340, 1.587 (highlighted).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_03_Tbl03_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm200932240">
+<title>Future Value of an Ordinary Annuity</title>
+<para id="fs-idm216887824">An <term>ordinary annuity</term> is one in which the payments are made at the end of each period in equal installments. A future value ordinary annuity looks at the value of the current investment in the future, if periodic payments were made throughout the life of the series.</para>
+<para id="fs-idm491890464">For example, you are saving for retirement and expect to contribute $10,000 per year for the next 15 years to a 401(k) retirement plan. The plan anticipates a periodic interest yield of 12%. How much would your investment be worth in the future meeting these criteria? In this case, you would use the Future Value of an Ordinary Annuity table. The relevant factor where <emphasis effect="italics">n</emphasis> = 15 and <emphasis effect="italics">i</emphasis> = 12% is 37.280. Multiplying the factor by the amount of the cash flow yields a future value of these installment savings of (37.280 × $10,000) $372,800. Therefore, you could expect your investment to be worth $372,800 at the end of 15 years, given the parameters.</para>
+<media id="fs-idm478858672" class="scaled-down" alt="Future Value of an Ordinary Annuity Table, Factor = ((1 + i)to the nth power – 1)/i. Columns represent Rate (i) and rows represent Periods (n). Period, 1%, 2%, 3%, 5%, 8%, 10%, 12% respectively: 1, 1.000, 1.000, 1.000, 1.000, 1.000, 1.000, 1.000; 2, 2.010, 2.020, 2.030, 2.050, 2.080, 2.100, 2.120; 3, 3.030, 3.060, 3.091, 3.153, 3.246, 3.310, 3.374; 4, 4.060, 4.122, 4.184, 4.310, 4.506, 4.641, 4.779; 5, 5.101, 5.204, 5.309, 5.526, 5.867, 6.105, 6.353; 6, 6.152, 6.308, 6.468, 6.802, 7.336, 7.716, 8.115; 7, 7.214, 7.434, 7.662, 8.142, 8.923, 9.487, 10.089; 8, 8.286, 8.583, 8.892, 9.549, 10.637, 11.436, 12.300; 9, 9.369, 9.755, 10.159, 11.027, 12.488, 13.579, 14.776; 10, 10.462, 10.950, 11.464, 12.578, 14.487, 15.937, 17.549; 11, 11.567, 12.169, 12.808, 14.207. 16.645, 18.531, 20.655; 12, 12.683, 13.412, 14.192, 15.917, 18.977, 21.384, 24.133; 13, 13.809, 14.680, 15.618, 17.713, 21.495, 24.523, 28.029; 14, 14.947, 15.974, 17.086, 19.599, 24.215, 27.975, 32.393; 15, 16.097, 17.293. 18.599, 21.579, 27.152, 31.772, 37.280 (highlighted).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_03_Tbl04_img.jpg"/>
+</media>
+<para id="fs-idm193783856">Let's now examine how present value differs from future value in use and computation.</para>
+</section>
+<note id="fs-idm225619504" class="your-turn">
+ <title>Determining Future Value</title>
+ <para id="fs-idm200832128">Determine the future value for each of the following situations. Use the future value tables provided in <link document="m71403">Appendix B</link> when needed, and round answers to the nearest cent where required.</para>
+<list id="fs-idm203822576" list-type="enumerated" number-style="upper-alpha">
+<item>You are saving for a car and you put away $5,000 in a savings account. You want to know how much your initial savings will be worth in 7 years if you have an anticipated annual interest rate of 5%.</item>
+<item>You are saving for retirement and make contributions of $11,500 per year for the next 14 years to your 403(b) retirement plan. The interest rate yield is 8%.</item>
+</list>
+<para id="fs-idm200115520"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm192049712">A. Use FV of $1 table. Future value factor where <emphasis effect="italics">n</emphasis> = 7 and <emphasis effect="italics">i</emphasis> = 5 is 1.407. 1.407 × 5,000 = $7,035. B. Use FV of an ordinary annuity table. Future value factor where <emphasis effect="italics">n</emphasis> = 14 and <emphasis effect="italics">i</emphasis> = 8 is 24.215. 24.215 × 11,500 = $278,472.50.</para>
+</note>
+</section>
+<section id="fs-idm215081872">
+<title>Present Value</title>
+<para id="fs-idm205258432">It is impossible to compare the value or potential purchasing power of the future dollar to today’s dollar; they exist in different times and have different values. <term>Present value (PV)</term> considers the future value of an investment expressed in today’s value. This allows a company to see if the investment’s initial cost is more or less than the future return. For example, a bank might consider the present value of giving a customer a loan before extending funds to ensure that the risk and the interest earned are worth the initial outlay of cash.</para>
+<para id="fs-idm201029120">Similar to the Future Value tables, the columns show interest rates (<emphasis effect="italics">i</emphasis>) and the rows show periods (<emphasis effect="italics">n</emphasis>) in the Present Value tables. Periods represent how often interest is compounded (paid); that is, periods could represent days, weeks, months, quarters, years, or any interest time period. For our examples and assessments, the period (<emphasis effect="italics">n</emphasis>) will almost always be in years. The intersection of the expected payout years (<emphasis effect="italics">n</emphasis>) and the interest rate (<emphasis effect="italics">i</emphasis>) is a number called a present value factor. The present value factor is multiplied by the initial investment cost to produce the present value of the expected cash flows (or investment return).</para>
+<media id="fs-idm184045824" class="scaled-down" alt="Present value equals present value factor times initial investment cost.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_03_PVFactor_img.jpg"/>
+</media>
+<para id="fs-idm195939040">The two tables provided in <link document="m71403">Appendix B</link> for present value are the Present Value of $1 and the Present Value of an Ordinary Annuity. As with the future value tables, choosing the correct table to use is critical for accurate determination of the present value.</para>
+<section id="fs-idm480279312">
+<title>Present Value of $1</title>
+<para id="fs-idm168852576">When referring to present value, the lump sum return occurs at the end of a period. A business must determine if this delayed repayment, with interest, is worth the same as, more than, or less than the initial investment cost. If the deferred payment is more than the initial investment, the company would consider an investment.</para>
+<para id="fs-idm182815296">To calculate present value of a lump sum, we should use the Present Value of $1 table. For example, you are interested in saving money for college and want to calculate how much you would need put in the bank today to return a sum of $40,000 in 10 years. The bank returns an interest rate of 3% per year during these 10 years. Looking at the PV table, <emphasis effect="italics">n</emphasis> = 10 years and <emphasis effect="italics">i</emphasis> = 3% returns a present value factor of 0.744. Multiplying this factor by the return amount of $40,000 produces $29,760. This means you would need to put in the bank now approximately $29,760 to have $40,000 in 10 years.</para>
+<media id="fs-idm440074176" class="scaled-down" alt="Present Value of $1 Table, Factor = 1 / (1 + i) to the nth power. Columns represent Rate (i) and rows represent Periods (n). Period, 1%, 2%, 3% (Bolded), 5%, respectively: 1, 0.990, 0.980, 0.971, 0.952; 2, 0.980, 0.961, 0.943, 0.907; 3, 0.971, 0.942, 0.915, 0.864; 4, 0.961, 0.924, 0.888, 0.823; 5, 0.952, 0.906, 0.863, 0.784; 6, 0.942, 0.888, 0.837, 0.746; 7, 0.933, 0.871, 0.813, 0.711; 8, 0.924, 0.853, 0.789, 0.677; 9, 0.914, 0.837, 0.766, 0.645; 10 (bolded), 0.905, 0.820, 0.744 (highlighted), 0.614; 11, 0.896, 0.804, 0.722, 0.585.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_03_Tbl01_img.jpg"/>
+</media>
+<para id="fs-idm336990336">As mentioned, to determine the present value or future value of cash flows, a financial calculator, a program such as Excel, knowledge of the appropriate formulas, or a set of tables must be used. Though we illustrate examples in the text using tables, we recognize the value of these other calculation instruments and have included chapter assessments that use multiple approaches to determining present and future value. Knowledge of different approaches to determining present and future value is useful as there are situations, such as having fractional interest rates, 8.45% for example, in which a financial calculator or a program such as Excel would be needed to accurately determine present or future value.</para>
+</section>
+<section id="fs-idm200703312">
+<title>Annuity Table</title>
+<para id="fs-idm200581552">As discussed previously, annuities are a series of equal payments made over time, and ordinary annuities pay the equal installment at the end of each payment period within the series. This can help a business understand how their periodic returns translate into today’s value.</para>
+<para id="fs-idm174915072">For example, assume that Sam needs to borrow money for college and anticipates that she will be able to repay the loan in $1,200 annual payments for each of 5 years. If the lender charges 5% per year for similar loans, how much cash would the bank be willing to lend Sam today? In this case, she would use the Present Value of an Ordinary Annuity table in <link document="m71403">Appendix B</link>, where <emphasis effect="italics">n</emphasis> = 5 and <emphasis effect="italics">i</emphasis> = 5%. This yields a present value factor of 4.329. The current value of the cash flow each period is calculated as 4.329 × $1,200 = $5,194.80. Therefore, Sam could borrow $5,194.80 now given the repayment parameters.</para>
+<media id="fs-idm179542992" class="scaled-down" alt="Present Value of an Ordinary Annuity Table, Factor = (1 minus 1/(1 + i) to the nth power) / i. Columns represent Rate (i), and rows represent Periods (n). Period, 1%, 2%, 3%, 5%, respectively: 1, 0.990, 0.980, 0.971, 0.952; 2, 1.970, 1.942, 1.913, 1,859; 3, 2.941, 2.884, 2.829, 2.723; 4, 3.902, 3.808, 3.717, 3.546; 5, 4.853, 4.713, 4.580, 4.329 (highlighted).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_03_Tbl02_img.jpg"/>
+</media>
+<para id="fs-idm172503424">Our focus has been on examples of <emphasis effect="italics">ordinary</emphasis> annuities (annuities due and other more complicated annuity examples are addressed in advanced accounting courses). With <term>annuities due</term>, the cash flow occurs at the start of the period. For example, if you wanted to deposit a lump sum of money into an account and make monthly rent payments starting today, the first payment would be made the same day that you made the deposit into the funding account. Because of this timing difference in the withdrawals from the annuity due, the process of calculating annuity due is somewhat different from the methods that you’ve covered for ordinary annuities.</para>
+<note id="fs-idm209788560" class="your-turn">
+<title>Determining Present Value</title>
+<para id="fs-idm225116928">Determine the present value for each of the following situations. Use the present value tables provided in <link document="m71403">Appendix B</link> when needed, and round answers to the nearest cent where required.</para>
+<list id="fs-idm210599536" list-type="enumerated" number-style="lower-alpha">
+<item>You are saving for college and you want to return a sum of $100,000 in 12 years. The bank returns an interest rate of 5% after these 12 years.</item>
+<item>You need to borrow money for college and can afford a yearly payment to the lending institution of $1,000 per year for the next 8 years. The interest rate charged by the lending institution is 3% per year.</item>
+</list>
+<para id="fs-idm196476160"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm223990656">a. Use PV of $1 table. Present value factor where <emphasis effect="italics">n</emphasis> = 12 and <emphasis effect="italics">i</emphasis> = 5 is 0.557. 0.557 × $100,000 = $55,700. b. Use PV of an ordinary annuity table. Present value factor where <emphasis effect="italics">n</emphasis> = 8 and <emphasis effect="italics">i</emphasis> = 3 is 7.020. 7.020 × $1,000 = $7,020.</para>
+</note>
+<note id="fs-idm221125008" class="link-to-learning">
+<para id="fs-idm205398560">For a lucky few, winning the lottery can be a dream come true and the option to take a one-time payout or receive payments over several years does not seem to matter at the time. This <link url="https://openstax.org/l/50LotteryCalc">lottery payout calculator</link> shows how time value of money may affect your take-home winnings.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm173445776" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm225448080" list-type="bulleted" bullet-style="bullet">
+<item>A dollar is worth more today than it will be in the future. This is due to many reasons including the power of investment in today’s economy, market inflation, and the ability to use the money in the present to make more money in the future, with interest.</item>
+<item>Present value expresses the future value of a dollar in today’s (present) value. Present value tables, showing the present value factor intersection of periods and interest rate, are used to multiply by the final payout amount to compute today’s value.</item>
+<item>The future value shows what the value of an investment will be after a certain period of time. Future value tables, showing the future value factor intersection of periods and interest rate, are used to multiply by the initial investment amount to compute future value.</item>
+<item>A lump sum is a one-time payment after a certain period of time, whereas an ordinary annuity involves equal installments in a series of payments over time. A business can use lump sum or ordinary annuity calculations for present value and future value calculations.</item>
+</list>
+</section>
+<section id="fs-idm184005008" class="multiple-choice">
+<exercise id="fs-idm208741424">
+<problem id="fs-idm201371104">
+<para id="fs-idm194830368"><link class="lo-reference" document="m68092"/>You are explaining time value of money factors to your friend. Which factor would you explain as being larger?</para>
+<list id="fs-idm199609584" list-type="enumerated" number-style="upper-alpha">
+<item>The future value of $1 for 12 periods at 6% is larger.</item>
+<item>The present value of $1 for 12 periods at 6% is larger.</item>
+<item>Neither one is larger because they are equal.</item>
+<item>There is not enough information given to answer this question.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm214933904">
+<problem id="fs-idm216189104">
+<para id="fs-idm197114816"><link class="lo-reference" document="m68092"/>If you are saving the same amount each month in order to buy a new sports car when the new models are released, which of the following will help you determine the savings needed?</para>
+<list id="fs-idm209466400" list-type="enumerated" number-style="upper-alpha"><item>future value of one dollar</item>
+<item>present value of one dollar</item>
+<item>future value of an ordinary annuity</item>
+<item>present value of an ordinary annuity</item>
+</list></problem>
+<solution id="fs-idm186444112">
+<para id="fs-idm478948608">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm490961696">
+<problem id="fs-idm209163312">
+<para id="fs-idm219965408"><link class="lo-reference" document="m68092"/>You want to invest $8,000 at an annual interest rate of 8% that compounds annually for 12 years. Which table will help you determine the value of your account at the end of 12 years?</para>
+<list id="fs-idm206669232" list-type="enumerated" number-style="upper-alpha"><item>future value of one dollar</item>
+<item>present value of one dollar</item>
+<item>future value of an ordinary annuity</item>
+<item>present value of an ordinary annuity</item>
+</list></problem>
+</exercise>
+<exercise id="fs-idm218636304">
+<problem id="fs-idm203177632">
+<para id="fs-idm758287008"><link class="lo-reference" document="m68092"/>Using the information provided, what transaction represents the best application of the present value of an annuity due of $1?</para>
+<list id="fs-idm165227568" list-type="enumerated" number-style="upper-alpha">
+<item>Falcon Products leases an office building for 8 years with annual lease payments of $100,000 to be made at the beginning of each year.</item>
+<item>Compass, Inc., signs a note of $32,000, which requires the company to pay back the principal plus interest in four years.</item>
+<item>Bahwat Company plans to deposit a lump sum of $100,000 for the construction of a solar farm in 4 years.</item>
+<item>NYC Industries leases a car for 4 yearly annual lease payments of $12,000, where payments are made at the end of each year.</item>
+</list>
+</problem>
+<solution id="fs-idm223224416">
+<para id="fs-idm197421520">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm203772624">
+<problem id="fs-idm221011040">
+<para id="fs-idm169395008"><link class="lo-reference" document="m68092"/>Grummet Company is acquiring a new wood lathe with a cash purchase price of $80,000. The Wood Master Industries (the manufacturer) has agreed to accept $23,500 at the end of each of the next 4 years. Based on this deal, how much interest will Grummet pay over the life of the loan?</para>
+<list id="fs-idm215049072" list-type="enumerated" number-style="upper-alpha">
+<item>$94,000</item>
+<item>$80,000</item>
+<item>$23,500</item>
+<item>$14,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm198862496">
+<problem id="fs-idm198316720">
+<para id="fs-idm215877584"><link class="lo-reference" document="m68092"/>The process that determines the present value of a single payment or stream of payments to be received is ________.</para>
+<list id="fs-idm217681840" list-type="enumerated" number-style="upper-alpha">
+<item>compounding</item>
+<item>discounting</item>
+<item>annuity</item>
+<item>lump-sum</item>
+</list>
+</problem>
+<solution id="fs-idm197908832">
+<para id="fs-idm178853280">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm200590624">
+<problem id="fs-idm201263680">
+<para id="fs-idm214338576"><link class="lo-reference" document="m68092"/>The process of reinvesting interest earned to generate additional earnings over time is ________.</para>
+<list id="fs-idm211751232" list-type="enumerated" number-style="upper-alpha">
+<item>compounding</item>
+<item>discounting</item>
+<item>annuity</item>
+<item>lump-sum</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm196273840" class="questions">
+<exercise id="fs-idm216290832">
+<problem id="fs-idm460418112">
+<para id="fs-idm199418704"><link class="lo-reference" document="m68092"/>What is future value and what is one example where it might be used?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm194896544">
+<problem id="fs-idm209373600">
+<para id="fs-idm196948896"><link class="lo-reference" document="m68092"/>Why do businesses consider time value of money before making an investment decision?</para>
+</problem>
+<solution id="fs-idm494910912">
+<para id="fs-idm218878176">They need to know what the future value is of their investment compared to today’s present value, and what potential earnings they could see because of delayed payment.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm220699600">
+<problem id="fs-idm209486432">
+<para id="fs-idm214299008"><link class="lo-reference" document="m68092"/>What determines the anticipated interest rate payout for an investment?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm198907440">
+<problem id="fs-idm443501776">
+<para id="fs-idm200761984"><link class="lo-reference" document="m68092"/>To calculate present value of a lump sum, which table would be used?</para>
+</problem>
+<solution id="fs-idm213111760">
+<para id="fs-idm220270496">The Present Value of $1 table.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm464683872">
+<problem id="fs-idm214199904">
+<para id="fs-idm479016912"><link class="lo-reference" document="m68092"/>What is the definition of <emphasis effect="italics">present value</emphasis>?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm215413824" class="exercise-set-a">
+<exercise id="fs-idm177599776">
+<problem id="fs-idm484481904">
+<para id="fs-idm215189664"><link class="lo-reference" document="m68092"/>You put $250 in the bank for 5 years at 12%.</para>
+<list id="fs-idm214978720" list-type="enumerated" number-style="upper-alpha">
+<item>If interest is added at the end of the year, how much will you have in the bank after one year? Calculate the amount you will have in the bank at the end of year two and continue to calculate all the way to the end of the fifth year.</item>
+<item>Use the future value of $1 table in <link document="m71403">Appendix B</link> and verify that your answer is correct.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm206370032">
+<problem id="fs-idm225473904">
+<para id="fs-idm175111152"><link class="lo-reference" document="m68092"/>If you invest $12,000 today, how much will you have in (for further instructions on future value in Excel, see <link document="m71404">Appendix C</link>):</para>
+<list id="fs-idm226407904" list-type="enumerated" number-style="upper-alpha">
+<item>10 years at 9%</item>
+<item>8 years at 12%</item>
+<item>14 years at 15%</item>
+<item>19 years at 18%</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm199503728">
+<problem id="fs-idm177381024">
+<para id="fs-idm198868592"><link class="lo-reference" document="m68092"/>You have been depositing money into an account yearly based on the following amounts, rates, and times. What is the value of that investment account at the end of that period?</para>
+<media id="fs-idm486581680" class="scaled-down" alt="Amount of Investment, Rate, Time, Value at the End of the Period (respectively): $8,000, 20%, 15 years, ?; 12,000, 15, 10 years, ?; 15,500, 12, 5 years, ?; 35,500, 10, 2 years, ?">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_03_EA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm200775360">
+<problem id="fs-idm201437120">
+<para id="fs-idm209724384"><link class="lo-reference" document="m68092"/>How much would you invest today in order to receive $30,000 in each of the following (for further instructions on present value in Excel, see <link document="m71404">Appendix C</link>):</para>
+<list id="fs-idm224180048" list-type="enumerated" number-style="upper-alpha">
+<item>10 years at 9%</item>
+<item>8 years at 12%</item>
+<item>14 years at 15%</item>
+<item>19 years at 18%</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm196702016">
+<problem id="fs-idm198793936">
+<para id="fs-idm225021680"><link class="lo-reference" document="m68092"/>Your friend has a trust fund that will pay her the following amounts at the given interest rate for the given number of years. Calculate the current (present) value of your friend’s trust fund payments. For further instructions on future value in Excel, see <link document="m71404">Appendix C</link>.</para>
+<media id="fs-idm178785600" class="scaled-down" alt="Amount of Yearly Receipt, Rate, Time, Current Value (respectively): $6,200, 10%, 5 years, ?; 12,200, 12, 10 years, ?; 18,000, 15, 15 years, ?; 22,500, 20, 20 years, ?">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_03_EA05_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm491196112">
+<problem id="fs-idm217448016">
+<para id="fs-idm448181360"><link class="lo-reference" document="m68092"/>Julio Company is considering the purchase of a new bubble packaging machine. If the machine will provide $20,000 annual savings for 10 years and can be sold for $50,000 at the end of the period, what is the present value of the machine investment at a 9% interest rate with savings realized at year end?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm199460016">
+<problem id="fs-idm201850080">
+<para id="fs-idm196492064"><link class="lo-reference" document="m68092"/>How much must be invested now to receive $30,000 for 10 years if the first $30,000 is received one year from now and the rate is 8%?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm225626720" class="exercise-set-b">
+<exercise id="fs-idm218660752">
+<problem id="fs-idm214188160">
+<para id="fs-idm216009536"><link class="lo-reference" document="m68092"/>You put $600 in the bank for 3 years at 15%.</para>
+<list id="fs-idm211636384" list-type="enumerated" number-style="upper-alpha">
+<item>If interest is added at the end of the year, how much will you have in the bank after one year? Calculate the amount you will have in the bank at the end of year two and continue to calculate all the way to the end of the third year.</item>
+<item>Use the future value of $1 table in <link document="m71403">Appendix B</link> and verify that your answer is correct.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm194805680">
+<problem id="fs-idm198929024">
+<para id="fs-idm201001728"><link class="lo-reference" document="m68092"/>If you invest $15,000 today, how much will you have in (for further instructions on future value in Excel, see <link document="m71404">Appendix C</link>):</para>
+<list id="fs-idm216289408" list-type="enumerated" number-style="upper-alpha">
+<item>20 years at 22%</item>
+<item>12 years at 10%</item>
+<item>5 years at 14%</item>
+<item>2 years at 7%</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm210766672">
+<problem id="fs-idm224442832">
+<para id="fs-idm210449264"><link class="lo-reference" document="m68092"/>You have been depositing money into an account yearly based on the following investment amounts, rates and times. What is the value of that investment account at the end of that period?</para>
+<media id="fs-idm198272960" class="scaled-down" alt="Amount of Investment, Rate, Time, Value at the End of the Period (respectively): $4,000, 12%, 14 years, ?; 6,000, 15, 10 years, ?; 13,500, 10, 8 years, ?; 22,250, 20, 6 years, ?">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_03_EB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm197081728">
+<problem id="fs-idm200570080">
+<para id="fs-idm162366000"><link class="lo-reference" document="m68092"/>How much would you invest today in order to receive $30,000 in each of the following (for further instructions on present value in Excel, see <link document="m71404">Appendix C</link>):</para>
+<list id="fs-idm218756112" list-type="enumerated" number-style="upper-alpha">
+<item>20 years at 22%</item>
+<item>12 years at 10%</item>
+<item>5 years at 14%</item>
+<item>2 years at 7%</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm207778960">
+<problem id="fs-idm195937984">
+<para id="fs-idm201942736"><link class="lo-reference" document="m68092"/>Your friend has a trust fund that will pay her the following amounts at the given interest rate for the given number of years. Calculate the current (present) value of your friend’s trust fund payments. For further instructions on present value in Excel, see <link document="m71404">Appendix C</link>.</para>
+<media id="fs-idm222758848" class="scaled-down" alt="Amount of Yearly Receipt, Rate, Time, Current Value (respectively): $5,000, 10%, 5 years, ?; 7,500, 12, 10 years, ?; 14,000, 15, 15 years, ?; 25,000, 20, 20 years, ?">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_03_EB05_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm223995936">
+<problem id="fs-idm222205472">
+<para id="fs-idm214312480"><link class="lo-reference" document="m68092"/>Conestoga Plumbing plans to invest in a new pump that is anticipated to provide annual savings for 10 years of $50,000. The pump can be sold at the end of the period for $100,000. What is the present value of the investment in the pump at a 9% interest rate given that savings are realized at year end?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm491034560">
+<problem id="fs-idm440062304">
+<para id="fs-idm216089328"><link class="lo-reference" document="m68092"/>How much must be invested now to receive $50,000 for 8 years if the first $50,000 is received in one year and the rate is 10%?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm181709312" class="problem-set-a">
+<exercise id="fs-idm203180352">
+<problem id="fs-idm196790896">
+<para id="fs-idm214876384"><link class="lo-reference" document="m68092"/>Use the tables in <link document="m71403">Appendix B</link> to answer the following questions.</para>
+<list id="fs-idm203197984" list-type="enumerated" number-style="upper-alpha">
+<item>If you would like to accumulate $2,500 over the next 4 years when the interest rate is 15%, how much do you need to deposit in the account?</item>
+<item>If you place $6,200 in a savings account, how much will you have at the end of 7 years with a 12% interest rate?</item>
+<item>You invest $8,000 per year for 10 years at 12% interest, how much will you have at the end of 10 years?</item>
+<item>You win the lottery and can either receive $750,000 as a lump sum or $50,000 per year for 20 years. Assuming you can earn 8% interest, which do you recommend and why?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm443974800">
+<problem id="fs-idm177213168">
+<para id="fs-idm222556960"><link class="lo-reference" document="m68092"/>Ralston Consulting, Inc., has a $25,000 overdue debt with Supplier No. 1. The company is low on cash, with only $7,000 in the checking account and does not want to borrow any more cash. Supplier No. 1 agrees to settle the account in one of two ways:</para>
+<para id="fs-idm177625408">Option 1: Pay $7,000 now and $23,750 when some large projects are finished, two years from today.</para>
+<para id="fs-idm453715056">Option 2: Pay $35,000 three years from today, when even larger projects are finished.</para>
+<para id="fs-idm222585216">Assuming that the only factor in the decision is the cost of money (8%), which option should Ralston choose?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm214596896" class="problem-set-b">
+<exercise id="fs-idm214997392">
+<problem id="fs-idm214529504">
+<para id="fs-idm183069552"><link class="lo-reference" document="m68092"/>Use the tables in <link document="m71403">Appendix B</link> to answer the following questions.</para>
+<list id="fs-idm183058912" list-type="enumerated" number-style="upper-alpha">
+<item>If you would like to accumulate $4,200 over the next 6 years when the interest rate is 8%, how much do you need to deposit in the account?</item>
+<item>If you place $8,700 in a savings account, how much will you have at the end of 12 years with an interest rate of 8%?</item>
+<item>You invest $2,000 per year, at the end of the year, for 20 years at 10% interest. How much will you have at the end of 20 years?</item>
+<item>You win the lottery and can either receive $500,000 as a lump sum or $60,000 per year for 20 years. Assuming you can earn 3% interest, which do you recommend and why?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm214782720">
+<problem id="fs-idm210230736">
+<para id="fs-idm213032704"><link class="lo-reference" document="m68092"/>Chang Consulting, Inc., has a $15,000 overdue debt with Supplier No. 1. The company is low on cash, with only $4,000 in the checking account and does not want to borrow any more cash. Supplier No. 1 agrees to settle the account in one of two ways:</para>
+<para id="fs-idm200715616">Option 1: Pay $4,000 now and $18,750 when some large projects are finished, two years from today.</para>
+<para id="fs-idm199218224">Option 2: Pay $25,000 three years from today, when even larger projects are finished.</para>
+<para id="fs-idm220483424">Assuming that the only factor in the decision is the cost of money (8%), which option should Clary choose?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm224018512" class="thought-provokers">
+<exercise id="fs-idm199507152">
+<problem id="fs-idm177505280">
+<para id="fs-idm196290432"><link class="lo-reference" document="m68092"/>Would you rather have $7,500 today or at the end of 20 years after it has been invested at 15%? Explain your answer.</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm214904352">
+<term>annuity</term>
+<meaning id="fs-idm220431232">series of equal payments made over time</meaning>
+</definition>
+<definition id="fs-idm467778656">
+<term>annuities due</term>
+<meaning id="fs-idm201140224">equal installments paid at the beginning of each payment period within the series</meaning>
+</definition>
+<definition id="fs-idm225084064">
+<term>compounding</term>
+<meaning id="fs-idm219969648">earning interest on previous interest earned, along with the interest earned on the original investment</meaning>
+</definition>
+<definition id="fs-idm196458416">
+<term>discounting</term>
+<meaning id="fs-idm201210000">process that determines the present value of a single payment or stream of payments to be received</meaning>
+</definition>
+<definition id="fs-idm213543824">
+<term>future value (FV)</term>
+<meaning id="fs-idm186405552">value of an investment after a certain period of time</meaning>
+</definition>
+<definition id="fs-idm211737040">
+<term>lump sum</term>
+<meaning id="fs-idm198406080">one-time payment or repayment of funds at a particular point in time</meaning>
+</definition>
+<definition id="fs-idm204103552">
+<term>ordinary annuities</term>
+<meaning id="fs-idm196513760">equal installments paid at the end of each payment period within the series</meaning>
+</definition>
+<definition id="fs-idm222685248">
+<term>present value (PV)</term>
+<meaning id="fs-idm210270208">future value of an investment expressed in today’s value</meaning>
+</definition>
+<definition id="fs-idm206889504">
+<term>time value of money</term>
+<meaning id="fs-idm205393040">assertion that the value of a dollar today is worth more than the value of a dollar in the future</meaning>
+</definition>
+</glossary>
+</document>

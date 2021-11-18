@@ -1,0 +1,191 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Compute the Cost of a Job Using Job Order Costing</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68005</md:content-id>
+  <md:title>Compute the Cost of a Job Using Job Order Costing</md:title>
+  <md:abstract/>
+  <md:uuid>b72a8d24-b913-4103-bc09-4c121987109e</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm379616240">To summarize the <term class="no-emphasis">job order cost system</term>, the cost of each job includes direct materials, direct labor, and manufacturing overhead. While the product is in production, the direct materials and direct labor costs are included in the work in process inventory. The direct materials are requested by the production department, and the direct material cost is directly attached to each individual job, as the materials are released from raw materials inventory. The cost of direct labor is recorded by the employees and assigned to each individual job. When the allocation base is known, usually when the product is completed, the overhead is allocated to the product on the basis of the predetermined overhead rate.</para>
+<note id="fs-idm229061072" class="link-to-learning">
+<para id="fs-idm227445104"><link url="https://openstax.org/l/50construction">The construction industry typically uses job order costing and accounts for its costing</link> in a manner similar to the businesses profiled in this chapter.</para>
+</note>
+<section id="fs-idm366998848">
+<title>Determining the Costs of an Individual Job Using Job Order Costing</title>
+<para id="fs-idm385054768">When a job is completed, the costs of the job—the direct materials, direct labor, and manufacturing overhead—are totaled on the job cost sheet, and the total amount is transferred to finished goods at the same time the product is transferred, either physically or legally, such as in the case of a home built by a contractor. Finally, when the product is sold, the sale is recorded at the sale price, while the cost is transferred from finished goods inventory to the cost of goods sold expense account. <link target-id="OSX_Acct_M04_05_RealFlow"/> shows the flow of costs from raw materials inventory to cost of goods sold.</para>
+<figure id="OSX_Acct_M04_05_RealFlow">
+<media id="fs-idm380203696" alt="Pictures of Raw Materials Inventory (rolls of vinyl), Work in Process (an employee creating a sign), Finished Goods Inventory (stacks of signs), Cost of Goods Sold (an installed sign).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_05_RealFlow.jpg"/>
+</media>
+<caption>Flow of Costs during Production and Ultimate Sale or Transfer of Ownership. (credit “Raw Materials Inventory,” “Work in Process Inventory,” “Finished Goods Inventory”: modifications of “160810-F-UY190-027.JPG,” “160810-F-UY190-073.JPG,” and “160810-F-UY190-105.JPG” by Jessica Weissman, Minot Air Force Base Public Affairs, Public Domain; credit Cost of Goods Sold”: “Rustic Sign” by Grace Byrd/Flickr, CC BY 2.0)</caption>
+</figure>
+<para id="fs-idm371253888">At all points in the process, the work in process should include the cost of direct materials and direct labor. When the job is completed and overhead assigned, the overhead allocation increases the cost of the work in process inventory. The cost of each individual job is maintained on a job cost sheet, and the total of all the work in process job cost sheets equals the work in process inventory and the statement of cost of goods manufactured, as you have learned.</para>
+<para id="fs-idm366202448">A job cost sheet is a subsidiary ledger that identifies the individual costs for each job. <link target-id="OSX_Acct_M04_05_JCSheet"/> shows the <term class="no-emphasis">job cost sheet</term> for Job MAC001.</para>
+<figure id="OSX_Acct_M04_05_JCSheet">
+<media id="fs-idm378092112" alt="A Job Cost Sheet. Headings are JOB COST SHEET, Dinosaur Vinyl, Inc. Identifying information is Job No.: 5416, Customer: Macs &amp; Cheese, Units Ordered: 1, Customer No.: 2501723, Date Started: Dec. 22, 2018, Date Completed: Feb. 22, 2019 Costs are shown in 4 columns: Cost classifications, Units, Cost per Unit, and Amount. Direct Materials Costs are: Vinyl, 1, 300, 300; Black printing ink 2, 50, 100; Red printing ink 1, 60, 60; Gold printing ink 1, 60, 60; Grommets 12, 10, 120; Framing wood 40, 1.50, 60; for a total Direct materials of $700. Direct Labor Costs are: Material Handler 1, 15, 15; Print Technician 1, 15, 15; Production Assistants 2, 18, 36; for a total Direct Labor Cost of 66. Manufacturing Overhead Allocation Base: Direct Labor Cost. Base Units 66, Rate is $1.50 for a total overhead allocation of $165. Total job cost is $931.Total Revenue is $2000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_05_JCSheet.jpg"/>
+</media>
+<caption>Job Cost Sheet for Job MAC001. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm381219456">
+<title>Sample Cost Information for Dinosaur Vinyl</title>
+<para id="fs-idm381813568">Dinosaur Vinyl worked on three jobs during the month: POR143, MAC001, and TRJ441, and a fourth Job SWM505 had been finished and moved to the finished goods inventory account during the previous month.</para>
+<para id="fs-idm384242432">At the beginning of the month, the company had a beginning raw materials inventory balance of $2,500, and during the month, it purchased an additional $10,500, giving it a total of $13,000 in raw materials available for use in production.</para>
+<para id="fs-idm380895120">The following example will examine four different production jobs. Each of the four will be at beginning stages at either the beginning of the current month or the end of the current month.</para>
+<list id="fs-idm379148032" list-type="enumerated" number-style="arabic">
+<item>Job POR 143: This job was the only work in process inventory at the beginning of the current month, and it had $1,000 in direct material costs, and $0 of direct labor costs already allocated to the work in process inventory. During the current month, additional direct materials of $200 and direct labor of $150 were added to POR143. An overhead cost of $375 was applied to POR143 at the predetermined overhead rate of $2.50 per direct labor dollar. It was finished during the month and transferred to the finished goods inventory. The sale was not finalized during the month, so it continues to be part of the finished goods inventory.</item>
+<item>Job MAC 001: This job was started and completed during the month. Since the job began in and was completed in the same month, there was no beginning balance in the work in process inventory. During the month it incurred $700 in direct materials costs, $66 in direct labor, and $165 of overhead applied to the job before it was transferred to the finished goods inventory upon completion. The sale was finalized during the month at a sale price of $2,000, so the costs were transferred from finished goods inventory to cost of goods sold.</item>
+<item>Job TRJ441: This job was started during the current month. Its costs consist of $500 in direct material cost, $150 in direct labor expenses, and $375 in applied overhead. The job remains in the work in process inventory awaiting assembly.</item>
+<item>Job SWM505: At the beginning of the month, this job was completed and already in the finished goods inventory at a cost of $1,531. Since it was completed, it did not incur any additional costs in the current month. It was sold during the month for $3,500, and the costs were transferred from the finished goods inventory to cost of goods sold.</item>
+</list>
+<para id="fs-idm373343552">The cost of raw materials used is calculated as shown:</para>
+<media id="fs-idm383987696" class="scaled-down" alt="Chart showing Raw Materials cost calculation. Beginning Raw Materials Inventory $2,500 plus Purchases of 10,500 equals Material Available for Use of 13,000. Then subtract Ending Raw Materials Inventory of 11,600 to find the Materials Used in Production of $1,400.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_05_RawMatCost_img.jpg"/>
+</media>
+<para id="fs-idm367042768">The individual job cost sheets show the $1,400 worth of materials used in production:</para>
+<media id="fs-idm379210464" class="scaled-down-30" alt="Chart showing Raw Materials cost for each job. POR143 $200, MAC001 700, TJR441 500, for a total of $1,400.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_05_MatProd_img.jpg"/>
+</media>
+<para id="fs-idm385111024">The cost of goods manufactured is accounted for as shown:</para>
+<media id="fs-idm384224352" alt="A chart showing the calculation of Cost of Goods Manufactured for jobs POR143, MAC001, TJR441 and the Total. Respectively: Materials added are $200, $700, $500, and $1400; Labor added is 150, 66, 150, and 366; Overhead applied is 375, 165, 375, and 915; for Total added during the month of $725, $931, $1,025, and $2,681. Calculation is Beginning WIP Inventory of $1,000, $0, $0, and $1,000; Material, Labor, and Overhead added is 725, 931, 1,025, and 2,681; Equaling Manufacturing costs incurred of 1,725, 931, 1,025, and 3,681. Subtract Ending WIP Inventory of 0, 0, 1,025, and 1,025; Equaling Cost of Goods Manufactured of $1,725, $931, $0, and $2,656.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_05_CostGdMfg_img.jpg"/>
+</media>
+<para id="fs-idm383991808">Notice the costs for Job TJR441 are included in the work in process inventory, whereas the costs for POR143 and MAC001 were transferred to the cost of goods manufactured. The costs of the jobs transferred are shown in the cost of goods sold and the finished goods inventory:</para>
+<media id="fs-idm379176304" alt="Chart showing Cost of Goods Sold for SWM505 POR143, MAC001, TJR441, and the Total. Respectively the dollar figures are: Beginning Finished Goods Inventory 1,531, 0, 0, 0, 1,531; plus Cost of Goods Manufactured 0, 1,725, 931, 0, 2,656; equaling Goods Available for Sale 1,531, 1,725, 931, 0, 4,187. Then subtract Ending Finished Goods Inventory of 0, 1,725, 0, 0, and 1,725 to get Cost of Goods Sold of 1,531, 0, 931, 0, and 2,462.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_05_COGS_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm382625808">
+<title>Mechanics of Job Order Costing for Dinosaur Vinyl</title>
+<para id="fs-idm373361264">The amounts in raw materials, work in process, and finished goods inventories compose the total cost for each account, whereas the job cost sheets contain the costs for each individual job. A summary of the jobs for Dinosaur Vinyl is given in <link target-id="OSX_Acct_M04_05_DVJobs"/>.</para>
+<figure id="OSX_Acct_M04_05_DVJobs">
+<media id="fs-idm380223200" alt="Chart showing a summary of the Jobs: SWM505, POR143, MAC001, TJR441, and Total. Beginning Balance $1,531, 1,000, 0, 0, 2,531 (which is the Beginning WIP for the company) plus Direct Materials 0, 200, 700, 500, and 1,400 plus Direct Labor 0, 150, 66, 150, 366 plus Overhead applied 0, 375, 165, 375, and 915 equals total cost of 1,531, 1,725, 931, 1,025, and 5,212 (which is Total for WIP, FG, and CGS) Status is Sold, Finished, Sold, and Unfinished, Final account location is Cost of Goods Sold, Finished Goods Inventory, cost of Goods Sold, and WIP Inventory.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_05_DVJobs.jpg"/>
+</media>
+<caption>Summary of Dinosaur Vinyl’s Jobs during the Year. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm378531216" class="think-through">
+<title>Allocating Costs</title>
+<para id="fs-idm376178672">A manufacturing company has incurred these costs:</para>
+<media id="fs-idm380929088" alt="Figure showing costs: Purchase raw materials inventory $15,000, Issue raw materials inventory to Job A 3,000, Factory wage expense incurred 23,000, Factory wage allocated to Job A 2,000, Factory wage allocated to overhead 500, Manufacturing overhead incurred 7,500, Manufacturing overhead allocated to Job A 1,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_05_TIT01_img.png"/>
+</media>
+<para id="fs-idm376155632">What is the cost allocated to Job A? For any costs not used, explain why they are not used.</para>
+</note>
+</section>
+<section id="fs-idm377773424" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm384221120" list-type="bulleted" bullet-style="bullet">
+<item>Costs from the materials requisition sheet and time tickets are recorded on the job cost sheet.</item>
+<item>Overhead is allocated from the manufacturing overhead account to the individual jobs and recorded on the job cost sheet.</item>
+<item>Each job has its own job cost sheet, showing the materials, labor, and overhead for each job.</item>
+</list>
+</section>
+<section id="fs-idm383471552" class="questions">
+<exercise id="fs-idm383880128">
+<problem id="fs-idm380935824">
+<para id="fs-idm380769440"><link class="lo-reference" document="m68005"/>Why are the overhead costs first accumulated in the manufacturing overhead account instead of in the work in process inventory account?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm376645600" class="exercise-set-a">
+<exercise id="fs-idm384725232">
+<problem id="fs-idm377696528">
+<para id="fs-idm374875072"><link class="lo-reference" document="m68005"/>K company production was working on Job 1 and Job 2 during the month. Of the $780 in direct materials, $375 in materials was requested for Job 1. Direct labor cost, including payroll taxes, are $23 per hour, and employees worked 18 hours on Job 1 and 29 hours on Job 2. Overhead is applied at the rate of $20 per direct labor hours. Prepare job order cost sheets for each job.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm374885104" class="exercise-set-b">
+<exercise id="fs-idm372366240">
+<problem id="fs-idm378061968">
+<para id="fs-idm381284896"><link class="lo-reference" document="m68005"/>Inez has the following information relating to Job AA5. Direct material cost was $200,000, direct labor was $36,550, and overhead applied on the basis of direct labor hours was $73,100. What was the predetermined overhead rate using the labor rate of $17 per hour?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm384933184" class="problem-set-a">
+<exercise id="fs-idm381340160">
+<problem id="fs-idm366972256">
+<para id="fs-idm379610272"><link class="lo-reference" document="m68005"/>Job cost sheets show the following information:</para>
+<media id="fs-idm383931216" alt="Six column chart with the headings: Job, January, February, March, Completed, Sold. First line: AA2 $2,500, $1,200, blank, February, Not Sold. Second line: AA4 4,838, blank, blank, January, February. Third line: AA5 blank 3,250, blank, February, March. Fourth line: AA3 blank, 3,409, 2,319, April, Not Sold. Fifth Line Total 7,338, 7,859, 2,319, blank, blank.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_05_PA01_img.jpg"/>
+</media>
+<para id="fs-idm376646464">What are the balances in the work in process inventory, finished goods inventory, and cost of goods sold for January, February, and March?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm384779488">
+<problem id="fs-idm373953120">
+<para id="fs-idm381067968"><link class="lo-reference" document="m68005"/>Complete the information in the cost computations shown here:</para>
+<media id="fs-idm380906240" alt="Three cost computation charts .Raw Materials chart: Beginning Raw Materials Inventory $342, Minus Purchases 1533 equals Materials available for use ? then subtract Ending Raw Materials Inventory of 321 to get Materials Used in Production ?. Work In Process Inventory chart: Beginning WIP Inventory $932 plus Materials used in production ? plus Direct Labor 1535 plus Overhead Applied ?, equals Manufacturing costs Incurred 22,441. Then subtract Ending WIP Inventory 935 to get Cost of Goods Manufactured ?. Finished Goods Inventory chart: Beginning Finished Goods Inventory of ? plus Cost of Goods Manufactured of ? equals Goods Available for Sale of 25,002. Then subtract Ending Finished Goods Inventory of ? to get Cost of Goods Sold of 21,788.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_05_PA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm380754720">
+<problem id="fs-idm380372464">
+<para id="fs-idm376571760"><link class="lo-reference" document="m68005"/>During the year, a company purchased raw materials of $77,321, and incurred direct labor costs of $125,900. Overhead is applied at the rate of 75% of the direct labor cost. These are the inventory balances:</para>
+<media id="fs-idm370816656" class="scaled-down" alt="Chart showing Beginning and Ending inventory balances. Raw Materials Inventory: 17,433 and 16,428, respectively. Work In Process Inventory: 241,439 and 234,423, respectively. Finished Goods Inventory: 312,842 and 342,384, respectively.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_05_PA03_img.jpg"/>
+</media>
+<para id="fs-idm385125312">Compute the cost of materials used in production, the cost of goods manufactured, and the cost of goods sold.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm384751424">
+<problem id="fs-idm378198784">
+<para id="fs-idm384914352"><link class="lo-reference" document="m68005"/>Freeman Furnishings has summarized its data as shown:</para>
+<media id="fs-idm380367552" class="scaled-down" alt="Data chart showing; Depreciation of factory building $100,000 Factory real estate taxes 15,000, Factory utility expenses 85,000, Indirect materials 32,000, Indirect labor 25,000, Direct labor cost 85,000, Direct labor hours incurred 23,500, Estimated direct labor hours 24,000, Raw materials purchased 350,000, Raw materials beginning inventory 30,000, Raw materials ending inventory 28,000, Work in Process beginning inventory 51,000, Work in process ending inventory 67,000, Estimated overhead 270,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_05_PA04_img.jpg"/>
+</media>
+<para id="fs-idm364199024">Compute the cost of goods manufactured, assuming that the overhead is allocated based on direct labor hours.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm385378336" class="problem-set-b">
+<exercise id="fs-idm380901968">
+<problem id="fs-idm367607184">
+<para id="fs-idm366778480"><link class="lo-reference" document="m68005"/>Summary information from a company’s job cost sheets shows the following information:</para>
+<media id="fs-idm384188080" alt="Chart showing information for 4 jobs: BB3 $3,500 in April, $1,500 in May, completed in May, not sold. BB4 9,231 in April, completed in April, sold in May. BB5 2,540 in May, completed in May, sold in June. BB6 3230 in May, 1434 in June, completed in July, not sold">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_05_PB01_img.jpg"/>
+</media>
+<para id="fs-idm380193280">What are the balances in the work in process inventory, finished goods inventory, and cost of goods sold for April, May, and June?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm384937888">
+<problem id="fs-idm373901712">
+<para id="fs-idm384603968"><link class="lo-reference" document="m68005"/>Complete the information in the cost computations shown here:</para>
+<media id="fs-idm378543712" alt="Three cost computation charts. Raw Materials chart: Beginning Raw Materials Inventory $74,323, Minus Purchases 77,321 equals Materials available for use ? then subtract Ending Raw Materials Inventory of ? to get Materials Used in Production 78,413. Work In Process Inventory chart: Beginning WIP Inventory $253,210 plus Materials used in production ? plus Direct Labor 125,900 plus Overhead Applied 94,425 equals Manufacturing costs Incurred ? . Then subtract Ending WIP Inventory 242,932 to get Cost of Goods Manufactured ?. Finished Goods Inventory chart: Beginning Finished Goods Inventory of 333,149 plus Cost of Goods Manufactured of 309,016 equals Goods Available for Sale of ? . Then subtract Ending Finished Goods Inventory of 354,235 to get Cost of Goods Sold of 287,930.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_05_PB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm378118992">
+<problem id="fs-idm385010608">
+<para id="fs-idm382184464"><link class="lo-reference" document="m68005"/>During the year, a company purchased raw materials of $77,321 and incurred direct labor costs of $125,900. Overhead is applied at the rate of 75% of the direct labor cost. These are the inventory balances:</para>
+<media id="fs-idm379542304" class="scaled-down" alt="Chart showing Beginning and Ending inventory balances: Raw Materials Inventory: 15,394 and 17,432, respectively. Work In Process Inventory: 57,304 and 53,721, respectively. Finished Goods Inventory: 120,432 and 132,432, respectively.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_05_PB03_img.jpg"/>
+</media>
+<para id="fs-idm374896512">Compute the cost of materials used in production, the cost of goods manufactured, and the cost of goods sold.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm381730080">
+<problem id="fs-idm379412896">
+<para id="fs-idm379412640"><link class="lo-reference" document="m68005"/>Freeman Furnishings has summarized its data as shown. Direct labor hours will be used as the activity base to allocate overhead:</para>
+<media id="fs-idm382084832" class="scaled-down" alt="Data chart showing: Raw material purchased 320,000, Raw material beginning inventory 15,000, Raw material ending inventory 14,000, Work in Process beginning inventory 35,000, Work in process ending inventory 37,000, Estimated overhead 300,000. Direct labor hours incurred 24,000, Estimated direct labor hours 25,000, Depreciation of factory building $50,000 Factory real estate taxes 7,382 Factory utility expenses 45,000, Indirect materials 20,000, Indirect labor 1,000, Direct labor cost 100,000. Direct labor hours incurred, 24,000. Estimated direct labor hours, 25,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_05_PB04_img.jpg"/>
+</media>
+<para id="fs-idm377252400">Compute the cost of goods manufactured.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm373804992" class="thought-provokers">
+<exercise id="fs-idm373804496">
+<problem id="fs-idm373804240">
+<para id="fs-idm373803984"><link class="lo-reference" document="m68005"/>What are the similarities in calculating the cost of materials used in production, the cost of goods manufactured, and the cost of goods sold?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+</document>

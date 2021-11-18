@@ -1,0 +1,314 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Explain How and Why a Standard Cost Is Developed</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68070</md:content-id>
+  <md:title>Explain How and Why a Standard Cost Is Developed</md:title>
+  <md:abstract/>
+  <md:uuid>b6f1004a-ab44-4c40-bddb-1c583490b990</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm189878736">A syllabus is one way an instructor can communicate expectations to students. Students can use the syllabus to plan their studying to maximize their grade and to coordinate the amount and timing of studying for each course. Knowing what is expected, and when it is expected, allows for better plans and performance. When your performance does not match your expectations, a <term>variance</term> arises—a difference between the standard and the actual performance. You then need to determine why the difference occurred. You want to know why you did not receive the grade you expected so you can make adjustments for the next assignment to earn a better grade.</para>
+<para id="fs-idm451410960">Companies operate in a similar manner. They have an expectation, or <term>standard</term>, for production. For example, if a company is producing tables, it might establish standards for such components as the amount of board feet of lumber expected to be used in producing each table or the number of hours of direct labor hours it expected to use in the table’s production. These standards can then be used in establishing standard costs that can be used in creating an assortment of different types of budgets.</para>
+<para id="fs-idm467842368">When a variance occurs in its standards, the company investigates to determine the causes, so they can perform better in the future. For example, <emphasis class="colored-text">General Motors</emphasis> has standards for each item on a vehicle. It can determine the cost and selling price of a power antenna by knowing the standard material cost for the antenna and the standard labor cost of adding the antenna to the vehicle. <emphasis class="colored-text">General Motors</emphasis> also can add up all of the standard times for all vehicles it makes to determine if too much or too little labor was used in production.</para>
+<note id="fs-idm203521968" class="link-to-learning">
+<para id="fs-idm174881584">Developing standards is a complicated and costly process. Review this <link url="https://openstax.org/l/50StandardCost">article on how to develop a standard cost system</link> for more details.</para>
+</note>
+<section id="fs-idm174998016">
+<title>Fundamentals of Standard Costs</title>
+<para id="fs-idm762347088">It is important to establish standards for cost at the beginning of a period to prepare the budget; manage material, labor, and overhead costs; and create a reasonable sales price for a good. A <term>standard cost</term> is an expected cost that a company usually establishes at the beginning of a fiscal year for prices paid and amounts used. The standard cost is an expected amount paid for materials costs or labor rates. The standard quantity is the expected usage amount of materials or labor. A standard cost may be determined by past history or industry norms. The company can then compare the standard costs against its actual results to measure its efficiency. Sometimes when comparing standard costs against actual results, there is a difference.</para>
+<para id="fs-idm198909184">This difference can be attributed to many reasons. For example, the coffee company mentioned in the opening vignette may expect to pay $0.50 per ounce for coffee grounds. After the company purchased the coffee grounds, it discovered it paid $0.60 per ounce. This variance would need to be accounted for, and possible operational changes would occur as a result. Cost accounting systems become more useful to management when they include budgeted amounts to serve as a point of comparison with actual results.</para>
+<para id="fs-idm214680832">Many departments help determine standard cost. Product design, in conjunction with production, purchasing, and sales, determines what the product will look like and what materials will be used. Production works with purchasing to determine what material will work best in production and will be the most cost efficient. Sales will also help decide the material in terms of customer demand. Production will work with personnel to determine labor costs for the product, which is based on how long it will take to make the product, which departments will be involved, and what type and number of employees it will take.</para>
+<para id="fs-idm196160816">Consider how many different materials can go into a product. For example, there are approximately 14,000 parts that comprise the average automobile. The manufacturer will set a standard price and a quantity used per automobile for each part, and it will determine the labor required to install the part. At <emphasis class="colored-text">Fiat Chrysler Automobiles</emphasis>’ Belvidere Assembly Plant, for example, there are approximately 5,000 employees assembling automobiles.<footnote id="fs-idm442609680">“Belvidere Assembly Plant and Belvidere Satellite Stamping Plant.” Fiat Chrysler Automobiles. June 2018. http://media.fcanorthamerica.com/newsrelease.do?id=323&amp;mid=1</footnote> In addition to having standard costs associated with each part, each employee has standards for the job he or she performs.</para>
+<para id="fs-idm196386416">Standard costs are typically established for reasonably attainable levels of efficiency (production). They serve as a target and are useful in motivating standard performance. An <term>ideal standard</term> level is set assuming that everything is perfect, machines do not break down, employees show up on time, there are no defects, there is no scrap, and materials are perfect. This level of standard is not the best motivator, because employees may see this level as unattainable. For example, consider whether you would take a course if the letter grades were as follows: an A is 99–100%, a B is 98–99%, a C is 97–98%, a D is 96–97%, and below 96% is an F. These standards are unreasonable and unrealistic, and they would not motivate students to do well in the course.</para>
+<para id="fs-idm432508272">At the other end of the spectrum, if the standards are too easy, there is little motivation to do better, and products may not be properly built, may be built with inferior materials, or both. For example, consider how you would handle the following grading scale for your course: an A is 50–100%, a B is 35–50%, a C is 10–35%, a D is 2–10%, and below 2% is an F. Would you learn anything? Would you try very hard? The same considerations come into play for employees with standards that are too easy.</para>
+<para id="fs-idm214386960">Instead of these two extremes, a company would set an <term>attainable standard</term>, which is one that employees can reach with reasonable effort. The standards are not so high that employees will not try to reach them and not so low that they do not give any incentive for employees to achieve profitability.</para>
+<para id="fs-idm437132704">In order for a company to establish its attainable standard cost for each product, it must consider the standard costs for materials, labor, and overhead. The material standard cost consists of a standard price per unit of material and a standard amount of material per unit. Returning to the opening vignette, let us say the coffee shop is trying to establish the standard materials cost for one cup of regular coffee. To keep the example simple, we are not incorporating the cost of water or the ceramic cup cost (since they are reused). Two components for the cup of coffee will need to be considered:</para>
+<list id="fs-idm457483968" list-type="enumerated" number-style="arabic">
+<item>Price per ounce of coffee grounds</item>
+<item>Amount of coffee grounds (materials) used per cup of coffee</item>
+</list>
+<para id="fs-idm200300992">To determine the standards for labor, the coffee shop would need to consider two additional components:</para>
+<list id="fs-idm757975728" list-type="enumerated" number-style="arabic">
+<item>Labor rate per minute</item>
+<item>Amount of time to make one cup of regular coffee</item>
+</list>
+<para id="fs-idm431776000">To determine the standard for overhead, the coffee shop would first need to consider the fact that it has two types of overhead as shown in <link target-id="OSX_Acct_M08_01_CoffeeCost"/>. Greater detail about the calculation of the variable and fixed overhead is provided in <link document="m71412">Compute and Evaluate Overhead Variances</link>.</para>
+<list id="fs-idm464320992" list-type="enumerated" number-style="arabic">
+<item>Fixed overhead (does not change in total with production)</item>
+<item>Variable overhead (does change in total with production)</item>
+</list>
+<para id="fs-idm457420704">All of this information is entered on a standard cost card.</para>
+<figure id="OSX_Acct_M08_01_CoffeeCost">
+<media id="fs-idm164296896" alt="Standard Cost Card. Product: 1 Cup of Coffee. Manufacturing Cost Information, Standards. Quantity x Standard Cost per Unit equals Cost Summary. Direct Materials (Coffee grounds), .5 ounces, $0.50 per ounce, $0.25. Direct Labor Barista, 1 minute, $0.20 per minute, $0.20. Manufacturing Overhead Variable, 1 minute, $0.50 per direct labor minute, $0.05. Manufacturing Overhead Fixed, 1 minute, $0.10 per direct labr minute, $0.10. Total, -, -, $0.60">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_01_CoffeeCost.jpg"/>
+</media>
+<caption>Standard Cost Card for a Coffee Shop. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm221077024">Once a company determines a standard cost, they can then evaluate any variances. A variance is the difference between a standard cost and actual performance. There are favorable and unfavorable variances. A <term>favorable variance</term> involves spending less, or using less, than the anticipated or estimated standard. An <term>unfavorable variance</term> involves spending more, or using more, than the anticipated or estimated standard. Before determining whether the variance is favorable or unfavorable, it is often helpful for the company to determine why the variance exists.</para>
+<note id="fs-idm208514976" class="your-turn"><title>Developing a Standard Cost Card</title><para id="fs-idm480279312">Use the information provided to create a standard cost card for production of one deluxe bicycle from Bicycles Unlimited.</para>
+<para id="fs-idm210368880">To make one bicycle it takes four pounds of material. The material can usually be purchased for $5.25 per pound. The labor necessary to build a bicycle consists of two types. The first type of labor is assembly, which takes 2.75 hours. These workers are paid $11.00 per hour. The second type of labor is finishing, which takes 4 hours. These workers are paid $15.00 per hour. Overhead is applied using labor hours. The variable overhead rate is $5.00 per labor hour. The fixed overhead rate is $3.00 per hour.</para>
+<para id="fs-idm200832128"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm205294128" alt="Manufacturing Cost Information: Standard Quantity times Standard Cost per Unit equals Cost Summary. Direct Materials Grade A material, 4 pounds, $5.25 per pound, $21.00. Direct Labor Assembly, 2.75 hours, $11.00 per hour, $30.25. Direct Labor Finish, 4 hours, $15.00 per hour, $60.00. Manufacturing Overhead Variable, 6.75 hours, $5.00 per direct labor hour, $33.75. Manufacturing Overhead Fixed, 6.75 hours, $3.00 per direct labor hour, $20.25. Standard Cost, -, -, $165.25.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_02_YTSol01_img.jpg"/>
+</media>
+</note><note id="fs-idm436441856" class="ethical-considerations">
+<title>Ethical Variance Analysis</title>
+<para id="fs-idm213575344">Variance analysis allows managers to see whether costs are different than planned. Once a difference between expected and actual costs is identified, variance analysis should delve into why the costs differ and what the magnitude of the difference means. To determine why a cost differs, it should be established if the additional cost provides a benefit or detriment to an organization’s stakeholders, the people or entities that are affected by the organization’s actions or inactions. Not all stakeholders are equal in the analysis, but an organization should recognize each stakeholder’s interest in the organization’s business and operational decisions, while ranking the importance of the stakeholder in relation to any decision made.</para>
+<para id="fs-idm199927024">Ranking should look to how stakeholders are affected by costs and any decisions related to cost variance, or why the variance occurred. For example, if a cost variance is due to an additional cost to make a product eco-friendly, then an organization may determine that incurring the cost is a benefit to its stakeholders. However, if the additional cost creates an unfavorable situation for a stakeholder, the process incurring the cost should be investigated. Remember that the owners of a company, including shareholders, are also stakeholders. To determine the best course of action for an organization, cost analysis should help inform stakeholder analysis—the process of systematically gathering and analyzing all of the information related to a business decision.</para>
+</note>
+<para id="fs-idm431513536">Different factors may produce a variance. The company could have paid too much or too little for production. It may have purchased the wrong grade of material or hired employees with more or less experience than required. Sometimes the variances are interrelated. For example, purchasing substandard materials may lead to using more time to make the product and may produce more scrap. The substandard material may have been more difficult to work with or had more defects than the proper grade material. In such a situation, a favorable material price variance could cause an unfavorable labor efficiency variance and an unfavorable material quantity variance. Employees who do not have the expected experience level may save money in the wage rate but may require more hours to be worked and more material to be used because of their inexperience.</para>
+<para id="fs-idm177989376">Another situation in which a variance may occur is when the cost of labor and/or material changes after the standard was established. Toward the end of the fiscal year, standards often become less reliable because time has passed and the environment has changed. It is not reasonable to expect the price of all materials and labor to remain constant for 12 months. For example, the grade of material used to establish the standard may no longer be available.</para>
+</section>
+<section id="fs-idm187593552">
+<title>Manufacturing Cost Variances</title>
+<para id="fs-idm177396912">As you’ve learned, the standard price and standard quantity are anticipated amounts. Any change from these budgeted amounts will produce a variance. There can be variances for materials, labor, and overhead. Direct materials may have a variance in price of materials or quantity of materials used. Direct labor may have a variance in the rate paid to workers or the amount of time used to make a product. Overhead may produce a variance in expected fixed or variable costs, leading to possible differences in production capacity and management’s ability to control overhead. More specifics on the formulas, processes, and interpretations of the direct materials, direct labor, and overhead variances are discussed in each of this chapter’s following sections.</para>
+<note id="fs-idm187763152" class="concepts-practice">
+<title>Qualcomm<footnote id="fs-idm203699952">Munsif Vengattil. “Qualcomm Begins Layoffs as Part of Cost Cuts.” <emphasis effect="italics">Reuters</emphasis>. April 18, 2018. https://www.reuters.com/article/us-qualcomm-layoffs/qualcomm-begins-layoffs-as-part-of-cost-cuts-idUSKBN1HP33L</footnote></title>
+<para id="fs-idm462133136"><emphasis class="colored-text">Qualcomm Inc.</emphasis> is a large producer of telecommunications equipment focusing mainly on wireless products and services. As with any company, Qualcomm sets labor standards and must address any variances in labor costs to stay on budget, and control overall manufacturing costs.</para>
+<para id="fs-idm458403392">In 2018, Qualcomm announced a reduction to its labor force, affecting many of its full-time and temporary workers. The reduction in labor was necessary to suppress rising expenses that could not be controlled through overhead or materials cost-cutting measures. The variances between standard labor rates and actual labor rates, and diminishing profit margins will have contributed to this decision. It is important for Qualcomm management to keep labor variances minimal in the future so that large workforce reductions are not required to control costs.</para>
+</note>
+<note id="fs-idm200984304" class="think-through">
+<title>Chocolate Cow Ice Cream Company</title>
+<para id="fs-idm218846832">The Chocolate Cow Ice Cream Company has grown substantially recently, and management now feels the need to develop standards and compute variances. A consulting firm was hired to develop the standards and the format for the variance computation. One standard in particular that the consulting firm developed seemed too excessive to plant management. The consulting firm’s standard was production of 100 gallons of ice cream every 45 minutes. The plant’s middle level of management thought the standard should be 100 gallons every 55 minutes, while the top management of the company thought that the consulting firm’s standard would provide more motivation to the employees.</para>
+<list id="fs-idm215081872" list-type="enumerated" number-style="arabic">
+<item>Why is the company establishing a standard for production?</item>
+<item>What are some factors the company may need to consider before selecting one of the proposed standards?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm175186352" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm194525120" list-type="bulleted" bullet-style="bullet">
+<item>Standards are budgeted unit amounts for price paid and amount used.</item>
+<item>Variances are the difference between actual and standard amounts.</item>
+<item>A favorable variance is when the actual price or quantity is less than the standard amount.</item>
+<item>An unfavorable variance is when the actual price or amount is greater than the standard amount.</item>
+</list>
+</section>
+<section id="fs-idm213546576" class="multiple-choice">
+<exercise id="fs-idm162308912">
+<problem id="fs-idm490925776">
+<para id="fs-idm216238528"><link class="lo-reference" document="m68070"/>Why does a company use a standard costing system?</para>
+<list id="fs-idm200909472" list-type="enumerated" number-style="upper-alpha">
+<item>to identify variances from actual cost that assist them in maintaining profits</item>
+<item>to identify nonperformers in the workplace</item>
+<item>to identify what vendors are unreliable</item>
+<item>to identify defective materials</item>
+</list>
+</problem>
+<solution id="fs-idm200875984">
+<para id="fs-idm161849952">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm220309872">
+<problem id="fs-idm192049712">
+<para id="fs-idm481475936"><link class="lo-reference" document="m68070"/>This standard is set at a level that may be reached with reasonable effort.</para>
+<list id="fs-idm444370800" list-type="enumerated" number-style="upper-alpha">
+<item>ideal standard</item>
+<item>attainable standard</item>
+<item>unattainable standard</item>
+<item>variance from standard</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm460465856">
+<problem id="fs-idm159638736">
+<para id="fs-idm189669072"><link class="lo-reference" document="m68070"/>This standard is set at a level that could be achieved if everything ran perfectly.</para>
+<list id="fs-idm174916272" list-type="enumerated" number-style="upper-alpha">
+<item>ideal standard</item>
+<item>attainable standard</item>
+<item>unattainable standard</item>
+<item>variance from standard</item>
+</list>
+</problem>
+<solution id="fs-idm211755760">
+<para id="fs-idm199793600">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm222685248">
+<problem id="fs-idm215013584">
+<para id="fs-idm199240880"><link class="lo-reference" document="m68070"/>This variance is the difference involving spending more or using more than the standard amount.</para>
+<list id="fs-idm194550896" list-type="enumerated" number-style="upper-alpha">
+<item>favorable variance</item>
+<item>unfavorable variance</item>
+<item>no variance</item>
+<item>variance</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm175122960">
+<problem id="fs-idm224109424">
+<para id="fs-idm444275904"><link class="lo-reference" document="m68070"/>This variance is the difference involving spending less, or using less than the standard amount.</para>
+<list id="fs-idm198124320" list-type="enumerated" number-style="upper-alpha">
+<item>favorable variance</item>
+<item>unfavorable variance</item>
+<item>no variance</item>
+<item>variance</item>
+</list>
+</problem>
+<solution id="fs-idm210741936">
+<para id="fs-idm194896544">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm199563056" class="questions">
+<exercise id="fs-idm213022944">
+<problem id="fs-idm207448352">
+<para id="fs-idm200855760"><link class="lo-reference" document="m68070"/>What two components are needed to determine a standard for materials?</para>
+</problem>
+<solution id="fs-idm196206288">
+<para id="fs-idm214519488">The expected price of materials per unit and the expected quantity usage are needed to help determine a standard.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm207294672">
+<problem id="fs-idm195407744">
+<para id="fs-idm216469680"><link class="lo-reference" document="m68070"/>What two components are needed to determine a standard for labor?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm220263328">
+<problem id="fs-idm203662608">
+<para id="fs-idm222769088"><link class="lo-reference" document="m68070"/>What elements require consideration before establishing an overhead standard?</para>
+</problem>
+<solution id="fs-idm214199904">
+<para id="fs-idm206859936">Fixed overhead and variable overhead should be considered.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm217509952">
+<problem id="fs-idm203750480">
+<para id="fs-idm203776736"><link class="lo-reference" document="m68070"/>What is a variance?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm214598256" class="exercise-set-a">
+<exercise id="fs-idm743928704">
+<problem id="fs-idm163028736">
+<para id="fs-idm206867616"><link class="lo-reference" document="m68070"/>Moisha is developing material standards for her company. The operations manager wants grade A widgets because they are the easiest to work with and are the quality the customers want. Grade B will not work because customers do not want the lower grade, and it takes more time to assemble the product than with grade A materials. Moisha calls several suppliers to get prices for the widget. All are within $0.05 of each other. Since they will use millions of widgets, she decides that the $0.05 difference is important. The supplier who has the lowest price is known for delivering late and low-quality materials. Moisha decides to use the supplier who is $0.02 more but delivers on time and at the right quality. This supplier charges $0.48 per widget. Each unit of product requires four widgets. What is the standard cost per unit for widgets?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm199743984">
+<problem id="fs-idm214707136">
+<para id="fs-idm196199248"><link class="lo-reference" document="m68070"/>Rene is working with the operations manager to determine what the standard labor cost is for a spice chest. He has watched the process from start to finish and taken detailed notes on what each employee does. The first employee selects and mills the wood, so it is smooth on all four sides. This takes the employee 1 hour for each chest. The next employee takes the wood and cuts it to the proper size. This takes 30 minutes. The next employee assembles and sands the chest. Assembly takes 2 hours. The chest then goes to the finishing department. It takes 1.5 hours to finish the chest. All employees are cross-trained so they are all paid the same amount per hour, $17.50.</para>
+<list id="fs-idm199506096" list-type="enumerated" number-style="upper-alpha">
+<item>What are the standard hours per chest?</item>
+<item>What is the standard cost per chest for labor?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm217681840">
+<problem id="fs-idm216043824">
+<para id="fs-idm179012688"><link class="lo-reference" document="m68070"/>Fiona cleans offices. She is allowed 5 seconds per square foot. She cleans building A, which is 3,000 square feet, and building B, which is 2,460 square feet. Will she finish these two buildings in an 8-hour shift? Will she have time for a break?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm160014464">
+<problem id="fs-idm197101040">
+<para id="fs-idm198929024"><link class="lo-reference" document="m68070"/>Use the information provided to create a standard cost card for production of one glove box switch. To make one switch it takes 16 feet of plastic-coated copper wire and 0.5 pounds of plastic material. The plastic material can usually be purchased for $20.00 per pound, and the wire costs $2.50 per foot. The labor necessary to assemble a switch consists of two types. The first type of labor is assembly, which takes 3.5 hours. These workers are paid $27.00 per hour. The second type of labor is finishing, which takes 2 hours. These workers are paid $29.00 per hour. Overhead is applied using labor hours. The variable overhead rate is $14.90 per labor hour. The fixed overhead rate is $15.60 per hour.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm212059232" class="exercise-set-b">
+<exercise id="fs-idm175164544">
+<problem id="fs-idm491065760">
+<para id="fs-idm206846064"><link class="lo-reference" document="m68070"/>Bristol is developing material standards for her company. The operations manager wants grade A plastic tops because they are the easiest to work with and are the quality the customers want. Grade B will not work because customers do not want the lower grade, and it takes more time to assemble the product than with grade A materials. Bristol calls several suppliers to get prices for the plastic top. All are within $0.10 of each other. Since the company will use millions of the plastic tops, she decides that the $0.10 difference is important. The supplier who has the lowest price is known for delivering late and low-quality materials. Bristol decides to use the supplier who is $0.04 more but delivers on time and at the right quality. This supplier charges $0.52 per plastic top. Each unit of product requires six plastic tops. What is the standard cost per unit for plastic tops?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm196550400">
+<problem id="fs-idm210290560">
+<para id="fs-idm210449264"><link class="lo-reference" document="m68070"/>Salley is developing material and labor standards for her company. She finds that it costs $0.55 per pound of material per widget. Each widget requires 6 pounds of material per widget. Salley is also working with the operations manager to determine what the standard labor cost is for a widget. Upon observation, Salley notes that it takes 3 hours in the assembly department and 1 hour in the finishing department to complete one widget. All employees are paid $10.50 per hour.</para>
+<list id="fs-idm207234880" list-type="enumerated" number-style="upper-alpha">
+<item>What is the standard materials cost per unit for a widget?</item>
+<item>What is the standard labor cost per unit for a widget?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm198316720">
+<problem id="fs-idm176767872">
+<para id="fs-idm225039024"><link class="lo-reference" document="m68070"/>Use the following information to create a standard cost card for production of one photography drone from Drone Experts.</para>
+<para id="fs-idm219935440">To make one drone it takes 2 pounds of plastic material. The material can usually be purchased for $25.00 per pound. The labor necessary to build a drone consists of two types. The first type of labor is assembly, which takes 10.5 hours. These workers are paid $21.00 per hour. The second type of labor is finishing, which takes 7 hours. These workers are paid $25.00 per hour. Overhead is applied using labor hours. The variable overhead rate is $14.00 per labor hour. The fixed overhead rate is $16.00 per hour.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm196536768">
+<problem id="fs-idm205218496">
+<para id="fs-idm758275968"><link class="lo-reference" document="m68070"/>Mateo makes gizmos. He would like to set up a system to help him manage his business. The gizmos are made in a standard process. There is a certain amount of material and labor that goes into each gizmo. The only difference between the gizmo is the color of the material. What information should Mateo collect, how should he format it, and what kind of reports should he prepare to help him run his business?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm214195744" class="problem-set-a">
+<exercise id="fs-idm223995936">
+<problem id="fs-idm204047360">
+<para id="fs-idm161690464"><link class="lo-reference" document="m68070"/>The comptroller wants to set the standards according to a study done by a consulting firm for a company. The consulting firm used the following assumptions: The machines never break down. Workers never take a break. The material used is perfect. The material arrives on time. No one takes a day off. Workers are well trained. Workers do not make defective units. What kinds of standards are these? Will the workers be motivated to achieve these standards?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm216289408">
+<problem id="fs-idm222487840">
+<para id="fs-idm183058912"><link class="lo-reference" document="m68070"/>Stan is opening a coffee shop next to Big State University. He knows that controlling his costs will be important to the success of the shop. He will not be able to work all the hours the shop is open, so the employees will need some guidelines to perform their jobs correctly. After talking to an accounting professor, he decides he needs a standard cost system for his shop. Describe the process Stan should follow in setting his standards for materials and labor.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm199412896">
+<problem id="fs-idm200503824">
+<para id="fs-idm215087776"><link class="lo-reference" document="m68070"/>What makes a variance favorable? Give an example of a favorable variance involving materials. What makes a variance unfavorable? Give an example of an unfavorable variance involving labor.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm196363280" class="problem-set-b">
+<exercise id="fs-idm483211456">
+<problem id="fs-idm218857968">
+<para id="fs-idm493986960"><link class="lo-reference" document="m68070"/>Sameerah is trying to determine the standard hours to make one unit. She has studied the manufacturing process and is trying to determine what portion of the employees’ time should be included in the standard time to make the product. She knows that the actual time the worker is assembling, cutting, and painting should be part of the standard hours. She is questioning whether setup, down time, rest periods, and cleanup should be part of the standard hours. Explain why you would or would not include these times.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm222331216">
+<problem id="fs-idm224391472">
+<para id="fs-idm214681904"><link class="lo-reference" document="m68070"/>Carl cleans offices. He has the following buildings to clean every day: building A, which is 12,500 square feet; building B, which is 24,500 square feet; building C, which is 10,500 square feet; and building D, which is 6,700 square feet. He is allowed 5 seconds per square foot. Each employee is allowed one 30-minute lunch per shift. How many employees will he need to hire?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm215502816">
+<problem id="fs-idm203207200">
+<para id="fs-idm221470128"><link class="lo-reference" document="m68070"/>Freidrich is working with the operations manager to determine what the standard material cost is for a spice chest. He has watched the process from start to finish and taken detailed notes on what material is used. The easiest material to measure is the wood. Each chest uses 5 board feet and produces 1.5 feet of scrap. He is not sure what to do with the scrap that is produced; the company cannot buy the boards in any other dimensions. What amount of materials should be included in the standard for material costs?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm429555648" class="thought-provokers">
+<exercise id="fs-idm214782720">
+<problem id="fs-idm218505408">
+<para id="fs-idm220270496"><link class="lo-reference" document="m68070"/>How do you balance a firm’s need to succeed and the need for not asking the workers for perfection?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm214475952">
+<problem id="fs-idm451734176">
+<para id="fs-idm214978720"><link class="lo-reference" document="m68070"/>What type of firm would use standard costing? What type of firm would not use standard costing?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm459046128">
+<term>attainable standard</term>
+<meaning id="fs-idm451767792">level that may be reached with reasonable effort</meaning>
+</definition>
+<definition id="fs-idm200310864">
+<term>favorable variance</term>
+<meaning id="fs-idm196730800">difference involving spending less, or using less, than the standard amount</meaning>
+</definition>
+<definition id="fs-idm224242160">
+<term>ideal standard</term>
+<meaning id="fs-idm215530944">level that could be achieved if everything ran perfectly</meaning>
+</definition>
+<definition id="fs-idm204049760">
+<term>standard</term>
+<meaning id="fs-idm184262096">expectation for a component used in production</meaning>
+</definition>
+<definition id="fs-idm214593616">
+<term>standard cost</term>
+<meaning id="fs-idm212955072">cost expectation for price paid and amount (quantities) used</meaning>
+</definition>
+<definition id="fs-idm214529504">
+<term>unfavorable variance</term>
+<meaning id="fs-idm465645376">difference involving spending more or using more than the standard amount</meaning>
+</definition>
+<definition id="fs-idm223412240">
+<term>variance</term>
+<meaning id="fs-idm221497904">difference between standard and actual performance</meaning>
+</definition>
+</glossary>
+</document>

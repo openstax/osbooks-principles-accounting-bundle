@@ -1,0 +1,398 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Define and Describe the Expanded Accounting Equation and Its Relationship to Analyzing Transactions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67844</md:content-id>
+  <md:title>Define and Describe the Expanded Accounting Equation and Its Relationship to Analyzing Transactions</md:title>
+  <md:abstract/>
+  <md:uuid>4a983fdb-51bc-487f-82a4-e742c76a6438</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm372994720">Before we explore how to analyze transactions, we first need to understand what governs the way transactions are recorded.</para>
+<para id="fs-idm402437024">As you have learned, the accounting equation represents the idea that a company needs assets to operate, and there are two major sources that contribute to operations: liabilities and equity. The company borrows the funds, creating liabilities, or the company can take the funds provided by the profits generated in the current or past periods, creating retained earnings or some other form of stockholder’s equity. Recall the accounting equation’s basic form.</para>
+<media id="fs-idm392245216" class="scaled-down-30" alt="Assets equal Liabilities plus Equity.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_04_Equation01_img.jpg"/>
+</media>
+<section id="fs-idm359998480">
+<title>Expanded Accounting Equation</title>
+<para id="fs-idm402803104">The <term>expanded accounting equation</term> breaks down the equity portion of the accounting equation into more detail. This expansion of the equity section allows a company to see the impact to equity from changes to revenues and expenses, and to owner investments and payouts. It is important to have more detail in this equity category to understand the effect on financial statements from period to period. For example, an increase to revenue can increase net income on the income statement, increase retained earnings on the statement of retained earnings, and change the distribution of stockholder’s equity on the balance sheet. This may be difficult to understand where these changes have occurred without revenue recognized individually in this expanded equation.</para>
+<para id="fs-idm365509104">The expanded accounting equation is shown here.</para>
+<figure id="OSX_Acct_F03_04_Flow01">
+<media id="fs-idm674265552" alt="A hierarchical group of boxes. The top box is labeled Equity. The next row connected by a line has two boxes, labeled left to right: Contributed Capital and Retained Earnings. There are three boxes below Contributed Capital, labeled left to right: Assets equal; Liabilities; plus Common Stock. Common Stock is connected to Contributed Capital by a line while Assets equal and Liabilities are not. There are three boxes below Retained Earnings connected by a line, labeled left to right: minus Dividend; plus Revenues; minus Expenses.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_04_Flow01.jpg"/>
+</media>
+<caption>Expanded Accounting Equation. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm366595696">Note that this expanded accounting equation breaks down Equity into four categories: common stock, dividends, revenues, and expenses. This considers each element of contributed capital and retained earnings individually to better illustrate each one’s impact on changes in equity.</para>
+<para id="fs-idm681517440">A business can now use this equation to analyze transactions in more detail. But first, it may help to examine the many accounts that can fall under each of the main categories of Assets, Liabilities, and Equity, in terms of their relationship to the expanded accounting equation. We can begin this discussion by looking at the <emphasis effect="italics">chart of accounts</emphasis>.</para>
+</section>
+<section id="fs-idm674150272">
+<title>Chart of Accounts</title>
+<para id="fs-idm409963040">Recall that the basic components of even the simplest accounting system are accounts and a general ledger. Accounts shows all the changes made to assets, liabilities, and equity—the three main categories in the accounting equation. Each of these categories, in turn, includes many individual accounts, all of which a company maintains in its general ledger.</para>
+<para id="fs-idm390497216">When a company first starts the analysis process, it will make a list of all the accounts used in day-to-day transactions. For example, a company may have accounts such as cash, accounts receivable, supplies, accounts payable, unearned revenues, common stock, dividends, revenues, and expenses. Each company will make a list that works for its business type, and the transactions it expects to engage in. The accounts may receive numbers using the system presented in <link target-id="fs-idm372750352"/>.</para>
+<table id="fs-idm372750352" class="top-titled" summary="No Summary">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c4">Account Numbering System</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Account category</entry>
+<entry valign="top" align="center">Assigned account number will start with</entry>
+<entry valign="top" align="center">Account numbers for a small company</entry>
+<entry valign="top" align="center">Account numbers for a large company</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Assets</entry>
+<entry valign="top" align="left">1</entry>
+<entry valign="top" align="left">100–199</entry>
+<entry valign="top" align="left">1000–1999</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Liabilities</entry>
+<entry valign="top" align="left">2</entry>
+<entry valign="top" align="left">200–299</entry>
+<entry valign="top" align="left">2000–2999</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Stockholders’ equity</entry>
+<entry valign="top" align="left">3</entry>
+<entry valign="top" align="left">300–399</entry>
+<entry valign="top" align="left">3000–3999</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Revenues</entry>
+<entry valign="top" align="left">4</entry>
+<entry valign="top" align="left">400–499</entry>
+<entry valign="top" align="left">4000–4999</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Expenses</entry>
+<entry valign="top" align="left">5</entry>
+<entry valign="top" align="left">500–599</entry>
+<entry valign="top" align="left">5000–5999</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm390926320">We call this account numbering system a <term>chart of accounts</term>. The accounts are presented in the chart of accounts in the order in which they appear on the financial statements, beginning with the balance sheet accounts and then the income statement accounts. Additional numbers starting with six and continuing might be used in large merchandising and manufacturing companies. The information in the chart of accounts is the foundation of a well-organized accounting system.</para>
+</section>
+<section id="fs-idm412971088">
+<title>Breaking Down the Expanded Accounting Equation</title>
+<para id="fs-idm392051568">Refer to the expanded accounting equation (<link target-id="OSX_Acct_F03_04_Flow01"/>). We begin with the left side of the equation, the assets, and work toward the right side of the equation to liabilities and equity.</para>
+<section id="fs-idm390507088">
+<title>Assets and the Expanded Accounting Equation</title>
+<para id="fs-idm409235616">On the left side of the equation are assets. <term class="no-emphasis">Assets</term> are resources a company owns that have an economic value. Assets are represented on the balance sheet financial statement. Some common examples of assets are cash, accounts receivable, inventory, supplies, prepaid expenses, notes receivable, equipment, buildings, machinery, and land.</para>
+<para id="fs-idm393131296">Cash includes paper currency as well as coins, checks, bank accounts, and money orders. Anything that can be quickly liquidated into cash is considered cash. Cash activities are a large part of any business, and the flow of cash in and out of the company is reported on the statement of cash flows.</para>
+<para id="fs-idm397851152">Accounts receivable is money that is owed to the company, usually from a customer. The customer has not yet paid with cash for the provided good or service but will do so in the future. Common phrasing to describe this situation is that a customer purchased something “on account,” meaning that the customer has asked to be billed and will pay at a later date: “Account” because a customer has not paid us yet but instead has asked to be billed; “Receivable” because we will receive the money in the future.</para>
+<para id="fs-idm390565376">Inventory refers to the goods available for sale. Service companies do not have goods for sale and would thus not have inventory. Merchandising and manufacturing businesses do have inventory. You learn more about this topic in <link document="m67888">Inventory</link>.</para>
+<para id="fs-idm393733024">Examples of supplies (office supplies) include pens, paper, and pencils. Supplies are considered assets until an employee uses them. At the point they are used, they no longer have an economic value to the organization, and their cost is now an expense to the business.</para>
+<para id="fs-idm410073312"><term>Prepaid expenses</term> are items paid for in advance of their use. They are considered assets until used. Some examples can include insurance and rent. Insurance, for example, is usually purchased for more than one month at a time (six months typically). The company does not use all six months of the insurance at once, it uses it one month at a time. However, the company prepays for all of it up front. As each month passes, the company will adjust its records to reflect the cost of one month of insurance usage.</para>
+<para id="fs-idm415416768">Notes receivable is similar to accounts receivable in that it is money owed to the company by a customer or other entity. The difference here is that a note typically includes interest and specific contract terms, and the amount may be due in more than one accounting period.</para>
+<para id="fs-idm399608096">Equipment examples include desks, chairs, and computers; anything that has a long-term value to the company that is used in the office. Equipment is considered a long-term asset, meaning you can use it for more than one accounting period (a year for example). Equipment will lose value over time, in a process called <emphasis effect="italics">depreciation</emphasis>. You will learn more about this topic in <link document="m67848">The Adjustment Process</link>.</para>
+<para id="fs-idm409952128">Buildings, machinery, and land are all considered long-term assets. Machinery is usually specific to a manufacturing company that has a factory producing goods. Machinery and buildings also depreciate. Unlike other long-term assets such as machinery, buildings, and equipment, land is not depreciated. The process to calculate the loss on land value could be very cumbersome, speculative, and unreliable; therefore, the treatment in accounting is for land to <emphasis effect="italics">not</emphasis> be depreciated over time.</para>
+<figure id="OSX_Acct_F03_03_Assets">
+<media id="fs-idm418233728" alt="Four photographs. Top left is stacks of paper money bound in rubber bands. Top right is a tall, glass front office building. Bottom right is a robot installing parts on an assembly line. Bottom left is warehouse with several stacks of blue and green granular material in plastic sacks.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_03_Assets.jpg"/>
+</media>
+<caption>Assets. Cash, buildings, inventory, and equipment are all types of assets. (credit clockwise from top left: modification of “Cash money! 140606-A-CA521-021” by Sgt. Michael Selvage/Wikimedia Commons, Public Domain; modification of “41 Cherry Orchard Road” by “Pafcool2”/Wikimedia Commons, Public Domain; modification of “ASM-e1516805109201” by Jeff Green, Rethink Robotics/ Wikimedia Commons, CC BY 4.0; modification of “Gfp-inventory-space” by Yinan Chen/Wikimedia Commons, CC0)</caption>
+</figure>
+</section>
+<section id="fs-idm372516816">
+<title>Liabilities and the Expanded Accounting Equation</title>
+<para id="fs-idm416056768">The accounting equation emphasizes a basic idea in business; that is, businesses need assets in order to operate. There are two ways a business can finance the purchase of assets. First, it can sell shares of its stock to the public to raise money to purchase the assets, or it can use profits earned by the business to finance its activities. Second, it can borrow the money from a lender such as a financial institution. You will learn about other assets as you progress through the book. Let’s now take a look at the right side of the accounting equation.</para>
+<para id="fs-idm353324944"><term class="no-emphasis">Liabilities</term> are obligations to pay an amount owed to a lender (creditor) based on a past transaction. Liabilities are reported on the balance sheet. It is important to understand that when we talk about liabilities, we are not just talking about loans. Money collected for gift cards, subscriptions, or as advance deposits from customers could also be liabilities. Essentially, anything a company owes and has yet to pay within a period is considered a liability, such as salaries, utilities, and taxes.</para>
+<para id="fs-idm397732832">For example, a company uses $400 worth of utilities in May but is not billed for the usage, or asked to pay for the usage, until June. Even though the company does not have to pay the bill until June, the company owed money for the usage that occurred in May. Therefore, the company must record the usage of electricity, as well as the liability to pay the utility bill, in May.</para>
+<para id="fs-idm392685456">Eventually that debt must be repaid by performing the service, fulfilling the subscription, or providing an asset such as merchandise or cash. Some common examples of liabilities include accounts payable, notes payable, and unearned revenue.</para>
+<para id="fs-idm401429424">Accounts payable recognizes that the company owes money and has not paid. Remember, when a customer purchases something “on account” it means the customer has asked to be billed and will pay at a later date. In this case the purchasing company is the “customer.” The company will have to pay the money due in the future, so we use the word “payable.” The debt owed is usually paid off in less than one accounting period (less than a year typically) if it is classified as an account payable.</para>
+<para id="fs-idm391402256">A notes payable is similar to accounts payable in that the company owes money and has not yet paid. Some key differences are that the contract terms are usually longer than one accounting period, interest is included, and there is typically a more formalized contract that dictates the terms of the transaction.</para>
+<para id="fs-idm409303808"><term>Unearned revenue</term> represents a customer’s advanced payment for a product or service that has yet to be provided by the company. Since the company has not yet provided the product or service, it cannot recognize the customer’s payment as revenue, according to the revenue recognition principle. Thus, the account is called unearned revenue. The company owing the product or service creates the liability to the customer.</para>
+</section>
+<section id="fs-idm400119776">
+<title>Equity and the Expanded Accounting Equation</title>
+<para id="fs-idm681511984"><term>Stockholder’s equity</term> refers to the owner’s (stockholders) investments in the business and earnings. These two components are contributed capital and retained earnings.</para>
+<para id="fs-idm413412592">The owner’s investments in the business typically come in the form of common stock and are called <term>contributed capital</term>. There is a hybrid owner’s investment labeled as preferred stock that is a combination of debt and equity (a concept covered in more advanced accounting courses). The company will issue shares of common stock to represent stockholder ownership. You will learn more about common stock in <link document="m67916">Corporation Accounting</link>.</para>
+<para id="fs-idm367427664">Another component of stockholder’s equity is company earnings. These retained earnings are what the company holds onto at the end of a period to reinvest in the business, after any distributions to ownership occur. Stated more technically, retained earnings are a company’s cumulative earnings since the creation of the company minus any dividends that it has declared or paid since its creation. One tricky point to remember is that retained earnings are not classified as assets. Instead, they are a component of the stockholder’s equity account, placing it on the right side of the accounting equation.</para>
+<para id="fs-idm392349296">Distribution of earnings to ownership is called a dividend. The dividend could be paid with cash or be a distribution of more company stock to current shareholders. Either way, dividends will decrease retained earnings. Dividends are considered a contra equity account. An account is a <term>contra account</term> if its normal balance is opposite of the normal balance of the category to which it belongs. The normal balance for the equity category is a credit balance whereas the normal balance for dividends is a debit balance resulting in dividends reducing total equity. </para><para id="fs-idm357461072">Also affecting retained earnings are revenues and expenses, by way of net income or net loss. Revenues are earnings from the sale of goods and services. An increase in revenues will also contribute toward an increase in retained earnings. Expenses are the cost of resources associated with earning revenues. An increase to expenses will contribute toward a decrease in retained earnings. Recall that this concept of recognizing expenses associated with revenues is the expense recognition principle. Some examples of expenses include bill payments for utilities, employee salaries, and loan interest expense. A business does not have an expense until it is “incurred.” Incurred means the resource is used or consumed. For example, you will not recognize utilities as an expense until you have used the utilities. The difference between revenues earned and expenses incurred is called net income (loss) and can be found on the income statement.</para>
+<para id="fs-idm393562784">Net income reported on the income statement flows into the statement of retained earnings. If a business has net income (earnings) for the period, then this will increase its retained earnings for the period. This means that revenues exceeded expenses for the period, thus increasing retained earnings. If a business has net loss for the period, this decreases retained earnings for the period. This means that the expenses exceeded the revenues for the period, thus decreasing retained earnings.</para>
+<para id="fs-idm402134352">You will notice that stockholder’s equity increases with common stock issuance and revenues, and decreases from dividend payouts and expenses. Stockholder’s equity is reported on the balance sheet in the form of contributed capital (common stock) and retained earnings. The statement of retained earnings computes the retained earnings balance at the beginning of the period, adds net income or subtracts net loss from the income statement, and subtracts dividends declared, to result in an ending retained earnings balance reported on the balance sheet.</para>
+<para id="fs-idm383704880">Now that you have a basic understanding of the accounting equation, and examples of assets, liabilities, and stockholder’s equity, you will be able to analyze the many transactions a business may encounter and determine how each transaction affects the accounting equation and corresponding financial statements. First, however, in <link document="m67845">Define and Examine the Initial Steps in the Accounting Cycle</link> we look at how the role of identifying and analyzing transactions fits into the continuous process known as the <emphasis effect="italics">accounting cycle</emphasis>.</para>
+<note id="fs-idm388833440" class="link-to-learning">
+<para id="fs-idm681541152">The Financial Accounting Standards Board had a policy that allowed companies to reduce their tax liability from share-based compensation deductions. This led companies to create what some call the “contentious debit,” to defer tax liability and increase tax expense in a current period. See the <link url="https://openstax.org/l/50ContDebt">article “The contentious debit—seriously” on continuous debt</link> for further discussion of this practice.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm390390096" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm408333472" list-type="bulleted" bullet-style="bullet">
+<item>The expanded accounting equation breaks down the equity portion of the accounting equation into more detail to show common stock, dividends, revenue, and expenses individually.</item>
+<item>The chart of accounts is a numbering system that lists all of a company’s accounts in the order in which they appear on the financial statements, beginning with the balance sheet accounts and then the income statement accounts.</item>
+</list>
+</section>
+<section id="fs-idm402053424" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm383502752">
+<problem id="fs-idm397890272">
+<para id="fs-idm383706208"><link class="lo-reference" document="m67844"/>Which of the following does <emphasis effect="italics">not</emphasis> accurately represent the accounting equation?</para>
+<list id="fs-idm418114144" list-type="enumerated" number-style="upper-alpha">
+<item>Assets – Liabilities = Stockholders’ Equity</item>
+<item>Assets – Stockholders’ Equity = Liabilities</item>
+<item>Assets = Liabilities + Stockholders’ Equity</item>
+<item>Assets + Liabilities = Stockholders’ Equity</item>
+</list>
+</problem>
+<solution id="fs-idm405106240">
+<para id="fs-idm373212144">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm400833200">
+<problem id="fs-idm402470768">
+<para id="fs-idm408879552"><link class="lo-reference" document="m67844"/>Which of these statements is <emphasis effect="italics">false</emphasis>?</para>
+<list id="fs-idm680097312" list-type="enumerated" number-style="upper-alpha">
+<item>Assets = Liabilities + Equity</item>
+<item>Assets – Liabilities = Equity</item>
+<item>Liabilities – Equity = Assets</item>
+<item>Liabilities = Assets – Equity</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm394831664">
+<problem id="fs-idm410273792">
+<para id="fs-idm390558224"><link class="lo-reference" document="m67844"/>Which of these accounts is an asset?</para>
+<list id="fs-idm394290256" list-type="enumerated" number-style="upper-alpha">
+<item>Common Stock</item>
+<item>Supplies</item>
+<item>Accounts Payable</item>
+<item>Fees Earned</item>
+</list>
+</problem>
+<solution id="fs-idm395340928">
+<para id="fs-idm406585792">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm418486352">
+<problem id="fs-idm389044880">
+<para id="fs-idm412458352"><link class="lo-reference" document="m67844"/>Which of these accounts is a liability?</para>
+<list id="fs-idm392712720" list-type="enumerated" number-style="upper-alpha">
+<item>Accounts Receivable</item>
+<item>Supplies</item>
+<item>Salaries Expense</item>
+<item>Accounts Payable</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm413578208">
+<problem id="fs-idm392591984">
+<para id="fs-idm382133168"><link class="lo-reference" document="m67844"/>If equity equals $100,000, which of the following is true?</para>
+<list id="fs-idm407985760" list-type="enumerated" number-style="upper-alpha">
+<item>Assets exceed liabilities by $100,000.</item>
+<item>Liabilities exceed equity by $100,000.</item>
+<item>Assets + liabilities equal $100,000.</item>
+<item>None of the above is true.</item>
+</list>
+</problem>
+<solution id="fs-idm414123840">
+<para id="fs-idm373027104">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm398227920" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm414336272">
+<problem id="fs-idm412464848">
+<para id="fs-idm402920000"><link class="lo-reference" document="m67844"/>State the accounting equation, and explain what each part represents.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm396047920">
+<problem id="fs-idm373618688">
+<para id="fs-idm405079712"><link class="lo-reference" document="m67844"/>How do revenues and expenses affect the accounting equation?</para>
+</problem>
+<solution id="fs-idm398281488">
+<para id="fs-idm414615648">Assets = Liabilities + Equity; Revenues increase equity, while expenses decrease equity.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm417406064">
+<problem id="fs-idm410202624">
+<para id="fs-idm390210704"><link class="lo-reference" document="m67844"/>Does every transaction affect both sides of the accounting equation? Explain your answer.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm403347696" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm389069104">
+<problem id="fs-idm414519888">
+<para id="fs-idm410653792"><link class="lo-reference" document="m67844"/>Consider the following accounts, and determine if the account is an asset (A), a liability (L), or equity (E).</para>
+<list id="fs-idm403377680" list-type="enumerated" number-style="upper-alpha">
+<item>Accounts Payable</item>
+<item>Cash</item>
+<item>Dividends</item>
+<item>Notes Payable</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm398373936">
+<problem id="fs-idm397454896">
+<para id="fs-idm394109440"><link class="lo-reference" document="m67844"/>Provide the missing amounts of the accounting equation for each of the following companies.</para>
+<media id="fs-idm414526720" class="scaled-down" alt="A table with three columns. The second column is labeled Gianni. The third column is labeled Forest. The next row is, left to right: Assets, $222,000, $387,000. The next row is, left to right: Liabilities, ?, 7,000. The last row is, left to right: Equity, 147,000, ?.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_04_EA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm408460960">
+<problem id="fs-idm684682176">
+<para id="fs-idm403274960"><link class="lo-reference" document="m67844"/>Identify the financial statement on which each of the following accounts would appear: the income statement (IS), the retained earnings statement (RE), or the Balance Sheet (BS).</para>
+<list id="fs-idm673930448" list-type="enumerated" number-style="upper-alpha">
+<item>Insurance Expense</item>
+<item>Accounts Receivable</item>
+<item>Office Supplies</item>
+<item>Sales Revenue</item>
+<item>Common Stock</item>
+<item>Notes Payable</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm410877360"><problem id="fs-idm418396416">
+<para id="fs-idm378478416"><link class="lo-reference" document="m67844"/>Cromwell Corporation has the following trial balance account balances, given in no certain order, as of December 31, 2018. Retained Earnings at January 1, 2018, was $3,600. Using the information provided, prepare Cromwell’s annual financial statements (omit the Statement of Cash Flows).</para><media id="fs-idm413106880" class="scaled-down-30" alt="Supplies $865; Fees earned 22,850; Accounts Receivable 2,580; Accounts payable 1,945; Office furniture 12,685; Rent expense 12,240; Cash 4,695; Electricity expense 1,380; Common stock 10,000; Miscellaneous expenses 1,450; Dividend 2,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_04_EA04_img.jpg"/>
+</media>
+</problem>
+</exercise></section>
+<section id="fs-idm408953872" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm418066096">
+<problem id="fs-idm414793472">
+<para id="fs-idm408388064"><link class="lo-reference" document="m67844"/>Consider the following accounts and determine if the account is an asset (A), a liability (L), or equity (E).</para>
+<list id="fs-idm390003232" list-type="enumerated" number-style="upper-alpha">
+<item>Accounts Receivable</item>
+<item>Sales Revenue</item>
+<item>Land</item>
+<item>Unearned Revenue</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm391658640">
+<problem id="fs-idm410689472">
+<para id="fs-idm676586784"><link class="lo-reference" document="m67844"/>Provide the missing amounts of the accounting equation for each of the following companies.</para>
+<media id="fs-idm400801280" class="scaled-down" alt="A table with three columns. The second column is labeled Elias. The third column is labeled Patel. The next row is labeled, left to right: Assets, ?, $125,000. The next row is labeled, left to right: Liabilities, $33,000, ?. The last row is labeled, left to right: Equity, 186,000, 63,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_04_EB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm393318784" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm411561760">
+<problem id="fs-idm398377520">
+<para id="fs-idm394300928"><link class="lo-reference" document="m67844"/>Assuming the following account balances, what is the missing value?</para>
+<media id="fs-idm395112736" class="scaled-down-30" alt="Assets $865,430; Liabilities ?; Equity 759,121.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_04_PA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm391002272">
+<problem id="fs-idm393023408">
+<para id="fs-idm406329776"><link class="lo-reference" document="m67844"/><link class="lo-reference" document="m67846"/>Assuming the following account balance changes for the period, what is the missing value?</para>
+<media id="fs-idm395512544" class="scaled-down-30" alt="Assets $246,300; Liabilities ?; Common stock 160,000; Dividends 30,000; Revenue 245,800; Expenses 175,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_03_PA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm397353472">
+<problem id="fs-idm404962384">
+<para id="fs-idm405059648"><link class="lo-reference" document="m67844"/><link class="lo-reference" document="m67846"/>Assuming the following account balance changes for the period, what is the missing value?</para>
+<media id="fs-idm392083168" class="scaled-down-30" alt="Assets $450,600; Liabilities 250,000; Common stock 120,000; Dividends ?; Revenue 433,600; Expenses 323,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_03_PA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm686042048" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm409031168">
+<problem id="fs-idm372815456">
+<para id="fs-idm400692544"><link class="lo-reference" document="m67844"/>Assuming the following account balances, what is the missing value?</para>
+<media id="fs-idm410095840" class="scaled-down-30" alt="Assets $1,150,000; Liabilities 588,000; Equity ?.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_04_PB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm417023856">
+<problem id="fs-idm351502240">
+<para id="fs-idm389115264"><link class="lo-reference" document="m67844"/><link class="lo-reference" document="m67846"/>Assuming the following account balance changes for the period, what is the missing value?</para>
+<media id="fs-idm359915104" class="scaled-down-30" alt="Assets $73,000; Liabilities 33,000; Common stock 10,000; Dividends 5,000; Revenue 120,000; Expenses ?.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_03_PB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm399632000">
+<problem id="fs-idm407940832">
+<para id="fs-idm410186464"><link class="lo-reference" document="m67844"/><link class="lo-reference" document="m67846"/>Assuming the following account balance changes for the period, what is the missing value?</para>
+<media id="fs-idm413256672" class="scaled-down-30" alt="Assets ?; Liabilities $110,500; Common stock 60,000; Dividends 15,000; Revenue 785,000; Expenses 234,750.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_03_PB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm673544928" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm378478160">
+<problem id="fs-idm402902000">
+<para id="fs-idm385507296"><link class="lo-reference" document="m67844"/>Assume that you are the controller of a business that provides legal services to clients. Suppose that the company has had a tough year, so the revenues have been lagging behind, based on previous years’ standards. What would you do if your boss (the chief executive officer [CEO] of the company) asked to reclassify a transaction to report loan proceeds of $150,000 as if the cash came from service fee revenue from clients instead. Would following the CEO’s advice impact the company’s accounting equation? How would reclassifying this one transaction change the outcome of the balance sheet, the income statement, and the statement of retained earnings? Would making this reclassification change the perception that users of the financial statements would have of the company’s current year success and future year potential?</para>
+<para id="fs-idm391406816">Write a memo, detailing your willingness (or not) to embrace this suggestion, giving reasons behind your decision. Remember to exercise diplomacy, even if you must dissent from the opinion of a supervisor. Note that the challenge of the assignment is to keep your integrity intact, while also keeping your job, if possible.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm407243280">
+<problem id="fs-idm385156896">
+<para id="fs-idm353351744"><link class="lo-reference" document="m67844"/>Visit the website of the US Securities and Exchange Commission (SEC) (https://www.sec.gov/edgar/searchedgar/companysearch.html). Search for the latest Form 10-K for a company you would like to analyze. Submit a short memo that</para>
+<list id="fs-idm674096784" list-type="enumerated" number-style="upper-alpha">
+<item>Includes the name and ticker symbol of the company you have chosen.</item>
+<item>Reviews the company’s end-of-period Balance Sheet to determine the following:
+<list id="fs-idm375974272" list-type="enumerated" number-style="lower-roman">
+<item>total assets</item>
+<item>total liabilities</item>
+<item>total equity</item>
+</list></item>
+<item>Presents the company’s accounting equation at the end of the period, from the information you collected in (A), (B), and (C):
+<list id="fs-idm385142144" list-type="enumerated" number-style="lower-roman">
+<item>provide the web link to the company’s Form 10-K to allow accurate verification of your answers</item>
+</list>
+</item></list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm390079664">
+<term>account</term>
+<meaning id="fs-idm416948448">record showing increases and decreases to assets, liabilities, and equity found in the accounting equation</meaning>
+</definition>
+<definition id="fs-idm414686160">
+<term>chart of accounts</term>
+<meaning id="fs-idm390132160">account numbering system that lists all the accounts a business uses in its day-to-day transactions</meaning>
+</definition>
+<definition id="fs-idm502292240"><term>contra account</term><meaning id="fs-idm280519648">account that has a normal balance opposite of normal balance for the broad category to which the account belongs</meaning></definition>
+<definition id="fs-idm402343168">
+<term>contributed capital</term>
+<meaning id="fs-idm395055792">owner’s investment (cash and other assets) in the business which typically comes in the form of common stock</meaning>
+</definition>
+<definition id="fs-idm367379664">
+<term>expanded accounting equation</term>
+<meaning id="fs-idm390443376">breaks down the equity portion of the accounting equation into more detail to see the impact to equity from changes to revenues and expenses, and to owner investments and payouts</meaning>
+</definition>
+<definition id="fs-idm357469552">
+<term>prepaid expenses</term>
+<meaning id="fs-idm394182112">items paid for in advance of their use</meaning>
+</definition>
+<definition id="fs-idm388930896">
+<term>unearned revenue</term>
+<meaning id="fs-idm414598448">advance payment for a product or service that has yet to be provided by the company; the transaction is a liability until the product or service is provided</meaning>
+</definition>
+</glossary>
+</document>

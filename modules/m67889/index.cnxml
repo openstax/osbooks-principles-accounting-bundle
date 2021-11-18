@@ -1,0 +1,527 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Describe and Demonstrate the Basic Inventory Valuation Methods and Their Cost Flow Assumptions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67889</md:content-id>
+  <md:title>Describe and Demonstrate the Basic Inventory Valuation Methods and Their Cost Flow Assumptions</md:title>
+  <md:abstract/>
+  <md:uuid>1ab741b8-2d46-4e35-bd4b-1ee79786b336</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm496023408">Accounting for inventory is a critical function of management. Inventory accounting is significantly complicated by the fact that it is an ongoing process of constant change, in part because (1) most companies offer a large variety of products for sale, (2) product purchases occur at irregular times, (3) products are acquired for differing prices, and (4) inventory acquisitions are based on sales projections, which are always uncertain and often sporadic. Merchandising companies must meticulously account for every individual product that they sell, equipping them with essential information, for decisions such as these:</para>
+<list id="fs-idm303186208" list-type="bulleted">
+<item>What is the quantity of each product that is available to customers?</item>
+<item>When should inventory of each product item be replenished and at what quantity?</item>
+<item>How much should the company charge customers for each product to cover all costs plus profit margin?</item>
+<item>How much of the inventory cost should be allocated toward the units sold (cost of goods sold) during the period?</item>
+<item>How much of the inventory cost should be allocated toward the remaining units (ending inventory) at the end of the period?</item>
+<item>Is each product moving robustly or have some individual inventory items’ activity decreased?</item>
+<item>Are some inventory items obsolete?</item>
+</list>
+<para id="fs-idm494353312">The company’s financial statements report the combined cost of all items sold as an offset to the proceeds from those sales, producing the net number referred to as <term>gross margin</term> (or gross profit). This is presented in the first part of the results of operations for the period on the multi-step income statement. The unsold inventory at period end is an asset to the company and is therefore included in the company’s financial statements, on the balance sheet, as shown in <link target-id="OSX_Acct_F10_01_ISandBS"/>. The total cost of all the inventory that remains at period end, reported as <term>merchandise inventory</term> on the balance sheet, plus the total cost of the inventory that was sold or otherwise removed (through shrinkage, theft, or other loss), reported as cost of goods sold on the income statement (see <link target-id="OSX_Acct_F10_01_ISandBS"/>), represent the entirety of the inventory that the company had to work with during the period, or goods available for sale.</para>
+<figure id="OSX_Acct_F10_01_ISandBS">
+<media id="fs-idm324488752" alt="Partial balance sheet showing Assets: Current Assets: Cash, $21,580, Account Receivable 2,000, Inventory 60,000. Partial Income Statement showing Revenues: Total Revenues $19,500, Cost of Goods Sold 9,000, leaving a Gross Profit of 10,500">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_ISandBS.jpg"/>
+</media>
+<caption>Financial Statement Effects of Inventory Transactions. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<section id="fs-idm305414864">
+<title>Fundamentals of Inventory</title>
+<para id="fs-idm341721328">Although our discussion will consider inventory issues from the perspective of a retail company, using a resale or merchandising operation, inventory accounting also encompasses recording and reporting of manufacturing operations. In the manufacturing environment, there would be separate inventory calculations for the various process levels of inventory, such as raw materials, work in process, and finished goods. The manufacturer’s finished goods inventory is equivalent to the merchandiser’s inventory account in that it includes finished goods that are available for sale.</para>
+<para id="fs-idm321911760">In merchandising companies, inventory is a company asset that includes beginning inventory plus <term>purchases</term>, which include all additions to inventory during the period. Every time the company sells products to customers, they dispose of a portion of the company’s inventory asset. <term>Goods available for sale</term> refers to the total cost of all inventory that the company had on hand at any time during the period, including beginning inventory and all inventory purchases. These goods were normally either sold to customers during the period (occasionally lost due to spoilage, theft, damage, or other types of shrinkages) and thus reported as cost of goods sold, an expense account on the income statement, or these goods are still in inventory at the end of the period and reported as ending merchandise inventory, an asset account on the balance sheet. As an example, assume that Harry’s Auto Parts Store sells oil filters. Suppose that at the end of January 31, 2018, they had 50 oil filters on hand at a cost of $7 per unit. This means that at the beginning of February, they had 50 units in inventory at a total cost of $350 (50 × $7). During the month, they purchased 20 filters at a cost of $7, for a total cost of $140 (20 × $7). At the end of the month, there were 18 units left in inventory. Therefore, during the month of February, they sold 52 units. <link target-id="OSX_Acct_F10_01_HarrysAuto"/> illustrates how to calculate the goods available for sale and the cost of goods sold.</para>
+<figure id="OSX_Acct_F10_01_HarrysAuto">
+<media id="fs-idm305247232" alt="Table showing Beginning Inventory, January 31, 2018 plus Purchases during February 2018 equals Total Goods Available for sale, less: Ending Inventory, February 28, 2018, leaving Cost of Goods Sold for February 2018. Number of Units is 50 plus 20 equals 70 minus 18 equals 52, Cost per Unit is $7, so Total Cost is $350 plus 140 equals 490 minus 126 equals 364.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_HarrysAuto.jpg"/>
+</media>
+<caption>Fundamentals of Inventory Accounting. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm303030304">Inventory costing is accomplished by one of four specific costing methods: (1) specific identification, (2) first-in, first-out, (3) last-in, first-out, and (4) weighted-average cost methods. All four methods are techniques that allow management to distribute the costs of inventory in a logical and consistent manner, to facilitate matching of costs to offset the related revenue item that is recognized during the period, in accordance with GAAP expense recognition and matching concepts. Note that a company’s cost allocation process represents management’s chosen method for expensing product costs, based strictly on estimates of the flow of inventory costs, which is unrelated to the actual flow of the physical inventory. Use of a cost allocation strategy eliminates the need for often cost-prohibitive individual tracking of costs of each specific inventory item, for which purchase prices may vary greatly. In this chapter, you will be provided with some background concepts and explanations of terms associated with inventory as well as a basic demonstration of each of the four allocation methods, and then further delineation of the application and nuances of the costing methods.</para>
+<para id="fs-idm340056592">A critical issue for inventory accounting is the frequency for which inventory values are updated. There are two primary methods used to account for inventory balance timing changes: the periodic inventory method and the perpetual inventory method. These two methods were addressed in depth in <link document="m67860">Merchandising Transactions</link>).</para>
+<section id="fs-idm345827152">
+<title>Periodic Inventory Method</title>
+<para id="fs-idm328934032">A <term>periodic inventory system</term> updates the inventory balances at the end of the reporting period, typically the end of a month, quarter, or year. At that point, a journal entry is made to adjust the merchandise inventory asset balance to agree with the physical count of inventory, with the corresponding adjustment to the expense account, cost of goods sold. This adjustment shifts the costs of all inventory items that are no longer held by the company to the income statement, where the costs offset the revenue from inventory sales, as reflected by the gross margin. As sales transactions occur throughout the period, the periodic system requires that only the sales entry be recorded because costs will only be updated during end-of-period adjustments when financial statements are prepared. However, any additional goods for sale acquired during the month are recorded as purchases. Following are examples of typical journal entries for periodic transactions. The first is an example entry for an inventory sales transaction when using periodic inventory, and the second records the purchase of additional inventory when using the periodic method. Note: Periodic requires no corresponding cost entry at the time of sale, since the inventory is adjusted only at period end.</para>
+<media id="fs-idm327727360" alt="Journal entry showing debit to Accounts Receivable and credit to Sales Revenue.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_Peri_img.jpg"/>
+</media>
+<para id="fs-idm332929952">A purchase of inventory for sale by a company under the periodic inventory method would necessitate the following journal entry. (This is discussed in more depth in <link document="m67860">Merchandising Transactions</link>.)</para>
+<media id="fs-idm319884720" alt="Journal entry showing debit to Purchases and credit to Cash or Accounts Payable.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_PurchPeri_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm340584384">
+<title>Perpetual Inventory Method</title>
+<para id="fs-idm327856592">A <term>perpetual inventory system</term> updates the inventory account balance on an ongoing basis, at the time of each individual sale. This is normally accomplished by use of auto-ID technology, such as optical-scan barcode or radio frequency identification (RFIF) labels. As transactions occur, the perpetual system requires that every sale is recorded with two entries, first recording the sales transaction as an increase to Accounts Receivable and a decrease to Sales Revenue, and then recording the cost associated with the sale as an increase to Cost of Goods Sold and a decrease to Merchandise Inventory. The journal entries made at the time of sale immediately shift the costs relating to the goods being sold from the merchandise inventory account on the balance sheet to the cost of goods sold account on the income statement. Little or no adjustment is needed to inventory at period end because changes in the inventory balances are recorded as both the sales and purchase transactions occur. Any necessary adjustments to the ending inventory account balances would typically be caused by one of the types of shrinkage you’ve learned about. These are example entries for an inventory sales transaction when using perpetual inventory updating:</para>
+<media id="fs-idm320466784" alt="Journal entry showing debit to Accounts Receivable and credit to Sales Revenue. Second journal entry showing debit to Cost of Goods Sold and credit to Merchandise Inventory.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_Perp_img.jpg"/>
+</media>
+<para id="fs-idm329151824">A purchase of inventory for sale by a company under the perpetual inventory method would necessitate the following journal entry. (Greater detail is provided in <link document="m67860">Merchandising Transactions</link>.)</para>
+<media id="fs-idm337847120" alt="Journal entry showing debit to Inventory and credit to Cash or Accounts Payable.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_PurchPerp_img.jpg"/>
+</media>
+<note id="fs-idm247090000" class="continuing-application">
+<title>Inventory</title>
+<para id="fs-idm225632464">As previously discussed, <emphasis class="colored-text">Gearhead Outfitters</emphasis> is a retail chain selling outdoor gear and accessories. As such, the company is faced with many possible questions related to inventory. How much inventory should be carried? What products are the most profitable? Which products have the most sales? Which products are obsolete? What timeframe should the company allow for inventory to be replenished? Which products are the most in demand at each location?</para>
+<para id="fs-idm252897584">In addition to questions related to type, volume, obsolescence, and lead time, there are many issues related to accounting for inventory and the flow of goods. As one of the biggest assets of the company, the way inventory is tracked can have an effect on profit. Which method of accounting—first-in first-out, last-in first out, specific identification, weighted average— provides the most accurate reflection of inventory and cost of goods sold is important in determining gross profit and net income. The method selected affects profits, taxes, and can even change the opinion of potential lenders concerning the financial strength of the company. In choosing a method of accounting for inventory, management should consider many factors, including the accurate reflection of costs, taxes on profits, decision-making about purchases, and what effect a point-of-sale (POS) system may have on tracking inventory.</para>
+<para id="fs-idm243662608"><emphasis class="colored-text">Gearhead</emphasis> exists to provide a positive shopping experience for its customers. Offering a clear picture of its goods, and maintaining an appealing, timely supply at competitive prices is one way to keep the shopping experience positive. Thus, accounting for inventory plays an instrumental role in management’s ability to successfully run a company and deliver the company’s promise to customers.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm354775168">
+<title>Data for Demonstration of the Four Basic Inventory Valuation Methods</title>
+<para id="fs-idm328154048">The following dataset will be used to demonstrate the application and analysis of the four methods of <term class="no-emphasis">inventory accounting</term>.</para>
+<para id="fs-idm318221536"><emphasis effect="bold">Company:</emphasis> Spy Who Loves You Corporation</para>
+<para id="fs-idm358232592"><emphasis effect="bold">Product:</emphasis> Global Positioning System (GPS) Tracking Device</para>
+<para id="fs-idm358085328"><emphasis effect="bold">Description:</emphasis> This product is an economical real-time GPS tracking device, designed for individuals who wish to monitor others’ whereabouts. It is marketed to parents of middle school and high school students as a safety measure. Parents benefit by being apprised of the child’s location, and the student benefits by not having to constantly check in with parents. Demand for the product has spiked during the current fiscal period, while supply is limited, causing the selling price to escalate rapidly.</para>
+<media id="fs-idm338212832" alt="Chart showing July 1 beginning inventory of 150 units costing $21, July 5 sale of 120 units for $36, July 10 purchase of 225 units for $27, July 15 sale of 180 units for $39, July 25 purchase of 210 units for $33, with July 31 ending inventory of 285 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_GPS_img.jpg"/>
+</media>
+<section id="fs-idm318225200">
+<title>Specific Identification Method</title>
+<para id="fs-idm339317120">The <term>specific identification method</term> refers to tracking the actual cost of the item being sold and is generally used only on expensive items that are highly customized (such as tracking detailed costs for each individual car in automobiles sales) or inherently distinctive (such as tracking origin and cost for each unique stone in diamond sales). This method is too cumbersome for goods of large quantity, especially if there are not significant feature differences in the various inventory items of each product type. However, for purposes of this demonstration, assume that the company sold one specific identifiable unit, which was purchased in the second lot of products, at a cost of $27.</para>
+<para id="fs-idm321379360">Three separate lots of goods are purchased:</para>
+<media id="fs-idm323442768" alt="Chart showing: Lot 1 150 units for $21, Lot 2 225 units for $27, Lot 3 210 units for $33. Chart showing Sales Revenue of $36 minus Cost, assuming SI, unit assumed sold from Lot 2 $27 equals Gross margin for one unit $9.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_SIML_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm351695728">
+<title>First-in, First-out (FIFO) Method</title>
+<para id="fs-idm328168144">The <term>first-in, first-out method (FIFO)</term> records costs relating to a sale as if the earliest purchased item would be sold first. However, the physical flow of the units sold under both the periodic and perpetual methods would be the same. Due to the mechanics of the determination of costs of goods sold under the perpetual method, based on the timing of additional purchases of inventory during the accounting period, it is possible that the costs of goods sold might be slightly different for an accounting period. Since FIFO assumes that the first items purchased are sold first, the latest acquisitions would be the items that remain in inventory at the end of the period and would constitute ending inventory.</para>
+<para id="fs-idm303651312">Three separate lots of goods are purchased:</para>
+<media id="fs-idm344094128" alt="Chart showing: Lot 1 150 units for $21, Lot 2 225 units for $27, Lot 3 210 units for $33. Chart showing Sales Revenue of $36 minus Cost, assuming FIFO, unit assumed sold from Lot 1 $21 equals Gross margin for one unit $15.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_FIFO_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm343753760">
+<title>Last-in, First-out (LIFO) Method</title>
+<para id="fs-idm341954064">The <term>last-in, first out method (LIFO)</term> records costs relating to a sale as if the latest purchased item would be sold first. As a result, the earliest acquisitions would be the items that remain in inventory at the end of the period.</para>
+<para id="fs-idm332466768">Three separate lots of goods are purchased:</para>
+<media id="fs-idm345549984" alt="Chart showing: Lot 1 150 units for $21, Lot 2 225 units for $27, Lot 3 210 units for $33. Chart showing Sales Revenue of $36 minus Cost, assuming LIFO, unit assumed sold from Lot 3 $33 equals Gross margin for one unit $3.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_LIFO_img.jpg"/>
+</media>
+<note id="fs-idm350357808" class="ifrs-connection">
+<title>Inventory</title>
+<para id="fs-idm324629328">For many companies, inventory is a significant portion of the company’s assets. In 2018, the inventory of <emphasis class="colored-text">Walmart</emphasis>, the world’s largest international retailer, was 70% of current assets and 21% of total assets. Because inventory also affects income as it is sold through the cost of goods sold account, inventory plays a significant role in the analysis and evaluation of many companies. Ending inventory affects both the balance sheet and the income statement. As you’ve learned, the ending inventory balance is reflected as a current asset on the balance sheet and the ending inventory balance is used in the calculation of costs of goods sold. Understanding how companies report inventory under US GAAP versus under IFRS is important when comparing companies reporting under the two methods, particularly because of a significant difference between the two methods.</para>
+<para id="fs-idm322217744"><emphasis effect="bold">Similarities</emphasis></para>
+<list id="fs-idm337329184" list-type="bulleted">
+<item>When inventory is purchased, it is accounted for at historical cost and then evaluated at each balance sheet date to adjust to the lower of cost or net realizable value.</item>
+<item>Both IFRS and US GAAP allow FIFO and weighted-average cost flow assumptions as well as specific identification where appropriate and applicable.</item>
+</list>
+<para id="fs-idm301632480"><emphasis effect="bold">Differences</emphasis></para>
+<list id="fs-idm358027440" list-type="bulleted">
+<item>IFRS does not permit the use of LIFO. This is a major difference between US GAAP and IFRS. The AICPA estimates that roughly 35–40% of all US companies use LIFO, and in some industries, such as oil and gas, the use of LIFO is more prevalent. Because LIFO generates lower taxable income during times of rising prices, it is estimated that eliminating LIFO would generate an estimated $102 billion in tax revenues in the US for the period 2017–2026. In creating IFRS, the IASB chose to eliminate LIFO, arguing that FIFO more closely matches the flow of goods. In the US, FASB believes the choice between LIFO and FIFO is a business model decision that should be left up to each company. In addition, there was significant pressure by some companies and industries to retain LIFO because of the significant tax liability that would arise for many companies from the elimination of LIFO.</item>
+</list>
+</note>
+</section>
+<section id="fs-idm326981280">
+<title>Weighted-Average Cost Method</title>
+<para id="fs-idm341486992">The <term>weighted-average cost method</term> (sometimes referred to as the <term class="no-emphasis">average cost method</term>) requires a calculation of the average cost of all units of each particular inventory items. The average is obtained by multiplying the number of units by the cost paid per unit for each lot of goods, then adding the calculated total value of all lots together, and finally dividing the total cost by the total number of units for that product. As a caveat relating to the average cost method, note that a new average cost must be calculated after every change in inventory to reassess the per-unit weighted-average value of the goods. This laborious requirement might make use of the average method cost-prohibitive.</para>
+<para id="fs-idm342863744">Three separate lots of goods are purchased:</para>
+<media id="fs-idm364835040" alt="Chart showing: Lot 1 150 units for $21, Lot 2 225 units for $27, Lot 3 210 units for $33. Chart showing Sales Revenue of $36 minus Cost, assuming average cost of units sold from Lots 1, 2, and 3, $27.62* equals Gross margin for one unit $8.38. *(150 times $21) plus (225 times $27) plus (210 times $33) divided by 585equals 27.62 average.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_WAvg_img.jpg"/>
+</media>
+<para id="fs-idm338442112">Comparing the various costing methods for the sale of one unit in this simple example reveals a significant difference that the choice of cost allocation method can make. Note that the sales price is not affected by the cost assumptions; only the cost amount varies, depending on which method is chosen. <link target-id="OSX_Acct_F10_01_Compare"/> depicts the different outcomes that the four methods produced.</para>
+<figure id="OSX_Acct_F10_01_Compare">
+<media id="fs-idm314599584" alt="Table showing Sales Revenue minus Cost, under each cost allocation method equals Gross margin for one unit. Respecively the Sp ID is 36 minus 27 equals 9, FIFO is 36 minus 21 equals 15, LIFO is 36 minus 33 equals 3, and AVG is 36.00 minus 27.62 equals 8.38.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_Compare.jpg"/>
+</media>
+<caption>Comparison of the Four Costing Methods. One unit sold for $36. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm321555408">Once the methods of costing are determined for the company, that methodology would typically be applied repeatedly over the remainder of the company’s history to accomplish the generally accepted accounting principle of <term>consistency</term> from one period to another. It is possible to change methods if the company finds that a different method more accurately reflects results of operations, but the change requires disclosure in the company’s notes to the financial statements, which alerts financial statement users of the impact of the change in methodology. Also, it is important to realize that although the Internal Revenue Service generally allows differing methods of accounting treatment for tax purposes than for financial statement purposes, an exception exists that prohibits the use of LIFO inventory costing on the company tax return unless LIFO is also used for the financial statement costing calculations.</para>
+<note id="fs-idm345166592" class="ethical-considerations">
+<title>Auditors Look for Inventory Fraud</title>
+<para id="fs-idm324370816">Inventory fraud can be used to book false revenue or to increase the amount of assets to obtain additional lending from a bank or other sources. In the typical chain of accounting events, inventory ultimately becomes an expense item known as cost of goods sold.<footnote id="fs-idm324174272">“Inventory Fraud: Knowledge Is Your First Line of Defense.” Weaver. Mar. 27, 2015. https://weaver.com/blog/inventory-fraud-knowledge-your-first-line-defense</footnote> In a manipulated accounting system, a trail of fraudulent transactions can point to accounting misrepresentation in the sales cycle, which may include</para>
+<list id="fs-idm319828144" list-type="bulleted">
+<item>recording fictitious and nonexistent inventory,</item>
+<item>manipulation of inventory counts during a facility audit,</item>
+<item>recording of sales but no recording of purchases, and/or</item>
+<item>fraudulent inventory capitalization,</item>
+</list>
+<para id="fs-idm322204624">to list a few.<footnote id="fs-idm343629696">Wells, Joseph T. “Ghost Goods: How to Spot Phantom Inventory.” <emphasis effect="italics">Journal of Accountancy</emphasis>. June 1, 2001. https://www.journalofaccountancy.com/issues/2001/jun/ghostgoodshowtospotphantominventory.html</footnote> All these elaborate schemes have the same goal: to improperly manipulate inventory values to support the creation of a fraudulent financial statement. Accountants have an ethical, moral, and legal duty to not commit accounting and financial statement fraud. Auditors have a duty to look for such inventory fraud.</para>
+<para id="fs-idm323921424">Auditors follow the Statement on Auditing Standards (SAS) No. 99 and AU Section 316 Consideration of Fraud in a Financial Statement Audit when auditing a company’s books. Auditors are outside accountants hired to “obtain reasonable assurance about whether the financial statements are free of material misstatement, whether caused by error or fraud.”<footnote id="fs-idm299834224">American Institute of Certified Public Accountants (AICPA). <emphasis effect="italics">Consideration of Fraud in a Financial Statement Audit</emphasis> (AU Section 316). https://www.aicpa.org/Research/Standards/AuditAttest/DownloadableDocuments/AU-00316.pdf</footnote> Ultimately, an auditor will prepare an audit report based on the testing of the balances in a company’s books, and a review of the company’s accounting system. The auditor is to perform “procedures at locations on a surprise or unannounced basis, for example, observing inventory on unexpected dates or at unexpected locations or counting cash on a surprise basis.”<footnote id="fs-idm320507216">American Institute of Certified Public Accountants (AICPA). <emphasis effect="italics">Consideration of Fraud in a Financial Statement Audit</emphasis> (AU Section 316). https://www.aicpa.org/Research/Standards/AuditAttest/DownloadableDocuments/AU-00316.pdf</footnote> Such testing of a company’s inventory system is used to catch accounting fraud. It is the responsibility of the accountant to present accurate accounting records to the auditor, and for the auditor to create auditing procedures that reasonably ensure that the inventory balances are free of material misstatements in the accounting balances.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm321860336">
+<title>Additional Inventory Issues</title>
+<para id="fs-idm339122640">Various other issues that affect inventory accounting include consignment sales, transportation and ownership issues, inventory estimation tools, and the effects of inflationary versus deflationary cycles on various methods.</para>
+<section id="fs-idm328542976">
+<title>Consignment</title>
+<para id="fs-idm355687776"><term>Consigned goods</term> refer to merchandise inventory that belongs to a third party but which is displayed for sale by the company. These goods are not owned by the company and thus must not be included on the company’s balance sheet nor be used in the company’s inventory calculations. The company’s profit relating to consigned goods is normally limited to a percentage of the sales proceeds at the time of sale.</para>
+<para id="fs-idm345835200">For example, assume that you sell your office and your current furniture doesn’t match your new building. One way to dispose of the furniture would be to have a consignment shop sell it. The shop would keep a percentage of the sales revenue and pay you the remaining balance. Assume in this example that the shop will keep one-third of the sales proceeds and pay you the remaining two-thirds balance. If the furniture sells for $15,000, you would receive $10,000 and the shop would keep the remaining $5,000 as its sales commission. A key point to remember is that until the inventory, in this case your office furniture, is sold, you still own it, and it is reported as an asset on your balance sheet and not an asset for the consignment shop. After the sale, the buyer is the owner, so the consignment shop is never the property’s owner.</para>
+</section>
+<section id="fs-idm334691824">
+<title>Free on Board (FOB) Shipping and Destination</title>
+<para id="fs-idm353191760">Transportation costs are commonly assigned to either the buyer or the seller based on the free on board (FOB) terms, as the terms relate to the seller. Transportation costs are part of the responsibilities of the owner of the product, so determining the owner at the shipping point identifies who should pay for the shipping costs. The seller’s responsibility and ownership of the goods ends at the point that is listed after the FOB designation. Thus, <term>FOB shipping point</term> means that the seller transfers title and responsibility to the buyer at the shipping point, so the buyer would owe the shipping costs. The purchased goods would be recorded on the buyer’s balance sheet at this point.</para>
+<para id="fs-idm361654432">Similarly, <term>FOB destination</term> means the seller transfers title and responsibility to the buyer at the destination, so the seller would owe the shipping costs. Ownership of the product is the trigger that mandates that the asset be included on the company’s balance sheet. In summary, the goods belong to the seller until they transition to the location following the term FOB, making the seller responsible for everything about the goods to that point, including recording purchased goods on the balance sheet . If something happens to damage or destroy the goods before they reach the FOB location, the seller would be required to replace the product or reverse the sales transaction.</para>
+</section>
+<section id="fs-idm353592480">
+<title>Lower-of-Cost-or-Market (LCM)</title>
+<para id="fs-idm325756048">Reporting inventory values on the balance sheet using the accounting concept of <term>conservatism</term> (which discourages overstatement of net assets and net income) requires inventory to be calculated and adjusted to a value that is the lower of the cost calculated using the company’s chosen valuation method or the market value based on the market or replacement value of the inventory items. Thus, if traditional cost calculations produce inventory values that are overstated, the <term>lower-of-cost-or-market (LCM)</term> concept requires that the balance in the inventory account should be decreased to the more conservative replacement value rather than be overstated on the balance sheet.</para>
+</section>
+<section id="fs-idm304749440">
+<title>Estimating Inventory Costs: Gross Profit Method and Retail Inventory Method</title>
+<para id="fs-idm338573872">Sometimes companies have a need to estimate inventory values. These estimates could be needed for interim reports, when physical counts are not taken. The need could be result from a natural disaster that destroys part or all of the inventory or from an error that causes inventory counts to be compromised or omitted. Some specific industries (such as select retail businesses) also regularly use these estimation tools to determine cost of goods sold. Although the method is predictable and simple, it is also less accurate since it is based on estimates rather than actual cost figures.</para>
+<para id="fs-idm353331504">The <term>gross profit method</term> is used to estimate inventory values by applying a standard gross profit percentage to the company’s sales totals when a physical count is not possible. The resulting gross profit can then be subtracted from sales, leaving an estimated cost of goods sold. Then the ending inventory can be calculated by subtracting cost of goods sold from the total goods available for sale. Likewise, the <term>retail inventory method</term> estimates the cost of goods sold, much like the gross profit method does, but uses the retail value of the portions of inventory rather than the cost figures used in the gross profit method.</para>
+</section>
+<section id="fs-idm322372336">
+<title>Inflationary Versus Deflationary Cycles</title>
+<para id="fs-idm331908096">As prices rise (inflationary times), FIFO ending inventory account balances grow larger even when inventory unit counts are constant, while the income statement reflects lower cost of goods sold than the current prices for those goods, which produces higher profits than if the goods were costed with current inventory prices. Conversely, when prices fall (deflationary times), FIFO ending inventory account balances decrease and the income statement reflects higher cost of goods sold and lower profits than if goods were costed at current inventory prices. The effect of inflationary and deflationary cycles on LIFO inventory valuation are the exact opposite of their effects on FIFO inventory valuation.</para>
+<note id="fs-idm318831280" class="link-to-learning">
+<para id="fs-idm360856608">Accounting Coach does a great job in explaining inventory issues (and so many other accounting topics too): Learn more about <link url="https://openstax.org/l/50inventory">inventory and cost of goods sold</link> on their website.</para>
+</note>
+<note id="fs-idm326358032" class="think-through">
+<title>First-in, First-out (FIFO)</title>
+<para id="fs-idm326854320">Suppose you are the assistant controller for a retail establishment that is an independent bookseller. The company uses manual, periodic inventory updating, using physical counts at year end, and the FIFO method for inventory costing. How would you approach the subject of whether the company should consider switching to computerized perpetual inventory updating? Can you present a persuasive argument for the benefits of perpetual? Explain.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm325771456" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm324417824" list-type="bulleted" bullet-style="bullet">
+<item>The total cost of goods available for sale is a combination of the beginning inventory plus new inventory purchases. These costs relating to goods available for sale are included in the ending inventory, reported on the balance sheet, or become part of the cost of goods sold reported on the income statement.</item>
+<item>Merchandise inventory is maintained using either the periodic or the perpetual updating system. Periodic updating is performed at the end of the period only, whereas perpetual updating is an ongoing activity that maintains inventory records that are approximately equal to the actual inventory on hand at any time.</item>
+<item>There are four basic inventory cost flow allocation methods, which are alternative ways to estimate the cost of the units that are sold and the value of the ending inventory. The costing methods are not indicative of the flow of the goods, which often moves in a different order than the flow of the costs.</item>
+<item>Utilizing different cost allocation options results in marked differences in reported cost of goods sold, net income, and inventory balances.</item>
+</list>
+</section>
+<section id="fs-idm338114512" class="multiple-choice">
+<exercise id="fs-idm351736880">
+<problem id="fs-idm335094112">
+<para id="fs-idm302719424"><link class="lo-reference" document="m67889"/>If a company has four lots of products for sale, purchase 1 (earliest) for $17, purchase 2 (middle) for $15, purchase 3 (middle) for $12, and purchase 4 (latest) for $14, which cost would be assumed to be sold first using LIFO costing?</para>
+<list id="fs-idm345869632" list-type="enumerated" number-style="upper-alpha">
+<item>$17</item>
+<item>$15</item>
+<item>$12</item>
+<item>$14</item>
+</list>
+</problem>
+<solution id="fs-idm338440192">
+<para id="fs-idm364325744">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm331904672">
+<problem id="fs-idm332977808">
+<para id="fs-idm364818304"><link class="lo-reference" document="m67889"/>If a company has three lots of products for sale, purchase 1 (earliest) for $17, purchase 2 (middle) for $15, purchase 3 (latest) for $12, which of the following statements is true?</para>
+<list id="fs-idm494847856" list-type="enumerated" number-style="upper-alpha">
+<item>This is an inflationary cost pattern.</item>
+<item>This is a deflationary cost pattern.</item>
+<item>The next purchase will cost less than $12.</item>
+<item>None of these statements can be verified.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm350849088">
+<problem id="fs-idm345755344">
+<para id="fs-idm352850080"><link class="lo-reference" document="m67889"/>When inventory items are highly specialized, the best inventory costing method is ________.</para>
+<list id="fs-idm365313600" list-type="enumerated" number-style="upper-alpha">
+<item>specific identification</item>
+<item>first-in, first-out</item>
+<item>last-in, first-out</item>
+<item>weighted average</item>
+</list>
+</problem>
+<solution id="fs-idm355372704">
+<para id="fs-idm347684432">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm327394080">
+<problem id="fs-idm322167152">
+<para id="fs-idm362194000"><link class="lo-reference" document="m67889"/>If goods are shipped FOB destination, which of the following is true?</para>
+<list id="fs-idm340108384" list-type="enumerated" number-style="upper-alpha">
+<item>Title to the goods will transfer as soon as the goods are shipped.</item>
+<item>FOB indicates that a price reduction has been applied to the order.</item>
+<item>The seller must pay the shipping.</item>
+<item>The seller and the buyer will each pay 50% of the cost.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm494302528">
+<problem id="fs-idm360876960">
+<para id="fs-idm321921136"><link class="lo-reference" document="m67889"/>On which financial statement would the merchandise inventory account appear?</para>
+<list id="fs-idm303027632" list-type="enumerated" number-style="upper-alpha">
+<item>balance sheet</item>
+<item>income statement</item>
+<item>both balance sheet and income statement</item>
+<item>neither balance sheet nor income statement</item>
+</list>
+</problem>
+<solution id="fs-idm320776400">
+<para id="fs-idm336976464">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm326594704">
+<problem id="fs-idm361142416">
+<para id="fs-idm351051440"><link class="lo-reference" document="m67889"/>When would using the FIFO inventory costing method produce higher inventory account balances than the LIFO method would?</para>
+<list id="fs-idm355167344" list-type="enumerated" number-style="upper-alpha">
+<item>inflationary times</item>
+<item>deflationary times</item>
+<item>always</item>
+<item>never</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm355327040">
+<problem id="fs-idm357966544">
+<para id="fs-idm353149648"><link class="lo-reference" document="m67889"/>Which accounting rule serves as the primary basis for the lower-of-cost-or-market methodology for inventory valuation?</para>
+<list id="fs-idm328994880" list-type="enumerated" number-style="upper-alpha">
+<item>conservatism</item>
+<item>consistency</item>
+<item>optimism</item>
+<item>pessimism</item>
+</list>
+</problem>
+<solution id="fs-idm358093216">
+<para id="fs-idm322375968">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm362805584">
+<problem id="fs-idm339810304">
+<para id="fs-idm323803248"><link class="lo-reference" document="m67889"/>Which type or types of inventory timing system (periodic or perpetual) requires the user to record two journal entries every time a sale is made.</para>
+<list id="fs-idm339229536" list-type="enumerated" number-style="upper-alpha">
+<item>periodic</item>
+<item>perpetual</item>
+<item>both periodic and perpetual</item>
+<item>neither periodic nor perpetual</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm361647456" class="questions">
+<exercise id="fs-idm494871520">
+<problem id="fs-idm331325392">
+<para id="fs-idm358327488"><link class="lo-reference" document="m67889"/>What is meant by the term <emphasis effect="italics">gross margin</emphasis>?</para>
+</problem>
+<solution id="fs-idm327349152">
+<para id="fs-idm334747264">Gross margin refers to the net profit from sale of goods. It is calculated by subtracting cost of goods sold from sales revenue.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm365294384">
+<problem id="fs-idm365799952">
+<para id="fs-idm304786736"><link class="lo-reference" document="m67889"/>Can a business change from one inventory costing method to another any time they wish? Explain.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm324689088">
+<problem id="fs-idm338651648">
+<para id="fs-idm318240880"><link class="lo-reference" document="m67889"/>Why do consignment arrangements present a challenge in inventory management? Explain.</para>
+</problem>
+<solution id="fs-idm325737600">
+<para id="fs-idm365453392">Consigned goods are owned by the consignor, but the goods are physically present in the business of the consignee. Care must be taken not to count goods held on consignment in the company’s physical inventory tally.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm321948896">
+<problem id="fs-idm328025024">
+<para id="fs-idm328417296"><link class="lo-reference" document="m67889"/>Explain the difference between the terms <emphasis effect="italics">FOB destination</emphasis> and <emphasis effect="italics">FOB shipping point</emphasis>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm340607008">
+<problem id="fs-idm303854976">
+<para id="fs-idm363020208"><link class="lo-reference" document="m67889"/>When would a company use the specific identification method of inventory cost allocation?</para>
+</problem>
+<solution id="fs-idm364749312">
+<para id="fs-idm361195328">Specific identification works best for highly differentiated goods, large ticket items, customization, and small lot sizes. In all these cases, it is reasonably easy to keep track of the actual cost of each item, to be used to offset the sales price, when the goods are sold.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm363286816">
+<problem id="fs-idm337366480">
+<para id="fs-idm327683936"><link class="lo-reference" document="m67889"/>Explain why a company might want to utilize the gross profit method or the retail inventory method for inventory valuation.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm347124768">
+<problem id="fs-idm341720752">
+<para id="fs-idm318071648"><link class="lo-reference" document="m67889"/>Describe the goal of the lower-of-cost-or-market concept.</para>
+</problem>
+<solution id="fs-idm328350160">
+<para id="fs-idm350918784">LCM sets out to record a conservative value for inventory by ensuring that goods that have decreased in value since their purchase can be revalued to match their current replacement market value.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm494550256">
+<problem id="fs-idm328298624">
+<para id="fs-idm323566064"><link class="lo-reference" document="m67889"/>Describe two separate and distinct ways to calculate goods available for sale.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm358718304" class="exercise-set-a">
+<exercise id="fs-idm323660592">
+<problem id="fs-idm329023728">
+<para id="fs-idm360697984"><link class="lo-reference" document="m67889"/>Calculate the goods available for sale for Atlantis Company, in units and in dollar amounts, given the following facts about their inventory for the period:</para>
+<media id="fs-idm333096976" class="scaled-down" alt="Chart showing Beginning inventory of 140 units at $75 each, Purchased goods during the period 240 units for $77 each, sold goods during the period 80 units for $125 each, and Purchased goods during the period 220 units for $80 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_EA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm355044208">
+<problem id="fs-idm357513824">
+<para id="fs-idm340662688"><link class="lo-reference" document="m67889"/>E Company accepts goods on consignment from R Company and also purchases goods from S Company during the current month. E Company plans to sell the merchandise to customers during the following month. In each of these independent situations, who owns the merchandise at the end of the current month and should therefore include it in their company’s ending inventory? Choose E, R, or S.</para>
+<list id="fs-idm340132320" list-type="enumerated" number-style="upper-alpha">
+<item>Goods ordered from R, delivered and displayed on E’s showroom floor at the end of the current month.</item>
+<item>Goods ordered from S, in transit, with shipping terms FOB destination.</item>
+<item>Goods ordered from R, in transit, with no stated shipping terms.</item>
+<item>Goods ordered from S, delivered and displayed on E’s showroom floor at the end of the current month, with shipping terms FOB destination.</item>
+<item>Goods ordered from S, in transit, with shipping terms FOB shipping point.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm323551792">
+<problem id="fs-idm324129872">
+<para id="fs-idm358072672"><link class="lo-reference" document="m67889"/>The following information is taken from a company’s records. Applying the lower-of-cost-or-market approach, what is the correct value that should be reported on the balance sheet for the inventory?</para>
+<media id="fs-idm364901248" class="scaled-down" alt="Chart showing Cost per Unit and Market Value per Unit respectively for Inventory item 1 (10 units) at $36 and $35, Inventory item 2 (25 units) at $20 and $20, and Inventory item 3 (12 units) at $6 and $8.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_EA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm323078048" class="exercise-set-b">
+<exercise id="fs-idm323334752">
+<problem id="fs-idm338025920">
+<para id="fs-idm322277216"><link class="lo-reference" document="m67889"/>Calculate the goods available for sale for Soros Company, in units and in $ (dollar amounts), given the following facts about their inventory for the period.</para>
+<media id="fs-idm329789200" class="scaled-down" alt="Chart showing Beginning inventory of 1,100 units at $20 each, Purchased goods during the period 800 units for $20 each, sold goods during the period 700 units for $37 each, and Purchased goods during the period 650 units for $21 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_EB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm325914320">
+<problem id="fs-idm321895856">
+<para id="fs-idm341386336"><link class="lo-reference" document="m67889"/>X Company accepts goods on consignment from C Company, and also purchases goods from P Company during the current month. X Company plans to sell the merchandise to customers during the following month. In each of these independent situations, who owns the merchandise at the end of the current month, and should therefore include it in their company’s ending inventory? Choose X, C, or P.</para>
+<list id="fs-idm328383392" list-type="enumerated" number-style="upper-alpha">
+<item>Goods ordered from P, in transit, with shipping terms FOB destination.</item>
+<item>Goods ordered from P, in transit, with shipping terms FOB shipping point.</item>
+<item>Goods ordered from P, inventory in stock, held in storage until floor space is available.</item>
+<item>Goods ordered from C, inventory in stock, set aside for customer pickup and payments to finalize sale.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm323608464">
+<problem id="fs-idm345783472">
+<para id="fs-idm328065152"><link class="lo-reference" document="m67889"/>Considering the following information, and applying the lower-of-cost-or-market approach, what is the correct value that should be reported on the balance sheet for the inventory?</para>
+<media id="fs-idm339164608" class="scaled-down" alt="Chart showing Cost per Unit and Market Value per Unit respectively for Inventory item 1 (20 units) at $100 and $95, Inventory item 2 (30 units) at 75 and 70, and Inventory item 3 (45 units) at 50 and 55.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_EB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm320367408" class="problem-set-a">
+<exercise id="fs-idm318934880">
+<problem id="fs-idm337344896">
+<para id="fs-idm351791840"><link class="lo-reference" document="m67889"/>When prices are rising (inflation), which costing method would produce the <emphasis effect="italics">highest</emphasis> value for gross margin? Choose between first-in, first-out (FIFO); last-in, first-out (LIFO); and weighted average (AVG).</para>
+<para id="fs-idm327722768">Evansville Company had the following transactions for the month.</para>
+<media id="fs-idm366834960" class="scaled-down" alt="Chart showing three purchases: 2 units for $6,000, 3 units for $7,000, and 4 units for $7,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_PA02_img.jpg"/>
+</media>
+<para id="fs-idm332946064">Calculate the gross margin for each of the following cost allocation methods, assuming A62 sold just one unit of these goods for $10,000. Provide your calculations.</para>
+<list id="fs-idm338104544" list-type="enumerated" number-style="upper-alpha">
+<item>first-in, first-out (FIFO)</item>
+<item>last-in, first-out (LIFO)</item>
+<item>weighted average (AVG)</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm356780560" class="problem-set-b">
+<exercise id="fs-idm345826096">
+<problem id="fs-idm326532256">
+<para id="fs-idm363346272"><link class="lo-reference" document="m67889"/>When prices are falling (deflation), which costing method would produce the <emphasis effect="italics">highest</emphasis> gross margin for the following? Choose first-in, first-out (FIFO); last-in, first-out (LIFO); or weighted average, assuming that B62 Company had the following transactions for the month.</para>
+<media id="fs-idm356848976" class="scaled-down" alt="Chart showing three purchases: 10 units at $200 each, 20 units at $205 each, and 10 units at $230 each, for a total of 40 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_01_PB02_img.jpg"/>
+</media>
+<para id="fs-idm326054208">Calculate the gross margin for each of the following cost allocation methods, assuming B62 sold just one unit of these goods for $400. Provide your calculations.</para>
+<list id="fs-idm309667536" list-type="enumerated" number-style="upper-alpha">
+<item>first-in, first-out (FIFO)</item>
+<item>last-in, first-out (LIFO)</item>
+<item>weighted average (AVG)</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm331504288" class="thought-provokers">
+<exercise id="fs-idm357450256">
+<problem id="fs-idm344182112">
+<para id="fs-idm333614624"><link class="lo-reference" document="m67889"/>Search the SEC website (https://www.sec.gov/edgar/searchedgar/companysearch.html) and locate the latest Form 10-K for a company you would like to analyze. When you are choosing, make sure the company sells a product (has inventory on the balance sheet and cost of goods sold on the income statement). Submit a short memo that states the following:</para>
+<list id="fs-idm333103200" list-type="enumerated" number-style="lower-alpha">
+<item>The name and ticker symbol of the company you have chosen.</item>
+<item>Answer the following questions from the company’s statement of Form 10-K financial statements:
+<list id="fs-idm331309680" list-type="bulleted">
+<item>What amount of merchandise inventory does the company report on their balance sheet?</item>
+<item>What amount of cost of goods sold does the company report on their income statement?</item>
+</list></item>
+</list>
+<para id="fs-idm360580768">Provide the weblink to the company’s Form 10-K, to allow accurate verification of your answers.</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm363993824">
+<term>conservatism</term>
+<meaning id="fs-idm322087968">concept that if there is uncertainty in a potential financial estimate, a company should err on the side of caution and report the most conservative amount</meaning>
+</definition>
+<definition id="fs-idm340710032">
+<term>consignment</term>
+<meaning id="fs-idm366896992">arrangement whereby goods are available to sell by one party, but owned by another party, without transfer of ownership</meaning>
+</definition>
+<definition id="fs-idm365342080">
+<term>consistency principle</term>
+<meaning id="fs-idm339067904">accounting methods applied in a like manner, across multiple periods, allow for contrast and comparison between periods</meaning>
+</definition>
+<definition id="fs-idm318160880">
+<term>first-in, first-out method (FIFO)</term>
+<meaning id="fs-idm363169904">inventory cost allocation method that assumes the earliest acquired inventory items are the first to be sold</meaning>
+</definition>
+<definition id="fs-idm329106640">
+<term>FOB destination point</term>
+<meaning id="fs-idm340173248">transportation terms whereby the seller transfers ownership and financial responsibility at the time of delivery</meaning>
+</definition>
+<definition id="fs-idm329681968">
+<term>FOB shipping point</term>
+<meaning id="fs-idm335523456">transportation terms whereby the seller transfers ownership and financial responsibility at the time of shipment</meaning>
+</definition>
+<definition id="fs-idm334690464">
+<term>goods available for sale</term>
+<meaning id="fs-idm337336944">total of all inventory (beginning inventory plus purchased inventory); will either be sold this period or held in period-end inventory</meaning>
+</definition>
+<definition id="fs-idm320904816">
+<term>gross profit</term>
+<meaning id="fs-idm334711904">net profit from sale of goods; sales revenue minus cost of goods sold</meaning>
+</definition>
+<definition id="fs-idm304444832">
+<term>gross profit method</term>
+<meaning id="fs-idm353332864">inventory estimation tool that uses a company’s usual gross profit percentage, related to total sales revenue, to estimate the cost of the ending inventory</meaning>
+</definition>
+<definition id="fs-idm343668320">
+<term>last-in, first-out method (LIFO)</term>
+<meaning id="fs-idm355113552">inventory cost allocation method that assumes the latest acquired inventory items are the first to sell</meaning>
+</definition>
+<definition id="fs-idm304712160">
+<term>lower-of-cost-or-market (LCM)</term>
+<meaning id="fs-idm304363392">conservatism-based concept that mandates inventory be reported at the lower of the value of inventory reflected in the general ledger or replacement value</meaning>
+</definition>
+<definition id="fs-idm305020400">
+<term>merchandise inventory</term>
+<meaning id="fs-idm332509648">goods held for sale at a given point in the period</meaning>
+</definition>
+<definition id="fs-idm323277216">
+<term>periodic inventory system</term>
+<meaning id="fs-idm319714448">system that is updated at the end of the period, to match the physical count of goods on hand</meaning>
+</definition>
+<definition id="fs-idm352814688">
+<term>perpetual inventory system</term>
+<meaning id="fs-idm364979088">system that automatically updates and records the inventory account every time a sale or purchase of inventory occurs</meaning>
+</definition>
+<definition id="fs-idm358870864">
+<term>purchases</term>
+<meaning id="fs-idm352173840">new acquisitions of merchandise inventory during the period</meaning>
+</definition>
+<definition id="fs-idm356738928">
+<term>retail inventory method</term>
+<meaning id="fs-idm305166928">inventory estimation tool that uses a company’s usual gross profit percentage, related to total sales revenue, to estimate the retail value of the ending inventory, which can then be reduced to an estimated cost figure</meaning>
+</definition>
+<definition id="fs-idm327975808">
+<term>specific identification method</term>
+<meaning id="fs-idm362913072">inventory cost allocation method that traces actual cost of each specific item, whether sold or held in inventory; usually used for customized or differentiated products</meaning>
+</definition>
+<definition id="fs-idm338191952">
+<term>weighted-average method</term>
+<meaning id="fs-idm304236592">inventory cost allocation method that calculates the average value inventory items by weighting each purchase lot’s goods available for sale, before dividing by the total number of units of that item</meaning>
+</definition>
+</glossary>
+</document>

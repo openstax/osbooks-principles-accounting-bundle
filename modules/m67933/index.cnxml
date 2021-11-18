@@ -1,0 +1,209 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Prepare the Completed Statement of Cash Flows Using the Indirect Method</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67933</md:content-id>
+  <md:title>Prepare the Completed Statement of Cash Flows Using the Indirect Method</md:title>
+  <md:abstract/>
+  <md:uuid>703ea76d-938c-457f-883d-e7d4a6c641e3</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm264012992">In this section, we use the example of Virtual Co. to work through the entire process of preparing the company’s statement of cash flows using the <term class="no-emphasis">indirect method</term>. Virtual’s comparative balance sheet and income statement are provided as a base for the preparation of the statement of cash flows.</para>
+<section id="fs-idm258787712">
+<title>Review Problem: Preparing the Virtual Co. Statement of Cash Flows</title>
+<figure id="OSX_Acct_F16_05_CBalSheet">
+<media id="fs-idm235019328" alt="Virtual Company Comparative Balance Sheet December 31. Assets: Cash, Accounts Receivable, Prepaid Insurance, Investments, Plant Assets, Accumulated Depreciation, and Total Assets for 2018, 2017, and Change (increase or decrease), respectively: $66,700, $83,250, $(16,550); 55,400, 54,220, 1,180; 2,400, 3,600, (1,200; 95,000, 75,000, 20,000; 356,000, 290,000, 66,000; (65,700), 36,700, (29,000); 509,800, 469,370, 40,430. Liabilities and Equity: Liabilities: Accounts Payable, Notes Payable, Total Liabilities for 2018, 2017, and Change (increase or decrease), respectively: $48,100, 47,300, 800; 160,000, 100,000, (25,000); 208,100, 232,300, (24,200). Equity: Common Stock, Retained Earnings, Total Equity, Total Liabilities and Equity, respectively: 130,000, 100,000, 30,000 increase; 171,700, 137,070, 34,630; 301,700, 237,070, 64,630; 509,800, 469,370, 40,430.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_05_CBalSheet.jpg"/>
+</media>
+<caption>Comparative Balance Sheet. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<figure id="OSX_Acct_F16_05_CIncStmt">
+<media id="fs-idm248941392" class="scaled-down" alt="Virtual Company. Income Statement, for the Year Ended December 31, 2018. Sales Revenue $433,000. Cost of Goods Sold 289,000. Gross Profit 144,000. Operating Expenses. Depreciation Expense 29,000. Insurance Expense 14,400. Other Operating Expenses 57,200. Total Operating Expenses 100,600. Operating Income 43,400. Other Revenue and Expenses: Gain on Sale of Land 17,500. Total Other Revenue and Expenses 17,500. Income before Income Tax 60,900. Income Tax Expense 18,270. Net Income 42,630.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_05_CIncStmt.jpg"/>
+</media>
+<caption>Income Statement. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm250959344"><emphasis effect="bold">Additional Information</emphasis></para>
+<para id="fs-idm262097248">The following additional information is provided:</para>
+<list id="fs-idm263695024" list-type="enumerated" number-style="arabic">
+<item>Investments that originally cost $30,000 were sold for $47,500 cash.</item>
+<item>Investments were purchased for $50,000 cash.</item>
+<item>Plant assets were purchased for $66,000 cash.</item>
+<item>Cash dividends were declared and paid to shareholders in the amount of $8,000.</item>
+</list>
+<para id="fs-idm262175184"><emphasis effect="bold">Directions:</emphasis></para>
+<para id="fs-idm252996432">Prepare the statement of cash flows (indirect method), for the year ended December 31, 2018.</para>
+<figure id="OSX_Acct_F16_05_SCFlow">
+<media id="fs-idm248669712" alt="Virtual Company. Statement of Cash Flows: Indirect Method. Year Ended December 31, 2018. Cash flow from operating activities: Net income $42,630. Adjustments to reconcile net income to net cash flow from operating activities: Depreciation $29,000. Gain on sale of plant assets (17,500). Accounts receivable decrease 1,180. Prepaid insurance decrease 1,200. Accounts payable increase 800. Net Cash Flow: Operating Activities 54,950. Cash flow from investing activities: Proceeds from sale of investments $47,500. Cost of investments purchased (50,000). Cost of new plant assets (66,000). Net cash flow: Investing activities ($68,500). Cash flow from financing activities: Payment of notes payable (principal) (25,000). Issuance of common stock 30,000. Payment of dividends (8,000). Net cash flow: Financing activities (3,000). Total cash flow decrease 16,550. Cash balance December 31, 2017 83,250. Cash balance December 31, 2018 $66,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_05_SCFlow.jpg"/>
+</media>
+<caption>Statement of Cash Flows. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm245761312" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm262142224" list-type="bulleted" bullet-style="bullet">
+<item>Preparing the operating section of statement of cash flows by the indirect method starts with net income from the income statement and adjusts for items that affect cash flows differently than they affect net income.</item>
+<item>Multiple levels of adjustments are required to reconcile accrual-based net income to cash flows from operating activities.</item>
+<item>The investing section of the statement of cash flows relates to changes in long-term assets.</item>
+<item>The financing section of statement of cash flows relates to changes in long-term liabilities and changes in equity.</item>
+<item>Company activities that reflect changes in long-term assets, long-term liabilities, or equity, but have no cash impact, require special reporting treatment, as noncash investing and financing transactions.</item>
+</list>
+</section>
+<section id="fs-idm234148912" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm264742512">
+<problem id="fs-idm250689856">
+<para id="fs-idm260239424"><link class="lo-reference" document="m67933"/>If beginning cash equaled $10,000 and ending cash equals $19,000, which is true?</para>
+<list id="fs-idm255363104" list-type="enumerated" number-style="upper-alpha">
+<item>Operating cash flow 9,000; Investing cash flow (3,500); Financing cash flow (2,500)</item>
+<item>Operating cash flow 4,500; Investing cash flow 9,000; Financing cash flow (4,500)</item>
+<item>Operating cash flow 2,000; Investing cash flow (13,000); Financing cash flow 2,000</item>
+<item>none of the above</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm255575824" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm259920512">
+<problem id="fs-idm246736464">
+<para id="fs-idm259197328"><link class="lo-reference" document="m67933"/>Is there any significance that can be attributed to whether net cash flows are generated from operating activities, versus investing and/or financing activities? Explain.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm234406624">
+<problem id="fs-idm257089312">
+<para id="fs-idm249293696"><link class="lo-reference" document="m67933"/>Would there ever be activities that relate to operating, investing, or financing activities that would not be reported in their respective sections of the statement of cash flows? Explain. If a company had any such activities, how would they be reported in the financial statements, if at all?</para>
+</problem>
+<solution id="fs-idm265515264">
+<para id="fs-idm265829856">Yes. Some investing and/or financing transactions do not have a cash impact initially. Examples include purchases of long-term assets that are paid for with long-term debt financing, acquisitions of long-term assets in exchange for corporate stock, and repayment of long-term debt using noncash assets. These noncash investing/financing activities would be reported in the notes to the financial statements, or as a notation on the bottom of the statement of cash flows, but not considered an integral part of the statement.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm252425408" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm249244816">
+<problem id="fs-idm255157440">
+<para id="fs-idm255196016"><link class="lo-reference" document="m67933"/>Provide the missing piece of information for the following statement of cash flows puzzle.</para>
+<media id="fs-idm258145664" class="scaled-down" alt="Cash flows from operating activities $60,000. Cash flows from investing activities (28,500). Cash flows from financing activities ?. Cash at the beginning of the year 12,000. Cash at the end of the year 19,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_05_EA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm255040080">
+<problem id="fs-idm260151360">
+<para id="fs-idm251065568"><link class="lo-reference" document="m67933"/>Provide the missing piece of information for the following statement of cash flows puzzle.</para>
+<media id="fs-idm258685568" class="scaled-down" alt="Cash flows from operating activities $ ?. Cash flows from investing activities 8,900. Cash flows from financing activities (25,000). Cash at the beginning of the year 24,000. Cash at the end of the year 22,100.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_05_EA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm248039008" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm264049856">
+<problem id="fs-idm251305808">
+<para id="fs-idm250850448"><link class="lo-reference" document="m67933"/>Provide the missing piece of information for the following statement of cash flows puzzle.</para>
+<media id="fs-idm262053680" class="scaled-down" alt="Cash flows from operating activities $75,000. Cash flows from investing activities 13,300. Cash flows from financing activities (33,000). Cash at the beginning of the year ?. Cash at the end of the year 65,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_05_EB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm252520864">
+<problem id="fs-idm263680576">
+<para id="fs-idm263562176"><link class="lo-reference" document="m67933"/>Provide the missing piece of information for the following statement of cash flows puzzle.</para>
+<media id="fs-idm252424800" class="scaled-down" alt="Cash flows from operating activities $88,000. Cash flows from investing activities ?. Cash flows from financing activities (45,000). Cash at the beginning of the year 77,000. Cash at the end of the year 113,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_05_EB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm260832112" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm248542752">
+<problem id="fs-idm253028416">
+<para id="fs-idm250855024"><link class="lo-reference" document="m67933"/>Use the following excerpts from Zowleski Company’s financial information to prepare a statement of cash flows (indirect method) for the year 2018.</para>
+<media id="fs-idm250853040" alt="Cash, Account Receivable, Merchandise Inventory, Plant Assets, Accumulated Depreciation, Total Assets, Accounts Payable, Notes Payable, Common Stock, Retained Earnings, Total Liabilities and Equity December 31, 2018, respectively: $92,300, 22,000, 140,000, 180,000, (25,000), 409,300, 18,500, 135,500, 20,000, 235,300, 409,300. Additional information: Net Income for 2018, Depreciation Expense for 2018 (Accumulated Depreciation increase), Plant Assets purchased (Plant Assets increase), financed by note, Notes Payable increased by amount of plant asset purchase, Notes Payable decreased by amount of principal note payments: 28,400, 4,000, 30,000, 30,000, 14,500. Cash, Account Receivable, Merchandise Inventory, Plant Assets, Accumulated Depreciation, Total Assets, Accounts Payable, Notes Payable, Common Stock, Retained Earnings, Total Liabilities and Equity December 31, 2017, respectively: $85,000, 22,900, 131,000, 150,000, (21,000), 367,900, 21,000,120,000,20,000, 206,900, 367,900.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_05_PA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm246582592">
+<problem id="fs-idm253757184">
+<para id="fs-idm261330944"><link class="lo-reference" document="m67933"/>Use the following excerpts from Yardley Company’s financial information to prepare a statement of cash flows (indirect method) for the year 2018.</para>
+<media id="fs-idm250701824" alt="Income Statement items: Sales $455,000. Cost of goods sold (221,500). Operating expenses, other than depreciation expense (58,600). Depreciation expense (24,000). Gain on sale of plant assets 23,500. Net income 174,400. Balance Sheet items: December 31, 2018: Cash $321,450. Accounts receivable 39,750. Inventory 33,000. Accounts payable 17,550. Accrued liabilities 3,500. December 31, 2017: Cash $133,500. Accounts receivable 36,500. Inventory 35,000. Accounts payable 19,550. Accrued liabilities 2,200. Additional information: Plant assets were sold for $40,000; book value $16,500. Dividends of $25,000 were declared and paid.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_05_PA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm248866032">
+<problem id="fs-idm234166016">
+<para id="fs-idm255355984"><link class="lo-reference" document="m67933"/>Use the following excerpts from Wickham Company’s financial information to prepare a statement of cash flows (indirect method) for the year 2018.</para>
+<media id="fs-idm262176576" alt="Cash, Account Receivable, Merchandise Inventory, Land, Plant Assets, Accumulated Depreciation, Total Assets, Accounts Payable, Accrued Liabilities, Common Stock, Retained Earnings, Total Liabilities and Equity December 31, 2018, respectively: $225,000, 38,350, 59,500, 150,000, 160,000, (49,000), 583,850, 29,100, 15,500, 45,000, 494,250, 583,850. Additional information: Net Income for 2018, Depreciation Expense for 2018, Land purchased, for cash, Stock issued in exchange for cash, at par value, Dividends declared and paid, respectively: 98,000, 12,000, 100,000, 25,000,11,000. Cash, Account Receivable, Merchandise Inventory, Land, Plant Assets, Accumulated Depreciation, Total Assets, Accounts Payable, Accrued Liabilities, Common Stock, Retained Earnings, Total Liabilities and Equity December 31, 2017, respectively: $200,000, 35,350, 58,200, 50,000, 160,000, (37,000), 466,550, 27,300, 12,000, 20,000, 407,250, 466,550.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_05_PA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm263993984">
+<problem id="fs-idm250110080">
+<para id="fs-idm253093136"><link class="lo-reference" document="m67933"/>Use the following excerpts from Tungsten Company’s financial information to prepare a statement of cash flows (indirect method) for the year 2018.</para>
+<media id="fs-idm258251072" alt="Beginning cash $18,444. Net Income 36,500. Depreciation expense 11,000. Accounts receivable change (8,300). Inventory change 4,900. Prepaid assets change 3,400. Investments change (no asset sales) 10,000. Accounts payable change 450. Note payable principal balance change (no new loans) (9,400). Common stock balance change (due to stock issuance) 20,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_05_PA04_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm260951024" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm249243984">
+<problem id="fs-idm259094048">
+<para id="fs-idm234142016"><link class="lo-reference" document="m67933"/>Use the following excerpts from Stern Company’s financial information to prepare a statement of cash flows (indirect method) for the year 2018.</para>
+<media id="fs-idm254985968" alt="Cash, Account Receivable, Merchandise Inventory, Land, Plant Assets, Accumulated Depreciation, Total Assets, Accounts Payable, Notes Payable, Common Stock, Retained Earnings, Total Liabilities and Equity December 31, 2018, respectively: $121,000, 37,200, 120,000, 304,000, (85,000), 497,200, 23,200, 179,500, 30,000, 264,500, 497,200. Additional Information: Net Income for 2018, Depreciation Expense for 2018 (Accumulated Depreciation increase), Plant Assets purchased (Plant Assets increase), financed by note, Notes Payable increased by amount of plant asset purchase, Notes Payable decreased by amount of principal note payments, respectively: 3,400, 21,000, 50,000, 50,000, 14,500. Cash, Account Receivable, Merchandise Inventory, Land, Plant Assets, Accumulated Depreciation, Total Assets, Accounts Payable, Notes Payable, Common Stock, Retained Earnings, Total Liabilities and Equity December 31, 2017, respectively: $101,000, 35,3000, 128,700, 254,000, (64,000), 455,000, 19,900, 144,000, 30,000, 261,100, 455,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_05_PB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm254995440">
+<problem id="fs-idm253018336">
+<para id="fs-idm258707488"><link class="lo-reference" document="m67933"/>Use the following excerpts from Unigen Company’s financial information to prepare the operating section of the statement of cash flows (indirect method) for the year 2018.</para>
+<media id="fs-idm264962688" alt="2018 Income Statement items: Sales $777,000. Cost of goods sold (555,000). Operating expenses, other than depreciation expense (22,000). Depreciation expense (44,000). Loss on sale of plant assets (11,000). Net income 145,000. Balance Sheet items: December 31, 2018: Cash 429,850. Accounts receivable 63,300. Inventory 2,400. Accounts payable 35,000. Accrued liabilities 2,100. December 31, 2017: Cash 228,700. Accounts receivable 63,000. Inventory 2,800. Accounts payable 37,400. Accrued liabilities 2,650. Additional information: Plant assets were sold for $22,000; book value $33,000. Dividends of $18,000 were declared and paid.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_05_PB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm265491648">
+<problem id="fs-idm261849024">
+<para id="fs-idm248146144"><link class="lo-reference" document="m67933"/>Use the following excerpts from Mountain Company’s financial information to prepare a statement of cash flows (indirect method) for the year 2018.</para>
+<media id="fs-idm258171216" class="scaled-down" alt="Cash, Account Receivable, Merchandise Inventory, Investments, Plant Assets, Accumulated Depreciation, Total Assets, Accounts Payable, Accrued Liabilities, Common Stock, Retained Earnings, Total Liabilities and Equity December 31, 2018, respectively: $100,000, 19,000, 29,000, 132,000, 90,000, (37,000), 333,000, 12,100, 2,400, 81,000, 237,500, 333,000. Additional information: Net Income (loss) for 2018, Depreciation Expense for 2018, Investments purchased, Common Stock issued for cash, at par value for cash, Dividends declared and paid, respectively: (5,700), 14,000, 12,000, 18,000, 8,000. Cash, Account Receivable, Merchandise Inventory, Investments, Plant Assets, Accumulated Depreciation, Total Assets, Accounts Payable, Accrued Liabilities, Common Stock, Retained Earnings, Total Liabilities and Equity December 31, 2017, respectively: $93,000, 18,000, 31,500, 120,000, 90,000, (23,000), 329,500, 13,400, 1,900, 63,000, 251,200, 329,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_05_PB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm250997008">
+<problem id="fs-idm260575728">
+<para id="fs-idm257485936"><link class="lo-reference" document="m67933"/>Use the following excerpts from OpenAir Company’s financial information to prepare a statement of cash flows (indirect method) for the year 2018.</para>
+<media id="fs-idm264531184" class="scaled-down" alt="Beginning cash $120,000. Net Income 87,500. Depreciation expense 22,000. Accounts Receivable change 8,900. Inventory change (6,500). Prepaid assets change 2,400. Investments change (no asset sales) 30,000. Accounts payable change (800). Note payable principal balance change (no new loans) (21,000). Common stock balance change (due to stock issuance) 36,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_05_PB04_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm249324736" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm248049216">
+<problem id="fs-idm259137248">
+<para id="fs-idm256379024"><link class="lo-reference" document="m67933"/>Use the <link url="https://openstax.org/l/50EDGAR">EDGAR (Electronic Data Gathering, Analysis, and Retrieval system) search tools on the US Securities and Exchange Commission website</link> to locate the latest Form 10-K for a company you would like to analyze. Pick a company and submit a short memo that provides the following information:</para><list id="fs-idm248450256" list-type="bulleted" bullet-style="bullet">
+<item>The name and ticker symbol of the company you have chosen.</item>
+<item>A description of two items from the company’s statement of cash flows:
+<list id="fs-idm260716416" list-type="bulleted" bullet-style="circle">
+<item>One familiar item that you expected to be reported on the statement, based on what you’ve learned about cash flows</item>
+<item>One unfamiliar item that you did not expect to be on the statement, based on what you’ve learned about cash flows</item>
+</list></item>
+<item>The URL to the company’s Form 10-K to allow accurate verification of your answers</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+</document>

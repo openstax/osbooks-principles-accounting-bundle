@@ -1,0 +1,194 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Examine the Efficiency of Inventory Management Using Financial Ratios</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67893</md:content-id>
+  <md:title>Examine the Efficiency of Inventory Management Using Financial Ratios</md:title>
+  <md:abstract/>
+  <md:uuid>6b98cb3e-6be1-4eeb-b73b-25af72d01497</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm221369136">Inventory is a large investment for many companies so it is important that this asset be managed wisely. Too little inventory means lost sales opportunities, whereas too much inventory means unproductive investment of resources as well as extra costs related to storage, care, and protection of the inventory. Ratio analysis is used to measure how well management is doing at maintaining just the right amount of inventory for the needs of their particular business.</para>
+<para id="fs-idm229020784">Once calculated, these ratios should be compared to previous years’ ratios for the company, direct competitors’ ratios, industry ratios, and other industries’ ratios. The insights gained from the <term class="no-emphasis">ratio analysis</term> should be used to augment analysis of the general strength and stability of the company, with the full data available in the annual report, including financial statements and notes to the financial statement.</para>
+<section id="fs-idm221769680">
+<title>Fundamentals of Inventory Ratios</title>
+<para id="fs-idm221933104">Inventory ratio analysis relates to how well the inventory is being managed. Two ratios can be used to assess how efficiently management is handling inventory. The first ratio, inventory turnover, measures the number of times an average quantity of inventory was bought and sold during the period. The second ratio, number of days’ sales in inventory, measures how many days it takes to complete the cycle between buying and selling inventory.</para>
+</section>
+<section id="fs-idm221412144">
+<title>Calculating and Interpreting the Inventory Turnover Ratio</title>
+<para id="fs-idm217881792"><term>Inventory turnover ratio</term> is computed by dividing cost of goods sold by average inventory. The ratio measures the number of times inventory rotated through the sales cycle for the period. Let’s review how this works for The Spy Who Loves You dataset. This example scenario relates to the FIFO periodic cost allocation, using those previously calculated values for year 1 cost of goods sold, beginning inventory, and ending inventory, and assuming a 10% increase in inventory activity for year 2, as shown in <link target-id="OSX_Acct_F10_05_Example01"/>.</para>
+<figure id="OSX_Acct_F10_05_Example01">
+<media id="fs-idm189767696" alt="Balance Sheet Year 1 has: Beginning Inventory $3,150 plus Purchases 13,005 equals Goods Available for Sale 16,155 minus Ending Inventory 8,955. This equals the Cost of Goods Sold of $7,200 which would be on the Income Statement for Year 1. Balance Sheet Year 2 has: Beginning Inventory $8,955 plus Purchases 8,816 equals Goods Available for Sale 17,771 minus Ending Inventory 9,851. This equals the Cost of Goods Sold of $7,920 which would be on the Income Statement for Year 2. Note: Year 2 values for Sales, Goods Available, and Ending Inventory were estimated, based on 110 percent of Year 1’s amounts.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_05_Example01.jpg"/>
+</media>
+<caption>Excerpts from Financial Statements of The Spy Who Loves You Company. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm223108416">The inventory turnover ratio is calculated by dividing cost of goods sold by average inventory. The result for the Spy Who Loves You Company indicates that the inventory cycled through the sales cycle 1.19 times in year 1, and 0.84 times in year 2.</para>
+<media id="fs-idm226682160" alt="Inventory Turnover Ratio calculation for year 1 and 2: Year 1: Cost of Goods Sold $7,200 divided by Average Inventory* 6,053 equals Inventory Turnover of 1.19. Year 2: Cost of Goods Sold $7,920 divided by Average Inventory* 9,403 equals Inventory Turnover of 0.84. *Average Inventory Year 1 equals (3,150 plus 8,955) divided by 2; Average Inventory Year 2 equals (8,955 plus 9,851) divided by 2.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_05_Inv01_img.jpg"/>
+</media>
+<para id="fs-idm231767008">The fact that the year 2 inventory turnover ratio is lower than the year 1 ratio is not a positive trend. This result would alert management that the inventory balance might be too high to be practical for this volume of sales. Comparison should also be made to competitor and industry ratios, while consideration should also be given to other factors affecting the company’s financial health as well as the strength of the overall market economy.</para>
+</section>
+<section id="fs-idm223925920">
+<title>Calculating and Interpreting the Days’ Sales in Inventory Ratio</title>
+<para id="fs-idm216752560"><term>Number of days’ sales in inventory ratio</term> is computed by dividing average merchandise inventory by the average daily cost of goods sold. The ratio measures the number of days it would take to clear the remaining inventory. Let’s review this using The Spy Who Loves You dataset. The example scenario relates to the FIFO periodic cost allocation, using those previously calculated values for year 1 cost of goods sold, beginning inventory, and ending inventory, and assuming a 10% increase in inventory activity for year 2, as in <link target-id="OSX_Acct_F10_05_Example02"/>.</para>
+<figure id="OSX_Acct_F10_05_Example02">
+<media id="fs-idm231212720" alt="Balance Sheet Year 1 has: Beginning Inventory $3,150 plus Purchases 13,005 equals Goods Available for Sale 16,155 minus Ending Inventory 8,955. This equals the Cost of Goods Sold of $7,200 which would be on the Income Statement for Year 1. Balance Sheet Year 2 has: Beginning Inventory $8,955 plus Purchases 8,816 equals Goods Available for Sale 17,771 minus Ending Inventory 9,851. This equals the Cost of Goods Sold of $7,920 which would be on the Income Statement for Year 2. Note: Year 2 values for Sales, Goods Available, and Ending Inventory were estimated, based on 110 percent of Year 1’s amounts.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_05_Example02.jpg"/>
+</media>
+<caption>Excerpts from Financial Statements of The Spy Who Loves You Company. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm228098880">The number of days’ sales in inventory ratio is calculated by dividing average inventory by average daily cost of goods sold. The result for the Spy Who Loves You indicates that it would take about 307 days to clear the average inventory held in year 1 and about 433 days to clear the average inventory held in year 2.</para>
+<media id="fs-idm225915472" alt="Table showing Number of Day’s Sales in Inventory Ratio calculation: Year 1: Average Inventory* 6,053 divided by Average Daily Cost of Goods Sold** 19.73 equals Days’ Sales in Inventory $306.79. Year 2: Average Inventory* 9,403 divided by Average Daily Cost of Goods Sold** 21.70 equals Days’ Sales in Inventory $433.32. *Average Inventory Year 1 equals (3,150 plus 8,955) divided by 2; Average Inventory Year 2 equals (8,955 plus 9,851) divided by 2. **Average Daily Cost of Goods Sold Year 1 equals (7,200 divided by 365); Average Daily Cost of Goods Sold Year 2 equals (7,920 divided by 365).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_05_Inv02_img.jpg"/>
+</media>
+<para id="fs-idm227088944">Year 2’s number of days’ sales in inventory ratio increased over year 1’s ratio results, indicating an unfavorable change. This result would alert management that it is taking much too long to sell the inventory, so reduction in the inventory balance might be appropriate, or as an alternative, increased sales efforts could turn the ratio toward a more positive trend. This ratio is useful to identify cases of obsolescence, which is especially prevalent in an evolving market, such as the technology sector of the economy. As with any ratio, comparison should also be made to competitor and industry ratios, while consideration should also be given to other factors affecting the company’s financial health, as well as to the strength of the overall market economy.</para>
+<note id="fs-idm218796064" class="link-to-learning">
+<para id="fs-idm222852976">Check out <link url="https://openstax.org/l/50TurnoverRatio">Investopedia for help with calculation and analysis of ratios and their discussion about the inventory turnover ratio</link> to learn more.</para>
+</note>
+</section>
+<section id="fs-idm220939504" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm218868816" list-type="bulleted" bullet-style="bullet">
+<item>Inventory ratio analysis tools help management to identify inefficient management practices and pinpoint troublesome scenarios within their inventory operations processes.</item>
+<item>The inventory turnover ratio measures how fast the inventory sells, which can be useful for inter-period comparison as well as comparisons with competitor firms.</item>
+<item>The number of days’ sales in inventory ratio indicates how long it takes for inventory to be sold, on average, which can help the firm identify instances of too much or too little inventory, indicating such cases as product obsolescence or excess stocking, or the reverse scenario: insufficient inventory, which could result in customer dissatisfaction and lost sales.</item>
+</list>
+</section>
+<section id="fs-idm227449520" class="multiple-choice">
+<exercise id="fs-idm231699696">
+<problem id="fs-idm232352368">
+<para id="fs-idm228854992"><link class="lo-reference" document="m67893"/>Which of the following indicates a positive trend for inventory management?</para>
+<list id="fs-idm225808752" list-type="enumerated" number-style="upper-alpha">
+<item>increasing number of days’ sales in inventory ratio</item>
+<item>increasing inventory turnover ratio</item>
+<item>increasing cost of goods sold</item>
+<item>increasing sales revenue</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm220175440" class="questions">
+<exercise id="fs-idm214422144">
+<problem id="fs-idm226780528">
+<para id="fs-idm223718864"><link class="lo-reference" document="m67893"/>Explain the difference between the flow of cost and the flow of goods as it relates to inventory.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm226684384">
+<problem id="fs-idm208288576">
+<para id="fs-idm225721984"><link class="lo-reference" document="m67893"/>What insights can be gained from inventory ratio analysis, such as inventory turnover ratio and number of days’ sales in inventory ratio?</para>
+</problem>
+<solution id="fs-idm222603040">
+<para id="fs-idm225869728">The inventory turnover ratio reveals the liquidity of the inventory by highlighting how many times during the year the entire inventory cycle could be rotated, based on the cost of the inventory sold, compared to the average cost of the unsold inventory. Days’ sales in inventory reveals how many days it typically takes to turn inventory around, from date of purchase to date of sale.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm222600976" class="exercise-set-a">
+<exercise id="fs-idm223184928">
+<problem id="fs-idm226482112">
+<para id="fs-idm222093200"><link class="lo-reference" document="m67893"/>Compute Altoona Company’s (a) inventory turnover ratio and (b) number of days’ sales in inventory ratio, using the following information.</para>
+<media id="fs-idm220825408" class="scaled-down-30" alt="Cost of Goods Sold $722,000. Beginning Inventory 53,000. Ending Inventory 67,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_05_EA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm216692432">
+<problem id="fs-idm222076496">
+<para id="fs-idm222758688"><link class="lo-reference" document="m67893"/>Complete the missing pieces of McCarthy Company’s inventory calculations and ratios.</para>
+<media id="fs-idm220159328" class="scaled-down-30" alt="Beginning Inventory ?. Purchases $92,000. Goods Available for Sale 100,500.Ending Inventory 9,400. Cost of Goods Sold $91,100. Turnover Ratio ?. Days’ Sales in Inventory ?">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_05_EA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm222454560" class="exercise-set-b">
+<exercise id="fs-idm201715360">
+<problem id="fs-idm231069232">
+<para id="fs-idm217350048"><link class="lo-reference" document="m67893"/>Compute Westtown Company’s (A) inventory turnover ratio and (B) number of days’ sales in inventory ratio, using the following information.</para>
+<media id="fs-idm207277024" class="scaled-down-30" alt="Cost of Goods Sold $156,000. Beginning Inventory 14,500. Ending Inventory 17,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_05_EB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm221487744">
+<problem id="fs-idm221500928">
+<para id="fs-idm220966080"><link class="lo-reference" document="m67893"/>Complete the missing pieces of Delgado Company’s inventory calculations and ratios.</para>
+<media id="fs-idm219055856" class="scaled-down-30" alt="Beginning Inventory $25,000. Purchases 132,000. Goods Available for Sale 157,000. Ending Inventory 27,000. Cost of Goods Sold ?. Turnover Ratio 5,0. Days’ Sales in Inventory ?.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_05_EB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm223916784" class="problem-set-a">
+<exercise id="fs-idm225199632">
+<problem id="fs-idm229194736">
+<para id="fs-idm217684704"><link class="lo-reference" document="m67893"/>Use the following information relating to Shana Company to calculate the inventory turnover ratio and the number of days’ sales in inventory ratio.</para>
+<media id="fs-idm225813392" class="scaled-down" alt="Table showing Sales, Cost of Goods Sold, and Average Inventory respectively for: 2021: $22,000, $16,500, $2,400; 2022: $28,000, $21,000, $3,000; 2023: $33,000, $24,750, $3,500; 2024: $35,000, $26,250, $4,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_05_PA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm226386176">
+<problem id="fs-idm216694048">
+<para id="fs-idm226159184"><link class="lo-reference" document="m67893"/>Use the following information relating to Clover Company to calculate the inventory turnover ratio, gross margin, and the number of days’ sales in inventory ratio, for years 2022 and 2023.</para>
+<media id="fs-idm230813376" class="scaled-down" alt="Table showing Sales, Cost of Goods Sold, and Average Inventory respectively for: 2021: $250,000, $187,500, $24,000; 2022: $295,000, $221,250, $30,000; 2023: $323,000, $242,250, $35,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_05_PA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm219522848" class="problem-set-b">
+<exercise id="fs-idm217484320">
+<problem id="fs-idm228850992">
+<para id="fs-idm221372416"><link class="lo-reference" document="m67893"/>Use the following information relating to Singh Company to calculate the inventory turnover ratio and the number of days’ sales in inventory ratio.</para>
+<media id="fs-idm219010592" class="scaled-down" alt="Table showing Sales, Cost of Goods Sold, and Average Inventory respectively for: 2021: $12,500, $8,750, $1,750; 2022: $14,000, $9,800, $2,200; 2023: $19,500, $13,650, $2,800; 2024: $20,500, $14,350, $3,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_05_PB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm212560624">
+<problem id="fs-idm224127168">
+<para id="fs-idm229855824"><link class="lo-reference" document="m67893"/>Use the following information relating to Medinas Company to calculate the inventory turnover ratio, gross margin, and the number of days’ sales in inventory ratio, for years 2022 and 2023.</para>
+<media id="fs-idm222467600" class="scaled-down" alt="Table showing Sales, Cost of Goods Sold, and Average Inventory respectively for: 2021: $75,000, $52,500, $8,000; 2022: $90,000, $63,000, $9,500; 2023: $100,000, $70,000, $11,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_05_PB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm232206960" class="thought-provokers">
+<exercise id="fs-idm229917856">
+<problem id="fs-idm231188752">
+<para id="fs-idm221998256"><link class="lo-reference" document="m67893"/>Use a spreadsheet and the following excerpts from Hileah Company’s financial information to build a template that automatically calculates (A) inventory turnover and (B) number of days’ sales in inventory, for the year 2018.</para>
+<media id="fs-idm231681184" class="scaled-down" alt="Table showing the following for 12/31/18 and 12/31/17, respectively: Cash plus Accounts Receivable plus Merchandise Inventory equals Total Assets. Accounts Payable plus Common Stock plus Retained Earnings equals Total Liabilities and Equity. Additional information: Cost of Goods Sold 12/31/18: $10,000, 22,000, 15,900, 47,900, 4,500, 10,000, 33,400, 47,900, 177,000. 12/31/17: $14,000, 17,000, 14,200, 45,200, 5,500, 10,000, 29,700, 45,200.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_05_TP01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm226607664">
+<problem id="fs-idm230890144">
+<para id="fs-idm231744368"><link class="lo-reference" document="m67893"/>Search the SEC website (https://www.sec.gov/edgar/searchedgar/companysearch.html) and locate the latest Form 10-K for a company you would like to analyze. Submit a short memo that states the following:</para>
+<list id="fs-idm223860544" list-type="enumerated" number-style="lower-alpha">
+<item>The name and ticker symbol of the company you have chosen.</item>
+<item>Describe two items relating to inventory from the company’s notes to financial statements:
+<list id="fs-idm232341408" list-type="bulleted">
+<item>one familiar item that you expected to be in the notes to the financial statement, based on this chapter’s coverage; and</item>
+<item>one unfamiliar item that you did not expect to be in the notes to the financial statements.</item>
+</list></item>
+<item>Provide the weblink to the company’s Form 10-K, to allow accurate verification of your answers.</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm202864768">
+<term>inventory turnover ratio</term>
+<meaning id="fs-idm225211040">computed by dividing cost of goods sold by average inventory; measures number of times inventory rotated through the sales cycle for the period</meaning>
+</definition>
+<definition id="fs-idm216644224">
+<term>number of days’ sales in inventory ratio</term>
+<meaning id="fs-idm230925792">computed by dividing average merchandise inventory by average daily cost of goods sold; measures number of days it would take to clear remaining inventory</meaning>
+</definition>
+</glossary>
+</document>

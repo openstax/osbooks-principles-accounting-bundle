@@ -1,0 +1,547 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Apply the Results from the Adjusted Trial Balance to Compute Current Ratio and Working Capital Balance, and Explain How These Measures Represent Liquidity</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67858</md:content-id>
+  <md:title>Apply the Results from the Adjusted Trial Balance to Compute Current Ratio and Working Capital Balance, and Explain How These Measures Represent Liquidity</md:title>
+  <md:abstract/>
+  <md:uuid>86c2c536-e972-4d11-8564-4a93f3653369</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm229432880">In <link document="m67848">The Adjustment Process</link>, we were introduced to the idea of accrual-basis accounting, where revenues and expenses must be recorded in the accounting period in which they were earned or incurred, no matter when cash receipts or outlays occur. We also discussed cash-basis accounting, where income and expenses are recognized when receipts and disbursements occur. In this chapter, we go into more depth about why a company may choose accrual-basis accounting as opposed to cash-basis accounting.</para>
+<note id="fs-idm187251328" class="link-to-learning">
+<para id="fs-idm212159616">Go to the Internal Revenue Service’s website, and look at the <link url="https://openstax.org/l/50IRSPub334">most recently updated Pub 334 <emphasis effect="italics">Tax Guide for Small Business</emphasis></link> to learn more about the rules for income tax preparation for a small business.</para>
+</note>
+<section id="fs-idm215489776">
+<title>Cash Basis versus Accrual Basis Accounting</title>
+<para id="fs-idm481095584">There are several reasons accrual-basis accounting is preferred to cash-basis accounting. <term class="no-emphasis">Accrual-basis accounting</term> is required by US generally accepted accounting principles (GAAP), as it typically provides a better sense of the financial well-being of a company. Accrual-based accounting information allows management to analyze a company’s progress, and management can use that information to improve their business. Accrual accounting is also used to assist companies in securing financing, because banks will typically require a company to provide accrual-basis financial income statements. The Internal Revenue Service might also require businesses to report using accrual basis information when preparing tax returns. In addition, companies with inventory must use accrual-based accounting for income tax purposes, though there are exceptions to the general rule.</para>
+<para id="fs-idm225294496">So why might a company use cash-basis accounting? Companies that do not sell stock publicly can use cash-basis instead of accrual-basis accounting for internal-management purposes and externally, as long as the Internal Revenue Service does not prevent them from doing so, and they have no other reasons such as agreements per a bank loan. <term class="no-emphasis">Cash-basis accounting</term> is a simpler accounting system to use than an accrual-basis accounting system when tracking real-time revenues and expenses.</para>
+<para id="fs-idm466540896">Let’s take a look at one example illustrating why accrual-basis accounting might be preferred to cash-basis accounting.</para>
+<para id="fs-idm479952336">In the current year, a company had the following transactions:</para>
+<table id="fs-idm178952128" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c2">January to March Transactions</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Date</entry>
+<entry valign="top" align="left">Transaction</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 1</entry>
+<entry valign="top" align="left">Annual insurance policy purchased for $6,000 cash</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 8</entry>
+<entry valign="top" align="left">Sent payment for December’s electricity bill, $135</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 15</entry>
+<entry valign="top" align="left">Performed services worth $2,500; customer asked to be billed</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 31</entry>
+<entry valign="top" align="left">Electricity used during January is estimated at $110</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Feb. 16</entry>
+<entry valign="top" align="left">Realized you forgot to pay January’s rent, so sent two months’ rent, $2,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Feb. 20</entry>
+<entry valign="top" align="left">Performed services worth $2,400; customer asked to be billed</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Feb. 28</entry>
+<entry valign="top" align="left">Electricity used during February is estimated at $150</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 2</entry>
+<entry valign="top" align="left">Paid March rent, $1,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 10</entry>
+<entry valign="top" align="left">Received all money owed from services performed in January and February</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 14</entry>
+<entry valign="top" align="left">Performed services worth $2,450. Received $1,800 cash</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 30</entry>
+<entry valign="top" align="left">Electricity used during March is estimated at $145</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-idm501456512" class="ifrs-connection">
+<title>Issues in Comparing Closing Procedures</title>
+<para id="fs-idm237370208">Regardless of whether a company uses US GAAP or International Financial Reporting Standards (IFRS), the closing and post-closing processes are the same. However, the results generated by these processes are not the same. These differences can be seen most easily in the ratios formulated from the financial statement information and used to assess various financial qualities of a company.</para>
+<para id="fs-idm756348768">You have learned about the current ratio, which is used to assess a company’s ability to pay debts as they come due. How could the use of IFRS versus US GAAP affect this ratio? US GAAP and IFRS most frequently differ on how certain transactions are measured, or on the timing of measuring and reporting that transaction. You will later learn about this in more detail, but for now we use a difference in inventory measurement to illustrate the effect of the two different sets of standards on the current ratio.</para>
+<para id="fs-idm221106576">US GAAP allows for three different ways to measure ending inventory balances: first-in, first-out (FIFO); last-in, first-out (LIFO); and weighted average. IFRS only allows for FIFO and weighted average. If the prices of inventory being purchased are rising, the FIFO method will result in a higher value of ending inventory on the Balance Sheet than would the LIFO method.</para>
+<para id="fs-idm221793280">Think about this in the context of the current ratio. Inventory is one component of current assets: the numerator of the ratio. The higher the current assets (numerator), the higher is the current ratio. Therefore, if you calculated the current ratio for a company that applied US GAAP, and then recalculated the ratio assuming the company used IFRS, you would get not only different numbers for inventory (and other accounts) in the financial statements, but also different numbers for the ratios.</para>
+<para id="fs-idm770312752">This idea illustrates the impact the application of an accounting standard can have on the results of a company’s financial statements and related ratios. Different standards produce different results. Throughout the remainder of this course, you will learn more details about the similarities and differences between US GAAP and IFRS, and how these differences impact financial reporting.</para>
+</note>
+<para id="fs-idm202286176">Remember, in a cash-basis system you will record the revenue when the money is received no matter when the service is performed. There was no money received from customers in January or February, so the company, under a cash-basis system, would not show any revenue in those months. In March they received the $2,500 customers owed from January sales, $2,400 from customers for February sales, and $1,800 from cash sales in March. This is a total of $6,700 cash received from customers in March. Since the cash was received in March, the cash-basis system would record revenue in March.</para>
+<para id="fs-idm192797872">In accrual accounting, we record the revenue as it is earned. There was $2,500 worth of service performed in January, so that will show as revenue in January. The $2,400 earned in February is recorded in February, and the $2,450 earned in March is recorded as revenue in March. Remember, it does not matter whether or not the cash came in.</para>
+<para id="fs-idm192809456">For expenses, the cash-basis system is going to record an expense the day the payment leaves company hands. In January, the company purchased an insurance policy. The insurance policy is for the entire year, but since the cash went to the insurance company in January, the company will record the entire amount as an expense in January. The company paid the December electric bill in January. Even though the electricity was used to earn revenue in December, the company will record it as an expense in January. Electricity used in January, February, and March to help earn revenue in those months will show no expense because the bill has not been paid. The company forgot to pay January’s rent in January, so no rent expense is recorded in January. However, in February there is $2,000 worth of rent expense because the company paid for the two months in February.</para>
+<para id="fs-idm465729328">Under accrual accounting, expenses are recorded when they are incurred and not when paid. Electricity used in a month to help earn revenue is recorded as an expense in that month whether the bill is paid or not. The same is true for rent expense. Insurance expense is spread out over 12 months, and each month 1/12 of the total insurance cost is expensed. The comparison of cash-basis and accrual-basis income statements is presented in <link target-id="OSX_Acct_F05_03_CompIS"/>.</para>
+<figure id="OSX_Acct_F05_03_CompIS">
+<media id="fs-idm210677328" alt="Cash Basis Accounting. January: Revenue 0, Expenses: Electricity 135, Insurance 6,000, Net Income (6,135). February: Revenue 0, Expenses: Rent 2,000, Net Income (2,000). March: Revenue 6,700, Expenses: Rent 1,000, Net Income 5,700. Accrual Basis Accounting. January: Revenue 2,500, Expenses: Electricity 110, Rent 1,000, Insurance 500. Net income 890. February: Revenue 2,400, Expenses: Electricity 150, Rent 1,000, Insurance 500. Net income 750. March: Revenue 2,450, Expenses: Electricity 145, Rent 1,000, Insurance 500. Net income 805.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_CompIS.jpg"/>
+</media>
+<caption>Cash Basis versus Accrual Basis Accounting. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm202384704" class="concepts-practice">
+<title>Fundamentals of Financial Ratios</title>
+<para id="fs-idm204473232">One method used by everyone who evaluates financial statements is to calculate financial ratios. Financial ratios take numbers from your income statements and/or your balance sheet to evaluate important financial outcomes that will impact user decisions.</para>
+<para id="fs-idm458352656">There are ratios to evaluate your liquidity, solvency, profitability, and efficiency. Liquidity ratios look at your ability to pay the debts that you owe in the near future. Solvency will show if you can pay your bills not only in the short term but also in the long term. Profitability ratios are calculated to see how much profit is being generated from a company’s sales. Efficiency ratios will be calculated to see how efficient a company is using its assets in running its business. You will be introduced to these ratios and how to interpret them throughout this course.</para>
+</note>
+<para id="fs-idm443043152">Compare the two sets of income statements. The cash-basis system looks as though no revenue was earned in the first two months, and expenses were excessive. Then in March it looks like the company earned a lot of revenue. How realistic is this picture? Now look at the accrual basis figures. Here you see a better picture of what really happened over the three months. Revenues and expenses stayed relatively even across periods.</para>
+<para id="fs-idm462848608">This comparison can show the dangers of reporting in a cash-basis system. In a cash-basis system, the timing of cash flows can make the business look very profitable one month and not profitable the next. If your company was having a bad year and you do not want to report a loss, just do not pay the bills for the last month of the year and you can suddenly show a profit in a cash-basis system. In an accrual-basis system, it does not matter if you do not pay the bills, you still need to record the expenses and present an income statement that accurately portrays what is happening in your company. The accrual-basis system lends itself to more transparency and detail in reporting. This detail is carried over into what is known as a classified balance sheet.</para>
+</section>
+<section id="fs-idm202295424">
+<title>The Classified Balance Sheet</title>
+<para id="fs-idm229180256">A <term>classified balance sheet</term> presents information on your balance sheet in a more informative structure, where asset and liability categories are divided into smaller, more detailed sections. Classified balance sheets show more about the makeup of our assets and liabilities, allowing us to better analyze the current health of our company and make future strategic plans.</para>
+<para id="fs-idm495215888">Assets can be categorized as current; property, plant, and equipment; long-term investments; intangibles; and, if necessary, other assets. As you learned in <link document="m67837">Introduction to Financial Statements</link>, a <emphasis effect="italics">current asset</emphasis> (also known as a <emphasis effect="italics">short-term asset</emphasis>) is any asset that will be converted to cash, sold, or used up within one year, or one operating cycle, whichever is longer. An <term>operating cycle</term> is the amount of time it takes a company to use its cash to provide a product or service and collect payment from the customer (<link target-id="OSX_Acct_F05_04_OperCyI"/>). For a merchandising firm that sells inventory, an operating cycle is the time it takes for the firm to use its cash to purchase inventory, sell the inventory, and get its cash back from its customers.</para>
+<figure id="OSX_Acct_F05_04_OperCyI" class="scaled-down">
+<media id="fs-idm208696192" alt="At the top center is a picture of hands holding a wallet with the words “Cash to purchase inventory” to the right of it with an arrow pointing to an aerial shot of shelves full of merchandise. An arrow labeled “Sell inventory” points from this picture to a picture of a sales receipt. An arrow labeled “Collect cash from customers” points from this picture to the picture of hands holding the wallet. Inside this large triangle is a box labeled “Operating Cycle.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_OperCyI.jpg"/>
+</media>
+<caption>Operating Cycle. (credit left: modification of “All Sales Final” by Dan Keck/Flickr, Public Domain; credit center: modification of “Money Wallet Finance” by “Goumbik”/Pixabay, CC0; credit right: modification of “Inventory for Seasonal Decoration” by Mirko Tobias Schäfer/Flickr, CC BY 2.0)</caption>
+</figure>
+<note id="fs-idm196738608" class="link-to-learning">
+<para id="fs-idm764309056"><emphasis class="colored-text">Newport News Shipbuilding</emphasis> is an American shipbuilder located in Newport News, Virginia. According to information provided by the company, the company has designed and built 30 aircraft carriers in the past 75 years. That is 30 carriers in 75 years. <emphasis class="colored-text">Newport News</emphasis> constructed the USS <emphasis effect="italics">Gerald R. Ford</emphasis>. It took the company eight years to build the carrier, christening it in 2013. The ship then underwent rigorous testing until it was finally delivered to its home port, Naval Station Norfolk in 2017. That is 12 years after work commenced on the project.</para>
+<para id="fs-idm479812288">With large shipbuilding projects that take many years to complete, the operating cycle for this type of company could expand beyond a year mark, and <emphasis class="colored-text">Newport News</emphasis> would use this longer operating cycle when dividing current and long-term assets and liabilities.</para>
+<para id="fs-idm460773296">Learn more about <link url="https://openstax.org/l/50IngallsShip"><emphasis class="colored-text">Newport News</emphasis> and its parent company <emphasis class="colored-text">Huntington Ingalls Industries</emphasis></link> and see a <link url="https://openstax.org/l/50ShipBuilding">time-lapse video of the construction of the carrier</link>. You can easily tell the passage of time if you watch the snow come and go in the video.</para>
+</note>
+<para id="fs-idm763961216">If an asset does not meet the requirements of a current asset, then it is classified as a long-term asset. It can be further defined as property, plant, and equipment; a long-term investment; or an intangible asset (<link target-id="OSX_Acct_F05_03_AssetFC"/>). <term>Property, plant, and equipment</term> are tangible assets (those that have a physical presence) held for more than one operating cycle or one year, whichever is longer. A <term>long-term investment</term> is stocks, bonds, or other types of investments that management intends to hold for more than one operating cycle or one year, whichever is longer. <term>Intangible assets</term> do not have a physical presence but give the company a long-term future benefit. Some examples include patents, copyrights, and trademarks.</para>
+<para id="fs-idm203713248">Liabilities are classified as either current liabilities or long-term liabilities. Liabilities also use the one year, or one operating cycle, for the cut-off between current and noncurrent. As we first discussed in <link document="m67837">Introduction to Financial Statements</link>, if the debt is due within one year or one operating cycle, whichever is longer, the liability is a current liability. If the debt is settled outside one year or one operating cycle, whichever is longer, the liability is a <term>long-term liability</term>.</para>
+<figure id="OSX_Acct_F05_03_AssetFC">
+<media id="fs-idm210509936" alt="Flowchart starting with a box labeled “Asset” pointing to the question, “Is it cash, or an asset that will convert to cash or be used up or sold within one year or the operating cycle, whichever is longer?” If Yes, an arrow points to a box that says, “Report as a current asset.” If No, an arrow points to a box that asks, “Is it a tangible asset being currently used to help generate revenue?” If Yes, an arrow points to a box that says, “Report as property, plant, and equipment (PPE). If No, an arrow points to a box that asks, “Is it a stock, bond, or other long-term investment that will be held for more than one year or the operating cycle, whichever is longer?” If Yes, an arrow points to a box that says, “Report as a long-term investment.” If No, an arrow points to a box that says, “Report as an intangible asset.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_AssetFC.jpg"/>
+</media>
+<caption>Asset Classification Flowchart. A flowchart for asset classification can assist with financial reporting. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm218682656" class="your-turn">
+<title>How to Classify Assets</title>
+<para id="fs-idm466598816">Classify each of the following assets as current asset; property, plant, and equipment; long-term investment; or intangible asset.</para>
+<list id="fs-idm214431280" list-type="enumerated" number-style="upper-alpha">
+<item>machine</item>
+<item>patent</item>
+<item>supplies</item>
+<item>building</item>
+<item>investment in bonds with intent to hold until maturity in 10 years</item>
+<item>copyright</item>
+<item>land being held for future office</item>
+<item>prepaid insurance</item>
+<item>accounts receivable</item>
+<item>investment in stock that will be held for six months</item>
+</list>
+<para id="fs-idm237339440"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm210052752">A. property, plant, and equipment. B. intangible asset. C. current asset. D. property, plant, and equipment. E. long-term investment. F. intangible asset. G. long-term investment. H. current asset. I. current asset. J. current asset.</para>
+<para id="fs-idm769700240">The land is considered a long-term investment, because it is not land being used currently by the company to earn revenue. Buying real estate is an investment. If the company decided in the future that it was not going to build the new office, it could sell the land and would probably be able to sell the land for more than it was purchased for, because the value of real estate tends to go up over time. But like any investment, there is the risk that the land might actually go down in value.</para>
+<para id="fs-idm176693312">The investment in stock that we only plan to hold for six months will be called a marketable security in the current asset section of the balance sheet.</para>
+</note>
+<para id="fs-idm212215568">As an example, the balance sheet in <link target-id="OSX_Acct_F05_03_MLBS"/> is classified.</para>
+<figure id="OSX_Acct_F05_03_MLBS" class="scaled-down">
+<media id="fs-idm756285408" alt="Magnificent Landscaping Service, Balance Sheet, April 30, 2018. Assets: Current Assets: Cash, 2,950, Accounts Receivable 575, Office Supplies 40, Prepaid Insurance 240, Total Current Assets 3,805. Property, Plant, and Equipment: Equipment 2,500, Less Accumulated Depreciation: Equipment 35, equals 2,465. Total Assets $6,270. Liabilities: Current Liabilities: Accounts Payable 28, Salaries Payable 420, Unearned Lawn Mowing Revenue 100, equals total Current Liabilities 548. Stockholders’ Equity: Common Stock 5,000, Retained Earnings 722, Total Stockholders’ Equity 5,722. Total Liabilities and Stockholders’ Equity 6,270.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_MLBS.jpg"/>
+</media>
+<caption>Classified Balance Sheet for Magnificent Landscaping Service. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm233146704" class="continuing-application">
+<title>Interim Reporting in the Grocery Industry</title>
+<para id="fs-idm197070272">Interim reporting helps determine how well a company is performing at a given time during the year. Some companies revise their earnings estimates depending on how profitable the company has been up until a certain point in time. The grocery industry, which includes both private and publicly traded companies, performs the same exercise.</para>
+<para id="fs-idm748847600">However, grocery companies use such information to inform other important business decisions. Consider the last time you walked through the grocery store and purchased your favorite brand but found another item out of stock. What if the next time you shop, the product you loved is no longer carried, but the out-of-stock item is available?</para>
+<para id="fs-idm461502816">Grocery store profitably is based on small margins of revenue on a multitude of products. The bar codes scanned at checkout not only provide the price of a product but also track how much inventory has been sold. The grocery store analyzes such information to determine how quickly the product turns over, which drives profit on small margins. If a product sells well, the store might stock it all of the time, but if a product does not sell quickly enough, it could be discontinued.</para>
+</note>
+</section>
+<section id="fs-idm218575952">
+<title>Using Classified Balance Sheets to Evaluate Liquidity</title>
+<para id="fs-idm238516080">Categorizing assets and liabilities on a balance sheet helps a company evaluate its business. One way a company can evaluate its business is with financial statement ratios. We consider two measures of liquidity, working capital, and the current ratio. Let’s first explore this idea of liquidity.</para>
+<para id="fs-idm769678560">We first described liquidity in <link document="m67837">Introduction to Financial Statements</link> as the ability to convert assets into cash. <term>Liquidity</term> is a company's ability to convert assets into cash in order to meet short-term cash needs, so it is very important for a company to remain liquid. A critical piece of information to remember at this point is that most companies use the accrual accounting method to determine and maintain their accounting records. This fact means that even with a positive income position, as reflected by its income statement, a company can go bankrupt due to poor cash flow. It is also important to note that even if a company has a lot of cash, it may still be in bankruptcy trouble if all or much of that cash is borrowed. According to an article published in <emphasis effect="italics">Money</emphasis> magazine, one in four small businesses fail because of cash flow issues.<footnote id="fs-idm460670144">Elaine Pofeldt. “5 Ways to Tackle the Problem That Kills One of Every Four Small Businesses.” <emphasis effect="italics">Money</emphasis>. May 19, 2015. http://time.com/money/3888448/cash-flow-small-business-startups/</footnote> They are making a profit and seem financially healthy but do not have cash when needed.</para>
+<para id="fs-idm756185216">Companies should analyze liquidity constantly to avoid cash shortages that may result in a need for a short-term loan. Intermittently taking out a short-term loan is often expected, but a company cannot keep coming up short on cash every year if it is going to remain liquid. A seasonal business, such as a specialized holiday retailer, may require a short-term loan to continue its operations during slower revenue-generating periods. Companies will use numbers from their classified balance sheet to test for liquidity. They want to make sure they have enough current assets to pay their current liabilities. Only cash is used to directly pay liabilities, but other current assets, such as accounts receivable or short-term investments, might be sold for cash, converted to cash, or used to bring in cash to pay liabilities.</para>
+<note id="fs-idm210392640" class="ethical-considerations">
+<title>Liquidity Is as Important as Net Worth</title>
+<para id="fs-idm232999776">How does a company like <emphasis class="colored-text">Lehman Brothers Holdings</emphasis>, with over $639 billion in assets and $613 billion in liabilities, go bankrupt? That question still confuses many, but it comes down to the fact that having assets recorded on the books at their purchase price is not the same as the immediate value of the assets. <emphasis class="colored-text">Lehman Brothers</emphasis> had a liquidity crisis that led to a solvency crisis, because <emphasis class="colored-text">Lehman Brothers</emphasis> could not sell the assets on its books at book value to cover its short-term cash demands. Matt Johnston, in an article for the online publication <emphasis effect="italics">Coinmonks</emphasis>, puts it simply: “Liquidity is all about being able to access cash when it’s needed. If you can settle your current obligations with ease, you’ve got liquidity. If you’ve got debts coming due and you don’t have the cash to settle them, then you’ve got a liquidity crisis.”<footnote id="fs-idm769872384">Matt Johnson. “Revisiting the Lehman Brothers Collapse, the Business of Banking and Its Inherent Crises.” <emphasis effect="italics">Coinmonks</emphasis>. February 1, 2018. https://medium.com/coinmonks/revisiting-the-lehman-brothers-collapse-fb18769d6cf8</footnote> Continuing this <emphasis effect="italics">Coinmonks</emphasis> discussion, the inability to timely pay debts leads to a business entity becoming insolvent because bills cannot be paid on time and assets need to be written down. When <emphasis class="colored-text">Lehman Brothers</emphasis> could not timely pay their bills in 2008, it went bankrupt, sending a shock throughout the entire banking system. Accountants need to understand the differences between net worth, equity, liquidity, and solvency, and be able to inform stakeholders of their organization’s actual financial position, not just the recorded numbers on the balance sheet.</para>
+</note>
+<para id="fs-idm220714688">Two calculations a company might use to test for liquidity are working capital and the current ratio. <term>Working capital</term>, which was first described in <link document="m67837">Introduction to Financial Statements</link>, is found by taking the difference between current assets and current liabilities.</para>
+<media id="fs-idm218176064" alt="Formula: Working Capital equals Current Assets minus Current Liabilities.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_Eq01_img.jpg"/>
+</media>
+<para id="fs-idm770202832">A positive outcome means the company has enough current assets available to pay its current liabilities or current debts. A negative outcome means the company does not have enough current assets to cover its current liabilities and may have to arrange short-term financing. Though a positive working capital is preferred, a company needs to make sure that there is not too much of a difference between current assets and current liabilities. A company that has a high working capital might have too much money in current assets that could be used for other company investments. Things such as industry and size of a company will dictate what type of margin is best.</para>
+<para id="fs-idm225274448">Let’s consider Printing Plus and its working capital (<link target-id="OSX_Acct_F05_03_PPBS2"/>).</para>
+<figure id="OSX_Acct_F05_03_PPBS2" class="scaled-down">
+<media id="fs-idm234466224" alt="Printing Plus, Balance Sheet, January 31, 2019. Assets: Cash, 24,800, Accounts Receivable 1,200, Interest Receivable 140, Supplies 400, Equipment 3,500, Less Accumulated Depreciation: Equipment 75, equals 3,425. Total Assets $29,965. Liabilities: Accounts Payable 500, Salaries Payable 1,500, Unearned Revenue 3,400, equals total Liabilities 5,400. Stockholders’ Equity: Common Stock 20,000, Retained Earnings 4,565, Total Stockholders’ Equity 24,565. Total Liabilities and Stockholders’ Equity 29,965.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_PPBS2.jpg"/>
+</media>
+<caption>Balance Sheet for Printing Plus. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm191844048">Printing Plus’s current assets include cash, accounts receivable, interest receivable, and supplies. Their current liabilities include accounts payable, salaries payable, and unearned revenue. The following is the computation of working capital:</para>
+<equation id="fs-idm221670384" class="unnumbered"><m:math><m:mrow><m:mtext>Working capital</m:mtext><m:mo>=</m:mo><m:mn>$26,540</m:mn><m:mo>–</m:mo><m:mn>$5,400</m:mn><m:mo>=</m:mo><m:mn>$21,140</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm480203760">This means that you have more than enough working capital to pay the current liabilities your company has recorded. This figure may seem high, but remember that this is the company’s first month of operations and this much cash may need to be available for larger, long-term asset purchases. However, there is also the possibility that the company might choose to identify long-term financing options for the acquisition of expensive, long-term assets, assuming that it can qualify for the increased debt.</para>
+<para id="fs-idm221154656">Notice that part of the current liability calculation is unearned revenue. If a company has a surplus of unearned revenue, it can sometimes get away with less working capital, as it will need less cash to pay its bills. However, the company must be careful, since the cash was recorded before providing the services or products associated with the unearned revenue. This relationship is why the unearned revenue was initially created, and there often will be necessary cash outflows associated with meeting the terms of the unearned revenue creation.</para>
+<para id="fs-idm764299696">Companies with inventory will usually need a higher working capital than a service company, as inventory can tie up a large amount of a company’s cash with less cash available to pay its bills. Also, small companies will normally need a higher working capital than larger companies, because it is harder for smaller companies to get loans, and they usually pay a higher interest rate.</para>
+<note id="fs-idm440307728" class="link-to-learning">
+<para id="fs-idm200858912"><emphasis class="colored-text">PricewaterhouseCoopers (PwC)</emphasis> released its <link url="https://openstax.org/l/50PwC2015WorCap">2015 Annual Global Working Capital Survey</link> which is a detailed study on working capital. Though the report does not show the working capital calculation you just learned, there is very interesting information about working capital in different industries, business sizes, and locations. Take a few minutes and peruse this document.</para>
+</note>
+<para id="fs-idm223728464">The <term>current ratio</term> (also known as the <term class="no-emphasis">working capital ratio</term>), which was first described in <link document="m67837">Introduction to Financial Statements</link>, tells a company how many times over company current assets can cover current liabilities. It is found by dividing current assets by current liabilities and is calculated as follows:</para>
+<media id="fs-idm233568368" class="scaled-down-30" alt="Formula: Current Ratio equals Current Assets divided by Current Liabilities.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_Eq02_img.jpg"/>
+</media>
+<para id="fs-idm220542080">For example, if a company has current assets of $20,000 and current liabilities of $10,000, its current ratio is $20,000/$10,000 = two times. This means the company has enough current assets to cover its current liabilities twice. Ideally, many companies would like to maintain a 1.5:2 times current assets over current liabilities ratio. However, depending on the company’s function or purpose, an optimal ratio could be lower or higher than the previous recommendation. For example, many utilities do not have large fluctuations in anticipated seasonal current ratios, so they might decide to maintain a current ratio of 1.25:1.5 times current assets over current liabilities ratio, while a high-tech startup might want to maintain a ratio of 2.5:3 times current assets over current liabilities ratio.</para>
+<para id="fs-idm217975344">The current ratio for Printing Plus is $26,540/$5,400 = 4.91 times. That is a very high current ratio, but since the business was just started, having more cash might allow the company to make larger purchases while still paying its liabilities. However, this ratio might be a result of short-term conditions, so the company is advised to still plan on maintaining a ratio that is considered both rational and not too risky.</para>
+<para id="fs-idm234780848">Using ratios for a single year does not provide a broad picture. A company will get much better information if it compares the working capital and current ratio numbers for several years so it can see increases, decreases, and where numbers remain fairly consistent. Companies can also benefit from comparing this financial data to that of other companies in the industry.</para>
+<note id="fs-idm209839264" class="ethical-considerations">
+<title>Computers Still Use Debits and Credits: Check behind the Dashboard for Fraud</title>
+<para id="fs-idm217094368">Newly hired accountants are often sat at a computer to work off of a dashboard, which is a computer screen where entries are made into the accounting system. New accountants working with modern accounting software may not be aware that their software uses the debit and credit system you learned about, and that the system may automatically close the books without the accountant’s review of closing entries. Manually closing the books gives accountants a chance to review the balances of different accounts; if accountants do not review the entries, they will not know what is occurring in the accounting system or in their organization’s financial statements.</para>
+<para id="fs-idm216593120">Many accounting systems automatically close the books if the command is made in the system. While debits and credits are being entered and may not have been reviewed, the system can be instructed to close out the revenue and expense accounts and create an Income Statement.</para>
+<para id="fs-idm216907120">A knowledgeable accountant can review entries within the software’s audit function. The accountant will be able to look at every entry, its description, both sides of the entry (debit and credit), and any changes made in the entry. This review is important in determining if any incorrect entry was either a mistake or fraud. The accountant can see who made the entry and how the entry occurred in the accounting system.</para>
+<para id="fs-idm765085904">To ensure the integrity of the system, each person working in the system must have a unique user identification, and no users may know others’ passwords. If there is an entry or updated entry, the accountant will be able to see the entry in the audit function of the software. If an employee has changed expense items to pay his or her personal bills, the accountant can see the change. Similarly, changes in transaction dates can be reviewed to determine whether they are fraudulent. Professional accountants know what goes on in their organization’s accounting system.</para>
+</note>
+</section>
+<section id="fs-idm759265520" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm233933760" list-type="bulleted" bullet-style="bullet">
+<item>Cash-basis versus accrual-basis system: The cash-basis system delays revenue and expense recognition until cash is collected, which can mislead investors about the daily operations of a business. The accrual-basis system recognizes revenues and expenses in the period in which they were earned or incurred, allowing for an even distribution of income and a more accurate business of daily operations.</item>
+<item>Classified balance sheet: The classified balance sheet breaks down assets and liabilities into subcategories focusing on current and long-term classifications. This allows investors to see company position in both the short term and long term.</item>
+<item>Liquidity: Liquidity means a business has enough cash available to pay bills as they come due. Being too liquid can mean that a company is not using its assets efficiently.</item>
+<item>Working capital: Working capital shows how efficiently a company operates. The formula is current assets minus current liabilities.</item>
+<item>Current ratio: The current ratio shows how many times over a company can cover its liabilities. It is found by dividing current assets by current liabilities.</item>
+</list>
+</section>
+<section id="fs-idm211062608" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm495445952">
+<problem id="fs-idm221915536">
+<para id="fs-idm214179504"><link class="lo-reference" document="m67858"/>If current assets are $112,000 and current liabilities are $56,000, what is the current ratio?</para>
+<list id="fs-idm215579488" list-type="enumerated" number-style="upper-alpha">
+<item>200 percent</item>
+<item>50 percent</item>
+<item>2.0</item>
+<item>$50,000</item>
+</list>
+</problem>
+<solution id="fs-idm456928368">
+<para id="fs-idm476626528">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm465573840">
+<problem id="fs-idm463066320">
+<para id="fs-idm762293152"><link class="lo-reference" document="m67858"/>If current assets are $100,000 and current liabilities are $42,000, what is the working capital?</para>
+<list id="fs-idm482554512" list-type="enumerated" number-style="upper-alpha">
+<item>200 percent</item>
+<item>50 percent</item>
+<item>2.0</item>
+<item>$58,000</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm211298624" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm216524816">
+<problem id="fs-idm209530272">
+<para id="fs-idm770230112"><link class="lo-reference" document="m67858"/>Describe the calculation required to compute working capital. Explain the significance.</para>
+</problem>
+<solution id="fs-idm476062368">
+<para id="fs-idm208336448">Working capital is calculated by subtracting current liabilities from current assets. The result indicates how well the company can pay bills as they come due, which is sometimes referred to as the company’s liquidity position.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm232688576">
+<problem id="fs-idm229546224">
+<para id="fs-idm213804672"><link class="lo-reference" document="m67858"/>Describe the calculation required to compute the current ratio. Explain the significance.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm217151152" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm221262432">
+<problem id="fs-idm212625616">
+<para id="fs-idm210030896"><link class="lo-reference" document="m67858"/>For each of the following accounts, identify in which section of the classified balance sheet it would be presented: current assets, property, intangibles, other assets, current liabilities, long-term liabilities, or stockholder’s equity.</para>
+<list id="fs-idm474605840" list-type="enumerated" number-style="upper-alpha">
+<item>Accounts Payable</item>
+<item>Accounts Receivable</item>
+<item>Cash</item>
+<item>Equipment</item>
+<item>Land</item>
+<item>Notes Payable (due two years later)</item>
+<item>Prepaid Insurance</item>
+<item>Supplies</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm755534192">
+<problem id="fs-idm220278432">
+<para id="fs-idm209725888"><link class="lo-reference" document="m67858"/>Using the following Balance Sheet summary information, calculate for the two years presented:</para>
+<list id="fs-idm211897696" list-type="enumerated" number-style="upper-alpha">
+<item>working capital</item>
+<item>current ratio</item>
+</list>
+<media id="fs-idm211434416" class="scaled-down" alt="12/31/18 and 12/31/19, respectively: Current assets 76,000, 295,000. Current liabilities 48,000, 163,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_EA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm219866912">
+<problem id="fs-idm193644144">
+<para id="fs-idm213622032"><link class="lo-reference" document="m67858"/>Using the following account balances, calculate for the two years presented:</para>
+<list id="fs-idm226683056" list-type="enumerated" number-style="upper-alpha">
+<item>working capital</item>
+<item>current ratio</item>
+</list>
+<media id="fs-idm186465040" class="scaled-down" alt="12/31/18 and 12/31/19, respectively: Accounts payable 2,000, 6,120. Accounts receivable 3,000, 8,450. Cash 4,500, 18,600. Prepaid advertising 1,200, 4,000. Utilities payable 950, 6,500. Wages payable 1,675, 8,600.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_EA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm178511968">
+<problem id="fs-idm474812544">
+<para id="fs-idm193209552"><link class="lo-reference" document="m67858"/>Using the following Balance Sheet summary information, calculate for the two companies presented:</para>
+<list id="fs-idm466332144" list-type="enumerated" number-style="upper-alpha">
+<item>working capital</item>
+<item>current ratio</item>
+</list>
+<para id="fs-idm214067072">Then:</para>
+<list id="fs-idm248606160" list-type="enumerated" number-style="upper-alpha" start-value="3">
+<item>evaluate which company’s liquidity position appears stronger, and why.</item>
+</list>
+<media id="fs-idm479324224" class="scaled-down" alt="Company J and Company K, respectively: Current assets 158,500, 122,000. Current liabilities 141,000, 104,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_EA04_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm200286000">
+<problem id="fs-idm196803120">
+<para id="fs-idm227655152"><link class="lo-reference" document="m67858"/>Using the following account balances, calculate:</para>
+<list id="fs-idm478811888" list-type="enumerated" number-style="upper-alpha">
+<item>working capital</item>
+<item>current ratio</item>
+</list>
+<media id="fs-idm204576288" class="scaled-down" alt="Cash 27,000 debit. Accounts receivable 7,300 debit. Prepaid insurance 17,000 debit. Accounts payable 14,900 credit. Salaries payable 16,200 credit. Common stock 12,000 credit. Service revenue 66,000 credit. Administrative expenses 57,800 debit. Total debits and total credits 109,100.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_EA05_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm482393552" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm212054496">
+<problem id="fs-idm227795248">
+<para id="fs-idm479028928"><link class="lo-reference" document="m67858"/>For each of the following accounts, identify in which section of the classified balance sheet it would be presented: current assets, property, intangibles, other assets, current liabilities, long-term liabilities, or stockholder’s equity.</para>
+<list id="fs-idm217015184" list-type="enumerated" number-style="upper-alpha">
+<item>Building</item>
+<item>Cash</item>
+<item>Common Stock</item>
+<item>Copyright</item>
+<item>Prepaid Advertising</item>
+<item>Notes Payable (due six months later)</item>
+<item>Taxes Payable</item>
+<item>Unearned Rent Revenue</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm236687600">
+<problem id="fs-idm221744592">
+<para id="fs-idm480178144"><link class="lo-reference" document="m67858"/>Using the following Balance Sheet summary information, calculate for the two years presented:</para>
+<list id="fs-idm229264944" list-type="enumerated" number-style="upper-alpha">
+<item>working capital</item>
+<item>current ratio</item>
+</list>
+<media id="fs-idm219731472" class="scaled-down" alt="12/31/18 and 12/31/19, respectively: Current assets 366,500, 132,000. Current liabilities 120,000, 141,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_EB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm191906384">
+<problem id="fs-idm474549504">
+<para id="fs-idm217966928"><link class="lo-reference" document="m67858"/>Using the following account balances, calculate for the two years presented:</para>
+<list id="fs-idm219698848" list-type="enumerated" number-style="upper-alpha">
+<item>working capital</item>
+<item>current ratio</item>
+</list>
+<media id="fs-idm212284080" class="scaled-down" alt="12/31/18 and 12/31/19, respectively: Accounts payable 45,000, 12,600. Accounts receivable 52,000, 15,200. Cash 11,500, 19,780. Prepaid insurance 1,060, 2,400. Salaries payable 9,400, 12,800. Utilities payable 3,500, 2,550.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_EB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm178546048">
+<problem id="fs-idm229816992">
+<para id="fs-idm222158176"><link class="lo-reference" document="m67858"/>Using the following Balance Sheet summary information, calculate for the two companies presented:</para>
+<list id="fs-idm215014320" list-type="enumerated" number-style="upper-alpha">
+<item>working capital</item>
+<item>current ratio</item>
+</list>
+<para id="fs-idm218574608">Then:</para>
+<list id="fs-idm244583072" list-type="enumerated" number-style="upper-alpha" start-value="3">
+<item>evaluate which company’s liquidity position appears stronger, and why.</item>
+</list>
+<media id="fs-idm208361088" class="scaled-down" alt="Company L and Company M, respectively: Current assets 425,000, 215,500. Current liabilities 335,000, 132,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_EB04_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm208406336">
+<problem id="fs-idm236611264">
+<para id="fs-idm216955632"><link class="lo-reference" document="m67858"/>From the following Company B adjusted trial balance, prepare simple financial statements, as follows:</para>
+<media id="fs-idm220275888" class="scaled-down" alt="Adjusted Trial Balance. Cash 35,300 debit. Accounts receivable 16,750 debit. Supplies 12,650 debit. Accounts payable 20,850 credit. Tax payable 3,000 credit. Common stock 30,000 credit. Fee earned revenue 92,550 credit. Operating expense 81,700 debit. Total debits and total credits 146,400.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_EB05_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm213186128" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm236618608">
+<problem id="fs-idm200753104">
+<para id="fs-idm210306560"><link class="lo-reference" document="m67858"/>Use the following Adjusted Trial Balance to prepare a classified Balance Sheet:</para>
+<media id="fs-idm212028528" class="scaled-down" alt="Adjusted Trial Balance. Cash 16,500 debit. Accounts receivable 17,200 debit. Supplies 2,200 debit. Prepaid insurance 2,100 debit. Equipment 14,000 debit. Accounts payable 14,200 credit. Unearned fee revenue 4,300 credit. Common stock 30,000 credit. Service fee revenue 21,500 credit. Salaries expense 12,000 debit. Rent expense 6,000 debit. Total debits and total credits 70,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_PA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm230123264">
+<problem id="fs-idm233762352">
+<para id="fs-idm211221424"><link class="lo-reference" document="m67858"/>Using the following Balance Sheet summary information, for the two years presented calculate:</para>
+<list id="fs-idm214936128" list-type="enumerated" number-style="upper-alpha">
+<item>working capital</item>
+<item>current ratio</item>
+</list>
+<media id="fs-idm218275888" class="scaled-down" alt="12/31/18 and 12/31/19, respectively: Current assets 101,600, 97,350. Current liabilities 33,650, 32,800.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_PA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm216234384">
+<problem id="fs-idm215140752">
+<para id="fs-idm460490960"><link class="lo-reference" document="m67858"/>Using the following Balance Sheet summary information, calculate for the two companies presented:</para>
+<list id="fs-idm191998112" list-type="enumerated" number-style="upper-alpha">
+<item>working capital</item>
+<item>current ratio</item>
+</list>
+<media id="fs-idm221196768" class="scaled-down" alt="Company L and Company M, respectively: Current assets $124,680, $180,550. Current liabilities 63,250, 153,250.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_PA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm770245120">
+<problem id="fs-idm196360272">
+<para id="fs-idm201183296"><link class="lo-reference" document="m67858"/>Using the following account balances, calculate for the two years presented:</para>
+<list id="fs-idm236267584" list-type="enumerated" number-style="upper-alpha">
+<item>working capital</item>
+<item>current ratio</item>
+</list>
+<media id="fs-idm479490016" class="scaled-down" alt="12/31/18 and 12/31/19, respectively: Unearned revenue $12,600, $6,000. Cash 33,200, 12,750. Prepaid rent 9,000, 6,000. Supplies 5,600, 2,500. Taxes payable 4,800, 5,500. Wages payable 8,500, 9,250.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_02_PA04_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm176591696" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm236335632">
+<problem id="fs-idm228473168">
+<para id="fs-idm762168128"><link class="lo-reference" document="m67858"/>Use the following Adjusted Trial Balance to prepare a classified Balance Sheet:</para>
+<media id="fs-idm209268208" class="scaled-down" alt="Adjusted Trial Balance. Cash $17,000 debit. Accounts receivable 8,500 debit. Supplies 1,500 debit. Prepaid insurance 5,000 debit. Equipment 12,000 debit. Accounts payable 5,000 credit. Unearned fee revenue 4,000 credit. Common stock 15,000 credit. Service fee revenue 32,500 credit. Salaries expense 9,500 debit. Rent expense 3,000 debit. Total debits and total credits 56,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_PB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm230705584">
+<problem id="fs-idm216860224">
+<para id="fs-idm764384512"><link class="lo-reference" document="m67858"/>Using the following Balance Sheet summary information, calculate for the two years presented:</para>
+<list id="fs-idm202402464" list-type="enumerated" number-style="upper-alpha">
+<item>working capital</item>
+<item>current ratio</item>
+</list>
+<media id="fs-idm186703600" class="scaled-down" alt="Company P and Company Q, respectively: Current assets $88,500, $39,000. Current liabilities 67,430, 18,800.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_PB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm769720032">
+<problem id="fs-idm231470928">
+<para id="fs-idm480312848"><link class="lo-reference" document="m67858"/>Using the following Balance Sheet summary information, calculate for the two years presented:</para>
+<list id="fs-idm200131104" list-type="enumerated" number-style="upper-alpha">
+<item>working capital</item>
+<item>current ratio</item>
+</list>
+<media id="fs-idm191792560" class="scaled-down" alt="12/31/18 and 12/31/19, respectively: Current assets $10,500, $12,050. Current liabilities 7,500, 10,800.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_03_PB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm213425184">
+<problem id="fs-idm176864512">
+<para id="fs-idm497001536"><link class="lo-reference" document="m67858"/>Using the following account balances, calculate for the two years presented:</para>
+<list id="fs-idm177021984" list-type="enumerated" number-style="upper-alpha">
+<item>working capital</item>
+<item>current ratio</item>
+</list>
+<media id="fs-idm235237392" class="scaled-down" alt="12/31/18 and 12/31/19, respectively: Accounts Payable 12,790, 1,530. Accounts receivable 16,330, 2,200. Cash 21,040, 5,550. Prepaid insurance 4,500, 1,200. Salaries payable 6,500, 4,000. Utilities payable 1,200, 550.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_02_PB04_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm209199456" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm196414992">
+<problem id="fs-idm224653152">
+<para id="fs-idm224350288"><link class="lo-reference" document="m67858"/>Search the Securities and Exchange Commission website (https://www.sec.gov/edgar/searchedgar/companysearch.html) and locate the latest Form 10-K for a company you would like to analyze. Submit a short memo:</para>
+<list id="fs-idm460574400" list-type="bulleted" bullet-style="bullet">
+<item>State the name and ticker symbol of the company you have chosen.</item>
+<item>Review the company’s end-of-period Balance Sheet for the most recent annual report.</item>
+<item>List the amount of Current Assets and Current Liabilities for the currently reported year, and for the previous year. Use these amounts to calculate the company’s (A) working capital and (B) current ratio.</item>
+</list>
+<para id="fs-idm191970832">Provide the web link to the company’s Form 10-K, to allow accurate verification of your answers.</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm207886064">
+<term>classified balance sheet</term>
+<meaning id="fs-idm228464432">presents information on your balance sheet in a more informative structure, where asset and liability categories are divided into smaller, more detailed sections</meaning>
+</definition>
+<definition id="fs-idm211924464">
+<term>current ratio</term>
+<meaning id="fs-idm213194448">current assets divided by current liabilities; used to determine a company’s liquidity (ability to meet short-term obligations)</meaning>
+</definition>
+<definition id="fs-idm480172080">
+<term>intangible asset</term>
+<meaning id="fs-idm456910448">asset with financial value but no physical presence; examples include copyrights, patents, goodwill, and trademarks</meaning>
+</definition>
+<definition id="fs-idm466922656">
+<term>liquidity</term>
+<meaning id="fs-idm458405424">ability to convert assets into cash in order to meet primarily short-term cash needs or emergencies</meaning>
+</definition>
+<definition id="fs-idm762318000">
+<term>long-term investment</term>
+<meaning id="fs-idm214295792">stocks, bonds, or other types of investments held for more than one operating cycle or one year, whichever is longer</meaning>
+</definition>
+<definition id="fs-idm225571504">
+<term>long-term liability</term>
+<meaning id="fs-idm237733600">debt settled outside one year or one operating cycle, whichever is longer</meaning>
+</definition>
+<definition id="fs-idm233989376">
+<term>operating cycle</term>
+<meaning id="fs-idm235253488">amount of time it takes a company to use its cash to provide a product or service and collect payment from the customer</meaning>
+</definition>
+<definition id="fs-idm500160144">
+<term>property, plant, and equipment</term>
+<meaning id="fs-idm466503808">tangible assets (those that have a physical presence) held for more than one operating cycle or one year, whichever is longer</meaning>
+</definition>
+<definition id="fs-idm757025904">
+<term>working capital</term>
+<meaning id="fs-idm228935744">current assets less current liabilities; sometimes used as a measure of liquidity</meaning>
+</definition>
+</glossary>
+</document>

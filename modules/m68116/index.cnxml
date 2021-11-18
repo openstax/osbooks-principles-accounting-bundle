@@ -1,0 +1,435 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Calculate a Break-Even Point in Units and Dollars</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68116</md:content-id>
+  <md:title>Calculate a Break-Even Point in Units and Dollars</md:title>
+  <md:abstract/>
+  <md:uuid>2754fa71-f948-4e8e-b235-a9542826cd38</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm432222016">In <link document="m67947">Building Blocks of Managerial Accounting</link>, you learned how to determine and recognize the fixed and variable components of costs, and now you have learned about contribution margin. Those concepts can be used together to conduct <term class="no-emphasis">cost-volume-profit (CVP) analysis</term>, which is a method used by companies to determine what will occur financially if selling prices change, costs (either fixed or variable) change, or sales/production volume changes.</para>
+<para id="fs-idm469920800">It is important, first, to make several assumptions about operations in order to understand CVP analysis and the associated contribution margin income statement. However, while the following assumptions are typical in CVP analysis, there can be exceptions. For example, while we typically assume that the sales price will remain the same, there might be exceptions where a quantity discount might be allowed. Our CVP analysis will be based on these assumptions:</para>
+<list id="fs-idm453386464" list-type="bulleted" bullet-style="bullet">
+<item>Costs are linear and can clearly be designated as either fixed or variable. In other words, fixed costs remain fixed in total over the relevant range and variable costs remain fixed on a per-unit basis. For example, if a company has the capability of producing up to 1,000 units a month of a product given its current resources, the relevant range would be 0 to 1,000. If they decided that they wanted to produce 1,800 units a month, they would have to secure additional production capacity. While they might be able to add an extra production shift and then produce 1,800 units a month without buying an additional machine that would increase production capacity to 2,000 units a month, companies often have to buy additional production equipment to increase their relevant range. In this example, the production capacity between 1,800 and 2,000 would be an expense that currently would not provide additional contribution toward fixed costs.</item>
+<item>Selling price per unit remains constant and does not increase or decrease based on volume (i.e., customers are not given discounts based on quantity purchased).</item>
+<item>In the case of manufacturing businesses, inventory does not change because we make the assumption that all units produced are sold.</item>
+<item>In the case of a company that sells multiple products, the sales mix remains constant. For example, if we are a beverage supplier, we might assume that our beverage sales are 3 units of coffee pods and two units of tea bags.</item>
+</list>
+<para id="fs-idm161762544">Using these assumptions, we can begin our discussion of CVP analysis with the break-even point.</para>
+<section id="fs-idm200310816">
+<title>Basics of the Break-Even Point</title>
+<para id="fs-idm440067520">The <term>break-even point</term> is the dollar amount (total sales dollars) or production level (total units produced) at which the company has recovered all variable and fixed costs. In other words, no profit or loss occurs at break-even because Total Cost = Total Revenue. <link target-id="OSX_Acct_M03_02_BrkEvn"/> illustrates the components of the break-even point:</para>
+<figure id="OSX_Acct_M03_02_BrkEvn" class="scaled-down">
+<media id="fs-idm203745056" alt="A graph of the Break-Even Point where “Dollars” is the y axis and “Units Sold” is the x axis. A line goes from the origin up and to the right and is labeled “Total Revenue.” Another line, labeled “Total Costs” goes up and to the right, starting at the y axis above the origin and is not as steep as the first line. There is a point where the two lines cross labeled “Break-Even Point.” The space between the lines to the left of that point is colored in and labeled “Loss.” The space between the lines to the right of that point is colored in and labeled “Profit.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_BrkEvn_img.jpg"/>
+</media>
+<caption>Break-Even Point. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm170059840">The basic theory illustrated in <link target-id="OSX_Acct_M03_02_BrkEvn"/> is that, because of the existence of fixed costs in most production processes, in the first stages of production and subsequent sale of the products, the company will realize a loss. For example, assume that in an extreme case the company has fixed costs of $20,000, a sales price of $400 per unit and variable costs of $250 per unit, and it sells no units. It would realize a loss of $20,000 (the fixed costs) since it recognized no revenue or variable costs. This loss explains why the company’s cost graph recognized costs (in this example, $20,000) even though there were no sales. If it subsequently sells units, the loss would be reduced by $150 (the contribution margin) for each unit sold. This relationship will be continued until we reach the break-even point, where total revenue equals total costs. Once we reach the break-even point for each unit sold the company will realize an increase in profits of $150.</para>
+<para id="fs-idm213603744">For each additional unit sold, the loss typically is lessened until it reaches the break-even point. At this stage, the company is theoretically realizing neither a profit nor a loss. After the next sale beyond the break-even point, the company will begin to make a profit, and the profit will continue to increase as more units are sold. While there are exceptions and complications that could be incorporated, these are the general guidelines for break-even analysis.</para>
+<para id="fs-idm208684768">As you can imagine, the concept of the break-even point applies to every business endeavor—manufacturing, retail, and service. Because of its universal applicability, it is a critical concept to managers, business owners, and accountants. When a company first starts out, it is important for the owners to know when their sales will be sufficient to cover all of their fixed costs and begin to generate a profit for the business. Larger companies may look at the break-even point when investing in new machinery, plants, or equipment in order to predict how long it will take for their sales volume to cover new or additional fixed costs. Since the break-even point represents that point where the company is neither losing nor making money, managers need to make decisions that will help the company reach and <emphasis effect="italics">exceed</emphasis> this point as quickly as possible. No business can operate for very long below break-even. Eventually the company will suffer losses so great that they are forced to close their doors.</para>
+<note id="fs-idm190318272" class="ethical-considerations">
+<title>Break-Even Analysis and Profitability</title>
+<para id="fs-idm174167440">The first step in determining the viability of the business decision to sell a product or provide a service is analyzing the true cost of the product or service and the timeline of payment for the product or service. Ethical managers need an estimate of a product or service's cost and related revenue streams to evaluate the chance of reaching the break-even point.</para>
+<para id="fs-idm210609472">Determining an accurate price for a product or service requires a detailed analysis of both the cost and how the cost changes as the volume increases. This analysis includes the timing of both costs and receipts for payment, as well as how these costs will be financed. An example is an IT service contract for a corporation where the costs will be frontloaded. When costs or activities are frontloaded, a greater proportion of the costs or activities occur in an earlier stage of the project. An IT service contract is typically employee cost intensive and requires an estimate of at least 120 days of employee costs before a payment will be received for the costs incurred. An IT service contract for $100,000 in monthly services with a 30% profit margin will require 4 months of upfront financing of $280,000 balanced over the four months before a single payment is received.</para>
+<para id="fs-idm758190416">The overall profit at a specific point in time requires a careful determination of all of the costs associated with creating and selling the product or providing the service. An ethical managerial accountant will provide a realistic cost estimate, regardless of management's desire to sell a product or provide a service. What might be a lucrative product on its face needs additional analysis provided by the managerial accountant.</para>
+</note>
+<para id="fs-idm466502208">To illustrate the concept of break-even, we will return to Hicks Manufacturing and look at the Blue Jay birdbath they manufacture and sell.</para>
+<note id="fs-idm201019856" class="link-to-learning">
+<para id="fs-idm205709664">Watch this <link url="https://openstax.org/l/50CVPanalysis">video of an example of performing the first steps of cost-volume-profit analysis</link> to learn more.</para>
+</note>
+<section id="fs-idm199035120">
+<title>Sales Where Operating Income Is $0</title>
+<para id="fs-idm464859808">Hicks Manufacturing is interested in finding out the point at which they break even selling their Blue Jay Model birdbath. They will break even when the operating income is $0. The operating income is determined by subtracting the total variable and fixed costs from the sales revenue generated by an enterprise. In other words, the managers at Hicks want to know how many Blue Jay birdbaths they will need to sell in order to cover their fixed expenses and break even. Information on this product is:</para>
+<media id="fs-idm174935904" class="scaled-down" alt="Hicks Manufacturing Blue Jay Model: Sales Price per Unit $100 less Variable Cost per unit 20 equals Contribution Margin per Unit $80. Total Fixed Cost per Month $18,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_Hicks01_img.jpg"/>
+</media>
+<para id="fs-idm194636464">In order to find their break-even point, we will use the contribution margin for the Blue Jay and determine how many contribution margins we need in order to cover the fixed expenses, as shown in the formula in <link target-id="OSX_Acct_M03_02_Hicks02"/>.</para>
+<figure id="OSX_Acct_M03_02_Hicks02" class="scaled-down">
+<media id="fs-idm217315424" alt="Break-Even Point in Units: Total Fixed Costs divided by Contribution Margin per Unit equals $18,000 divided by $80 equals 225 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_Hicks02.jpg"/>
+</media>
+<caption>Break-Even Point in Units. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm175068416">Applying this to Hicks calculates as:</para>
+<equation id="fs-idm184142128" class="unnumbered"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>$18,000</m:mn></m:mrow><m:mrow><m:mn>$80</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>225</m:mn><m:mspace width="0.2em"/><m:mtext>units</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm442698864">What this tells us is that Hicks must sell 225 Blue Jay Model birdbaths in order to cover their fixed expenses. In other words, they will not begin to show a profit until they sell the 226<sup>th</sup> unit. This is illustrated in their contribution margin income statement.</para>
+<media id="fs-idm192049712" class="scaled-down" alt="Hicks Manufacturing Contribution Margin Income Statement: Sales (225 units at $100 per unit) $22,500 less Variable Cost (225 units at $20 per unit) 4,500 equals Contribution Margin 18,000. Subtract Fixed Costs 18,000 equals Operating Income of $0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_Hicks03_img.jpg"/>
+</media>
+<para id="fs-idm210597760">The break-even point for Hicks Manufacturing at a sales volume of $22,500 (225 units) is shown graphically in <link target-id="OSX_Acct_M03_02_Hicks04"/>.</para>
+<figure id="OSX_Acct_M03_02_Hicks04">
+<media id="fs-idm221767856" alt="A graph of the Break-Even Point where “Dollars” is the y axis and “Birdbaths Sold” is the x axis. A line goes from the origin up and to the right and is labeled “Sales.” Another line, representing “Total Costs” goes up and to the right, starting at the y axis at $18,000 and is not as steep as the first line. There is a point where the two lines cross labeled “Break-Even Point.” There are dotted lines going at right angles from the breakeven point to both axes, showing the units sold are 225 and the cost is $22,500. The space between the lines to the left of that point is colored in and labeled “Loss.” The space between the lines to the right of that point is colored in and labeled “Profit.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_Hicks04_img.jpg"/>
+</media>
+<caption>Hicks Manufacturing Break-Even Point for 225 Units. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm199233136">As you can see, when Hicks sells 225 Blue Jay Model birdbaths, they will make no profit, but will not suffer a loss because all of their fixed expenses are covered. However, what happens when they do not sell 225 units? If that happens, their operating income is negative.</para>
+</section>
+<section id="fs-idm184083552">
+<title>Sales Where Operating Income Is Negative</title>
+<para id="fs-idm221711360">In a recent month, local flooding caused Hicks to close for several days, reducing the number of units they could ship and sell from 225 units to 175 units. The information in <link target-id="OSX_Acct_M03_02_Hicks05"/> reflects this drop in sales.</para>
+<figure id="OSX_Acct_M03_02_Hicks05" class="scaled-down">
+<media id="fs-idm203404224" alt="Hicks Manufacturing Contribution Margin Income Statement: Sales (175 units at $100 per unit) $17,500 less Variable Cost (175 units at $20 per unit) 3,500 equals Contribution Margin 14,000. Subtract Fixed Costs 18,000 equals Operating Income of $(4,000).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_Hicks05.jpg"/>
+</media>
+<caption>Hicks Manufacturing Contribution Margin Income Statement. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm177693088">At 175 units ($17,500 in sales), Hicks does not generate enough sales revenue to cover their fixed expenses and they suffer a loss of $4,000. They did not reach the break-even point of 225 units.</para>
+<figure id="OSX_Acct_M03_02_Hicks06">
+<media id="fs-idm458371664" alt="A graph of the Break-Even Point where “Dollars” is the y axis and “Birdbaths Sold” is the x axis. A line goes from the origin up and to the right and is labeled “Sales.” Another line, representing “Total Costs” goes up and to the right, starting at the y axis at $18,000 and is not as steep as the first line. There is a point where the two lines cross labeled “Break-Even Point.” There are dotted lines going at right angles from the breakeven point to both axes showing the units sold are 225 and the cost is $22,500. There is also a dotted line at the point at 175 units level going up to the sales and costs lines with a point on each. A dotted line from each is going to the y axis crossing at $21,500 from the cost line and $17,500 from the sales line. The difference between these two points is the $4,000 loss.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_Hicks06_img.jpg"/>
+</media>
+<caption>Hicks Manufacturing Break-Even Point for 175 Units. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm480279312">
+<title>Sales Where Operating Income Is Positive</title>
+<para id="fs-idm196579520">What happens when Hicks has a busy month and sells 300 Blue Jay birdbaths? We have already established that the contribution margin from 225 units will put them at break-even. When sales exceed the break-even point the unit contribution margin from the additional units will go toward profit. This is reflected on their income statement.</para>
+<media id="fs-idm209788560" class="scaled-down" alt="Hicks Manufacturing Contribution Margin Income Statement: Sales (300 units at $100 per unit) $30,000 less Variable Cost (300 units at $20 per unit) 6,000 equals Contribution Margin 24,000. Subtract Fixed Costs 18,000 equals Operating Income of $6,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_Hicks07_img.jpg"/>
+</media>
+<para id="fs-idm469932752">Again, looking at the graph for break-even (<link target-id="OSX_Acct_M03_02_Hicks08"/>), you will see that their sales have moved them beyond the point where total revenue is equal to total cost and into the profit area of the graph.</para>
+<figure id="OSX_Acct_M03_02_Hicks08">
+<media id="fs-idm213019920" alt="A graph of the Break-Even Point where “Dollars” is the y axis and “Birdbaths Sold” is the x axis. A line goes from the origin up and to the right and is labeled “Sales.” Another line, representing “Total Costs” goes up and to the right, starting at the y axis at $18,000 and is not as steep as the first line. There is a point where the two lines cross labeled “Break-Even Point.” There are dotted lines going at right angles from the breakeven point to both axes showing the units sold are 225 and the cost is $22,500. There is also a dotted line going up from the units x axis at 300 units to both the cost and the sales lines. The points at which they cross have a dotted line going to the Y axis crossing at $24,000 from the cost point and $28,500 from the sales point. The difference between these two points represents the $6,000 profit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_Hicks08.jpg"/>
+</media>
+<caption>Hicks Manufacturing Break-Even Point for 300 Units. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm195297296">Hicks Manufacturing can use the information from these different scenarios to inform many of their decisions about operations, such as sales goals.</para>
+<para id="fs-idm490925776">However, using the contribution margin per unit is not the only way to determine a break-even point. Recall that we were able to determine a contribution margin expressed in dollars by finding the contribution margin ratio. We can apply that contribution margin ratio to the break-even analysis to determine the break-even point in dollars. For example, we know that Hicks had $18,000 in fixed costs and a contribution margin ratio of 80% for the Blue Jay model. We will use this ratio (<link target-id="OSX_Acct_M03_02_Hicks09"/>) to calculate the break-even point in dollars.</para>
+<figure id="OSX_Acct_M03_02_Hicks09" class="scaled-down">
+<media id="fs-idm220309872" alt="Break-Even Point in Dollars equals Fixed Costs divided by Contribution Margin ratio equals $18,000 divided by 0.80 equals $22,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_Hicks09.jpg"/>
+</media>
+<caption>Break-Even Point in Dollars. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm183089376">Applying the formula to Hicks gives this calculation:</para>
+<equation id="fs-idm480893328" class="unnumbered"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>$18,000</m:mn></m:mrow><m:mrow><m:mn>0.80</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$22,500</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm179019712">Hicks Manufacturing will have to generate $22,500 in monthly sales in order to cover all of their fixed costs. In order for us to verify that Hicks’ break-even point is $22,500 (or 225 units) we will look again at the contribution margin income statement at break-even:</para>
+<media id="fs-idm187835536" class="scaled-down" alt="Hicks Manufacturing Contribution Margin Income Statement: Sales (225 units at $100 per unit) $22,500 less Variable Cost (225 units at $20 per unit) 4,500 equals Contribution Margin 18,000. Subtract Fixed Costs 18,000 equals Operating Income of $0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_Hicks10_img.jpg"/>
+</media>
+<para id="fs-idm226180464">By knowing at what level sales are sufficient to cover fixed expenses is critical, but companies want to be able to make a profit and can use this break-even analysis to help them.</para>
+<note id="fs-idm223830944" class="think-through">
+<title>The Cost of a Haircut</title>
+<para id="fs-idm445119632">You are the manager of a hair salon and want to know how many ladies’ haircuts your salon needs to sell in a month in order to cover the fixed costs of running the salon. You have determined that, at the current price of $35 per haircut, you have $20 in variable costs associated with each cut. These variable costs include stylist wages, hair product, and shop supplies. Your fixed costs are $3,000 per month. You perform a break-even analysis on a per-unit basis and discover the following:</para>
+<media id="fs-idm221544288" class="scaled-down-30" alt="Sales Price per Unit $35, Variable Cost per Unit 20, contribution Margin per Unit 15, Break-Even (in units) 200.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_TT01_img.png"/>
+</media>
+<para id="fs-idm198972672">You have 4 stylists plus yourself working in the salon and are open 6 days per week. Considering the break-even point and the number of available stylists, will the salon ever break even? If it does, what will need to happen? What can be done to achieve the break-even point?</para>
+</note>
+</section>
+</section>
+<section id="fs-idm201037984">
+<title>Examples of the Effects of Variable and Fixed Costs in Determining the Break-Even Point</title>
+<para id="fs-idm493991664">Companies typically do not want to simply break even, as they are in business to make a profit. Break-even analysis also can help companies determine the level of sales (in dollars or in units) that is needed to make a desired profit. The process for factoring a desired level of profit into a break-even analysis is to add the desired level of profit to the fixed costs and then calculate a new break-even point. We know that Hicks Manufacturing breaks even at 225 Blue Jay birdbaths, but what if they have a target profit for the month of July? They can simply add that target to their fixed costs. By calculating a target profit, they will produce and (hopefully) sell enough bird baths to cover both fixed costs and the target profit.</para>
+<para id="fs-idm218563248">If Hicks wants to earn $16,000 in profit in the month of May, we can calculate their new break-even point as follows:</para>
+<equation id="fs-idm203676096" class="unnumbered"><m:math><m:mrow><m:mtext>Target Profit</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>Fixed costs</m:mtext><m:mo>+</m:mo><m:mtext>desired profit</m:mtext></m:mrow><m:mrow><m:mtext>Contribution margin per unit</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$18,000</m:mn><m:mo>+</m:mo><m:mn>$16,000</m:mn></m:mrow><m:mrow><m:mn>$80</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>425</m:mn><m:mspace width="0.2em"/><m:mtext>units</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm214300368">We have already established that the $18,000 in fixed costs is covered at the 225 units mark, so an additional 200 units will cover the desired profit (200 units × $80 per unit contribution margin = $16,000). Alternatively, we can calculate this in terms of dollars by using the contribution margin ratio.</para>
+<equation id="fs-idm215076736" class="unnumbered"><m:math><m:mrow><m:mtext>Target Profit</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>Fixed costs</m:mtext><m:mo>+</m:mo><m:mtext>desired profit</m:mtext></m:mrow><m:mrow><m:mtext>Contribution margin ratio</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$18,000</m:mn><m:mo>+</m:mo><m:mn>$16,000</m:mn></m:mrow><m:mrow><m:mn>0.80</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$42,500</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm219425792">As done previously, we can confirm this calculation using the contribution margin income statement:</para>
+<media id="fs-idm182851200" class="scaled-down" alt="Sales (425 units at $100 per unit) $42,500 less Variable Cost (425 units at $20 per unit) 8,500 equals Contribution Margin 34,000. Subtract Fixed Costs 18,000 equals Operating Income of $16,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_BkEv03_img.jpg"/>
+</media>
+<para id="fs-idm217367952">Note that the example calculations ignored income taxes, which implies we were finding target operating income. However, companies may want to determine what level of sales would generate a desired after-tax profit. To find the break-even point at a desired after-tax profit, we simply need to convert the desired after-tax profit to the desired pre-tax profit, also referred to as operating income, and then follow through as in the example. Suppose Hicks wants to earn $24,000 after-taxes, what level of sales (units and dollars) would be needed to meet that goal? First, the after-tax profit needs to be converted to a pre-tax desired profit:</para>
+<equation id="fs-idm205787984" class="unnumbered"><m:math><m:mrow><m:mtext>Pre-tax desired profit</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>After-tax profit</m:mtext></m:mrow><m:mrow><m:mtext>(1 – tax rate)</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm196310400">If the tax rate for Hicks is 40%, then the $24,000 after-tax profit is equal to a pre-tax profit of $40,000:</para>
+<equation id="fs-idm218727392" class="unnumbered"><m:math><m:mrow><m:mn>$40,000</m:mn><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$24,000</m:mn></m:mrow><m:mrow><m:mn>(1 – 0.40)</m:mn></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm203795280">The tax rate indicates the amount of tax expense that will result from any profits and 1 – tax rate indicates the amount remaining after taking out tax expense. The concept is similar to buying an item on sale. If an item costs $80 and is on sale for 40% off, then the amount being paid for the item is 60% of the sale price, or $48 ($80 × 60%). Another way to find this involves two steps. First find the discount ($80 × 40% = $32) and then subtract the discount from the sales price ($80 – $32 = $48).</para>
+<para id="fs-idm217678720">Taxes and profit work in a similar fashion. If we know the profit before tax is $100,000 and the tax rate is 30%, then tax expenses are $100,000 × 30% = $30,000. This means the after-tax income is $100,000 – $30,000 = $70,000. However, in most break-even situations, as well as other decision-making areas, the desired after-tax profit is known, and the pre-tax profit must be determined by dividing the after-tax profit by 1 – tax rate.</para>
+<para id="fs-idm351203728">To demonstrate the combination of both a profit and the after-tax effects and subsequent calculations, let’s return to the Hicks Manufacturing example. Let’s assume that we want to calculate the target volume in units and revenue that Hicks must sell to generate an after-tax return of $24,000, assuming the same fixed costs of $18,000.</para>
+<para id="fs-idm327885904">Since we earlier determined $24,000 after-tax equals $40,000 before-tax if the tax rate is 40%, we simply use the break-even at a desired profit formula to determine the target sales.</para>
+<equation id="fs-idm310065168" class="unnumbered"><m:math><m:mrow><m:mtext>Target sales</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>Fixed costs</m:mtext><m:mo>+</m:mo><m:mtext>Desired profit</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>Contribution margin per unit</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>$</m:mtext><m:mn>18,000</m:mn><m:mo>+</m:mo><m:mtext>$</m:mtext><m:mn>40,000</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>$</m:mtext><m:mn>80</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>725</m:mn><m:mspace width="0.2em"/><m:mtext>units</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm325512336">This calculation demonstrates that Hicks would need to sell 725 units at $100 a unit to generate $72,500 in sales to earn $24,000 in after-tax profits.</para>
+<para id="fs-idm298709840">Alternatively, target sales in sales dollars could have been calculated using the contribution margin ratio:</para>
+<equation id="fs-idm324530032" class="unnumbered"><m:math><m:mrow><m:mtext>Target sales</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>Fixed costs</m:mtext><m:mo>+</m:mo><m:mtext>Desired profit</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>Contribution margin per unit</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>$</m:mtext><m:mn>18,000</m:mn><m:mo>+</m:mo><m:mtext>$</m:mtext><m:mn>40,000</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>0.80</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$72,500</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm299151440">Once again, the contribution margin income statement proves the sales and profit relationships.</para>
+<media id="fs-idm347391344" alt="Sales and profit relationships. Sales of 725 units × $100 per unit = $72,500, and variable costs of 725 units × $20 per unit = (14,500) for a contribution margin of $58,000. Fixed costs are (18,000), pre-tax profit is $40,000, and income tax expense of 40% is (16,000) for an after-tax profit of $24,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_Profit_img.jpg"/>
+</media>
+<para id="fs-idm201428048">Thus, to calculate break-even point at a particular after-tax income, the only additional step is to convert after-tax income to pre-tax income prior to utilizing the break-even formula. It is good to understand the impact of taxes on break-even analysis as companies will often want to plan based on the after-tax effects of a decision as the after-tax portion of income is the only part of income that will be available for future use.</para>
+</section>
+<section id="fs-idm223428528">
+<title>Application of Break-Even Concepts for a Service Organization</title>
+<para id="fs-idm221118512">Because break-even analysis is applicable to any business enterprise, we can apply these same principles to a service organization. For example, Marshall &amp; Hirito is a mid-sized accounting firm that provides a wide range of accounting services to its clients but relies heavily on personal income tax preparation for much of its revenue. They have analyzed the cost to the firm associated with preparing these returns. They have determined the following cost structure for the preparation of a standard 1040A Individual Income Tax Return:</para>
+<media id="fs-idm163067536" class="scaled-down" alt="Charge to client (sales price per return) $400, Variable cost per return 150.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_MS01_img.jpg"/>
+</media>
+<para id="fs-idm198283680">They have fixed costs of $14,000 per month associated with the salaries of the accountants who are responsible for preparing the <emphasis effect="italics">Form 1040A</emphasis>. In order to determine their break-even point, they first determine the contribution margin for the <emphasis effect="italics">Form 1040A</emphasis> as shown:</para>
+<media id="fs-idm208456368" class="scaled-down" alt="Sales price per return $400, Variable cost per return $150, Contribution margin per return $250.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_MS02_img.jpg"/>
+</media>
+<para id="fs-idm226225104">Now they can calculate their break-even point:</para>
+<equation id="fs-idm214869424" class="unnumbered"><m:math><m:mrow><m:mtext>Break-Even Point in Units</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>Total fixed costs</m:mtext></m:mrow><m:mrow><m:mtext>Contribution margin per unit</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$14,000</m:mn></m:mrow><m:mrow><m:mn>$250</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>56</m:mn><m:mspace width="0.2em"/><m:mtext>returns</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm177824400">Remember, this is the break-even point in units (the number of tax returns) but they can also find a break-even point expressed in dollars by using the contribution margin ratio. First, they find the contribution margin ratio. Then, they use the ratio to calculate the break-even point in dollars:</para>
+<equation id="fs-idm198948736" class="unnumbered"><m:math><m:mrow><m:mtext>Break-Even Point in Dollars</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>Fixed costs</m:mtext></m:mrow><m:mrow><m:mtext>Contribution margin ratio</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$14,000</m:mn></m:mrow><m:mrow><m:mn>0.625</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$22,400</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm431761168">We can confirm these figures by preparing a contribution margin income statement:</para>
+<media id="fs-idm492047168" class="scaled-down" alt="Marshall &amp; Son, CPAs, Contribution Margin Income Statement, Sales (56 at $400 per return) $22,400 less Variable Costs (56 at $150 per return) 8,400 equals Contribution Margin 14,000. Subtract Fixed Costs 14,000 equals Operating Income of $0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_MS05_img.jpg"/>
+</media>
+<para id="fs-idm211745920">Therefore, as long as Marshall &amp; Hirito prepares 56 <emphasis effect="italics">Form 1040</emphasis> income tax returns, they will earn no profit but also incur no loss. What if Marshall &amp; Hirito has a target monthly profit of $10,000? They can use the break-even analysis process to determine how many returns they will need to prepare in order to cover their fixed expenses and reach their target profit:</para>
+<equation id="fs-idm199418704" class="unnumbered"><m:math><m:mrow><m:mtext>Target Profit</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>Fixed costs</m:mtext><m:mo>+</m:mo><m:mtext>desired profit</m:mtext></m:mrow><m:mrow><m:mtext>Contribution margin per unit</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$14,000</m:mn><m:mo>+</m:mo><m:mn>$10,000</m:mn></m:mrow><m:mrow><m:mn>$250</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>96</m:mn><m:mspace width="0.2em"/><m:mtext>returns</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm178928896">They will need to prepare 96 returns during the month in order to realize a $10,000 profit. Expressing this in dollars instead of units requires that we use the contribution margin ratio as shown:</para>
+<equation id="fs-idm192031824" class="unnumbered"><m:math><m:mrow><m:mtext>Target Profit</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>Fixed costs</m:mtext><m:mo>+</m:mo><m:mtext>desired profit</m:mtext></m:mrow><m:mrow><m:mtext>Contribution margin per unit</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$14,000</m:mn><m:mo>+</m:mo><m:mn>$10,000</m:mn></m:mrow><m:mrow><m:mn>0.625</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$38,400</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm198295632">Marshall &amp; Hirito now knows that, in order to cover the fixed costs associated with this service, they must generate $38,400 in revenue. Once again, let’s verify this by constructing a contribution margin income statement:</para>
+<media id="fs-idm218117568" class="scaled-down" alt="Marshall &amp; Son, CPAs, Contribution Margin Income Statement, Sales (96 at $400 per return) $38,400 less Variable Costs (96 at $150 per return) 14,400 equals Contribution Margin 24,000. Subtract Fixed Costs 14,000 equals Operating Income of $10,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_MS08_img.jpg"/>
+</media>
+<para id="fs-idm460887616">As you can see, the $38,400 in revenue will not only cover the $14,000 in fixed costs, but will supply Marshall &amp; Hirito with the $10,000 in profit (net income) they desire.</para>
+<para id="fs-idm213058880">As you’ve learned, break-even can be calculated using either contribution margin per unit or the contribution margin ratio. Now that you have seen this process, let’s look at an example of these two concepts presented together to illustrate how either method will provide the same financial results.</para>
+<para id="fs-idm177719200">Suppose that Channing’s Chairs designs, builds, and sells unique ergonomic desk chairs for home and business. Their bestselling chair is the Spine Saver. <link target-id="OSX_Acct_M03_02_MS09"/> illustrates how Channing could determine the break-even point in sales dollars using either the contribution margin per unit or the contribution margin ratio.</para>
+<figure id="OSX_Acct_M03_02_MS09">
+<media id="fs-idm201210000" alt="Sales Price per Unit $1,250, Cost per Unit $850, Contribution Margin per Unit $400, Fixed Costs $16,800, Fixed Cost divided by Contribution Margin per Unit $16,800 divided by $400, Break-Even in Units 42, Break Even in Dollars 42 times $1,250 equals $52,500, Contribution Margin Ratio (CM divided by Sales or $400 divided by $1,250) 32 percent, Break-even in Sales Dollars (FC divided by CM or $16,800 divided by .32 equals $52,500, Break-Even in Units (Break Even Sales divided by Unit Selling Price or $42,500 divided by $1,250 equals 42 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_MS09.jpg"/>
+</media>
+<caption>Channing’s Break-Even Point. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm201001728">Note that in either scenario, the break-even point is the same in dollars and units, regardless of approach. Thus, you can always find the break-even point (or a desired profit) in units and then convert it to sales by multiplying by the selling price per unit. Alternatively, you can find the break-even point in sales dollars and then find the number of units by dividing by the selling price per unit.</para>
+<note id="fs-idm205204592" class="your-turn">
+<title>College Creations</title>
+<para id="fs-idm206887088">College Creations, Inc (CC), builds a loft that is easily adaptable to most dorm rooms or apartments and can be assembled into a variety of configurations. Each loft is sold for $500, and the cost to produce one loft is $300, including all parts and labor. CC has fixed costs of $100,000.</para>
+<list id="fs-idm196846768" list-type="enumerated" number-style="upper-alpha">
+<item>What happens if CC produces nothing?</item>
+<item>Now, assume CC produces and sells one unit (loft). What are their financial results?</item>
+<item>Now, what do you think would happen if they produced and sold 501 units?</item>
+<item>How many units would CC need to sell in order to break even?</item>
+<item>How many units would CC need to sell if they wanted to have a pretax profit of $50,000?</item>
+</list>
+<para id="fs-idm177237952"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm169147008">A. If they produce nothing, they will still incur fixed costs of $100,000. They will suffer a net loss of $100,000.</para>
+<para id="fs-idm224024080">B. If they sell one unit, they will have a net loss of $99,800.</para>
+<media id="fs-idm217348480" class="scaled-down-30" alt="Sales Revenue $500 less Cost per Unit 300 equals Contribution Margin 200. Subtract 100,000 Fixed Costs to get Operating Loss of $(99,800).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_YT01S1_img.png"/>
+</media>
+<para id="fs-idm181691936">C. If they produce 501 units, they will have operating income of $200 as shown:</para>
+<media id="fs-idm222326272" class="scaled-down" alt="Sales Revenue (501 Units at $500) $250,500 less Cost per Unit (501 units at $300) 150,300 equals Contribution Margin 100,200. Subtract 100,000 Fixed Costs to get Operating Income of $200.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_YT01S2_img.png"/>
+</media>
+<para id="fs-idm484503040">D. Break-even can be determined by FC/CM per unit: $100,000 ÷ $200 = 500. Five hundred lofts must be sold to break even.</para>
+<para id="fs-idm215901008">E. The desired profit can be treated like a fixed cost, and the target profit would be (FC + Desired Profit)/CM or ($100,000 + $50,000) ÷ $200 = 750. Seven hundred fifty lofts need to be sold to reach a desired income of $50,000. Another way to have found this is to know that, after fixed costs are met, the $200 per unit contribution margin will go toward profit. The desired profit of $50,000 ÷ $200 per unit contribution margin = 250. This means that 250 additional units must be sold. To break even requires 500 units to be sold, and to reach the desired profit of $50,000 requires an additional 250 units, for a total of 750 units.</para>
+</note>
+</section>
+<section id="fs-idm196528352" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm491087408" list-type="bulleted" bullet-style="bullet">
+<item>Break-even analysis is a tool that almost any business can use for planning and evaluation purposes. It helps identify a level of activity that is necessary before an organization starts to generate a profit.</item>
+<item>A break-even point can be found on a per-unit basis or as a dollar amount, depending upon whether a per-unit contribution margin or a contribution margin ratio is applied.</item>
+</list>
+</section>
+<section id="fs-idm463848320" class="multiple-choice">
+<exercise id="fs-idm177875792">
+<problem id="fs-idm210725328">
+<para id="fs-idm196568064"><link class="lo-reference" document="m68116"/>A company sells its products for $80 per unit and has per-unit variable costs of $30. What is the contribution margin per unit?</para>
+<list id="fs-idm205258688" list-type="enumerated" number-style="upper-alpha">
+<item>$30</item>
+<item>$50</item>
+<item>$80</item>
+<item>$110</item>
+</list>
+</problem>
+<solution id="fs-idm217390304">
+<para id="fs-idm214933904">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm209373600">
+<problem id="fs-idm215047712">
+<para id="fs-idm216009040"><link class="lo-reference" document="m68116"/>If a company has fixed costs of $6,000 per month and their product that sells for $200 has a contribution margin ratio of 30%, how many units must they sell in order to break even?</para>
+<list id="fs-idm204134464" list-type="enumerated" number-style="upper-alpha">
+<item>100</item>
+<item>180</item>
+<item>200</item>
+<item>2,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm211737040">
+<problem id="fs-idm219727584">
+<para id="fs-idm759896208"><link class="lo-reference" document="m68116"/>Company A wants to earn $5,000 profit in the month of January. If their fixed costs are $10,000 and their product has a per-unit contribution margin of $250, how many units must they sell to reach their target income?</para>
+<list id="fs-idm469132800" list-type="enumerated" number-style="upper-alpha">
+<item>20</item>
+<item>40</item>
+<item>60</item>
+<item>120</item>
+</list>
+</problem>
+<solution id="fs-idm197082592">
+<para id="fs-idm207234880">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm207434672">
+<problem id="fs-idm225663520">
+<para id="fs-idm216203712"><link class="lo-reference" document="m68116"/>A company wants to earn an income of $60,000 after-taxes. If the tax rate is 32%, what must be the company’s pre-tax income in order to have $60,000 after-taxes?</para>
+<list id="fs-idm215528992" list-type="enumerated" number-style="upper-alpha">
+<item>$88,235</item>
+<item>$19,200</item>
+<item>$79,200</item>
+<item>$143,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm208392960">
+<problem id="fs-idm211668512">
+<para id="fs-idm182849232"><link class="lo-reference" document="m68116"/>A company has pre-tax or operating income of $120,000. If the tax rate is 40%, what is the company’s after-tax income?</para>
+<list id="fs-idm219843280" list-type="enumerated" number-style="upper-alpha">
+<item>$300,000</item>
+<item>$240,000</item>
+<item>$48,000</item>
+<item>$72,000</item>
+</list>
+</problem>
+<solution id="fs-idm207786448">
+<para id="fs-idm217694256">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm216469680" class="questions">
+<exercise id="fs-idm214519488">
+<problem id="fs-idm466591248">
+<para id="fs-idm204094992"><link class="lo-reference" document="m68116"/>In a cost-volume-profit analysis, explain what happens at the break-even point and why companies do not want to remain at the break-even point.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm224938048">
+<problem id="fs-idm169317648">
+<para id="fs-idm214397424"><link class="lo-reference" document="m68116"/>What is meant by a product’s contribution margin ratio and how is this ratio useful in planning business operations?</para>
+</problem>
+<solution id="fs-idm204089584">
+<para id="fs-idm220690464">Answers will vary. Responses should include the fact that the contribution margin ratio represents the percentage of every sales dollar available to cover fixed expenses. Businesses can use this ratio when projecting profit at various levels of sales revenue.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm207360480" class="exercise-set-a">
+<exercise id="fs-idm197038544">
+<problem id="fs-idm468239776">
+<para id="fs-idm224525776"><link class="lo-reference" document="m68116"/>Maple Enterprises sells a single product with a selling price of $75 and variable costs per unit of $30. The company’s monthly fixed expenses are $22,500.</para>
+<list id="fs-idm224180048" list-type="enumerated" number-style="upper-alpha">
+<item>What is the company’s break-even point in units?</item>
+<item>What is the company’s break-even point in dollars?</item>
+<item>Construct a contribution margin income statement for the month of September when they will sell 900 units.</item>
+<item>How many units will Maple need to sell in order to reach a target profit of $45,000?</item>
+<item>What dollar sales will Maple need in order to reach a target profit of $45,000?</item>
+<item>Construct a contribution margin income statement for Maple that reflects $150,000 in sales volume.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm196297152">
+<problem id="fs-idm210161040">
+<para id="fs-idm217509952"><link class="lo-reference" document="m68116"/>Marlin Motors sells a single product with a selling price of $400 with variable costs per unit of $160. The company’s monthly fixed expenses are $36,000.</para>
+<list id="fs-idm199066496" list-type="enumerated" number-style="upper-alpha">
+<item>What is the company’s break-even point in units?</item>
+<item>What is the company’s break-even point in dollars?</item>
+<item>Prepare a contribution margin income statement for the month of November when they will sell 130 units.</item>
+<item>How many units will Marlin need to sell in order to realize a target profit of $48,000?</item>
+<item>What dollar sales will Marlin need to generate in order to realize a target profit of $48,000?</item>
+<item>Construct a contribution margin income statement for the month of February that reflects $200,000 in sales revenue for Marlin Motors.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm201154800" class="exercise-set-b">
+<exercise id="fs-idm209109664">
+<problem id="fs-idm468157328">
+<para id="fs-idm196477984"><link class="lo-reference" document="m68116"/>Cadre, Inc., sells a single product with a selling price of $120 and variable costs per unit of $90. The company’s monthly fixed expenses are $180,000.</para>
+<list id="fs-idm210290560" list-type="enumerated" number-style="upper-alpha">
+<item>What is the company’s break-even point in units?</item>
+<item>What is the company’s break-even point in dollars?</item>
+<item>Prepare a contribution margin income statement for the month of October when they will sell 10,000 units.</item>
+<item>How many units will Cadre need to sell in order to realize a target profit of $300,000?</item>
+<item>What dollar sales will Cadre need to generate in order to realize a target profit of $300,000?</item>
+<item>Construct a contribution margin income statement for the month of August that reflects $2,400,000 in sales revenue for Cadre, Inc.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm205398000">
+<problem id="fs-idm196269232">
+<para id="fs-idm203915040"><link class="lo-reference" document="m68116"/>Kerr Manufacturing sells a single product with a selling price of $600 with variable costs per unit of $360. The company’s monthly fixed expenses are $72,000.</para>
+<list id="fs-idm200612112" list-type="enumerated" number-style="upper-alpha">
+<item>What is the company’s break-even point in units?</item>
+<item>What is the company’s break-even point in dollars?</item>
+<item>Prepare a contribution margin income statement for the month of January when they will sell 500 units.</item>
+<item>How many units will Kerr need to sell in order to realize a target profit of $120,000?</item>
+<item>What dollar sales will Kerr need to generate in order to realize a target profit of $120,000?</item>
+<item>Construct a contribution margin income statement for the month of June that reflects $600,000 in sales revenue for Kerr Manufacturing.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm197147392">
+<problem id="fs-idm200775360">
+<para id="fs-idm215222608"><link class="lo-reference" document="m68116"/>Delta Co. sells a product for $150 per unit. The variable cost per unit is $90 and fixed costs are $15,250. Delta Co.’s tax rate is 36% and the company wants to earn $44,000 after taxes.</para>
+<list id="fs-idm184262096" list-type="enumerated" number-style="upper-alpha">
+<item>What would be Delta’s desired pre-tax income?</item>
+<item>What would be break-even point in units to reach the income goal of $44,000 after taxes?</item>
+<item>What would be break-even point in sales dollars to reach the income goal of $44,000 after taxes?</item>
+<item>Create a contribution margin income statement to show that the break-even point calculated in B, generates the desired after-tax income.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm491196112" class="problem-set-a">
+<exercise id="fs-idm201003408">
+<problem id="fs-idm219387264">
+<para id="fs-idm210195440"><link class="lo-reference" document="m68116"/>Fill in the missing amounts for the four companies. Each case is independent of the others. Assume that only one product is being sold by each company.</para>
+<media id="fs-idm163380736" alt="Company A, Company B, Company C, Company D (respectively): Units Sold 600, ?, ?, 900; Sales in Dollars $30,000, 70,000, 240,000, ?; Total Variable Expenses $7,200, ?, ?, $144,000; Per Unit C/M ?, $80, $270, $140; Total Fixed Expenses $20,000, 50,000, 145,000, ?; Net Operating Income (loss) ?, $6,000, $(10,000), $(24,000).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_PA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm214180512">
+<problem id="fs-idm494910912">
+<para id="fs-idm224085760"><link class="lo-reference" document="m68116"/>Markham Farms reports the following contribution margin income statement for the month of August. The company has the opportunity to purchase new machinery that will reduce its variable cost per unit by $2 but will increase fixed costs by 15%. Prepare a projected contribution margin income statement for Markham Farms assuming it purchases the new equipment. Assume sales level remains unchanged.</para>
+<media id="fs-idm167055568" class="scaled-down" alt="Markham Farms, Contribution Margin Income Statement: Sales (1,500 units at $75 per unit) $112,500 less Variable Costs (1,500 units at $15 per unit) 22,500 equals Contribution Margin 90,000. Subtract Fixed Costs 40,000 equals Net Income $50,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_PA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm222537488" class="problem-set-b">
+<exercise id="fs-idm198805312">
+<problem id="fs-idm174034160">
+<para id="fs-idm210685264"><link class="lo-reference" document="m68116"/>Fill in the missing amounts for the four companies. Each case is independent of the others. Assume that only one product is being sold by each company.</para>
+<media id="fs-idm196199248" alt="Company A, Company B, Company C, Company D (respectively): Units Sold 700, ?, ?, 600; Sales in Dollars $35,000, $40,000, $35,000, ?; Total Variable Expenses $14,000, ?, ?, $18,000; Per Unit C/M ?, $90, $100, $60; Total Fixed Expenses $10,000, $9,000, $12,000, ?; Net Operating Income (loss) ?, $27,000, $8,000, $16,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_PB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm216820832">
+<problem id="fs-idm209300608">
+<para id="fs-idm221470128"><link class="lo-reference" document="m68116"/>West Island distributes a single product. The company’s sales and expenses for the month of June are shown.</para>
+<media id="fs-idm468990176" class="scaled-down-30" alt="Sales Price per Unit $150, Variable Costs per Unit 80, Fixed Expenses 42,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_PB02_img.jpg"/>
+</media>
+<para id="fs-idm165227568">Using the information presented, answer these questions:</para>
+<list id="fs-idm216782512" list-type="enumerated" number-style="upper-alpha">
+<item>What is the break-even point in units sold and dollar sales?</item>
+<item>What is the total contribution margin at the break-even point?</item>
+<item>If West Island wants to earn a profit of $21,000, how many units would they have to sell?</item>
+<item>Prepare a contribution margin income statement that reflects sales necessary to achieve the target profit.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm206815040">
+<problem id="fs-idm197934736">
+<para id="fs-idm195407744"><link class="lo-reference" document="m68116"/>Wellington, Inc., reports the following contribution margin income statement for the month of May. The company has the opportunity to purchase new machinery that will reduce its variable cost per unit by $10 but will increase fixed costs by 20%. Prepare a projected contribution margin income statement for Wellington, Inc., assuming it purchases the new equipment. Assume sales level remains unchanged.</para>
+<media id="fs-idm214464512" class="scaled-down" alt="Wellington, Inc., Contribution Margin Income Statement. Sales (800 units at $225 per unit) $180,000 les Variable costs (800 units at $120 per unit) 96,000 equals Contribution Margin 84,000. Subtract Fixed Cost 35,000 equals Net Income $49,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_02_PB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm200297136" class="thought-provokers">
+<exercise id="fs-idm215281232">
+<problem id="fs-idm199092160">
+<para id="fs-idm198052016"><link class="lo-reference" document="m68116"/>Roald is the sales manager for a small regional manufacturing firm you own. You have asked him to put together a plan for expanding into nearby markets. You know that Roald’s previous job had him working closely with many of your competitors in this new market, and you believe he will be able to facilitate the company expansion. He is to prepare a presentation to you and your partners outlining his strategy for taking the company into this expanded market. The day before the presentation, Roald comes to you and explains that he will not be making a presentation on market expansion but instead wants to discuss several ways he believes the company can reduce both fixed and variable costs. Why would Roald want to focus on reducing costs rather than on expanding into a new market?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm222496288">
+<term>break-even point</term>
+<meaning id="fs-idm221653808">dollar amount (total sales dollars) or production level (total units produced) at which the company has recovered all variable and fixed costs; it can also be expressed as that point where Total Cost (TC) = Total Revenue (TR)</meaning>
+</definition>
+</glossary>
+</document>

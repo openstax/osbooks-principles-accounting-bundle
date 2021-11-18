@@ -1,0 +1,146 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Explain and Identify Conversion Costs</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68130</md:content-id>
+  <md:title>Explain and Identify Conversion Costs</md:title>
+  <md:abstract/>
+  <md:uuid>c61c4271-a358-414a-9f0e-4d7aba6b8d10</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm487333808">In a processing environment, there are two concepts important to determining the cost of products produced. These are the concepts of equivalent units and conversion costs. As you have learned, equivalent units are the number of units that would have been produced if one unit was completed before starting a second unit. For example, four units that are one-fourth finished would equal one equivalent unit. Conversion costs are the labor and overhead expenses that “convert” raw materials into a completed unit. Each department tracks its conversion costs in order to determine the quantity and cost per unit (see <link document="m68131">Explain and Compute Equivalent Units and Total Cost of Production in an Initial Processing Stage details the steps to determine cost per unit</link>; we discuss this concept in more detail later). Management often uses the cost information generated to set the sales price; to set standard usage data and price for material, labor, and overhead; and to allow management to evaluate the efficiency of production and plan for the future.</para><section id="fs-idm520354464">
+<title>Definition of Conversion Costs</title>
+<para id="fs-idm481968848">Conversion costs are the total of direct labor and factory overhead costs. They are combined because it is the labor and overhead together that convert the raw material into the finished product. Remember that factory, manufacturing, or organizational overhead (you might see all three terms in practice) is composed of three sources: indirect materials, indirect labor, and all other overhead costs that are not indirect materials or indirect labor. Materials are often added in stages at discrete points of production, such as at the beginning, middle, or end of a process, but conversion is usually applied equally throughout the process. For example, in the opening example, David and William do not add direct material (ingredients) evenly throughout the cookie-making process. They are all added at the beginning of the production process, so they begin with the direct materials but add labor and overhead throughout the rest of the process.</para>
+<para id="fs-idm329414064">Conversion costs can be explained through the process of making <emphasis class="colored-text">Just Born</emphasis>’s Peeps. <emphasis class="colored-text">Just Born</emphasis> makes 5.5 million Peeps per day using three ingredients and the following process:<footnote id="fs-idm483848336">Just Born. “Marshmallow Peeps Factory Tour.” n.d. http://www.justborn.com/resource/corporate/popups/virtualTour.cfm</footnote></para>
+<list id="fs-idm500320928" list-type="enumerated" number-style="arabic">
+<item>Use machines to add and mix the sugar, corn syrup, and gelatin into a mixture called a slurry. Send slurry through a whipper to give the marshmallow its fluffy texture.</item>
+<item>Color the sugar.</item>
+<item>Deposit marshmallows on sugar-coated belts in the Peep shape. Send Peeps on belts through a wind tunnel that stirs up the sugar to coat the entire shape.</item>
+<item>Add eyes, and inspect.</item>
+<item>Move the Peeps via belt into their appropriate tray, and wrap with cellophane.</item>
+</list>
+<para id="fs-idm501780592">In the Peep-making process, the direct materials of sugar, corn syrup, gelatin, color, and packaging materials are added at the beginning of steps 1, 2, and 5. While the fully automated production does not need direct labor, it does need indirect labor in each step to ensure the machines are operating properly and to perform inspections (step 4).</para>
+</section>
+<section id="fs-idm486452912">
+<title>Mechanics of Applying Conversion Costs</title>
+<para id="fs-idm366738512">Let’s return to our drumstick example to learn how to work with conversion costs. Rock City Percussion has two departments critical to manufacturing drumsticks: the shaping and packaging departments.</para>
+<para id="fs-idm520330784">The shaping department uses only wood as its direct material and water as its indirect material. In the shaping department, the material is added first. Then, machines cut the wood underwater into dowels, separate them, and move them to machines that shape the dowels into drumsticks. These machines need electricity to operate and personnel to monitor and adjust the processes and to maintain the equipment. When the shaping is finished, a conveyer belt transfers the sticks to the finishing department.</para>
+<para id="fs-idm364277872">Since the drumsticks are made by performing one process on one batch at a time, instead of producing one stick at a time from start to finish, it is difficult to determine the exact materials, labor, and overhead for a single pair of drumsticks. It is easier to track the materials and conversion costs for one batch and have those costs follow the batch to the next process.</para>
+<para id="fs-idm374374256">Therefore, once the batch of sticks gets to the second process—the packaging department—it already has costs attached to it. In other words, the packaging department receives both the drumsticks and their related costs from the shaping department. For the basic size 5A stick, the packaging department adds material at the beginning of the process. The 5A uses only packaging sleeves as its direct material, while other types may also include nylon, felt, and/or the ingredients for the proprietary handgrip. Direct labor and manufacturing overhead are used to test, weigh, and sound-match the drumsticks into pairs.</para>
+<para id="fs-idm362389232">Thus, at the end of the accounting period, there are two work in process inventories: one in the shaping department and one in the packaging department.</para>
+<para id="fs-idm485318896">Direct materials are added at the beginning of shaping and packaging departments, so the work in process inventory for those departments is 100% complete with regard to materials, but it is not complete with regard to conversion costs. If they were 100% complete with regard to conversion costs, then they would have been transferred to the next department.</para>
+<note id="fs-idm348507936" class="link-to-learning">
+<para id="fs-idm389187056">Management needs to understand its costs in order to set prices, budget for the upcoming year, and evaluate performance. Sometimes individuals become managers due to their knowledge of the production process but not necessarily the costs. Managers can view this <link url="https://openstax.org/l/50PrimeConvCost">information on the importance of identifying prime and conversion costs</link> from Investopedia, a resource for managers.</para>
+</note>
+</section>
+<section id="fs-idm520355536" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm377939104" list-type="bulleted" bullet-style="bullet">
+<item>Conversion costs are the costs of direct labor and manufacturing overhead used to convert raw materials into a finished product.</item>
+<item>Materials are added during various stages of the manufacturing process, such as the beginning or end, while conversion of the product from raw material into finished goods is considered to occur uniformly through the process. Thus, it is possible for a product to have all of its materials and not be complete.</item>
+<item>Equivalent units for direct materials can be different than the equivalent units for conversion costs because materials are added in steps through the manufacturing process, while conversion costs are incurred evenly throughout the process.</item>
+</list>
+</section>
+<section id="fs-idm362900912" class="multiple-choice">
+<exercise id="fs-idm344377328">
+<problem id="fs-idm483827712">
+<para id="fs-idm368118832"><link class="lo-reference" document="m68130"/>Which is <emphasis effect="italics">not</emphasis> needed to compute equivalent units of production?</para>
+<list id="fs-idm380417568" list-type="enumerated" number-style="upper-alpha">
+<item>the percentage of completion for inventory still in process</item>
+<item>the number of units transferred out</item>
+<item>the number of units started and completed</item>
+<item>the material cost per unit</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm486083984">
+<problem id="fs-idm364044096">
+<para id="fs-idm370231728"><link class="lo-reference" document="m68130"/>What is the cost of direct labor if the conversion costs are $330,000 and manufacturing overhead is $275,000?</para>
+<list id="fs-idm483818272" list-type="enumerated" number-style="upper-alpha">
+<item>$55,000</item>
+<item>$275,000</item>
+<item>$330,000</item>
+<item>$605,000</item>
+</list>
+</problem>
+<solution id="fs-idm364388352">
+<para id="fs-idm483434416">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm362787712">
+<problem id="fs-idm376228080">
+<para id="fs-idm377122448"><link class="lo-reference" document="m68130"/>What is the conversion cost to manufacture insulated travel cups if the costs are: direct materials, $17,000; direct labor, $33,000; and manufacturing overhead, $70,000?</para>
+<list id="fs-idm482799936" list-type="enumerated" number-style="upper-alpha">
+<item>$16,000</item>
+<item>$50,000</item>
+<item>$103,000</item>
+<item>$120,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm363777888">
+<problem id="fs-idm344303856">
+<para id="fs-idm368647744"><link class="lo-reference" document="m68130"/>Which of the following lists contains only conversion costs for an inflatable raft manufacturing corporation?</para>
+<list id="fs-idm366622848" list-type="enumerated" number-style="upper-alpha">
+<item>vinyl for raft, machine operator, electricity, insurance</item>
+<item>machine operator, electricity, depreciation, plastic for air valves</item>
+<item>machine operator, electricity, depreciation, insurance</item>
+<item>vinyl for raft, electricity, insurance, plastic for air valves</item>
+</list>
+</problem>
+<solution id="fs-idm332653296">
+<para id="fs-idm363829712">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm483461920" class="questions">
+<exercise id="fs-idm330171248">
+<problem id="fs-idm369662208">
+<para id="fs-idm374025360"><link class="lo-reference" document="m68130"/>What is the difference between prime costs and conversion costs?</para>
+</problem>
+<solution id="fs-idm481286080">
+<para id="fs-idm332768368">Prime costs and conversion costs both include labor. Prime costs are the direct costs, other than equipment, used in manufacturing and therefore are direct material and direct labor. Conversion costs are the costs involved in converting the direct material into the product and therefore are direct labor and manufacturing overhead.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm329365424">
+<problem id="fs-idm523450096">
+<para id="fs-idm366961504"><link class="lo-reference" document="m68130"/>Explain conversion costs using an example.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm367266048">
+<problem id="fs-idm363848400">
+<para id="fs-idm366776368"><link class="lo-reference" document="m68130"/>Why are there conversion costs in both job order costing and process costing?</para>
+</problem>
+<solution id="fs-idm370583920">
+<para id="fs-idm385854864">Job order costing and process costing are the accounting systems used to record the costs expended to produce a product. Conversion costs are the direct labor and manufacturing overhead involved in the production process and exist regardless of the accounting system used.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm519538576">
+<problem id="fs-idm384689200">
+<para id="fs-idm363179120"><link class="lo-reference" document="m68130"/>What are equivalent units of production, and how are they used in process costing?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm366634096">
+<problem id="fs-idm389186608">
+<para id="fs-idm383238960"><link class="lo-reference" document="m68130"/>How can there be a different number of equivalent units for materials as compared to conversion costs?</para>
+</problem>
+<solution id="fs-idm370437968">
+<para id="fs-idm332667840">While conversion typically occurs evenly throughout the process, materials are not typically added evenly, so the ending work in process can be different. For example, when materials are added at the beginning of the process, materials can be 100% complete and conversion can be 50% complete. Different completion percentages result in different equivalent units.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm384249216">
+<problem id="fs-idm371605456">
+<para id="fs-idm384878320"><link class="lo-reference" document="m68130"/>Why is the number of equivalent units for materials only sometimes equal to the equivalent units for conversion?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm377181216" class="thought-provokers">
+<exercise id="fs-idm384884352">
+<problem id="fs-idm518327856">
+<para id="fs-idm373486688"><link class="lo-reference" document="m68130"/>Why are labor and manufacturing overhead grouped together as conversion costs?</para>
+</problem>
+</exercise>
+</section>
+  </content>
+</document>

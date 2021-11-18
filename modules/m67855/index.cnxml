@@ -1,0 +1,105 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Analyze Fraud in the Accounting Workplace</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67855</md:content-id>
+  <md:title>Analyze Fraud in the Accounting Workplace</md:title>
+  <md:abstract/>
+  <md:uuid>17643f3e-a6f8-4798-8d1c-a3a877e35b30</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm591997232">In this chapter, one of the major issues examined is the concept of fraud. <term>Fraud</term> can be defined in many ways, but for the purposes of this course we define it as the act of intentionally deceiving a person or organization or misrepresenting a relationship in order to secure some type of benefit, either financial or nonfinancial. We initially discuss it in a broader sense and then concentrate on the issue of fraud as it relates to the accounting environment and profession.</para>
+<para id="fs-idm625152976">Workplace fraud is typically detected by anonymous tips or by accident, so many companies use the fraud triangle to help in the analysis of workplace fraud. Donald Cressey, an American criminologist and sociologist, developed the <term>fraud triangle</term> to help explain why law-abiding citizens sometimes commit serious workplace-related crimes. He determined that people who embezzled money from banks were typically otherwise law-abiding citizens who came into a “non-sharable financial problem.” A non-sharable financial problem is when a trusted individual has a financial issue or problem that he or she feels can't be shared. However, it is felt that the problem can be alleviated by surreptitiously violating the position of trust through some type of illegal response, such as embezzlement or other forms of misappropriation. The guilty party is typically able to rationalize the illegal action. Although they committed serious financial crimes, for many of them, it was their first offense.</para>
+<para id="fs-idm323224576">The fraud triangle consists of three elements: incentive, opportunity, and rationalization (<link target-id="OSX_Acct_F08_01_FraudTri"/>). When an employee commits fraud, the elements of the fraud triangle provide assistance in understanding the employee’s methods and rationale. Each of the elements needs to be present for workplace fraud to occur.</para>
+<figure id="OSX_Acct_F08_01_FraudTri" class="scaled-down-30">
+<media id="fs-idm314634912" alt="Four triangles are grouped together to form a large triangle. The middle one is “FRAUD,” surrounded by the top one, “Perceived Opportunity,” the bottom right one, “Rationalization,” and the bottom left one, “Incentive.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_01_FraudTri.jpg"/>
+</media>
+<caption>Fraud Triangle. The three components identified in the fraud triangle are perceived opportunity, incentive, and rationalization. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm306431984"><term class="no-emphasis">Perceived opportunity</term> is when a potential fraudster thinks that the internal controls are weak or sees a way to override them. This is the area in which an accountant has the greatest ability to mitigate fraud, as the accountant can review and test internal controls to locate weaknesses. After identifying a weak, circumvented, or nonexistent internal control, management, along with the accountant, can implement stronger internal controls.</para>
+<para id="fs-idm370634624"><term class="no-emphasis">Rationalization</term> is a way for the potential fraudster to internalize the concept that the fraudulent actions are acceptable. A typical fraudster finds ways to personally justify his or her illegal and unethical behavior. Using rationalization as a tool to locate or combat fraud is difficult, because the outward signs may be difficult to recognize.</para>
+<para id="fs-idm365115376"><term class="no-emphasis">Incentive</term> (or pressure) is another element necessary for a person to commit fraud. The different types of pressure are typically found in (1) vices, such as gambling or drug use; (2) financial pressures, such as greed or living beyond their means; (3) work pressure, such as being unhappy with a job; and (4) other pressures, such as the desire to appear successful. Pressure may be more recognizable than rationalization, for instance, when coworkers seem to be living beyond their means or complain that they want to get even with their employer because of low pay or other perceived slights.</para>
+<para id="fs-idm344346832">Typically, all three elements of the triangle must be in place for an employee to commit fraud, but companies usually focus on the opportunity aspect of mitigating fraud because, they can develop internal controls to manage the risk. The rationalization and pressure to commit fraud are harder to understand and identify. Many organizations may recognize that an employee may be under pressure, but many times the signs of pressure are missed.</para>
+<para id="fs-idm356475776">Virtually all types of businesses can fall victim to fraudulent behavior. For example, there have been scams involving grain silos in Texas inflating their inventory, the sale of mixed oils labeled as olive oil across the globe, and the tens of billions of dollars that Bernie Madoff swindled out of investors and not-for-profits.</para>
+<para id="fs-idm359680704">To demonstrate how a fraud can occur, let’s examine a sample case in a little more detail. In 2015, a long-term employee of the <emphasis class="colored-text">SCICAP Federal Credit Union</emphasis> in Iowa was convicted of stealing over $2.7 million in cash over a 37-year period. The employee maintained two sets of financial records: one that provided customers with correct information as to how much money they had on deposit within their account, and a second set of books that, through a complex set of transactions, moved money out of customer accounts and into the employee’s account as well as those of members of her family. To ensure that no other employee within the small credit union would have access to the duplicate set of books, the employee never took a vacation over the 37-year period, and she was the only employee with password-protected access to the system where the electronic records were stored.</para>
+<para id="fs-idm370465840">There were, at least, two obvious violations of solid internal control principles in this case. The first was the failure to require more than one person to have access to the records, which the employee was able to maintain by not taking a vacation. Allowing the employee to not share the password-protected access was a second violation. If more than one employee had access to the system, the felonious employee probably would have been caught much earlier. What other potential failures in the internal control system might have been present? How does this example of fraud exhibit the three components of the fraud triangle?</para>
+<para id="fs-idm588753072">Unfortunately, this is one of many examples that occur on a daily basis. In almost any city on almost any day, there are articles in local newspapers about a theft from a company by its employees. Although these thefts can involve assets such as inventory, most often, employee theft involves cash that the employee has access to as part of his or her day-to-day job.</para>
+<note id="fs-idm370526112" class="link-to-learning">
+<para id="fs-idm315412976">Small businesses have few employees, but often they have certain employees who are trusted with responsibilities that may not have complete internal control systems. This situation makes small businesses especially vulnerable to fraud. The <link url="https://openstax.org/l/50ACFEFraud">article “Small Business Fraud and the Trusted Employee” from the Association of Certified Fraud Examiners</link> describes how a trusted employee may come to commit fraud, and how a small business can prevent it from happening.</para>
+</note>
+<para id="fs-idm363622000">Accountants, and other members of the management team, are in a good position to control the perceived opportunity side of the fraud triangle through good internal controls, which are policies and procedures used by management and accountants of a company to protect assets and maintain proper and efficient operations within a company with the intent to minimize fraud. An <term>internal auditor</term> is an employee of an organization whose job is to provide an independent and objective evaluation of the company’s accounting and operational activities. Management typically reviews the recommendations and implements stronger internal controls.</para>
+<para id="fs-idm315851552">Another important role is that of an <term>external auditor</term>, who generally works for an outside certified public accountant (CPA) firm or his or her own private practice and conducts audits and other assignments, such as reviews. Importantly, the external auditor is not an employee of the client. The external auditor prepares reports and then provides opinions as to whether or not the financial statements accurately reflect the financial conditions of the company, subject to generally accepted accounting principles (GAAP). External auditors can maintain their own practice, or they might be employed by national or regional firms.</para>
+<note id="fs-idm314781088" class="ethical-considerations">
+<title>Internal Auditors and Their Code of Ethics</title>
+<para id="fs-idm322703136">Internal auditors are employees of an organization who evaluate internal controls and other operational metrics, and then ethically report their findings to management. An internal auditor may be a Certified Internal Auditor (CIA), an accreditation granted by the Institute of Internal Auditors (IIA). The IIA defines internal auditing as “an independent, objective assurance and consulting activity designed to add value and improve an organization’s operations. It helps an organization accomplish its objectives by bringing a systematic, disciplined approach to evaluate and improve the effectiveness of risk management, control, and governance processes.”<footnote id="fs-idm361581808">The Institute of Internal Auditors (IIA). “Code of Ethics.” n.d. https://na.theiia.org/standards-guidance/mandatory-guidance/Pages/Code-of-Ethics.aspx</footnote></para>
+<para id="fs-idm368070304">Internal auditors have their own organizational code of ethics. According to the IIA, “the purpose of The Institute’s Code of Ethics is to promote an ethical culture in the profession of internal auditing.”<footnote id="fs-idm333057088">The Institute of Internal Auditors (IIA). “Code of Ethics.” n.d. https://na.theiia.org/standards-guidance/mandatory-guidance/Pages/Code-of-Ethics.aspx</footnote> Company management relies on a disciplined and truthful approach to reporting. The internal auditor is expected to keep confidential any received information, while reporting results in an objective fashion. Management trusts internal auditors to perform their work in a competent manner and with integrity, so that the company can make the best decisions moving forward.</para>
+</note>
+<para id="fs-idm615678704">One of the issues faced by any organization is that internal control systems can be overridden and can be ineffective if not followed by management or employees. The use of internal controls in both accounting and operations can reduce the risk of fraud. In the unfortunate event that an organization is a victim of fraud, the internal controls should provide tools that can be used to identify who is responsible for the fraud and provide evidence that can be used to prosecute the individual responsible for the fraud. This chapter discusses internal controls in the context of accounting and controlling for cash in a typical business setting. These examples are applicable to the other ways in which an organization may protect its assets and protect itself against fraud.</para>
+<section id="fs-idm600718368" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm620392832" list-type="bulleted" bullet-style="bullet">
+<item>The fraud triangle helps explain the mechanics of fraud by examining the common contributing factors of perceived opportunity, incentive, and rationalization.</item>
+<item>Due to the nature of their functions, internal and external auditors, through the implementation of effective internal controls, are in excellent positions to prevent opportunity-based fraud.</item>
+</list>
+</section>
+<section id="fs-idm615883104" class="multiple-choice">
+<exercise id="fs-idm361923088">
+<problem id="fs-idm306286336">
+<para id="fs-idm641037040"><link class="lo-reference" document="m67855"/>Which of the following would a fraudster perceive as a pressure?</para>
+<list id="fs-idm357036560" list-type="enumerated" number-style="upper-alpha">
+<item>lack of management oversight</item>
+<item>everyone does it</item>
+<item>living beyond one’s means</item>
+<item>lack of an internal audit function</item>
+</list>
+</problem>
+<solution id="fs-idm360558640">
+<para id="fs-idm358512128">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm359573616" class="questions">
+<exercise id="fs-idm359974416">
+<problem id="fs-idm356154688">
+<para id="fs-idm322531824"><link class="lo-reference" document="m67855"/>What is an example of <emphasis effect="italics">perceived opportunity</emphasis> as one of the three elements causing a person to commit fraud?</para>
+</problem>
+<solution id="fs-idm366064448">
+<para id="fs-idm631076704">Examples include weak internal controls, improper or nonexistent management oversight, and lack of an internal audit function or other opportunities that create the perception that the fraudster will be successful in committing a fraudulent act.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm370849264">
+<problem id="fs-idm364482848">
+<para id="fs-idm319408000"><link class="lo-reference" document="m67855"/>What is an example of <emphasis effect="italics">rationalization</emphasis> as one of the three elements causing a person to commit fraud?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm613431504">
+<problem id="fs-idm359406736">
+<para id="fs-idm363936080"><link class="lo-reference" document="m67855"/>What is an example of <emphasis effect="italics">incentive</emphasis> as one of the three elements causing a person to commit fraud?</para>
+</problem>
+<solution id="fs-idm625173664">
+<para id="fs-idm360484224">Examples include vices such as gambling, living beyond one’s means, high debts, employer pressures to report fictitious accounting results, or alcohol/drug use.</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm625147760">
+<term>external auditor</term>
+<meaning id="fs-idm343490448">generally works for an outside CPA firm or his or her own private practice and conducts audits and other assignments, such as reviews</meaning>
+</definition>
+<definition id="fs-idm355286288">
+<term>fraud</term>
+<meaning id="fs-idm634980400">act of intentionally deceiving a person or organization or misrepresenting a relationship in order to secure some type of benefit, either financial or nonfinancial</meaning>
+</definition>
+<definition id="fs-idm309112528">
+<term>fraud triangle</term>
+<meaning id="fs-idm364289424">concept explaining the reasoning behind a person’s decision to commit fraud; the three elements are perceived opportunity, rationalization, and incentive</meaning>
+</definition>
+<definition id="fs-idm361191792">
+<term>internal auditor</term>
+<meaning id="fs-idm330141168">employee of an organization whose job is to provide an independent and objective evaluation of the company’s accounting and operational activities</meaning>
+</definition>
+</glossary>
+</document>

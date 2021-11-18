@@ -1,0 +1,200 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Determine and Dispose of Underapplied or Overapplied Overhead</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68006</md:content-id>
+  <md:title>Determine and Dispose of Underapplied or Overapplied Overhead</md:title>
+  <md:abstract/>
+  <md:uuid>21041241-382e-4d18-9553-7f322d438199</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm261912608">As you’ve learned, the actual overhead incurred during the year is rarely equal to the amount that was applied to the individual jobs. Thus, at year-end, the manufacturing overhead account often has a balance, indicating overhead was either overapplied or underapplied.</para>
+<para id="fs-idm251591104">If, at the end of the term, there is a debit balance in manufacturing overhead, the overhead is considered <term>underapplied overhead</term>. A debit balance in manufacturing overhead shows either that not enough overhead was applied to the individual jobs or overhead was underapplied. If, at the end of the term, there is a credit balance in manufacturing overhead, more overhead was applied to jobs than was actually incurred. This shows the actual amount was <term>overapplied overhead</term>.</para>
+<para id="fs-idm241678064">The actual overhead costs are recorded through a debit to manufacturing overhead. The same account is credited when overhead is applied to the individual jobs in production, as shown:</para>
+<media id="fs-idm240248736" class="scaled-down-30" alt="A T-account for Manufacturing Overhead showing the debit as actual cost and the credit as applied costs.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_06_MfgOHTAcct_img.jpg"/>
+</media>
+<para id="fs-idm241697936">Since the overhead is first recorded in the manufacturing overhead account, then applied to the individual jobs, traced through finished goods inventory, and eventually transferred to cost of goods sold, the year-end balance is eliminated through an adjusting entry, offsetting the cost of goods sold. If manufacturing overhead has a debit balance, the overhead is underapplied, and the resulting amount in cost of goods sold is understated. The adjusting entry is:</para>
+<media id="fs-idm257572032" alt="A journal entry lists Cost of Goods Sold with space for a debit entry, and Manufacturing Overhead with space for a credit entry.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_06_Journal01_img.jpg"/>
+</media>
+<para id="fs-idm248491536">If manufacturing overhead has a credit balance, the overhead is overapplied, and the resulting amount in cost of goods sold is overstated. The adjusting entry is:</para>
+<media id="fs-idm257831216" alt="A journal entry lists Cost of Goods Sold with space for a debit entry, and Manufacturing Overhead with space for a credit entry, and the note “Application of overhead to Cost of Goods Sold”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_06_Journal02_img.jpg"/>
+</media>
+<para id="fs-idm241090688">Returning to our example, at the end of the year, Dinosaur Vinyl had actual overhead expenses of $256,500 and applied overhead expenses of $250,000, as shown:</para>
+<media id="fs-idm249018976" class="scaled-down-30" alt="A T-account for Manufacturing Overhead showing the debit as actual cost of $256,500 and the credit side as applied costs of $250,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_06_DVOHunder_img.jpg"/>
+</media>
+<para id="fs-idm244077360">Since manufacturing overhead has a debit balance, it is underapplied, as it has not been completely allocated. The adjusting journal entry is:</para>
+<media id="fs-idm262766240" alt="A journal entry lists Cost of Goods Sold with a debit of 6,500, Manufacturing Overhead with credit of 6,500, and the note “Application of underapplied overhead to Cost of Goods Sold”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_06_Journal03_img.jpg"/>
+</media>
+<para id="fs-idm223469952">If the overhead was overapplied, and the actual overhead was $248,000 and the applied overhead was $250,000, the entry would be:</para>
+<media id="fs-idm252852624" alt="A journal entry lists Manufacturing Overhead with a debit of 2,000, Cost of Goods Sold with credit of 2,000, and the note “Application of overapplied overhead to Cost of Goods Sold”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_06_Journal04_img.jpg"/>
+</media>
+<para id="fs-idm240992752">To adjust for overapplied or underapplied manufacturing overhead, some companies have a more complicated, three-part allocation to work in process, finished goods, and cost of goods sold. This method is typically used in the event of larger variances in their balances or in bigger companies. (You will learn more about this in future cost or advanced managerial accounting courses.)</para>
+<note id="fs-idm255563712" class="your-turn">
+<title>Kraken Boardsports</title>
+<figure id="OSX_Acct_M04_06_Kraken">
+<media id="fs-idm241435552" alt="A photograph shows a person climbing a snow-covered hill carrying a winch on wheels. A photograph shows a person ski-boarding on a lake.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_06_Kraken.png"/>
+</media>
+<caption>(credit: modification of images provided courtesy of Kraken Boardsports, CC BY 4.0)</caption>
+</figure>
+<para id="fs-idm261194144"><emphasis class="colored-text">Kraken Boardsports</emphasis> manufactures winches for snow and ski boarders to snow ski without a mountain or water ski without a lake (<link target-id="OSX_Acct_M04_06_Kraken"/>). End-of-year data show these overhead expenses:</para>
+<media id="fs-idm257445856" class="scaled-down" alt="Chart showing the following expenses: Indirect materials $25,000, Indirect labor 31,750, Depreciation of factory equipment 50,000, Factory utility expenses 17,500, Factory supervisor salaries 85,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_06_YT01_img.png"/>
+</media>
+<para id="fs-idm246056752"><emphasis class="colored-text">Kraken Boardsports</emphasis> had 6,240 direct labor hours for the year and assigns overhead to the various jobs at the rate of $33.50 per direct labor hour.</para>
+<para id="fs-idm254929744">How much overhead was overapplied or underapplied during the year? What would be the journal entry to adjust manufacturing overhead?</para>
+<para id="fs-idm262376544"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm259820624">The total overhead incurred is the total of:</para>
+<media id="fs-idm240242528" class="scaled-down" alt="Chart adding the overhead expenses: Indirect materials $25,000, Indirect labor 31,750, Depreciation of factory equipment 50,000, Factory utility expenses 17,500, Supervisor salaries 85,000 added together equal $209,250 of Actual overhead incurred.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_06_YT01Sol01_img.png"/>
+</media>
+<para id="fs-idm255355824">The total overhead applied is $209,040, which is calculated as:</para>
+<para id="fs-idm247907568">$33.50/direct labor hours × 6,240 direct labor hours.</para>
+<para id="fs-idm240346432">The balance in manufacturing overhead is a debit balance of $210:</para>
+<media id="fs-idm257850224" class="scaled-down" alt="A T-account for Manufacturing Overhead showing a debit for actual costs of 209,250, a credit for applied costs of $209,040 and a balance on the debit side of 210.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_06_YTSn02_img.png"/>
+</media>
+<para id="fs-idm259056912">The adjusting journal entry is:</para>
+<media id="fs-idm246629344" alt="A journal entry lists Cost of Goods Sold with a debit of 210 and Manufacturing Overhead with a credit of 210.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_06_YT01Sol03_img.png"/>
+</media>
+</note>
+<note id="fs-idm248666944" class="link-to-learning">
+<para id="fs-idm240342672">Job order costing and overhead allocation are not new methods of accounting and apply to governmental units as well. See it applied in this <link url="https://openstax.org/l/50shipyard">1992 report on <emphasis effect="italics">Accounting for Shipyard Costs and Nuclear Waste Disposal Plans</emphasis></link> from the United States General Accounting Office.</para>
+</note>
+<section id="fs-idm257890304" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm243544272" list-type="bulleted" bullet-style="bullet">
+<item>Overhead is allocated to individual jobs based on the estimated overhead costs for the year and may be overapplied or underapplied for the year.</item>
+<item>Overhead is underapplied when not all of the costs accumulated in the manufacturing overhead account are applied during the year.</item>
+<item>Overhead is overapplied when more overhead is applied to the jobs than was actually incurred.</item>
+<item>The amount of overhead overapplied or underapplied is adjusted into the cost of goods sold account.</item>
+</list>
+</section>
+<section id="fs-idm259831376" class="questions">
+<exercise id="fs-idm245595840">
+<problem id="fs-idm241327424">
+<para id="fs-idm258480736"><link class="lo-reference" document="m68006"/>Why is the manufacturing overhead account debited as expenses are recognized and then credited when overhead is applied?</para>
+</problem>
+<solution id="fs-idm347443536">
+<para id="fs-idm347015824">Expenses normally have a debit balance, and the manufacturing overhead account is debited when expenses are incurred to recognize the incurrence. When the expenses are allocated to the asset, the work in process inventory, the expense account manufacturing overhead is credited. This is in accordance with the expense recognition principle. The timing of the expense follows the revenue, and when the costs are allocated to inventory, they become a part of the product’s cost and are recognized when the asset is sold.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm263922464" class="exercise-set-b">
+<exercise id="fs-idm253002016">
+<problem id="fs-idm245294640">
+<para id="fs-idm260342688"><link class="lo-reference" document="m68006"/>A company has the following information relating to its production costs:</para>
+<media id="fs-idm252588480" class="scaled-down-30" alt="A chart of information including: Machine hours 25,000, Direct labor cost $550,000, Indirect labor 45,000, Plant maintenance 259, 300, Plant supervision 90,000, Plant depreciation 150,000, Plant utilities 48,000, Indirect material 5,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_06_EB01_img.jpg"/>
+</media>
+<para id="fs-idm254866384">Compute the actual and applied overhead using the company’s predetermined overhead rate of $23.92 per machine hour. Was the overhead overapplied or underapplied, and by how much?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm259453856" class="problem-set-a">
+<exercise id="fs-idm252109168">
+<problem id="fs-idm259265072">
+<para id="fs-idm248584912"><link class="lo-reference" document="m68006"/>Coop’s Stoops estimated its annual overhead to be $85,000 and based its predetermined overhead rate on 24,286 direct labor hours. At the end of the year, actual overhead was $90,000 and the total direct labor hours were 24,100. What is the entry to dispose of the overapplied or underapplied overhead?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm259425232">
+<problem id="fs-idm244026096">
+<para id="fs-idm248039312"><link class="lo-reference" document="m68006"/>Mountain Peaks applies overhead on the basis of machine hours and reports the following information:</para>
+<media id="fs-idm263270128" class="scaled-down" alt="A chart showing Overhead budget $350,000, actual $352,000; Machine hours budget 50,000, 49,000 actual; Direct materials $210,000, and Direct labor $350,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_06_PA02_img.jpg"/>
+</media>
+<list id="fs-idm246163184" list-type="enumerated" number-style="upper-alpha">
+<item>What is the predetermined overhead rate?</item>
+<item>How much overhead was applied during the year?</item>
+<item>Was overhead over- or underapplied, and by what amount?</item>
+<item>What is the journal entry to dispose of the over- or underapplied overhead?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm255575744">
+<problem id="fs-idm260896752">
+<para id="fs-idm251610352"><link class="lo-reference" document="m68006"/>The actual overhead for a company is $74,539. Overhead was based on 6,000 direct labor hours and was $2,539 underapplied for the year.</para>
+<list id="fs-idm243571408" list-type="enumerated" number-style="upper-alpha">
+<item>What is the overhead application rate per direct labor hour?</item>
+<item>What is the journal entry to dispose of the underapplied overhead?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm255547536">
+<problem id="fs-idm240793584">
+<para id="fs-idm240081520"><link class="lo-reference" document="m68006"/>When setting its predetermined overhead application rate, Tasty Box Meals estimated its overhead would be $100,000 and would require 25,000 machine hours in the next year. At the end of the year, it found that actual overhead was $102,000 and required 26,000 machine hours.</para>
+<list id="fs-idm240183440" list-type="enumerated" number-style="upper-alpha">
+<item>Determine the predetermined overhead rate.</item>
+<item>What is the overhead applied during the year?</item>
+<item>Prepare the journal entry to eliminate the underapplied or overapplied overhead.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm251075408" class="problem-set-b">
+<exercise id="fs-idm248645872">
+<problem id="fs-idm243476000">
+<para id="fs-idm252897376"><link class="lo-reference" document="m68006"/>Queen Bee’s Honey, Inc., estimated its annual overhead to be $110,000 and based its predetermined overhead rate on 27,500 direct labor hours. At the end of the year, actual overhead was $106,000 and the total direct labor hours were 29,000. What is the entry to dispose of the overapplied or underapplied overhead?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm240903136">
+<problem id="fs-idm246439744">
+<para id="fs-idm251810256"><link class="lo-reference" document="m68006"/>Mountain Tops applies overhead on the basis of direct labor hours and reports the following information:</para>
+<media id="fs-idm254010496" class="scaled-down" alt="A chart showing Overhead budget $450,000, actual $452,000; Direct labor hour budget 75,000, 77,000 actual; Direct materials $195,000, and Direct labor $333,865">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_06_PB02_img.jpg"/>
+</media>
+<list id="fs-idm260424784" list-type="enumerated" number-style="upper-alpha">
+<item>What is the predetermined overhead rate?</item>
+<item>How much overhead was applied during the year?</item>
+<item>Was overhead overapplied or underapplied, and by what amount?</item>
+<item>What is the journal entry to dispose of the overapplied or underapplied overhead?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm252216672">
+<problem id="fs-idm241664352">
+<para id="fs-idm253934384"><link class="lo-reference" document="m68006"/>The actual overhead for a company is $73,175. Overhead was based on 4,500 machine hours and was $3,325 overapplied for the year.</para>
+<list id="fs-idm260552176" list-type="enumerated" number-style="upper-alpha">
+<item>What is the overhead application rate per direct labor hour?</item>
+<item>What is the journal entry to dispose of the underapplied overhead?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm257220688">
+<problem id="fs-idm254925552">
+<para id="fs-idm241597472"><link class="lo-reference" document="m68006"/>When setting its predetermined overhead application rate, Tasty Turtle estimated its overhead would be $75,000 and manufacturing would require 25,000 machine hours in the next year. At the end of the year, it found that actual overhead was $74,000 and manufacturing required 24,000 machine hours.</para>
+<list id="fs-idm246407728" list-type="enumerated" number-style="upper-alpha">
+<item>Determine the predetermined overhead rate.</item>
+<item>What is the overhead applied during the year?</item>
+<item>Prepare the journal entry to eliminate the under- or overapplied overhead.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm246445296" class="thought-provokers">
+<exercise id="fs-idm254778016">
+<problem id="fs-idm262469520">
+<para id="fs-idm245402480"><link class="lo-reference" document="m68006"/>If a company bases its predetermined overhead rate on 100,000 machine hours, and it actually has 100,000 machine hours, would there be an underapplied or overapplied overhead?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm251944608">
+<term>overapplied overhead</term>
+<meaning id="fs-idm262775008">situation when the overhead applied to the individual jobs is greater than the actual overhead; when overhead is overapplied, the manufacturing overhead has a credit balance</meaning>
+</definition>
+<definition id="fs-idm259297936">
+<term>underapplied overhead</term>
+<meaning id="fs-idm249088080">situation when the overhead applied to the individual jobs is less than the actual overhead; when overhead is underapplied, the manufacturing overhead has a debit balance</meaning>
+</definition>
+</glossary>
+</document>

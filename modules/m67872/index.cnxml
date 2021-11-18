@@ -1,0 +1,976 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Prepare a Subsidiary Ledger</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67872</md:content-id>
+  <md:title>Prepare a Subsidiary Ledger</md:title>
+  <md:abstract/>
+  <md:uuid>663052b1-6a4b-4b25-824a-7f45f4a7d73a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm237987312">Now that you have seen four special journals and two special ledgers, it is time to put all the pieces together.</para>
+<para id="fs-idm275857504">Record the following transactions for Store Inc. in the special journals and post to the general ledger provided. Also post to the subsidiary ledgers provided. Beginning account balances are shown below. Use the <term class="no-emphasis">perpetual inventory method</term> and the gross method of dealing with sales terms.</para>
+<para id="fs-idm274745440">First, enter these transactions manually by creating the relevant journals and subsidiary ledgers. Then enter them using QuickBooks.</para>
+<media id="fs-idm280037600" alt="Beginning Balances. Cash, $3,116. Accounts Receivable, 3,576. Prepaid Insurance, 130. Inventory, 8,917. Accounts Payable, $6,382. Stock, 5,000. Retained Earnings, 4,357.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_BegBal_img.jpg"/>
+</media>
+<table id="fs-idm487432496" class="top-titled" summary="No Summary">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c2">Transactions for Store Inc.</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 2</entry>
+<entry valign="top" align="left">Issued check #629 for January store rent: $350.00</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 3</entry>
+<entry valign="top" align="left">Received check from PB&amp;J in payment for December sale on credit, $915.00</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 4</entry>
+<entry valign="top" align="left">Issued check #630 to D &amp; D in payment for December purchase on credit of $736.00</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 5</entry>
+<entry valign="top" align="left">Sold goods for $328.00 to Jones Co. on credit, Invoice #234 (Note: COGS is $164)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 6</entry>
+<entry valign="top" align="left">Bought goods from BSA for $4,300.00, Purchase Order #71, terms: 2/10, net/30</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 8</entry>
+<entry valign="top" align="left">Sold goods on credit to Black &amp; White Inc. for $2,100, Invoice #235, terms: 1/10, net/30 (Note: COGS is $1,050)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 9</entry>
+<entry valign="top" align="left">Issued check #63 for telephone bill received today, $72.00</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 10</entry>
+<entry valign="top" align="left">Issued check #632 to pay BSA in full, PO 71.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 15</entry>
+<entry valign="top" align="left">Received full payment from Black &amp; White, Inc., Invoice #235</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 20</entry>
+<entry valign="top" align="left">Bought merchandise from Dow John, $525.00 payable in 30 days, Purchase Order #72</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 26</entry>
+<entry valign="top" align="left">Returned $100 of merchandise to Dow John, relating to Purchase Order #72</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 31</entry>
+<entry valign="top" align="left">Recorded cash sales for the month of $3,408 (Note: COGS is $1,704)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 31</entry>
+<entry valign="top" align="left">Recognized that half of the Prepaid Insurance has been consumed</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table><para id="fs-idm237823056">Record all transactions using the sales journal, purchases journal, cash receipts journal, cash disbursements journal, and the general journal and post to the accounts receivable and accounts payable subsidiary ledgers. Then prepare a schedule of accounts receivable and a schedule of accounts payable.</para>
+<media id="fs-idm221903264" alt="Cash Receipts Journal Solution, page 65. Twelve columns, labeled left to right: Date, Invoice Number, Description, Cash Debit, Sales Discount Debit, Reference, Accounts Receivable Credit, Sales Credit. The last four columns are headed Other Accounts: Account Number, Checkmark, Debit, Credit. Line One: January 3, 2019; 234; PB&amp;J; 915; Blank; Blank; 915; Blank; Blank; Blank; Blank; Blank. Line two: January 15, 2019; Blank; Black &amp; White; 2,079; 21; Blank; 2,100; Blank; Blank; Blank; Blank; Blank. Line Three: January 31, 2019; Blank; Jan. Cash Sales; 3,408; Blank; Blank; Blank; 3,408; 501; Blank; 1,204; Blank. Line Four: Blank; Blank; Blank; Blank; Blank; Blank; Blank; Blank; 106; Blank; 1,204. Line Five: Blank; Blank; Total; 6,402; 21; Blank; 3,015; 3,408; Blank; Blank; 1,204; 1,204.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_CshJrn_img.jpg"/>
+</media>
+<para id="fs-idm532732720"><emphasis effect="bold">Explanation:</emphasis></para>
+<table id="fs-idm267028448" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 3</entry>
+<entry valign="top" align="left">The company received payment from PB&amp;J; thus, a cash receipt is recorded.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 15</entry>
+<entry valign="top" align="left">The company received payment on goods that were sold on Jan. 8 with credit terms if paid within the discount period. The payment was received within the discount period.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 31</entry>
+<entry valign="top" align="left">Cash sales are recorded.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<media id="fs-idm946157424" alt="General Ledger Solution, 119. Four Columns, labeled left to right: Date, Description, Reference, Debit, Credit. Entry One: January 26, 2019. Accounts Payable; Dow John; Ref. 200; Debit 100. Merchandise Inventory; Ref 106; Credit 100. Explanation: “To record return of defective merchandise (Dow John AP No. 115).” Entry Two: January 31, 2019; Insurance Expense; Ref 504; Debit 65. Prepaid Insurance; Ref 105; Credit 65. Explanation: “To record expiration of Prepaid Insurance.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_GenJrn_img.jpg"/>
+</media>
+<para id="fs-idm951267520"><emphasis effect="bold">Explanation:</emphasis></para>
+<table id="fs-idm522459712" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 26</entry>
+<entry valign="top" align="left">The company returns merchandise (inventory) previously purchased. Since the company is using the perpetual method, a credit is made to Inventory.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 31</entry>
+<entry valign="top" align="left">An adjusting entry is made to recognize insurance expense for the current month that had previously been prepaid.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<media id="fs-idm271004800" alt="Sales Journal, page 143. Six columns, labeled left to right: Date, Invoice No., Account Debited, Account Number, Accounts Receivable DR Sales CR, Cost of Goods Sold DR Inventory CR. Line One: January 5; 234; Jones Co; JC1; 328; 164. Line Two: January 8; 235; Black &amp; White Inc.; BW1; 2,100; 1,050. Line Three: Total A/R DR Sales CR: 2,428; Total Cost of Goods Sold DR Inventory CR: 1,214.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_SalJrn_img.jpg"/>
+</media>
+<para id="fs-idm944278416"><emphasis effect="bold">Explanation:</emphasis></para>
+<table id="fs-idm952419632" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 8</entry>
+<entry valign="top" align="left">Sales on credit are recorded</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<media id="fs-idm248414208" alt="Cash Disbursements Journal, Page 102, Other Accounts. Eleven columns, labeled left to right: Date, Check Number, Payee, Cash CR, Ref., Accounts Payable (or Other account) DR, Purchase Discounts CR, Account Number, Checkmark, DR, CR. Line One: January 2, 2019; Check number 629; Rent; cash credit 350; account number 535, debit 350. Line Two: January 4, 2019; Check number 630; D&amp;D; cash credit 736; Ref. D1218; AP debit 736. Line Three: January 9, 2019; Check number 631; phone; cash credit 72; account number 545; debit 72. Line Four: January 10, 2019; check number 632; BSA; cash credit 4,214; AP debit 4,300; PD credit 86; debit 422. Debits = 5,458. Credits = 5,458. Total Cash Credit: 5,372. Total AP debit: 5,036. Total PD credit: 86. Total debit 422.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_DisJrn_img.jpg"/>
+</media>
+<para id="fs-idm278360320"><emphasis effect="bold">Explanation:</emphasis></para>
+<table id="fs-idm276002784" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 2</entry>
+<entry valign="top" align="left">Rent for the month is paid.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 4</entry>
+<entry valign="top" align="left">Payment is made for inventory purchased on account in a prior month.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 9</entry>
+<entry valign="top" align="left">Paid the telephone bill.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 10</entry>
+<entry valign="top" align="left">Paid for inventory purchased earlier on account. The payment arrangement had credit terms; the invoice was paid within the time allowed, and the discount was taken.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<media id="fs-idm249076336" alt="Purchases Journal, Page 54. Five columns, labeled left to right: Date, Purchase Order Number, Account credited, Account number, Debit Inventory Credit AP. Line One: January 6, 2019; PO 71; BSA: Account number 110; DP credit AP 4,300. Line Two: January 20, 2019; PO 72; Dow John; Account number 115; DP credit AP 525. Total DP credit AP: 4,825.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PurJrn_img.jpg"/>
+</media>
+<para id="fs-idm944430416"><emphasis effect="bold">Explanation:</emphasis></para>
+<table id="fs-idm269845360" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 6</entry>
+<entry valign="top" align="left">Inventory is purchased on account.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 20</entry>
+<entry valign="top" align="left">Inventory is purchased on account.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm523990384">At the end of the month, each of the previous journal totals are posted to the appropriate account in the general ledger, and any individual account postings, such as to Rent Expense (Jan. 2 transaction) would also be posted to the general ledger. Note that each account used by the company has its own account section in the general ledger.</para>
+<media id="fs-idm245759792" alt="General Ledger Solution, Account: Cash, Number 101. January 1, 2019; Beginning Balance Debit 3,116. January 31, 2019; Cash Receipts; Ref. CR 65; Debit 6,402; Balance Debit 9,518. January 31, 2019; Cash Disbursements; Ref. CD 18; Credit 5,372; Balance Debit 4,146. Account: Accounts Receivable, Number 102. January 1, 2019; Beginning Balance Debit 3,576. January 31, 2019; Sales Journal; Ref. SJ 143; Debit 2,248; Balance Debit 6,004. January 31, 2019; Cash Receipts; Ref. CR 122; Credit 3,015; Balance Debit 2,989. Account: Prepaid Insurance, Number 106. January 1, 2019; Beginning Balance Debit 130. January 31, 2019; Adjusting Entry; Ref. GJ 119; Debit 65; Balance Debit 65. Account: Inventory, Number 106. January 1, 2019; Beginning Balance Debit 8,917. January 14, 2019; Purchases Journal; Ref. PJ 54; Debit 4,825; Balance Debit 13,742. January 31, 2019; Purchase Return; Ref. GJ 119; Credit 100; Balance Debit 13,642. January 31, 2019; Cash Receipts Journal; Ref. CR 65; Credit 1,704; Balance Debit 11,938. January 31, 2019; Cash Disbursements; Ref. CD 18; Credit 86; Balance Debit 11,852. January 31, 2019; Sales Journal; Ref. SJ 24; Credit 1,214; Balance Debit 10,638. Account: Accounts Payable, Number 200. January 1, 2019; Beginning Balance Credit 6,382. January 31, 2019; Purchases Journal; Ref. PJ 54; Credit 4,825; Balance Credit 11,207. January 31, 2019; Cash Disbursements; Ref. CD 18; Debit 5,036; Balance Credit 6,171. January 31, 2019; General Journal; Ref. GJ; Debit 100; Balance Credit 6,071.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_GLedg01_img.jpg"/>
+</media>
+<media id="fs-idm245765632" alt="General Ledger Solution, Account: Common Stock, Number 301. January 1, 2019; Beginning Balance Credit 5,000. Account: Retained Earnings, Number 350. January 1, 2019; Beginning Balance Credit 4,357. Account: Sales, Number 401. January 1, 2019; Beginning Balance Credit 2,428. January 13, 2019; Sales Journal; Ref. SJ 24; Credit 2,428; Balance Credit 5,836. Account: Sales Discounts, Number 410. January 1, 2019; Beginning Balance 0. January 15, 2019; General Journal; Ref. GJ 119; Debit 65; Balance Debit 65. Account: Cost of Goods Sold, Number 501. January 31, 2019; Sales Journal; Ref. SJ 24; Debit 1,214; Balance Debit 1,214. January 31, 2019; Cash Receipts; Ref. CR 65; Debit 1,704; Balance Debit 2,918. Account: Insurance Expense, Number 521. January 1, 2019; Beginning Balance 0. January 15, 2019. General Journal; Ref. GJ 119; Debit 65; Balance Debit 65. Account: Rent Expense, Number 535. January 1, 2019; Beginning Balance 0. January 31, 2019. Cash Disbursements; Ref. CD 18; Debit 350; Balance Debit 350. Account: Utilities Expense, Number 545. January 1, 2019; Beginning Balance 0. January 31, 2019. Cash Disbursements; Ref. CD 18; Debit 72; Balance Debit 72.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_GLedg02_img_shrunk.jpg"/>
+
+</media>
+<media id="fs-idm945908176" alt="Accounts Receivable Subsidiary Ledger Solution, PB&amp;J. December 20, 2018; Sales Journal, Ref. 23, Debit 2,661, Balance Debit 2,661. January 3, 2019; Cash Receipts, Ref. CR, Credit 915. Jones Co. January 1, 2019; Sales Journal, Ref. SJ 24, Debit 328, Balance Debit 328. Black &amp; White, Inc. January 8, 2019; Sales Journal, Ref. SJ 24, Debit 2,100, Balance Debit 2,100. January 15, 2019; Cash Receipts, Ref. CR, Credit 2,100. Tiny Tim’s Inc. December 15, 2018; Sales Journal, Ref. 23, Debit 2,661, Balance Debit 2,661.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_ARSubL_img.jpg"/>
+</media>
+<media id="fs-idm522162096" alt="Accounts Payable Subsidiary Ledger, D &amp; D Inc., AP Number 34. December 1, 2018; Purchases Journal, Ref. PJ 44, Credit 736, Balance Credit 736. December 10, 2019; Purchases Journal, Ref. PJ 44, Credit 5,646; Balance Credit 6,382. January 4, 2019; Cash Disbursements, Ref. CD, Debit 736, Balance Credit 5,646. BSA AP No. 71. January 6, 2019; Purchases Journal, Ref. PJ 45, Credit 4,300, Balance Credit 4,300. January 10, 2019; Cash Disbursements, Ref. CD, Debit 4,300; Balance Credit 0. Dow John AP No. 171. January 20, 2019; Purchases, Ref. PJ 45, Credit 525, Balance Credit 525. January 26, 2019; General Journal; Ref GJ 119; Debit 100; Balance Credit 425.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_APSubL_img.jpg"/>
+</media>
+<media id="fs-idm271133904" alt="Store Inc. Schedule of Accounts Receivable, January 31. PB&amp;J: 0. Jones Co.: 328. Black &amp; White Inc.: 0. Tiny Tim’s Inc.: 2,661. Total: 2,989. Store Inc. Schedule of Accounts Payable, January 31. D &amp; D Inc: 5,646. BSA: 0.Dow John: 425. Total: 6,071.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_ActSch_img.jpg"/>
+</media>
+<para id="fs-idm270438560">If you check Accounts Receivable in the general ledger, you see the balance is $2,989, and the balance in Accounts Payable is $6,071. If the numbers did not match, we would have to find out where the error was and then fix it.</para>
+<para id="fs-idm952591392">The purpose of keeping <term class="no-emphasis">subsidiary ledger</term>s is for accuracy and efficiency. They aid us in keeping accurate records. Since the total of the accounts receivable subsidiary ledger must agree with the balance shown in the accounts receivable general ledger account, the system helps us find mistakes. Since bookkeeping using ledgers is older than the United States, it was an ingenious way to double-check without having to actually do everything twice. It provided an internal control over record keeping. Today, computerized accounting information systems use the same method to store and total amounts, but it takes a lot less time.</para>
+<section id="fs-idm952306176" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm523554208" list-type="bulleted" bullet-style="bullet">
+<item>A schedule of accounts receivable is a list of all individual accounts and balances that make up accounts receivable.</item>
+<item>A schedule of accounts payable is a list of all individual accounts and balances that make up accounts payable.</item>
+</list>
+</section>
+<section id="fs-idm228498880" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm244583568">
+<problem id="fs-idm253123760">
+<para id="fs-idm245765376"><link class="lo-reference" document="m67872"/>Which special journals also require an entry to a subsidiary ledger?</para>
+</problem>
+<solution id="fs-idm272908176">
+<para id="fs-idm531273360">Any special journal can require an entry to the subsidiary ledger if the entry involves accounts receivable or accounts payable.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm280671728">
+<problem id="fs-idm524265152">
+<para id="fs-idm944428224"><link class="lo-reference" document="m67872"/>What is a schedule of accounts receivable?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm272660624">
+<problem id="fs-idm245734176">
+<para id="fs-idm523861312"><link class="lo-reference" document="m67872"/>How often do we post the cash column in the cash receipts journal to the subsidiary ledger?</para>
+</problem>
+<solution id="fs-idm272826912">
+<para id="fs-idm276016976">The cash column is not posted to the subsidiary ledger. Only the accounts receivable and accounts payable columns are posted to the subsidiary ledgers.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm269499040">
+<problem id="fs-idm531699072">
+<para id="fs-idm249168672"><link class="lo-reference" document="m67872"/>The schedule of accounts payable should equal what?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm500239312">
+<problem id="fs-idm277176272">
+<para id="fs-idm275201296"><link class="lo-reference" document="m67872"/>Which amounts do we post daily and which do we post monthly?</para>
+</problem>
+<solution id="fs-idm955151440">
+<para id="fs-idm268725232">Any amounts posted to Accounts Receivable or Accounts Payable should be posted daily (to the subsidiary ledger), and the account totals should be posted monthly. We also post the accounts in the Other Accounts column individually and may post daily or at the end of the month. We post all other total column amounts monthly.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm246049456">
+<problem id="fs-idm277842128">
+<para id="fs-idm278749520"><link class="lo-reference" document="m67872"/>Why are special journals used?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm503323824">
+<problem id="fs-idm277692544">
+<para id="fs-idm269763296"><link class="lo-reference" document="m67872"/>Name the four main special journals.</para>
+</problem>
+<solution id="fs-idm489014624">
+<para id="fs-idm280943808">The four main special journals are sales journal, purchases journal, cash receipts journal, and cash disbursements journal.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm242334848">
+<problem id="fs-idm274948416">
+<para id="fs-idm277123936"><link class="lo-reference" document="m67872"/>A journal entry that requires a debit to Accounts Receivable and a credit to Sales goes in which special journal?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm284049152">
+<problem id="fs-idm259063520">
+<para id="fs-idm274775824"><link class="lo-reference" document="m67872"/>The purchase of equipment for cash would be recorded in which special journal?</para>
+</problem>
+<solution id="fs-idm267024528">
+<para id="fs-idm946306192">We would record the purchase of equipment for cash in the cash disbursements journal.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm269795920">
+<problem id="fs-idm519830768">
+<para id="fs-idm283832656"><link class="lo-reference" document="m67872"/>Can a sales journal be used to record sales on account and a cash sale? Why or why not?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm239673696">
+<problem id="fs-idm271684736">
+<para id="fs-idm529510864"><link class="lo-reference" document="m67872"/>When should entries from the sales journal be posted?</para>
+</problem>
+<solution id="fs-idm523913744">
+<para id="fs-idm277631008">We post entries from the sales journal daily to the accounts receivable subsidiary ledger but monthly to Sales and to the Accounts Receivable general ledger account.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm277668560">
+<problem id="fs-idm532734544">
+<para id="fs-idm271635248"><link class="lo-reference" document="m67872"/>We record a sale on account that involves sales tax in which journal?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm268774352">
+<problem id="fs-idm271810512">
+<para id="fs-idm271750896"><link class="lo-reference" document="m67872"/>We record purchases of inventory for cash in which journal(s)?</para>
+</problem>
+<solution id="fs-idm272116352">
+<para id="fs-idm518674720">We record purchases of inventory for cash in the cash disbursements journal.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm276700512">
+<problem id="fs-idm270816896">
+<para id="fs-idm497125200"><link class="lo-reference" document="m67872"/>Should the purchases journal have a column that is a debit to Accounts Payable?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm524096112" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm935585744">
+<problem id="fs-idm269003120">
+<para id="fs-idm501882592"><link class="lo-reference" document="m67872"/>Maddie Inc. has the following transactions for its first month of business.</para>
+<table id="fs-idm531294576" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">May 1</entry>
+<entry valign="top" align="left">Credit sale to Green Lantern Inc. for $1,999</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">May 2</entry>
+<entry valign="top" align="left">Credit sale to Wonder Woman Inc. for $2,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">May 3</entry>
+<entry valign="top" align="left">Credit sale to Flash Inc. for $3,050</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">May 4</entry>
+<entry valign="top" align="left">Received $1,000 on account from Green Lantern Inc.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">May 5</entry>
+<entry valign="top" align="left">Credit sale to Black Panther Inc. for $1,875</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">May 6</entry>
+<entry valign="top" align="left">Received the full amount from Flash Inc.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<list id="fs-idm272096784" list-type="enumerated" number-style="upper-alpha">
+<item>What are the individual account balances, and the total balance, in the accounts receivable subsidiary ledger?</item>
+<item>What is the balance in the accounts receivable general ledger (control) account?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm935175376" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm946417840">
+<problem id="fs-idm282753456">
+<para id="fs-idm277032336"><link class="lo-reference" document="m67872"/>Piedmont Inc. has the following transactions for its first month of business:</para>
+<table id="fs-idm272667248" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jun. 1</entry>
+<entry valign="top" align="left">Purchased inventory from Montana Inc. on credit for $4,500</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 2</entry>
+<entry valign="top" align="left">Purchased inventory from Payton Inc. on credit for $2,400</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 3</entry>
+<entry valign="top" align="left">Purchased inventory from Montana Inc. on credit for $1,800</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 4</entry>
+<entry valign="top" align="left">Paid $2,000 on account to Montana Inc.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 8</entry>
+<entry valign="top" align="left">Purchased inventory on credit from Taylor Inc. for $2,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 9</entry>
+<entry valign="top" align="left">Paid Payton</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<list id="fs-idm519748864" list-type="enumerated" number-style="upper-alpha">
+<item>What are the individual account balances, and the total balance, in the accounts payable subsidiary ledger?</item>
+<item>What is the balance in the Accounts Payable general ledger account?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm486872224" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm952621776">
+<problem id="fs-idm524850144">
+<para id="fs-idm500134400"><link class="lo-reference" document="m67872"/>Evie Inc. has the following transactions during its first month of business. Journalize the transactions that go in the sales journal.</para>
+<table id="fs-idm519870256" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jun. 1</entry>
+<entry valign="top" align="left">Credit sale (invoice #1) to Green Lantern Inc. (acc #101) for $1,999</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 2</entry>
+<entry valign="top" align="left">Credit sale (invoice #2) to Wonder Woman Inc. (acc #102) for $2,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 3</entry>
+<entry valign="top" align="left">Credit sale to Flash Inc. (invoice #3) (acc #103) for $3,050</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 4</entry>
+<entry valign="top" align="left">Received $1,000 on account from Green Lantern Inc.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 5</entry>
+<entry valign="top" align="left">Credit sale (invoice #4) to Black Panther Inc. (acc #104) for $1,875</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 6</entry>
+<entry valign="top" align="left">Received the full amount from Flash Inc.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm529350880">
+<problem id="fs-idm277462400">
+<para id="fs-idm259012288"><link class="lo-reference" document="m67872"/>The following transactions occurred for Donaldson Inc. during the month of July.</para>
+<table id="fs-idm943182592" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jul. 1</entry>
+<entry valign="top" align="left">Sold 50 items to Palm Springs Inc. and offered terms of 2/10, n/30, $4,000 on July 1, and issued invoice #12 on account number #312</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 5</entry>
+<entry valign="top" align="left">Sold 20 thing-a-jigs to Miami Inc. for $2,150 cash on July 5, and issued invoice #13</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 8</entry>
+<entry valign="top" align="left">Sold 30 what-is to Smith Mfg. for $5,000 and offered terms of 2/10, n/30; issued invoice #14 on account number #178</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 9</entry>
+<entry valign="top" align="left">Received payment from Palm Springs Inc.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 22</entry>
+<entry valign="top" align="left">Received payment from Smith Mfg. after expiration of the discount period</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<list id="fs-idm503293712" list-type="enumerated" number-style="upper-alpha">
+<item>Record the transactions for Donaldson Inc. in the proper special journal and subsidiary ledger.</item>
+<item>Record the same transactions using QuickBooks, and print the journals and subsidiary ledger. They should match.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm255416768"><problem id="fs-idm244033952">
+<para id="fs-idm242483296"><link class="lo-reference" document="m67872"/>Use the journals and ledgers that follow. Total the journals. Post the transactions to the subsidiary ledger and (using T-accounts) to the general ledger accounts. Then prepare a schedule of accounts receivable.</para>
+<media id="fs-idm276656944" alt="Sales Journal, page 79. Six Columns, labeled left to right: Date, Account, Invoice Number, Reference, Debit Accounts Receivable and Credit Sales, Debit Cost of Goods Sold and Credit Merchandise Inventory. Line One: February 4, 2019; Evert Company (E123); 17433; Blank; 1,000.00; Blank. Line Two: February 8, 2019; King, Inc. (K331); 17434; Blank; 775.30; Blank. Line Three: February 14, 2019; Martina, Inc. (M132); 17435; Blank; 2,301.99; Blank. Line Four: February 16, 2019; Shriver Company (S101); 17436; Blank; 500.00; Blank.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PA03a_img.jpg"/>
+</media>
+<media id="fs-idm277281008" alt="Sales Journal, page 102. Seven columns, labeled left to right: Date; Account; Invoice Number; Reference; Cash Debit; Sales Discounts Debit; Accounts Receivable, Sales, or Other Accounts Credit. Line One: February 1, 2019; Cash Sales; Blank; Blank; 465; Blank; 465. Line Two: February 5, 2019; Payment from Evert; 1723; Blank; 980; 20; 1,000. Line Three: February 15. 2019; Bank Loan (230); Blank; Blank; 2,000; Blank; 2,000. Line Four: February 21, 2019; Payment from Shriver Company; 1719; Blank; 500; Blank; 500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PA03b_img.jpg"/>
+</media>
+</problem>
+</exercise><exercise id="fs-idm258396640">
+<problem id="fs-idm221601424">
+<para id="fs-idm244163184"><link class="lo-reference" document="m67872"/>Brown Inc. records purchases in a purchases journal and purchase returns in the general journal. Record the following transactions using a purchases journal, a general journal, and an accounts payable subsidiary ledger. The company uses the periodic method of accounting for inventory.</para>
+<table id="fs-idm274222976" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Oct. 1</entry>
+<entry valign="top" align="left">Purchased inventory on account from Price Inc. for $2,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oct. 1</entry>
+<entry valign="top" align="left">Purchased inventory on account from Cabrera Inc. for $3,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oct. 8</entry>
+<entry valign="top" align="left">Returned half of the inventory to Price Inc.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oct. 9</entry>
+<entry valign="top" align="left">Purchased inventory on account from Price Inc. for $4,200</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm248885920" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm504328112">
+<problem id="fs-idm529447504">
+<para id="fs-idm272237376"><link class="lo-reference" document="m67872"/>Piedmont Inc. has the following transactions for the month of July.</para>
+<table id="fs-idm486875888" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jul. 1</entry>
+<entry valign="top" align="left">Sold merchandise for $4,000 to Pinetop Inc. (account number PT152) and offered terms of 1/10, n/30, on July 1, invoice # 1101</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 5</entry>
+<entry valign="top" align="left">Sold merchandise to Sherwood Inc. (account number SH 224), Invoice # 1102 for $2,450 cash on July 5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 9</entry>
+<entry valign="top" align="left">Sold merchandise, invoice #1103, to Cardinal Inc. (account number CA 118) for $5,000, and offered terms of 3/10, n/30</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 9</entry>
+<entry valign="top" align="left">Received payment from Pinetop Inc.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 22</entry>
+<entry valign="top" align="left">Received payment from Cardinal Inc. after expiration of the discount period</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 30</entry>
+<entry valign="top" align="left">Received a refund check in the amount of $120 from the insurance company (credit Insurance Expense, account number 504)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<list id="fs-idm270983376" list-type="enumerated" number-style="upper-alpha">
+<item>Record the transactions for Piedmont Inc. in the proper special journal, and post them to the subsidiary ledger and general ledger account.</item>
+<item>Record the same transactions using QuickBooks, and print the special journals and subsidiary and general ledger. Your solution done manually should match your solution using QuickBooks.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm277936272">
+<problem id="fs-idm223916912">
+<para id="fs-idm266978592"><link class="lo-reference" document="m67872"/>Use the journals and ledgers that follow. Total and rule (draw a line under the column of numbers) the journals. Post the transactions to the subsidiary ledger and (using T-accounts) to the general ledger accounts. Then prepare a schedule of Accounts Payable.</para><media id="fs-idm499732144" alt="Purchases Journal. Five Columns, labeled left to right: Date, Purchase Order Number, Account Credited, Account Number, Debit Merchandise Inventory and Credit Accounts Payable, Line One: April 4, 2019; 57346; Murphy Corporation; AP146; 1,235, 50. Line Two: April 7, 2019; 57347; Jensen Company; AP234; 678; 25. Line Three: April 15, 2019; 57348; Murphy Company; AP146; 715; 19.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB02a_img.jpg"/>
+</media>
+<media id="fs-idm531331360" alt="Cash Disbursements Journal, page 102. Eleven Columns, labeled left to right: Date, Check Number, Payee, Cash Credit, Reference, Accounts Payable Debit, Purchase Discounts Credit. The last four columns are headed Other Accounts: Account Number, Checkmark, Debit, Credit. Line One: April 1; 1251; Rent; 800; Blank; Blank; Blank; 526; Blank; 800; Blank. Line Two: April 7; 1252; Murphy Corporation; 1,210.79; AP 155; 1,235.50; 24.71; Blank; Blank; Blank; Blank. Line Three: April 15; 1253; Country Bank (loan); 3,090; Blank; Blank; Blank; 222; Blank; 3,000; Blank. Line Four: Blank; Blank; Interest; Blank; Blank; Blank; Blank; 563; Blank; 90; Blank. Line Five: April 16; 1254; Jensen Company; 657.90; AP 234; 678.25; 20.35; Blank; Blank; Blank; Blank.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB02b_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm281846320">
+<problem id="fs-idm280432944">
+<para id="fs-idm249490912"><link class="lo-reference" document="m67872"/>Comprehensive Problem: Manual Accounting Information System versus QuickBooks</para>
+<para id="fs-idm274539072">The following problem is a comprehensive problem requiring you to complete all of the steps in the accounting cycle, first manually and then by entering the same transactions and performing the same steps using QuickBooks. This will demonstrate the important point that a manual accounting information system (AIS) and a computerized AIS both allow the user to perform the same steps in the accounting cycle, but they are done differently.</para><para id="fs-idm529213840">In a manual system, every step must be performed by the user. In contrast to this, in a computerized system, for each transaction, the user determines the type of transaction it is and enters it in the appropriate data entry screen. The computer then automatically places the transactions in transaction files (the equivalent of journals in a manual system). The user then instructs the system to post the transaction to the subsidiary ledger and at the end of the month to the general ledger. The computer can do the posting automatically.</para>
+<para id="fs-idm269881008">Other steps done automatically by the computer are preparing a trial balance, closing entries, and generating financial statements. The user would have to provide the computer with information about adjusting entries at the end of the period. Some adjusting entries can be set up to be done automatically every month, but not all. When we say the computer can do a specific step “automatically,” this presumes that a programmer wrote the programs (i.e., detailed step-by-step instructions in a computer language) that tell the computer how to do the task. The computer can then follow those instructions and do it “automatically” without human intervention.</para>
+<para id="fs-idm531552032"><emphasis effect="bold">Problem</emphasis></para>
+<para id="fs-idm247689888">Assume there is a small shoe store in your neighborhood with a single owner. The owner started the business on December 1, 2018, and sells two types of shoes: a comfortable sneaker that is something athletes would purchase, and a comfortable dress shoe that looks dressy but has the comfort of a sneaker. The name of the business is <emphasis effect="italics">The Shoe Horn</emphasis>. Complete tasks A and B that follow, using the detailed instructions for each. Following is a list of all transactions that occurred during December 2018.</para>
+<table id="fs-idm273116880" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">a.</entry>
+<entry valign="top" align="left">Dec. 1</entry>
+<entry valign="top" align="left">Jack Simmons, the owner contributed a $500,000 check from his personal account, which he deposited into an account opened in the name of the business, to start the business.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">b.</entry>
+<entry valign="top" align="left">Dec. 1</entry>
+<entry valign="top" align="left">He rented space that had previously been used by a shoe store and wrote check no. 100 for $9,000 for the first six month’s rent.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">c.</entry>
+<entry valign="top" align="left">Dec. 2</entry>
+<entry valign="top" align="left">He paid for installation and phone usage $300 (check no. 101)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">d.</entry>
+<entry valign="top" align="left">Dec. 2</entry>
+<entry valign="top" align="left">He paid for advertising in the local paper $150 (check no. 102). The ads will all run in December.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">e.</entry>
+<entry valign="top" align="left">Dec. 2</entry>
+<entry valign="top" align="left">He purchased $500 of office supplies (check no. 103)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">f.</entry>
+<entry valign="top" align="left">Dec. 3</entry>
+<entry valign="top" align="left">He paid $300 for insurance for three months (December 2018, January and February 2019 using check no, 104).</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">g.</entry>
+<entry valign="top" align="left">Dec. 4</entry>
+<entry valign="top" align="left">He purchased 800 pairs of sneakers at $40 a pair– on account from Nike (using purchase order no. 301). Payment terms were 2/10, net 30. Assume the shoe store uses the perpetual inventory system.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">h.</entry>
+<entry valign="top" align="left">Dec. 5</entry>
+<entry valign="top" align="left">He purchased 500 pairs of dress shoes from Footwear Corp. on account for $20 a pair (using purchase order no. 302). Payment terms were 2/10, net 30</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">i.</entry>
+<entry valign="top" align="left">Dec. 10</entry>
+<entry valign="top" align="left">He made a sale on account of 20 pairs of sneakers at $100 a pair, to a local University – Highland University (sales invoice number 2000) for their basketball team. Payment terms were 2/10 net 30.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">j.</entry>
+<entry valign="top" align="left">Dec. 11</entry>
+<entry valign="top" align="left">He made a sale on account of 2 pairs of dress shoes at $50 a pair (sales invoice no. 2001) to a local charity, U.S. Veterans, that intended to raffle them off at one of their events.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">k.</entry>
+<entry valign="top" align="left">Dec. 12</entry>
+<entry valign="top" align="left">He made a sale on account to The Jenson Group of 300 pairs of dress shoes at $50 a pair, to use as part of an employee uniform. Payment terms were 2/10 net 30.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">l.</entry>
+<entry valign="top" align="left">Dec. 14</entry>
+<entry valign="top" align="left">He made a cash sale for 2 sneakers at $120 each and 1 pair of shoes for $60.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">m.</entry>
+<entry valign="top" align="left">Dec. 14</entry>
+<entry valign="top" align="left">He paid the amount owed to Footwear Corp (check no 105)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">n.</entry>
+<entry valign="top" align="left">Dec. 17</entry>
+<entry valign="top" align="left">Highland University returned 2 pairs of sneakers they had previously purchased on account.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">o.</entry>
+<entry valign="top" align="left">Dec. 18</entry>
+<entry valign="top" align="left">He received a check from Highland University in full payment of their balance.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">p.</entry>
+<entry valign="top" align="left">Dec. 20</entry>
+<entry valign="top" align="left">He made a cash sale to Charles Wilson of three pairs of sneakers at $120 each and 1 pair of dress shoes at $60.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">q.</entry>
+<entry valign="top" align="left">Dec. 20</entry>
+<entry valign="top" align="left">He made a partial payment to Nike for $20,000 (check number 106)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">r.</entry>
+<entry valign="top" align="left">Dec. 23</entry>
+<entry valign="top" align="left">Received a $400 utility bill which will be paid in January.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">s.</entry>
+<entry valign="top" align="left">Dec. 27</entry>
+<entry valign="top" align="left">Received a check from The Jenson Group in the amount of $9,000.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">t.</entry>
+<entry valign="top" align="left">Dec. 28</entry>
+<entry valign="top" align="left">He paid $2,000 of his balance to Nike (check number 107)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<list id="fs-idm239245072" list-type="enumerated" number-style="upper-alpha">
+<item>Enter all of the transactions and complete all of the steps in the accounting cycle assuming a manual system. Follow the <emphasis effect="italics">steps to be performed using a manual system</emphasis>.</item>
+<item>Enter the transactions into QuickBooks, complete all of the steps in the accounting cycle, and generate the same reports (journals trial balances, ledgers, financial statements). Follow the steps to be performed using a manual system. Follow the <emphasis effect="italics">steps to be performed using QuickBooks</emphasis>.</item>
+</list>
+<para id="fs-idm487289264"><emphasis effect="bold">Steps to be performed using a manual system</emphasis></para>
+<list id="fs-idm281325808" list-type="enumerated" number-style="arabic"><item>For each of the transactions listed for the month of December 2018, identify the journal to which the entry should be recorded. Your possible choices are as follows: general journal (GJ), cash receipts journal (CR), cash disbursements journal (CD), sales journal (SJ), or purchases journal (PJ). Templates for the journals and ledgers have been provided.</item>
+<item>Enter each transaction in the appropriate journal using the format provided.<newline/>
+<media id="fs-idm486369280" alt="Sales Journal template, page 10. Seven columns, labeled left to right: Date, Account, Terms, Reference, Invoice Number, Accounts Receivable Debit Sales Credit, Cost of Goods Sold Debit Inventory Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP01_img.jpg"/>
+</media>
+<media id="fs-idm503326480" alt="Purchases Journal template, page 15. Six columns, labeled left to right: Date, Account, Terms, Reference, Invoice Number, Inventory Debit Accounts Payable Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP02_img.jpg"/>
+</media>
+<media id="fs-idm499748432" alt="Cash Disbursements Journal template, page 25. Twelve columns, labeled left to right: Date, Description, Check Number, Reference, Cash Credit, Accounts Payable Debit, Inventory Debit, Purchases Discount Credit. The last four columns are headed Other: Account Number, Reference, Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP03_img.jpg"/>
+</media>
+<media id="fs-idm943312320" alt="Cash Receipts Journal template, page 30. Eleven columns, labeled left to right: Date, Description, Reference, Cash Debit, Accounts Receivable Credit, Sales Credit, Sales Discount. The last four columns are headed Other: Account Number, Reference, Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP04_img.jpg"/>
+</media></item>
+<item>Open up Accounts Receivable subsidiary ledger accounts for customers and Accounts Payable subsidiary ledger accounts for vendors using the format provided. Post each entry to the appropriate subsidiary ledger on the date the transaction occurred.<newline/>
+<media id="fs-idm498587776" alt="Accounts Receivable Subsidiary Ledger template. Highland University (HU). Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP05_img.jpg"/>
+</media>
+<media id="fs-idm257879984" alt="Accounts Receivable Subsidiary Ledger template. U.S. Veterans (USV). Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit..">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP06_img.jpg"/>
+</media>
+<media id="fs-idm272042912" alt="Accounts Receivable Subsidiary Ledger template. Jensen Group (JG). Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit..">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP07_img.jpg"/>
+</media>
+<media id="fs-idm226705424" alt="Accounts Payable Subsidiary Ledger template. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP08_img.jpg"/>
+</media>
+<media id="fs-idm223897616" alt="Accounts Payable Subsidiary Ledger template. Footwear Corp. (FC). Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP09_img.jpg"/>
+</media></item>
+<item>Total the four special journals, and post from all of them to the general ledger on the last day of December. You should open ledger accounts for the following accounts:
+<list id="fs-idm263452416" list-type="bulleted" bullet-style="bullet">
+<item>Cash</item>
+<item>Accounts Receivable</item>
+<item>Merchandise Inventory</item>
+<item>Prepaid Insurance</item>
+<item>Prepaid Rent</item>
+<item>Office Supplies</item>
+<item>Accounts Payable</item>
+<item>Purchases Discounts</item>
+<item>Utilities Expense Payable</item>
+<item>Jack Simmons, Capital</item>
+<item>Sales</item>
+<item>Sales Returns and Allowances</item>
+<item>Sales Discounts</item>
+<item>Cost of Goods Sold</item>
+<item>Rent Expense</item>
+<item>Advertising Expense</item>
+<item>Telephone Expense</item>
+<item>Utilities Expense</item>
+<item>Office Supplies Expense</item>
+<item>Insurance Expense</item>
+</list>
+<media id="fs-idm944324160" alt="General Ledger template. Cash Account, Number 100. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP10_img.jpg"/>
+</media>
+<media id="fs-idm245735936" alt="General Ledger template. Accounts Receivable Account, Number 102. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP11_img.jpg"/>
+</media>
+<media id="fs-idm524486896" alt="General Ledger template. Merchandise Inventory Account, Number 110. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP12_img.jpg"/>
+</media>
+<media id="fs-idm951834160" alt="General Ledger template. Prepaid Insurance Account, Number 118. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP13_img.jpg"/>
+</media>
+<media id="fs-idm239999216" alt="General Ledger template. Prepaid Rent Account, Number 119. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP14_img.jpg"/>
+</media>
+<media id="fs-idm519801984" alt="General Ledger template. Office Supplies Account, Number 125. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP15_img.jpg"/>
+</media>
+<media id="fs-idm946642848" alt="General Ledger template. Accounts Payable Account, Number 200. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP16_img.jpg"/>
+</media>
+<media id="fs-idm952284992" alt="General Ledger template. Purchases Discount Account, Number 111. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP17_img.jpg"/>
+</media>
+<media id="fs-idm524849632" alt="General Ledger template. Utilities Expense Payable Account, Number 210. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP18_img.jpg"/>
+</media>
+<media id="fs-idm524523392" alt="General Ledger template. Jack Simmons, Capital Account, Number 500. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP19_img.jpg"/>
+</media>
+<media id="fs-idm488159104" alt="General Ledger template. Sales Account, Number 300. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP20_img.jpg"/>
+</media>
+<media id="fs-idm255328288" alt="General Ledger template. Sales Returns and Allowances Account, Number 301. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP21_img.jpg"/>
+</media>
+<media id="fs-idm246991968" alt="General Ledger template. Sales Discounts Account, Number 302. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP22_img.jpg"/>
+</media>
+<media id="fs-idm493843104" alt="General Ledger template. Cost of Goods Sold Account, Number 400. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP23_img.jpg"/>
+</media>
+<media id="fs-idm489093520" alt="General Ledger template. Advertising Expense Account, Number 420. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP24_img.jpg"/>
+</media>
+<media id="fs-idm275553424" alt="General Ledger template. Rent Expense Account, Number 403. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP25_img.jpg"/>
+</media>
+<media id="fs-idm529065344" alt="General Ledger template. Telephone Expense Account, Number 410. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP26_img.jpg"/>
+</media>
+<media id="fs-idm262298480" alt="Utilities Expense Account, Number 418. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP27_img.jpg"/>
+</media>
+<media id="fs-idm524268640" alt="General Ledger template. Office Supplies Expense Account, Number 418. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP28_img.jpg"/>
+</media>
+<media id="fs-idm227820480" alt="General Ledger template. Insurance Expense Account, Number 408. Seven columns, labeled left to right: Date, Item, Reference, Debit, Credit. The last two columns are headed Balance: Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP29_img.jpg"/>
+</media></item>
+<item>Compute balances for each general ledger account and for each Accounts Receivable and Accounts Payable subsidiary ledger account.</item>
+<item>Prepare a trial balance.</item>
+<item>Prepare an accounts receivable schedule and an accounts payable schedule.</item>
+<item>Prepare adjusting journal entries based on the following information given, record the entries in the appropriate journal, and post the entries.
+<list id="fs-idm227816432" list-type="bulleted" bullet-style="bullet">
+<item>There were $100 worth of office supplies remaining at the end of December.</item>
+<item>Make an adjusting entry relative to insurance.</item>
+<item>There was an additional bill received in the mail for utilities expense for the month of December in the amount of $100 that is due by January 10, 2019. Jack Simmons intends to pay it in January.</item>
+</list>
+<media id="fs-idm519833712" alt="General Ledger template, page 1. Five columns, labeled left to right: Date, Description, Reference, Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP30_img.jpg"/>
+</media></item>
+<item>Prepare an adjusted trial balance</item>
+<item>Prepare closing journal entries, record them in the general journal, and post them.<newline/>
+<media id="fs-idm255384704" alt="General Ledger template, page 1. Five columns, labeled left to right: Date, Description, Reference, Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_PB3CP31_img.jpg"/>
+</media></item>
+<item>Prepare an Income statement, Statement of Owner’s Equity, and Balance Sheet.</item>
+</list><para id="fs-idm277183520"><emphasis effect="bold">Steps to be performed using QuickBooks.</emphasis> You can access a <emphasis effect="bold">trial version of QuickBooks</emphasis> (https://quickbooks.intuit.com/pricing/) to work through this problem.</para>
+<list id="fs-idm235831376" list-type="enumerated" number-style="arabic">
+<item>Set up a new company called <emphasis effect="italics">The Shoe Horn</emphasis> using easy step interview.</item>
+<item>You will be adding a bank account, customizing preferences, adding customers, adding vendors, adding products, and customizing the chart of accounts. You will <emphasis effect="italics">not</emphasis> need to enter opening adjustments since you are entering transactions for a new company, so there are no opening balances. QuickBooks should automatically create a chart of accounts, but you can customize it, and you will need to enter information for a customer list, vendor list, and (inventory) items list.</item>
+<item>Use “QB transactions” to enter each of the following transactions for the month of December 2018. You can use Onscreen Journal to enter transactions into the general journal, and Onscreen Forms to enter transactions that will end up in the special journals. Identify the type of transaction it is: a sale, a purchase, a receipt of cash, or a payment by check. The categories QuickBooks uses are banking and credit card, customers and sales, vendors and expenses, employees and payroll (not needed in this problem), and other. Note: there is no need to identify the journal as in a manual system or to enter a journal entry, because in an AIS like QuickBooks, you enter the transaction information, and behind the scenes, QuickBooks creates a journal entry that gets added to a transaction file (the equivalent of a journal). After the transactions for the month have been entered, you can print out each of the five journals.</item>
+<item>Enter the following transactions using the appropriate data entry screens based on the type of transaction it is, as identified in step 3.
+<table id="fs-idm245455360" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">a.</entry>
+<entry valign="top" align="left">Dec. 1</entry>
+<entry valign="top" align="left">Jack Simmons, the owner contributed a $500,000 check from his personal account, which he deposited into an account opened in the name of the business, to start the business.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">b.</entry>
+<entry valign="top" align="left">Dec. 1</entry>
+<entry valign="top" align="left">He rented space that had previously been used by a shoe store and wrote check no. 100 for $9,000 for the first six month’s rent.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">c.</entry>
+<entry valign="top" align="left">Dec. 2</entry>
+<entry valign="top" align="left">He paid for installation and phone usage $300 (check no. 101)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">d.</entry>
+<entry valign="top" align="left">Dec. 2</entry>
+<entry valign="top" align="left">He paid for advertising in the local paper $150 (check no. 102). The ads will all run in December.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">e.</entry>
+<entry valign="top" align="left">Dec. 2</entry>
+<entry valign="top" align="left">He purchased $500 of office supplies (check no. 103)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">f.</entry>
+<entry valign="top" align="left">Dec. 3</entry>
+<entry valign="top" align="left">He paid $300 for insurance for three months (December 2018, January and February 2019 using check no, 104).</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">g.</entry>
+<entry valign="top" align="left">Dec. 4</entry>
+<entry valign="top" align="left">He purchased 800 pairs of sneakers at $40 a pair– on account from Nike (using purchase order no. 301). Payment terms were 2/10, net 30. Assume the shoe store uses the perpetual inventory system.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">h.</entry>
+<entry valign="top" align="left">Dec. 5</entry>
+<entry valign="top" align="left">He purchased 500 pairs of dress shoes from Footwear Corp. on account for $20 a pair (using purchase order no. 302). Payment terms were 2/10, net 30</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">i.</entry>
+<entry valign="top" align="left">Dec. 10</entry>
+<entry valign="top" align="left">He made a sale on account of 20 pairs of sneakers at $100 a pair, to a local University – Highland University (sales invoice number 2000) for their basketball team. Payment terms were 2/10 net 30.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">j.</entry>
+<entry valign="top" align="left">Dec. 11</entry>
+<entry valign="top" align="left">He made a sale on account of 2 pairs of dress shoes at $50 a pair (sales invoice no. 2001) to a local charity, U.S. Veterans, that intended to raffle them off at one of their events.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">k.</entry>
+<entry valign="top" align="left">Dec. 12</entry>
+<entry valign="top" align="left">He made a sale on account to The Jenson Group of 300 pairs of dress shoes at $50 a pair, to use as part of an employee uniform. Payment terms were 2/10 net 30.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">l.</entry>
+<entry valign="top" align="left">Dec. 14</entry>
+<entry valign="top" align="left">He made a cash sale for 2 sneakers at $120 each and 1 pair of shoes for $60.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">m.</entry>
+<entry valign="top" align="left">Dec. 14</entry>
+<entry valign="top" align="left">He paid the amount owed to Footwear Corp (check no 105)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">n.</entry>
+<entry valign="top" align="left">Dec. 17</entry>
+<entry valign="top" align="left">Highland University returned 2 pairs of sneakers they had previously purchased on account.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">o.</entry>
+<entry valign="top" align="left">Dec. 18</entry>
+<entry valign="top" align="left">He received a check from Highland University in full payment of their balance.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">p.</entry>
+<entry valign="top" align="left">Dec. 20</entry>
+<entry valign="top" align="left">He made a cash sale to Charles Wilson of three pairs of sneakers at $120 each and 1 pair of dress shoes at $60.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">q.</entry>
+<entry valign="top" align="left">Dec. 20</entry>
+<entry valign="top" align="left">He made a partial payment to Nike for $20,000 (check number 106)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">r.</entry>
+<entry valign="top" align="left">Dec. 23</entry>
+<entry valign="top" align="left">Received a $400 utility bill which will be paid in January.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">s.</entry>
+<entry valign="top" align="left">Dec. 27</entry>
+<entry valign="top" align="left">Received a check from The Jenson Group in the amount of $9,000.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">t.</entry>
+<entry valign="top" align="left">Dec. 28</entry>
+<entry valign="top" align="left">He paid $2,000 of his balance to Nike (check number 107)</entry>
+</row>
+</tbody>
+</tgroup>
+</table></item>
+<item>Generate and print a trial balance. Use QB reports to print this and other reports.</item>
+<item>Prepare and enter adjusting entries based on the following information given, and print them.
+<list id="fs-idm504308256" list-type="bulleted" bullet-style="bullet">
+<item>There were $100 worth of office supplies remaining at the end of December.</item>
+<item>Make an adjusting entry relative to insurance</item>
+<item>There was an additional bill received in the mail for utilities expense for the month of December in the amount of $100 that is due by January 10, 2019. Jack Simmons intends to pay it in January.</item>
+</list></item>
+<item>Generate and print an adjusted trial balance.</item>
+<item>QuickBooks will automatically prepare closing journal entries.</item>
+<item>Print the financial statements: the Income Statement (same as Profit and Loss Statement) and the Balance Sheet.</item>
+<item>Print all of the five journals. After the transactions for the month have been entered, you can print out each of the five journals (general journal, cash receipts journal, cash disbursements journal, sales journal, purchases journal).</item>
+<item>Print the general ledger and the accounts receivable and accounts payable subsidiary ledgers.</item>
+<item>Compare the items you printed from QuickBooks to what you have manually prepared. The content should be identical, although the format may be slightly different. Note: while the results are the same, the QuickBooks software did many of the steps for you automatically.</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm951969536">
+<term>schedule of accounts payable</term>
+<meaning id="fs-idm955164464">table showing each amount owed and to whom it must be paid; total of the schedule should equal the total of accounts payable in the general ledger</meaning>
+</definition>
+<definition id="fs-idm955163792">
+<term>schedule of accounts receivable</term>
+<meaning id="fs-idm518558816">table showing each customer and the amount owed; total of the schedule should equal the total of accounts receivable in the general ledger</meaning>
+</definition>
+</glossary>
+</document>

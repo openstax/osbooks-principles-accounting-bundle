@@ -1,0 +1,324 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Compare and Contrast Traditional and Activity-Based Costing Systems</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68138</md:content-id>
+  <md:title>Compare and Contrast Traditional and Activity-Based Costing Systems</md:title>
+  <md:abstract/>
+  <md:uuid>0531d979-aed0-4d68-b2af-5c7487866802</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm409413344">Calculating an accurate manufacturing cost for each product is a vital piece of information for a company’s decision-making. For example, knowing the cost to produce a unit of product affects not only how a business budgets to manufacture that product, but it is often the starting point in determining the sales price.</para>
+<para id="fs-idm396883504">An important component in determining the total production costs of a product or job is the proper allocation of overhead. For some companies, the often less-complicated traditional method does an excellent job of allocating overhead. However, for many products, the allocation of overhead is a more complex issue, and an activity-based costing (ABC) system is more appropriate.</para>
+<para id="fs-idm406276992">Another factor to consider in determining which of the two major overhead allocation methods to use is the cost associated with collecting and analyzing information. When making their decision regarding which method to use, the company must consider these costs, both in time and money. <link target-id="fs-idm388858288"/> compares overhead in the two systems. In many cases, the ABC method is more expensive in terms of time and other costs.</para>
+<para id="fs-idm388179808">The difference between the traditional method (using one cost driver) and the ABC method (using multiple cost drivers) is more complex than simply the number of cost drivers. When direct labor is a large portion of the product cost, the overhead costs tend to be consistently driven by one cost driver, which is typically direct labor or machine hours; the traditional method appropriately allocates those costs. When technology is a large portion of the product cost, the overhead costs tend to be driven by multiple drivers, so using multiple cost drivers in the ABC method allows for a more precise allocation of overhead.</para>
+<table id="fs-idm388858288" class="top-titled" summary="Assessment information">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c3">Overhead in Traditional versus ABC Costing</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left">Traditional</entry>
+<entry valign="bottom" align="left">ABC</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Overhead assigned</entry>
+<entry valign="bottom" align="left">Single cost driver</entry>
+<entry valign="bottom" align="left">Multiple cost drivers</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Optimal usage</entry>
+<entry valign="bottom" align="left">When direct labor is a large portion of the product cost</entry>
+<entry valign="bottom" align="left">When technology is a large portion of the product cost</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Orientation</entry>
+<entry valign="bottom" align="left">Cost driven</entry>
+<entry valign="bottom" align="left">Process driven</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm398130048">As shown with Musicality’s products, not only are there different costs for each product when comparing traditional allocation with an activity-based costing, but ABC showed that the Solo product creates a loss for the company. Activity-based costing is a more accurate method, because it assigns overhead based on the activities that drive the overhead costs. It can be concluded, then, that the cost and subsequent gross loss for each unit’s sales provide a more accurate picture than the overall cost and gross profit under the traditional method. <link target-id="fs-idm385892464"/> compares the cost per unit using the different cost systems and shows how different the costs can be depending on the method used.</para>
+<media id="fs-idm385892464" class="scaled-down" alt="Solo, Band, and Orchestra, respectively. Cost per Unit via ABC: $22.50, $16.90, $17.70. Cost per Unit via Traditional: 18.50, 16.75, 20.00. Difference: $4.00, $0.15, $(2.30).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_04_MCompCost.jpg"/>
+</media>
+<section id="fs-idm378824144">
+<title>Advantages and Disadvantages of the Traditional Method of Calculating Overhead</title>
+<para id="fs-idm401320128">The <term class="no-emphasis">traditional allocation</term> system assigns manufacturing overhead based on a single cost driver, such as direct labor hours, direct labor dollars, or machine hours, and is optimal when there is a relationship between the activity base and overhead. This most often occurs when direct labor is a large part of the product cost. The theory supporting the single cost driver is that the cost driver selected increases as overhead increases, and further analysis is more costly than it is valuable. Each method has its advantages and disadvantages. These are advantages of the traditional method:</para>
+<list id="fs-idm358504720" list-type="bulleted" bullet-style="bullet">
+<item>All manufacturing costs are classified as material, labor, or overhead and assigned to products regardless of whether they drive or are driven by production.</item>
+<item>All manufacturing costs are considered to be part of the product cost, whereas nonmanufacturing costs are not considered to be production costs and are not assigned to products, regardless of whether the costs are based on the products. For example, the machines used to receive and process customer orders are necessary because product orders must be taken, but their costs are not allocated to particular products.</item>
+<item>There is only one overhead cost pool and a single measure of activity, such as direct labor hours, which makes the traditional method simple and less costly to maintain. The predetermined overhead rate is based on estimated costs at the budgeted level of activity. Therefore, the overhead rate is consistent across products, but overhead may be over- or underapplied.</item>
+</list>
+<para id="fs-idm379169184">Disadvantages of the traditional method include:</para>
+<list id="fs-idm378344720" list-type="bulleted" bullet-style="bullet">
+<item>The use of the single cost driver does not allocate overhead as accurately as using multiple cost drivers.</item>
+<item>The use of the single cost driver may overallocate overhead to one product and underallocate overhead to another product, resulting in erroneous total costs and potentially setting an incorrect sales price.</item>
+<item>Traditional allocation assigns costs as period or product costs, and all product costs are included in the cost of inventory, which makes this method acceptable for generally accepted accounting principles (GAAP).</item>
+</list>
+<note id="fs-idm406185360" class="think-through">
+<title>ABC Method and Financial Statements</title>
+<para id="fs-idm386936608">There are pros and cons to both the traditional and the ABC system. One advantage of the ABC system is that it provides more accurate information on the costs to manufacture products, but it does not show up on the financial statements. Explain how this costing information has value if it does not appear on the financial statements.</para>
+</note>
+</section>
+<section id="fs-idm382472784">
+<title>Advantages and Disadvantages of Creating an Activity-Based Costing System for Allocating Overhead</title>
+<para id="fs-idm409359840">While ABC systems more accurately allocate the costs based on the various resources used to make the product, they cost more to use and, therefore, are not always the best method. Management needs to consider each system and how it will work within its own organization. Some advantages of activity-based costing include:</para>
+<list id="fs-idm384434176" list-type="bulleted" bullet-style="bullet">
+<item>There are multiple overhead cost pools, and each has its own unique measure of activity. This provides more accurate rates for applying overhead, but it takes more time to implement and results in a higher cost.</item>
+<item>The allocation bases (i.e., measures of activity) often differ from those used in traditional allocation. Multiple cost pools allow management to group costs being influenced by similar drivers and to consider cost drivers beyond the typical labor or machine hour. This results in a more accurate overhead application rate.</item>
+<item>The activity rates may consider the level of activity at capacity instead of the budgeted level of activity.</item>
+<item>Both nonmanufacturing costs and manufacturing costs may be assigned to products. The main rationale in assigning costs is the relationship between the cost and the product. If the cost increases as the volume of the product increases, it is considered part of overhead.</item>
+</list>
+<para id="fs-idm385817104">There are disadvantages to using ABC costing that management needs to consider when determining which method to use. Those disadvantages include:</para>
+<list id="fs-idm402865408" list-type="bulleted" bullet-style="bullet">
+<item>Some manufacturing costs may be excluded from product costs. For example, the cost to heat the factory may be excluded as a product cost because, while it is necessary for production, it does not fit into one of the activity-driven cost pools.</item>
+<item>It is more expensive, as there is a cost to collect and analyze cost driver information as well as to allocate overhead on the basis of multiple cost drivers.</item>
+<item>An ABC system takes much more to implement and operate, as information on cost drivers must be collected in an objective manner.</item>
+</list>
+<para id="fs-idm409448496">The advantages and disadvantages of both methods are as previously listed, but what is the practical impact on the product cost? There are several items to consider at the product costs level:</para>
+<list id="fs-idm410755136" list-type="bulleted" bullet-style="bullet">
+<item>Adopting an ABC overhead allocation system can allow a company to shift manufacturing overhead costs between products based on their volume.</item>
+<item>Using an ABC method to better assign unit-level, batch-level, product-level, and factory-level costs can increase the per-unit costs of the low-volume products and decrease the per-unit costs of the high-volume products.</item>
+<item>The effects are not symmetrical; there is usually a larger change in the per-unit costs of the low-volume products.</item>
+<item>The cost of the products may include some period costs but not some of the product costs, so it is not considered GAAP compliant. The information is supplemental and very helpful to management, but the company still needs to compute the product’s cost under the traditional method for financial reporting.</item>
+</list>
+<note id="fs-idm402827184" class="link-to-learning">
+<para id="fs-idm389430208">Changing from the traditional allocation method to ABC costing is not as simple as having management dictate that employees follow the new system. There are often challenges that begin with convincing employees that it will provide benefits and that they should buy into the new system. See this <link url="https://openstax.org/l/50Chrysler">1995 article, <emphasis effect="italics">Tapping the Full Potential of ABC</emphasis>, illustrating some of <emphasis class="colored-text">Chrysler</emphasis>’s challenges</link> to learn more.</para>
+</note>
+</section>
+<section id="fs-idm411680192" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm390050848" list-type="bulleted" bullet-style="bullet">
+<item>Traditional allocation assigns overhead based on a single overhead rate, while ABC assigns overhead based on several cost pools and the activities that drive costs.</item>
+<item>Traditional allocation is optimal when the manufacturing process is labor driven and overhead increases based on traditional activity bases, such as direct labor hours, direct labor dollars, or machine hours.</item>
+<item>ABC costing is optimal when the manufacturing process is technology driven and overhead increases based on various activities that differ for each product.</item>
+</list>
+</section>
+<section id="fs-idm385323664" class="multiple-choice">
+<exercise id="fs-idm384356896">
+<problem id="fs-idm379696624">
+<para id="fs-idm403082000"><link class="lo-reference" document="m68138"/>Which statement is correct?</para>
+<list id="fs-idm386697024" list-type="enumerated" number-style="upper-alpha">
+<item>Activity-based cost systems are less costly than traditional cost systems.</item>
+<item>Activity-based cost systems are easier to implement than traditional cost systems.</item>
+<item>Activity-based cost systems are more accurate than traditional cost systems.</item>
+<item>Activity-based cost systems provide the same data as traditional cost systems.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm398848960">
+<problem id="fs-idm387809568">
+<para id="fs-idm379174464"><link class="lo-reference" document="m68138"/>Activity-based costing systems:</para>
+<list id="fs-idm385955408" list-type="enumerated" number-style="upper-alpha">
+<item>use a single predetermined overhead rate based on machine hours instead of on direct labor</item>
+<item>frequently increase the overhead allocation to at least one product while decreasing the overhead allocation to at least one other product</item>
+<item>limit the number of cost pools</item>
+<item>always result in an increase of at least one product’s selling price</item>
+</list>
+</problem>
+<solution id="fs-idm410830720">
+<para id="fs-idm383569152">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm392141248">
+<problem id="fs-idm394025168">
+<para id="fs-idm400844736"><link class="lo-reference" document="m68138"/>Activity-based costing is preferable in a system:</para>
+<list id="fs-idm403419824" list-type="enumerated" number-style="upper-alpha">
+<item>when multiple products have similar product volumes and costs</item>
+<item>with a large direct labor cost as a percentage of the total product cost</item>
+<item>with multiple, diverse products</item>
+<item>where management needs to support an increase in sales price</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm397289072" class="questions">
+<exercise id="fs-idm397369536">
+<problem id="fs-idm389081152">
+<para id="fs-idm385174960"><link class="lo-reference" document="m68138"/>In production, what has changed to allow ABC costing to become valuable?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm384443600">
+<problem id="fs-idm409954400">
+<para id="fs-idm388213936"><link class="lo-reference" document="m68138"/>Why is it important to know the true cost for a product or service?</para>
+</problem>
+<solution id="fs-idm404450656">
+<para id="fs-idm397608304">The traditional method of applying overhead does not allocate overhead as precisely as with the ABC method. Management relies on the costing information when setting selling prices and bidding on service jobs. If the costing method is not accurate, some products may be considered profitable under traditional allocation, when those products are actually operating at a loss.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm390933184" class="exercise-set-a">
+<exercise id="fs-idm406246352">
+<problem id="fs-idm392406528">
+<para id="fs-idm390680048"><link class="lo-reference" document="m68138"/>Tri-bikes manufactures two different levels of bicycles: the Standard and the Extreme. The total overhead of $300,000 has traditionally been allocated by direct labor hours, with 150,000 hours for the Standard and 50,000 hours for the Extreme. After analyzing and assigning costs to two cost pools, it was determined that machine hours is estimated to have $200,000 of overhead, with 4,000 hours used on the Standard product and 1,000 hours used on the Extreme product. It was also estimated that the setup cost pool would have $100,000 of overhead, with 1,000 hours for the Standard and 1,500 hours for the Extreme. What is the overhead rate per product, under traditional and under ABC costing?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm411828736" class="exercise-set-b">
+<exercise id="fs-idm403925776">
+<problem id="fs-idm383733024">
+<para id="fs-idm402162640"><link class="lo-reference" document="m68138"/>Stacks manufactures two different levels of hockey sticks: the Standard and the Slap Shot. The total overhead of $600,000 has traditionally been allocated by direct labor hours, with 400,000 hours for the Standard and 200,000 hours for the Slap Shot. After analyzing and assigning costs to two cost pools, it was determined that machine hours is estimated to have $450,000 of overhead, with 30,000 hours used on the Standard product and 15,000 hours used on the Slap Shot product. It was also estimated that the inspection cost pool would have $150,000 of overhead, with 25,000 hours for the Standard and 5,000 hours for the Slap Shot. What is the overhead rate per product, under traditional and under ABC costing?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm407218176" class="problem-set-a">
+<exercise id="fs-idm388024992">
+<problem id="fs-idm366304176">
+<para id="fs-idm407042832"><link class="lo-reference" document="m68138"/>A company has traditionally allocated its overhead based on machine hours but had collected this information to change to activity-based costing:</para>
+<media id="fs-idm378331376" class="scaled-down" alt="Estimated Activity by Activity Center for Product 1, Product 2, and Estimated Cost, respectively. Machine setups, 15, 45, $10,800. Assembly parts, 3,000 3,000, 144,600. Packaging pieces, 500, 400, 55,350. Machine hour per unit, 4, 3. Production volume 750, 1,500">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_04_PA01_img.jpg"/>
+</media>
+<list id="fs-idm398133216" list-type="enumerated" number-style="upper-alpha">
+<item>How much overhead would be allocated to each unit under the traditional allocation method?</item>
+<item>How much overhead would be allocated to each unit under activity-based costing?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm384124976">
+<problem id="fs-idm395941232">
+<para id="fs-idm392482864"><link class="lo-reference" document="m68138"/>Carlton’s Kitchens makes two types of pasta makers: Strands and Shapes. The company expects to manufacture 70,000 units of Strands, which has a per-unit direct material cost of $10 and a per-unit direct labor cost of $60. It also expects to manufacture 30,000 units of Shapes, which has a per-unit material cost of $15 and a per-unit direct labor cost of $40. It is estimated that Strands will use 140,000 machine hours and Shapes will require 60,000 machine hours. Historically, the company has used the traditional allocation method and applied overhead at a rate of $21 per machine hour. It was determined that there were three cost pools, and the overhead for each cost pool is shown:</para>
+<media id="fs-idm408188544" class="scaled-down-30" alt="Machine setups $900,000; Machine processing 4,000,000; Material requisitions 100,000; Total overhead $4,190,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_04_PA02a_img.jpg"/>
+</media>
+<para id="fs-idm401856176">The cost driver for each cost pool and its expected activity is shown:</para>
+<media id="fs-idm387899456" class="scaled-down" alt="For Strands, Shapes, and Total, respectively. Machine setups 100, 200, 300. Machine hours 140,000, 60,000, 200,000. Parts requisitions 80, 120, 200.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_04_PA02b_img.jpg"/>
+</media>
+<list id="fs-idm387016800" list-type="enumerated" number-style="upper-alpha">
+<item>What is the per-unit cost for each product under the traditional allocation method?</item>
+<item>What is the per-unit cost for each product under ABC costing?</item>
+<item>Compared to ABC costing, was each product’s overhead under- or overapplied?</item>
+<item>How much was overhead under- or overapplied for each product?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm396898512">
+<problem id="fs-idm411387104">
+<para id="fs-idm397750352"><link class="lo-reference" document="m68138"/>Carlton’s Kitchen’s three cost pools and overhead estimates are as follows:</para>
+<media id="fs-idm392707696" alt="Activity Cost Pools, Cost Driver, Estimated Overhead, Use per Product A, and Use per Product B, respectively. Machine setups, Setups, $128,000, 5,000, 3,000. Assembly, Number of parts, 105,000, 25,000, 45,000. Machine maintenance, Machine hours, 150,000, 12,500, 37,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_04_PA03_img.jpg"/>
+</media>
+<para id="fs-idm387101856">Compare the overhead allocation using:</para>
+<list id="fs-idm392110352" list-type="enumerated" number-style="upper-alpha">
+<item>The traditional allocation method</item>
+<item>The activity-based costing method</item>
+</list>
+<para id="fs-idm394579040">(Hint: the traditional method uses machine hours as the allocation base.)</para>
+</problem>
+</exercise>
+<exercise id="fs-idm400636688">
+<problem id="fs-idm397703328">
+<para id="fs-idm403343296"><link class="lo-reference" document="m68138"/>Lampierre makes brass and gold frames. The company computed this information to decide whether to switch from the traditional allocation method to ABC:</para>
+<media id="fs-idm410728832" class="scaled-down-30" alt="Brass and Gold, respectively. Units planned, 750, 125. Material moves, 400, 100. Machine setups, 400, 600. Direct labor hours, 700, 1,200.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_04_PA04_img.jpg"/>
+</media>
+<para id="fs-idm392366752">The estimated overhead for the material cost pool is estimated as $12,500, and the estimate for the machine setup pool is $35,000. Calculate the allocation rate per unit of brass and per unit of gold using:</para>
+<list id="fs-idm384329456" list-type="enumerated" number-style="upper-alpha">
+<item>The traditional allocation method</item>
+<item>The activity-based costing method</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm407733904">
+<problem id="fs-idm385549520">
+<para id="fs-idm396252880"><link class="lo-reference" document="m68138"/>Portable Seats makes two chairs: folding and wooden. This information was obtained to review the decision to consider ABC:</para>
+<media id="fs-idm396300288" class="scaled-down" alt="Folding Chairs, Wooden Chairs, and Total Cost, respectively. Material requisitions, 500 pounds, 200 pounds, $55,000. Inspections, 150, 50, $25,000. Labor hours, 2,600, 2,400">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_04_PA05_img.jpg"/>
+</media>
+<para id="fs-idm405764512">Compute the overhead assigned to each product under:</para>
+<list id="fs-idm392717504" list-type="enumerated" number-style="upper-alpha">
+<item>The traditional allocation method</item>
+<item>The activity-based costing method</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm389084896" class="problem-set-b">
+<exercise id="fs-idm392613008">
+<problem id="fs-idm406974032">
+<para id="fs-idm387827232"><link class="lo-reference" document="m68138"/>A company has traditionally allocated its overhead based on machine hours but collected this information to change to activity-based costing:</para>
+<media id="fs-idm398844112" class="scaled-down" alt="Estimated Activity by Activity Center for Product 1, Product 2, and Estimated Cost, respectively. Machine setups, 10, 15, $50,000. Assembly parts, 1,000 1,500, 75,000. Packaging units, 500, 300, 80,000. Machine hours per unit, 1, 1.5. Production volume 2,000, 2,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_04_PB01_img.jpg"/>
+</media>
+<list id="fs-idm393047616" list-type="enumerated" number-style="upper-alpha">
+<item>How much overhead would be assigned to each unit under the traditional allocation method?</item>
+<item>How much overhead would be assigned to each unit under activity-based costing?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm403327680">
+<problem id="fs-idm401114928">
+<para id="fs-idm411892224"><link class="lo-reference" document="m68138"/>Casey’s Kitchens makes two types of food smokers: Gas and Electric. The company expects to manufacture 20,000 units of Gas smokers, which have a per-unit direct material cost of $15 and a per-unit direct labor cost of $25. It also expects to manufacture 50,000 units of Electric smokers, which have a per-unit material cost of $20 and a per-unit direct labor cost of $45. Historically, it has used the traditional allocation method and applied overhead at a rate of $125 per machine hour. It was determined that there were three cost pools, and the overhead for each cost pool is as follows:</para>
+<media id="fs-idm409623664" class="scaled-down-30" alt="Machine setups $5,000; Machine processing 6,000,000; Material requisitions 25,000; Total overhead $6,030,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_04_PB02a_img.jpg"/>
+</media>
+<para id="fs-idm403896752">The cost driver for each cost pool and its expected activity is as follows:</para>
+<media id="fs-idm385183600" class="scaled-down" alt="For Gas, Electric, and Total, respectively. Machine setups, 100, 150, 250. Machine hours, 45,000, 105,000, 150,000. Parts requisitions, 360, 140, 500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_04_PB02b_img.jpg"/>
+</media>
+<list id="fs-idm389074336" list-type="enumerated" number-style="upper-alpha">
+<item>What is the per-unit cost for each product under the traditional allocation method?</item>
+<item>What is the per-unit cost for each product under ABC costing?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm379212976">
+<problem id="fs-idm385812000">
+<para id="fs-idm390880304"><link class="lo-reference" document="m68138"/>Casey’s Kitchens’ three cost pools and overhead estimates are as follows:</para>
+<media id="fs-idm388438656" alt="Activity Cost Pools, Cost Driver, Estimated Overhead, Use per Product A, Use per Product B, respectively. Machine setups, Setups, $250,000, 7,000, 3,000. Assembly, Number of parts, 300,000, 25,000, 35,000. Machine maintenance, Machine hours, 500,000, 10,000, 50,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_04_PB03_img.jpg"/>
+</media>
+<para id="fs-idm390813168">Compare the overhead allocation using:</para>
+<list id="fs-idm392428960" list-type="enumerated" number-style="upper-alpha">
+<item>The traditional allocation method</item>
+<item>The activity-based costing method</item>
+</list>
+<para id="fs-idm406194736">(Hint: the traditional method uses machine hours as the allocation base.)</para>
+</problem>
+</exercise>
+<exercise id="fs-idm392833632">
+<problem id="fs-idm409878704">
+<para id="fs-idm411073824"><link class="lo-reference" document="m68138"/>Lampierre makes silver and gold candlesticks. The company computed this information to decide whether to switch from the traditional allocation method to ABC.</para>
+<media id="fs-idm411908912" class="scaled-down-30" alt="Silver and Gold, respectively. Units planned 500, 250. Material moves 250, 750. Machine setups 5,600, 4,400. Direct labor hours 500, 1,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_04_PB04_img.jpg"/>
+</media>
+<para id="fs-idm392351280">The estimated overhead for the material cost pool is estimated as $45,000, and the estimate for the machine setup pool is $55,000. Calculate the allocation rate per unit of silver and per unit of gold using:</para>
+<list id="fs-idm407933136" list-type="enumerated" number-style="upper-alpha">
+<item>The traditional allocation method</item>
+<item>The activity-based costing method</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm397243776">
+<problem id="fs-idm392562480">
+<para id="fs-idm379154064"><link class="lo-reference" document="m68138"/>Portable Seats makes two chairs: folding and wooden. This information was obtained to review the decision to consider ABC:</para>
+<media id="fs-idm407655504" class="scaled-down" alt="Folding Chairs, Wooden Chairs, and Total Cost, respectively. Material requisitions 450 pounds, 250 pounds, $105,000. Inspections 250, 150, $30,000. Labor hours 1,300, 1,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_04_PB05_img.jpg"/>
+</media>
+<para id="fs-idm402825152">Compute the overhead assigned to each product under:</para>
+<list id="fs-idm385808352" list-type="enumerated" number-style="upper-alpha">
+<item>The traditional allocation method</item>
+<item>The activity-based costing method</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm389578640" class="thought-provokers">
+<exercise id="fs-idm386852432">
+<problem id="fs-idm390327472">
+<para id="fs-idm388728592"><link class="lo-reference" document="m68138"/>Cape Cod Adventures makes foam noodles with sales of 3,000,000 units per year and retractable boat oars with sales of 50,000 pairs per year. What information would Cape Cod Adventures need in order to change from traditional to ABC costing? What are the limitations to activity-based costing?</para>
+</problem>
+</exercise>
+</section>
+  </content>
+</document>

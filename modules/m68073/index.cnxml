@@ -1,0 +1,401 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Describe How Companies Use Variance Analysis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68073</md:content-id>
+  <md:title>Describe How Companies Use Variance Analysis</md:title>
+  <md:abstract/>
+  <md:uuid>bff9e020-4a94-4aad-aa90-249ecf5d2590</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm477906496">Companies use <term class="no-emphasis">variance analysis</term> in different ways. The starting point is the determination of standards against which to compare actual results. Many companies produce variance reports, and the management responsible for the variances must explain any variances outside of a certain range. Some companies only require that unfavorable variances be explained, while many companies require both favorable and unfavorable variances to be explained.</para>
+<para id="fs-idm477909088">Requiring managers to determine what caused unfavorable variances forces them to identify potential problem areas or consider if the variance was a one-time occurrence. Requiring managers to explain favorable variances allows them to assess whether the favorable variance is sustainable. Knowing what caused the favorable variance allows management to plan for it in the future, depending on whether it was a one-time variance or it will be ongoing.</para>
+<para id="fs-idm344424624">Another possibility is that management may have built the favorable variance into the standards. Management may overestimate the material price, labor rate, material quantity, or labor hours per unit, for example. This method of overestimation, sometimes called <emphasis effect="italics">budget slack</emphasis>, is built into the standards so management can still look good even if costs are higher than planned. In either case, managers potentially can help other managers and the company overall by noticing particular problem areas or by sharing knowledge that can improve variances.</para>
+<para id="fs-idm483018816">Often, management will manage “to the variances,” meaning they will make decisions that may not be advantageous to the company’s best interests over the long run, in order to meet the variance report threshold limits. This can occur when the standards are improperly established, causing significant differences between actual and standard numbers.</para>
+<note id="fs-idm374214240" class="ethical-considerations">
+<title>Ethical Long-Term Decisions in Variance Analysis</title>
+<para id="fs-idm656876320">The proper use of variance analysis is a significant tool for an organization to reach its long-term goals. When its accounting system recognizes a variance, an organization needs to understand the significant influence of accounting not only in recording its financial results, but also in how reacting to that variance can shape management’s behavior toward reaching its goals.<footnote id="fs-idm477730992">Jeffrey R. Cohen and Laurie W. Pant. “The Only Thing That Counts Is That Which Is Counted: A Discussion of Behavioral and Ethical Issues in Cost Accounting That Are Relevant for the OB Professor.” September 18, 2018. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1026.5569&amp;rep=rep1&amp;type=pdf</footnote> Many managers use variance analysis only to determine a short-term reaction, and do not analyze why the variance occurred from a long-term perspective. A more long-term analysis of variances allows an approach that “is responsibility accounting in which authority and accountability for tasks is delegated downward to those managers with the most influence and control over them.”<footnote id="fs-idm522240288">Jeffrey R. Cohen and Laurie W. Pant. “The Only Thing That Counts Is That Which Is Counted: A Discussion of Behavioral and Ethical Issues in Cost Accounting That Are Relevant for the OB Professor.” September 18, 2018. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1026.5569&amp;rep=rep1&amp;type=pdf</footnote> It is important for managers to analyze the reported variances with more than just a short-term perspective.</para>
+<para id="fs-idm463615312">Managers sometimes focus only on making numbers for the current period. For example, a manager might decide to make a manufacturing division’s results look profitable in the short term at the expense of reaching the organization’s long-term goals. A recognizable cost variance could be an increase in repair costs as a percentage of sales on an increasing basis. This variance could indicate that equipment is not operating efficiently and is increasing overall cost. However, the expense of implementing new, more efficient equipment might be higher than repairing the current equipment. In the short term, it might be more economical to repair the outdated equipment, but in the long term, purchasing more efficient equipment would help the organization reach its goal of eco-friendly manufacturing. If the system use for controlling costs is not aligned to reinforce management of the organization with a long-term perspective, “the manager has no organizational incentive to be concerned with important issues unrelated to anything but the immediate costs”<footnote id="fs-idm351590416">Jeffrey R. Cohen and Laurie W. Pant. “The Only Thing That Counts Is That Which Is Counted: A Discussion of Behavioral and Ethical Issues in Cost Accounting That Are Relevant for the OB Professor.” September 18, 2018. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1026.5569&amp;rep=rep1&amp;type=pdf</footnote> related to the variance. A manager needs to be cognizant of his or her organization’s goals when making decisions based on variance analysis.</para>
+</note>
+<para id="fs-idm522260752">Management can use standard costs to prepare the budget for the upcoming period, using the past information to possibly make changes to production elements. Standard costs are a measurement tool and can thus be used to evaluate performance. As you’ve learned, management may manage “to the variances” and can manipulate results to meet expectations. To reduce this possibility, performance should be measured on multiple outcomes, not simply on standard cost variances.</para>
+<para id="fs-idm322506832">As shown in <link target-id="fs-idm380381040"/>, standard costs have pros and cons to consider when using them in the decision-making and evaluation processes.</para>
+<table id="fs-idm380381040" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Standard Costs</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Pros</entry>
+<entry valign="top" align="center">Cons</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">
+<list id="fs-idm329453328" list-type="bulleted" bullet-style="bullet">
+<item>Useful when developing a future budget</item>
+<item>Can be used as a benchmark for performance and quality expectations</item>
+<item>Can individually identify areas of success and areas for improvement</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list id="fs-idm523020816" list-type="bulleted" bullet-style="bullet">
+<item>Might ignore customer and employee satisfaction rates</item>
+<item>Information could be historical data and not useful in real-time decision-making needs</item>
+<item>The system to manage and develop standard costs requires a lot of resources, which could be costly and time consuming</item>
+</list>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm486478736">Standard costing provides many benefits and challenges, and a thorough analysis of each variance and the possible unfavorable or favorable outcomes is required to set future expectations and adjust current production goals.</para>
+<para id="fs-idm501537392">The following is a summary of all direct materials variances (<link target-id="OSX_Acct_M08_05_DMSummary"/>), direct labor variances (<link target-id="OSX_Acct_M08_05_DLSummary"/>), and overhead variances (<link target-id="OSX_Acct_M08_05_OHSummary"/>) presented as both formulas and tree diagrams. Note that for some of the formulas, there are two presentations of the same formula, for example, there are two presentations of the direct materials price variance. While both arrive at the same answer, students usually prefer one formula structure over the other.</para>
+<figure id="OSX_Acct_M08_05_DMSummary">
+<media id="fs-idm500529312" alt="Direct Materials Price Variance equals (Actual Quantity Used times Actual Price Paid) minus (Actual Quantity Used times Standard Price). Direct Materials Price Variance equals (Actual Price per Unit of Materials minus Standard Price per Unit of Materials) times Actual Quantity of Materials Used. Direct Materials Quantity Variance equals (Actual Quantity Used times Standard Price) minus (Standard Quantity times Standard Price). Direct Materials Quantity Variance equals (Actual Quantity of Materials Used for Units Produced minus Standard Quantity of Materials Expected for the Units Produced) times Standard Price. Total Direct Material Variance equals (Actual Quantity times Actual Price) minus (Standard Quantity times Standard Price). There are three top row boxes. Two, Actual Quantity (AQ) times Actual Price (AP) and Actual Quantity (AQ) times Standard Price (SP) combine to point to a Second row box: Direct Material Price Variance. Two top row boxes: Actual Quantity (AQ) times Standard Price (SP) and Standard Quantity (SQ) times Standard Price (SP) combine to point to Second row box: Direct Materials Quantity Variance. Notice the middle top row box is used for both of the variances. Second row boxes: Direct Material Price Variance and Direct Materials Quantity Variance combine to point to bottom row box: Total Direct Material Variance.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_05_DMSummary.jpg"/>
+</media>
+<caption>Direct Materials Variances. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<figure id="OSX_Acct_M08_05_DLSummary">
+<media id="fs-idm365035584" alt="Direct Labor Rate Variance equals (Actual Hours Worked times Actual Rate per Hour) minus (Actual Hours Worked times Standard Rate per Hour). Direct Labor Rate Variance equals (Actual Rate per Hour minus Standard Rate per Hour) times Actual Hours Worked. Direct Labor Time Variance equals (Actual Hours Worked times Standard rate per Hour) minus (Standard Hours times Standard Rate per Hour). Direct Labor Time Variance equals (Actual Hours Worked minus Standard Hours Expected for the Units Produced) times Standard Rate per Hour. Total Direct Labor Variance minus (Actual Hours times Actual Rate) minus (Standard Hours times Standard Rate). There are three top row boxes. Two, Actual Hours (AH) times Actual Rate (AR) and Actual Hours (AH) times Standard Rate (SR) combine to point to a Second row box: Direct Labor Rate Variance. Two top row boxes: Actual Hours (AH) times Standard Rate (SR) and Standard Hours (SH) times Standard Rate (SR) combine to point to Second row box: Direct Labor Time Variance. Notice the middle top row box is used for both of the variances. Second row boxes: Direct Labor Rate Variance and Direct Labor Time Variance combine to point to bottom row box: Total Direct Labor Variance.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_05_DLSummary.jpg"/>
+</media>
+<caption>Direct Labor Variances. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<figure id="OSX_Acct_M08_05_OHSummary">
+<media id="fs-idm481205952" alt="Standard Overhead Rate equals Budgeted Overhead Rate divided by Level of Activity. Variable Overhead Rate equals Budgeted Variable Overhead divided by Level of Activity. Variable Overhead Rate Variance equals (Actual Hours Worked times Actual Variable Overhead Rate per Hour) minus (Actual Hours Worked times Standard Variable Overhead Rate per Hour). Variable Overhead Rate Variance equals (Actual Variable Overhead Rate minus Standard Variable Overhead Rate) times Actual Hours Worked. Variable Overhead Efficiency Variance equals Actual Hours Worked times Standard Variable Overhead Rate per Hour) minus (Standard Hours times Standard Variable Overhead rate per Hour). Variable Overhead Efficiency Variance equals Actual Labor Hours minus Standard Labor Hour) times Standard Overhead Rate. There are three top row boxes. Two, Actual Hours (AH) times Actual Rate (AR) and Actual Hours (AH) times Standard Rate (SR) combine to point to a Second row box: Variable Overhead Rate Variance. Two top row boxes: Actual Hours (AH) times Standard Rate (SR) and Standard Hours (SH) times Standard Rate (SR) combine to point to Second row box: Variable Overhead Efficiency Variance. Notice the middle top row box is used for both of the variances. Second row boxes: Variable Overhead Rate Variance and Variable Overhead Efficiency Variance combine to point to bottom row box: Total Variable Overhead Cost Variance">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_05_OHSummary.jpg"/>
+</media>
+<caption>Overhead Variances. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm366570592" class="your-turn">
+<title>Barley, Inc. Production</title>
+<para id="fs-idm331487232">Barley, Inc., produces a product and has the following as standard costs per unit for materials and labor:</para>
+<media id="fs-idm649594272" class="scaled-down-30" alt="Materials 4 pounds at $15 per pound. Labor 2 hours at $20 per hour.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_05_YTInputs_img.jpg"/>
+</media>
+<para id="fs-idm377139360">For the month of October, the following information was gathered related to production:</para>
+<media id="fs-idm368614896" class="scaled-down" alt="Beginning inventory 0. Units completed 10,000. Budgeted output units 12,000. Materials used (50,000 pounds) $800,000. Labor (25,000 hours) $450,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_05_YTProd_img.jpg"/>
+</media>
+<para id="fs-idm481913728">Compute:</para>
+<list id="fs-idm333826560" list-type="enumerated" number-style="upper-alpha">
+<item>The materials price and quantity variances</item>
+<item>The labor rate and efficiency variances</item>
+</list>
+<para id="fs-idm357011168">Provide possible explanations for each variance.</para>
+<para id="fs-idm353933760"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm523680528">A.</para>
+<para id="fs-idm377232240">Materials price variance:</para>
+<para id="fs-idm522796000">$50,000 unfavorable = ($16* – $15) × 50,000 lb.</para>
+<para id="fs-idm385202704">*$800,000/50,000</para>
+<para id="fs-idm374243440">An unfavorable materials price variance occurred because the actual cost of materials was greater than the expected or standard cost. This could occur if a higher-quality material was purchased or the suppliers raised their prices.</para>
+<para id="fs-idm500540752">Materials quantity variance:</para>
+<para id="fs-idm350064352">$150,000 unfavorable = (50,000 lb. – 40,000* lb.) × $15 per lb.</para>
+<para id="fs-idm519561536">*4 lb. × 10,000 units</para>
+<para id="fs-idm330908352">An unfavorable materials quantity variance occurred because the pounds of materials used were greater than the pounds expected to be used. This could occur if there were inefficiencies in production or the quality of the materials was such that more needed to be used to meet safety or other standards.</para>
+<para id="fs-idm518473680">Materials inputs:</para>
+<media id="fs-idm503184704" alt="Materials Price Variance 50,000 times $16 equals $800,000. 50,000 times $15 equals $750,000. $50,000 unfavorable, Plus: Materials Quantity variance 50,000 times $15 equals 750,000. 40,000 times $15 equals $600,00. $150,000 unfavorable. Equals $200,000 unfavorable.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_05_YTSolA_img.png"/>
+</media>
+<para id="fs-idm372965040">B.</para>
+<para id="fs-idm523027584">Labor rate variance:</para>
+<para id="fs-idm483327728">$50,000 favorable = ($18* per hour – $20 per hour) × 25,000 hours</para>
+<para id="fs-idm470569984">*$450,000/25,000</para>
+<para id="fs-idm371629056">A favorable labor rate variance occurred because the rate paid per hour was less than the rate expected to be paid (standard) per hour. This could occur because the company was able to hire workers at a lower rate, because of negotiated union contracts, or because of a poor labor rate estimate used in creating the standard.</para>
+<para id="fs-idm366385328">Labor quantity variance:</para>
+<para id="fs-idm515556992">$100,000 unfavorable = (25,000 hours – 20,000* hours) × $20 per hour</para>
+<para id="fs-idm501537168">*2 hours × 10,000 units</para>
+<para id="fs-idm500888752">An unfavorable labor quantity variance occurred because the actual hours worked to make the 10,000 units were greater than the expected hours to make that many units. This could occur because of inefficiencies of the workers, defects and errors that caused additional time reworking items, or the use of new workers who were less efficient.</para>
+<para id="fs-idm328008480">Labor inputs:</para>
+
+<media id="fs-idm374173984" alt="Labor Rate Variance $18 times 25,000 equals $450,000. $20 times 25,000 equals $500,000. $50,000 favorable. Plus: Labor Quantity Variance $20 times 25,000 equals $500,000. $20 times 20,000 equals $400,000. $100,000 unfavorable. Equals $50,000 unfavorable.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_05_YTSolB_img.png"/>
+</media>
+
+
+</note>
+<note id="fs-idm519634496" class="think-through">
+<title>Explaining Differences in Expected and Actual Operational Outcomes</title>
+<para id="fs-idm364969376">The manager of a plant has called operations, purchasing, and personnel into her office to discuss the results of the last month. She notes that there was more than normal scrap, and employees worked more hours than expected. She is looking for an explanation for these results. What system might she have used to determine these material and labor issues? Why might these variances have occurred? What should she do about it for future periods?</para>
+</note>
+<note id="fs-idm383238960" class="link-to-learning">
+<title>Standard Costing Advantages Explained</title>
+<para id="fs-idm348617680">See this <link url="https://openstax.org/l/50StandCosting">article on the four major advantages of standard costing</link> to learn more.</para>
+</note>
+<section id="fs-idm368080944" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm463867072" list-type="bulleted" bullet-style="bullet">
+<item>The key to analyzing variances is to determine why the variance occurred.</item>
+<item>If a company cannot determine why there is a variance, it will not know if the variance is indicative of a problem or not.</item>
+<item>All firms—manufacturing, retail, and service—use standards and variances.</item>
+</list>
+</section>
+<section id="fs-idm374157920" class="multiple-choice">
+<exercise id="fs-idm483605600">
+<problem id="fs-idm380464256">
+<para id="fs-idm363045600"><link class="lo-reference" document="m68073"/>Which of the following is a possible cause of an unfavorable material price variance?</para>
+<list id="fs-idm500299888" list-type="enumerated" number-style="upper-alpha">
+<item>purchasing too much material</item>
+<item>purchasing higher-quality material</item>
+<item>hiring substandard workers</item>
+<item>buying substandard material</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm377970288">
+<problem id="fs-idm370747456">
+<para id="fs-idm374162224"><link class="lo-reference" document="m68073"/>Which of the following is a possible cause of an unfavorable material quantity variance?</para>
+<list id="fs-idm345982688" list-type="enumerated" number-style="upper-alpha">
+<item>purchasing substandard material</item>
+<item>hiring higher-quality workers</item>
+<item>paying more than should have for workers</item>
+<item>purchasing too much material</item>
+</list>
+</problem>
+<solution id="fs-idm362298336">
+<para id="fs-idm352110864">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm366776368">
+<problem id="fs-idm388061424">
+<para id="fs-idm368355600"><link class="lo-reference" document="m68073"/>Which of the following is a possible cause of an unfavorable labor efficiency variance?</para>
+<list id="fs-idm380520448" list-type="enumerated" number-style="upper-alpha">
+<item>hiring substandard workers</item>
+<item>making too many units</item>
+<item>buying higher-quality material</item>
+<item>paying too much for workers</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm389324288">
+<problem id="fs-idm515555744">
+<para id="fs-idm385532080"><link class="lo-reference" document="m68073"/>Which of the following is a possible cause of an unfavorable labor rate variance?</para>
+<list id="fs-idm387561024" list-type="enumerated" number-style="upper-alpha">
+<item>hiring too many workers</item>
+<item>hiring higher-quality workers at a higher wage</item>
+<item>making too many units</item>
+<item>purchasing too much material</item>
+</list>
+</problem>
+<solution id="fs-idm520276096">
+<para id="fs-idm362766112">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm480065456" class="questions">
+<exercise id="fs-idm374047904">
+<problem id="fs-idm635581264">
+<para id="fs-idm485553712"><link class="lo-reference" document="m68073"/>What causes a favorable variance?</para>
+</problem>
+<solution id="fs-idm384878320">
+<para id="fs-idm502768112">It is caused by paying or using less than the standard amount.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm364118496">
+<problem id="fs-idm332575776">
+<para id="fs-idm384496320"><link class="lo-reference" document="m68073"/>What causes an unfavorable variance?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm385788816">
+<problem id="fs-idm367414736">
+<para id="fs-idm364506944"><link class="lo-reference" document="m68073"/>When might a favorable variance not be a good outcome?</para>
+</problem>
+<solution id="fs-idm378624864">
+<para id="fs-idm326677776">It may not be a good outcome when buying substandard material or hiring substandard employees.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm491674432">
+<problem id="fs-idm363974112">
+<para id="fs-idm368526400"><link class="lo-reference" document="m68073"/>When might an unfavorable variance be a good outcome?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm345438960">
+<problem id="fs-idm380979776">
+<para id="fs-idm370739648"><link class="lo-reference" document="m68073"/>Identify several causes of a favorable material price variance.</para>
+</problem>
+<solution id="fs-idm372768032">
+<para id="fs-idm377322976">Causes may include substandard material, quantity discount, negotiated better price, quantity discount, or price drop.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm486443472">
+<problem id="fs-idm380526336">
+<para id="fs-idm485942624"><link class="lo-reference" document="m68073"/>Identify several causes of an unfavorable material price variance.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm384639952">
+<problem id="fs-idm520273936">
+<para id="fs-idm370237968"><link class="lo-reference" document="m68073"/>Identify several causes of a favorable material quantity variance.</para>
+</problem>
+<solution id="fs-idm378165392">
+<para id="fs-idm331476080">Causes may include higher-quality material, better-qualified employees, or a change in manufacturing process.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm357171888">
+<problem id="fs-idm374035600">
+<para id="fs-idm364933472"><link class="lo-reference" document="m68073"/>Identify several causes of an unfavorable material quantity.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm349163952">
+<problem id="fs-idm369160608">
+<para id="fs-idm365059168"><link class="lo-reference" document="m68073"/>Identify several causes of a favorable labor rate variance.</para>
+</problem>
+<solution id="fs-idm387569728">
+<para id="fs-idm334176176">Causes may include less-qualified employees or a change in quality level of employees due to a change in process.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm519538576">
+<problem id="fs-idm330039008">
+<para id="fs-idm481894032"><link class="lo-reference" document="m68073"/>Identify several causes of an unfavorable labor rate variance.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm339832576">
+<problem id="fs-idm377904672">
+<para id="fs-idm381448368"><link class="lo-reference" document="m68073"/>Identify several causes of a favorable labor efficiency variance.</para>
+</problem>
+<solution id="fs-idm483621168">
+<para id="fs-idm350132608">Causes may include better material, higher-quality employees, or a change in process.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm384473200">
+<problem id="fs-idm372351456">
+<para id="fs-idm356146816"><link class="lo-reference" document="m68073"/>Identify several causes of an unfavorable labor efficiency variance.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm366877776" class="exercise-set-a">
+<exercise id="fs-idm377224896">
+<problem id="fs-idm372552608">
+<para id="fs-idm385229360"><link class="lo-reference" document="m68073"/>Acme Inc. has the following information available:</para>
+<media id="fs-idm366971376" class="scaled-down" alt="Actual price paid for material $1.00. Standard price for material $1.20. Actual quantity purchased and used in production 100. Standard quantity for units produced 110. Actual labor rate per hour $15. Standard labor rate per hour $16. Actual hours 200. Standard hours for units produced 220.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_05_EA01_img.jpg"/>
+</media>
+<list id="fs-idm365466720" list-type="enumerated" number-style="upper-alpha">
+<item>Compute the material price and quantity, and the labor rate and efficiency variances.</item>
+<item>Describe the possible causes for this combination of favorable and unfavorable variances.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm385523328">
+<problem id="fs-idm385536896">
+<para id="fs-idm388527264"><link class="lo-reference" document="m68073"/>Acme Inc. has the following information available:</para>
+<media id="fs-idm374249552" class="scaled-down" alt="Actual price paid for material $1.00. Standard price for material $0.90. Actual quantity purchased and used in production 100. Standard quantity for units produced 110. Actual labor rate per hour $15. Standard labor rate per hour $16. Actual hours 200. Standard hours for units produced 220.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_05_EA02_img.jpg"/>
+</media>
+<list id="fs-idm365805008" list-type="enumerated" number-style="upper-alpha">
+<item>Compute the material price and quantity, and the labor rate and efficiency variances.</item>
+<item>Describe the possible causes for this combination of favorable and unfavorable variances.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm377823888">
+<problem id="fs-idm377291616">
+<para id="fs-idm366587712"><link class="lo-reference" document="m68073"/>Acme Inc. has the following information available:</para>
+<media id="fs-idm522174688" class="scaled-down" alt="Actual price paid for material $1.00. Standard price for material $0.90. Actual quantity purchased and used in production 100. Standard quantity for units produced 110. Actual labor rate per hour $15. Standard labor rate per hour $14. Actual hours 200. Standard hours for units produced 220.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_05_EA03_img.jpg"/>
+</media>
+<list id="fs-idm478428064" list-type="enumerated" number-style="upper-alpha">
+<item>Compute the material price and quantity, and the labor rate and efficiency variances.</item>
+<item>Describe the possible causes for this combination of favorable and unfavorable variances.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm381395600" class="exercise-set-b">
+<exercise id="fs-idm365770032">
+<problem id="fs-idm351523984">
+<para id="fs-idm522465888"><link class="lo-reference" document="m68073"/>Acme Inc. has the following information available:</para>
+<media id="fs-idm348390960" class="scaled-down" alt="Actual price paid for material $1.00. Standard price for material $0.90. Actual quantity purchased and used in production 100. Standard quantity for units produced 90. Actual labor rate per hour $15. Standard labor rate per hour $14. Actual hours 200. Standard hours for units produced 190.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_05_EB01_img.jpg"/>
+</media>
+<list id="fs-idm385655136" list-type="enumerated" number-style="upper-alpha">
+<item>Compute the material price and quantity, and the labor rate and efficiency variances.</item>
+<item>Describe the possible causes for this combination of favorable and unfavorable variances.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm348493232">
+<problem id="fs-idm373148672">
+<para id="fs-idm380573056"><link class="lo-reference" document="m68073"/>Acme Inc. has the following information available:</para>
+<media id="fs-idm383228960" class="scaled-down" alt="Actual price paid for material $1.00. Standard price for material $1.10. Actual quantity purchased and used in production 100. Standard quantity for units produced 110. Actual labor rate per hour $15. Standard labor rate per hour $14. Actual hours 200. Standard hours for units produced 190.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_05_EB02_img.jpg"/>
+</media>
+<list id="fs-idm338431600" list-type="enumerated" number-style="upper-alpha">
+<item>Compute the material price and quantity, and the labor rate and efficiency variances.</item>
+<item>Describe the possible causes for this combination of favorable and unfavorable variances.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm503220080">
+<problem id="fs-idm356195600">
+<para id="fs-idm515556736"><link class="lo-reference" document="m68073"/>Acme Inc. has the following information available:</para>
+<media id="fs-idm372455312" class="scaled-down" alt="Actual price paid for material $1.00. Standard price for material $0.90. Actual quantity purchased and used in production 100. Standard quantity for units produced 90. Actual labor rate per hour $15. Standard labor rate per hour $16. Actual hours 200. Standard hours for units produced 220.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_05_EB03_img.jpg"/>
+</media>
+<list id="fs-idm384241984" list-type="enumerated" number-style="upper-alpha">
+<item>Compute the material price and quantity, and the labor rate and efficiency variances.</item>
+<item>Describe the possible causes for this combination of favorable and unfavorable variances.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm368743056" class="problem-set-a">
+<exercise id="fs-idm370827072">
+<problem id="fs-idm362227824">
+<para id="fs-idm378725184"><link class="lo-reference" document="m68073"/>Recompute the variances from <link target-id="fs-idm385523328">the second Acme Inc. exercise</link> using $0.0725 as the standard cost of the material and $14 as the standard labor cost per hour. How has your explanation of the variances changed?</para></problem>
+</exercise>
+</section>
+<section id="fs-idm377175088" class="problem-set-b">
+<exercise id="fs-idm383693824">
+<problem id="fs-idm387635424">
+<para id="fs-idm368296752"><link class="lo-reference" document="m68073"/>Use the following standard cost card for 1 gallon of ice cream to answer the questions.</para>
+<media id="fs-idm378650048" alt="Standard Cost Card Product: Gallon of Ice Cream. Manufacturing Cot Information, Standard. Quantity times Standard Cost per Unit equals Cost Summary. Direct Materials: Cream, 5 quarts, $1.15 per quart, $5.75. Direct Materials Sugar, 16 ounces, $0.08 per ounce, $1.28. Direct Labor 3 minutes, $36.00 per hour, $1.80. Total Direct Costs, - , - $8.83.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_05_PB01_img.jpg"/>
+</media>
+<para id="fs-idm650512400">Actual direct costs incurred to make 50 gallons of ice cream:</para>
+<list id="fs-idm380615664" list-type="bulleted" bullet-style="bullet">
+<item>275 quarts of cream at $1.05 per quart</item>
+<item>832 ounces of sugar at $0.075 per ounce</item>
+<item>165 minutes of labor at $37 per hour</item>
+</list>
+<para id="fs-idm366581616">All material used was bought during the current period.</para>
+<list id="fs-idm372373712" list-type="enumerated" number-style="upper-alpha">
+<item>Compute the material and labor variances.</item>
+<item>Comment on the results and possible causes of the variances.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm370694400">
+<problem id="fs-idm373105440">
+<para id="fs-idm386924416"><link class="lo-reference" document="m68073"/>Use the following standard cost card for 1 gallon of ice cream to answer the questions.</para>
+<media id="fs-idm370315696" alt="Standard Cost Card Product: Gallon of Ice Cream. Manufacturing Cot Information, Standard. Quantity times Standard Cost per Unit equals Cost Summary. Direct Materials: Cream, 6 quarts, $1.00 per quart, $6.00. Direct Materials Sugar, 15 ounces, $0.07 per ounce, $1.05. Direct Labor 3 minutes, $38.00 per hour, $1.90. Total Direct Costs, - , - $8.95.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_05_PB02_img.jpg"/>
+</media>
+<para id="fs-idm366895008">Actual direct costs incurred to make 50 gallons of ice cream:</para>
+<list id="fs-idm378711568" list-type="bulleted" bullet-style="bullet">
+<item>275 quarts of cream at $1.05 per quart</item>
+<item>832 ounces of sugar at $0.075 per ounce</item>
+<item>165 minutes of labor at $37 per hour</item>
+</list>
+<para id="fs-idm388083440">All materials used were bought during the current period.</para>
+<list id="fs-idm374448352" list-type="enumerated" number-style="upper-alpha">
+<item>Compute the material and labor variances.</item>
+<item>Comment on the results and possible causes of the variances.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm364047264" class="thought-provokers">
+<exercise id="fs-idm366384752">
+<problem id="fs-idm383860768">
+<para id="fs-idm366536816"><link class="lo-reference" document="m68073"/>In your opinion, is it important that an organization set standards and measure them monthly? Why or why not?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+</document>

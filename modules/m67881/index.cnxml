@@ -1,0 +1,569 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Explain the Revenue Recognition Principle and How It Relates to Current and Future Sales and Purchase Transactions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67881</md:content-id>
+  <md:title>Explain the Revenue Recognition Principle and How It Relates to Current and Future Sales and Purchase Transactions</md:title>
+  <md:abstract/>
+  <md:uuid>9f04ddd1-3eb7-4047-a0e4-ff6c24a901b4</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm200962992">You own a small clothing store and offer your customers cash, credit card, or in-house credit payment options. Many of your customers choose to pay with a credit card or charge the purchase to their in-house credit accounts. This means that your store is owed money in the future from either the customer or the credit card company, depending on payment method. Regardless of credit payment method, your company must decide when to recognize revenue. Do you recognize revenue when the sale occurs or when cash payment is received? When do you recognize the expenses associated with the sale? How are these transactions recognized?</para>
+<section id="fs-idm170185808">
+<title>Accounting Principles and Assumptions Regulating Revenue Recognition</title>
+<para id="fs-idm178466800">Revenue and expense recognition timing is critical to transparent financial presentation. <term class="emphasis">GAAP</term> governs recognition for publicly traded companies. Even though GAAP is required only for public companies, to display their financial position most accurately, private companies should manage their financial accounting using its rules. Two principles governed by GAAP are the revenue recognition principle and the matching principle. Both the revenue recognition principle and the matching principle give specific direction on revenue and expense reporting.</para>
+<para id="fs-idm187765136">The <term>revenue recognition principle</term>, which states that companies must recognize revenue in the period in which it is earned, instructs companies to recognize revenue when a four-step process is completed. This may not necessarily be when cash is collected. Revenue can be recognized when all of the following criteria have been met:</para>
+<list id="fs-idm183654672" list-type="bulleted">
+<item>There is credible evidence that an arrangement exists.</item>
+<item>Goods have been delivered or services have been performed.</item>
+<item>The selling price or fee to the buyer is fixed or can be reasonably determined.</item>
+<item>There is reasonable assurance that the amount owed to the seller is collectible.</item>
+</list>
+<para id="fs-idm190180224">The <term>accrual accounting</term> method aligns with this principle, and it records transactions related to revenue earnings as they occur, not when cash is collected. The revenue recognition principle may be updated periodically to reflect more current rules for reporting.</para>
+<para id="fs-idm183521456">For example, a landscaping company signs a $600 contract with a customer to provide landscaping services for the next six months (assume the landscaping workload is distributed evenly throughout the six months). The customer sets up an in-house credit line with the company, to be paid in full at the end of the six months. The landscaping company records revenue earnings each month and provides service as planned. To align with the revenue recognition principle, the landscaping company will record one month of revenue ($100) each month as earned; they provided service for that month, even though the customer has not yet paid cash for the service.</para>
+<para id="fs-idm177970064">Let’s say that the landscaping company also sells gardening equipment. It sells a package of gardening equipment to a customer who pays on credit. The landscaping company will recognize revenue immediately, given that they provided the customer with the gardening equipment (product), even though the customer has not yet paid cash for the product.</para>
+<para id="fs-idm209179072">Accrual accounting also incorporates the <term>matching principle</term> (otherwise known as the <term class="no-emphasis">expense recognition principle</term>), which instructs companies to record expenses related to revenue generation in the period in which they are incurred. The principle also requires that any expense not directly related to revenues be reported in an appropriate manner. For example, assume that a company paid $6,000 in annual real estate taxes. The principle has determined that costs cannot effectively be allocated based on an individual month’s sales; instead, it treats the expense as a period cost. In this case, it is going to record 1/12 of the annual expense as a monthly period cost. Overall, the “matching” of expenses to revenues projects a more accurate representation of company financials. When this matching is not possible, then the expenses will be treated as period costs.</para>
+<para id="fs-idm185218896">For example, when the landscaping company sells the gardening equipment, there are costs associated with that sale, such as the costs of materials purchased or shipping charges. The cost is reported in the same period as revenue associated with the sale. There cannot be a mismatch in reporting expenses and revenues; otherwise, financial statements are presented unfairly to stakeholders. Misreporting has a significant impact on company stakeholders. If the company delayed reporting revenues until a future period, net income would be understated in the current period. If expenses were delayed until a future period, net income would be overstated.</para>
+<para id="fs-idm161714704">Let’s turn to the basic elements of accounts receivable, as well as the corresponding transaction journal entries.</para>
+<note id="fs-idm161426864" class="ethical-considerations">
+<title>Ethics in Revenue Recognition</title>
+<para id="fs-idm189074112">Because each industry typically has a different method for recognizing income, revenue recognition is one of the most difficult tasks for accountants, as it involves a number of ethical dilemmas related to income reporting. To provide an industry-wide approach, Accounting Standards Update No. 2014-09 and other related updates were implemented to clarify revenue recognition rules. The American Institute of Certified Public Accountants (AICPA) announced that these updates would replace U.S. GAAP’s current industry-specific revenue recognition practices with a principle-based approach, potentially affecting both day-to-day business accounting and the execution of business contracts with customers.<footnote id="fs-idm218645296">American Institute of Certified Public Accountants (AICPA). “Revenue from Contracts with Customers.” <emphasis effect="italics">Revenue Recognition</emphasis>. n.d. https://www.aicpa.org/interestareas/frc/accountingfinancialreporting/revenuerecognition.html</footnote> The AICPA and the International Federation of Accountants (IFAC) require professional accountants to act with due care and to remain abreast of new accounting rules and methods of accounting for different transactions, including revenue recognition.</para>
+<para id="fs-idm212765440">The IFAC emphasizes the role of professional accountants working within a business in ensuring the quality of financial reporting: “Management is responsible for the financial information produced by the company. As such, professional accountants in businesses therefore have the task of defending the quality of financial reporting right at the source where the numbers and figures are produced!”<footnote id="fs-idm178272800">International Federation of Accountants (IFAC). “Roles and Importance of Professional Accountants in Business.” n.d. https://www.ifac.org/news-events/2013-10/roles-and-importance-professional-accountants-business</footnote> In accordance with proper revenue recognition, accountants do not recognize revenue before it is earned.</para>
+</note>
+<note id="fs-idm202382528" class="concepts-practice">
+<title>Gift Card Revenue Recognition</title>
+<para id="fs-idm201898800">Gift cards have become an essential part of revenue generation and growth for many businesses. Although they are practical for consumers and low cost to businesses, navigating revenue recognition guidelines can be difficult. Gift cards with expiration dates require that revenue recognition be delayed until customer use or expiration. However, most gift cards now have no expiration date. So, when do you recognize revenue?</para>
+<para id="fs-idm227009232">Companies may need to provide an estimation of projected gift card revenue and usage during a period based on past experience or industry standards. There are a few rules governing reporting. If the company determines that a portion of all of the issued gift cards will never be used, they may write this off to income. In some states, if a gift card remains unused, in part or in full, the unused portion of the card is transferred to the state government. It is considered unclaimed property for the customer, meaning that the company cannot keep these funds as revenue because, in this case, they have reverted to the state government.</para>
+</note>
+</section>
+<section id="fs-idm212702608">
+<title>Short-Term Revenue Recognition Examples</title>
+<para id="fs-idm179734688">As mentioned, the revenue recognition principle requires that, in some instances, revenue is recognized before receiving a cash payment. In these situations, the customer still owes the company money. This money owed to the company is a type of receivable for the company and a payable for the company’s customer.</para>
+<para id="fs-idm176431088">A <term>receivable</term> is an outstanding amount owed from a customer. One specific receivable type is called accounts receivable. <term>Accounts receivable</term> is an outstanding customer debt on a credit sale. The company expects to receive payment on accounts receivable within the company’s operating period (less than a year). Accounts receivable is considered an asset, and it typically does not include an interest payment from the customer. Some view this account as extending a line of credit to a customer. The customer would then be sent an invoice with credit payment terms. If the company has provided the product or service at the time of credit extension, revenue would also be recognized.</para>
+<para id="fs-idm202085072">For example, Billie’s Watercraft Warehouse (BWW) sells various watercraft vehicles. They extend a credit line to customers purchasing vehicles in bulk. A customer bought 10 Jet Skis on credit at a sales price of $100,000. The cost of the sale to BWW is $70,000. The following journal entries occur.</para>
+<media id="fs-idm228351152" alt="Journal entries: Debit Accounts Receivable 100,000, Credit Sales Revenue 100,000. Explanation: “To record the sale of 10 jet skis.” Debit Cost of Goods Sold 70,000, credit Merchandise Inventory 70,000. Explanation: “To record the cost of sale.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_01_Cred01_img.jpg"/>
+</media>
+<para id="fs-idm208962800">Accounts Receivable increases (debit) and Sales Revenue increases (credit) for $100,000. Accounts Receivable recognizes the amount owed from the customer, but not yet paid. Revenue recognition occurs because BWW provided the Jet Skis and completed the earnings process. Cost of Goods Sold increases (debit) and Merchandise Inventory decreases (credit) for $70,000, the expense associated with the sale. By recording both a sale and its related cost entry, the matching principle requirement is met.</para>
+<para id="fs-idm199872464">When the customer pays the amount owed, the following journal entry occurs.</para>
+<media id="fs-idm185240192" alt="Journal entry: Debit Cash 100,000, credit Accounts Receivable 100,000. Explanation: “To record payment in full.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_01_Cred02_img.jpg"/>
+</media>
+<para id="fs-idm214229376">Cash increases (debit) and Accounts Receivable decreases (credit) for the full amount owed. If the customer made only a partial payment, the entry would reflect the amount of the payment. For example, if the customer paid only $75,000 of the $100,000 owed, the following entry would occur. The remaining $25,000 owed would remain outstanding, reflected in Accounts Receivable.</para>
+<media id="fs-idm217987072" alt="Journal entry: Debit Cash 75,000, credit Accounts Receivable 75,000. Explanation: “To record partial payment.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_01_Cred03_img.jpg"/>
+</media>
+<para id="fs-idm214562672">Another credit transaction that requires recognition is when a customer pays with a credit card (<emphasis class="colored-text">Visa</emphasis> and <emphasis class="colored-text">MasterCard</emphasis>, for example). This is different from credit extended directly to the customer from the company. In this case, the third-party credit card company accepts the payment responsibility. This reduces the risk of nonpayment, increases opportunities for sales, and expedites payment on accounts receivable. The tradeoff for the company receiving these benefits from the credit card company is that a fee is charged to use this service. The fee can be a flat figure per transaction, or it can be a percentage of the sales price. Using BWW as the example, let’s say one of its customers purchased a canoe for $300, using his or her <emphasis class="colored-text">Visa</emphasis> credit card. The cost to BWW for the canoe is $150. <emphasis class="colored-text">Visa</emphasis> charges BWW a service fee equal to 5% of the sales price. At the time of sale, the following journal entries are recorded.</para>
+<media id="fs-idm164007504" alt="Journal entry: Debit Accounts Receivable: VISA 285, debit Credit Card Expense 15, credit Sales Revenue 300. Explanation: “To record the sale of one canoe, VISA credit fee 5 percent.” Debit Cost of Goods Sold 150, credit Merchandise Inventory 150. Explanation: “To record the cost of sale.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_01_Cred04_img.jpg"/>
+</media>
+<para id="fs-idm210433936">Accounts Receivable: <emphasis class="colored-text">Visa</emphasis> increases (debit) for the sale amount ($300) less the credit card fee ($15), for a $285 Accounts Receivable balance due from <emphasis class="colored-text">Visa</emphasis>. BWW’s Credit Card Expense increases (debit) for the amount of the credit card fee ($15; 300 × 5%), and Sales Revenue increases (credit) for the original sales amount ($300). BWW recognizes revenue as earned for this transaction because it provided the canoe and completed the earnings process. Cost of Goods Sold increases (debit) and Merchandise Inventory decreases (credit) for $150, the expense associated with the sale. As with the previous example, by recording both a sale and cost entry, the matching principle requirement is met. When <emphasis class="colored-text">Visa</emphasis> pays the amount owed to BWW, the following entry occurs in BWW’s records.</para><media id="fs-idm182940064" alt="Journal entry: Debit Cash 285, credit Accounts Receivable: VISA 285. Explanation: “To record payment in full, less credit card fee.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_01_Cred05_img.jpg"/>
+</media>
+<para id="fs-idm223583472">Cash increases (debit) and Accounts Receivable: <emphasis class="colored-text">Visa</emphasis> decreases (credit) for the full amount owed, less the credit card fee. Once BWW receives the cash payment from <emphasis class="colored-text">Visa</emphasis>, it may use those funds in other business activities.</para>
+<para id="fs-idm212803120">An alternative to the journal entries shown is that the credit card company, in this case <emphasis class="colored-text">Visa</emphasis>, gives the merchant immediate credit in its cash account for the $285 due the merchant, without creating an account receivable. If that policy were in effect for this transaction, the following single journal entry would replace the prior two journal entry transactions. In the immediate cash payment method, an account receivable would not need to be recorded and then collected. The separate journal entry—to record the costs of goods sold and to reduce the canoe inventory that reflects the $150 cost of the sale—would still be the same.</para>
+<media id="fs-idm170455872" alt="Journal entry: Debit Cash 285, debit Credit Card Expense 15, credit Sales Revenue 300. Explanation: “To record the sale of one canoe and VISA credit card fee of 5 percent.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_01_CrCardExp_img.jpg"/>
+</media>
+<para id="fs-idm185314096">Here’s a final credit transaction to consider. A company allows a sales discount on a purchase if a customer charges a purchase but makes the payment within a stated period of time, such as 10 or 15 days from the point of sale. In such a situation, a customer would see credit terms in the following form: 2/10, n/30. This particular example shows that a customer who pays his or her account within 10 days will receive a 2% discount. Otherwise, the customer will have 30 days from the date of the purchase to pay in full, but will not receive a discount. Both sales discounts and purchase discounts were addressed in detail in <link document="m67860">Merchandising Transactions</link>.</para>
+<note id="fs-idm203097744" class="your-turn">
+<title>Maine Lobster Market</title>
+<para id="fs-idm210777520">Maine Lobster Market (MLM) provides fresh seafood products to customers. It allows customers to pay with cash, an in-house credit account, or a credit card. The credit card company charges Maine Lobster Market a 4% fee, based on credit sales using its card. From the following transactions, prepare journal entries for Maine Lobster Market.</para>
+<table id="fs-idm190167904" class="unnumbered unstyled" summary="Assessment data.">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Aug. 5</entry>
+<entry valign="top" align="left">Pat paid $800 cash for lobster. The cost to MLM was $480.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 10</entry>
+<entry valign="top" align="left">Pat purchased 30 pounds of shrimp at a sales price per pound of $25. The cost to MLM was $18.50 per pound and is charged to Pat’s in-store account.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 19</entry>
+<entry valign="top" align="left">Pat purchased $1,200 of fish with a credit card. The cost to MLM is $865.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm219130816"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm208545136" alt="Journal entries: August 5 debit Cash 800, credit Sales Revenue 800. Explanation: To record cash sale. August 5 debit COGS 480, credit Merchandise Inventory: Lobster 480. Explanation: to record cost of sale. August 10 debit Accounts Receivable 750, credit Sales Revenue 750. Explanation: To record credit sale, 30 times $25. August 10 debit COGS 555, credit Merchandise Inventory: Shrimp 555. Explanation: to record cost of sale; 30 times $18.50. August 10 debit Accounts Receivable 1,152, debit Credit Card Expense 48, credit Sales Revenue 1,200. Explanation: To record credit card sale, 4 percent fee, 1200 times 4 percent. August 19 debit COGS 865, credit Merchandise Inventory: Fish 865. Explanation: To record cost of sale.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_01_YT01Sn_img.png"/>
+</media>
+</note>
+<note id="fs-idm225920544" class="your-turn">
+<title>Jamal’s Music Supply</title>
+<para id="fs-idm161426336">Jamal’s Music Supply allows customers to pay with cash or a credit card. The credit card company charges Jamal’s Music Supply a 3% fee, based on credit sales using its card. From the following transactions, prepare journal entries for Jamal’s Music Supply.</para>
+<table id="fs-idm219215088" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">May 10</entry>
+<entry valign="top" align="left">Kerry paid $1,790 for music supplies with a credit card. The cost to Jamal’s Music Supply was $1,100.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">May 19</entry>
+<entry valign="top" align="left">Kerry purchased 80 drumstick pairs at a sales price per pair of $14 with a credit card. The cost to Jamal’s Music Supply was $7.30 per pair.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">May 28</entry>
+<entry valign="top" align="left">Kerry purchased $345 of music supplies with cash. The cost to Jamal’s Music Supply was $122.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm222403664"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm168938752" alt="Journal entries: May 10: debit Accounts Receivable 1,736.30, debit Credit Card Expense 53.70, credit Sales Revenue 1790. Explanation: To record credit card sale, 3 percent fee. 1790 times 3 percent. May 10: debit COGS 1,100, credit Merchandise Inventory 1,100. Explanation: to record cost of sale. May 19: debit Accounts Receivable 1086.40, debit Credit Card Expense 33.60, credit Sales Revenue 1,120. Explanation: To record credit card sale, 3 percent fee, (80 times $14) times 3 percent. May 19: debit COGS 584, credit Merchandise Inventory 584. Explanation: to record cost of sale; 80 times $7.30. May 28: debit Cash 345, credit Sales Revenue 345. Explanation: To record cash sale. May 28: debit COGS 122, credit Merchandise Inventory 122. Explanation: To record cost of sale.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_01_YT02Sn_img.png"/>
+</media>
+</note>
+</section>
+<section id="fs-idm200095232" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm221448768" list-type="bulleted" bullet-style="bullet">
+<item>According to the revenue recognition principle, a company will recognize revenue when a product or service is provided to a client. The revenue must be reported in the period when the earnings process completes.</item>
+<item>According to the matching principle, expenses must be matched with revenues in the period in which they are incurred. A mismatch in revenues and expenses can lead to financial statement misreporting.</item>
+<item>When a customer pays for a product or service on a line of credit, the Accounts Receivable account is used. Accounts receivable must satisfy the following criteria: the customer owes money and has yet to pay, the amount is due in less than a company’s operating cycle, and the account usually does not incur interest.</item>
+<item>When a customer purchases a product or service on credit, using an in-house account, Accounts Receivable increases and Sales Revenue increases. When the customer pays the amount due, Accounts Receivable decreases and Cash increases.</item>
+<item>When a customer purchases a product or service with a third-party credit card, such as <emphasis class="colored-text">Visa</emphasis>, Accounts Receivable increases, Credit Card Expense increases, and Sales Revenue increases. When the credit card company pays the amount due, Accounts Receivable decreases and Cash increases for the original sales price less the credit card usage fee.</item>
+</list>
+</section>
+<section id="fs-idm199983536" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm225158240">
+<problem id="fs-idm223444800">
+<para id="fs-idm227928272"><link class="lo-reference" document="m67881"/>Which of the following is <emphasis effect="italics">not</emphasis> a criterion to recognize revenue under GAAP?</para>
+<list id="fs-idm200407536" list-type="enumerated" number-style="upper-alpha">
+<item>The earnings process must be completed.</item>
+<item>A product or service must be provided.</item>
+<item>Cash must be collected.</item>
+<item>GAAP requires that the accrual basis accounting principle be used in the revenue recognition process.</item>
+</list>
+</problem>
+<solution id="fs-idm293576672">
+<para id="fs-idm178591984">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm210789664">
+<problem id="fs-idm210057776">
+<para id="fs-idm222983264"><link class="lo-reference" document="m67881"/>Which of the following best represents the matching principle criteria?</para>
+<list id="fs-idm224706096" list-type="enumerated" number-style="upper-alpha">
+<item>Expenses are reported in the period in which they were incurred.</item>
+<item>Expenses may be reported in a different period than the matching revenues.</item>
+<item>Revenue and expenses are matched based on when expenses are paid.</item>
+<item>Revenue is recognized when an order occurs and not when the actual sale is initiated.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm203131264">
+<problem id="fs-idm179180640">
+<para id="fs-idm182869856"><link class="lo-reference" document="m67881"/>If a customer pays with a credit card and the service has been provided, which of the following accounts will be used to record the sales entry for this transaction?</para>
+<list id="fs-idm220561152" list-type="enumerated" number-style="upper-alpha">
+<item>Cost of Goods Sold, Merchandise Inventory, Sales Revenue</item>
+<item>Sales Revenue, Credit Card Expense, Accounts Receivable</item>
+<item>Accounts Receivable, Merchandise Inventory, Credit Card Expense</item>
+<item>Cost of Goods Sold, Credit Card Expense, Sales Revenue</item>
+</list>
+</problem>
+<solution id="fs-idm188983536">
+<para id="fs-idm213446080">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm227408176">
+<problem id="fs-idm209645232">
+<para id="fs-idm177805392"><link class="lo-reference" document="m67881"/>A car dealership sells a car to a customer for $35,000. The customer makes a 10% down payment, and the dealership finances the remaining 90% in-house. How much will the car dealership record in Accounts Receivable for this customer?</para>
+<list id="fs-idm209237632" list-type="enumerated" number-style="upper-alpha">
+<item>$31,500</item>
+<item>$19,250</item>
+<item>$8,750</item>
+<item>$7,000</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm177513264" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm185911072">
+<problem id="fs-idm215220352">
+<para id="fs-idm224074400"><link class="lo-reference" document="m67881"/>What is the matching principle?</para>
+</problem>
+<solution id="fs-idm210519280">
+<para id="fs-idm178077184">The matching principle states that expenses must be matched to revenues in the period in which they were incurred.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm201931488">
+<problem id="fs-idm208558832">
+<para id="fs-idm222232496"><link class="lo-reference" document="m67881"/>A beverage wholesale outlet sells beverages by the case. On April 13, a customer purchased 18 cases of wine at $42 per case, 20 cases of soda at $29 per case, and 45 cases of water at $17 per case. The customer pays with a Merill credit card. Merill charges a usage fee to the company of 5% of the total sale. What is the sales entry for this purchase?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm210038144">
+<problem id="fs-idm210740176">
+<para id="fs-idm208953008"><link class="lo-reference" document="m67881"/>On January 1, a flower shop contracts with customers to provide flowers for their wedding on June 2. The total contract price is $3,000, payable in equal installments for the next six months on the first of each month (with the first payment due January 1). How much will be recorded as revenue during the month of April?</para>
+</problem>
+<solution id="fs-idm188584896">
+<para id="fs-idm195951712">Nothing will be recognized as revenue, since the flower shop will not provide flowers until June. Until then, all revenue is considered unearned.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm169739744">
+<problem id="fs-idm202925728">
+<para id="fs-idm161694640"><link class="lo-reference" document="m67881"/>American Signs allows customers to pay with their Jones credit card and cash. Jones charges American Signs a 3.5% service fee for each credit sale using its card. Credit sales for the month of June total $328,430, where 40% of those sales were made using the Jones credit card. Based on this information, what will be the total in Credit Card Expense at the end of June?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm187527312" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm208752960">
+<problem id="fs-idm213675648">
+<para id="fs-idm208770656"><link class="lo-reference" document="m67881"/>Prepare journal entries for the following transactions from Restaurant Depot.</para>
+<table id="fs-idm202077792" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Nov. 8</entry>
+<entry valign="top" align="left">Customer Miles Shandy purchased 200 pans at $35 per pan, costing Restaurant Depot $21 per pan. Terms of the sale are 2/10, n/30, invoice dated November 8.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Nov. 17</entry>
+<entry valign="top" align="left">Miles Shandy pays in full with cash for his purchase of November 8.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm223589328">
+<problem id="fs-idm210461232">
+<para id="fs-idm174659712"><link class="lo-reference" document="m67881"/>Prepare journal entries for the following transactions from Cars Plus.</para>
+<table id="fs-idm210128720" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Oct. 18</entry>
+<entry valign="top" align="left">Customer Angela Sosa purchased $132,980 worth of car parts with her Standard credit card. The cost to Cars Plus for the sale is $86,250. Standard credit card charges Cars Plus a fee of 4% of the sale.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oct. 24</entry>
+<entry valign="top" align="left">Standard remits payment to Cars Plus, less any fees.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm163487408">
+<problem id="fs-idm177766208">
+<para id="fs-idm212842352"><link class="lo-reference" document="m67881"/>Consider the following transaction: On March 6, Fun Cards sells 540 card decks with a sales price of $7 per deck to Padma Singh. The cost to Fun Cards is $4 per deck. Prepare a journal entry under each of the following conditions. Assume MoneyPlus charges a 2% fee for each sales transaction using its card.</para>
+<list id="fs-idm180166208" list-type="enumerated" number-style="upper-alpha">
+<item>Payment is made using a credit, in-house account.</item>
+<item>Payment is made using a MoneyPlus credit card.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm214583104" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm223742768">
+<problem id="fs-idm203072768">
+<para id="fs-idm226495600"><link class="lo-reference" document="m67881"/>Prepare journal entries for the following transactions from Movie Mart.</para>
+<table id="fs-idm186507984" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Sept. 10</entry>
+<entry valign="top" align="left">Customer Ellie Monk purchased $43,820 worth of merchandise from Movie Mart, costing Movie Mart $28,745. Terms of the sale are 3/10, n/60, invoice dated September 10.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Sept. 22</entry>
+<entry valign="top" align="left">Ellie Monk pays in full with cash for her purchase on September 22.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm208932368">
+<problem id="fs-idm213907952">
+<para id="fs-idm209338688"><link class="lo-reference" document="m67881"/>Prepare journal entries for the following transactions from Angled Pictures.</para>
+<table id="fs-idm209215120" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">June 21</entry>
+<entry valign="top" align="left">Customer LeShaun Rogers purchased 167 picture frames at a sales price of $28 per frame with her American credit card. The cost to Angled Pictures for the sale is $19 per frame. American credit card charges Angled Pictures a fee of 3% of the sale.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">June 30</entry>
+<entry valign="top" align="left">American remits payment to Angled Pictures, less any fees.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm212337616">
+<problem id="fs-idm221288336">
+<para id="fs-idm219125664"><link class="lo-reference" document="m67881"/>Consider the following transaction: On February 15, Darling Dolls sells 110 dolls with a sales price of $15 per doll to Rosemary Cummings The cost to Darling Dolls is $5 per doll. Prepare a journal entry under each of the following conditions. Assume Gentry charges a 3.5% fee for each sales transaction using its card.</para>
+<list id="fs-idm161555232" list-type="enumerated" number-style="upper-alpha">
+<item>Payment is made using a credit, in-house account.</item>
+<item>Payment is made using a Gentry credit card.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm187152960" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm195960832">
+<problem id="fs-idm205012416">
+<para id="fs-idm218548176"><link class="lo-reference" document="m67881"/>Prepare journal entries for the following transactions from Barrels Warehouse.</para>
+<table id="fs-idm211378608" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jul. 1</entry>
+<entry valign="top" align="left">Sold 2,000 barrels with a sales price of $30 per barrel to customer Luck’s Vineyards. Luck’s Vineyards paid with cash. The cost for this sale is $18 per barrel.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 3</entry>
+<entry valign="top" align="left">Sold 1,200 barrels with a sales price of $32 per barrel to customer Paramount Apparel. Paramount paid using its in-house credit account. Terms of the sale are 3/10, n/30. The cost for this sale is $17 per barrel.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 5</entry>
+<entry valign="top" align="left">Sold 1,400 barrels with a sales price of $31 per barrel to customer Melody Sharehouse. Melody paid using her MoneyPlus credit card. The cost for this sale is $18 per barrel. MoneyPlus Credit Card Company charges Barrels Warehouse a 2% usage fee based on the total sale per transaction.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 8</entry>
+<entry valign="top" align="left">MoneyPlus Credit Card Company made a cash payment in full to Barrels Warehouse for the transaction from July 5, less any usage fees.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 13</entry>
+<entry valign="top" align="left">Paramount Apparel paid its account in full with a cash payment, less any discounts.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm195772560">
+<problem id="fs-idm170701216">
+<para id="fs-idm217043152"><link class="lo-reference" document="m67881"/>Prepare journal entries for the following transactions of Dulce Delights.</para>
+<table id="fs-idm167994848" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Apr. 10</entry>
+<entry valign="top" align="left">Sold 320 ice cream buckets with a sales price of $12 per bucket to customer Livia Diaz. Livia paid using her in-house credit account; terms 2/10, n/30. The cost for this sale to Dulce Delights is $4.50 per bucket.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Apr. 13</entry>
+<entry valign="top" align="left">Sold 290 ice cream buckets with a sales price of $12.50 per bucket to customer Selene Arnold. Selene paid using her Max credit card. The cost for this sale to Dulce Delights is $4.50 per bucket. Max Credit Card Company charges Dulce Delights a 5% usage fee based on the total sale per transaction.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Apr. 20</entry>
+<entry valign="top" align="left">Livia Diaz paid her account in full with a cash payment, less any discounts.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Apr. 25</entry>
+<entry valign="top" align="left">Max Credit Card Company made a cash payment in full to Dulce Delights for the transaction from April 13, less any usage fees.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm183326240">
+<problem id="fs-idm186052976">
+<para id="fs-idm185093728"><link class="lo-reference" document="m67881"/>Prepare journal entries for the following transactions from Forest Furniture.</para>
+<table id="fs-idm203384400" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Oct. 3</entry>
+<entry valign="top" align="left">Sold 2 couches with a sales price of $2,450 per couch to customer Norman Guzman. Norman Guzman paid with his Draw Plus credit card. The Draw Plus credit card charges Forest Furniture a 3.5% usage fee based on the total sale per transaction. The cost for this sale is $1,700 per couch.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oct. 6</entry>
+<entry valign="top" align="left">Sold 4 end chairs for a total sales price of $1,250 to April Orozco. April paid in full with cash. The cost of the sale is $800.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oct. 9</entry>
+<entry valign="top" align="left">Sold 18 can lights with a sales price of $50 per light to customer James Montgomery. James Montgomery paid using his Fund Max credit card. Fund Max charges Forest Furniture a 2.4% usage fee based on the total sale per transaction. The cost for this sale is $29 per light.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oct. 12</entry>
+<entry valign="top" align="left">Draw Plus made a cash payment in full to Forest Furniture for the transaction from Oct 3, less any usage fees.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oct. 15</entry>
+<entry valign="top" align="left">Fund Max made a cash payment of 25% of the total due to Forest Furniture for the transaction from October 9th, less any usage fees.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oct. 25</entry>
+<entry valign="top" align="left">Fund Max made a cash payment of the remainder due to Forest Furniture for the transaction from October 9, less any usage fees.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm182876032" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm185333776">
+<problem id="fs-idm188154912">
+<para id="fs-idm181278128"><link class="lo-reference" document="m67881"/>Prepare journal entries for the following transactions from Lumber Wholesale.</para>
+<table id="fs-idm183109616" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Aug. 9</entry>
+<entry valign="top" align="left">Sold 48,320 pounds of lumber with a sales price of $5.50 per pound to customer Homes Unlimited. Homes Unlimited paid with cash. The cost for this sale is $1.35 per pound.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 10</entry>
+<entry valign="top" align="left">Sold 34,700 pounds of lumber with a sales price of $6.75 per pound to customer Barry Njegren. Njegren paid using his in-house credit account. Terms of the sale are 4/15, n/35. The cost for this sale is $1.20 per pound.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 11</entry>
+<entry valign="top" align="left">Sold 50,330 pounds of lumber with a sales price of $4.60 per pound to customer Goodson Houses. Goodson paid using its American credit card. The cost for this sale is $1.40 per pound. American Credit Card Company charged Lumber Wholesale a 2.5% usage fee based on the total sale per transaction.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 14</entry>
+<entry valign="top" align="left">American Credit Card Company made a cash payment in full to Lumber Wholesale for the transaction from August 11, less any usage fees.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 25</entry>
+<entry valign="top" align="left">Barry Njegren paid his account in full with a cash payment, less any discounts.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm216979008">
+<problem id="fs-idm225693936">
+<para id="fs-idm225207776"><link class="lo-reference" document="m67881"/>Prepare journal entries for the following transactions of Maritime Memories.</para>
+<table id="fs-idm213340560" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">May 2</entry>
+<entry valign="top" align="left">Sold $864,920 worth of maritime products to customer Jordan Scott. Jordan paid using his in-house credit account; terms 3/15, n/60. The cost to Maritime Memories for this sale is $532,187.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">May 6</entry>
+<entry valign="top" align="left">Sold $567,120 worth of maritime products to customer Joe Hsu. Joe paid using his Longstand credit card. The cost to Maritime Memories is $321,864. Longstand Credit Card Company charged Maritime Memories a 1.5% usage fee based on the total sale per transaction.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">May 16</entry>
+<entry valign="top" align="left">Jordan Scott paid his account in full with a cash payment, less any discounts.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">May 23</entry>
+<entry valign="top" align="left">Longstand Credit Card Company made a cash payment in full to Maritime Memories for the transaction from May 6, less any usage fees.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm228315360">
+<problem id="fs-idm225234672">
+<para id="fs-idm225218560"><link class="lo-reference" document="m67881"/>Prepare journal entries for the following transactions from School Mart.</para>
+<table id="fs-idm224198400" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mar. 6</entry>
+<entry valign="top" align="left">Sold 1,000 pencil packages with a sales price of $5.72 per package to customer Sonia Norris. Sonia Norris paid with her American credit card. The American credit card charges School Mart a 4.6% usage fee based on the total sale per transaction. The cost for this sale is $1.27 per package.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 8</entry>
+<entry valign="top" align="left">Sold 76 dry erase boards for a total sales price of $6,535 to Henry Malta. Henry paid in full with cash. The cost of the sale is $4,308.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 11</entry>
+<entry valign="top" align="left">Sold 55 reams of paper with a sales price of $3.25 per ream to customer Alex Forsun. Alex Forsun paid using his Union credit card. Union charges School Mart a 2% usage fee based on the total sale per transaction. The cost for this sale is $1.99 per ream.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 14</entry>
+<entry valign="top" align="left">American made a cash payment in full to School Mart for the transaction from March 6, less any usage fees.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 21</entry>
+<entry valign="top" align="left">Union made a cash payment of 40% of the total due to School Mart for the transaction from March 11, less any usage fees.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 29</entry>
+<entry valign="top" align="left">Union made a cash payment of the remainder due to School Mart for the transaction from March 11, less any usage fees.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm225486816" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm225353280">
+<problem id="fs-idm223094256">
+<para id="fs-idm223113120"><link class="lo-reference" document="m67881"/>Review the new revenue recognition guidance issued by the Financial Accounting Standards Board http://www.fasb.org/jsp/FASB/Page/ImageBridgePage&amp;cid=1176169257359 and answer the following questions.</para>
+<list id="fs-idm203271680" list-type="bulleted">
+<item>What is the new standard as of ASC 606? What does that mean to you?</item>
+<item>What are the recommended steps companies should follow to achieve the core principle?</item>
+<item>How does this change current GAAP standards?</item>
+<item>Who is required to adhere to this new standard?</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm226339360">
+<term>accounts receivable</term>
+<meaning id="fs-idm225272432">outstanding customer debt on a credit sale, typically receivable within a short time period</meaning>
+</definition>
+<definition id="fs-idm225998096">
+<term>accrual accounting</term>
+<meaning id="fs-idm227118768">records transactions related to revenue earnings as they occur, not when cash is collected</meaning>
+</definition>
+<definition id="fs-idm209023088">
+<term>matching principle</term>
+<meaning id="fs-idm225456720">(also, expense recognition principle) records expenses related to revenue generation in the period in which they are incurred</meaning>
+</definition>
+<definition id="fs-idm227227696">
+<term>receivable</term>
+<meaning id="fs-idm226316224">outstanding amount owed from a customer</meaning>
+</definition>
+<definition id="fs-idm212895872">
+<term>revenue recognition principle</term>
+<meaning id="fs-idm226304688">principle stating that company must recognize revenue in the period in which it is earned; it is not considered earned until a product or service has been provided</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,405 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Analyze, Journalize, and Report Current Liabilities</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67904</md:content-id>
+  <md:title>Analyze, Journalize, and Report Current Liabilities</md:title>
+  <md:abstract/>
+  <md:uuid>80423e5b-9790-40bc-8b71-fadfb23d254c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm388817360">To illustrate current liability entries, we use transaction information from Sierra Sports (see <link target-id="OSX_Acct_F12_02_Sierra"/>). Sierra Sports owns and operates a sporting goods store in the Southwest specializing in sports apparel and equipment. The company engages in regular business activities with suppliers, creditors, customers, and employees.</para>
+<figure id="OSX_Acct_F12_02_Sierra" class="scaled-down-30">
+<media id="fs-idm398160608" alt="Image shows the Sierra Sports logo. The logo has three mountain tops, colored in white, blue, green, and orange shades.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_Sierra.jpg"/>
+</media>
+<caption>Sierra Sports Logo. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<section id="fs-idm390241632">
+<title>Accounts Payable</title>
+<para id="fs-idm395615040">On August 1, Sierra Sports purchases $12,000 of soccer equipment from a manufacturer (supplier) on credit. Assume for the following examples that Sierra Sports uses the <term class="no-emphasis">perpetual inventory</term> method, which uses the Inventory account when the company buys, sells, or adjusts the inventory balance, such as in the following example where they qualified for a discount. In the current transaction, credit terms are 2/10, n/30, the invoice date is August 1, and shipping charges are FOB shipping point (which is included in the purchase cost).</para>
+<para id="fs-idm370726240">Recall from <link document="m67860">Merchandising Transactions</link>, that credit terms of 2/10, n/30 signal the payment terms and discount, and FOB shipping point establishes the point of merchandise ownership, the responsibility during transit, and which entity pays shipping charges. Therefore, 2/10, n/30 means Sierra Sports has ten days to pay its balance due to receive a 2% discount, otherwise Sierra Sports has net thirty days, in this case August 31, to pay in full but not receive a discount. FOB shipping point signals that since Sierra Sports takes ownership of the merchandise when it leaves the manufacturer, it takes responsibility for the merchandise in transit and will pay the shipping charges.</para>
+<para id="fs-idm372392656">Sierra Sports would make the following journal entry on August 1.</para>
+<media id="fs-idm401440960" alt="A journal entry is made on August 1 and shows a Debit to Inventory for $12,000, and a credit to Accounts payable for $12,000, with the note “To recognize the purchase of equipment on credit, terms 2 / 10, n / 30, invoice date August 1.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_APSS01_img.jpg"/>
+</media>
+<para id="fs-idm390155680">The merchandise is purchased from the supplier on credit. In this case, Accounts Payable would increase (a credit) for the full amount due. Inventory, the asset account, would increase (a debit) for the purchase price of the merchandise.</para>
+<para id="fs-idm371860784">If Sierra Sports pays the full amount owed on August 10, it qualifies for the discount, and the following entry would occur.</para>
+<media id="fs-idm387246496" alt="A journal entry is made on August 10 and shows a Debit to Accounts payable for $12,000, a credit to Inventory for $240, and a credit to Cash for $11,760 with the note “To recognize payment of the amount due, less discount.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_APSS02_img.jpg"/>
+</media>
+<para id="fs-idm402528736">Assume that the payment to the manufacturer occurs within the discount period of ten days (2/10, n/30) and is recognized in the entry. Accounts Payable decreases (debit) for the original amount due, Inventory decreases (credit) for the discount amount of $240 ($12,000 × 2%), and Cash decreases (credit) for the remaining balance due after discount.</para>
+<para id="fs-idm372401760">Note that Inventory is decreased in this entry because the value of the merchandise (soccer equipment) is reduced. When applying the perpetual inventory method, this reduction is required by generally accepted accounting principles (GAAP) (under the cost principle) to reflect the actual cost of the merchandise.</para>
+<para id="fs-idm401143184">A second possibility is that Sierra will return part of the purchase before the ten-day discount window has expired. Assume in this example that $1,000 of the $12,000 purchase was returned to the seller on August 8 and the remaining account payable due was paid by Sierra to the seller on August 10, which means that Sierra qualified for the remaining eligible discount. The following two journal entries represent the return of inventory and the subsequent payment for the remaining account payable owed. The initial journal entry from August 1 will still apply, because we assume that Sierra intended to keep the full $12,000 of inventory when the purchase was made.</para>
+<para id="fs-idm400586688">When the $1,000 in inventory was returned on August 8, the accounts payable account and the inventory accounts should be reduced by $1,000 as demonstrated in this journal entry.</para>
+<media id="fs-idm388318352" alt="A journal entry is made on August 8 and shows a Debit to Accounts payable for $1,000, and a credit to Inventory for $1,000, with the note “To recognize return of inventory purchased.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_APSS02A_img.jpg"/>
+</media>
+<para id="fs-idm390533872">After this transaction, Sierra still owed $11,000 and still had $11,000 in inventory from the purchase, assuming that Sierra had not sold any of it yet.</para>
+<para id="fs-idm361295440">When Sierra paid the remaining balance on August 10, the company qualified for the discount. However, since Sierra only owed a remaining balance of $11,000 and not the original $12,000, the discount received was 2% of $11,000, or $220, as demonstrated in this journal entry. Since Sierra owed $11,000 and received a discount of $220, the supplier was paid $10,780. This second journal entry is the same as the one that would have recognized an original purchase of $11,000 that qualified for a discount.</para>
+<media id="fs-idm391989248" alt="A journal entry is made on August 8 and shows a Debit to Accounts payable for $11,000, a credit to Inventory for $220, and a credit to Cash for $10,780 with the note “To recognize payment of remaining accounts payable balance after qualifying for the discount.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_APSS02B_img.jpg"/>
+</media>
+<para id="fs-idm375945568">Remember that since we are assuming that Sierra was using the perpetual inventory method, purchases, payments, and adjustments in goods available for sale are reflected in the company’s Inventory account. In our example, one of the potential adjustments is that discounts received are recorded as reductions to the Inventory account.</para>
+<para id="fs-idm394608144">To demonstrate this concept, after buying $12,000 in inventory, returning $1,000 in inventory, and then paying for the remaining balance and qualifying for the discount, Sierra’s Inventory balance increased by $10,780, as shown.</para>
+<media id="fs-idm387588240" class="scaled-down" alt="The image shows the Inventory account of the Sierra Sports company. Initial inventory purchase (August 1) $12,000, minus Return of inventory (August 8) $1,000, equals the subtotal (August 9) of $11,000, minus Discount allowed August 10 (reduction in inventory) of $220, equals Final inventory after account payable of $10,780.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_SierraInv_img.jpg"/>
+</media>
+<para id="fs-idm390607280">If Sierra had bought $11,000 of inventory on August 1 and paid cash and taken the discount, after taking the $220 discount, the increase of Inventory on their balance sheet would have been $10,780, as it finally ended up being in our more complicated set of transactions on three different days. The important factor is that the company qualified for a 2% discount on inventory that had a retail price before discounts of $11,000.</para>
+<para id="fs-idm386120192">In a final possible scenario, assume that Sierra Sports remitted payment outside of the discount window on August 28, but inside of thirty days. In this case, they did not qualify for the discount, and assuming that they made no returns they paid the full, undiscounted balance of $12,000.</para>
+<media id="fs-idm400118032" alt="A journal entry is made on August 28 and shows a Debit to Accounts payable for $12,000, and a credit to Cash for $12,000, with the note “To recognize payment of the amount due, no discount applied.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_APSS03_img.jpg"/>
+</media>
+<para id="fs-idm400495776">If this occurred, both Accounts Payable and Cash decreased by $12,000. Inventory is not affected in this instance because the full cost of the merchandise was paid; so, the increase in value for the inventory was $12,000, and not the $11,760 value determined in our beginning transactions where they qualified for the discount.</para>
+<note id="fs-idm391860880" class="your-turn">
+<title>Accounting for Advance Payments</title>
+<para id="fs-idm399054176">You are the owner of a catering company and require advance payments from clients before providing catering services. You receive an order from the Coopers, who would like you to cater their wedding on June 10. The Coopers pay you $5,500 cash on March 25. Record your journal entries for the initial payment from the Coopers, and when the catering service has been provided on June 10.</para>
+<para id="fs-idm394752000"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm397963568" alt="The first journal entry is made on March 25 and shows a Debit to Cash for $5,500, a credit to Unearned catering revenue for $5,500 with the note “To recognize advanced payment from client.” The second journal entry is made on June 10, and shows a Debit to Unearned Catering revenue for $5,500 and a credit to Catering revenue for $5,500 with the note “To recognize catering revenue earned.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_YT01S_img.png"/>
+</media>
+</note>
+</section>
+<section id="fs-idm399283328">
+<title>Unearned Revenue</title>
+<para id="fs-idm389683712">Sierra Sports has contracted with a local youth football league to provide all uniforms for participating teams. The league pays for the uniforms in advance, and Sierra Sports provides the customized uniforms shortly after purchase. The following situation shows the journal entry for the initial purchase with cash. Assume the league pays Sierra Sports for twenty uniforms (cost per uniform is $30, for a total of $600) on April 3.</para>
+<media id="fs-idm401611168" alt="A journal entry is made on April 3 and shows a Debit to Cash for $600, and a credit to unearned uniform revenue for $600, with the note “To recognize advanced payment for 20 uniforms at $30 each.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_URSS01_img.jpg"/>
+</media>
+<para id="fs-idm376245888">Sierra Sports would see an increase to Cash (debit) for the payment made from the football league. The revenue from the sale of the uniforms is $600 (20 uniforms × $30 per uniform). Unearned Uniform Revenue accounts reflect the prepayment from the league, which cannot be recognized as earned revenue until the uniforms are provided. Unearned Uniform Revenue is a current liability account that increases (credit) with the increase in outstanding product debt.</para>
+<para id="fs-idm400764368">Sierra provides the uniforms on May 6 and records the following entry.</para>
+<media id="fs-idm399848032" alt="A journal entry is made on May 6 and shows a Debit to Unearned uniform revenue for $600, and a credit to Uniform revenue for $600, with the note “To recognize uniform revenue as earned.” A second journal entry on May 6 shows a Debit to Cost of goods sold for $280, and a credit to Inventory for $280, with the note “To recognize cost of goods sold of uniform sales.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_URSS02_img.jpg"/>
+</media>
+<para id="fs-idm398759424">Now that Sierra has provided all of the uniforms, the unearned revenue can be recognized as earned. This satisfies the revenue recognition principle. Therefore, Unearned Uniform Revenue would decrease (debit), and Uniform Revenue would increase (credit) for the total amount.</para>
+<para id="fs-idm404020896">Let’s say that Sierra only provides half the uniforms on May 6 and supplies the rest of the order on June 2. The company may not recognize revenue until a product (or a portion of a product) has been provided. This means only half the revenue can be recognized on May 6 ($300) because only half of the uniforms were provided. The rest of the revenue recognition will have to wait until June 2. Since only half of the uniforms were delivered on May 6, only half of the costs of goods sold would be recognized on May 6. The other half of the costs of goods sold would be recognized on June 2 when the other half of the uniforms were delivered. The following entries show the separate entries for partial revenue recognition.</para>
+<media id="fs-idm370781152" alt="A journal entry is made on May 6 and shows a Debit to Unearned uniform revenue for $300, and a credit to Uniform revenue for $300, with the note “To recognize partial uniform revenue as earned.” A second journal entry on May 6 shows a Debit to Cost of goods sold for $140, and a credit to Inventory for $140, with the note “To recognize cost of goods sold of uniform sales.” A second journal entry is made on June 2 and shows a Debit to Unearned uniform revenue for $300, and a credit to Uniform revenue for $300, with the note “To recognize partial uniform revenue as earned.” A second journal entry on May 6 shows a Debit to Cost of goods sold for $140, and a credit to Inventory for $140, with the note “To recognize cost of goods sold of uniform sales.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_URSS03_img.jpg"/>
+</media>
+<para id="fs-idm403621056">In another scenario using the same cost information, assume that on April 3, the league contracted for the production of the uniforms on credit with terms 5/10, n/30. They signed a contract for the production of the uniforms, so an account receivable was created for Sierra, as shown.</para>
+<media id="fs-idm391507056" alt="A journal entry is made on April 3 and shows a Debit to Accounts receivable for $600, and a credit to Unearned Revenue: Uniforms for $600, with the note “To recognize advanced payment on credit for 20 uniforms (5 / 10, n / 30).”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_URSS04_img.jpg"/>
+</media>
+<para id="fs-idm395857344">Sierra and the league have worked out credit terms and a discount agreement. As such, the league can delay cash payment for ten days and receive a discount, or for thirty days with no discount assessed. Instead of cash increasing for Sierra, Accounts Receivable increases (debit) for the amount the football league owes.</para>
+<para id="fs-idm387070240">The league pays for the uniforms on April 15, and Sierra provides all uniforms on May 6. The following entry shows the payment on credit.</para>
+<media id="fs-idm403155632" alt="A journal entry is made on April 15 and shows a Debit to Cast for $600, and a credit to Accounts Receivable for $600, with the note “To recognize payment of the amount due; no discount applied.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_URSS05_img.jpg"/>
+</media>
+<para id="fs-idm387083840">The football league made payment outside of the discount period, since April 15 is more than ten days from the invoice date. Thus, they do not receive the 5% discount. Cash increases (debit) for the $600 paid by the football league, and Accounts Receivable decreases (credit).</para>
+<para id="fs-idm397632960">In the next example, let’s assume that the league made payment within the discount window, on April 13. The following entry occurs.</para>
+<media id="fs-idm398228864" alt="A journal entry is made on April 13 and shows a Debit to Cash for $570, a debit to Sales discount for $30, and a credit to Accounts receivable for $600, with the note “To recognize league payment with 5 percent discount.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_URSS06_img.jpg"/>
+</media>
+<para id="fs-idm403141424">In this case, Accounts Receivable decreases (credit) for the original amount owed, Sales Discount increases (debit) for the discount amount of $30 ($600 × 5%), and Cash increases (debit) for the $570 paid by the football league less discount.</para>
+<para id="fs-idm395001504">When the company provides the uniforms on May 6, Unearned Uniform Revenue decreases (debit) and Uniform Revenue increases (credit) for $600.</para>
+<media id="fs-idm394899920" alt="A journal entry is made on May 6 and shows a Debit to Unearned Revenue: Uniforms for $600, and a credit to Revenue: Uniforms for $600, with the note “To recognize uniform revenue as earned.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_URSS07_img.jpg"/>
+</media>
+<note id="fs-idm394563888" class="ethical-considerations">
+<title>Stock Options and Unearned Revenue Manipulation</title>
+<para id="fs-idm367349712">The anticipated income of public companies is projected by stock market analysts through <emphasis effect="italics">whisper-earnings</emphasis>, or forecasted earnings. It can be advantageous for a company to have its stock beat the stock market’s expectation of earnings. Likewise, falling below the market’s expectation can be a disadvantage. If a company’s whisper-earnings are not going to be met, there could be pressure on the chief financial officer to misrepresent earnings through manipulation of unearned revenue accounts to better match the stock market’s expectation.</para>
+<para id="fs-idm392087408">Because many executives, other top management, and even employees have stock options, this can also provide incentive to manipulate earnings. A stock option sets a minimum price for the stock on a certain date. This is the date the option vests, at what is commonly called the <emphasis effect="italics">strike price</emphasis>. Options are worthless if the stock price on the vesting date is lower than the price at which they were granted. This could result in a loss of income, potentially incentivizing earnings manipulation to meet the stock market’s expectations and exceed the vested stock price in the option.</para>
+<para id="fs-idm402124640">Researchers have found that when executive options are about to vest, companies are more likely to present financial statements meeting or just slightly beating the earnings forecasts of analysts. The proximity of the actual earnings to earnings forecasts suggests they were manipulated because of the vesting.<footnote id="fs-idm392150192">Jena McGregor. “How Stock Options Lead CEOs to Put Their Own Interests First.” <emphasis effect="italics">Washington Post</emphasis>. February 11, 2014. https://www.washingtonpost.com/news/on-leadership/wp/2014/02/11/how-stock-options-lead-ceos-to-put-their-own-interests-first/?utm_term=.24d99a4fb1a5</footnote> As Douglas R. Carmichael points out, “public companies that fail to report quarterly earnings which meet or exceed analysts’ expectations often experience a drop in their stock prices. This can lead to practices that sometimes include fraudulent overstatement of quarterly revenue.”<footnote id="fs-idm401348176">Douglas R. Carmichael. “Hocus-Pocus Accounting.” <emphasis effect="italics">Journal of Accountancy</emphasis>. October 1, 1999. https://www.journalofaccountancy.com/issues/1999/oct/carmichl.html</footnote> If earnings meet or exceed expectations, a stock price can hit or surpass the vested stock price in the option. For company members with stock options, this could result in higher income. Thus, financial statements that align closely with analysts’ estimates, rather than showing large projections above or below whisper-earnings, could indicate that accounting information has possibly been adjusted to meet the expected numbers. Such manipulations can be made in unearned revenue accounts.</para>
+<para id="fs-idm394442400">In November 1998, the Securities and Exchange Commission (SEC) issued Practice Alert 98-3, Revenue Recognition Issues, SEC Practice Section Professional Issues Task Force, recognizing and discussing the manipulation of earnings used to exceed stock market and analysts’ expectations. Accountants should watch for revenue recognition related issues in preparing the financial statements of their company or client, especially when employees’ or management’s stock options are about to vest.</para>
+</note>
+</section>
+<section id="fs-idm386054976">
+<title>Current Portion of a Noncurrent Note Payable</title>
+<para id="fs-idm374901712">Sierra Sports takes out a bank loan on January 1, 2017 to cover expansion costs for a new store. The note amount is $360,000. The note has terms of repayment that include equal principal payments annually over the next twenty years. The annual interest rate on the loan is 9%. Interest accumulates each month based on the standard interest rate formula discussed previously, and on the current outstanding principal balance of the loan. Sierra records interest accumulation every three months, at the end of each third month. The initial loan (note) entry follows.</para>
+<media id="fs-idm403156128" alt="A journal entry is made on January 1 and shows a Debit to Cash for $360,000, and a credit to Notes payable for $360,000, with the note “To recognize long-term loan, interest rate 9 percent.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_NPSS01_img.jpg"/>
+</media>
+<para id="fs-idm389832592">Notes Payable increases (credit) for the full loan principal amount. Cash increases (debit) as well. On March 31, the end of the first three months, Sierra records their first interest accumulation.</para>
+<media id="fs-idm378263600" alt="A journal entry is made on March 31 and shows a Debit to Interest expense for $8,100, and a credit to Interest payable for $8,100, with the note “To recognize interest accumulated after three months.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_NPSS02_img.jpg"/>
+</media>
+<para id="fs-idm399515216">Interest Expense increases (debit) as does Interest Payable (credit) for the amount of interest accumulated but unpaid at the end of the three-month period. The amount $8,100 is found by using the interest formula, where the outstanding principal balance is $360,000, interest rate of 9%, and the part of the year being three out of twelve months: $360,000 × 9% × (3/12).</para>
+<para id="fs-idm402587280">The same entry for interest will occur every three months until year-end. When accumulated interest is paid on January 1 of the following year, Sierra would record this entry.</para>
+<media id="fs-idm390156560" alt="A journal entry is made on January 1 and shows a Debit to Interest payable for $32,400, and a credit to Cash for $32,400, with the note “To recognize interest payment for 2017.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_NPSS03_img.jpg"/>
+</media>
+<para id="fs-idm367337600">Both Interest Payable and Cash decrease for the total interest amount accumulated during 2017. This is calculated by taking each three-month interest accumulation of $8,100 and multiplying by the four recorded interest entries for the periods. You could also compute this by taking the original principal balance and multiplying by 9%.</para>
+<para id="fs-idm399831424">On December 31, 2017, the first principal payment is due. The following entry occurs to show payment of this principal amount due in the current period.</para>
+<media id="fs-idm399885792" alt="A journal entry is made on December 31 and shows a Debit to Notes payable for $18,000, and a credit to Cash for $18,000, with the note “To recognize current principal payment for 2017.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_NPSS04_img.jpg"/>
+</media>
+<para id="fs-idm357013136">Notes Payable decreases (debit), as does Cash (credit), for the amount of the noncurrent note payable due in the current period. This amount is calculated by dividing the original principal amount ($360,000) by twenty years to get an annual current principal payment of $18,000 ($360,000/20).</para>
+<para id="fs-idm398768784">While the accounts used to record a reduction in Notes Payable are the same as the accounts used for a noncurrent note, the reporting on the balance sheet is classified in a different area. The current portion of the noncurrent note payable ($18,000) is reported under Current Liabilities, and the remaining noncurrent balance of $342,000 ($360,000 – $18,000) is classified and displayed under noncurrent liabilities, as shown in <link target-id="OSX_Acct_F12_02_NPBS"/>.</para>
+<figure id="OSX_Acct_F12_02_NPBS">
+<media id="fs-idm376212672" alt="The figure shows the Balance Sheet at December 31, 2017 of Sierra Sports. Assets are categorized by Current assets and Property, Plant, and Equipment. Under current assets: Cash $21,580, Accounts receivable $2,000, Total current assets $23,580. Under Property, Plant, and Equipment: Buildings $300,000, Sporting Equipment $60,000, Total Property, Plant, and Equipment $360,000. Total assets $383,580. Liabilities and stockholders’ equity are categorized by Current liabilities, Long-term liabilities, and Stockholders’ Equity. Under Current liabilities: Note Payable: Current $18,000, Accounts payable $9,000, Unearned revenue $4,000, Total current liabilities $31,000. Under Long-term liabilities: Notes payable $342,000. Under Stockholders’ equity: Common stock $5,000, Retained earnings $5,580, Total Stockholders’ equity $10,580. Total Liabilities and Stockholders’ equity $383,580.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_NPBS.jpg"/>
+</media>
+<caption>Sierra Sports Balance Sheet. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm395054464">
+<title>Taxes Payable</title>
+<para id="fs-idm400527360">Let’s consider our previous example where Sierra Sports purchased $12,000 of soccer equipment in August. Sierra now sells the soccer equipment to a local soccer league for $18,000 cash on August 20. The sales tax rate is 6%. The following revenue entry would occur.</para>
+<media id="fs-idm391528240" alt="A journal entry is made on August 20 and shows a Debit to Cash for $19,080, a credit to Sales tax payable for $1,080, and a credit to Sales for $18,000 with the note “To recognize soccer equipment sale, tax rate 6 percent.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_TPSS01_img.jpg"/>
+</media>
+<para id="fs-idm398951024">Cash increases (debit) for the sales amount plus sales tax. Sales Tax Payable increases (credit) for the 6% tax rate ($18,000 × 6%). Sierra’s tax liability is owed to the State Tax Board. Sales increases (credit) for the original amount of the sale, not including sales tax. If Sierra’s customer pays on credit, Accounts Receivable would increase (debit) for $19,080 rather than Cash.</para>
+<para id="fs-idm387565696">When Sierra remits payment to the State Tax Board on October 1, the following entry occurs.</para>
+<media id="fs-idm375058800" alt="A journal entry is made on October 1 and shows a Debit to Sales tax payable for $1,080, and a credit to Cash for $1,080 with the note “To recognize State Tax Board payment.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_TPSS02_img.jpg"/>
+</media>
+<para id="fs-idm372384192">Sales Tax Payable and Cash decrease for the payment amount of $1,080. Sales tax is not an expense to the business because the company is holding it on account for another entity.</para>
+<para id="fs-idm378485232">Sierra Sports payroll tax journal entries will appear in <link document="m67909">Record Transactions Incurred in Preparing Payroll</link>.</para>
+<note id="fs-idm402292512" class="your-turn">
+<title>Accounting for Purchase Discounts</title>
+<para id="fs-idm376164768">You own a shipping and packaging facility and provide shipping services to customers. You have worked out a contract with a local supplier to provide your business with packing materials on an ongoing basis. Terms of your agreement allow for delayed payment of up to thirty days from the invoice date, with an incentive to pay within ten days to receive a 5% discount on the packing materials. On April 3, you purchase 1,000 boxes (Box Inventory) from this supplier at a cost per box of $1.25. You pay the amount due to the supplier on April 11. Record the journal entries to recognize the initial purchase on April 3, and payment of the amount due on April 11.</para>
+<para id="fs-idm391999008"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm390305360" alt="The first journal entry is made on April 3 and shows a Debit to Box inventory for $1,250, and a credit to Accounts payable for $1,250 with the note “To recognize purchases of boxes, 5 / 10, n / 30.” The second journal entry is made on April 11, and shows a Debit to Accounts payable for $1,250, a credit to Box inventory for $62.50 and a credit to Cash for $1,187.50 with the note “To recognize payment, less discount.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_02_YT02S_img.png"/>
+</media>
+</note>
+</section>
+<section id="fs-idm394299360" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm401628480" list-type="bulleted" bullet-style="bullet">
+<item>When the merchandiser initially pays the supplier on credit, it increases both Accounts Payable (a credit) and the appropriate merchandise Inventory account (a debit). When the amount due is later paid, it decreases both Accounts Payable (a debit) and Cash (a credit).</item>
+<item>When the company collects payment from a customer in advance of providing a product or service, it increases both Unearned Revenue (a credit) and Cash (a debit). When the company provides the product or service, Unearned Revenue decreases (a debit), and Revenue increases (a credit) to realize the amount earned.</item>
+<item>To recognize payment of the current portion of a noncurrent note payable, both Notes Payable and Cash would decrease, resulting in a debit and a credit, respectively. To recognize interest accumulation, both Interest Expense and Interest Payable would increase, resulting in a debit and a credit, respectively.</item>
+<item>To recognize sales tax in the initial sale to a customer, Cash or Accounts Receivable increases (a debit), and Sales Tax Payable increases (a credit), as does Sales (a credit). When the company remits the sales tax payment to the governing body, Sales Tax Payable decreases (a debit), as does Cash (a credit).</item>
+</list>
+</section>
+<section id="fs-idm395981344" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm386260816">
+<problem id="fs-idm387939360">
+<para id="fs-idm391987664"><link class="lo-reference" document="m67904"/>Nido Co. has a standing agreement with a supplier for purchasing car parts. The terms of the agreement are 3/15, n/30 from the invoice date of September 1. The company makes a purchase on September 1 for $5,000 and pays the amount due on September 13. What amount does Nido Co. pay in cash on September 13?</para>
+<list id="fs-idm403567408" list-type="enumerated" number-style="upper-alpha">
+<item>$5,000</item>
+<item>$4,850</item>
+<item>$150</item>
+<item>$4,250</item>
+</list>
+</problem>
+<solution id="fs-idm398416016">
+<para id="fs-idm394933168">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm378460400">
+<problem id="fs-idm387352352">
+<para id="fs-idm376630544"><link class="lo-reference" document="m67904"/>A client pays cash in advance for a magazine subscription to <emphasis effect="italics">Living Daily</emphasis>. <emphasis effect="italics">Living Daily</emphasis> has yet to provide the magazine to the client. What accounts would <emphasis effect="italics">Living Daily</emphasis> use to recognize this advance payment?</para>
+<list id="fs-idm378517600" list-type="enumerated" number-style="upper-alpha">
+<item>unearned subscription revenue, cash</item>
+<item>cash, subscription revenue</item>
+<item>subscription revenue, unearned subscription revenue</item>
+<item>unearned subscription revenue, subscription revenue, cash</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm403103296">
+<problem id="fs-idm401650160">
+<para id="fs-idm392041680"><link class="lo-reference" document="m67904"/>Lime Co. incurs a $4,000 note with equal principal installment payments due for the next eight years. What is the amount of the current portion of the noncurrent note payable due in the second year?</para>
+<list id="fs-idm394660256" list-type="enumerated" number-style="upper-alpha">
+<item>$800</item>
+<item>$1,000</item>
+<item>$500</item>
+<item>nothing, since this is a noncurrent note payable</item>
+</list>
+</problem>
+<solution id="fs-idm371386000">
+<para id="fs-idm403817952">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm401234528" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm386145280">
+<problem id="fs-idm389709984">
+<para id="fs-idm387242128"><link class="lo-reference" document="m67904"/>If Bergen Air Systems takes out a $100,000 loan, with eight equal principal payments due over the next eight years, how much will be accounted for as a current portion of a noncurrent note payable each year?</para>
+</problem>
+<solution id="fs-idm390581552">
+<para id="fs-idm385591840">$12,500</para>
+</solution>
+</exercise>
+<exercise id="fs-idm395056656">
+<problem id="fs-idm401779120">
+<para id="fs-idm389702400"><link class="lo-reference" document="m67904"/>What amount is payable to a state tax board if the original sales price is $3,000, and the tax rate is 3.5%?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm389830672">
+<problem id="fs-idm396201904">
+<para id="fs-idm386889392"><link class="lo-reference" document="m67904"/>What specific accounts are recognized when a business purchases equipment on credit?</para>
+</problem>
+<solution id="fs-idm386743968">
+<para id="fs-idm390220320">Accounts Payable and Equipment</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm398395504" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm387880176">
+<problem id="fs-idm385565008">
+<para id="fs-idm378574640"><link class="lo-reference" document="m67904"/>Review the following transactions and prepare any necessary journal entries for Olinda Pet Supplies.</para>
+<list id="fs-idm399644672" list-type="enumerated" number-style="upper-alpha">
+<item>On March 2, Olinda Pet Supplies receives advance cash payment from a customer for forty dog food dishes (from their Dish inventory), costing $25 each. Olinda had yet to supply the dog food bowls as of March 2.</item>
+<item>On April 4, Olinda provides all of the dog food bowls to the customer.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm391822400">
+<problem id="fs-idm386190176">
+<para id="fs-idm386238208"><link class="lo-reference" document="m67904"/>Review the following transactions and prepare any necessary journal entries for Tolbert Enterprises.</para>
+<list id="fs-idm390313696" list-type="enumerated" number-style="upper-alpha">
+<item>On April 7, Tolbert Enterprises contracts with a supplier to purchase 300 water bottles for their merchandise inventory, on credit, for $10 each. Credit terms are 2/10, n/60 from the invoice date of April 7.</item>
+<item>On April 15, Tolbert pays the amount due in cash to the supplier.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm399770224">
+<problem id="fs-idm399240496">
+<para id="fs-idm374876032"><link class="lo-reference" document="m67904"/>Elegant Electronics sells a cellular phone on September 2 for $450. On September 6, Elegant sells another cellular phone for $500. Sales tax is computed at 3.5% of the total sale. Prepare journal entries for each sale, including sales tax, and the remittance of all sales tax to the tax board on October 23.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm398329440">
+<problem id="fs-idm370194592">
+<para id="fs-idm402979344"><link class="lo-reference" document="m67904"/>Homeland Plus specializes in home goods and accessories. In order for the company to expand its business, the company takes out a long-term loan in the amount of $650,000. Assume that any loans are created on January 1. The terms of the loan include a periodic payment plan, where interest payments are accumulated each year but are only computed against the outstanding principal balance during that current period. The annual interest rate is 8.5%. Each year on December 31, the company pays down the principal balance by $80,000. This payment is considered part of the outstanding principal balance when computing the interest accumulation that also occurs on December 31 of that year.</para>
+<list id="fs-idm375956384" list-type="enumerated" number-style="upper-alpha">
+<item>Determine the outstanding principal balance on December 31 of the first year that is computed for interest.</item>
+<item>Compute the interest accrued on December 31 of the first year.</item>
+<item>Make a journal entry to record interest accumulated during the first year, but not paid as of December 31 of that first year.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm394769104">
+<problem id="fs-idm399932032">
+<para id="fs-idm400027136"><link class="lo-reference" document="m67904"/>Bhakti Games is a chain of board game stores. Record entries for the following transactions related to Bhakti’s purchase of inventory.</para>
+<list id="fs-idm394462112" list-type="enumerated" number-style="upper-alpha">
+<item>On October 5, Bhakti purchases and receives inventory from XYZ Entertainment for $5,000 with credit terms of 2/10 net 30.</item>
+<item>On October 7, Bhakti returns $1,000 worth of the inventory purchased from XYZ.</item>
+<item>Bhakti makes payment in full on its purchase from XYZ on October 14.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm402592784" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm388956352">
+<problem id="fs-idm381612800">
+<para id="fs-idm401239440"><link class="lo-reference" document="m67904"/>Review the following transactions and prepare any necessary journal entries for Bernard Law Offices.</para>
+<list id="fs-idm399726960" list-type="enumerated" number-style="upper-alpha">
+<item>On June 1, Bernard Law Offices receives an advance cash payment of $4,500 from a client for three months of legal services.</item>
+<item>On July 31, Bernard recognizes legal services provided.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm391977392">
+<problem id="fs-idm400209888">
+<para id="fs-idm394764928"><link class="lo-reference" document="m67904"/>Review the following transactions and prepare any necessary journal entries for Lands Inc.</para>
+<list id="fs-idm399208400" list-type="enumerated" number-style="upper-alpha">
+<item>On December 10, Lands Inc. contracts with a supplier to purchase 450 plants for its merchandise inventory, on credit, for $12.50 each. Credit terms are 4/15, n/30 from the invoice date of December 10.</item>
+<item>On December 28, Lands pays the amount due in cash to the supplier.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm389081840">
+<problem id="fs-idm370255312">
+<para id="fs-idm387642208"><link class="lo-reference" document="m67904"/>Monster Drinks sells twenty-four cases of beverages on October 18 for $120 per case. On October 25, Monster sells another thirty-five cases for $140 per case. Sales tax is computed at 4% of the total sale. Prepare journal entries for each sale, including sales tax, and the remittance of all sales tax to the tax board on November 5.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm400531648">
+<problem id="fs-idm378335200">
+<para id="fs-idm369694768"><link class="lo-reference" document="m67904"/>McMasters Inc. specializes in BBQ accessories. In order for the company to expand its business, they take out a long-term loan in the amount of $800,000. Assume that any loans are created on January 1. The terms of the loan include a periodic payment plan, where interest payments are accumulated each year but are only computed against the outstanding principal balance during that current period. The annual interest rate is 9%. Each year on December 31, the company pays down the principal balance by $50,000. This payment is considered part of the outstanding principal balance when computing the interest accumulation that also occurs on December 31 of that year.</para>
+<list id="fs-idm357028848" list-type="enumerated" number-style="upper-alpha">
+<item>Determine the outstanding principal balance on December 31 of the first year that is computed for interest.</item>
+<item>Compute the interest accrued on December 31 of the first year.</item>
+<item>Make a journal entry to record interest accumulated during the first year, but not paid as of December 31 of that first year.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm396091040" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm376447856">
+<problem id="fs-idm389835664">
+<para id="fs-idm395892608"><link class="lo-reference" document="m67904"/>Review the following transactions, and prepare any necessary journal entries for Renovation Goods.</para>
+<list id="fs-idm400503888" list-type="enumerated" number-style="upper-alpha">
+<item>On May 12, Renovation Goods purchases 750 square feet of flooring (Flooring Inventory) at $3.00 per square foot from a supplier, on credit. Terms of the purchase are 2/10, n/30 from the invoice date of May 12.</item>
+<item>On May 15, Renovation Goods purchases 200 measuring tapes (Tape Inventory) at $5.75 per tape from a supplier, on credit. Terms of the purchase are 4/15, n/60 from the invoice date of May 15.</item>
+<item>On May 22, Renovation Goods pays cash for the amount due to the flooring supplier from the May 12 transaction.</item>
+<item>On June 3, Renovation Goods pays cash for the amount due to the tape supplier from the May 15 transaction.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm389166144">
+<problem id="fs-idm389698816">
+<para id="fs-idm394985312"><link class="lo-reference" document="m67904"/>Review the following transactions, and prepare any necessary journal entries for Juniper Landscaping Services.</para>
+<list id="fs-idm394663120" list-type="enumerated" number-style="upper-alpha">
+<item>On November 5, Juniper receives advance cash payment from a customer for landscaping services in the amount of $3,500. Juniper had yet to provide landscaping services as of November 5.</item>
+<item>On December 11, Juniper provides all of the landscaping services to the customer from November 5.</item>
+<item>On December 14, Juniper receives advance payment from another customer for landscaping services in the amount of $4,400. Juniper has yet to provide landscaping services as of December 14.</item>
+<item>On January 19 of the following year, Juniper provides and recognizes 80% of landscaping services to the customer from December 14.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm374787904">
+<problem id="fs-idm387042832">
+<para id="fs-idm399174480"><link class="lo-reference" document="m67904"/>Review the following transactions, and prepare any necessary journal entries.</para>
+<list id="fs-idm403786704" list-type="enumerated" number-style="upper-alpha">
+<item>On July 16, Arrow Corp. purchases 200 computers (Equipment) at $500 per computer from a supplier, on credit. Terms of the purchase are 4/10, n/50 from the invoice date of July 16.</item>
+<item>On August 10, Hondo Inc. receives advance cash payment from a client for legal services in the amount of $9,000. Hondo had yet to provide legal services as of August 10.</item>
+<item>On September 22, Jack Pies sells thirty pies for $25 cash per pie. The sales tax rate is 8%.</item>
+<item>On November 8, More Supplies paid a portion of their noncurrent note in the amount of $3,250 cash.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm370592320" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm403635920">
+<problem id="fs-idm391424496">
+<para id="fs-idm378434496"><link class="lo-reference" document="m67904"/>Review the following transactions, and prepare any necessary journal entries for Sewing Masters Inc.</para>
+<list id="fs-idm378702832" list-type="enumerated" number-style="upper-alpha">
+<item>On October 3, Sewing Masters Inc. purchases 800 yards of fabric (Fabric Inventory) at $9.00 per yard from a supplier, on credit. Terms of the purchase are 1/5, n/40 from the invoice date of October 3.</item>
+<item>On October 8, Sewing Masters Inc. purchases 300 more yards of fabric from the same supplier at an increased price of $9.25 per yard, on credit. Terms of the purchase are 5/10, n/20 from the invoice date of October 8.</item>
+<item>On October 18, Sewing Masters pays cash for the amount due to the fabric supplier from the October 8 transaction.</item>
+<item>On October 23, Sewing Masters pays cash for the amount due to the fabric supplier from the October 3 transaction.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm391722384">
+<problem id="fs-idm374890496">
+<para id="fs-idm374990384"><link class="lo-reference" document="m67904"/>Review the following transactions and prepare any necessary journal entries for <emphasis effect="italics">Woodworking Magazine</emphasis>. <emphasis effect="italics">Woodworking Magazine</emphasis> provides one issue per month to subscribers for a service fee of $240 per year. Assume January 1 is the first day of operations for this company, and no new customers join during the year.</para>
+<list id="fs-idm389075216" list-type="enumerated" number-style="upper-alpha">
+<item>On January 1, <emphasis effect="italics">Woodworking Magazine</emphasis> receives advance cash payment from forty customers for magazine subscription services. Handyman had yet to provide subscription services as of January 1.</item>
+<item>On April 30, <emphasis effect="italics">Woodworking</emphasis> recognizes subscription revenues earned.</item>
+<item>On October 31, <emphasis effect="italics">Woodworking</emphasis> recognizes subscription revenues earned.</item>
+<item>On December 31, <emphasis effect="italics">Woodworking</emphasis> recognizes subscription revenues earned.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm400024064">
+<problem id="fs-idm367636704">
+<para id="fs-idm388840720"><link class="lo-reference" document="m67904"/>Review the following transactions and prepare any necessary journal entries.</para>
+<list id="fs-idm378611520" list-type="enumerated" number-style="upper-alpha">
+<item>On January 5, Bunnet Co. purchases 350 aprons (Supplies) at $25 per apron from a supplier, on credit. Terms of the purchase are 3/10, n/30 from the invoice date of January 5.</item>
+<item>On February 18, Melon Construction receives advance cash payment from a client for construction services in the amount of $20,000. Melon had yet to provide construction services as of February 18.</item>
+<item>On March 21, Noonan Smoothies sells 875 smoothies for $4 cash per smoothie. The sales tax rate is 6.5%.</item>
+<item>On June 7, Organic Methods paid a portion of their noncurrent note in the amount of $9,340 cash.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm401072208" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm402452976">
+<problem id="fs-idm399934080">
+<para id="fs-idm372091008"><link class="lo-reference" document="m67904"/>Review <link document="m67903" target-id="fs-idm269604560"/>. Review current season ticket prices for one Major League Baseball team. Choose one season ticket price area to review.</para>
+<list id="fs-idm402614016" list-type="enumerated" number-style="upper-alpha">
+<item>Determine what is recognized as per ticket revenue after each game is played for your chosen season ticket price area. Assume an equal amount is distributed per game. Do not include playoff games or preseason games in your computations. If parking and other amenities are factored into the season ticket price, please continue to include them in your calculations.</item>
+<item>Determine an average attendance figure for this team during the 2016 season for all seating areas, and per game (assume equal distribution of game attendance), and use this as a projection for future attendance. You may use Ballparks of Baseball http://www.ballparksofbaseball.com/2010s-ballpark-attendance/ for attendance figures.</item>
+<item>Assume that attendance is distributed equally between all season ticket areas. Determine the attendance for your season ticket area for the season and per game.</item>
+<item>Determine the total unearned ticket revenue amount before the season begins. Assume all season ticket holders paid with cash, in full.</item>
+<item>Prepare the journal entry to recognize unearned ticket revenue at the beginning of the season for your chosen season ticket area. Assume all seats are filled by season ticket holders. Show any support calculations and documentation used.</item>
+<item>Prepare the journal entry to recognize ticket revenue earned after the first game is played in your chosen season ticket area.</item>
+<item>Suppose the team only records revenues every three months (at the end of each month), record the journal entry to recognize the first three months of ticket revenue earned during the season in your chosen season ticket area.</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+</document>

@@ -1,0 +1,448 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Prepare Operating Budgets</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68065</md:content-id>
+  <md:title>Prepare Operating Budgets</md:title>
+  <md:abstract/>
+  <md:uuid>edc110e4-e816-44f4-9e36-f8252827b197</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm206707120"><term class="no-emphasis">Operating budgets</term> are a primary component of the master budget and involve examining the expectations for the primary operations of the business. Assumptions such as sales in units, sales price, manufacturing costs per unit, and direct material needed per unit involve a significant amount of time and input from various parts of the organization. It is important to obtain all of the information, however, because the more accurate the information, the more accurate the resulting budget, and the more likely management is to effectively monitor and achieve its budget goals.</para>
+<section id="fs-idm216301232">
+<title>Individual Operating Budgets</title>
+<para id="fs-idm159716608">In order for an organization to align the budget with the strategic plan, it must budget for the day-to-day operations of the business. This means the company must understand when and how many sales will occur, as well as what expenses are required to generate those sales. In short, each component—sales, production, and other expenses—must be properly budgeted to generate the operating budget components and the resulting pro-forma budgeted income statement.</para>
+<para id="fs-idm198285488">The budgeting process begins with the estimate of sales. When management has a solid estimate of sales for each quarter, month, week, or other relevant time period, they can determine how many units must be produced. From there, they determine the expenditures, such as direct materials necessary to produce the units. It is critical for the sales estimate to be accurate so that management knows how many units to produce. If the estimate is understated, the company will not have enough inventory to satisfy customers, and they will not have ordered enough material or scheduled enough direct labor to manufacture more units. Customers may then shop somewhere else to meet their needs. Likewise, if sales are overestimated, management will have purchased more material than necessary and have a larger labor force than needed. This overestimate will cause management to have spent more cash than was necessary.</para>
+<section id="fs-idm467524368">
+<title>Sales Budget</title>
+<para id="fs-idm200895648">The <term>sales budget</term> details the expected sales in units and the sales price for the budget period. The information from the sales budget is carried to several places in the master budget. It is used to determine how many units must be produced as well as when and how much cash will be collected from those sales.</para>
+<para id="fs-idm208663232">For example, Big Bad Bikes used information from competitor sales, its marketing department, and industry trends to estimate the number of units that will be sold in each quarter of the coming year. The number of units is multiplied by the sales price to determine the sales by quarter as shown in <link target-id="OSX_Acct_M07_02_BBBSales"/>.</para>
+<figure id="OSX_Acct_M07_02_BBBSales">
+<media id="fs-idm215471200" alt="Big Bad Bikes, Sales budget, For the Year Ending December 31, 2019, Quarter 1, Quarter 2, Quarter 3, Quarter 4, and Total (respectively): Expected Sales (units), 1,000, 1,000, 1,500, 2,500, 6,000; Sales price per unit, $70, 70, 75, 75; Total sales revenue, $70,000, 70,000, 112,500, 187,500, $440,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_BBBSales.jpg"/>
+</media>
+<caption>Sales Budget for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm177618000">The sales budget leads into the production budget to determine how many units must be produced each week, month, quarter, or year. It also leads into the cash receipts budget, which will be discussed in <link document="m68066">Prepare Financial Budgets</link>.</para>
+</section>
+<section id="fs-idm203505728">
+<title>Production Budget</title>
+<para id="fs-idm184142128">Estimating sales leads to identifying the desired quantity of inventory to meet the demand. Management wants to have enough inventory to meet production, but they do not want too much in the ending inventory to avoid paying for unnecessary storage. Management often uses a formula to estimate how much should remain in ending inventory. Management wants to be flexible with its budgeting, wants to create budgets that can grow or shrink as needed, and needs to have inventory on hand. So the amount of ending inventory often is a percentage of the next week’s, month’s, or quarter’s sales.</para>
+<para id="fs-idm183713600">In creating the production budget, a major issue is how much inventory should be on hand. Having inventory on hand helps the company avoid losing a customer because the product isn’t available. However, there are storage costs associated with holding inventory as well as having a lag time between paying to manufacture a product and receiving cash from selling that product. Management must balance the two issues and determine the amount of inventory that should be available.</para>
+<para id="fs-idm199752000">When determining the number of units needed to be produced, start with the estimated sales plus the desired ending inventory to derive the maximum number of units that must be available during the period. Since the number of units in beginning inventory are already produced, subtracting the beginning inventory from the goods available results in the number of units that need to be produced.</para>
+<para id="fs-idm200832128">After management has estimated how many units will sell and how many units need to be in ending inventory, it develops the <term>production budget</term> to compute the number of units that need to be produced during each quarter. The formula is the reverse of the formula for the cost of goods sold.</para>
+<media id="fs-idm206753712" class="scaled-down" alt="Cost of Goods Sold equals Beginning Inventory plus Purchases (or produced) to get Goods available for sale minus Ending inventory; Number of Units to Produce equals Projected Goods Sold plus Ending Inventory Needed to get Goods available for sale minus Beginning inventory.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_ProdBd_img.jpg"/>
+</media>
+<para id="fs-idm174763200">The number of units expected to be sold plus the desired ending inventory equals the number of units that are available. When the beginning inventory is subtracted from the number of units available, management knows how many units must be produced during that quarter to meet sales.</para>
+<para id="fs-idm178884256">In a merchandising firm, retailers do not produce their inventory but purchase it. Therefore, stores such as <emphasis class="colored-text">Walmart</emphasis> do not have raw materials and instead substitute the number of units to be purchased in place of the number of units to be produced; the result is the merchandise inventory to be purchased.</para>
+<para id="fs-idm203296112">To illustrate the steps in developing a production budget, recall that Big Bad Bikes is introducing a new product that the marketing department thinks will have strong sales. For new products, Big Bad Bikes requires a target ending inventory of 30% of the next quarter’s sales. Unfortunately, they were unable to manufacture any units before the end of the current year, so the first quarter’s beginning inventory is 0 units. As shown in <link target-id="OSX_Acct_M07_02_BBBSales"/>, sales in quarter 2 are estimated at 1,000 units; since 30% is required to be in ending inventory, the ending inventory for quarter 1 needs to be 300 units. With expected sales of 1,000 units for quarter 2 and a required ending inventory of 30%, or 300 units, Big Bad Bikes needs to have 1,300 units available during the quarter. Since 1,300 units needed to be available and there are zero units in beginning inventory, Big Bad Bikes needs to manufacture 1,300 units, as shown in <link target-id="OSX_Acct_M07_02_BBBProd"/></para>
+<figure id="OSX_Acct_M07_02_BBBProd">
+<media id="fs-idm203554000" alt="Big Bad Bikes, Production Budget, For the Year Ending December 31, 2019, Quarter 1, Quarter 2, Quarter 3, Quarter 4 (respectively): Expected Sales, 1,000, 1,000, 1,500, 2,500, 6,000; Plus Desired ending inventory, 300, 450, 750, 1,050; Equals Total required units, 1,300, 1,450, 2,250, 3,550; Less: beginning inventory, 0, 300, 450, 750; Required production, 1,300, 1,150, 1,800, 2,800.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_BBBProd.jpg"/>
+</media>
+<caption>Production Budget for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm220309872">The ending inventory from one quarter is the beginning inventory for the next quarter and the calculations are all the same. In order to determine the ending inventory in quarter 4, Big Bad Bikes must estimate the sales for the first quarter of the next year. Big Bad Bikes’s marketing department believes sales will increase in each of the next several quarters, and they estimate sales as 3,500 for the first quarter of the next year and 4,500 for the second quarter of the next year. Thirty percent of 3,500 is 1,050, so the number of units required in the ending inventory for quarter 4 is 1,050.</para>
+<para id="fs-idm212993088">The number of units needed in production for the first quarter of the next year provides information needed for other budgets such as the direct materials budget, so Big Bad Bikes must also determine the number of units needed in production for that first quarter. The estimated sales of 3,500 and the desired ending inventory of 1,350 (30% of the next quarter’s estimated sales of 4,500) determines that 4,850 units are required during the quarter. The beginning inventory is estimated to be 1,050, which means the number of units that need to be produced during the first quarter of year 2 is 3,800.</para>
+<para id="fs-idm169629056">The number of units needed to be produced each quarter was computed from the estimated sales and is used to determine the quantity of direct or raw material to purchase, to schedule enough direct labor to manufacture the units, and to approximate the overhead required for production. It is also necessary to estimate the sales for the first quarter of the next year. The ending inventory for the current year is based on the sales estimates for the first quarter of the following year. From this amount, the production budget and direct materials budget are calculated and flow to the operating and cash budget.</para>
+</section>
+<section id="fs-idm208671616">
+<title>Direct Materials Budget</title>
+<para id="fs-idm225061504">From the production budget, management knows how many units need to be produced in each budget period. Management is already aware of how much material it needs to produce each unit and can combine the direct material per unit with the production budget to compute the <term>direct materials budget</term>. This information is used to ensure the correct quantity of materials is ordered and the correct amount is budgeted for those materials.</para>
+<para id="fs-idm179000864">Similar to the production budget, management wants to have an ending inventory available to ensure there are enough materials on hand. The direct materials budget illustrates how much material needs to be ordered and how much that material costs. The calculation is similar to that used in the production budget, with the addition of the cost per unit.</para>
+<para id="fs-idm159619872">If Big Bad Bikes uses 3.2 pounds of material for each trainer it manufactures and each pound of material costs $1.25, we can create a direct materials budget. Management’s goal is to have 20% of the next quarter’s material needs on hand as the desired ending materials inventory. Therefore, the determination of each quarter’s material needs is partially dependent on the following quarter’s production requirements. The desired ending inventory of material is readily determined for quarters 1 through 3 as those needs are based on the production requirements for quarters 2 through 4. To compute the desired ending materials inventory for quarter 4, we need the production requirements for quarter 1 of year 2. Recall that the number of units to be produced during the first quarter of year 2 is 3,800. Thus, quarter 4 materials ending inventory requirement is 20% of 3,800. That information is used to compute the direct materials budget shown in <link target-id="OSX_Acct_M07_02_BBBMatBud"/>.</para>
+<figure id="OSX_Acct_M07_02_BBBMatBud">
+<media id="fs-idm214503568" alt="Big Bad Bikes, Direct Materials Budget, For the Year Ending December 31, 2019, Quarter 1, Quarter 2, Quarter 3, Quarter 4, and Total (respectively): Units to be produced, 1,300, 1,150, 1,800, 2,800, 7,050; Times Direct material per unit, 3.20 3.20 3.20 3.20 3.20; Total pounds needed for production, 4,160, 3,680, 5,760, 8,960, 22,560; Plus Desired ending inventory, 736, 1,152, 1,792, 2,432, 2,432; Equals Total material required, 4,876, 4,832, 7,552, 11,392, 24,992; Less beginning inventory, 0, 736, 1,152, 1,792, 0; Equals Pounds of direct material required, 4,896, 4,096, 6,400, 9,600, 24,992; Cost per pound, $1.25, 1.25, 1.25, 1.25, 1.25; Total cost of direct material purchase, $6,120, 5,120, 8,000, 12,000, 31,240.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_BBBMatBud.jpg"/>
+</media>
+<caption>Direct Materials Budget for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm491425616">Management knows how much the materials will cost and integrates this information into the schedule of expected cash disbursements, which will be shown in <link document="m68066">Prepare Financial Budgets</link>. This information will also be used in the budgeted income statement and on the budgeted balance sheet. With 6,000 units estimated for sale, 3.2 pounds of material per unit, and $1.25 per pound, the direct materials used represent $24,000 of the cost of goods sold. The remaining $7,240 is included in ending inventory as units completed and raw material.</para>
+</section>
+<section id="fs-idm203468768">
+<title>Direct Labor Budget</title>
+<para id="fs-idm480279312">Management uses the same information in the production budget to develop the <term>direct labor budget</term>. This information is used to ensure that the proper amount of staff is available for production and that there is money available to pay for the labor, including potential overtime. Typically, the number of hours is computed and then multiplied by an hourly rate, so the total direct labor cost is known.</para>
+<para id="fs-idm177948688">If Big Bad Bikes knows that they need 45 minutes or 0.75 hours of direct labor for each unit produced, and the labor rate for this type of manufacturing is $20 per hour, the computation for direct labor simply begins with the number of units in the production budget. As shown in <link target-id="OSX_Acct_M07_02_BBBDirLab"/>, the number of units produced each quarter multiplied by the number of hours per unit equals the required direct labor hours needed to be scheduled in order to meet production needs. The total number of hours is next multiplied by the direct labor rate per hour, and the labor cost can be budgeted and used in the cash disbursement budget and operating budget illustrated in <link document="m68066">Prepare Financial Budgets</link>.</para>
+<figure id="OSX_Acct_M07_02_BBBDirLab">
+<media id="fs-idm197983888" alt="Big Bad Bikes, Direct Labor Budget, For the Year Ending December 31, 2019, Quarter 1, Quarter 2, Quarter 3, Quarter 4, and Total (respectively): Units to be produced, 1,300, 1,150, 1,800, 2,800, 7,050; Times Direct labor hours per unit, .75, .75, .75, .75, .75; Total required direct labor hours, 975, 862.50, 1,350, 2,100, 5,287.50; Labor cost per hour, $20, 20, 20, 20, 20; Total direct labor cost, $19,500, 17,250, 27,000, 42,000, 105,750.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_BBBDirLab.jpg"/>
+</media>
+<caption>Direct Labor Budget for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm212903664">The direct labor of $105,750 will be apportioned to the budgeted income statement and budgeted balance sheet. With 0.75 hours of direct labor per unit and $20 per direct labor hour, each unit will cost $15 in direct labor. Of the 7,050 units produced, 6,000 units will be sold, so $90,000 represents the labor portion of the cost of goods sold and will be shown on the income statement, while the remaining $15,750 will be the labor portion of ending inventory and will be shown on the balance sheet.</para>
+</section>
+<section id="fs-idm195954784">
+<title>Manufacturing Overhead Budget</title>
+<para id="fs-idm183012384">The <term>manufacturing overhead budget</term> includes the remainder of the production costs not covered by the direct materials and direct labor budgets. In the manufacturing overhead budgeting process, producers will typically allocate overhead costs depending upon their cost behavior production characteristics, which are generally classified as either variable or fixed. Based on this allocation process, the variable component will be treated as occurring proportionately in relation to budgeted activity, while the fixed component will be treated as remaining constant. This process is similar to the overhead allocation process you learned in studying product, process, or activity-based costing.</para>
+<para id="fs-idm211758944">For Big Bad Bikes to create their manufacturing overhead budget, they first determine that the appropriate driver for assigning overhead costs to products is direct labor hours. The overhead allocation rates for the variable overhead costs are: indirect material of $1.00 per hour, indirect labor of $1.25 per hour, maintenance of $0.25 per hour, and utilities of $0.50 per hour. The fixed overhead costs per quarter are: supervisor salaries of $15,000, fixed maintenance salaries of $4,000, insurance of $7,000, and depreciation expenses of $3,000.</para>
+<para id="fs-idm159614752">Given the direct labor hours for each quarter from the direct labor budget, the variable costs are the number of hours multiplied by the variable overhead application rate. The fixed costs are the same for each quarter, as shown in the manufacturing overhead budget in <link target-id="OSX_Acct_M07_02_BBBmfgOH"/>.</para>
+<figure id="OSX_Acct_M07_02_BBBmfgOH">
+<media id="fs-idm199171920" alt="Big Bad Bikes, Manufacturing Overhead Budget, For the Year Ending December 31, 2019, Quarter 1, Quarter 2, Quarter 3, Quarter 4, and Total (respectively): Variable costs: Indirect material, 975, 863, 1,350, 2,100, 5,288; Indirect labor, 1,219, 1,078, 1,688, 2,625, 6,609; Maintenance, 244, 216, 338, 525, 1,322; Utilities, 488, 431, 675, 1,050, 2,644; Total variable manufacturing costs, $2,925, 2,588, 4,050, 6,300, 15,863; Fixed costs (same for each quarter): Supervisory salaries $15,000, Maintenance salaries 4,000, Insurance 7,000, Depreciation 3,000; Total fixed manufacturing costs $29,000. Total fixed costs for the year are 60,000, 16,000, 28,000, 12,000, respectively. Total manufacturing overhead, $31,925, 31,588, 33,050, 35,300, 131,863.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_BBBmfgOH.jpg"/>
+</media>
+<caption>Manufacturing Overhead Budget for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm207337296">The total manufacturing overhead cost was $131,863 for 7,050 units, or $18.70 per unit (rounded). Since 6,000 units are sold, $112,200 (6,000 units × $18.70 /unit) will be expensed as cost of goods sold, while the remaining $19,663 will be part of finished goods ending inventory.</para>
+</section>
+<section id="fs-idm203749184">
+<title>Sales and Administrative Expenses Budget</title>
+<para id="fs-idm195314384">The direct materials budget, the direct labor budget, and the manufacturing overhead budget plan for all costs related to production, while the <term>selling and administrative expense budget</term> contains a listing of variable and fixed expenses estimated to be incurred in all areas other than production costs. While this one budget contains all nonmanufacturing expenses, in practice, it actually comprises several small budgets created by managers in sales and administrative positions. All managers must follow the budget, but setting an appropriate budget for selling and administrative functions is complicated and is not always thoroughly understood by managers without a background in managerial accounting.</para>
+<para id="fs-idm222104304">If Big Bad Bikes pays a sales commission of $2 per unit sold and a transportation cost of $0.50 per unit, they can use these costs to put together their sales and administrative budget. All other costs are fixed costs per quarter: sales salaries of $5,000; administrative salaries of $5,000; marketing expenses of $5,000; insurance of $1,000; and depreciation of $2,000. The sales and administrative budget is shown in <link target-id="OSX_Acct_M07_02_BBBsaOH"/>, along with the budgeted sales used in the computation of variable sales and administrative expenses.</para>
+<figure id="OSX_Acct_M07_02_BBBsaOH">
+<media id="fs-idm220986784" alt="Big Bad Bikes, Sales and Administrative Budget, For the Year Ending December 31, 2019, Quarter 1, Quarter 2, Quarter 3, Quarter 4, and Total (respectively): Budgeted sales in units, 1,000, 1,000, 1,500, 2,500, 6,000; Variable expenses: Sales commissions, 2,000, 2,000, 3,000, 5,000, 12,000; Transportation, 500, 500, 750, 1,250, 3,000; Total variable expenses $2,500, 2,500, 3,750, 6,250, 15,000; Fixed Expenses (same for each quarter): Sales salaries $5,000, Administrative salaries 5,000, Marketing expenses 5,000, Insurance expenses 1,000, Depreciation expenses 2,000 for a total of $18,000. Total fixed expenses for the year are 20,000, 20,000, 20,000, 4,000, 8,000, 72,000 respectively. Total selling and administrative expenses, 20,500, 20,500, 21,750, 24,250, 87,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_BBBsaOH.jpg"/>
+</media>
+<caption>Sales and Administrative Expense Budget for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm200011984">Only manufacturing costs are treated as a product cost and included in ending inventory, so all of the expenses in the sales and administrative budget are period expenses and included in the budgeted income statement.</para>
+</section>
+<section id="fs-idm196481104">
+<title>Budgeted Income Statement</title>
+<para id="fs-idm194595664">A <term>budgeted income statement</term> is formatted similarly to a traditional income statement except that it contains budgeted data. Once all of the operating budgets have been created, these costs are used to prepare a budgeted income statement and budgeted balance sheet. The manufacturing costs are allocated to the cost of goods sold and the ending inventory.</para>
+<para id="fs-idm486620896">Big Bad Bikes uses the information on direct materials (<link target-id="OSX_Acct_M07_02_BBBMatBud"/>), direct labor (<link target-id="OSX_Acct_M07_02_BBBDirLab"/>), and manufacturing overhead (<link target-id="OSX_Acct_M07_02_BBBmfgOH"/>) to allocate the manufacturing costs between the cost of goods sold and the ending work in process inventory, as shown in (<link target-id="OSX_Acct_M07_02_BBBcgsEI"/>).</para>
+<figure id="OSX_Acct_M07_02_BBBcgsEI">
+<media id="fs-idm216043824" alt="Cost of Goods Sold, Ending Inventory, and Total (respectively): Direct materials $24,000, 7,240, 31,240; Direct labor 90,000, 15,750, 105,750; Manufacturing overhead 112,224, 19,639, 131,863; Total 226,224, 42,629, 268,853.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_BBBcgsEI.jpg"/>
+</media>
+<caption>Allocating Costs to Cost of Goods Sold and Ending Work in Process Inventory for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm490961696">Once they perform this allocation, the budgeted income statement can be prepared. Big Bad Bikes estimates an interest of $954. It also estimates that $22,000 of its income will not be collected and will be reported as uncollectible expense. The budgeted income statement is shown in <link target-id="OSX_Acct_M07_02_BBBBudgInc"/>.</para>
+<figure id="OSX_Acct_M07_02_BBBBudgInc" class="scaled-down">
+<media id="fs-idm223215872" alt="Big Bad Bikes, Budgeted Income Statement, For the Year Ending December 31, 2019: Sales, $440,000 plus cost of goods sold $226,224 equals gross profit $213,776; Less: sales and administrative expenses $87,000 and uncollectible expense $22,000 equals income before interest $104,776; Less: interest expense $954 and income tax $4,000 equals net income $99,822.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_BBBBudgInc.jpg"/>
+</media>
+<caption>Budgeted Income Statement for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm215901008" class="think-through">
+<title>Errors in a Budgeted Balance Sheet</title>
+<para id="fs-idm215107968">Which error has the potential to cause more problems with the budgeted balance sheet: overstating sales or understating the cash collected?</para>
+</note>
+</section>
+</section>
+<section id="fs-idm216189104" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm198224352" list-type="bulleted" bullet-style="bullet">
+<item>The sales budget is the first budget developed, and the estimated sales in turn guide the production budget.</item>
+<item>The production budget shows the quantity of goods produced for each time period and leads to computing when and how much direct material needs to be ordered, when and how much labor needs to be scheduled, and when and how much manufacturing overhead needs to be planned.</item>
+<item>The sales and administrative budget plans for the nonmanufacturing expenses.</item>
+<item>All operating budgets combine to develop the budgeted income statement.</item>
+</list>
+</section>
+<section id="fs-idm195307232" class="multiple-choice">
+<exercise id="fs-idm213422192">
+<problem id="fs-idm197102848">
+<para id="fs-idm215047712"><link class="lo-reference" document="m68065"/>Which of the operating budgets is prepared first?</para>
+<list id="fs-idm224373840" list-type="enumerated" number-style="upper-alpha">
+<item>production budget</item>
+<item>sales budget</item>
+<item>cash received budget</item>
+<item>cash payments budget</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm223830944">
+<problem id="fs-idm199609584">
+<para id="fs-idm199522672"><link class="lo-reference" document="m68065"/>The direct materials budget is prepared using which budget’s information?</para>
+<list id="fs-idm199240880" list-type="enumerated" number-style="upper-alpha">
+<item>cash payments budget</item>
+<item>cash receipts budget</item>
+<item>production budget</item>
+<item>raw materials budget</item>
+</list>
+</problem>
+<solution id="fs-idm199001680">
+<para id="fs-idm196310400">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm214782720">
+<problem id="fs-idm177176416">
+<para id="fs-idm196267024"><link class="lo-reference" document="m68065"/>Which of the following is <emphasis effect="italics">not</emphasis> an operating budget?</para>
+<list id="fs-idm205179968" list-type="enumerated" number-style="upper-alpha">
+<item>sales budget</item>
+<item>production budget</item>
+<item>direct labor budget</item>
+<item>cash budget</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm481549280">
+<problem id="fs-idm205347424">
+<para id="fs-idm195349424"><link class="lo-reference" document="m68065"/>Which of the following statements is <emphasis effect="italics">not</emphasis> correct?</para>
+<list id="fs-idm196573168" list-type="enumerated" number-style="upper-alpha">
+<item>The sales budget is computed by multiplying estimated sales by the sales price.</item>
+<item>The production budget begins with the sales estimated for each period.</item>
+<item>The direct materials budget begins with the sales estimated for each period.</item>
+<item>The sales budget is typically the first budget prepared.</item>
+</list>
+</problem>
+<solution id="fs-idm217636320">
+<para id="fs-idm225644592">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm219964864">
+<problem id="fs-idm219763776">
+<para id="fs-idm209111680"><link class="lo-reference" document="m68065"/>The units required in production each period are computed by which of the following methods?</para>
+<list id="fs-idm199080896" list-type="enumerated" number-style="upper-alpha">
+<item>adding budgeted sales to the desired ending inventory and subtracting beginning inventory</item>
+<item>adding beginning inventory, budgeted sales, and desired ending inventory</item>
+<item>adding beginning inventory to budgeted sales and subtracting desired ending inventory</item>
+<item>adding budgeted sales to the beginning inventory and subtracting the desired ending inventory.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm196971776" class="questions">
+<exercise id="fs-idm207778960">
+<problem id="fs-idm224085760">
+<para id="fs-idm218636304"><link class="lo-reference" document="m68065"/>What information is necessary for the operating budgets?</para>
+</problem>
+<solution id="fs-idm220533648">
+<para id="fs-idm218878176">Operating budgets plan the primary operations of the business and need accurate information in order to provide accurate planning. Assumptions such as sales in units, sales price, desired ending inventory in units, manufacturing costs per unit, which include direct material needed per unit, desired direct materials ending inventory, amount of direct labor hours and rate, and the overhead required for production and managing the company.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm199583104">
+<problem id="fs-idm195452592">
+<para id="fs-idm220386928"><link class="lo-reference" document="m68065"/>What operating budget exists for manufacturing but not for a retail company?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm217821216" class="exercise-set-a">
+<exercise id="fs-idm217631552">
+<problem id="fs-idm211748064">
+<para id="fs-idm214997392"><link class="lo-reference" document="m68065"/>Blue Book printing is budgeting sales of 25,000 units and already has 5,000 units in beginning inventory. How many units must be produced to also meet the 7,000 units required in ending inventory?</para></problem>
+</exercise>
+<exercise id="fs-idm203503600">
+<problem id="fs-idm494947008">
+<para id="fs-idm217600608"><link class="lo-reference" document="m68065"/>How many units are in beginning inventory if 32,000 units are budgeted for sales, 35,000 units are produced, and the desired ending inventory is 9,000 units?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm175077776">
+<problem id="fs-idm208772816">
+<para id="fs-idm218927360"><link class="lo-reference" document="m68065"/>Navigator sells GPS trackers for $50 each. It expects sales of 5,000 units in quarter 1 and a 5% increase each subsequent quarter for the next 8 quarters. Prepare a sales budget by quarter for the first year.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm160223584">
+<problem id="fs-idm196546336">
+<para id="fs-idm208684800"><link class="lo-reference" document="m68065"/>One Device makes universal remote controls and expects to sell 500 units in January, 800 in February, 450 in March, 550 in April, and 600 in May. The required ending inventory is 20% of the next month’s sales. Prepare a production budget for the first four months of the year.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm223440768">
+<problem id="fs-idm196428528">
+<para id="fs-idm196691440"><link class="lo-reference" document="m68065"/>Sunrise Poles manufactures hiking poles and is planning on producing 4,000 units in March and 3,700 in April. Each pole requires a half pound of material, which costs $1.20 per pound. The company’s policy is to have enough material on hand to equal 10% of the next month’s production needs and to maintain a finished goods inventory equal to 25% of the next month’s production needs. What is the budgeted cost of purchases for March?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm200680368">
+<problem id="fs-idm187834480">
+<para id="fs-idm194726752"><link class="lo-reference" document="m68065"/>Given the following information from Rowdy Enterprises’ direct materials budget, how much direct materials needs to be purchased?</para>
+<media id="fs-idm200823872" class="scaled-down-30" alt="Beginning materials inventory $75,800, Ending materials inventory 79,200, Materials needed for production 500,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_EA06_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm213492528">
+<problem id="fs-idm197133904">
+<para id="fs-idm217184160"><link class="lo-reference" document="m68065"/>Each unit requires direct labor of 2.2 hours. The labor rate is $11.50 per hour and next year’s direct labor budget totals $834,900. How many units are included in the production budget for next year?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm222496288">
+<problem id="fs-idm213022944">
+<para id="fs-idm194624176"><link class="lo-reference" document="m68065"/>How many units are estimated to be sold if Skyline, Inc., has a planned production of 900,000 units, a desired beginning inventory of 160,000 units, and a desired ending inventory of 100,000 units?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm214631872" class="exercise-set-b">
+<exercise id="fs-idm177868016">
+<problem id="fs-idm216289408">
+<para id="fs-idm197934736"><link class="lo-reference" document="m68065"/>Lovely Wedding printing is budgeting sales of 32,000 units and already has 4,000 in beginning inventory. How many units must be produced to also meet the 6,000 units required in ending inventory?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm225473904">
+<problem id="fs-idm207460512">
+<para id="fs-idm210134960"><link class="lo-reference" document="m68065"/>How many units are in beginning inventory if 32,000 units are budgeted for sales, 35,000 units are produced, and the desired ending inventory is 9,000 units?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm163045152">
+<problem id="fs-idm215502816">
+<para id="fs-idm225538080"><link class="lo-reference" document="m68065"/>Barnstormer sells airplane accessories for $20 each. It expects sales of 120,000 units in quarter 1 and a 7% increase each subsequent quarter for the next 8 quarters. Prepare a sales budget by quarter for the first year.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm219855344">
+<problem id="fs-idm201428048">
+<para id="fs-idm218947808"><link class="lo-reference" document="m68065"/>Rehydrator makes a nutrition additive and expects to sell 3,000 units in January, 2,000 in February, 2,500 in March, 2,700 in April, and 2,900 in May. The required ending inventory is 20% of the next month’s sales, and the beginning inventory on January 1 was 600 units. Prepare a production budget for the first four months of the year.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm217410512">
+<problem id="fs-idm221077024">
+<para id="fs-idm214547728"><link class="lo-reference" document="m68065"/>Cloud Shoes manufactures recovery sandals and is planning on producing 12,000 units in March and 11,500 in April. Each sandal requires 1.2 yards if material, which costs $3.00 per yard. The company’s policy is to have enough material on hand to equal 15% of next month’s production needs and to maintain a finished goods inventory equal to 20% of the next month’s production needs. What is the budgeted cost of purchases for March?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm200612112">
+<problem id="fs-idm199146208">
+<para id="fs-idm217809616"><link class="lo-reference" document="m68065"/>Given the following information from Power Enterprises’ direct materials budget, how much direct materials needs to be purchased?</para>
+<media id="fs-idm210131776" class="scaled-down-30" alt="Beginning materials inventory $101,200, Ending materials inventory 105,300, Materials needed for production 890,250.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_EB06_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm203776736">
+<problem id="fs-idm208675584">
+<para id="fs-idm211737040"><link class="lo-reference" document="m68065"/>Each unit requires direct labor of 4.1 hours. The labor rate is $13.75 per hour and next year’s production is estimated at 75,000 units. What is the amount to be included in next year’s direct labor budget?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm198929024">
+<problem id="fs-idm197421520">
+<para id="fs-idm218887536"><link class="lo-reference" document="m68065"/>How many units are estimated to be sold if Kino, Inc., has planned production of 750,000 units, a desired beginning inventory of 30,000 units, and a desired ending inventory of 45,000 units?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm214971584" class="problem-set-a">
+<exercise id="fs-idm201154800">
+<problem id="fs-idm201816160">
+<para id="fs-idm222624096"><link class="lo-reference" document="m68065"/>Lens Junction sells lenses for $45 each and is estimating sales of 15,000 units in January and 18,000 in February. Each lens consists of 2 pounds of silicon costing $2.50 per pound, 3 oz of solution costing $3 per ounce, and 30 minutes of direct labor at a labor rate of $18 per hour. Desired inventory levels are:</para>
+<media id="fs-idm215518288" class="scaled-down" alt="Beginning inventory for January 31, February 28, and March 31 respectively: Finished goods 4,500, 5,900, 5,000; Direct materials: silicon, 8,500, 9,100, 9,200; Direct materials: solution, 11,200, 12,000, 13,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_PA01_img.jpg"/>
+</media>
+<para id="fs-idm225455616">Prepare a sales budget, production budget, direct materials budget for silicon and solution, and a direct labor budget.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm177362912">
+<problem id="fs-idm160373312">
+<para id="fs-idm178824400"><link class="lo-reference" document="m68065"/>The data shown were obtained from the financial records of Italian Exports, Inc., for March:</para>
+<media id="fs-idm203662608" class="scaled-down-30" alt="Estimated Sales, $560,000, Sales 567,923, Purchases 294,823, Ending Inventory of next month’s sales 10%, Administrative salaries 50,320, Marketing expense of estimated sales 5%, Sales commissions of estimated sales 2%, Rent expense 7,500, Depreciation expense 1,100, Utilities 2,500, Taxes on income (before taxes) 15%.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_PA02_img.jpg"/>
+</media>
+<para id="fs-idm493986960">Sales are expected to increase each month by 10%. Prepare a budgeted income statement.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm196883792">
+<problem id="fs-idm211677872">
+<para id="fs-idm177505280"><link class="lo-reference" document="m68065"/>Echo Amplifiers prepared the following sales budget for the first quarter of 2018:</para>
+<media id="fs-idm220379008" class="scaled-down" alt="January, February, and March (respectively): Units, 1,000, 1,200, 1,500; Sales price $10, 10, 10; Budgeted sales, $10,000, 12,000, 15,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_PA03a_img.jpg"/>
+</media>
+<para id="fs-idm223417072">It also has this additional information related to its expenses:</para>
+<media id="fs-idm196273840" class="scaled-down" alt="Direct material per unit $1.50, Direct labor per unit 2, Variable manufacturing overhead per hour 0.50, Fixed manufacturing overhead per month 3,000, Sales commissions per unit 15, Sales salaries per month 5,000, Delivery expense per unit 0.50, Factory utilities per month 5,000, Administrative salaries per month 20,000, Marketing expenses per month 8,000, Insurance expense per month 11,000, Depreciation expense per month 9,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_PA03b_img.jpg"/>
+</media>
+<para id="fs-idm217170768">Prepare a sales and administrative expense budget for each month in the quarter ending March 31, 2018.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm199558560">
+<problem id="fs-idm491888688">
+<para id="fs-idm226225104"><link class="lo-reference" document="m68065"/>Prepare a budgeted income statement using the information shown.</para>
+<media id="fs-idm199159808" class="scaled-down" alt="Sales (units) 15,000, Sales price per unit $40, Uncollectible expense 1 percent of sales, Direct material per unit $2, Direct labor per unit (hours) .5, Direct labor rate per hour $20, Manufacturing overhead $15,000, Variable sales and administrative expenses per unit $2, Fixed sales and administrative expenses $20,000, Taxes (on income before taxes) 15 percent.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_PA04_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm187770528">
+<problem id="fs-idm207250576">
+<para id="fs-idm222236032"><link class="lo-reference" document="m68065"/>Spree Party Lights overhead expenses are:</para>
+<media id="fs-idm225013456" alt="Indirect material, pounds per unit 0.25, Indirect material cost per pound $2, Indirect labor hours 1, Indirect labor rate per hour $15, Variable maintenance per unit $.75, Variable utilities per unit $.20, Supervisor salaries $10,000, Maintenance salaries $9,000, Insurance $3,000, Depreciation $1,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_PA05_img.jpg"/>
+</media>
+<para id="fs-idm203502128">Prepare a manufacturing overhead budget if the number of units to produce for January, February, and March are 2,500, 3,000, and 2,700, respectively.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm213038144" class="problem-set-b">
+<exercise id="fs-idm218655056">
+<problem id="fs-idm199291024">
+<para id="fs-idm218894256"><link class="lo-reference" document="m68065"/>Lens &amp; Shades sells sunglasses for $37 each and is estimating sales of 21,000 units in January and 19,000 in February. Each lens consists of 2.00 mm of plastic costing $2.50 per mm, 1.7 oz of dye costing $2.80 per ounce, and 0.50 hours direct labor at a labor rate of $18 per unit. Desired inventory levels are:</para>
+<media id="fs-idm197996368" class="scaled-down" alt="Beginning inventory for January, February, and March respectively: Finished goods 3,500, 3,800, 4,500; Direct materials: plastic, 4,100, 4,500, 4,600; Direct materials: dye, 10,100, 11,300, 12,200.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_PB01_img.jpg"/>
+</media>
+<para id="fs-idm203288272">Prepare a sales budget, production budget, direct materials budget for silicon and solution, and a direct labor budget.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm494152816">
+<problem id="fs-idm205275376">
+<para id="fs-idm196877280"><link class="lo-reference" document="m68065"/>The following data were obtained from the financial records of Sonicbrush, Inc., for March:</para>
+<media id="fs-idm215475936" class="scaled-down" alt="Estimated Sales, $333,000, Sales 329,831, Purchases 179,431, Ending Inventory (of next month’s sales) 15 percent, Administrative salaries 70,200, Marketing expense of estimated sales 3 percent, Sales commissions of estimated sales 4 percent, Rent expense per month 8,400, Depreciation expense per month 1,200, Utilities per month 2,800, Taxes on income (before taxes) 15 percent.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_PB02_img.jpg"/>
+</media>
+<para id="fs-idm173325248">Sales are expected to increase each month by 15%. Prepare a budgeted income statement.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm215177952">
+<problem id="fs-idm224452768">
+<para id="fs-idm201076672"><link class="lo-reference" document="m68065"/>TIB makes custom guitars and prepared the following sales budget for the second quarter</para>
+<media id="fs-idm205311152" class="scaled-down" alt="April, May, and June (respectively): Units, 80, 86, 84; Sales price $1,200, 1,200, 1,200; Budgeted sales, $96,000, 103,200, 100,800.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_PB03a_img.jpg"/>
+</media>
+<para id="fs-idm224245712">It also has this additional information related to its expenses:</para>
+<media id="fs-idm219935440" class="scaled-down" alt="Direct material per unit $55, Direct labor per hour 20, Variable manufacturing overhead per hour 3.50, Fixed manufacturing overhead per month 3,000, Sales commissions per unit 20, Sales salaries per month 5,000, Delivery expense per unit 0.50, Utilities per month 4,000, Administrative salaries per month 20,000, Marketing expenses per month 8,000, Insurance expense per month 11,000, Depreciation expense per month 9,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_PB03b_img.jpg"/>
+</media>
+<para id="fs-idm198683312">Prepare a sales and administrative expense budget for each month in the quarter ended June 30, 2018.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm493993840">
+<problem id="fs-idm200734288">
+<para id="fs-idm224545984"><link class="lo-reference" document="m68065"/>Prepare a budgeted income statement using the information shown.</para>
+<media id="fs-idm197079200" class="scaled-down" alt="Sales (units) 84,000, Sales price per unit $22, Uncollectible expense 1 percent of sales, Direct material per unit $1.50, Direct labor per unit (hours) 0.8, Direct labor rate per hour $19, Manufacturing overhead $14,000, Variable sales and administrative expenses per unit $2.10, Fixed sales and administrative expenses $23,000, Taxes (on income before taxes) 15 percent.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_PB04_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm210290560">
+<problem id="fs-idm204134464">
+<para id="fs-idm197082592"><link class="lo-reference" document="m68065"/>Sunshine Gardens overhead expenses are:</para>
+<media id="fs-idm224966528" class="scaled-down" alt="Indirect material, pounds per unit 0.50, Indirect material cost per pound $1, Indirect labor hours 1, Indirect labor rate per hour $16.50, Variable maintenance per unit $0.75, Variable utilities per unit $0.20, Supervisor salaries $10,000, Maintenance salaries $9,000, Insurance $3,000, Depreciation $1,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_02_PB05_img.jpg"/>
+</media>
+<para id="fs-idm203296784">Given production of 10,200; 11,300; 12,900; and 13,200 for each quarter of the next year, prepare a manufacturing overhead budget for each quarter.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm203331200" class="thought-provokers">
+<exercise id="fs-idm212970384">
+<problem id="fs-idm201942736">
+<para id="fs-idm208795376"><link class="lo-reference" document="m68065"/>How would a human resources department use information in the operating budgets?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm214397424">
+<problem id="fs-idm197908832">
+<para id="fs-idm209163312"><link class="lo-reference" document="m68065"/>How would maintenance departments use information in the budget?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm210741936">
+<problem id="fs-idm222685248">
+<para id="fs-idm215087776"><link class="lo-reference" document="m68065"/>How might service industries predict revenue?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm205245744">
+<term>budgeted income statement</term>
+<meaning id="fs-idm208454800">statement similar to a traditional income statement except it contains budgeted data</meaning>
+</definition>
+<definition id="fs-idm210195440">
+<term>direct labor budget</term>
+<meaning id="fs-idm218769184">budget based on the production budget used to ensure the proper amount of staff is available for production and that there is money available to pay for the labor</meaning>
+</definition>
+<definition id="fs-idm194599184">
+<term>direct materials budget</term>
+<meaning id="fs-idm214672512">budget combining the production budget with the direct material per unit to ensure the proper quantity of direct materials is available when needed for production</meaning>
+</definition>
+<definition id="fs-idm200934752">
+<term>manufacturing overhead budget</term>
+<meaning id="fs-idm207726912">budget including the remainder of the production costs not covered by the direct materials and direct labor budgets</meaning>
+</definition>
+<definition id="fs-idm200813168">
+<term>production budget</term>
+<meaning id="fs-idm221222752">budget showing the number of units that need to be produced for each period based on sales estimates and required inventory levels</meaning>
+</definition>
+<definition id="fs-idm196890560">
+<term>sales budget</term>
+<meaning id="fs-idm219843280">budget showing the expected sales in units and the sales price for the budget period</meaning>
+</definition>
+<definition id="fs-idm216340672">
+<term>selling and administrative expense budget</term>
+<meaning id="fs-idm169433104">budget showing the variable and fixed expenses estimated to be incurred in all areas other than production</meaning>
+</definition>
+</glossary>
+</document>

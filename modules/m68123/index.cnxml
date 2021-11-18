@@ -1,0 +1,362 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Distinguish between Job Order Costing and Process Costing</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68123</md:content-id>
+  <md:title>Distinguish between Job Order Costing and Process Costing</md:title>
+  <md:abstract/>
+  <md:uuid>f49a46ab-5e64-4dfd-82e3-8b1ac62d3702</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm219785152"><emphasis class="colored-text"><term class="no-emphasis">Pet Smart</term></emphasis>, <emphasis class="colored-text"><term class="no-emphasis">H&amp;R Block</term></emphasis>, <emphasis class="colored-text"><term class="no-emphasis">Chili’s</term></emphasis>, and <emphasis class="colored-text"><term class="no-emphasis">Marshalls</term></emphasis> are popular chains often found at the same shopping center, even though they are very different businesses. Although they have a retail store, the Pet Smart Corporation also manufactures large volumes of its own products, whereas H&amp;R Block prepares taxes for individual customers. Chili’s prepares food, and its wait staff provides a service, whereas Marshalls sells a variety of products at retail.</para>
+<para id="fs-idm221059248">The management of each business relies on knowing each cost when making decisions, such as setting the sales price, planning production and staffing schedules, and ordering materials. Although these companies share a common location, which suggests similar rental costs, all the other costs vary significantly. Because of these cost differences, each company must have a system for gathering its cost data. For example, Pet Smart manufactures Great Choice squeaker balls in large batches and collects cost data through a process costing system. A process costing system is often used to trace and determine production costs when similar products or services are provided. The concept and mechanics of a process costing system are addressed in <link document="m68128">Process Costing</link>.</para>
+<para id="fs-idm223444816">Since a typical tax return can vary significantly from one taxpayer to the next, H&amp;R Block provides a service that they customize for each customer. Its cost data are collected via a job order cost system, which is designed to allow for individualized products or services.</para>
+<para id="fs-idm243458640">Marshalls does not produce a product yet still needs a system to assign overhead costs to the products it sells. (Overhead was addressed in <link document="m67947">Building Blocks of Managerial Accounting</link>.) And while Chili’s has the same nationwide menu, it needs a system to collect the costs for each menu item within each location.</para>
+<para id="fs-idm223469104">While companies may choose different cost accounting systems, each system must be capable of accumulating the costs incurred and allocating the costs to the product. Each costing system also requires the ability to obtain and analyze the cost data, and the more detailed the information needed, the higher the cost of collecting the data. The choice of cost accumulation system depends on the variety and type of products or services sold, or the type of manufacturing processes employed. The system used should be determined by weighing the cost of collecting the data and the benefit of having that information.</para>
+<para id="fs-idm234603120">Companies use different costing systems for determining the cost of custom products than they do for determining the cost of mass-produced products. When products are custom ordered, knowing the cost of the materials, labor, and overhead is critical to determining the sales price. As an easy example, think of a tailor who alters, repairs, and makes custom clothes for customers. If a customer orders a custom-made suit, the specific fabric, detail of any special features, and the time involved in sewing are all factors that will determine the total cost and, therefore, the selling price of the garment. Each component of the cost of producing the clothing will be tracked as it occurs, thus improving the accuracy of determining the price. However, in mass production, wherein one batch leads to a second batch, stopping the process to properly identify the materials, labor, and overhead costs used for each batch does not provide enough valuable data to justify determining the individual costing of each product. For example, in the case of a mass-produced clothing item, such as jeans, a company like <emphasis class="colored-text">Levi’s</emphasis> will track costs for a batch of jeans rather than for a pair of jeans. Levi’s had over $4.9 billion in revenue in 2017 generated from the many different styles and brands of clothing items they produce and sell. It would be difficult, and not cost effective, to track the cost of each individual clothing item; rather, it is more efficient to track the costs in each phase of the clothing-making process. Levi’s can then accumulate the costs of the phases of production to determine the total cost of production for a batch and allocate those costs over the number of pairs of jeans made. This process allows them to determine the cost of each item.</para>
+<para id="fs-idm220752368">Even retail companies need to know the cost of the purchased products before the sales price is set. While it seems simple to think of the sales price as the purchase price plus a markup, determining the markup costs needs to be an accurate process in order to ensure the sale price is higher than the product cost. To properly capture the information necessary for decision-making, there are different costing systems that track costs in order to determine sales prices, and to measure profits and manufacturing efficiency.</para>
+<para id="fs-idm223295920">As previously mentioned, the two traditional types of costing systems are job order costing and process costing. Each anticipates or determines unit costs of products being manufactured and/or services being provided prior to year-end. Companies may decide to use only one or a combination of methods. This chapter examines job order costing and demonstrates how it differs from process costing. <link document="m68128">Process Costing</link> and other costing systems (<link document="m68134">Activity-Based, Variable, and Absorption Costing</link>) are covered in other chapters.</para>
+<para id="fs-idm221126096">In this chapter, you will also learn the terminology used to track costs within the job order cost system and how to segregate and aggregate these costs to determine the costs of production in a job order costing environment. You will also learn how to record these job costs and where they appear on financial statements.</para>
+<section id="fs-idm242260560">
+<title>Job Order Costing versus Process Costing</title>
+<para id="fs-idm223360848"><term>Job order costing</term> is an accounting system that traces the individual costs directly to a final job or service, instead of to the production department. It is used when goods are made to order or when individual costs are easy to trace to individual jobs, assuming that the additional information provides value. In these circumstances, the individual costs are easy to trace to the individual jobs.</para>
+<para id="fs-idm232994192">For example, assume that a homeowner wants to have a custom deck added to her home. Also assume that in order to fit her lot’s topography and her anticipated uses for the addition, she needs a uniquely designed deck. Her contractor will design the deck, price the necessary components (in this case, the direct materials, direct labor, and overhead), and construct it.</para>
+<para id="fs-idm241684736">The final cost will be unique to this project. If another homeowner wanted the contractor to construct a deck, the contractor would go through the same design and pricing process, and you would expect that the design and costs would not be the same as those of the deck in the first example, since the decks would differ from one another.</para>
+<para id="fs-idm241593776">The job order costing method also works well for companies such as movie production companies, print service providers, advertising agencies, building contractors, accounting firms, consulting entities, and repair service providers. For example, <emphasis effect="italics">Star Wars: The Last Jedi</emphasis> is believed to have cost $200 million to produce, whereas <emphasis effect="italics">Logan</emphasis> only cost $97 million. The production processes for both films differed significantly, so that the accumulated costs for each job also differed significantly. Both were made in 2017.<footnote id="fs-idm248783520">“Production Costs and Global Box Office Revenue of Star Wars Movies from 1977 to 2018 (in million U.S. dollars).” The Statistics Portal. https://www.statista.com/statistics/311356/star-wars-production-costs-box-office-revenue/.</footnote></para>
+<para id="fs-idm228505968">In contrast, <term class="no-emphasis">process costing</term> is used when the manufacturing process is continuous, so it is difficult to establish how much of each material is used and exactly how much time is invested in each unit of finished product. Therefore, in process costing, costs are accounted for by the production process or production department instead of by the product or by the job. This method works well for manufacturers of products such as <emphasis class="colored-text"><term class="no-emphasis">Titleist</term></emphasis> golf balls, <emphasis class="colored-text"><term class="no-emphasis">Kellogg’s</term></emphasis> cereal, <emphasis class="colored-text"><term class="no-emphasis">Turkey Hill</term></emphasis> ice cream, <emphasis class="colored-text"><term class="no-emphasis">CITGO</term></emphasis> gasoline, <emphasis class="colored-text"><term class="no-emphasis">Dow</term></emphasis> Chemicals, or <emphasis class="colored-text"><term class="no-emphasis">Sherwin Williams</term></emphasis>’ paints. However, process costing is not limited to basic manufacturing activities: It can also be used in the manufacturing of more complex items, such as small engines. A process costing system assigns costs to each department as the costs are incurred, and the costs to produce one unit are calculated based on the information from the production department. Unit costs are determined after total production costs are determined.</para>
+<para id="fs-idm228509440">One factor that can complicate the choice between job order costing and process costing is the growth of automation in the production process, which typically is accompanied by a reduction in direct labor. The cost of the increase in equipment (typically reflected as a depreciation expense) is allocated to overhead, while the decreased need for labor usually reduces the direct labor cost. Because of these issues, some companies choose a hybrid system, using process costing to account for mass producing a part and using job order costing to account for assembling some of those individual parts into a custom product. <link target-id="fs-idm218913360"/> summarizes the use of these two systems.</para>
+<table id="fs-idm218913360" class="top-titled" summary="No Summary">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c3">Job Order and Process Cost Systems</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="center"> </entry>
+<entry valign="bottom" align="center">Job Order Cost System</entry>
+<entry valign="bottom" align="center">Process Cost System</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Product type</entry>
+<entry valign="top" align="left">Custom order</entry>
+<entry valign="top" align="left">Mass production</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Examples</entry>
+<entry valign="top" align="left">Signs, buildings, tax returns</entry>
+<entry valign="top" align="left">Folding tables, toys, buffet restaurants</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Cost accumulation</entry>
+<entry valign="top" align="left">Job lot</entry>
+<entry valign="top" align="left">Accumulated per process</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Work in process inventory</entry>
+<entry valign="top" align="left">Individual job cost sheets</entry>
+<entry valign="top" align="left">Separate work in process inventory department</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Record keeping</entry>
+<entry valign="top" align="left">Individual job cost sheets</entry>
+<entry valign="top" align="left">Production cost report</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>This table shows some of the differences between <term class="no-emphasis">job order costing</term> and <term class="no-emphasis">process costing</term>.</caption>
+</table>
+<para id="fs-idm216498032">To illustrate how a company can determine whether to use job order costing or process costing, consider the cost accounting options for a local restaurant. Macs &amp; Cheese makes specialty macaroni and cheese, and the company wants to erect a special sign on an already constructed billboard outside a stadium. It wants to use this space to target stadium customers; thus, the company wants a sign built specifically for that site. Dinosaur Vinyl is secured as the sign manufacturer and would use job order costing to account for the associated manufacturing costs because of the unique nature of the sign, including the art work involved. However, if Macs &amp; Cheese was designing a costing system for the specialty food product they market, they typically would use a process costing approach because their product is made and marketed in homogeneous, similar batches.</para>
+<note id="fs-idm228929904" class="link-to-learning">
+<para id="fs-idm227411808">Both job order and process costing are used to track costs with a goal of improved cost measurement efficiency. Bar codes can help with either type of costing. <emphasis class="colored-text">Verified Label, Print &amp; Promotions, Inc.</emphasis> provides a <link url="https://openstax.org/l/50barcode">list of how barcodes contribute to efficiency in cost tracking</link> for more information.</para>
+</note>
+<section id="fs-idm247893440">
+<title>Organization of Flow of Goods through Production</title>
+<para id="fs-idm247886384">Regardless of the costing method used (job order costing, process costing, or another method), manufacturing companies are generally similar in their organizational structure and have a similar <term class="no-emphasis">flow of goods through production</term>. The diagram in <link target-id="OSX_Acct_M04_01_DVOrg"/> shows a partial organizational chart for sign manufacturer Dinosaur Vinyl. The CEO has several direct reporting units—Financing, Production, Information Technology, Marketing, Human Resources, and Maintenance—each with a director responsible for several departments.</para>
+<figure id="OSX_Acct_M04_01_DVOrg">
+<media id="fs-idm229009536" alt="An organizational chart with three tiers. The first tier is labeled “Chief Executive Officer”. The second tier branches from the first, and is labeled from left to right “Financing Unit”, “Production Unit”, “Information Technology”, “Marketing Unit”, “Human Resources”, and “Maintenance Unit”. The third tier branches from “Production Unit” and is labeled “Materials Storeroom”, “Design Department”, “Production Department”, and “Finishing Department”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_01_DVOrg.jpg"/>
+</media>
+<caption>Organizational Chart for a Manufacturing Company. The different units within Dinosaur Vinyl illustrate the two main cost categories of a manufacturing company: manufacturing costs (the production unit), and selling and administrative costs. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm244632064">The diagram also shows the departments that report to the production unit director and gives an indication as to the flow of goods through production. The flow of goods through production is more evident in <link target-id="OSX_Acct_M04_01_DVFactory"/>, which depicts Dinosaur Vinyl as a simple factory with three stages of production.</para>
+<figure id="OSX_Acct_M04_01_DVFactory">
+<media id="fs-idm235336784" alt="A factory floor layout from above, showing three rows of departments. The top row is labeled “Manufacturing Overhead” and includes “Plant Supervisor”, “Factory Housekeeping”, “Factory Maintenance”, and “Design/engineering”. The middle row is labeled “Manufacturing Costs, DM, DL, OH) and includes “Materials Storeroom”, “Vinyl Cutting”, Sign Painting”, “Sign Assembly/Finishing”, and “Finished Goods.” The bottom row is labeled “Selling and Administrative Costs” and includes “CEO”, “Accounting/Finance”, “Marketing”, “HR”, and “IT”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_01_DVFactory.jpg"/>
+</media>
+<caption>Factory Layout for Dinosaur Vinyl. The flow of goods and areas of manufacturing versus administrative costs are more easily seen by looking at the factory layout for Dinosaur Vinyl. The departments across the bottom represent administrative costs, whereas the departments in the middle represent manufacturing costs—although Design/Engineering can sometimes be considered part of administrative costs, depending on how management chooses to categorize those costs. The departments listed across the top represent examples of manufacturing overhead. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm235255552">Raw materials are stored in the materials storeroom and delivered to the appropriate production department—cutting, painting, or assembly/finishing. The design department uses direct labor to create the design specifications, and, when completed, it sends them to the production department. The production department uses the material and design specifications and adds additional labor to create the sign. The sign is transferred to the finishing department for final materials and labor, before the sign is installed or delivered to the customer.</para>
+</section>
+<section id="fs-idm245445392">
+<title>Manufacturing Costs</title>
+<para id="fs-idm243405024">In a manufacturing environment, the <term>manufacturing costs</term> are also called <emphasis effect="italics">product costs</emphasis> and include all expenses used to manufacture the product: direct materials, direct labor, and manufacturing overhead. To review these costs, see <link document="m67947">Building Blocks of Managerial Accounting</link>. The total of these costs becomes the cost of ending inventory and later becomes the cost of goods sold when the product is sold. Both job order costing and process costing use categorized cost information to make decisions and evaluate the effectiveness of the cost tracking process. Because of the difference in how each of the two costing systems track costs, different terminology is used. Thus, it is important to separate product costs from period costs, and it is sometimes important to separate product costs into <term>prime costs</term> and <term>conversion costs</term>. Prime costs are costs that include the primary (or direct) product costs: direct materials and direct labor. Conversion costs are costs that include the expenses necessary to convert direct materials into a finished product: direct labor and manufacturing overhead. Their relationship is shown in <link target-id="OSX_Acct_M04_01_MfgCosts"/>.</para>
+<figure id="OSX_Acct_M04_01_MfgCosts" class="scaled-down">
+<media id="fs-idm223161024" alt="A Venn diagram with two circles. The left circle is labeled “Prime Costs” and the right circle is labeled “Conversion Costs”. In the left circle is the label “Direct Materials”, where the circles overlap is the label “Direct Labor”, and in the right circle is the label “Manufacturing Overhead”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_01_MfgCosts.jpg"/>
+</media>
+<caption>Manufacturing Costs. Management sometimes needs additional information to make decisions and needs the costs categorized as prime costs or conversion costs. Prime costs and conversion costs are not included together as direct labor is included in both categories. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm250084256">Job order costing systems assign costs directly to the product by assigning direct materials and direct labor to the work in process (WIP) inventory. As you learned in <link document="m67947">Building Blocks of Managerial Accounting</link>, direct materials are the components that can be directly traced to the products produced, whereas direct labor is the labor cost that can be directly traced to the products produced.</para>
+<para id="fs-idm236796688">Material and labor costs that cannot be traced directly to the product produced are included in the <term class="no-emphasis">overhead costs</term> that are allocated in the production costing process. Overhead is applied to each product based on an activity base, which will be explained in <link document="m68004">Compute a Predetermined Overhead Rate and Apply Overhead to Production</link>.</para>
+<para id="fs-idm241769680">The assignment of direct materials and direct labor to each production unit illustrates the job order costing system’s focus on prime costs, in contrast to the process costing system, which assigns costs to the department and focuses on direct materials and conversion costs, which are composed of a combination of direct labor and overhead. Process costs will be demonstrated in <link document="m68128">Process Costing</link>.</para>
+</section>
+<section id="fs-idm246980912">
+<title>Selling and Administrative Costs</title>
+<para id="fs-idm240887808"><term class="no-emphasis">Selling and administrative costs</term> (S&amp;A) are period costs, and these costs are expensed as incurred, instead of being included in the product’s costs, as they move through the relevant inventory accounts. A <term>period cost</term> is a cost tied to a specific time period, such as a month, quarter, or year, instead of being associated with a particular job order. For example, if a company paid an insurance company $12,000 for one year’s liability insurance coverage, the first month’s expense would be $1,000. This expense would not be related to a particular job order, but instead would be classified as a period cost, and in this case recorded monthly as an administrative expense. Selling costs are the expenses related to the promotion and sale of the company’s products, whereas administrative costs are the expenses related to the operations of the company. The S&amp;A costs are considered period costs because they include costs of departments not directly associated with manufacturing but necessary to operate the business. Some examples include research and development costs, marketing costs, sales commissions, administration building rent, the CEO’s salary expense, and accounting, payroll, and IT department expenses.</para>
+<note id="fs-idm235225952" class="your-turn">
+<title>Maria’s Market</title>
+<para id="fs-idm241618752">A grocery store’s analysis of a recent customer survey finds an increasing number of customers interested in being able to custom-order meals to go. Maria sees this as an opportunity to enter a niche market for busy families or individuals who want home-cooked meals with a variety of options and combinations, but who have little time. Maria already has an expansive deli, bakery, and prepared foods section in the store and sees this opportunity as a viable option to increase sales and its customer base. With meals to go, customers can choose from an array of options and can indicate the quantity of each item and the time of pickup. The customer simply pulls up in a designated spot at Maria’s and the food is brought to their car, packaged, and ready to take home to enjoy.</para>
+<para id="fs-idm240818736">What type of costing system will work best for the Maria’s Market? What sales price information, cost information, and other options are important to this decision?</para>
+<para id="fs-idm225966464"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm245294368">A job order cost system will work well for this store. In addition to specific price and cost, these are other important considerations.</para>
+<list id="fs-idm250222272" list-type="bulleted">
+<item>The optimal sales price should be set to encourage customers to purchase the meals.</item>
+<item>The materials, labor, and overhead cost should be considered for each meal option.
+<list id="fs-idm236922064" list-type="bulleted">
+<item>Direct material costs may include the cost of the protein, grain, and vegetable option, as well as the cost of the packing containers.</item>
+<item>The direct labor cost is for employees who are directly involved in preparing the meals.</item>
+<item>Manufacturing overhead includes the cost of gloves used when preparing the meals, the cost of employees who support but are not directly involved in preparing the meals, and the cost to operate the oven.</item>
+</list></item>
+<item>The cost of the various meal options should all be less than the sales price.</item>
+<item>The meal options should change to take advantage of seasonal items.</item>
+<item>There may be a need to vary the sales price, depending on the combinations selected.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-idm248862288">
+<title>Recording Costs in Job Order Costing versus Process Costing</title>
+<para id="fs-idm246453968">Both <term class="no-emphasis">job order costing</term> and process costing track the costs of materials, labor, and overhead as components of virtually all products. The process of production does not change because of the costing method: The costing method is chosen based on the process of production and is intended to provide the most accurate representation of the costs incurred in the production process.</para>
+<para id="fs-idm250191632">Maintaining accounting records for each system has its advantages. A job order costing system uses a <term>job cost sheet</term> to keep track of individual jobs and the direct materials, direct labor, and overhead associated with each job. The focus of a job order costing system is tracking costs per job, since each job is unique and therefore has different costs relative to other jobs. Maintaining this information is typically more expensive than process costing, and it is often used for the production of smaller, more individualized jobs because the benefit of knowing the cost of each product outweighs the additional cost of maintaining a job order costing system.</para>
+<para id="fs-idm243439648">In contrast, a process costing system does not need to maintain the cost for individual jobs because the jobs use a continual system of production, and the items are typically not significantly unique but instead are basically equivalent. The accounting emphasis is in keeping records for the individual departments, which is useful for large batches or runs. Process costing is the optimal system to use when the production process is continuous and when it is difficult to trace a particular input cost to an individual product. Process costing systems assign costs to each department as the costs are incurred. The costs to produce one unit are calculated, based on the information from the production department. Therefore, the focus of process costing systems is on measuring and assigning the conversion costs to the proper department in order to best determine the cost of individual units.</para>
+<para id="fs-idm220608896">Under either costing method, accounting theory explains why it is important to understand when costs become expenses. A primary reason for separating production costs from other company expenses is the <term>expense recognition principle</term>, which requires costs to be expensed when they match the revenue being earned and to separate the costs of production from other costs for the proper timing of recognition of expenses. Think about measuring the profit from the sale of an item, say a TV, in a nonmanufacturing environment. It is logical to subtract the costs associated with buying the TV in order to determine the profit, before applying other costs from that sale. Suppose the TV was purchased as inventory by the store in January and sold to a customer in March. This requires that the cost of the TV not be recorded as an expense (cost of goods sold) until March, when the sale from the TV is recorded, thus matching the revenue with the expense. Until that time, the TV and its cost are considered inventory. This same idea applies to the manufacturing process.</para>
+<para id="fs-idm232925200">Per the expense recognition principle, product costs—the direct materials, direct labor, and manufacturing overhead incurred to produce the job—are expensed on the income statement for the period of the sale as cost of goods sold when the completed job is sold. If the products are not sold, their costs remain in ending inventory.</para>
+<para id="fs-idm218264640">Prior to the sale of the product, separating production costs and assigning them to the product results in these costs remaining with the inventory. Until they are sold, the costs incurred are reflected in an assortment of inventory accounts, such as raw materials inventory, work in process inventory, and finished goods inventory.</para>
+<para id="fs-idm219040176">In contrast, period costs are not directly related to the production process and are expensed during the period in which they are incurred. This approach matches administrative and other expenses shown on the income statement in the same period in which the company earns income.</para>
+</section>
+<section id="fs-idm249682048" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm227005136" list-type="bulleted" bullet-style="bullet">
+<item>Job order costing (JOC) is the optimal costing method for producing custom goods or when it is easy to identify the cost directly with the product.</item>
+<item>A JOC system assigns costs to each individual job as the costs are incurred, so that at all points in the manufacturing process, the costs assigned to that particular job are known.</item>
+</list>
+</section>
+<section id="fs-idm241729552" class="multiple-choice">
+<exercise id="fs-idm228500032">
+<problem id="fs-idm236779264">
+<para id="fs-idm238304800"><link class="lo-reference" document="m68123"/>Which of the following product situations is better suited to job order costing than to process costing?</para>
+<list id="fs-idm232958160" list-type="enumerated" number-style="upper-alpha">
+<item>Each product batch is exactly the same as the prior batch.</item>
+<item>The costs are easily traced to a specific product.</item>
+<item>Costs are accumulated by department.</item>
+<item>The value of work in process is based on assigning standard costs.</item>
+</list>
+</problem>
+<solution id="fs-idm248910768">
+<para id="fs-idm244267392">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm233047792">
+<problem id="fs-idm232174080">
+<para id="fs-idm220662800"><link class="lo-reference" document="m68123"/>A job order costing system is most likely used by which of the following?</para>
+<list id="fs-idm231116464" list-type="enumerated" number-style="upper-alpha">
+<item>a pet food manufacturer</item>
+<item>a paper manufacturing company</item>
+<item>an accounting firm specializing in tax returns</item>
+<item>a stereo manufacturing company</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm218932160">
+<problem id="fs-idm242899472">
+<para id="fs-idm225047824"><link class="lo-reference" document="m68123"/>Which of the following is a prime cost?</para>
+<list id="fs-idm246875008" list-type="enumerated" number-style="upper-alpha">
+<item>indirect materials</item>
+<item>direct labor</item>
+<item>administrative expenses</item>
+<item>factory depreciation expenses</item>
+</list>
+</problem>
+<solution id="fs-idm238262016">
+<para id="fs-idm218938928">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm250503728">
+<problem id="fs-idm245775296">
+<para id="fs-idm236903744"><link class="lo-reference" document="m68123"/>Which of the following is a conversion cost?</para>
+<list id="fs-idm216306400" list-type="enumerated" number-style="upper-alpha">
+<item>raw materials</item>
+<item>direct materials</item>
+<item>administrative expenses</item>
+<item>factory depreciation expenses</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm242695728">
+<problem id="fs-idm242796288">
+<para id="fs-idm223401376"><link class="lo-reference" document="m68123"/>During production, to what are the costs in job order costing applied?</para>
+<list id="fs-idm244493184" list-type="enumerated" number-style="upper-alpha">
+<item>manufacturing overhead</item>
+<item>cost of goods sold</item>
+<item>each individual product</item>
+<item>each individual department</item>
+</list>
+</problem>
+<solution id="fs-idm218922288">
+<para id="fs-idm247534000">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm251114272" class="questions">
+<exercise id="fs-idm235319456">
+<problem id="fs-idm235002320">
+<para id="fs-idm223407072"><link class="lo-reference" document="m68123"/>A printing company manufactures notebooks of various sizes. The company manufactures 3,000 notebooks each day. Should the company use process costing or job order costing?</para>
+</problem>
+<solution id="fs-idm245730144">
+<para id="fs-idm228344672">The company should use process costing. Since there are many similar items, process costing is a better fit than job order costing.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm232974800">
+<problem id="fs-idm234484480">
+<para id="fs-idm237233792"><link class="lo-reference" document="m68123"/>Burnham Industries incurs these costs for the month:</para>
+<media id="fs-idm244571648" class="scaled-down" alt="A list of costs reads “Direct materials $2,000”, “Direct labor 3,000”, “Factory depreciation expense 3,500”, “Utility expense 750”, “CEO’s salary 4,000”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_01_Q02_img.jpg"/>
+</media>
+<para id="fs-idm248672112">What is the prime cost?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm225626080">
+<problem id="fs-idm215419392">
+<para id="fs-idm242571488"><link class="lo-reference" document="m68123"/>Choco’s Chocolates incurs these costs for the month:</para>
+<media id="fs-idm249732608" class="scaled-down" alt="A list of costs reads “Direct materials $15,000”, “Direct labor 25,000”, “Factory depreciation expense 45,000”, “Utility expense 2000”, “Payroll staff’s salary 15,000”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_01_Q03_img.jpg"/>
+</media>
+<para id="fs-idm240297184">What is the conversion cost?</para>
+</problem>
+<solution id="fs-idm242707424">
+<para id="fs-idm233073312">The conversion cost is $72,000: the sum of direct labor, factory depreciation expense, and utility expense.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm223481776">
+<problem id="fs-idm246978976">
+<para id="fs-idm241005760"><link class="lo-reference" document="m68123"/>How do job order costing and process costing differ with respect to recording direct materials and direct labor?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm233634272">
+<problem id="fs-idm217024976">
+<para id="fs-idm233620512"><link class="lo-reference" document="m68123"/>Why are product costs assigned to the product and period costs immediately expensed?</para>
+</problem>
+<solution id="fs-idm233625088">
+<para id="fs-idm238124144">The expense recognition principle requires that expenses follow the revenue. Product costs are assigned to the product because they are associated with the revenue from the sale of the product. The cost is transferred from inventory to cost of goods sold when the item is sold. This matches the revenue from the sale with the cost of the item being sold. Period costs are expensed when incurred because they are not related to a specific product but are instead related to the time period in which revenue is earned.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm228364160" class="exercise-set-a">
+<exercise id="fs-idm235257984">
+<problem id="fs-idm235789728">
+<para id="fs-idm250632992"><link class="lo-reference" document="m68123"/>Little Things manufactures toys. For each item listed, identify whether it is a product cost, a period cost, or not an expense.</para>
+<list id="fs-idm231732832" list-type="enumerated" number-style="upper-alpha">
+<item>internet provider services</item>
+<item>material expense</item>
+<item>raw materials inventory</item>
+<item>production equipment rental</item>
+<item>showroom rental</item>
+<item>factory employee salary</item>
+<item>Human Resource Director salary</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm238196160" class="exercise-set-b">
+<exercise id="fs-idm238303504">
+<problem id="fs-idm233712800">
+<para id="fs-idm243396976"><link class="lo-reference" document="m68123"/>Abuah Goods manufactures clothing. For each item listed, identify whether it is a product cost, a period cost, or not an expense.</para>
+<list id="fs-idm235233072" list-type="enumerated" number-style="upper-alpha">
+<item>pins to keep materials together while garment is being manufactured</item>
+<item>real estate taxes on store</item>
+<item>advertising expense</item>
+<item>product inspector wages</item>
+<item>shirts for sale</item>
+<item>Chief Financial Officer salary</item>
+<item>cost of goods sold</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm234922336" class="problem-set-a">
+<exercise id="fs-idm244639456">
+<problem id="fs-idm237602624">
+<para id="fs-idm238312256"><link class="lo-reference" document="m68123"/>For each item listed, state whether a job order costing system or process costing system would be best.</para>
+<list id="fs-idm242993408" list-type="enumerated" number-style="upper-alpha">
+<item>cereal</item>
+<item>team uniforms</item>
+<item>houses</item>
+<item>beach chairs</item>
+<item>plastic</item>
+<item>restaurant-specific pizza boxes</item>
+<item>sneakers customized with number and colors</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm219711328" class="problem-set-b">
+<exercise id="fs-idm237341904">
+<problem id="fs-idm244531744">
+<para id="fs-idm234623840"><link class="lo-reference" document="m68123"/>For each item listed, state whether a job order costing system or process costing system would be best.</para>
+<list id="fs-idm224964176" list-type="enumerated" number-style="upper-alpha">
+<item>television repair</item>
+<item>cell phone charge cords</item>
+<item>glassware with company logo</item>
+<item>dog food</item>
+<item>golf balls</item>
+<item>hotel signs to welcome guests</item>
+<item>highlighters and pens</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm233655040" class="thought-provokers">
+<exercise id="fs-idm219496176">
+<problem id="fs-idm232075264">
+<para id="fs-idm244474944"><link class="lo-reference" document="m68123"/>Can a company use both job order costing and process costing? Why or why not?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm237926816">
+<term>conversion costs</term>
+<meaning id="fs-idm234926576">total of labor and overhead for a product; the costs that “convert” the direct material into the finished product</meaning>
+</definition>
+<definition id="fs-idm223389120">
+<term>expense recognition principle</term>
+<meaning id="fs-idm228454896">(also, matching principle) matches expenses with associated revenues in the period in which the revenues were generated</meaning>
+</definition>
+<definition id="fs-idm237971152">
+<term>job cost sheet</term>
+<meaning id="fs-idm216581424">document created for each job that includes all material, labor, and overhead costs for that job</meaning>
+</definition>
+<definition id="fs-idm233719200">
+<term>job order costing</term>
+<meaning id="fs-idm217119280">information system that traces the individual costs directly to the final product and not to production departments</meaning>
+</definition>
+<definition id="fs-idm245321040">
+<term>manufacturing costs</term>
+<meaning id="fs-idm242280432">total of all costs expended in the manufacturing process; generally consists of direct material, direct labor, and manufacturing overhead</meaning>
+</definition>
+<definition id="fs-idm219014416">
+<term>period costs</term>
+<meaning id="fs-idm223831840">typically related to a particular time period instead of attached to the production of an asset; treated as an expense in the period incurred (examples include many sales and administrative expenses)</meaning>
+</definition>
+<definition id="fs-idm237507792">
+<term>prime costs</term>
+<meaning id="fs-idm216516224">direct material expenses and direct labor costs</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,582 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Record Transactions and the Effects on Financial Statements for Cash Dividends, Property Dividends, Stock Dividends, and Stock Splits</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67919</md:content-id>
+  <md:title>Record Transactions and the Effects on Financial Statements for Cash Dividends, Property Dividends, Stock Dividends, and Stock Splits</md:title>
+  <md:abstract/>
+  <md:uuid>79906ed7-aa20-4e6b-b75e-d2ea741c321d</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm357940624">Do you remember playing the board game Monopoly when you were younger? If you landed on the Chance space, you picked a card. The Chance card may have paid a $50 dividend. At the time, you probably were just excited for the additional funds.</para>
+<figure id="OSX_Acct_F14_03_monopoly" class="scaled-down-30">
+<media id="fs-idm356631648" alt="A picture of the Monopoly game Chance card.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_Monopoly.jpg"/>
+</media>
+<caption>Chance Card. A Chance card from a Monopoly game indicates that the bank pays you a dividend of $50. (credit: modification of “Monopoly Chance Card” by Kerry Ceszyk/Flickr, CC BY 4.0)</caption>
+</figure>
+<para id="fs-idm357385808">For corporations, there are several reasons to consider sharing some of their earnings with investors in the form of dividends. Many investors view a dividend payment as a sign of a company’s financial health and are more likely to purchase its stock. In addition, corporations use dividends as a marketing tool to remind investors that their stock is a profit generator.</para>
+<para id="fs-idm365096640">This section explains the three types of dividends—cash dividends, property dividends, and stock dividends—along with stock splits, showing the journal entries involved and the reason why companies declare and pay dividends.</para>
+<section id="fs-idm359551568">
+<title>The Nature and Purposes of Dividends</title>
+<para id="fs-idm365864816">Stock investors are typically driven by two factors—a desire to earn income in the form of dividends and a desire to benefit from the growth in the value of their investment. Members of a corporation’s board of directors understand the need to provide investors with a periodic return, and as a result, often declare dividends up to four times per year. However, companies can declare dividends whenever they want and are not limited in the number of annual declarations. Dividends are a distribution of a corporation’s earnings. They are not considered expenses, and they are not reported on the income statement. They are a distribution of the net income of a company and are not a cost of business operations.</para>
+<note id="fs-idm359352640" class="concepts-practice">
+<title>So Many Dividends</title>
+<para id="fs-idm359988880">The declaration and payment of dividends varies among companies. In December 2017 alone, 4,506 U.S. companies declared either cash, stock, or property dividends—the largest number of declarations since 2004.<footnote id="fs-idm361262416">Ironman at Political Calculations. “Dividends by the Numbers through January 2018.” Seeking Alpha. February 9, 2018. https://seekingalpha.com/article/4145079-dividends-numbers-january-2018</footnote> It is likely that these companies waited to declare dividends until after financial statements were prepared, so that the board and other executives involved in the process were able to provide estimates of the 2017 earnings.</para>
+</note>
+<para id="fs-idm355368496">Some companies choose not to pay dividends and instead reinvest all of their earnings back into the company. One common scenario for situation occurs when a company experiencing rapid growth. The company may want to invest all their retained earnings to support and continue that growth. Another scenario is a mature business that believes retaining its earnings is more likely to result in an increased market value and stock price. In other instances, a business may want to use its earnings to purchase new assets or branch out into new areas. Most companies attempt <term>dividend smoothing</term>, the practice of paying dividends that are relatively equal period after period, even when earnings fluctuate. In exceptional circumstances, some corporations pay a <term>special dividend</term>, which is a one-time extra distribution of corporate earnings. A special dividend usually stems from a period of extraordinary earnings or a special transaction, such as the sale of a division. Some companies, such as <emphasis class="colored-text">Costco Wholesale Corporation</emphasis>, pay recurring dividends and periodically offer a special dividend. While <emphasis class="colored-text">Costco</emphasis>’s regular quarterly dividend is $0.57 per share, the company issued a $7.00 per share cash dividend in 2017.<footnote id="fs-idm365838112">Jing Pan. “Will Costco Wholesale Corporation Pay a Special Dividend in 2018?” Income Investors. May 9, 2018. https://www.incomeinvestors.com/will-costco-wholesale-corporation-pay-special-dividend-2018/38865/</footnote> Companies that have both common and preferred stock must consider the characteristics of each class of stock.</para>
+<para id="fs-idm358614512">Note that dividends are distributed or paid only to shares of stock that are outstanding. Treasury shares are not outstanding, so no dividends are declared or distributed for these shares. Regardless of the type of dividend, the declaration always causes a decrease in the retained earnings account.</para>
+</section>
+<section id="fs-idm363717488">
+<title>Dividend Dates</title>
+<para id="fs-idm345699984">A company’s board of directors has the power to formally vote to declare dividends. The <term>date of declaration</term> is the date on which the dividends become a legal liability, the date on which the board of directors votes to distribute the dividends. Cash and property dividends become liabilities on the declaration date because they represent a formal obligation to distribute economic resources (assets) to stockholders. On the other hand, stock dividends distribute additional shares of stock, and because stock is part of equity and not an asset, stock dividends do not become liabilities when declared.</para>
+<para id="fs-idm366352400">At the time dividends are declared, the board establishes a date of record and a date of payment. The <term>date of record</term> establishes who is entitled to receive a dividend; stockholders who own stock on the date of record are entitled to receive a dividend even if they sell it prior to the date of payment. Investors who purchase shares after the date of record but before the payment date are not entitled to receive dividends since they did not own the stock on the date of record. These shares are said to be sold <term>ex dividend</term>. The <term>date of payment</term> is the date that payment is issued to the investor for the amount of the dividend declared.</para>
+</section>
+<section id="fs-idm359536864">
+<title>Cash Dividends</title>
+<para id="fs-idm367131520"><term>Cash dividends</term> are corporate earnings that companies pass along to their shareholders. To pay a cash dividend, the corporation must meet two criteria. First, there must be sufficient cash on hand to fulfill the dividend payment. Second, the company must have sufficient retained earnings; that is, it must have enough residual assets to cover the dividend such that the Retained Earnings account does not become a negative (debit) amount upon declaration. On the day the board of directors votes to declare a cash dividend, a journal entry is required to record the declaration as a liability.</para>
+<section id="fs-idm360077424">
+<title>Accounting for Cash Dividends When Only Common Stock Is Issued</title>
+<para id="fs-idm372086736">Small private companies like La Cantina often have only one class of stock issued, common stock. Assume that on December 16, La Cantina’s board of directors declares a $0.50 per share dividend on common stock. As of the date of declaration, the company has 10,000 shares of common stock issued and holds 800 shares as treasury stock. The total cash dividend to be paid is based on the number of shares outstanding, which is the total shares issued less those in treasury. Outstanding shares are 10,000 – 800, or 9,200 shares. The cash dividend is:</para>
+<equation id="fs-idm370739344" class="unnumbered"><m:math><m:mrow><m:mn>9,200</m:mn><m:mspace width="0.2em"/><m:mtext>shares</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>$0.50</m:mn><m:mo>=</m:mo><m:mn>$4,600</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm360311728">The journal entry to record the declaration of the cash dividends involves a decrease (debit) to Retained Earnings (a stockholders’ equity account) and an increase (credit) to Cash Dividends Payable (a liability account).</para>
+<media id="fs-idm367123120" alt="Journal entry for October 9: Debit Retained Earnings 4,600, credit Cash Dividends Payable 4,600. Explanation: “To record the declaration of a cash dividend.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_Journ01_img.jpg"/>
+</media>
+<para id="fs-idm359507696">While a few companies may use a temporary account, Dividends Declared, rather than Retained Earnings, most companies debit Retained Earnings directly. Ultimately, any dividends declared cause a decrease to Retained Earnings.</para>
+<para id="fs-idm361657344">The second significant dividend date is the date of record. The date of record determines which shareholders will receive the dividends. There is no journal entry recorded; the company creates a list of the stockholders that will receive dividends.</para>
+<para id="fs-idm358461568">The date of payment is the third important date related to dividends. This is the date that dividend payments are prepared and sent to shareholders who owned stock on the date of record. The related journal entry is a fulfillment of the obligation established on the declaration date; it reduces the Cash Dividends Payable account (with a debit) and the Cash account (with a credit).</para>
+<media id="fs-idm368135184" alt="Journal entry for XXX: Debit Cash Dividends Payable 4,600, credit cash 4,600. Explanation: “To record the payment of a cash dividend.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_Journ02_img.jpg"/>
+</media>
+</section>
+</section>
+<section id="fs-idm366801968">
+<title>Property Dividends</title>
+<para id="fs-idm372804288">A <term>property dividend</term> occurs when a company declares and distributes assets other than cash. The dividend typically involves either the distribution of shares of another company that the issuing corporation owns (one of its assets) or a distribution of inventory. For example, <emphasis class="colored-text">Walt Disney Company</emphasis> may choose to distribute tickets to visit its theme parks. <emphasis class="colored-text">Anheuser-Busch InBev</emphasis>, the company that owns the Budweiser and Michelob brands, may choose to distribute a case of beer to each shareholder. A property dividend may be declared when a company wants to reward its investors but doesn’t have the cash to distribute, or if it needs to hold onto its existing cash for other investments. Property dividends are not as common as cash or stock dividends. They are recorded at the fair market value of the asset being distributed. To illustrate accounting for a property dividend, assume that Duratech Corporation has 60,000 shares of $0.50 par value common stock outstanding at the end of its second year of operations, and the company’s board of directors declares a property dividend consisting of a package of soft drinks that it produces to each holder of common stock. The retail value of each case is $3.50. The amount of the dividend is calculated by multiplying the number of shares by the market value of each package:</para>
+<equation id="fs-idm361601616" class="unnumbered"><m:math><m:mrow><m:mn>60,000</m:mn><m:mspace width="0.2em"/><m:mtext>shares</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>$3.50</m:mn><m:mo>=</m:mo><m:mn>$210,000</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm360433616">The declaration to record the property dividend is a decrease (debit) to Retained Earnings for the value of the dividend and an increase (credit) to Property Dividends Payable for the $210,000.</para>
+<media id="fs-idm359642528" alt="Journal entry for December 31: Debit Retained Earnings 210,000, credit Property Dividends Payable 210,000. Explanation: “To record the declaration of a property dividend.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_Journ04_img.jpg"/>
+</media>
+<para id="fs-idm341564016">The journal entry to distribute the soft drinks on January 14 decreases both the Property Dividends Payable account (debit) and the Cash account (credit).</para>
+<media id="fs-idm356006544" alt="Journal entry for January 14: Debit Property Dividends Payable 210,000, credit Inventory 210,000. Explanation: “To record the distribution of a property dividend.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_Journ05_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm368222320">
+<title>Comparing Small Stock Dividends, Large Stock Dividends, and Stock Splits</title>
+<para id="fs-idm368256592">Companies that do not want to issue cash or property dividends but still want to provide some benefit to shareholders may choose between small stock dividends, large stock dividends, and stock splits. Both small and large stock dividends occur when a company distributes additional shares of stock to existing stockholders.</para>
+<para id="fs-idm368243216">There is no change in total assets, total liabilities, or total stockholders’ equity when a small stock dividend, a large stock dividend, or a stock split occurs. Both types of stock dividends impact the accounts in stockholders’ equity. A stock split causes no change in any of the accounts within stockholders’ equity. The impact on the financial statement usually does not drive the decision to choose between one of the stock dividend types or a stock split. Instead, the decision is typically based on its effect on the market. Large stock dividends and stock splits are done in an attempt to lower the market price of the stock so that it is more affordable to potential investors. A small stock dividend is viewed by investors as a distribution of the company’s earnings. Both small and large stock dividends cause an increase in common stock and a decrease to retained earnings. This is a method of capitalizing (increasing stock) a portion of the company’s earnings (retained earnings).</para>
+</section>
+<section id="fs-idm360118000">
+<title>Stock Dividends</title>
+<para id="fs-idm355257520">Some companies issue shares of stock as a dividend rather than cash or property. This often occurs when the company has insufficient cash but wants to keep its investors happy. When a company issues a <term>stock dividend</term>, it distributes additional shares of stock to existing shareholders. These shareholders do not have to pay income taxes on stock dividends when they receive them; instead, they are taxed when the investor sells them in the future.</para>
+<para id="fs-idm360558928">A stock dividend distributes shares so that after the distribution, all stockholders have the exact same percentage of ownership that they held prior to the dividend. There are two types of stock dividends—small stock dividends and large stock dividends. The key difference is that small dividends are recorded at market value and large dividends are recorded at the stated or par value.</para>
+<section id="fs-idm357985760"><title>Small Stock Dividends</title><para id="fs-idm368451712">A <term>small stock dividend</term> occurs when a stock dividend distribution is less than 25% of the total outstanding shares based on the shares outstanding prior to the dividend distribution. To illustrate, assume that Duratech Corporation has 60,000 shares of $0.50 par value common stock outstanding at the end of its second year of operations. Duratech’s board of directors declares a 5% stock dividend on the last day of the year, and the market value of each share of stock on the same day was $9. <link target-id="OSX_Acct_F14_03_Equity2"/> shows the stockholders’ equity section of Duratech’s balance sheet just prior to the stock declaration.</para>
+<figure id="OSX_Acct_F14_03_Equity2" class="scaled-down"><media id="fs-idm358835472" alt="Duratech, Stockholders’ Equity Section of the Balance Sheet, December 31, 2020. Stockholders’ Equity: Common Stock, $0.50 par value, 100,000 shares authorized, 60,000 issued and outstanding $30,000. Additional Paid-in capital 44,000. Retained Earnings 51,000. Total stockholders’ equity $125,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_Equity2.jpg"/>
+</media>
+
+<caption>Stockholders’ Equity for Duratech. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption></figure>
+<para id="fs-idm359464544">The 5% common stock dividend will require the distribution of 60,000 shares times 5%, or 3,000 additional shares of stock. An investor who owns 100 shares will receive 5 shares in the dividend distribution (5% × 100 shares). The journal entry to record the stock dividend declaration requires a decrease (debit) to Retained Earnings for the market value of the shares to be distributed: 3,000 shares × $9, or $27,000. An increase (credit) to the Common Stock Dividends Distributable is recorded for the par value of the stock to be distributed: 3,000 × $0.50, or $1,500. The excess of the market value over the par value is reported as an increase (credit) to the Additional Paid-in Capital from Common Stock account in the amount of $25,500.</para>
+<media id="fs-idm356124192" alt="Journal entry for December 31: Debit Retained Earnings 27,000, credit Common Stock Dividends Distributable 1,500, credit Additional Paid-in Capital from Common Stock 25,500. Explanation: “To record the declaration of a 5 percent stock dividend.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_Journ06_img.jpg"/>
+</media>
+<para id="fs-idm364334624">If the company prepares a balance sheet prior to distributing the stock dividend, the Common Stock Dividend Distributable account is reported in the equity section of the balance sheet beneath the Common Stock account. The journal entry to record the stock dividend distribution requires a decrease (debit) to Common Stock Dividend Distributable to remove the distributable amount from that account, $1,500, and an increase (credit) to Common Stock for the same par value amount.</para>
+<media id="fs-idm358819072" alt="Journal entry for XXX: Debit Common Stock Dividend Distributable 1,500, credit Common Stock 1,500. Explanation: “To record the distribution of a 5 percent stock dividend.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_Journ07_img.jpg"/>
+</media>
+<para id="fs-idm362030992">To see the effects on the balance sheet, it is helpful to compare the stockholders’ equity section of the balance sheet before and after the small stock dividend.</para>
+<media id="fs-idm361691776" alt="Duratech, Stockholders’ Equity Section of the Balance Sheet, December 31, 2020. Stockholders’ Equity, Before the Stock Dividend, Stock Dividend Effect, After the Stock Dividend (respectively): Common stock, $0,50 par value $30,000, 1,500, $31,500. Additional paid-in capital 44,000, 25,500, 69,500. Retained earnings 51,000, (27,000), 24,000. Total stockholders’ equity $125,000, 0, $125,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_StkDiv_img.jpg"/>
+</media>
+<para id="fs-idm367280656">After the distribution, the total stockholders’ equity remains the same as it was prior to the distribution. The amounts within the accounts are merely shifted from the earned capital account (Retained Earnings) to the contributed capital accounts (Common Stock and Additional Paid-in Capital). However, the number of shares outstanding has changed. Prior to the distribution, the company had 60,000 shares outstanding. Just after the distribution, there are 63,000 outstanding. The difference is the 3,000 additional shares of the stock dividend distribution. The company still has the same total value of assets, so its value does not change at the time a stock distribution occurs. The increase in the number of outstanding shares does not dilute the value of the shares held by the existing shareholders. The market value of the original shares plus the newly issued shares is the same as the market value of the original shares before the stock dividend. For example, assume an investor owns 200 shares with a market value of $10 each for a total market value of $2,000. She receives 10 shares as a stock dividend from the company. She now has 210 shares with a total market value of $2,000. Each share now has a theoretical market value of about $9.52.</para>
+</section><section id="fs-idm357433760"><title>Large Stock Dividends</title><para id="fs-idm365847536">A <term>large stock dividend</term> occurs when a distribution of stock to existing shareholders is greater than 25% of the total outstanding shares just before the distribution. The accounting for large stock dividends differs from that of small stock dividends because a large dividend impacts the stock’s market value per share. While there may be a subsequent change in the market price of the stock after a small dividend, it is not as abrupt as that with a large dividend.</para>
+<para id="fs-idm367008464">To illustrate, assume that Duratech Corporation’s balance sheet at the end of its second year of operations shows the following in the stockholders’ equity section prior to the declaration of a large stock dividend.</para>
+<media id="fs-idm360241776" class="scaled-down" alt="Duratech, Stockholders’ Equity Section of the Balance Sheet, December 31, 2020. Stockholders’ Equity: Common Stock, $0.50 par value, 100,000 shares authorized, 60,000 issued and outstanding $30,000. Additional Paid-in capital 44,000. Retained Earnings 51,000. Total stockholders’ equity $125,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_Equity3_img.jpg"/>
+</media>
+<para id="fs-idm364170096">Also assume that Duratech’s board of directors declares a 30% stock dividend on the last day of the year, when the market value of each share of stock was $9. The 30% stock dividend will require the distribution of 60,000 shares times 30%, or 18,000 additional shares of stock. An investor who owns 100 shares will receive 30 shares in the dividend distribution (30% × 100 shares). The journal entry to record the stock dividend declaration requires a decrease (debit) to Retained Earnings and an increase (credit) to Common Stock Dividends Distributable for the par or stated value of the shares to be distributed: 18,000 shares × $0.50, or $9,000. The journal entry is:</para>
+<media id="fs-idm358853552" alt="Journal entry for December 31: Debit Retained Earnings 9,000, credit Common Stock Dividends Distributable 9,000. Explanation: “To record the declaration of a 30 percent stock dividend.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_Journ08_img.jpg"/>
+</media>
+<para id="fs-idm367037792">The subsequent distribution will reduce the Common Stock Dividends Distributable account with a debit and increase the Common Stock account with a credit for the $9,000.</para>
+<media id="fs-idm364200352" alt="Journal entry for December 31: Debit Common Stock Dividend Distributable 9,000, credit Common Stock 9,000. Explanation: “To record the distribution of a 30 percent stock dividend.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_Journ09_img.jpg"/>
+</media>
+<para id="fs-idm360226880">There is no consideration of the market value in the accounting records for a large stock dividend because the number of shares issued in a large dividend is large enough to impact the market; as such, it causes an immediate reduction of the market price of the company’s stock.</para>
+<para id="fs-idm366387536">In comparing the stockholders’ equity section of the balance sheet before and after the large stock dividend, we can see that the total stockholders’ equity is the same before and after the stock dividend, just as it was with a small dividend (<link target-id="OSX_Acct_F14_03_StkDiv"/>).</para>
+<figure id="OSX_Acct_F14_03_StkDiv"><media id="fs-idm366827920" alt="Duratech, Stockholders’ Equity Section of the Balance Sheet, December 31, 2020. Stockholders’ Equity, Before the Stock Dividend, Stock Dividend Effect, After the Stock Dividend (respectively): Common stock, $0.50 par value $30,000, 9,000, $39,000. Additional paid-in capital 44,000, -, 44,000. Retained earnings 51,000, (9,000), 42,000. Total stockholders’ equity $125,000, 0, $125,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_StkDiv2.jpg"/>
+</media>
+
+<caption>Stockholders’ Equity Section of the Balance Sheet for Duratech. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption></figure><para id="fs-idm365902816">Similar to distribution of a small dividend, the amounts within the accounts are shifted from the earned capital account (Retained Earnings) to the contributed capital account (Common Stock) though in different amounts. The number of shares outstanding has increased from the 60,000 shares prior to the distribution, to the 78,000 outstanding shares after the distribution. The difference is the 18,000 additional shares in the stock dividend distribution. No change to the company’s assets occurred; however, the potential subsequent increase in market value of the company’s stock will increase the investor’s perception of the value of the company.</para>
+</section></section>
+<section id="fs-idm358708400"><title>Stock Splits</title><para id="fs-idm358710976">A traditional <term>stock split</term> occurs when a company’s board of directors issue new shares to existing shareholders in place of the old shares by increasing the number of shares and reducing the par value of each share. For example, in a 2-for-1 stock split, two shares of stock are distributed for each share held by a shareholder. From a practical perspective, shareholders return the old shares and receive two shares for each share they previously owned. The new shares have half the par value of the original shares, but now the shareholder owns twice as many. If a 5-for-1 split occurs, shareholders receive 5 new shares for each of the original shares they owned, and the new par value results in one-fifth of the original par value per share.</para>
+<para id="fs-idm370517856">While a company technically has no control over its common stock price, a stock’s market value is often affected by a stock split. When a split occurs, the market value per share is reduced to balance the increase in the number of outstanding shares. In a 2-for-1 split, for example, the value per share typically will be reduced by half. As such, although the number of outstanding shares and the price change, the total market value remains constant. If you buy a candy bar for $1 and cut it in half, each half is now worth $0.50. The total value of the candy does not increase just because there are more pieces.</para>
+<para id="fs-idm360962240">A stock split is much like a large stock dividend in that both are large enough to cause a change in the market price of the stock. Additionally, the split indicates that share value has been increasing, suggesting growth is likely to continue and result in further increase in demand and value. Companies often make the decision to split stock when the stock price has increased enough to be out of line with competitors, and the business wants to continue to offer shares at an attractive price for small investors.</para>
+<note id="fs-idm360992976" class="concepts-practice">
+<title>Samsung Boasts a 50-to-1 Stock Split</title>
+<para id="fs-idm364416816">In May of 2018, <emphasis class="colored-text">Samsung Electronics</emphasis><footnote id="fs-idm359853312">Joyce Lee. “Trading in Samsung Electronics Shares Surges after Stock Split.” <emphasis effect="italics">Reuters</emphasis>. May 3, 2018. https://www.reuters.com/article/us-samsung-elec-stocks/samsung-elec-shares-open-at-53000-won-each-after-501-stock-split-idUSKBN1I500B</footnote> had a 50-to-1 stock split in an attempt to make it easier for investors to buy its stock. <emphasis class="colored-text">Samsung</emphasis>’s market price of each share prior to the split was an incredible 2.65 won (“won” is a South Korean currency), or $2,467.48. Buying one share of stock at this price is rather expensive for most people. As might be expected, even after a slight drop in trading activity just after the split announcement, the reduced market price of the stock generated a significant increase to investors by making the price per share less expensive. The split caused the price to drop to 0.053 won, or $49.35 per share. This made the stock more accessible to potential investors who were previously unable to afford a share at $2,467.</para></note>
+<para id="fs-idm339369424">A <term>reverse stock split</term> occurs when a company attempts to increase the market price per share by reducing the number of shares of stock. For example, a 1-for-3 stock split is called a reverse split since it reduces the number of shares of stock outstanding by two-thirds and triples the par or stated value per share. The effect on the market is to increase the market value per share. A primary motivator of companies invoking reverse splits is to avoid being delisted and taken off a stock exchange for failure to maintain the exchange’s minimum share price.</para>
+<para id="fs-idm339325728">Accounting for stock splits is quite simple. No journal entry is recorded for a stock split. Instead, the company prepares a memo entry in its journal that indicates the nature of the stock split and indicates the new par value. The balance sheet will reflect the new par value and the new number of shares authorized, issued, and outstanding after the stock split. To illustrate, assume that Duratech’s board of directors declares a 4-for-1 common stock split on its $0.50 par value stock. Just before the split, the company has 60,000 shares of common stock outstanding, and its stock was selling at $24 per share. The split causes the number of shares outstanding to increase by four times to 240,000 shares (4 × 60,000), and the par value to decline to one-fourth of its original value, to $0.125 per share ($0.50 ÷ 4). No change occurs to the dollar amount of any general ledger account.</para>
+<media id="fs-idm366403840" alt="Two arrows: one showing Before the split pointing to 60,000 shares at $0.50 equals $30,000 and the other showing After the split pointing to 240,000 shares at $0.125 equals $30,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_CompSplit_img.jpg"/>
+</media>
+<para id="fs-idm364468176">The split typically causes the market price of stock to decline immediately to one-fourth of the original value—from the $24 per share pre-split price to approximately $6 per share post-split ($24 ÷ 4), because the total value of the company did not change as a result of the split. The total stockholders’ equity on the company’s balance sheet before and after the split remain the same.</para>
+<media id="fs-idm358471776" alt="Duratech, Stockholders’ Equity Section of the Balance Sheet, December 31, 2020. Stockholders’ Equity, Before the Stock Split, Stock Split Effect, After the Stock Split (respectively): Common stock, $30,000, 0, $30,000. Additional paid-in capital 44,000, -, 44,000. Retained earnings 51,000, 0, 51,000. Total stockholders’ equity $125,000, 0, $125,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_StkSplit_img.jpg"/>
+</media>
+<note id="fs-idm363686368" class="think-through">
+<title>Accounting for a Stock Split</title>
+<para id="fs-idm359546960">You have just obtained your MBA and obtained your dream job with a large corporation as a manager trainee in the corporate accounting department. Your employer plans to offer a 3-for-2 stock split. Briefly indicate the accounting entries necessary to recognize the split in the company’s accounting records and the effect the split will have on the company’s balance sheet.</para>
+</note>
+<note id="fs-idm366143344" class="your-turn">
+<title>Dividend Accounting</title>
+<para id="fs-idm365810816">Cynadyne, Inc.’s has 4,000 shares of $0.20 par value common stock authorized, 2,800 issued, and 400 shares held in treasury at the end of its first year of operations. On May 1, the company declared a $1 per share cash dividend, with a date of record on May 12, to be paid on May 25. What journal entries will be prepared to record the dividends?</para>
+<para id="fs-idm372472448"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm364365520">A journal entry for the dividend declaration and a journal entry for the cash payout:</para>
+<para id="fs-idm366108960">To record the declaration:</para>
+<media id="fs-idm364619392" class="scaled-down" alt="Journal entry for May 1: Debit Retained Earnings 2,400, credit Dividends Payable 2,400. Explanation: “To record board of directors authorizing cash dividends.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_YT02Sola_img.png"/>
+</media>
+<para id="fs-idm356147360">Date of declaration, May 12, no entry.</para>
+<para id="fs-idm364576512">To record the payment:</para>
+<media id="fs-idm371014400" alt="Journal entry for May 25: Debit Dividends Payable 2,400, credit Cash 2,400. Explanation: “To record cash payout of dividends.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_03_YT02Solb_img.png"/>
+</media>
+</note>
+<note id="fs-idm358512128" class="think-through">
+<title>Recording Stock Transactions</title>
+<para id="fs-idm345696576">In your first year of operations the following transactions occur for a company:</para>
+<list id="fs-idm364053536" list-type="bulleted" bullet-style="bullet">
+<item>Net profit for the year is $16,000</item>
+<item>100 shares of $1 par value common stock are issued for $32 per share</item>
+<item>The company purchases 10 shares at $35 per share</item>
+<item>The company pays a cash dividend of $1.50 per share</item>
+</list>
+<para id="fs-idm364106304">Prepare journal entries for the above transactions and provide the balance in the following accounts: Common Stock, Dividends, Paid-in Capital, Retained Earnings, and Treasury Stock.</para>
+</note>
+</section><section id="fs-idm362515440" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm361681936" list-type="bulleted" bullet-style="bullet">
+<item>Dividends are a distribution of corporate earnings, though some companies reinvest earnings rather than declare dividends.</item>
+<item>There are three dividend dates: date of declaration, date of record, and date of payment.</item>
+<item>Cash dividends are accounted for as a reduction of retained earnings and create a liability when declared.</item>
+<item>When dividends are declared and a company has only common stock issued, the reduction of retained earnings is the amount per share times the number of outstanding shares.</item>
+<item>A property dividend occurs when a company declares and distributes assets other than cash. They are recorded at the fair market value of the asset being distributed.</item>
+<item>A stock dividend is a distribution of shares of stock to existing shareholders in lieu of a cash dividend.</item>
+<item>A small stock dividend occurs when a stock dividend distribution is less than 25% of the total outstanding shares based on the outstanding shares prior to the dividend distribution. The entry requires a decrease to Retained Earnings for the market value of the shares to be distributed.</item>
+<item>A large stock dividend involves a distribution of stock to existing shareholders that is larger than 25% of the total outstanding shares just before the distribution. The journal entry requires a decrease to Retained Earnings and a credit to Stock Dividends Distributable for the par or stated value of the shares to be distributed.</item>
+<item>Some corporations employ stock splits to keep their stock price competitive in the market. A traditional stock split occurs when a company’s board of directors issues new shares to existing shareholders in place of the old shares by increasing the number of shares and reducing the par value of each share.</item>
+</list>
+</section>
+<section id="fs-idm362001264" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm362013312">
+<problem id="fs-idm362017728">
+<para id="fs-idm362011344"><link class="lo-reference" document="m67919"/>A company issued 40 shares of $1 par value common stock for $5,000. The journal entry to record the transaction would include which of the following?</para>
+<list id="fs-idm367961680" list-type="enumerated" number-style="upper-alpha">
+<item>debit of $4,000 to common stock</item>
+<item>credit of $20,000 to common stock</item>
+<item>credit of $40 to common stock</item>
+<item>debit of $20,000 to common stock</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm367268336">
+<problem id="fs-idm357536288">
+<para id="fs-idm370526112"><link class="lo-reference" document="m67919"/>A company issued 30 shares of $.50 par value common stock for $12,000. The credit to additional paid-in capital would be ________.</para>
+<list id="fs-idm356473984" list-type="enumerated" number-style="upper-alpha">
+<item>$11,985</item>
+<item>$12,000</item>
+<item>$15</item>
+<item>$10,150</item>
+</list>
+</problem>
+<solution id="fs-idm366100944">
+<para id="fs-idm359913760">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm372633216">
+<problem id="fs-idm360265872">
+<para id="fs-idm366833456"><link class="lo-reference" document="m67919"/>A corporation issued 100 shares of $100 par value preferred stock for $150 per share. The resulting journal entry would include which of the following?</para>
+<list id="fs-idm358014064" list-type="enumerated" number-style="upper-alpha">
+<item>a credit to common stock</item>
+<item>a credit to cash</item>
+<item>a debit to paid-in capital in excess of preferred stock</item>
+<item>a debit to cash</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm355957472">
+<problem id="fs-idm360748528">
+<para id="fs-idm359650000"><link class="lo-reference" document="m67919"/>The date the board of directors votes to declare and pay a cash dividend is called the:</para>
+<list id="fs-idm347110368" list-type="enumerated" number-style="upper-alpha">
+<item>date of stockholder’s meeting</item>
+<item>date of payment</item>
+<item>date of declaration</item>
+<item>date of liquidation</item>
+</list>
+</problem>
+<solution id="fs-idm363644176">
+<para id="fs-idm357250544">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm367178320">
+<problem id="fs-idm372104784">
+<para id="fs-idm370493824"><link class="lo-reference" document="m67919"/>Which of the following is true of a stock dividend?</para>
+<list id="fs-idm357534528" list-type="enumerated" number-style="upper-alpha">
+<item>It is a liability.</item>
+<item>The decision to issue a stock dividend resides with shareholders.</item>
+<item>It does not affect total equity but transfers amounts between equity components.</item>
+<item>It creates a cash reserve for shareholders.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm368419504" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm367355568">
+<problem id="fs-idm355855712">
+<para id="fs-idm363767584"><link class="lo-reference" document="m67919"/>On April 2, West Company declared a cash dividend of $0.50 per share. There are 50,000 shares outstanding. What is the journal entry that should be recorded?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm361190976">
+<problem id="fs-idm358657680">
+<para id="fs-idm361015712"><link class="lo-reference" document="m67919"/>Assuming the same facts as <link target-id="fs-idm367355568"/>, what is the journal that should be recorded on May 5, the date of payment?</para></problem>
+<solution id="fs-idm364359648">
+<table id="fs-idm364447408" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Dividends Payable</entry>
+<entry valign="top" align="right">25,000</entry>
+<entry valign="top" align="right"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">     Cash</entry>
+<entry valign="top" align="right"> </entry>
+<entry valign="top" align="right">25,000</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</solution>
+</exercise>
+<exercise id="fs-idm357189008">
+<problem id="fs-idm355837888">
+<para id="fs-idm367996320"><link class="lo-reference" document="m67919"/>When does a corporation incur a liability for a dividend?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm356937088">
+<problem id="fs-idm357014176">
+<para id="fs-idm357512864"><link class="lo-reference" document="m67919"/>How does a stock split affect the balance sheet of a corporation?</para>
+</problem>
+<solution id="fs-idm358561648">
+<para id="fs-idm361647296">In total, there is no change to the total dollar value of the equity section, just a change in the number of shares outstanding and a change in the par or stated value of the stock.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm366265200" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm371958688">
+<problem id="fs-idm359998064">
+<para id="fs-idm363913264"><link class="lo-reference" document="m67919"/>Nutritious Pet Food Company’s board of directors declares a cash dividend of $1.00 per common share on November 12. On this date, the company has issued 12,000 shares but 2,000 shares are held as treasury shares. What is the journal entry to record the declaration of this dividend?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm357198048">
+<problem id="fs-idm361329632">
+<para id="fs-idm357459600"><link class="lo-reference" document="m67919"/>Nutritious Pet Food Company’s board of directors declares a cash dividend of $1.00 per common share on November 12. On this date, the company has issued 12,000 shares but 2,000 shares are held as treasury shares. The company pays the dividend on December 14. What is the journal entry to record the payment of the dividend?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm361933648">
+<problem id="fs-idm362262528">
+<para id="fs-idm355936288"><link class="lo-reference" document="m67919"/>Nutritious Pet Food Company’s board of directors declares a cash dividend of $5,000 on June 30. At that time, there are 3,000 shares of $5 par value 5% preferred stock outstanding and 7,000 shares of $1 par value common stock outstanding (none held in treasury). What is the journal entry to record the declaration of the dividend?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm370772512">
+<problem id="fs-idm357254672">
+<para id="fs-idm359377968"><link class="lo-reference" document="m67919"/>Nutritious Pet Food Company’s board of directors declares a small stock dividend (20%) on June 30 when the stock’s market value per share is $30. At that time, there are 10,000 shares of $1 par value common stock outstanding (none held in treasury). What is the journal entry to record the declaration of the dividend?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm368328704" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm365057872">
+<problem id="fs-idm360521344">
+<para id="fs-idm360747104"><link class="lo-reference" document="m67919"/>Nutritious Pet Food Company’s board of directors declares a small stock dividend (20%) on June 30 when the stock’s market value per share is $30. At that time, there are 10,000 shares of $1 par value common stock outstanding (none held in treasury). What is the journal entry to record the stock dividend distribution on July 31?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm357525344">
+<problem id="fs-idm357596512">
+<para id="fs-idm361568688"><link class="lo-reference" document="m67919"/>Nutritious Pet Food Company’s board of directors declares a large stock dividend (50%) on June 30 when the stock’s market value per share is $30. At that time, there are 10,000 shares of $1 par value common stock outstanding (none held in treasury). What is the journal entry to record the declaration of the dividend?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm364345552">
+<problem id="fs-idm361895424">
+<para id="fs-idm360388176"><link class="lo-reference" document="m67919"/>Nutritious Pet Food Company’s board of directors declares a large stock dividend (50%) on June 30 when the stock’s market value per share is $30. At that time, there are 10,000 shares of $1 par value common stock outstanding (none held in treasury). What is the journal entry to record the stock dividend distribution on July 31?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm357215280">
+<problem id="fs-idm353189888">
+<para id="fs-idm357915376"><link class="lo-reference" document="m67919"/>Nutritious Pet Food Company’s board of directors declares a 2-for-1 stock split on June 30 when the stock’s market value per share is $30. At that time, there are 10,000 shares of $1 par value common stock outstanding (none held in treasury). What is the new par value of the shares and how many shares are outstanding after the split?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm372893248">
+<problem id="fs-idm361313952">
+<para id="fs-idm372273488"><link class="lo-reference" document="m67919"/>Nutritious Pet Food Company’s board of directors declares a 2-for-1 stock split on June 30 when the stock’s market value per share is $30. At that time, there are 10,000 shares of $1 par value common stock outstanding (none held in treasury). What is the new par value of the shares and how many shares are outstanding after the split? What is the total amount of equity before and after the split?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm357569776" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm361777296">
+<problem id="fs-idm355848944">
+<para id="fs-idm357388816"><link class="lo-reference" document="m67919"/>Aggregate Mining Corporation was incorporated five years ago. It is authorized to issue 500,000 shares of $100 par value 8% preferred stock. It is also authorized to issue 750,000 shares of $1 par value common stock. It has issued only 50,000 of the common shares and none of the preferred shares. In its sixth year, the corporation has the following transactions:</para>
+<table id="fs-idm365052432" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mar. 1</entry>
+<entry valign="top" align="left">Declares a cash dividend of $2 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 30</entry>
+<entry valign="top" align="left">Pays the cash dividend</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 10</entry>
+<entry valign="top" align="left">Declares a 5% stock dividend when the stock is trading at $15 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 5</entry>
+<entry valign="top" align="left">Issues the stock dividend</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm356812048">Journalize these transactions.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm364740352">
+<problem id="fs-idm364256592">
+<para id="fs-idm370580576"><link class="lo-reference" document="m67919"/>Aggregate Mining Corporation was incorporated five years ago. It is authorized to issue 500,000 shares of $100 par value 8% preferred stock. It is also authorized to issue 750,000 shares of $1 par value common stock. It has issued only 50,000 of the common shares and none of the preferred shares. In its seventh year, the corporation has the following transactions:</para>
+<table id="fs-idm364951904" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mar. 1</entry>
+<entry valign="top" align="left">Declares a cash dividend of $5 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 30</entry>
+<entry valign="top" align="left">Pays the cash dividend</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 10</entry>
+<entry valign="top" align="left">Declares a property dividend of 1/2 ton of limestone per share when the price of limestone is $25 per ton</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm372198880">Journalize these transactions.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm364985664">
+<problem id="fs-idm345764608">
+<para id="fs-idm345764352"><link class="lo-reference" document="m67919"/>Aggregate Mining Corporation was incorporated five years ago. It is authorized to issue 500,000 shares of $100 par value 8% cumulative preferred stock. It is also authorized to issue 750,000 shares of $6 par value common stock. It has issued 50,000 of the common shares and 1,000 of the cumulative preferred shares. The corporation has never declared a dividend and the preferred shares are one years in arrears. Aggregate Mining has the following transactions this year:</para>
+<table id="fs-idm358462512" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mar. 1</entry>
+<entry valign="top" align="left">Declares a cash dividend of $20,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 30</entry>
+<entry valign="top" align="left">Pays the cash dividend</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 10</entry>
+<entry valign="top" align="left">Declares a 3-for-1 stock split of its common shares</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm365504000">Journalize these transactions. For the stock split, show the calculation for how many shares are outstanding after the split and the par value per share after the split</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm365503040" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm365502272">
+<problem id="fs-idm365502016">
+<para id="fs-idm365501760"><link class="lo-reference" document="m67919"/>Tent &amp; Tarp Corporation is a manufacturer of outdoor camping equipment. The company was incorporated ten years ago. It is authorized to issue 50,000 shares of $10 par value 5% preferred stock. It is also authorized to issue 500,000 shares of $1 par value common stock. It has issued 5,000 common shares and none of the preferred shares. Tent &amp; Tarp has the following transactions:</para>
+<table id="fs-idm364891632" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mar. 1</entry>
+<entry valign="top" align="left">Declares a cash dividend of $3 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 30</entry>
+<entry valign="top" align="left">Pays the cash dividend</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 10</entry>
+<entry valign="top" align="left">Declares a 35% stock dividend when the stock is trading at $15 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 5</entry>
+<entry valign="top" align="left">Issues the stock dividend</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm364916688">Journalize these transactions.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm364916048">
+<problem id="fs-idm364915792">
+<para id="fs-idm364915536"><link class="lo-reference" document="m67919"/>Tent &amp; Tarp Corporation is a manufacturer of outdoor camping equipment. The company was incorporated ten years ago. It is authorized to issue 50,000 shares of $10 par value 5% preferred stock. It is also authorized to issue 500,000 shares of $1 par value common stock. It has issued 5,000 common shares and none of the preferred shares. Tent &amp; Tarp has the following transactions:</para>
+<table id="fs-idm364913824" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mar. 1</entry>
+<entry valign="top" align="left">Declares a cash dividend of $5 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 30</entry>
+<entry valign="top" align="left">Pays the cash dividend</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 10</entry>
+<entry valign="top" align="left">Declares a property dividend of one 6-person camping tent per share of stock when the price per tent is $150.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm364903040">Journalize these transactions.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm364902400">
+<problem id="fs-idm364902144">
+<para id="fs-idm364901888"><link class="lo-reference" document="m67919"/>Tent &amp; Tarp Corporation is a manufacturer of outdoor camping equipment. The company was incorporated ten years ago. It is authorized to issue 50,000 shares of $10 par value 5% preferred stock. It is also authorized to issue 500,000 shares of $1 par value common stock. It has issued 5,000 common shares and 2,000 of the preferred shares. The corporation has never declared a dividend and the preferred shares are one years in arrears. Tent &amp; Tarp has the following transactions:</para>
+<table id="fs-idm364899984" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mar. 1</entry>
+<entry valign="top" align="left">Declares a cash dividend of $10,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 30</entry>
+<entry valign="top" align="left">Pays the cash dividend</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 10</entry>
+<entry valign="top" align="left">Declares a 5-for-1 stock split of its common shares</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm360812816">Journalize these transactions. For the stock split, show the calculation for how many shares are outstanding after the split and the par value per share after the split</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm360811856" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm360810976">
+<problem id="fs-idm360810720">
+<para id="fs-idm360810464"><link class="lo-reference" document="m67919"/>As a bakery business continues to grow, cash flow has become more of a concern. The board of directors would like to maintain the market share price, so a discussion ensues about issuing a stock dividend versus a cash dividend. As a newly appointed board member you listen to the conversation and need to cast your vote. Which do you vote for: stock dividend or cash dividend?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm360808816">
+<problem id="fs-idm360808560">
+<para id="fs-idm360808304"><link class="lo-reference" document="m67919"/>Use the internet to find a company that declared a stock split within the last 1–2 years. Why did it declare the split? What happened to the company’s stock price immediately after the split and in the months since then? Is there any reason to think the split impacted the price?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm360805936">
+<term>cash dividend</term>
+<meaning id="fs-idm360805296">corporate earnings that companies pass along to their shareholders in the form of cash payments</meaning>
+</definition>
+<definition id="fs-idm360804672">
+<term>date of declaration</term>
+<meaning id="fs-idm360804032">date upon which a company’s board of directors votes and decides to give a cash dividend to all the company shareholders; the date on which the dividends become a legal liability</meaning>
+</definition>
+<definition id="fs-idm360803088">
+<term>date of payment</term>
+<meaning id="fs-idm360802448">date that cash dividends are paid to shareholders</meaning>
+</definition>
+<definition id="fs-idm360801936">
+<term>date of record</term>
+<meaning id="fs-idm360801296">date the list of dividend eligible shareholders is prepared; no journal entry is required</meaning>
+</definition>
+<definition id="fs-idm360800672">
+<term>dividend smoothing</term>
+<meaning id="fs-idm360800032">practice of paying dividends that are relatively equal period after period even when earnings fluctuate</meaning>
+</definition>
+<definition id="fs-idm360799408">
+<term>ex dividend</term>
+<meaning id="fs-idm360798768">status of stock sold between the record date and payment date during which the investor is not entitled to receive dividends</meaning>
+</definition>
+<definition id="fs-idm360798112">
+<term>large stock dividend</term>
+<meaning id="fs-idm360797472">stock dividend distribution that is larger than 25% of the total outstanding shares just before the distribution</meaning>
+</definition>
+<definition id="fs-idm360796832">
+<term>property dividend</term>
+<meaning id="fs-idm360796192">stock dividend distribution of assets other than cash</meaning>
+</definition>
+<definition id="fs-idm360795680">
+<term>reverse stock split</term>
+<meaning id="fs-idm360795040">issuance of new shares to existing shareholders in place of the old shares by decreasing the number of shares and increasing the par value of each share</meaning>
+</definition>
+<definition id="fs-idm360794352">
+<term>small stock dividend</term>
+<meaning id="fs-idm360793712">stock dividend distribution that is less than 25% of the total outstanding shares just before the distribution</meaning>
+</definition>
+<definition id="fs-idm360793072">
+<term>special dividend</term>
+<meaning id="fs-idm360792432">one-time extra distribution of corporate earnings to shareholders, usually stemming from a period of extraordinary earnings or special transaction, such as the sale of a company division</meaning>
+</definition>
+<definition id="fs-idm360791712">
+<term>stock dividend</term>
+<meaning id="fs-idm360791072">dividend payment consisting of additional shares rather than cash</meaning>
+</definition>
+<definition id="fs-idm360790560">
+<term>stock split</term>
+<meaning id="fs-idm360789920">issuance of new shares to existing shareholders in place of the old shares by increasing the number of shares and reducing the par value of each share</meaning>
+</definition>
+</glossary>
+</document>

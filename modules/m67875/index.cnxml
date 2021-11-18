@@ -1,0 +1,172 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Define and Explain Internal Controls and Their Purpose within an Organization</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67875</md:content-id>
+  <md:title>Define and Explain Internal Controls and Their Purpose within an Organization</md:title>
+  <md:abstract/>
+  <md:uuid>7e10a850-6953-44ee-a469-3a267d7f0548</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm801981152"><term>Internal controls</term> are the systems used by an organization to manage risk and diminish the occurrence of fraud. The internal control structure is made up of the control environment, the accounting system, and procedures called <emphasis effect="italics">control activities</emphasis>. Several years ago, the <term>Committee of Sponsoring Organizations (COSO)</term>, which is an independent, private-sector group whose five sponsoring organizations periodically identify and address specific accounting issues or projects, convened to address the issue of internal control deficiencies in the operations and accounting systems of organizations. They subsequently published a report that is known as COSO’s <emphasis effect="italics">Internal Control-Integrated Framework</emphasis>. The five components that they determined were necessary in an effective internal control system make up the components in the internal controls triangle shown in <link target-id="OSX_Acct_F08_03_Controls"/>.</para>
+<figure id="OSX_Acct_F08_03_Controls" class="scaled-down">
+<media id="fs-idm363304176" alt="Triangle with Internal Controls at the top, then each level going down is: Control of environment, Assessment of risk, Control of operational activities, Monitoring of control processes, and at the base is Accurate communication of information.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_03_Controls.jpg"/>
+</media>
+<caption>The Internal Control Environment. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm403292864">Here we address some of the practical aspects of internal control systems. The internal control system consists of the formal policies and procedures that do the following:</para>
+<list id="fs-idm395397136" list-type="bulleted">
+<item>ensure assets are properly used</item>
+<item>ensure that the accounting system is functioning properly</item>
+<item>monitor operations of the organization to ensure maximum efficiency</item>
+<item>ensure that assets are kept secure</item>
+<item>ensure that employees are in compliance with corporate policies</item>
+</list>
+<para id="fs-idm676352304">A properly designed and functioning internal control system will not eliminate the risk of loss, but it will reduce the risk.</para>
+<para id="fs-idm815880672">Different organizations face different types of risk, but when internal control systems are lacking, the opportunity arises for fraud, misuse of the organization’s assets, and employee or workplace corruption. Part of an accountant’s function is to understand and assist in maintaining the internal control in the organization.</para>
+<note id="fs-idm674128368" class="link-to-learning">
+<para id="fs-idm388592960">See the <link url="https://openstax.org/l/50IIA">Institute of Internal Auditors website</link> to learn more about many of the professional functions of the internal auditor.</para>
+</note>
+<para id="fs-idm388833440">Internal control keeps the assets of a company safe and keeps the company from violating any laws, while fairly recording the financial activity of the company in the accounting records. Proper accounting records are used to create the financial statements that the owners use to evaluate the operations of a company, including all company and employee activities. Internal controls are more than just reviews of how items are recorded in the company’s accounting records; they also include comparing the accounting records to the actual operations of the company.</para>
+<para id="fs-idm388550384">For example, a movie theater earns most of its profits from the sale of popcorn and soda at the concession stand. The prices of the items sold at the concession stand are typically high, even though the costs of popcorn and soda are low. Internal controls allow the owners to ensure that their employees do not give away the profits by giving away sodas and popcorn.</para>
+<para id="fs-idm392419824">If you were to go to the concession stand and ask for a cup of water, typically, the employee would give you a clear, small plastic cup called a courtesy cup. This internal control, the small plastic cup for nonpaying customers, helps align the accounting system and the theater’s operations. A movie theater does not use a system to directly account for the sale of popcorn, soda, or ice used. Instead, it accounts for the containers. A point-of-sale system compares the number of soda cups used in a shift to the number of sales recorded in the system to ensure that those numbers match. The same process accounts for popcorn buckets and other containers. Providing a courtesy cup ensures that customers drinking free water do not use the soda cups that would require a corresponding sale to appear in the point-of-sale system. The cost of the popcorn, soda, and ice will be recorded in the accounting system as an inventory item, but the internal control is the comparison of the recorded sales to the number of containers used. This is just one type of internal control. As we discuss the internal controls, we see that the internal controls are used both in accounting, to provide information for management to properly evaluate the operations of the company, and in business operations, to reduce fraud.</para>
+<para id="fs-idm400918816">It should be clear how important internal control is to all businesses, regardless of size. An effective internal control system allows a business to monitor its employees, but it also helps a company protect sensitive customer data. Consider the 2017 massive data breach at <emphasis class="colored-text">Equifax</emphasis> that compromised data of over 143 million people. With proper internal controls functioning as intended, there would have been protective measures to ensure that no unauthorized parties had access to the data. Not only would internal controls prevent outside access to the data, but proper internal controls would protect the data from corruption, damage, or misuse.</para>
+<note id="fs-idm397300720" class="your-turn">
+<title>Bank Fraud in Enid, Oklahoma</title>
+<para id="fs-idm674025088">The retired mayor of Enid, Oklahoma, Ernst Currier, had a job as a loan officer and then as a senior vice president at <emphasis class="colored-text">Security National Bank</emphasis>. In his bank job, he allegedly opened 61 fraudulent loans. He used the identities of at least nine real people as well as eight fictitious people and stole about $6.2 million.<footnote id="fs-idm654685520">Jack Money. “Fraudulent Loans Lead to Enid Banker’s Arrest on Numerous Felony Complaints.” <emphasis effect="italics">The Oklahoman</emphasis>. November 15, 2017. https://newsok.com/article/5572195/fraudulent-loans-lead-to-enid-bankers-arrest-on-numerous-felony-complaints</footnote> He was sentenced to 13 years in prison on 33 felony counts.</para>
+<para id="fs-idm400713360">Currier was able to circumvent one of the most important internal controls: segregation of duties. The American Institute of Certified Public Accountants (AICPA) states that segregation of duties “is based on shared responsibilities of a key process that disperses the critical functions of that process to more than one person or department. Without this separation in key processes, fraud and error risks are far less manageable.”<footnote id="fs-idm416795552">American Institute of Certified Public Accountants (AICPA). “Segregation of Duties.” n.d. https://www.aicpa.org/interestareas/informationtechnology/resources/value-strategy-through-segregation-of-duties.html</footnote> Currier used local residents’ identities and created false documents to open loans for millions of dollars and then collect the funds himself, without any oversight by any other employee. Creating these loans allowed him to walk up to the bank vault and take cash out of the bank without anyone questioning him. There was no segregation of duties for opening loans, or if there was, he was able to easily override those internal controls.</para>
+<para id="fs-idm414588496">How could internal controls have helped prevent Currier’s bank fraud in Enid, Oklahoma?</para>
+<para id="fs-idm635590272"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm410974192">Simply having someone else confirm the existence of the borrower and make the payment for the loan directly to the borrower would have saved this small bank millions of dollars.</para>
+</note>
+<para id="fs-idm352265200">Consider a bank that has to track deposits for thousands of customers. If a fire destroys the building housing the bank’s servers, how can the bank find the balances of each customer? Typically, organizations such as banks mirror their servers at several locations around the world as an internal control. The bank might have a main server in Tennessee but also mirror all data in real time to identical servers in Arizona, Montana, and even offshore in Iceland. With multiple copies of a server at multiple locations across the country, or even the world, in the event of disaster to one server, a backup server can take control of operations, protecting customer data and avoiding any service interruptions.</para>
+<para id="fs-idm388683328"><term>Internal controls</term> are the basic components of an <term>internal control system</term>, the sum of all internal controls and policies within an organization that protect assets and data. A properly designed system of internal controls aims to ensure the integrity of assets, allows for reliable accounting information and financial reporting, enhances efficiency within an organization, and provides guidelines and possible consequences for dealing with breaches. Internal controls drive many decisions and overall operational procedures within an organization. A properly designed internal control system will not prevent all loss from occurring, but it will significantly reduce the risk of loss and increase the chance of identifying the responsible party.</para>
+<note id="fs-idm395208928" class="continuing-application">
+<title>Fraud Controls for Grocery Stores</title>
+<para id="fs-idm401984480">All businesses are concerned with internal controls over reporting and assets. For the grocery industry this concern is even greater, because profit margins on items are so small that any lost opportunity hurts profitability. How can an individual grocery store develop effective controls?</para>
+<para id="fs-idm407880800">Consider the two biggest items that a grocery store needs to control: food (inventory) and cash. Inventory controls are set up to stop shrinkage (theft). While it is not profitable for each aisle to be patrolled by a security guard, cameras throughout the store linked to a central location allow security staff to observe customers. More controls are placed on cash registers to prevent employees from stealing cash. Cameras at each register, cash counts at each shift change, and/or a supervisor who observes cashiers are some potential internal control methods. Grocery stores invest more resources in controlling cash because they have determined it to be the greatest opportunity for fraudulent activity.</para>
+</note>
+<section id="fs-idm393212192">
+<title>The Role of Internal Controls</title>
+<para id="fs-idm647615200">The accounting system is the backbone of any business entity, whether it is profit based or not. It is the responsibility of management to link the accounting system with other functional areas of the business and ensure that there is communication among employees, managers, customers, suppliers, and all other internal and external users of financial information. With a proper understanding of internal controls, management can design an internal control system that promotes a positive business environment that can most effectively serve its customers.</para>
+<para id="fs-idm807469024">For example, a customer enters a retail store to purchase a pair of jeans. As the cashier enters the jeans into the point-of-sale system, the following events occur internally:</para>
+<list id="fs-idm317803232" list-type="enumerated" number-style="arabic">
+<item>A sale is recorded in the company’s journal, which increases revenue on the income statement. If the transaction occurred by credit card, the bank typically transfers the funds into the store’s bank account in a timely manner.</item>
+<item>The pair of jeans is removed from the inventory of the store where the purchase was made.</item>
+<item>A new pair of jeans is ordered from the distribution center to replace what was purchased from the store’s inventory.</item>
+<item>The distribution center orders a new pair of jeans from the factory to replace its inventory.</item>
+<item>Marketing professionals can monitor over time the trend and volume of jeans sold in a specific size. If an increase or decrease in sales volume of a specific size is noted, store inventory levels can be adjusted.</item>
+<item>The company can see in real time the exact inventory levels of all products in all stores at all times, and this can ensure the best customer access to products.</item>
+</list>
+<para id="fs-idm408884768">Because many systems are linked through technology that drives decisions made by many stakeholders inside and outside of the organization, internal controls are needed to protect the integrity and ensure the flow of information. An internal control system also assists all stakeholders of an organization to develop an understanding of the organization and provide assurance that all assets are being used efficiently and accurately.</para>
+</section>
+<section id="fs-idm417554032">
+<title>Environment Leading to the Sarbanes-Oxley Act</title>
+<para id="fs-idm405198432">Internal controls have grown in their importance as a component of most business decisions. This importance has grown as many company structures have grown in complexity. Despite their importance, not all companies have given maintenance of controls top priority. Additionally, many small businesses do not have adequate understanding of internal controls and therefore use inferior internal control systems. Many large companies have nonformalized processes, which can lead to systems that are not as efficient as they could be. The failure of the <emphasis class="colored-text">SCICAP Credit Union</emphasis> discussed earlier is a direct result of a small financial institution having a substandard internal control system leading to employee theft. One of the largest corporate failures of all time was <emphasis class="colored-text">Enron</emphasis>, and the failure can be directly attributed to poor internal controls.</para>
+<para id="fs-idm393143136"><emphasis class="colored-text">Enron</emphasis> was one of the largest energy companies in the world in the late twentieth century. However, a corrupt management attempted to hide weak financial performance by manipulating revenue recognition, valuation of assets on the balance sheet, and other financial reporting disclosures so that the company appeared to have significant growth. When this practice was uncovered, the owners of <emphasis class="colored-text">Enron</emphasis> stock lost $40 billion as the stock price dropped from $91 per share to less than $1 per share, as shown in <link target-id="OSX_Acct_F08_02_Enron"/>.<footnote id="fs-idm353382944">Douglas O. Linder, ed. “Enron Historical Stock Price.” Famous Trials. n.d. https://www.famous-trials.com/images/ftrials/Enron/documents/enronstockchart.pdf</footnote> This failure could have been prevented had proper internal controls been in place.</para>
+<para id="fs-idm366420048">For example, <emphasis class="colored-text">Enron</emphasis> and its accounting firm, <emphasis class="colored-text">Arthur Andersen</emphasis>, did not maintain an adequate degree of independence. <emphasis class="colored-text">Arthur Andersen</emphasis> provided a significant amount of services in both auditing and consulting, which prevented them from approaching the audit of <emphasis class="colored-text">Enron</emphasis> with a proper degree of independence. Also, among many other violations, <emphasis class="colored-text">Enron</emphasis> avoided the proper use of several acceptable reporting requirements.</para>
+<figure id="OSX_Acct_F08_02_Enron" class="scaled-down">
+<media id="fs-idm659254256" alt="Chart showing the price of Enron Stock starting at $91 on August 23, 2000 and going sporadically down to just above $0 by December 23, 2001. It remains at just above $0 until the end of the graph at January 11, 2002.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_02_Enron.jpg"/>
+</media>
+<caption>Change in Enron Stock Price. The Enron scandal was one of the largest frauds in the history of modern business. It was the main fraud that was responsible for creation of the Sarbanes-Oxley Act as well as the Public Company Accounting Oversight Board (PCAOB). (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm408517888">As a result of the <emphasis class="colored-text">Enron</emphasis> failure and others that occurred during the same time frame, Congress passed the <term>Sarbanes-Oxley Act (SOX)</term> to regulate practice to manage conflicts of analysts, maintain governance, and impose guidelines for criminal conduct as well as sanctions for violations of conduct. It ensures that internal controls are properly documented, tested, and used consistently. The intent of the act was to ensure that corporate financial statements and disclosures are accurate and reliable. It is important to note that SOX only applies to public companies. A <term>publicly traded company</term> is one whose stock is traded (bought and sold) on an organized stock exchange. Smaller companies still struggle with internal control development and compliance due to a variety of reasons, such as cost and lack of resources.</para>
+</section>
+<section id="fs-idm388813424">
+<title>Major Accounting Components of the Sarbanes-Oxley Act</title>
+<para id="fs-idm409235616">As it pertains to internal controls, the SOX requires the certification and documentation of internal controls. Specifically, the act requires that the auditor do the following:</para>
+<list id="fs-idm314651744" list-type="enumerated" number-style="arabic">
+<item>Issue an internal control report following the evaluation of internal controls.</item>
+<item>Limit nonaudit services, such as consulting, that are provided to a client.</item>
+<item>Rotate who can lead the audit. The person in charge of the audit can serve for a period of no longer than seven years without a break of two years.</item>
+</list>
+<para id="fs-idm393229072">Additionally, the work conducted by the auditor is to be overseen by the <term>Public Company Accounting Oversight Board (PCAOB)</term>. The PCAOB is a congressionally established, nonprofit corporation. Its creation was included in the Sarbanes-Oxley Act of 2002 to regulate conflict, control disclosures, and set sanction guidelines for any violation of regulations. The PCAOB was assigned the responsibilities of ensuring independent, accurate, and informative audit reports, monitoring the audits of securities brokers and dealers, and maintaining oversight of the accountants and accounting firms that audit publicly traded companies.</para>
+<note id="fs-idm351499808" class="link-to-learning">
+<para id="fs-idm394459056">Visit the <link url="https://openstax.org/l/50PCAOB">Public Company Accounting Oversight Board (PCAOB) website</link> to learn more about what it does.</para>
+</note>
+<para id="fs-idm400781728">Any employee found to violate SOX standards can be subject to very harsh penalties, including $5 million in fines and up to 20 to 25 years in prison. The penalty is more severe for securities fraud (25 years) than for mail or wire fraud (20 years).</para>
+<para id="fs-idm674212960">The SOX is relatively long and detailed, with Section 404 having the most application to internal controls. Under Section 404, management of a company must perform annual audits to assess and document the effectiveness of all internal controls that have an impact on the financial reporting of the organization. Also, selected executives of the firm under audit must sign the audit report and state that they attest that the audit fairly represents the financial records and conditions of the company.</para>
+<para id="fs-idm395123632">The financial reports and internal control system must be audited annually. The cost to comply with this act is very high, and there is debate as to how effective this regulation is. Two primary arguments that have been made against the SOX requirements is that complying with their requirements is expensive, both in terms of cost and workforce, and the results tend not to be conclusive. Proponents of the SOX requirements do not accept these arguments.</para>
+<para id="fs-idm416845248">One available potential response to mandatory SOX compliance is for a company to decertify (remove) its stock for trade on the available stock exchanges. Since SOX affects publicly traded companies, decertifying its stock would eliminate the SOX compliance requirement. However, this has not proven to be a viable option, primarily because investors enjoy the protection SOX provides, especially the requirement that the companies in which they invest undergo a certified audit prepared by CPAs employed by national or regional accounting firms. Also, if a company takes its stock off of an organized stock exchange, many investors assume that a company is in trouble financially and that it wants to avoid an audit that might detect its problems.</para>
+<note id="fs-idm412341264" class="your-turn">
+<title>The Growing Importance of the Report on Internal Controls</title>
+<para id="fs-idm406510160">Internal controls have become an important aspect of financial reporting. As part of the financial statements, the auditor has to issue a report with an opinion on the financial statements, as well as internal controls. Use the internet and locate the annual report of a company, specifically the report on internal controls. What does this report tell the user of financial information?</para>
+<para id="fs-idm684882720"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm416277376">The annual report informs the user about the financial results of the company, both in discussion by management as well as the financial statements. Part of the financial statements involves an independent auditor’s report on the integrity of the financial statements as well as the internal controls.</para>
+</note>
+<note id="fs-idm353408160" class="link-to-learning">
+<para id="fs-idm407143456">Many companies have their own internal auditors on staff. The role of the internal auditor is to test and ensure that a company has proper internal controls in place, and that they are functioning. Read about <link url="https://openstax.org/l/50ISPartAudit">how the internal audit works from <emphasis class="colored-text">I.S. Partners</emphasis></link> to learn more.</para>
+</note>
+</section>
+<section id="fs-idm624824560" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm644257664" list-type="bulleted" bullet-style="bullet">
+<item>A system of internal control is the policies combined with procedures created by management to protect the integrity of assets and ensure efficiency of operations.</item>
+<item>The system prevents losses and helps management maintain an effective means of performance.</item>
+</list>
+</section>
+<section id="fs-idm382074656" class="multiple-choice">
+<exercise id="fs-idm357461072">
+<problem id="fs-idm408494720">
+<para id="fs-idm391933392"><link class="lo-reference" document="m67875"/>Internal control is said to be the backbone of all businesses. Which of the following is the best description of internal controls?</para>
+<list id="fs-idm674277184" list-type="enumerated" number-style="upper-alpha">
+<item>Internal controls ensure that the financial statements published are correct.</item>
+<item>The only role of internal controls is to protect customer data.</item>
+<item>Internal controls and company policies are important to protect and safeguard assets and to protect all company data and are designed to protect the company from fraud.</item>
+<item>Internal controls are designed to keep employees from committing fraud against the company.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm378468608" class="questions">
+<exercise id="fs-idm383678048">
+<problem id="fs-idm410462064">
+<para id="fs-idm385172960"><link class="lo-reference" document="m67875"/>Why is it important to have a very sound and well-developed internal control structure?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm397242496">
+<problem id="fs-idm374298080">
+<para id="fs-idm417406064"><link class="lo-reference" document="m67875"/>The information technology departments of all companies have significant and important roles in the internal control systems. Discuss them and their importance.</para>
+</problem>
+<solution id="fs-idm413217216">
+<para id="fs-idm397726384">Protect data from corruption or damage. Have their servers mirrored at various locations around the world. Ensure that no unauthorized parties have access to the data. Ensure that all transactions are entered into the accounting system properly and accurately. If fraud or illegal access to data occurs, a good internal control will help identify the responsible party or parties.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm395485888">
+<problem id="fs-idm388497456">
+<para id="fs-idm401369984"><link class="lo-reference" document="m67875"/>What are the functions of the internal control?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+
+<glossary>
+<definition id="fs-idm408446560">
+<term>Committee of Sponsoring Organizations (COSO)</term>
+<meaning id="fs-idm400820608">independent, private-sector group whose five sponsoring organizations periodically identify and address specific accounting issues or projects related to internal controls</meaning>
+</definition>
+<definition id="fs-idm417433984">
+<term>internal control system</term>
+<meaning id="fs-idm391114496">sum of all internal controls and policies within an organization that protect assets and data</meaning>
+</definition>
+<definition id="fs-idm410784544">
+<term>internal controls</term>
+<meaning id="fs-idm398226080">systems used by an organization to manage risk and diminish the occurrence of fraud, consisting of the control environment, the accounting system, and control activities</meaning>
+</definition>
+<definition id="fs-idm416024928">
+<term>publicly traded company</term>
+<meaning id="fs-idm397864544">company whose stock is traded (bought and sold) on an organized stock exchange</meaning>
+</definition>
+<definition id="fs-idm396044480">
+<term>Public Company Accounting Oversight Board (PCAOB)</term>
+<meaning id="fs-idm405079712">organization created under the Sarbanes-Oxley Act to regulate conflict, control disclosures, and set sanction guidelines for any violation of regulation</meaning>
+</definition>
+<definition id="fs-idm686158512">
+<term>Sarbanes-Oxley Act (SOX)</term>
+<meaning id="fs-idm402302880">federal law that regulates business practices; intended to protect investors by enhancing the accuracy and reliability of corporate financial statements and disclosures through governance guidelines including sanctions for criminal conduct</meaning>
+</definition>
+</glossary>
+</document>

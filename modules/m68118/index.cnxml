@@ -1,0 +1,296 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Perform Break-Even Sensitivity Analysis for a Single Product Under Changing Business Situations</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68118</md:content-id>
+  <md:title>Perform Break-Even Sensitivity Analysis for a Single Product Under Changing Business Situations</md:title>
+  <md:abstract/>
+  <md:uuid>30ebfa77-c86d-4145-9d69-9ee29fc8cc88</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm223250032">Finding the break-even point or the sales necessary to meet a desired profit is very useful to a business, but cost-volume-profit analysis also can be used to conduct a <term>sensitivity analysis</term>, which shows what will happen if the sales price, units sold, variable cost per unit, or fixed costs change. Companies use this type of analysis to consider possible scenarios that assist them in planning.</para>
+<note id="fs-idm233929152" class="link-to-learning">
+<para id="fs-idm236366560">Watch this <link url="https://openstax.org/l/50BrkEvenChange">video that shows what happens if one or more of the variables in a break-even analysis is changed</link> to learn more.</para>
+</note>
+<section id="fs-idm225936672">
+<title>The Effects on Break-Even under Changing Business Conditions</title>
+<para id="fs-idm217410480">Circumstances often change within a company, within an industry, or even within the economy that impact the decision-making of an organization. Sometimes, these effects are sudden and unexpected, for example, if a hurricane destroyed the factory of a company’s major supplier; other times, they occur more slowly, such as when union negotiations affect your labor costs. In either of these situations, costs to the company will be affected. Using CVP analysis, the company can predict how these changes will affect profits.</para>
+</section>
+<section id="fs-idm208450176">
+<title>Changing a Single Variable</title>
+<para id="fs-idm443811536">To demonstrate the effects of changing any one of these variables, consider Back Door Café, a small coffee shop that roasts its own beans to make espresso drinks and gourmet coffee. They also sell a variety of baked goods and T-shirts with their logo on them. They track their costs carefully and use CVP analysis to make sure that their sales cover their fixed costs and provide a reasonable level of profit for the owners.</para>
+<section id="fs-idm211874416">
+<title>Change in Sales Price</title>
+<para id="fs-idm214648016">The owner of Back Door has one of her employees conduct a survey of the other coffee shops in the area and finds that they are charging $0.75 more for espresso drinks. As a result, the owner wants to determine what would happen to operating income if she increased her price by just $0.50 and sales remained constant, so she performs the following analysis:</para>
+<media id="fs-idm429479072" class="scaled-down" alt="Price Change Analysis: With Current Price, With New Price (respectively): Sales Price per Unit $3.75, $4.25; Variable Cost per Unit 1.50, 1.50; Contribution Margin per Unit $2.25, $2.75; Fixed Costs $2,475, $2,475; Break-even in Units 1,100, 900; Break-even in Dollars $4,125, $3,825. Contribution Margin Income Statement: Current Price, New Price (respectively): Unit Sales Expected 1,500, 1,500; Sales $5,625, $6,375; Variable Costs 2,250, 2,250; Contribution Margin $3,375, $4,125; Fixed Costs 2,475, 2,475; Net Income $900, $1,650.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_03_BkDr01_img.jpg"/>
+</media>
+<para id="fs-idm242465760">The only variable that has changed is the $0.50 increase in the price of their espresso drinks, but the net operating income will increase by $750. Another way to think of this increase in income is that, if the sales price increases by $0.50 per expresso drink and the estimated sales are 1,500 units, then this will result in an increase in overall contribution margin of $750. Moreover, since all of the fixed costs were met by the lower sales price, all of this $750 goes to profit. Again, this is assuming the higher sales price does not decrease the number of units sold. Since the other coffee shops will still be priced higher than Back Door, the owner believes that there will not be a decrease in sales volume.</para>
+<para id="fs-idm453004480">When making this adjustment to their sales price, Back Door Café is engaging in <term>target pricing</term>, a process in which a company uses market analysis and production information to determine the maximum price customers are willing to pay for a good or service in addition to the markup percentage. If the good can be produced at a cost that allows both the desired profit percentage as well as deliver the good at a price acceptable to the customer, then the company should proceed with the product; otherwise, the company will not achieve its desired profit goals.</para>
+</section>
+<section id="fs-idm193575840">
+<title>Change in Variable Cost</title>
+<para id="fs-idm236683504">In March, the owner of Back Door receives a letter from her cups supplier informing her that there is a $0.05 price increase due to higher material prices. Assume that the example uses the original $3.75 per unit sales price. The owner wants to know what would happen to net operating income if she absorbs the cost increase, so she performs the following analysis:</para>
+<media id="fs-idm231329744" class="scaled-down" alt="Variable Cost Change Analysis: With Current Price, With Increased Variable Cost (respectively): Sales Price per Unit $3.75, $3.75; Variable Cost per Unit 1.50, 1.55; Contribution Margin per Unit $2.25, $2.20; Fixed Costs $2,475, $2,475; Break-even in Units 1,100, 1,125; Break-even in Dollars $4,125, $4,218.75. Monthly Contribution Margin Income Statement: Current Variable Cost, Increased Variable Costs (respectively): Unit Sales Expected 1,500, 1,500; Sales $5,625, $5,625; Variable Costs 2,250, 2,325; Contribution Margin $3,375, $3,300; Fixed Costs 2,475, 2,475; Net Income $900, $825.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_03_BkDr02_img.jpg"/>
+</media>
+<para id="fs-idm217925232">She is surprised to see that just a $0.05 increase in variable costs (cups) will reduce her net income by $75. The owner may decide that she is fine with the lower income, but if she wants to maintain her income, she will need to find a new cup supplier, reduce other costs, or pass the price increase on to her customers. Because the increase in the cost of the cups was a variable cost, the impact on net income can be seen by taking the increase in cost per unit, $0.05, and multiplying that by the units expected to be sold, 1,500, to see the impact on the contribution margin, which in this case would be a decrease of $75. This also means a decrease in net income of $75.</para>
+</section>
+<section id="fs-idm411623024">
+<title>Change in Fixed Cost</title>
+<para id="fs-idm194305856">Back Door Café’s lease is coming up for renewal. The owner calls the landlord to indicate that she wants to renew her lease for another 5 years. The landlord is happy to hear she will continue renting from him but informs her that the rent will increase $225 per month. She is not certain that she can afford an additional $225 per month and tells him she needs to look at her numbers and will call him back. She pulls out her CVP spreadsheet and adjusts her monthly fixed costs upwards by $225. Assume that the example uses the original $3.75 per unit sales price. The results of her analysis of the impact of the rent increase on her annual net income are:</para>
+<media id="fs-idm208291728" class="scaled-down" alt="Fixed Cost Change Analysis: With Current Price, With Increased Fixed Cost (respectively): Sales Price per Unit $3.75, $3.75; Variable Cost per Unit 1.50, 1.50; Contribution Margin per Unit $2.25, $2.25; Fixed Costs $2,475, $2,700; Break-even in Units 1,100, 1,200; Break-even in Dollars $4,125, $4,500. Monthly Contribution Margin Income Statement: Current Fixed Costs, Increased Fixed Costs (respectively): Unit Sales Expected 1,500, 1,500; Sales $5,625, $5,625; Variable Costs 2,250, 2,250; Contribution Margin $3,375, $3,375; Fixed Costs 2,475, 2,700; Net Income $900, $675.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_03_BkDr03_img.jpg"/>
+</media>
+<para id="fs-idm220689024">Because the rent increase is a change in a fixed cost, the contribution margin per unit remains the same. However, the break-even point in both units and dollars increase because more units of contribution are needed to cover the $225 monthly increase in fixed costs. If the owner of the Back Door agrees to the increase in rent for the new lease, she will likely look for ways to increase the contribution margin per unit to offset this increase in fixed costs.</para>
+<para id="fs-idm221014752">In each of the prior examples, only one variable was changed—sales volume, variable costs, or fixed costs. There are some generalizations that can be made regarding how a change in any one of these variables affects the break-even point. These generalizations are summarized in <link target-id="fs-idm208451712"/>.</para>
+<table id="fs-idm208451712" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Generalizations Regarding Changes in Break-Even Point from a Change in One Variable</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Condition</entry>
+<entry valign="top" align="center">Result</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Sales Price Increases</entry>
+<entry valign="top" align="left">Break-Even Point Decreases (Contribution Margin is Higher, Need Fewer Sales to Break Even)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Sales Price Decreases</entry>
+<entry valign="top" align="left">Break-Even Point Increases (Contribution Margin is Lower, Need More Sales to Break Even)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Variable Costs Increase</entry>
+<entry valign="top" align="left">Break-Even Point Increases (Contribution Margin is Lower, Need More Sales to Break Even)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Variable Costs Decrease</entry>
+<entry valign="top" align="left">Break-Even Point Decreases (Contribution Margin is Higher, Need Fewer Sales to Break Even)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Fixed Costs Increase</entry>
+<entry valign="top" align="left">Break-Even Point Increases (Contribution Margin Does Not Change, but Need More Sales to Meet Fixed Costs)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Fixed Costs Decrease</entry>
+<entry valign="top" align="left">Break-Even Point Decreases (Contribution Margin Does Not Change, but Need Fewer Sales to Meet Fixed Costs)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-idm209746192" class="link-to-learning">
+<para id="fs-idm208253952">Watch this <link url="https://openstax.org/l/50BreakEven$">video that walks through, step by step, how to calculate break even in units and dollars and at a desired profit or sales level</link> to learn more.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm234394688">
+<title>Changing Multiple Variables</title>
+<para id="fs-idm237712560">We have analyzed situations in which one variable changes, but often, more than one change will occur at a time. For example, a company may need to lower its selling price to compete, but they may also be able to lower certain variable costs by switching suppliers.</para>
+<para id="fs-idm242848464">Suppose Back Door Café has the opportunity to purchase a new espresso machine that will reduce the amount of coffee beans required for an espresso drink by putting the beans under higher pressure. The new machine will cost $15,000, but it will decrease the variable cost per cup by $0.05. The owner wants to see what the effect will be on the net operating income and break-even point if she purchases the new machine. She has arranged financing for the new machine and the monthly payment will increase her fixed costs by $400 per month. When she conducts this analysis, she gets the following results:</para>
+<media id="fs-idm237537664" class="scaled-down" alt="Variable Cost and Fixed Cost Change Analysis: With Current Price, With Decreased VC and Increased FC (respectively): Sales Price per Unit $3.75, $3.75; Variable Cost per Unit 1.50, 1.45; Contribution Margin per Unit $2.25, $2.30; Fixed Costs $2,475, $2,875; Break-even in Units 1,100, 1250; Break-even in Dollars $4,125, $4,687.50. Contribution Margin Income Statement: Current Fixed Costs, Increased Fixed Costs (respectively): Unit Sales Expected 1,500, 1,500; Sales $5,625, $5,625; Variable Costs 2,250, 2,175; Contribution Margin $3,375, $3,450; Fixed Costs 2,475, 2,875; Net Income $900, $575.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_03_BkDr04_img.jpg"/>
+</media>
+<para id="fs-idm232935392">Looking at the “what-if” analysis, we see that the contribution margin per unit increases because of the $0.05 reduction in variable cost per unit. As a result, she has a higher total contribution margin available to cover fixed expenses. This is good, because the monthly payment on the espresso machine represents an increased fixed cost. Even though the contribution margin ratio increases, it is not enough to totally offset the increase in fixed costs, and her monthly break-even point has risen from $4,125.00 to $4,687.50. If the new break-even point in units is a realistic number (within the relevant range), then she would decide to purchase the new machine because, once it has been paid for, her break-even point will fall and her net income will rise. Performing this analysis is an effective way for managers and business owners to look into the future, so to speak, and see what impact business decisions will have on their financial position.</para>
+<para id="fs-idm236030512">Let’s look at another option the owner of the Back Door Café has to consider when making the decision about this new machine. What would happen if she purchased the new machine to realize the variable cost savings and also raised her price by just $0.20? She feels confident that such a small price increase will go virtually unnoticed by her customers but may help her offset the increase in fixed costs. She runs the analysis as follows:</para>
+<media id="fs-idm236510752" alt="Selling Price, Variable Cost, and Fixed Cost Change Analysis: With Current Price, With Decreased VC and Increased FC, With Increased SP Decreased VC and Increased FC (respectively): Sales Price per Unit $3.75, $3.75, $3.95; Variable Cost per Unit 1.50, 1.45, 1.45; Contribution Margin per Unit $2.25, $2.30, $2.50; Fixed Costs $2,475, $2,875, $2,875; Break-even in Units 1,100, 1,250, 1,150; Break-even in Dollars $4,125, $4,687.50, $4,542.50. Contribution Margin Income Statement: With Current Price, With Decreased VC and Increased FC, With Increased SP Decreased VC and Increased FC (respectively): Unit Sales Expected 1,500, 1,500, 1,500; Sales $5,625, $5,625, 5,925; Variable Costs 2,250, 2,175, 2,175; Contribution Margin $3,375, $3,450, $3,750; Fixed Costs 2,475, 2,875, 2,875; Net Income $900, $575, 875.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_03_BkDr05_img.jpg"/>
+</media>
+<para id="fs-idm204855984">The analysis shows the expected result: an increase in the per-unit contribution margin, a decrease in the break-even point, and an increase in the net operating income. She has changed three variables in her costs—sales price, variable cost, and fixed cost. In fact, the small price increase almost gets her back to the net operating income she realized before the purchase of the new expresso machine.</para>
+<para id="fs-idm205934976">By now, you should begin to understand why CVP analysis is such a powerful tool. The owner of Back Door Café can run an unlimited number of these what-if scenarios until she meets the financial goals for her company. There are very few tools in managerial accounting as powerful and meaningful as a cost-volume-profit analysis.</para>
+<note id="fs-idm235987008" class="concepts-practice">
+<title>Value Menus</title>
+<para id="fs-idm239354000">In January 2018, <emphasis class="colored-text">McDonald’s</emphasis> brought back its $1 value menu. After discontinuing its popular Dollar Menu six years previously, the new version has a list of items priced not only at $1, but at $2 and $3 as well. How can <emphasis class="colored-text">McDonald’s</emphasis> afford to offer menu items at this discounted price? Volume! Although the margin on each unit is very small, the food chain hopes to make up the difference in quantity. They also hope that consumers will add higher priced (and higher margin) items to their orders.<footnote id="fs-idm201927344">Zlati Meyer. “McDonald’s Hope Customers Buck Up Thursday to New Dollar Menu.” <emphasis effect="italics">USA Today.</emphasis> January 3, 2018. https://www.usatoday.com/story/money/2018/01/03/mcdonalds-hopes-customers-buck-up-thursday-new-dollar-menu/996350001/</footnote> The strategy is not without its risks, however, as rising food or labor costs could put franchisees in a position where the value pricing does not cover their product costs. Rivals <emphasis class="colored-text">Taco Bell</emphasis> and <emphasis class="colored-text">Dunkin’ Donuts</emphasis> have aggressively marketed their value menus, making it almost impossible for <emphasis class="colored-text">McDonald’s</emphasis> to ignore the growing trend among consumers for “value pricing.” Watch this <link url="https://openstax.org/l/50BrkEvenChange1">video</link> to see what <emphasis class="colored-text">McDonald’s</emphasis> is offering consumers.</para>
+</note>
+</section>
+<section id="fs-idm229978176" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm430593632" list-type="bulleted" bullet-style="bullet">
+<item>Cost-volume-profit analysis can be used to conduct a sensitivity analysis that shows what will happen if there are changes in any of the variables: sales price, units sold, variable cost per unit, or fixed costs.</item>
+<item>The break-even point may or may not be impacted by changes in costs depending on the type of cost affected.</item>
+</list>
+</section>
+<section id="fs-idm432069312" class="multiple-choice">
+<exercise id="fs-idm238534608">
+<problem id="fs-idm250025472">
+<para id="fs-idm440912848"><link class="lo-reference" document="m68118"/>When sales price increases and all other variables are held constant, the break-even point will ________.</para>
+<list id="fs-idm239620976" list-type="enumerated" number-style="upper-alpha">
+<item>remain unchanged</item>
+<item>increase</item>
+<item>decrease</item>
+<item>produce a lower contribution margin</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm222724000">
+<problem id="fs-idm238600928">
+<para id="fs-idm212552608"><link class="lo-reference" document="m68118"/>When sales price decreases and all other variables are held constant, the break-even point will ________.</para>
+<list id="fs-idm238553392" list-type="enumerated" number-style="upper-alpha">
+<item>remain unchanged</item>
+<item>increase</item>
+<item>decrease</item>
+<item>produce a higher contribution margin</item>
+</list>
+</problem>
+<solution id="fs-idm254238496">
+<para id="fs-idm223224912">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm242215072">
+<problem id="fs-idm238602960">
+<para id="fs-idm235488960"><link class="lo-reference" document="m68118"/>When variable costs increase and all other variables remain unchanged, the break-even point will ________.</para>
+<list id="fs-idm212414576" list-type="enumerated" number-style="upper-alpha">
+<item>remain unchanged</item>
+<item>increase</item>
+<item>decrease</item>
+<item>produce a lower contribution margin</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm246893536">
+<problem id="fs-idm213554112">
+<para id="fs-idm434312912"><link class="lo-reference" document="m68118"/>When fixed costs decrease and all other variables remain unchanged, the break-even point will ________.</para>
+<list id="fs-idm220707728" list-type="enumerated" number-style="upper-alpha">
+<item>remain unchanged</item>
+<item>increase</item>
+<item>decrease</item>
+<item>produce a lower contribution margin</item>
+</list>
+</problem>
+<solution id="fs-idm247800784">
+<para id="fs-idm240113152">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm218692112">
+<problem id="fs-idm240174656">
+<para id="fs-idm214463072"><link class="lo-reference" document="m68118"/>When fixed costs increase and all other variables remain unchanged, the contribution margin will ________.</para>
+<list id="fs-idm428178272" list-type="enumerated" number-style="upper-alpha">
+<item>remain unchanged</item>
+<item>increase</item>
+<item>decrease</item>
+<item>increase variable costs per unit</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm430725616" class="questions">
+<exercise id="fs-idm237653664">
+<problem id="fs-idm238299440">
+<para id="fs-idm236136736"><link class="lo-reference" document="m68118"/>Explain how a manager can use CVP analysis to make decisions regarding changes in operations or pricing structure.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm223241376">
+<problem id="fs-idm197531072">
+<para id="fs-idm238899360"><link class="lo-reference" document="m68118"/>After conducting a CVP analysis, most businesses will then recreate a revised or projected income statement incorporating the results of the CVP analysis. What is the benefit of taking this extra step in the analysis?</para>
+</problem>
+<solution id="fs-idm254141808">
+<para id="fs-idm252111344">Answers will vary. Responses should include a description of how the CVP analysis information can be brought into a projected income statement that takes into account additional revenues and expenses of the business to create a “big picture” of what happens as a result of a change in cost, volume, and profit</para>
+</solution>
+</exercise>
+<exercise id="fs-idm247753760">
+<problem id="fs-idm244935984">
+<para id="fs-idm455176864"><link class="lo-reference" document="m68118"/>Explain how it is possible for costs to change without changing the break-even point.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm235648224" class="exercise-set-a">
+<exercise id="fs-idm214367552">
+<problem id="fs-idm249268608">
+<para id="fs-idm245553280"><link class="lo-reference" document="m68118"/>Flanders Manufacturing is considering purchasing a new machine that will reduce variable costs per part produced by $0.15. The machine will increase fixed costs by $18,250 per year. The information they will use to consider these changes is shown here.</para>
+<media id="fs-idm255055184" class="scaled-down" alt="Current information: Units Sold 216,000, Sales Price per Unit $2.15, Variable Cost per Unit $1.75, Contribution Marin per Unit $0.40, Fixed Costs $56,000, Break-Even (in units) 140,000, Break-Even (in dollars) $301,000, Sales $464,400, Variable Costs $378,000, Contribution Margin $86,400, Fixed Costs $56,000, Net Income $30,400.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_03_EA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm234767968">
+<problem id="fs-idm234474704">
+<para id="fs-idm246180784"><link class="lo-reference" document="m68118"/>Marchete Company produces a single product. They have recently received the results of a market survey that indicates that they can increase the retail price of their product by 8% without losing customers or market share. All other costs will remain unchanged. Their most recent CVP analysis is shown. If they enact the 8% price increase, what will be their new break-even point in units and dollars?</para>
+<media id="fs-idm247325680" class="scaled-down" alt="Current information: Units Sold 950, Sales Price per Unit $125, Variable Cost per Unit $98, Contribution Marin per Unit $27, Fixed Costs $23,000, Break-Even (in units) 852, Break-Even (in dollars) $106,481, Sales $118,750, Variable Costs $93,100, Contribution Margin $25,650, Fixed Costs $23,000, Net Income 2,650.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_03_EA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm235240624">
+<problem id="fs-idm250057488">
+<para id="fs-idm208481792"><link class="lo-reference" document="m68118"/>Brahma Industries sells vinyl replacement windows to home improvement retailers nationwide. The national sales manager believes that if they invest an additional $25,000 in advertising, they would increase sales volume by 10,000 units. Prepare a forecasted contribution margin income statement for Brahma if they incur the additional advertising costs, using this information:</para>
+<media id="fs-idm210445792" class="scaled-down" alt="Sales (6,500 units at $115 per unit) $747,500 les Variable costs (6,500 units at $69 per unit) 448,500 equals Contribution Margin 299,000. Subtract Fixed Cost 19,500 equals Net Income $279,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_03_EA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm241408160" class="exercise-set-b">
+<exercise id="fs-idm194222960"><problem id="fs-idm237197808">
+<para id="fs-idm193776768"><link class="lo-reference" document="m68118"/>Shonda &amp; Shonda is a company that does land surveys and engineering consulting. They have an opportunity to purchase new computer equipment that will allow them to render their drawings and surveys much more quickly. The new equipment will cost them an additional $1,200 per month, but they will be able to increase their sales by 10% per year. Their current annual cost and break-even figures are as follows:</para>
+<media id="fs-idm414109936" class="scaled-down-30" alt="Current information: Units Sold 1,400, Sales Price per Unit $225, Variable Cost per Unit $145, Fixed Costs $52,000, Break-Even (in units) 650, Contribution Margin per Unit $0.36, Break-Even (in dollars) $146,250, Sales $315,000, Variable Costs $203,000, Fixed Costs $52,000, Net Income $60,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_03_EB01_img.jpg"/>
+</media>
+<list id="fs-idm241597040" list-type="enumerated" number-style="upper-alpha">
+<item>What will be the impact on the break-even point if Shonda &amp; Shonda purchases the new computer?</item>
+<item>What will be the impact on net operating income if Shonda &amp; Shonda purchases the new computer?</item>
+<item>What would be your recommendation to Shonda &amp; Shonda regarding this purchase?</item>
+</list>
+</problem>
+</exercise><exercise id="fs-idm248540048">
+<problem id="fs-idm240893424">
+<para id="fs-idm203018624"><link class="lo-reference" document="m68118"/>Baghdad Company produces a single product. They have recently received the result of a market survey that indicates that they can increase the retail price of their product by 10% without losing customers or market share. All other costs will remain unchanged. If they enact the 10% price increase, what will be their new break-even point in units and dollars? Their most recent CVP analysis is:</para>
+<media id="fs-idm207940432" class="scaled-down" alt="Current information: Units Sold 1,450, Sales Price per Unit $90, Variable Cost per Unit $40, Contribution Marin per Unit $50, Fixed Costs $20,650, Break-Even (in units) 413, Break-Even (in dollars) $37,170, Sales $130,500, Variable Costs $58,000, Contribution Margin $72,500, Fixed Costs $20,650, Net Income $51,850.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_03_EB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm205843248">
+<problem id="fs-idm235196144">
+<para id="fs-idm433859376"><link class="lo-reference" document="m68118"/>Keleher Industries manufactures pet doors and sells them directly to the consumer via their web site. The marketing manager believes that if the company invests in new software, they will increase their sales by 10%. The new software will increase fixed costs by $400 per month. Prepare a forecasted contribution margin income statement for Keleher Industries reflecting the new software cost and associated increase in sales. The previous annual statement is as follows:</para>
+<media id="fs-idm202305936" class="scaled-down" alt="Sales (3,100 units at $250 per unit) $775,000 less Variable costs (3,100 units at $115 per unit) 356,500 equals Contribution Margin 418,500. Subtract Fixed Cost 19,500 equals Net Income $399,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_03_EB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm233138256" class="problem-set-a">
+<exercise id="fs-idm245543360">
+<problem id="fs-idm236613824">
+<para id="fs-idm217945168"><link class="lo-reference" document="m68118"/>Kylie’s Cookies is considering the purchase of a larger oven that will cost $2,200 and will increase her fixed costs by $59. What would happen if she purchased the new oven to realize the variable cost savings of $0.10 per cookie, and what would happen if she raised her price by just $0.20? She feels confident that such a small price increase will decrease the sales by only 25 units and may help her offset the increase in fixed costs. Given the following current prices how would the break-even in units and dollars change if she doesn’t increase the selling price and if she does increase the selling price? Complete the monthly contribution margin income statement for each of these cases.</para>
+<media id="fs-idm248280672" alt="Selling Price, Variable Cost, and Fixed Cost Change Analysis with Current Price, with Decreased VC and Increased FC, and with Increased SP, Decreased VC, and Increased FC (respectively): Sales price per unit $1.75, -, -; Variable cost per unit 0.40, -, -; Contribution margin per unit $1.35, -, -; Fixed costs $405, -, -; Break-even in units 300, -, -; Break-even in dollars $525.00, -, -. Monthly Contribution Margin Income Statement with Current Price, with Decreased VC and Increased FC, and with Increased SP, Decreased VC, and Increased FC (respectively): Unit sales, expected 800, -, -; Sales -, -, -; Variable costs -, -, -; Contribution Margin -, -, -; Fixed costs -, -, -; Net income -, -, -.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_03_PA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm233983712" class="problem-set-b">
+<exercise id="fs-idm235243728">
+<problem id="fs-idm232512224">
+<para id="fs-idm254976992"><link class="lo-reference" document="m68118"/>Karen’s Quilts is considering the purchase of a new Long-arm Quilt Machine that will cost $17,500 and will increase her fixed costs by $119. What would happen if she purchased the new quilt machine to realize the variable cost savings of $5.00 per quilt, and what would happen if she raised her price by just $5.00? She feels confident that such a small price increase will not decrease the sales in units that will help her offset the increase in fixed costs. Given the following current prices how would the break-even in units and dollars change? Complete the monthly contribution margin income statement for each of these cases.</para>
+<media id="fs-idm199149424" alt="Selling Price, Variable Cost, and Fixed Cost Change Analysis, Current Price: Sales Price per Unit $65.00; Variable Cost per Unit 15.50; Contribution Margin per Unit $49.50; Fixed Costs $99.00; Break-even in Units 2; Break-even in Dollars $130.00. The previous with Decreased VC and Increased FC are blank. The previous with Increased SP, Decreased VC, and Increased FC are blank. Monthly Contribution Margin Income Statement: Unit Sales, Expected 10; Sales; Variable Costs; Contribution Margin; Fixed Costs; Net Income. The previous with Decreased VC and Increased FC are blank. The previous with Increased SP, Decreased VC, and Increased FC are blank.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_03_PB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm246179216" class="thought-provokers">
+<exercise id="fs-idm222693872">
+<problem id="fs-idm443771744">
+<para id="fs-idm234019616"><link class="lo-reference" document="m68118"/>As a manager, you have to choose between two options for new production equipment. Machine A will increase fixed costs by a substantial margin but will produce greater sales volume at the current price. Machine B will only slightly increase fixed costs but will produce considerable savings on variable cost per unit. No additional sales are anticipated if Machine B is selected. What are the relative merits of both machines, and how could you go about analyzing which machine is the better investment for the company in terms of both net operating income and break-even?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm429505296">
+<term>sensitivity analysis</term>
+<meaning id="fs-idm443777344">what will happen if sales price, units sold, variable cost per unit, or fixed costs change</meaning>
+</definition>
+<definition id="fs-idm241691680">
+<term>target pricing</term>
+<meaning id="fs-idm251010112">process in which a company uses market analysis and production information to determine the maximum price customers are willing to pay for a good or service in addition to the markup percentage</meaning>
+</definition>
+</glossary>
+</document>

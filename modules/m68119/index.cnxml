@@ -1,0 +1,306 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Perform Break-Even Sensitivity Analysis for a Multi-Product Environment Under Changing Business Situations</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68119</md:content-id>
+  <md:title>Perform Break-Even Sensitivity Analysis for a Multi-Product Environment Under Changing Business Situations</md:title>
+  <md:abstract/>
+  <md:uuid>f5abb1dc-5b0c-45f4-a3da-fd1e634290bf</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm247785088">Up to this point in our CVP analysis, we have assumed that a company only sells one product, but we know that, realistically, this is not the case. Most companies operate in a <term>multi-product environment</term>, in which they sell different products, manufacture different products, or offer different types of services. Companies price each one of their products or services differently, and the costs associated with each of those products or services vary as well. In addition, companies have limited resources, such as time and labor, and must decide which products to sell or produce and in what quantities, or which services to offer in order to be the most profitable. These profitability considerations are often what contributes substance to a sales mix decision</para>
+<section id="fs-idm425828480">
+<title>The Basics of Break-Even Analysis in a Multi-Product Environment</title>
+<para id="fs-idm425827840">In order to perform a break-even analysis for a company that sells multiple products or provides multiple services, it is important to understand the concept of a sales mix. A <term>sales mix</term> represents the relative proportions of the products that a company sells—in other words, the percentage of the company’s total revenue that comes from product A, product B, product C, and so forth. Sales mix is important to business owners and managers because they seek to have a mix that maximizes profit, since not all products have the same profit margin. Companies can maximize their profits if they are able to achieve a sales mix that is heavy with high-margin products, goods, or services. If a company focuses on a sales mix heavy with low-margin items, overall company profitability will often suffer.</para>
+<para id="fs-idm210832864">Performing a break-even analysis for these multi-product businesses is more complex because each product has a different selling price, a different variable cost, and, ultimately, a different contribution margin. We must also proceed under the assumption that the sales mix remains constant; if it does change, the CVP analysis must be revised to reflect the change in sales mix. For the sake of clarity, we will also assume that all costs are companywide costs, and each product contributes toward covering these companywide costs.</para>
+<note id="fs-idm425626544" class="think-through">
+<title>Selling Subs</title>
+<para id="fs-idm425625776">You are the manager of a sub shop located near a college campus. The college has recently added a fast-food style café to the student center, which has reduced the number of students eating at your restaurant. Your highest margin items are drinks (a contribution margin of approximately 90%) and vegetarian subs (a contribution margin of approximately 75%). How can you use CVP analysis to help you compete with the college’s café? What would you suggest as possible ways to increase business while maintaining target income levels?</para>
+</note>
+</section>
+<section id="fs-idm425826400">
+<title>Calculating Break-Even Analysis in a Multi-Product Environment</title>
+<para id="fs-idm189339392">When a company sells more than one product or provides more than one service, break-even analysis is more complex because not all of the products sell for the same price or have the same costs associated with them: Each product has its own margin. Consequently, the break-even point in a multi-product environment depends on the mix of products sold. Further, when the mix of products changes, so does the break-even point. If demand shifts and customers purchase more low-margin products, then the break-even point rises. Conversely, if customers purchase more high-margin products, the break-even point falls. In fact, even if total sales dollars remain unchanged, the break-even point can change based on the sales mix. Let’s look at an example of how break-even analysis works in a multi-product environment.</para>
+<para id="fs-idm430732640">In multi-product CVP analysis, the company’s sales mix is viewed as a <term>composite unit</term>, a selection of discrete products associated together in proportion to the sales mix. The composite unit is not sold to customers but is a concept used to calculate a combined contribution margin, which is then used to estimate the break-even point. Think of a composite unit as a virtual basket of fruit that contains the proportion of individual fruits equal to the company’s sales mix. If we purchased these items individually to make the fruit basket, each one would have a separate price and a different contribution margin. This is how a composite unit works in CVP analysis. We calculate the contribution margins of all of the component parts of the composite unit and then use the total to calculate the break-even point. It is important to note that fixed costs are allocated among the various components (products) that make up this composite unit. Should a product be eliminated from the composite unit or sales mix, the fixed costs must be re-allocated among the remaining products.</para>
+<para id="fs-idm201684448">If we use the fruit basket as an example, we can look at the individual fruits that make up the basket: apples, oranges, bananas, and pears. We see that each individual fruit has a selling price and a cost. Each fruit has its own contribution margin. But how would we determine the contribution margin for a composite of fruit, or in other words, for our basket of fruit?</para>
+<para id="fs-idm443022352">For our particular baskets, we will use 5 apples, 3 oranges, 2 bananas, and 1 pear. This means that our product mix is 5:3:2:1, as shown in <link target-id="OSX_Acct_M03_06_ProductMix"/>.</para>
+<figure id="OSX_Acct_M03_06_ProductMix">
+<media id="fs-idm222547232" alt="Fruit, Number of Units, Selling Price per Unit, Total Selling Price, Cost per Unit, Total Cost, Contribution Margin (respectively): Apple 5, $0.60, 3.00, 0.25, 1.25, 1.75; Orange 3, $1.00, 3.00, 0.75, 2.25, 0.75; Banana 2, $0.80, 1.60, 0.50, 1.00, 0.60; Pear 1, $1.90, 1.90, 1.50, 1.50, 0.40; Total –, –, $9.50, –, $6.00, $3.50.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_06_ProductMix.jpg"/>
+</media>
+<caption>Contribution Margin Based on Product Mix. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm234917232">Notice that the composite contribution margin is based on the number of units of each item that is included in the composite item. If we change the composition of the basket, then the composite contribution margin would change even though contribution margin of the individual items would not change. For example, if we only include 4 apples, the contribution margin of a single apple is still $0.35, but the contribution margin of the apples in the basket is $1.40, not $1.75 as it is when 5 apples are included in the basket. Let’s look at an additional example and see how we find the break-even point for a composite good.</para>
+<para id="fs-idm252506560">We will consider West Brothers for an example of a multi-product break-even analysis. West Brothers manufactures and sells 3 types of house siding: restoration vinyl, architectural vinyl, and builder grade vinyl, each with its own sales price, variable cost, and contribution margin, as shown:</para>
+<media id="fs-idm429278928" class="scaled-down" alt="Sales Price per Square Foot, Variable Cost per Square Foot, respectively: Builder Grade 6.25, 3.25; Architectural 7.75, 4.50; Restoration $9.25, $6.25.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_West01_img.jpg"/>
+</media>
+<para id="fs-idm237618336">The sales mix for West Brothers is 5 ft<sup>2</sup> of builder grade to 3 ft<sup>2</sup> of architectural grade to 2 ft<sup>2</sup> of restoration grade vinyl (a ratio of 5:3:2). This sales mix represents one composite unit, and the selling price of one composite unit is:</para>
+<media id="fs-idm429349936" class="scaled-down" alt="5 square feet of Builder Grade at $6.25 is $31.25. 3 square feet of Architectural at $7.75 is 23.25. 2 square feet of restoration at $9.25 is 18.50 for a total of $73.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_West02_img.jpg"/>
+</media>
+<para id="fs-idm222837472">West Brothers’ fixed costs are $145,000 per year, and the variable costs for one composite unit are:</para>
+<media id="fs-idm234271376" class="scaled-down" alt="5 square feet of Builder Grade at $3.25 is $16.25. 3 square feet of Architectural at $4.50 is 13.50. 2 square feet of restoration at $6.25 is 12.50 for a total of $42.25.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_West03_img.jpg"/>
+</media>
+<para id="fs-idm238357520">We will calculate the contribution margin of a composite unit for West Brothers using the same formula as before:</para>
+<media id="fs-idm254040208" class="scaled-down" alt="Selling Price per Composite Unit minus Variable Cost per Composite Unit equals Contribution Margin per Composite Unit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_West04_img.jpg"/>
+</media>
+<para id="fs-idm249963968">Applying the formula, we determine that $73 – $42.25 = 30.75. We then use the contribution margin per composite unit to determine West Brothers’ break-even point:</para>
+<equation id="fs-idm241772256" class="unnumbered"><m:math><m:mrow><m:mtext>Break-Even Point per Composite Unit</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>Total fixed costs</m:mtext></m:mrow><m:mrow><m:mtext>Contribution margin per composite unit</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$145,000</m:mn></m:mrow><m:mrow><m:mn>$30.75</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>4,715.45</m:mn><m:mspace width="0.2em"/><m:mtext>composite units</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm233113856">West Brothers will break even when it sells 4,715.45 (or 4,716 since it can’t sell a partial unit) composite units. To determine how many of each product West Brothers needs to sell, we apply their sales mix ratio (5:3:2) to the break-even quantity as follows:</para>
+<media id="fs-idm250420432" class="scaled-down-30" alt="Builder Grade 5 times 4,715.45 equals 23,577. Architectural 3 times 4,715.45 equals 14,146. Restoration 2 times 4,715.45 equals 9,431. Total Units: 47,154">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_West06_img.jpg"/>
+</media>
+<para id="fs-idm223709136">Using a forecasted or estimated contribution margin income statement, we can verify that the quantities listed will place West Brothers at break-even.</para>
+<media id="fs-idm206079808" class="scaled-down" alt="West Brothers Forecasted Contribution Margin Income Statement at Break-Even Sales: Builder grade (23,577 at $6.25) $147,358, Architectural (14,146 at 7.75) 109,634, Restoration (9,431 at $9.25) 87,236; Total Sales 344,228; Variable Costs: Builder grade (23,577 at $3.25) 76,626, Architectural (14,146 at 4.50) 63,659, Restoration (9,431 at $6.25) 58,943; Total Variable Costs 199,228, Contribution Margin 145,000 less Fixed Costs 145,000 equals Net Income of 0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_West07_img.jpg"/>
+</media>
+<para id="fs-idm245857584">West Brothers can use this CVP analysis for a wide range of business decisions and for planning purposes. Remember, however, that if the sales mix changes from its current ratio, then the break-even point will change. For planning purposes, West Brothers can change the sales mix, sales price, or variable cost of one or more of the products in the composite unit and perform a “what-if” analysis.</para>
+<note id="fs-idm210791760" class="your-turn"><title>Margins in the Sales Mix</title><para id="fs-idm218694096">The sales mix of a company selling two products, A and B, is 3:1. The per-unit variable costs is $4 for Product A and $5 for Product B. Product A sells for $10 and product B sells for $9. Fixed costs for the company are $220,000.</para>
+<list id="fs-idm236284624" list-type="enumerated" number-style="upper-alpha">
+<item>What is the contribution margin per composite unit?</item>
+<item>What is the break-even point in composite units?</item>
+<item>How many units of product A and product B will the company sell at the break-even point?</item>
+</list>
+<para id="fs-idm428178272"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm199307776">A.</para>
+<media id="fs-idm221285424" class="scaled-down" alt="Data for products A and B. Sales price per unit is $10 for A and $9 for B. Variable cost per unit is $4 for A and $5 for B. Contribution margin per unit is $6 for A and $4 for B.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_YT01S1_img.jpg"/>
+</media>
+<para id="fs-idm429254352">B.</para>
+<media id="fs-idm201789952" class="scaled-down" alt="Product: A, B; Composite per unit sales (SP times mix): $10 times 3 equals $30, 49 times 1 equals $9. Total equals $39. Composite per unit variable cost (VC times mix): $4 times 3 equals $12, $5 times 1 equals $5. Total equals $17. Composite per unit contribution margin: $18, $4. Total equals $22. Break-even point per composite unit equals FC divided by composite CM 10,000 units minus $220,000 divided by $22.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_YT01S2_img.jpg"/>
+</media>
+<para id="fs-idm226744544">Break-even per composite unit = 15,385.</para>
+<para id="fs-idm237387872">C.</para>
+<media id="fs-idm223725456" class="scaled-down" alt="Number of units per product (mix times units in one composite unit): A, 3 times 10,000, 30,000; B, 1 times 10,000, 10,000. Composite sales (unit SP times product composite units): Product A $10 times 30,000 units, $30,000; Product B $9 times 10,000 units, $90,000; Total sales $390,000. Composite variable costs (unit VC times product composite units): Product A $4 times 30,000 units, $120,000; Product B $5 times 10,000 units, $50,000; Total variable cost $170,000. Contribution Margin (sales minus VC) $220,000. Fixed costs $220,000. Net Income $0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_YT01S3_img.jpg"/>
+</media>
+</note></section>
+<section id="fs-idm217930256" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm240291520" list-type="bulleted" bullet-style="bullet">
+<item>Companies provide multiple products, goods, and services to the consumer and, as result, need to calculate their break-even point based on the mix of the products, goods, and services.</item>
+<item>In a multi-product environment, calculating the break-even point is more complex and is usually calculated using a composite unit, which represents the sales mix of the business.</item>
+<item>If the sales mix of a company changes, then the break-even point changes, regardless of whether total sales dollars change or not.</item>
+</list>
+</section>
+<section id="fs-idm212345680" class="multiple-choice">
+<exercise id="fs-idm235160704">
+<problem id="fs-idm211116016">
+<para id="fs-idm440846688"><link class="lo-reference" document="m68119"/>If the sales mix in a multi-product environment shifts to a higher volume in low contribution margin products, the break-even point will ________.</para>
+<list id="fs-idm241374656" list-type="enumerated" number-style="upper-alpha">
+<item>remain unchanged because all products are included in the calculation of break-even</item>
+<item>increase because the low contribution margin products have little effect on break-even</item>
+<item>increase because the per composite unit contribution margin will decrease</item>
+<item>decrease because the per composite unit contribution margin will increase</item>
+</list>
+</problem>
+<solution id="fs-idm237454464">
+<para id="fs-idm212414576">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm236428528">
+<problem id="fs-idm237639616">
+<para id="fs-idm238553392"><link class="lo-reference" document="m68119"/>Break-even for a multiple product firm ________.</para>
+<list id="fs-idm236112800" list-type="enumerated" number-style="upper-alpha">
+<item>can be calculated by dividing total fixed costs by the contribution margin of a composite unit</item>
+<item>can be calculated by multiplying fixed costs by the contribution margin ratio of a composite unit</item>
+<item>can only be calculated when the proportion of products sold is the same for all products</item>
+<item>can be calculated by multiplying fixed costs by the contribution margin ratio of the most common product in the sales mix</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm240961056">
+<problem id="fs-idm234394688">
+<para id="fs-idm250752976"><link class="lo-reference" document="m68119"/>Waskowski Company sells three products (A, B, and C) with a sales mix of 3:2:1. Unit sales price are shown. What is the sales price per composite unit?</para>
+<media id="fs-idm236391616" class="scaled-down-30" alt="Product A $7, Product B $4, Product C $6.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_MC03_img.jpg"/>
+</media>
+<list id="fs-idm203473376" list-type="enumerated" number-style="upper-alpha">
+<item>$17.00</item>
+<item>$25.00</item>
+<item>$35.00</item>
+<item>$20.00</item>
+</list>
+</problem>
+<solution id="fs-idm242150528">
+<para id="fs-idm448130720">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm255016096">
+<problem id="fs-idm233669936">
+<para id="fs-idm240174656"><link class="lo-reference" document="m68119"/>Beaucheau Farms sells three products (E, F, and G) with a sale mix ratio of 3:1:2. Unit sales price are shown. What is the sales price per composite unit?</para>
+<media id="fs-idm235516240" class="scaled-down-30" alt="Product E $11, Product F $8, Product G $9.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_MC04_img.jpg"/>
+</media>
+<list id="fs-idm241555024" list-type="enumerated" number-style="upper-alpha">
+<item>$28.00</item>
+<item>$20.00</item>
+<item>$59.00</item>
+<item>$41.00</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm208407328">
+<problem id="fs-idm240919152">
+<para id="fs-idm212040880"><link class="lo-reference" document="m68119"/>A company sells two products, Model 101 and Model 202. For every one unit of Model 101, they sell they sell two units of Model 202. Sales and cost information for the two products is shown. What is the contribution margin for a composite unit based on the sales mix?</para>
+<media id="fs-idm425625104" class="scaled-down-30" alt="Sales Price, Variable Cost respectively: Model 101 $25, 11; Model 202 28, 7.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_MC05_img.jpg"/>
+</media>
+<list id="fs-idm239181584" list-type="enumerated" number-style="upper-alpha">
+<item>$14</item>
+<item>$21</item>
+<item>$35</item>
+<item>$56</item>
+</list>
+</problem>
+<solution id="fs-idm234404576">
+<para id="fs-idm237537664">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm236592848" class="questions">
+<exercise id="fs-idm234259696">
+<problem id="fs-idm236713872">
+<para id="fs-idm237890416"><link class="lo-reference" document="m68119"/>Explain what a sales mix is and how changes in the sales mix affect the break-even point.</para>
+</problem>
+<solution id="fs-idm222724000">
+<para id="fs-idm241740176">Answers will vary. Responses should include the definition of sales mix as the relative proportions in which a company’s products are sold as well as a description of how products within the sales mix have unique sales prices, variable costs, and contribution margins.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm217251456">
+<problem id="fs-idm234967104">
+<para id="fs-idm241137968"><link class="lo-reference" document="m68119"/>Explain how break-even analysis for a multi-product company differs from a company selling a single product.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm226760352" class="exercise-set-a">
+<exercise id="fs-idm249845264">
+<problem id="fs-idm247415360">
+<para id="fs-idm238618576"><link class="lo-reference" document="m68119"/>Salvador Manufacturing builds and sells snowboards, skis and poles. The sales price and variable cost for each are shown:</para>
+<media id="fs-idm241527536" class="scaled-down" alt="Product, Selling Price per Unit, Variable Cost per Unit (respectively): Snowboards, $320, 170; Skis 400, 225; Poles 50, 20.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_EA01a_img.jpg"/>
+</media>
+<para id="fs-idm253173552">Their sales mix is reflected in the ratio 7:3:2. What is the overall unit contribution margin for Salvador with their current product mix?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm236486912">
+<problem id="fs-idm236422896">
+<para id="fs-idm249739088"><link class="lo-reference" document="m68119"/>Salvador Manufacturing builds and sells snowboards, skis and poles. The sales price and variable cost for each follows:</para><media id="fs-idm243857456" class="scaled-down" alt="Product, Selling Price per Unit, Variable Cost per Unit (respectively): Snowboards, $320, 170; Skis 400, 225; Poles 50, 20.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_EA01a_img.jpg"/>
+</media>
+<para id="fs-idm238713200">Their sales mix is reflected in the ratio 7:3:2. If annual fixed costs shared by the three products are $196,200, how many units of each product will need to be sold in order for Salvador to break even?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm234385760">
+<problem id="fs-idm252397008">
+<para id="fs-idm245666512"><link class="lo-reference" document="m68119"/>Use the information from <link target-id="fs-idm249845264">the previous exercises</link> involving Salvador Manufacturing to determine their break-even point in sales dollars.</para></problem>
+</exercise>
+</section>
+<section id="fs-idm241623104" class="exercise-set-b">
+<exercise id="fs-idm236698112">
+<problem id="fs-idm455779552">
+<para id="fs-idm238208160"><link class="lo-reference" document="m68119"/>JJ Manufacturing builds and sells switch harnesses for glove boxes. The sales price and variable cost for each follows:</para>
+<media id="fs-idm240117984" class="scaled-down" alt="Product, Selling Price per Unit, Variable Cost per Unit (respectively): Trunk Switch, $60, $28; Gas Door Switch $75, $33; Glove Box Light $40, $22.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_EB01a_img.jpg"/>
+</media>
+<para id="fs-idm235126272">Their sales mix is reflected in the ratio 4:4:1. What is the overall unit contribution margin for JJ Manufacturing with their current product mix?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm236931296">
+<problem id="fs-idm205886800">
+<para id="fs-idm439150496"><link class="lo-reference" document="m68119"/>JJ Manufacturing builds and sells switch harnesses for glove boxes. The sales price and variable cost for each follow:</para><media id="fs-idm236164384" class="scaled-down" alt="Product, Selling Price per Unit, Variable Cost per Unit (respectively): Trunk Switch, $60, $28; Gas Door Switch, $75, $33; Glove Box Light, $40, $22.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_EB01a_img.jpg"/>
+</media>
+<para id="fs-idm255055184">Their sales mix is reflected in the ratio 4:4:1. If annual fixed costs shared by the three products are $18,840 how many units of each product will need to be sold in order for JJ to break even?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm234930448">
+<problem id="fs-idm199149424">
+<para id="fs-idm213957456"><link class="lo-reference" document="m68119"/>Use the information from <link target-id="fs-idm236698112">the previous exercises</link> involving JJ Manufacturing to determine their break-even point in sales dollars.</para></problem>
+</exercise>
+</section>
+<section id="fs-idm245941632" class="problem-set-a">
+<exercise id="fs-idm237067456">
+<problem id="fs-idm249991840">
+<para id="fs-idm241777728"><link class="lo-reference" document="m68119"/>Morris Industries manufactures and sells three products (AA, BB, and CC). The sales price and unit variable cost for the three products are as follows:</para>
+<media id="fs-idm440874016" class="scaled-down" alt="Product, Sales Price per Unit, Variable Cost per Unit (respectively): AA $50, $30; BB 40, 15; CC 30, 10.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_EA01_img.jpg"/>
+</media>
+<para id="fs-idm192296688">Their sales mix is reflected as a ratio of 5:3:2. Annual fixed costs shared by the three products are $258,000 per year.</para>
+<list id="fs-idm238814448" list-type="enumerated" number-style="upper-alpha">
+<item>What are total variable costs for Morris with their current product mix?</item>
+<item>Calculate the number of units of each product that will need to be sold in order for Morris to break even.</item>
+<item>What is their break-even point in sales dollars?</item>
+<item>Using an income statement format, prove that this is the break-even point.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm204920416">
+<problem id="fs-idm212356000">
+<para id="fs-idm234019616"><link class="lo-reference" document="m68119"/>Manatoah Manufacturing produces 3 models of window air conditioners: model 101, model 201, and model 301. The sales price and variable costs for these three models are as follows:</para>
+<media id="fs-idm203733120" alt="Product, Sales Price per Unit, Variable Cost per Unit (respectively): Model 101 $275, $185; Model 201 350, 215; Model 301 400, 245.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_EA02_img.jpg"/>
+</media>
+<para id="fs-idm253789424">The current product mix is 4:3:2. The three models share total fixed costs of $430,000.</para>
+<list id="fs-idm455907408" list-type="enumerated" number-style="upper-alpha">
+<item>Calculate the sales price per composite unit.</item>
+<item>What is the contribution margin per composite unit?</item>
+<item>Calculate Manatoah’s break-even point in both dollars and units.</item>
+<item>Using an income statement format, prove that this is the break-even point.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm239519280" class="problem-set-b">
+<exercise id="fs-idm250846112">
+<problem id="fs-idm234938224">
+<para id="fs-idm239561952"><link class="lo-reference" document="m68119"/>Abilene Industries manufactures and sells three products (XX, YY, and ZZ). The sales price and unit variable cost for the three products are as follows:</para>
+<media id="fs-idm235538848" class="scaled-down" alt="Product, Sales Price per Unit, Variable Cost per Unit (respectively): XX $75, $45; YY 60, 25; ZZ 55, 15.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_EB01_img.jpg"/>
+</media>
+<para id="fs-idm244935984">Their sales mix is reflected as a ratio of 4:2:1. Annual fixed costs shared by the three products are $345,000 per year.</para>
+<list id="fs-idm241290464" list-type="enumerated" number-style="upper-alpha">
+<item>What are total variable costs for Abilene with their current product mix?</item>
+<item>Calculate the number of units of each product that will need to be sold in order for Abilene to break even.</item>
+<item>What is their break-even point in sales dollars?</item>
+<item>Using an income statement format, prove that this is the break-even point.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm253989840">
+<problem id="fs-idm242283968">
+<para id="fs-idm411623280"><link class="lo-reference" document="m68119"/>Tim-Buck-II rents jet skis at a beach resort. There are three models available to rent: Junior, Adult, and Expert. The rental price and variable costs for these three models are as follows:</para>
+<media id="fs-idm241486432" class="scaled-down" alt="Product, Sales Price per Unit, Variable Cost per Unit (respectively): Junior $50, $15; Adult 75, 25; Expert 110, 60.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_04_EB02_img.jpg"/>
+</media>
+<para id="fs-idm249846928">The current product mix is 5:4:1. The three models share total fixed costs of $114,750</para>
+<list id="fs-idm440671744" list-type="enumerated" number-style="upper-alpha">
+<item>Calculate the sales price per composite unit.</item>
+<item>What is the contribution margin per composite unit?</item>
+<item>Calculate Tim-Buck-II’s break-even point in both dollars and units.</item>
+<item>Using an income statement format, prove that this is the break-even point.</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm248695072">
+<term>composite unit</term>
+<meaning id="fs-idm214742912">selection of discrete products associated together in relation or proportion to their sales mix</meaning>
+</definition>
+<definition id="fs-idm242216416">
+<term>multi-product environment</term>
+<meaning id="fs-idm252238768">business environment in which a company sells different products, manufactures different products, or offers different types of services</meaning>
+</definition>
+<definition id="fs-idm237708944">
+<term>sales mix</term>
+<meaning id="fs-idm210910816">relative proportions of the products that a company sells</meaning>
+</definition>
+</glossary>
+</document>

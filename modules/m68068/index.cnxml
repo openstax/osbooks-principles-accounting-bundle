@@ -1,0 +1,145 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Explain How Budgets Are Used to Evaluate Goals</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68068</md:content-id>
+  <md:title>Explain How Budgets Are Used to Evaluate Goals</md:title>
+  <md:abstract/>
+  <md:uuid>c86711e1-66e4-4156-a77c-da1541ddebcc</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm351272256">As you’ve learned, an advantage of budgeting is evaluating performance. Having a strong understanding of their budgets helps managers keep track of expenses and work toward the company’s goals. Companies need to understand their revenue and expense details to develop budgets as a tool for planning operations and cash flow. Part of understanding revenue and expenses is evaluating the prior year. Did the company earn the expected profit? Could it have earned a higher profit? What expenses or revenues were not on the budget? Critically evaluating the actual results versus the estimated budgetary results can help management plan for the future. <term class="no-emphasis">Variance analysis</term> helps the manager analyze its results. It does not necessarily find a problem, but it does indicate where a problem may exist. The same is true for favorable variances as well as unfavorable variances. A favorable variance occurs when revenue is higher than budgeted or expenses are lower than budgeted. An unfavorable variance is when revenue is lower than budgeted or expenses are higher than budgeted.</para>
+<table id="fs-idm294858704" class="top-titled" summary="alt text">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Comparing Favorable to Unfavorable Variances</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="center">Favorable</entry>
+<entry valign="bottom" align="center">Unfavorable</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Actual Sales &gt; Budgeted Sales</entry>
+<entry valign="bottom" align="left">Actual Sales &lt; Budgeted Sales</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Actual Expenses &lt; Budgeted Expenses</entry>
+<entry valign="bottom" align="left">Actual Expenses &gt; Budgeted expenses</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm326702064">It is easy to understand that an unfavorable variance may be a problem. But that is not always true, as a higher labor rate may mean the company has a higher quality employee who is able to waste less material. Likewise, having a favorable variance indicates that more revenue was earned or less expenses were incurred but further analysis can indicate if costs were cut too far and better materials should have been purchased.</para>
+<para id="fs-idm348412592">If a company has only a static budget, meaningful comparisons are difficult. Analyzing the sales for Bid Bad Bikes will illustrate whether there was a profit and how net income impacts the company. In the third quarter, Big Bad Bikes sold 1,400 trainers and had third quarter net income of $22,915 as shown in <link target-id="OSX_Acct_M07_05_BBBActQ3"/>.</para><figure id="OSX_Acct_M07_05_BBBActQ3" class="scaled-down">
+<media id="fs-idm312902544" alt="Big Bad Bikes, Income Statement, For the Quarter Ending September 30, 2019: Units Sold 1,400, Sales price $70, Sales 98,000; Cost of goods sold: Direct material $5,550, Direct labor per unit 21,500, Variable manufacturing overhead 4,100, Fixed manufacturing overhead 28,900 equals total cost of goods sold 60,050 and Gross profit of 37,950. Variable sales and admin 3,550, Fixed sales and admin 17,500, Income taxes 985 equal Total other expenses 22,035, leaving Net income of 15,915.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_05_BBBActQ3.jpg"/>
+</media>
+<caption>Actual Quarter 3 Income Statement for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm320342240">The company earned a profit during the third quarter, but what does that mean to the company? Simply having net income instead of a net loss does not help plan for the future. The third quarter static budget was for the sale of 1,500 units. Comparing that budget to the actual results shows whether there is a favorable variance or an unfavorable variance. A comparison of the actual costs with the budget for the third quarter, as shown in <link target-id="OSX_Acct_M07_05_BBBActVSt"/>, has a favorable variance for all of the expenses and an unfavorable variance for everything associated with revenues.</para>
+<figure id="OSX_Acct_M07_05_BBBActVSt">
+<media id="fs-idm628842752" alt="Big Bad Bikes, Actual Versus Static Budget Variance, For the Quarter Ending September 30, 2019: Actual, Budget, Variance (respectively): Units Sold 1,400, 1,500, (100) unfavorable Sales price $75, $75, $75; Sales 105,000, 112,500, (7,500) unfavorable; Cost of goods sold: Direct material $5,550, 6,000, 450 favorable; Direct labor per unit 21,500, 22,500, 1,000 favorable; Variable manufacturing overhead 4,100, 4,500, 400 favorable; Fixed manufacturing overhead 28,900, 29,000, 100 favorable Equals Total cost of goods sold 60,050, 62,000, 1,950 favorable and Gross profit of 44,950, 50,500, (5,550) unfavorable. Variable sales and admin 3,550, 3,750, 200 favorable; Fixed sales and admin 17,500, 18,000, 500 favorable; Income taxes 985, 1,000, 15 favorable Equals Total other expenses 22,035, 22,750, 715 favorable Equals Net income of 22,915, 27,750, (4,835) unfavorable.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_05_BBBActVSt.jpg"/>
+</media>
+<caption>Actual versus Static Budget for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm351123200">How do those results advise management when evaluating the company’s performance? It is difficult to look at one variance and make a conclusion about the company or its management. However, the variances can help narrow down the areas that need addressing because they differ from the budgeted amount. For example, looking at the variance when using a static budget does not indicate the amount of the variance results because they sold 100 fewer units than budgeted. The variance for the cost of goods sold is favorable, but it should be if production was less than the budget. A static budget does not evaluate whether costs for 1,400 were appropriate for production of those 1,400 units.</para>
+<para id="fs-idm354525536">Using a static budget to evaluate performance affects the bottom line as well as the individual expenses. The net income for the sale of 1,400 units is less than the budgeted net income for 1,500 units, but it does not indicate whether expenses were appropriate for 1,400 units. If there had been 1,600 units sold, the expenses would be more than the budgeted amount, but sales would be higher. Would it be fair to evaluate a manager’s control over their expenses using a static budget?</para>
+<note id="fs-idm345551664" class="ethical-considerations">
+<title>Budget Manipulation and Ethics Training</title>
+<para id="fs-idm348021104">Why is ethics training important? An organization that bases a manager’s evaluation and pay on how close to the budget the division performs may inadvertently encourage that manager to act unethically in order to get a pay raise. Many employees manipulate the budget process to enhance their earnings by garnering bonuses based upon questionably ethical behavior and improper financial reporting. Generally, this unethical behavior involves either manipulating the numbers in the budget or modifying the timing of reports to apply income to a different budget period. Kenton Walker and Gary Fleischman studied ethics in budgeting and determined that certain ethics-related structures in a business created a better operational environment.</para>
+<para id="fs-idm348217600">The study found that the existence of formal ethical codes, ethics training, good management role models, and social pressure to be disclosing within an organization can be a deterrent to budget manipulation by employees. The authors recommended: “Therefore, organizations should carefully cultivate an ethical atmosphere that is sensitive to the pressures employees may feel to game the budget through actions that involve cheating and/or manipulating earnings targets to maximize bonuses.” <footnote id="fs-idm353937696">Kenton B. Walker, et al. “Toeing the Line: The Ethics of Manipulating Budgets and Earnings.” <emphasis effect="italics">Management Accounting Quarterly</emphasis> 14, no. 3 (Spring 2013). https://www.imanet.org/-/media/f4869589d9d444de8c211d245a0192ff.ashx</footnote> The study concluded that requiring organizational ethics training that includes role playing helps teach ethical behavior in budgeting and other areas of business. Ethics training never goes out so style.</para>
+</note>
+<para id="fs-idm294946000">Evaluating the expenses on a flexible budget computed for the number of units sold would provide an indication of management’s ability to control expenses. As shown in <link target-id="OSX_Acct_M07_05_BBBActVFI"/>, some expenses have a favorable variance, while others have an unfavorable variance. This type of variance analysis provides more information to evaluate management and help prepare the next year’s budget. For example, the direct labor in the flexible budget comparison shows an unfavorable variance, meaning the direct labor expense was more than budgeted for the production of 1,400 units. When comparing direct labor expense, the direct labor in the static budget mentioned earlier was even larger because it computed direct labor required to manufacture 1,500 units. It is not surprising that the static budget variance is favorable because 100 fewer units were actually produced. However, that information is not as useful as the unfavorable variance when comparing 1,400 units produced versus the budgeted direct labor for 1,400 units used.</para>
+<figure id="OSX_Acct_M07_05_BBBActVFI">
+<media id="fs-idm357645920" alt="Big Bad Bikes, Actual Versus Flexible Budget Variance, For the Quarter Ending September 30, 2019. Actual, Budget, Variance (respectively): Units Sold 1,400, 1,400, none; Sales price $75, $75; Sales 105,000, 105,000 none; Cost of goods sold: Direct material $5,550, 5,600, 50 favorable; Direct labor per unit 21,500, 21,000, (500) unfavorable; Variable manufacturing overhead 4,100, 4,200, 100 favorable; Fixed manufacturing overhead 28,900, 29,000, 100 favorable; Equals Total cost of goods sold 60,050, 59,800, (250) unfavorable and Gross profit of 44,950, 45,200, (250) unfavorable. Variable sales and admin 3,550, 3,500, (50) unfavorable; Fixed sales and admin 17,500, 18,000, 500 favorable; Income taxes 985, 1,000, 15 favorable; Equals Total other expenses 22,035, 22,500, 465 favorable; Equals Net income of 22,915, 22,700, 215 favorable.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_05_BBBActVFl.jpg"/>
+</media>
+<caption>Actual versus Flexible Budget for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm344466608" class="think-through">
+<title>A Budget for a New Business</title>
+<para id="fs-idm626898032">You are beginning your own business and developed a budget based on modest sales and expense assumptions. The actual results are very close to the budget at the end of the first and second months. During the third month, both cash collected and paid differ significantly from the budget. What could be the cause and what should you do?</para>
+</note>
+<note id="fs-idm342155312" class="link-to-learning">
+<para id="fs-idm623724288">Budgeting is only the beginning of the process. Evaluating the results to determine if the financial goals are being met can make the difference in whether an organization or individual meets its goals or not. <emphasis class="colored-text">Forbes</emphasis> recognizes that budgeting is an important personal task that should start early in one’s professional career. This <link url="https://openstax.org/l/50BudgetGuide">article provides some custom budgeting guidelines for young adults</link> to help.</para>
+</note>
+<section id="fs-idm359894928" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm356458880" list-type="bulleted" bullet-style="bullet">
+<item>Management’s evaluations of the actual results versus the estimated budgetary results help plan for the future.</item>
+<item>Favorable variances occur when sales are higher or expenses are lower than budgeted.</item>
+<item>Unfavorable variances occur when sales are lower or expenses are higher than budgeted.</item>
+</list>
+</section>
+<section id="fs-idm308023600" class="questions">
+<exercise id="fs-idm325651296">
+<problem id="fs-idm627837904">
+<para id="fs-idm335118672"><link class="lo-reference" document="m68068"/>Why does budget planning typically begin with the sales forecast?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm352158128">
+<problem id="fs-idm360380672">
+<para id="fs-idm623669072"><link class="lo-reference" document="m68068"/>What steps should be considered if a budget is to be set and later have its results evaluated?</para>
+</problem>
+<solution id="fs-idm316930448">
+<para id="fs-idm350996592">Before the time period begins, the organization’s goals should be defined so the budget can be set to achieve the goals. During the time period, the results should be properly measured and reported so necessary changes can be made during the year. Then, the results of the operations can be evaluated and compared to the original budget and organization’s goals.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm356128688" class="exercise-set-a">
+<exercise id="fs-idm349278064">
+<problem id="fs-idm344100592">
+<para id="fs-idm326520256"><link class="lo-reference" document="m68068"/>The production cost for a waterproof phone case is $7 per unit and fixed costs are $23,000 per month. How much is the favorable or unfavorable variance if 5,500 units were produced for a total of $61,000?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm299790096" class="exercise-set-b">
+<exercise id="fs-idm348262112">
+<problem id="fs-idm360543440">
+<para id="fs-idm326475856"><link class="lo-reference" document="m68068"/>The production cost for UV protective sunglasses is $5.50 per unit and fixed costs are $19,400 per month. How much is the favorable or unfavorable variance if 14,000 units were produced for a total of $97,000?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm300322640" class="problem-set-a">
+<exercise id="fs-idm351123696">
+<problem id="fs-idm359064608">
+<para id="fs-idm313197152"><link class="lo-reference" document="m68068"/>Titanium Blades refines titanium for use in all brands of razor blades. It prepared a static budget for the sales of 5,000 units. These variances were observed:</para>
+<media id="fs-idm300755856" class="scaled-down" alt="Actual Results and Variances, respectively: Sales $150,000, $25,000 Favorable; Variable expenses 77,800, 12,800 Unfavorable; Fixed expenses 70,300, 300 Unfavorable; Net income (loss) 1,900, 11,900 Unfavorable.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_05_PA01_img.jpg"/>
+</media>
+<para id="fs-idm623357952">Determine the static budget and use the information to prepare a flexible budget and analysis for the 6,000 units actually sold.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm350752000" class="problem-set-b">
+<exercise id="fs-idm294804656">
+<problem id="fs-idm322587728">
+<para id="fs-idm324176704"><link class="lo-reference" document="m68068"/>Replenish sells shampoo that removes chlorine from hair. It prepared a static budget for the sales of 10,000 units. These variances were observed:</para>
+<media id="fs-idm359864224" class="scaled-down" alt="Actual Results and Variances, respectively: Sales $264,000, $66,000 Unfavorable; Variable expenses 70,500, 19,500 Favorable; Fixed expenses 70,270, 270 Unfavorable; Net income (loss) 123,230, 46,230 Unfavorable.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_05_PB01_img.jpg"/>
+</media>
+<para id="fs-idm343617408">Determine the static budget and use the information to prepare a flexible budget and analysis for the 8,000 units actually sold.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm343874656" class="thought-provokers">
+<exercise id="fs-idm353110848">
+<problem id="fs-idm343713520">
+<para id="fs-idm360211840"><link class="lo-reference" document="m68068"/>If management is being evaluated on their ability to manage a budget, what can they do to increase cash flow?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm359264672">
+<problem id="fs-idm343930240">
+<para id="fs-idm326513520"><link class="lo-reference" document="m68068"/>If management is being evaluated on their ability to manage a budget, what can they do to decrease cash outflow?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+</document>

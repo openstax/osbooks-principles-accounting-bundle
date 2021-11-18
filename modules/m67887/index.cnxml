@@ -1,0 +1,92 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Appendix: Comprehensive Example of Bad Debt Estimation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67887</md:content-id>
+  <md:title>Appendix: Comprehensive Example of Bad Debt Estimation</md:title>
+  <md:abstract/>
+  <md:uuid>dc20a8b7-3f29-407a-b067-16d0befe0523</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm221354528">The following comprehensive example will illustrate the bad debt estimation process from the sales transaction to adjusting entry reporting for all three bad debt estimation methods: income statement, balance sheet, and balance sheet aging of receivables.</para>
+<para id="fs-idm225726016">Furniture Direct sells office furniture to large scale businesses. Because the purchases are typically large, Furniture Direct allows customers to pay on credit using an in-house account. At the end of the year, Furniture Direct must estimate bad debt using one of the three estimation methods. It is currently using the income statement method and estimates bad debt at 5% of credit sales. If it were to switch to the balance sheet method, it would estimate bad debt at 8% of accounts receivable. If it were to use the balance sheet aging of receivables method, it would split its receivables into three categories: 0–30 days past due at 5%, 31–90 days past due at 10%, and over 90 days past due at 20%. There is currently a zero balance, transferred from the prior year’s Allowance for Doubtful Accounts. The following information is available from the year-end income statement and balance sheet.</para>
+<media id="fs-idm216735440" class="scaled-down" alt="2018 Year-end Totals for Furniture Direct: Credit sales $1,350,000, Accounts Receivable 745,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_07_YearFD_img.jpg"/>
+</media>
+<para id="fs-idm223306848">There is also additional information regarding the distribution of accounts receivable by age.</para>
+<media id="fs-idm228230336" class="scaled-down" alt="Past Due Category and Accounts Receivable Total, respectively: 0–30 days $485,000; 31–90 days 180,000; Over 90 days 80,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_07_PastFD_img.jpg"/>
+</media>
+<para id="fs-idm222040848">If the company were to maintain the income statement method, the total bad debt estimation would be $67,500 ($1,350,000 × 5%), and the following adjusting entry would occur.</para>
+<media id="fs-idm219343360" alt="Journal entry: December 31 debit Bad Debt Expense 67,500, credit Allowance for Doubtful Accounts 67,500. Explanation: “To record estimated bad debts, income statement method.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_07_Jorn01_img.jpg"/>
+</media>
+<para id="fs-idm224612000">If the company were to use the balance sheet method, the total bad debt estimation would be $59,600 ($745,000 × 8%), and the following adjusting entry would occur.</para>
+<media id="fs-idm226727808" alt="Journal entry: December 31 debit Bad Debt Expense 59,600, credit Allowance for Doubtful Accounts 59,600. Explanation: “To record estimated bad debts, balance sheet method.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_07_Jorn02_img.jpg"/>
+</media>
+<para id="fs-idm226115984">If the company were to use the balance sheet aging of receivables method, the total bad debt estimation would be $58,250, calculated as shown:</para>
+<media id="fs-idm218756384" alt="Past Due Category and Accounts Receivable Total, Uncollectible Percentage, Total respectively: 0–30 days $485,000, 5 percent, $24,250; 31–90 days 180,000, 10 percent, 18,000; Over 90 days 80,000, 20 percent, 16,000; Total Estimated Uncollectible: $58,250.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_07_ARA_img.jpg"/>
+</media>
+<para id="fs-idm225998608">The adjusting entry recorded using the aging method is as follows.</para>
+<media id="fs-idm225924336" alt="Journal entry: December 31 debit Bad Debt Expense 58,250, credit Allowance for Doubtful Accounts 58,250. Explanation: “To record estimated bad debts, balance sheet aging method.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_07_Jorn03_img.jpg"/>
+</media>
+<para id="fs-idm218706112">As you can see, the methods provide different financial figures.</para>
+<media id="fs-idm225007184" alt="Bad Debt Estimation Method Comparison for Furniture Direct: Income Statement Method $67,500; Balance Sheet Method 59,600; Balance sheet Aging of Receivables Method 58,250.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_07_BadDeb_img.jpg"/>
+</media>
+<para id="fs-idm222963312">While it is up to the company to determine which method best describes its financial position, as you see in <link document="m67882">Account for Uncollectible Accounts Using the Balance Sheet and Income Statement Approaches</link>, a company may manage these methods and figures to present the best financial position possible.</para>
+<note id="fs-idm226694704" class="continuing-application">
+<title>Grocery Store Offerings</title>
+<para id="fs-idm220534688">Every week, millions of shoppers visit grocery stores. Consider the various transactions that are occurring at any given time. Most of the items found within a grocery store are perishable and have a finite shelf life. The majority of purchases are paid with cash, check, or credit card. Therefore, you might assume that a grocery store would not have a balance in accounts receivable.</para>
+<para id="fs-idm225552016">However, grocery stores have evolved to become a one-stop shop for many items. You can now purchase gas, seasonal decorations, cooking utensils, and even fill your prescriptions at many stores.</para>
+</note>
+<section id="fs-idm219005552" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm222178928">
+<problem id="fs-idm222666160">
+<para id="fs-idm222211136"><link class="lo-reference" document="m67887"/>Organics Plus is considering which bad debt estimation method works best for its company. It is deciding between the income statement method, balance sheet method of receivables, and balance sheet aging of receivables method. If it uses the income statement method, bad debt would be estimated at 4% of credit sales. If it were to use the balance sheet method, it would estimate bad debt at 12% of accounts receivable. If it were to use the balance sheet aging of receivables method, it would split its receivables into three categories: 0–30 days past due at 6%, 31–90 days past due at 19%, and over 90 days past due at 26%. There is currently a zero balance, transferred from the prior year’s Allowance for Doubtful Accounts. The following information is available from the year-end income statement and balance sheet.</para>
+<media id="fs-idm224333680" class="scaled-down" alt="2018 Year-End Totals for Organics Plus. Credit Sales $1,850,000, Accounts Receivable 600,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_07_PA01a_img.jpg"/>
+</media>
+<para id="fs-idm217881312">There is also additional information regarding the distribution of accounts receivable by age.</para>
+<media id="fs-idm218926224" class="scaled-down" alt="Past Due Category and Accounts Receivable Total, respectively: 0–30 days $350,000; 31–90 days 100,000; Over 90 days 150,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_07_PA01b_img.jpg"/>
+</media>
+<para id="fs-idm225168624">Prepare the year-end adjusting entry for bad debt, using</para>
+<list id="fs-idm228871904" list-type="enumerated" number-style="upper-alpha">
+<item>Income statement method</item>
+<item>Balance sheet method of receivables</item>
+<item>Balance sheet aging of receivables method.</item>
+<item>Which method should the company choose, and why?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm226134800" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm228038624">
+<problem id="fs-idm227669488">
+<para id="fs-idm221899376"><link class="lo-reference" document="m67887"/>Shimmer Products is considering which bad debt estimation method works best for its company. It is deciding between the income statement method, balance sheet method of receivables, and balance sheet aging of receivables method. If it uses the income statement method, bad debt would be estimated at 5.6% of credit sales. If it were to use the balance sheet method, it would estimate bad debt at 13.7% percent of accounts receivable. If it were to use the balance sheet aging of receivables method, it would split its receivables into three categories: 0–30 days past due at 5%, 31–90 days past due at 21%, and over 90 days past due at 30%. There is currently a zero balance, transferred from the prior year’s Allowance for Doubtful Accounts. The following information is available from the year-end income statement and balance sheet.</para>
+<media id="fs-idm231063264" alt="2018 Year-End Totals for Shimmer Products. Credit Sales $2,410,000, Accounts Receivable 950,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_07_PB01a_img.jpg"/>
+</media>
+<para id="fs-idm229905248">There is also additional information regarding the distribution of accounts receivable by age.</para>
+<media id="fs-idm230143072" alt="Past Due Category and Accounts Receivable Total, respectively: 0–30 days $475,000; 31–90 days 240,000; Over 90 days 235,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_07_PB02b_img.jpg"/>
+</media>
+<para id="fs-idm230764512">Prepare the year-end adjusting entry for bad debt, using</para>
+<list id="fs-idm220590848" list-type="enumerated" number-style="upper-alpha">
+<item>Income statement method</item>
+<item>Balance sheet method of receivables</item>
+<item>Balance sheet aging of receivables method</item>
+<item>Which method should the company choose, and why?</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+</document>

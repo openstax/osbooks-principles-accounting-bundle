@@ -1,0 +1,373 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Explain and Compute Equivalent Units and Total Cost of Production in an Initial Processing Stage</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68131</md:content-id>
+  <md:title>Explain and Compute Equivalent Units and Total Cost of Production in an Initial Processing Stage</md:title>
+  <md:abstract/>
+  <md:uuid>75428ea4-b0cd-420e-8b6a-af9c86508ab7</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm364277872">As described previously, process costing can have more than one work in process account. Determining the value of the work in process inventory accounts is challenging because each product is at varying stages of completion and the computation needs to be done for each department. Trying to determine the value of those partial stages of completion requires application of the equivalent unit computation. The equivalent unit computation determines the number of units if each is manufactured in its entirety before manufacturing the next unit. For example, forty units that are 25% complete would be ten (40 × 25%) units that are totally complete.</para>
+<para id="fs-idm374374256">Direct material is added in stages, such as the beginning, middle, or end of the process, while conversion costs are expensed evenly over the process. Often there is a different percentage of completion for materials than there is for labor. For example, if material is added at the beginning of the process, the forty units that are 100% complete with respect to material and 25% complete with respect to conversion costs would be the same as forty units of material and ten units (40 × 25%) completed with conversion costs.</para>
+<para id="fs-idm348777712">For example, during the month of July, Rock City Percussion purchased raw material inventory of $25,000 for the shaping department. Although each department tracks the direct material it uses in its own department, all material is held in the material storeroom. The inventory will be requisitioned for each department as needed.</para>
+<para id="fs-idm500376272">During the month, Rock City Percussion’s shaping department requested $10,179 in direct material and started into production 8,700 hickory drumsticks of size 5A. There was no beginning inventory in the shaping department, and 7,500 drumsticks were completed in that department and transferred to the finishing department. Wood is the only direct material in the shaping department, and it is added at the beginning of the process, so the work in process (WIP) is considered to be 100% complete with respect to direct materials. At the end of the month, the drumsticks still in the shaping department were estimated to be 35% complete with respect to conversion costs. All materials are added at the beginning of the shaping process. While beginning the size 5A drumsticks, the shaping department incurred these costs in July:</para>
+<media id="fs-idm374300432" class="scaled-down-30" alt="Direct materials $10,179, Direct labor 15,176, Applied overhead 7,000, Total cost 32,355.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_03_Shaping01_img.jpg"/>
+</media>
+<para id="fs-idm356296688">These costs are then used to calculate the equivalent units and total production costs in a four-step process.</para>
+<section id="fs-idm383976064">
+<title>Step One: Determining the Units to Which Costs Will Be Assigned</title>
+<para id="fs-idm364117440">In addition to the equivalent units, it is necessary to track the units completed as well as the units remaining in ending inventory. A similar process is used to account for the costs completed and transferred. Reconciling the number of units and the costs is part of the process costing system. The reconciliation involves the total of beginning inventory and units started into production. This total is called “units to account for,” while the total of beginning inventory costs and costs added to production is called “costs to be accounted for.” Knowing the total units or costs to account for is helpful since it also equals the units or costs transferred out plus the amount remaining in ending inventory.</para>
+<para id="fs-idm364092304">When the new batch of hickory sticks was started on July 1, Rock City Percussion did not have any beginning inventory and started 8,700 units, so the total number of units to account for in the reconciliation is 8,700:</para>
+<media id="fs-idm347755680" class="scaled-down-30" alt="Units to Account for: Beginning WIP 0, Units started into production 8,700, Total units to account for 8,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_03_Shaping02_img.jpg"/>
+</media>
+<para id="fs-idm491640432">The shaping department completed 7,500 units and transferred them to the testing and sorting department. No units were lost to <term>spoilage</term>, which consists of any units that are not fit for sale due to breakage or other imperfections. Since the maximum number of units that could possibly be completed is 8,700, the number of units in the shaping department’s ending inventory must be 1,200. The total of the 7,500 units completed and transferred out and the 1,200 units in ending inventory equal the 8,700 possible units in the shaping department.</para>
+<media id="fs-idm372100976" class="scaled-down" alt="Units Accounted For: Completed and transferred out 7,500, Ending WIP 1,200, Total units to account for 8,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_03_Shaping03_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm344377328">
+<title>Step Two: Computing the Equivalent Units of Production</title>
+<para id="fs-idm388170528">All of the materials have been added to the shaping department, but all of the conversion elements have not; the numbers of equivalent units for material costs and for conversion costs remaining in ending inventory are different. All of the units transferred to the next department must be 100% complete with regard to that department’s cost or they would not be transferred. So the number of units transferred is the same for material units and for conversion units. The process cost system must calculate the equivalent units of production for units completed (with respect to materials and conversion) and for ending work in process with respect to materials and conversion.</para>
+<para id="fs-idm371641696">For the shaping department, the materials are 100% complete with regard to materials costs and 35% complete with regard to conversion costs. The 7,500 units completed and transferred out to the finishing department must be 100% complete with regard to materials and conversion, so they make up 7,500 (7,500 × 100%) units. The 1,200 ending work in process units are 100% complete with regard to material and have 1,200 (1,200 × 100%) equivalent units for material. The 1,200 ending work in process units are only 35% complete with regard to conversion costs and represent 420 (1,200 × 35%) equivalent units.</para>
+<media id="fs-idm364102384" alt="WIP completion % Units accounted for: (Total Units, 100% Material Units, 35% Conversion Units, respectively): Completed and transferred out 7,500, 7,500, 7,500; Ending WIP 1,200, 1,200, 420; Total equivalent units for shaping 8,700, 8,700, 7,920.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_03_Shaping04_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm350101680">
+<title>Step Three: Determining the Cost per Equivalent Unit</title>
+<para id="fs-idm519659488">Once the equivalent units for materials and conversion are known, the cost per equivalent unit is computed in a similar manner as the units accounted for. The costs for material and conversion need to reconcile with the total beginning inventory and the costs incurred for the department during that month.</para>
+<media id="fs-idm362900912" class="scaled-down" alt="Costs to Account For (Materials, Conversion, and Total, respectively: Beginning WIP 0, 0, 0; Incurred during the period 10,179, 22,176, 32,355; Total costs to account for 10,179, 22,176, 32,355; Equivalent units 8,700, 7,920; Cost per equivalent unit $1.17, 2.80, 3.97.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_03_Shaping05_img.jpg"/>
+</media>
+<para id="fs-idm368481824">The total materials costs for the period (including any beginning inventory costs) is computed and divided by the equivalent units for materials. The same process is then completed for the total conversion costs. The total of the cost per unit for material ($1.17) and for conversion costs ($2.80) is the total cost of each unit transferred to the finishing department ($3.97).</para>
+</section>
+<section id="fs-idm381986288">
+<title>Step Four: Allocating the Costs to the Units Transferred Out and Partially Completed in the Shaping Department</title>
+<para id="fs-idm365761936">Now you can determine the cost of the units transferred out and the cost of the units still in process in the shaping department. To calculate the goods transferred out, simply take the units transferred out times the sum of the two equivalent unit costs (materials and conversion) because all items transferred to the next department are complete with respect to materials and conversion, so each unit brings all its costs. But the ending WIP value is determined by taking the product of the work in process material units and the cost per equivalent unit for materials plus the product of the work in process conversion units and the cost per equivalent unit for conversion.</para>
+<media id="fs-idm363803328" alt="Transferred out costs (7,500 units times $1.17) plus (7,500 units times $2.80) equals $29,775; Ending WIP: materials (1,200 times $1.17) equals $1,404; Ending WIP: conversion (420 times $2.80) equals $1,176; Ending WIP: Total $1,404 plus 1,176 equals $2,580.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_03_Shaping06_img.jpg"/>
+</media>
+<para id="fs-idm344303856">This information is accumulated in a <term>production cost report</term>. This report shows the costs used in the preparation of a product, including the cost per unit for materials and conversion costs, and the amount of work in process and finished goods inventory. A complete production cost report for the shaping department is illustrated in <link target-id="OSX_Acct_M05_03_ProdCost"/>.</para>
+<figure id="OSX_Acct_M05_03_ProdCost">
+<media id="fs-idm350479744" alt="Units to account for: Beginning WIP -, Units started into production 8,700, Total units to account for 8,700. Total units, 100 percent Materials Units, 35 percent Conversion Units, respectively: Units accounted for: Completed and transferred out 7,500, 7500, 7,500; Ending WIP 1,200, 1,200, 420; Total equivalent units to account for 8,700, 8,700, 7,920. Costs to account for: Beginning WIP $0, 0, 0; Incurred during the period $32,355, 10,179, 22,176; Total costs to account for $32,355, 10,179, 22,176; Equivalent units –, 8,700, 7,920; Cost per equivalent unit $3.97, 1.17, 2.80; Value of ending WIP $2,580, 1,404, 1,176; Completed and transferred $29,775, 8,775, 21,000; Total costs $32,355, 10,179, 22,176.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_03_ProdCost.jpg"/>
+</media>
+<caption>Production Cost Report for the Shaping Department. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm374230240" class="your-turn">
+<title>Calculating Inventory Transferred and Work in Process Costs</title>
+<para id="fs-idm344545712">Kyler Industries started a new batch of paint on October 1. The new batch consists of 8,700 cans of paint, of which 7,500 was completed and transferred to finished goods. During October, the manufacturing process recorded the following expenses: direct materials of $10,353; direct labor of $17,970; and applied overhead of $9,000. The inventory still in process is 100% complete with respect to materials and 30% complete with respect to conversion. What is the cost of inventory transferred out and work in process? Assume that there is no beginning work in process inventory.</para>
+<para id="fs-idm374243952"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm503176128" alt="Units to account for: Beginning WIP 0, Units started into production 8,700, Total units to account for 8,700. Total units, 100 percent Materials Units, 30 percent Conversion Units, respectively: Units accounted for: Completed and transferred out 7,500, 7500, 7,500; Ending WIP 1,200, 1,200, 360; Total units to account for 8,700, 8,700, 7,860; Costs to account for: Beginning WIP $0, 0, 0; Incurred during the period $37,323, 10,353, 26,970; Total costs to account for $37,323, 10,353, 26,970; Equivalent units –, 8,700, 7,860; Cost per equivalent unit $4.62, 1.19, 3.43.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_03_YT01_img.png"/>
+</media>
+</note>
+</section>
+<section id="fs-idm516332976" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm481330224" list-type="bulleted" bullet-style="bullet">
+<item>Process costing has a work in process inventory account for each department.</item>
+<item>Equivalent units of production for materials may differ from the equivalent units for conversion costs.</item>
+<item>The total units to account for is the number of units in the beginning work in process inventory plus the number of units started into production; this total also represents the sum of the number of units completed and the number of units in the ending work in process inventory.</item>
+<item>The cost per equivalent unit for materials is the total of the material costs for the beginning work in process inventory and the total of material costs incurred during the period.</item>
+<item>The cost per equivalent unit for conversion costs is the total of the conversion costs for the beginning work in process inventory and the total of conversion costs incurred during the period.</item>
+<item>The cost of units transferred to the next department is the number of units transferred times the total of the cost per equivalent unit of material plus the cost per equivalent unit for conversion costs.</item>
+</list>
+</section>
+<section id="fs-idm368654336" class="multiple-choice">
+<exercise id="fs-idm372569776">
+<problem id="fs-idm357236576">
+<para id="fs-idm326262752"><link class="lo-reference" document="m68131"/>Direct material costs $3 per unit, direct labor costs $5 per unit, and overhead is applied at the rate of 100% of the direct labor cost. What is the value of the inventory transferred to the next department if beginning inventory was 2,000 units; 9,000 units were started; and 1,000 units were in ending inventory?</para>
+<list id="fs-idm374025360" list-type="enumerated" number-style="upper-alpha">
+<item>$1,000</item>
+<item>$13,000</item>
+<item>$130,000</item>
+<item>$20,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm385432800">
+<problem id="fs-idm389369872">
+<para id="fs-idm349163952"><link class="lo-reference" document="m68131"/>Beginning inventory and direct material cost added during the month total $55,000. What is the value of the ending work in process inventory if beginning inventory was 2,000 units; 9,000 units were started; and 1,000 units were in ending inventory?</para>
+<list id="fs-idm365570848" list-type="enumerated" number-style="upper-alpha">
+<item>$1,000</item>
+<item>$5,000</item>
+<item>$50,000</item>
+<item>$55,000</item>
+</list>
+</problem>
+<solution id="fs-idm379109632">
+<para id="fs-idm364684272">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm357190000">
+<problem id="fs-idm384381536">
+<para id="fs-idm387438512"><link class="lo-reference" document="m68131"/>The initial processing department had a beginning inventory of 750 units and an ending inventory of 1,350 units, and it started 9,500 units into production. How many were transferred out to the next department?</para>
+<list id="fs-idm365448912" list-type="enumerated" number-style="upper-alpha">
+<item>750</item>
+<item>1,350</item>
+<item>8,900</item>
+<item>10,250</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm327250800">
+<problem id="fs-idm381962928">
+<para id="fs-idm383560592"><link class="lo-reference" document="m68131"/>There were 1,000 units in ending inventory after transferring 16,000 units to finished goods inventory. If the beginning inventory was 2,000 units, how many units were started in process?</para>
+<list id="fs-idm482787616" list-type="enumerated" number-style="upper-alpha">
+<item>1,000</item>
+<item>2,000</item>
+<item>15,000</item>
+<item>17,000</item>
+</list>
+</problem>
+<solution id="fs-idm352126768">
+<para id="fs-idm374027504">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm364645584" class="questions">
+<exercise id="fs-idm380166192">
+<problem id="fs-idm383923168">
+<para id="fs-idm376221280"><link class="lo-reference" document="m68131"/>What are the four steps involved in determining the cost of inventory transferred from one department to the next and the cost of work in process inventory?</para>
+</problem>
+<solution id="fs-idm490216208">
+<para id="fs-idm485326704">Step 1: Determine the units to which costs are assigned. Step 2: Compute the equivalent units of production. Step 3: Determine the cost per equivalent unit. Step 4: Allocate the costs to the units transferred out and the units partially completed.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm370632080">
+<problem id="fs-idm362965056">
+<para id="fs-idm363191616"><link class="lo-reference" document="m68131"/>What is the weighted-average method for computing the equivalent units of production?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm368560544" class="exercise-set-a">
+<exercise id="fs-idm384485568">
+<problem id="fs-idm364353456">
+<para id="fs-idm367010848"><link class="lo-reference" document="m68131"/>Given the following information, determine the equivalent units of ending work in process for materials and conversion under the weighted-average method:</para>
+<list id="fs-idm366812064" list-type="bulleted">
+<item>beginning inventory of 2,500 units is 100% complete with regard to materials and 60% complete with regard to conversion</item>
+<item>18,000 units were started during the period</item>
+<item>17,500 units were completed and transferred</item>
+<item>ending inventory is 100% complete with materials and 65% complete with conversion</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm372768032">
+<problem id="fs-idm365822720">
+<para id="fs-idm365815616"><link class="lo-reference" document="m68131"/>There were 1,700 units in beginning inventory that were 40% complete with regard to conversion. During the month, 8,550 units were started and 9,000 were transferred to finished goods. The ending work in process was 60% complete with regard to conversion costs, and materials are added at the beginning of the process. What is the total amount of equivalent units for materials and conversion at the end of the month using the weighted-average method?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm366766464">
+<problem id="fs-idm384359136">
+<para id="fs-idm364354720"><link class="lo-reference" document="m68131"/>A company has 1,500 units in ending work in process that are 30% complete after transferring out 10,000 units. All materials are added at the beginning of the process. If the cost per unit is $4 for materials and $7 for conversion, what is the cost of units transferred out and in ending work in process inventory using the weighted-average method?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm367067632">
+<problem id="fs-idm370747456">
+<para id="fs-idm369318384"><link class="lo-reference" document="m68131"/>There were 2,400 units in ending work in process inventory that were 100% complete with regard to material and 25% complete with regard to conversion costs. Ending work in process inventory had a cost of $9,000 and a per-unit material cost of $2. What was the conversion cost per unit using the weighted-average method?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm366951072">
+<problem id="fs-idm357212400">
+<para id="fs-idm364427696"><link class="lo-reference" document="m68131"/>How many units must be in ending inventory if beginning inventory was 15,000 units, 55,000 units were started, and 57,000 units were completed and transferred out?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm364933472">
+<problem id="fs-idm381312080">
+<para id="fs-idm377368624"><link class="lo-reference" document="m68131"/>How many units must have been completed and transferred if beginning inventory was 75,000 units, ending inventory was 72,000 units, and 290,000 units were started?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm370354976">
+<problem id="fs-idm368472656">
+<para id="fs-idm368457824"><link class="lo-reference" document="m68131"/>Using the weighted-average method, compute the equivalent units of production if the beginning inventory consisted of 20,000 units; 55,000 units were started in production; and 57,000 units were completed and transferred to finished goods inventory. For this process, materials are added at the beginning of the process, and the units are 35% complete with respect to conversion.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm374107136">
+<problem id="fs-idm356209648">
+<para id="fs-idm367288048"><link class="lo-reference" document="m68131"/>Using the weighted-average method, compute the equivalent units of production for a new company that started 85,000 units into production and transferred 67,000 to the second department. Assume that beginning inventory was 0. Conversion is considered to occur evenly throughout the process, while materials are added at the beginning of the process. The ending inventory for Equivalent Units: Conversion is 9,000 units.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm375437904">
+<problem id="fs-idm364957552">
+<para id="fs-idm382453024"><link class="lo-reference" document="m68131"/>Mazomanie Farm completed 20,000 units during the quarter and has 2,500 units still in process. The units are 100% complete with regard to materials and 55% complete with regard to conversion costs. What are the equivalent units for materials and conversion?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm344194864">
+<problem id="fs-idm486512800">
+<para id="fs-idm366407472"><link class="lo-reference" document="m68131"/>What are the total costs to account for if a company’s beginning inventory had $231,432 in materials, $186,450 in conversion costs, and added direct material costs ($4,231,392), direct labor ($2,313,392), and manufacturing overhead ($1,156,696)?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm330039008">
+<problem id="fs-idm387474128">
+<para id="fs-idm350213904"><link class="lo-reference" document="m68131"/>A company started the month with 8,329 units in work in process inventory. It started 23,142 units and had an ending inventory of 9,321. The units were 100% complete to materials and 67% complete with conversion. How many units were transferred out during the period?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm370237968" class="exercise-set-b">
+<exercise id="fs-idm360148448">
+<problem id="fs-idm367863040">
+<para id="fs-idm329384960"><link class="lo-reference" document="m68131"/>Given the following information, determine the equivalent units of ending work in process for materials and conversion using the weighted-average method:</para>
+<list id="fs-idm519538576" list-type="bulleted">
+<item>Beginning inventory of 750 units is 100% complete with regard to materials and 30% complete with regard to conversion.</item>
+<item>9,500 units were started during the period.</item>
+<item>8,900 units were completed and transferred.</item>
+<item>Ending inventory is 100% complete with regard to materials and 68% complete with regard to conversion.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm368129936">
+<problem id="fs-idm372254928">
+<para id="fs-idm372647056"><link class="lo-reference" document="m68131"/>There were 2,000 units in beginning inventory that were 70% complete with regard to conversion. During the month, 15,000 units were started, and 16,000 were transferred to finished goods. The ending work in process was 55% complete with regard to conversion costs, and materials are added at the beginning of the process. What is the total amount of equivalent units for materials and conversion at the end of the month using the weighted-average method?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm491423024">
+<problem id="fs-idm367187328">
+<para id="fs-idm388646832"><link class="lo-reference" document="m68131"/>A company has 100 units in ending work in process that are 40% complete after transferring out 750 units. If the cost per unit is $5 for materials and $2.50 for conversion, what is the cost of units transferred out and in ending work in process inventory using the weighted-average method?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm385844336">
+<problem id="fs-idm380992448">
+<para id="fs-idm368384016"><link class="lo-reference" document="m68131"/>There were 1,500 units in ending work in process inventory that were 100% complete with regard to material and 60% complete with regard to conversion costs. Ending work in process inventory had a cost of $7,200 and a per-unit material cost of $3. What was the conversion cost per unit using the weighted-average method?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm363016592">
+<problem id="fs-idm388075104">
+<para id="fs-idm371044880"><link class="lo-reference" document="m68131"/>Using the weighted-average method, compute the equivalent units of production if the beginning inventory consisted of 20,000 units, 55,000 units were started in production, and 57,000 units were completed and transferred to finished goods inventory. For this process, materials are 70% complete and the units are 30% complete with respect to conversion.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm371605456">
+<problem id="fs-idm384391776">
+<para id="fs-idm362298336"><link class="lo-reference" document="m68131"/>What are the total costs to account for if a company’s beginning inventory had $23,432 in materials and $18,450 in conversion costs, and added direct material costs ($41,392), direct labor ($23,192), and manufacturing overhead ($62,500)?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm374066320">
+<problem id="fs-idm362936928">
+<para id="fs-idm385985424"><link class="lo-reference" document="m68131"/>A company started the month with 4,519 units in work in process inventory. It started 15,295 units and had an ending inventory of 4,936. The units were 100% complete to materials and 30% complete with conversion. How many units were transferred out during the period?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm515549408" class="problem-set-a">
+<exercise id="fs-idm372301936">
+<problem id="fs-idm371754000">
+<para id="fs-idm356253888"><link class="lo-reference" document="m68131"/>Pant Risers manufactures bands for self-dressing assistive devices for mobility-impaired individuals. Manufacturing is a one-step process where the bands are cut and sewn. This is the information related to this year’s production:</para>
+<media id="fs-idm325637376" class="scaled-down" alt="Units to account for: (Units, Materials, Conversion, respectively): Beginning WIP inventory 500, 500, 250; Started 20,500, ?, ?; To account for 21,000, ? , ?">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_03_PA02_img.jpg"/>
+</media>
+<para id="fs-idm373007056">Ending inventory was 100% complete as to materials and 70% complete as to conversion, and the total materials cost is $57,540 and the total conversion cost is $36,036. Using the weighted-average method, what are the unit costs if the company transferred out 17,000 units? What is the value of the inventory transferred out and the value of the ending WIP inventory?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm363763744">
+<problem id="fs-idm373722496">
+<para id="fs-idm370560784"><link class="lo-reference" document="m68131"/>During March, the following costs were charged to the manufacturing department: $14,886 for materials; $14,656 for labor; and $13,820 for manufacturing overhead. The records show that 30,680 units were completed and transferred, while 2,400 remained in ending inventory. There were 33,080 equivalent units of material and 31,640 of conversion costs. Using the weighted-average method, what is the cost of inventory transferred and the balance in work in process inventory?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm383752240">
+<problem id="fs-idm388411904">
+<para id="fs-idm378692624"><link class="lo-reference" document="m68131"/>Materials are added at the beginning of a production process, and ending work in process inventory is 30% complete with respect to conversion costs. Use the information provided to complete a production cost report using the weighted-average method.</para>
+<media id="fs-idm356106160" alt="Costs to Account for: Beginning inventory materials $10,000, Beginning inventory conversion 19,000, Direct material 50,000, Direct labor 75,000, Applied overhead 37,248 equals Total costs to account for $191,248. Units to Account for: Beginning WIP 5,000, Units started into production 20,000, Transferred out 19,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_03_PA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm501472960">
+<problem id="fs-idm345465200">
+<para id="fs-idm500751488"><link class="lo-reference" document="m68131"/>Narwhal Swimwear has a beginning work in process inventory of 13,500 units and transferred in 130,000 units before ending the month with 14,000 units that were 100% complete with regard to materials and 30% complete with regard to conversion costs. The cost per unit of material is $5.80 and the cost per unit for conversion is $8.20 per unit. Using the weighted-average method, what is the amount of material and conversion costs assigned to the department for the month?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm366592416">
+<problem id="fs-idm374466800">
+<para id="fs-idm374308912"><link class="lo-reference" document="m68131"/>The following data show the units in beginning work in process inventory, the number of units started, the number of units transferred, and the percent completion of the ending work in process for conversion. Given that materials are added at the beginning of the process, what are the equivalent units for material and conversion costs for each quarter using the weighted-average method? Assume that the quarters are independent.</para>
+<media id="fs-idm485428208" alt="Quarter, Beginning WIP, Started, Transferred Out, and Conversion percent (respectively): 1, –, 134,250, 133,250, 25; 2, 523, 132,593, 132,541, 24; 3, 338, 133,245, 133,443, 20; 4, 489, 134,843, 134,232, 23.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_03_PA04_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm380359776" class="problem-set-b">
+<exercise id="fs-idm370255664">
+<problem id="fs-idm371694032">
+<para id="fs-idm383456576"><link class="lo-reference" document="m68131"/>The following product costs are available for Stellis Company on the production of erasers: direct materials, $22,000; direct labor, $35,000; manufacturing overhead, $17,500; selling expenses, $17,600; and administrative expenses; $13,400.</para>
+<list id="fs-idm373696352" list-type="enumerated" number-style="upper-alpha">
+<item>What are the prime costs?</item>
+<item>What are the conversion costs?</item>
+<item>What is the total product cost?</item>
+<item>What is the total period cost?</item>
+<item>If 13,750 equivalent units are produced, what is the equivalent material cost per unit?</item>
+<item>If 17,500 equivalent units are produced, what is the equivalent conversion cost per unit?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm373629840">
+<problem id="fs-idm380896704">
+<para id="fs-idm350040784"><link class="lo-reference" document="m68131"/>The following product costs are available for Kellee Company on the production of eyeglass frames: direct materials, $32,125; direct labor, $23.50; manufacturing overhead, applied at 225% of direct labor cost; selling expenses, $22,225; and administrative expenses, $31,125. The direct labor hours worked for the month are 3,200 hours.</para>
+<list id="fs-idm371680320" list-type="enumerated" number-style="upper-alpha">
+<item>What are the prime costs?</item>
+<item>What are the conversion costs?</item>
+<item>What is the total product cost?</item>
+<item>What is the total period cost?</item>
+<item>If 6,425 equivalent units are produced, what is the equivalent material cost per unit?</item>
+<item>What is the equivalent conversion cost per unit?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm518372048">
+<problem id="fs-idm463756800">
+<para id="fs-idm380154720"><link class="lo-reference" document="m68131"/>Vexar manufactures nails. Manufacturing is a one-step process where the nails are forged. This is the information related to this year’s production:</para>
+<media id="fs-idm344336224" class="scaled-down" alt="Units to account for: (Units, Materials, Conversion, respectively): Beginning WIP inventory 1,000, 1,000, 500; Started 41,000, ?, ?; To account for 42,000, ?, ?.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_03_PB04_img.jpg"/>
+</media>
+<para id="fs-idm377175088">Ending inventory was 100% complete as to materials and 70% complete as to conversion, and the total materials cost is $115,080 and the total conversion cost is $72,072. Using the weighted-average method, what are the unit costs if the company transferred out 34,000 units? Using the weighted-average method, prepare the company’s process cost summary for the month.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm356113488">
+<problem id="fs-idm371650656">
+<para id="fs-idm366980624"><link class="lo-reference" document="m68131"/>During March, the following costs were charged to the manufacturing department: $22,500 for materials; $45,625 for labor; and $50,000 for manufacturing overhead. The records show that 40,000 units were completed and transferred, while 10,000 remained in ending inventory. There were 45,000 equivalent units of material and 42,500 units of conversion costs. Using the weighted-average method, prepare the company’s process cost summary for the month.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm366529088">
+<problem id="fs-idm385323296">
+<para id="fs-idm373740256"><link class="lo-reference" document="m68131"/>Ardt-Barger has a beginning work in process inventory of 5,500 units and transferred in 25,000 units before ending the month with 3,000 units that were 100% complete with regard to materials and 80% complete with regard to conversion costs. The cost per unit of material is $5.45, and the cost per unit for conversion is $6.20 per unit. Using the weighted-average method, prepare the company’s process cost summary for the month.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm378644032">
+<problem id="fs-idm485394256">
+<para id="fs-idm356346256"><link class="lo-reference" document="m68131"/>The following data show the units in beginning work in process inventory, the number of units started, the number of units transferred, and the percent completion of the ending work in process for conversion. Given that materials are added at the beginning of the process, what are the equivalent units for material and conversion costs for each quarter using the weighted-average method? Assume that the quarters are independent.</para>
+<media id="fs-idm370473280" alt="Quarter, Beginning WIP, Started, Transferred Out, and Conversion percent (respectively): 1, –, 255,000, 235,000, 50; 2, 2,500, 275,000, 250,000, 40; 3, 3,600, 290,000, 275,000, 45; 4, 6,500, 300,000, 280,000, 60.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_03_PB05_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm332719760">
+<problem id="fs-idm383727984">
+<para id="fs-idm375454032"><link class="lo-reference" document="m68131"/>The following data show the units in beginning work in process inventory, the number of units started, the number of units transferred, and the percent completion of the ending work in process for conversion. Given that materials are added 50% at the beginning of the process and 50% at the end of the process, what are the equivalent units for material and conversion costs for each quarter using the weighted-average method? Assume that the quarters are independent.</para>
+<media id="fs-idm369352032" alt="Quarter, Beginning WIP, Started, Transferred Out, and Conversion percent (respectively): 1, –, 134,250, 133,250, 25; 2, 523, 132,593, 132,541, 24; 3, 338, 133,245, 133,443, 20; 4, 489, 134,843, 134,232, 23.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_03_PA04_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm368125456">
+<problem id="fs-idm363064176">
+<para id="fs-idm378142848"><link class="lo-reference" document="m68131"/>The following data show the units in beginning work in process inventory, the number of units started, the number of units transferred, and the percent completion of the ending work in process for conversion. Given that materials are added 50% at the beginning of the process and 50% at the end of the process, what are the equivalent units for material and conversion costs for each quarter using the weighted-average method? Assume that the quarters are independent.</para>
+<media id="fs-idm368230464" alt="Quarter, Beginning WIP, Started, Transferred Out, and Conversion percent (respectively): 1, –, 255,000, 235,000, 50; 2, 2,500, 275,000, 250,000, 40; 3, 3,600, 290,000, 275,000, 45; 4, 6,500, 300,000, 280,000, 60.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_03_PB05_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+  </content>
+<glossary>
+<definition id="fs-idm375466880">
+<term>production cost report</term>
+<meaning id="fs-idm356210960">shows the costs used in the preparation of a product, including the cost per unit for materials and conversion costs and the amount of work in process and finished goods inventory</meaning>
+</definition>
+<definition id="fs-idm356127792">
+<term>spoilage</term>
+<meaning id="fs-idm387427664">any units that are not fit for sale due to breakage or other imperfections</meaning>
+</definition>
+</glossary>
+</document>

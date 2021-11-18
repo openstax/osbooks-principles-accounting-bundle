@@ -1,0 +1,230 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Prepare a Post-Closing Trial Balance</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67857</md:content-id>
+  <md:title>Prepare a Post-Closing Trial Balance</md:title>
+  <md:abstract/>
+  <md:uuid>97b42542-46b1-41e0-b60f-73f114dc4bff</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm262269584">The ninth, and typically final, step of the process is to prepare a post-closing trial balance. The word “post” in this instance means “after.” You are preparing a trial balance <emphasis effect="italics">after</emphasis> the closing entries are complete.</para>
+<para id="fs-idm529362080">Like all trial balances, the post-closing trial balance has the job of verifying that the debit and credit totals are equal. The post-closing trial balance has one additional job that the other trial balances do not have. The post-closing trial balance is also used to double-check that the only accounts with balances after the closing entries are permanent accounts. If there are any temporary accounts on this trial balance, you would know that there was an error in the closing process. This error must be fixed before starting the new period.</para>
+<para id="fs-idm270224064">The process of preparing the post-closing trial balance is the same as you have done when preparing the unadjusted trial balance and adjusted trial balance. Only permanent account balances should appear on the post-closing trial balance. These balances in post-closing T-accounts are transferred over to either the debit or credit column on the post-closing trial balance. When all accounts have been recorded, total each column and verify the columns equal each other.</para>
+<para id="fs-idm946719072">The post-closing trial balance for Printing Plus is shown in <link target-id="OSX_Acct_F05_02_PPPCTB"/>.</para>
+<figure id="OSX_Acct_F05_02_PPPCTB" class="scaled-down">
+<media id="fs-idm515568608" alt="Printing Plus, Post-Closing Trial Balance, January 31, 2019. Account Title, Debit or Credit. Cash $24,800 debit. Accounts Receivable 1,200 debit. Interest Receivable 140 debit. Supplies 400 debit. Equipment 3,500 debit. Accumulated Depreciation: Equipment $75 credit. Accounts Payable 500 credit. Salaries Payable 1,500 credit. Unearned Revenue 3,400 credit. Common Stock 20,000 credit. Retained Earnings 4,565 credit. Total 30,040 debit, 30,040 credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_02_PPPCTB.jpg"/>
+</media>
+<caption>Printing Plus’s Post-Closing Trial Balance. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm270215616">Notice that only permanent accounts are included. All temporary accounts with zero balances were left out of this statement. Unlike previous trial balances, the retained earnings figure is included, which was obtained through the closing process.</para>
+<para id="fs-idm274004368">At this point, the accounting cycle is complete, and the company can begin a new cycle in the next period. In essence, the company’s business is always in operation, while the accounting cycle utilizes the cutoff of month-end to provide financial information to assist and review the operations.</para>
+<para id="fs-idm274618768">It is worth mentioning that there is one step in the process that a company may or may not include, step 10, reversing entries. Reversing entries reverse an adjusting entry made in a prior period at the start of a new period. We do not cover reversing entries in this chapter, but you might approach the subject in future accounting courses.</para>
+<para id="fs-idm249469088">Now that we have completed the accounting cycle, let’s take a look at another way the adjusted trial balance assists users of information with financial decision-making.</para>
+<note id="fs-idm272524352" class="link-to-learning">
+<para id="fs-idm246418336">If you like quizzes, crossword puzzles, fill-in-the-blank, matching exercise, and word scrambles to help you learn the material in this course, go to <link url="https://openstax.org/l/50MyAcctCourse">My Accounting Course</link> for more. This website covers a variety of accounting topics including financial accounting basics, accounting principles, the accounting cycle, and financial statements, all topics introduced in the early part of this course.</para>
+</note>
+<note id="fs-idm935136496" class="concepts-practice">
+<title>The Importance of Understanding How to Complete the Accounting Cycle</title>
+<para id="fs-idm277699568">Many students who enroll in an introductory accounting course do not plan to become accountants. They will work in a variety of jobs in the business field, including managers, sales, and finance. In a real company, most of the mundane work is done by computers. Accounting software can perform such tasks as posting the journal entries recorded, preparing trial balances, and preparing financial statements. Students often ask why they need to do all of these steps by hand in their introductory class, particularly if they are never going to be an accountant. It is very important to understand that no matter what your position, if you work in business you need to be able to read financial statements, interpret them, and know how to use that information to better your business. If you have never followed the full process from beginning to end, you will never understand how one of your decisions can impact the final numbers that appear on your financial statements. You will not understand how your decisions can affect the outcome of your company.</para>
+<para id="fs-idm270897728">As mentioned previously, once you understand the effect your decisions will have on the bottom line on your income statement and the balances in your balance sheet, you can use accounting software to do all of the mundane, repetitive steps and use your time to evaluate the company based on what the financial statements show. Your stockholders, creditors, and other outside professionals will use your financial statements to evaluate your performance. If you evaluate your numbers as often as monthly, you will be able to identify your strengths and weaknesses before any outsiders see them and make any necessary changes to your plan in the following month.</para>
+</note>
+<section id="fs-idm226035152" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm524400240" list-type="bulleted" bullet-style="bullet">
+<item>Post-closing trial balance: The post-closing trial balance is prepared after closing entries have been posted to the ledger. This trial balance only includes permanent accounts.</item>
+</list>
+</section>
+<section id="fs-idm488330848" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm486355680">
+<problem id="fs-idm496993872">
+<para id="fs-idm269720944"><link class="lo-reference" document="m67857"/>Which of these accounts is included in the post-closing trial balance?</para>
+<list id="fs-idm247569456" list-type="enumerated" number-style="upper-alpha">
+<item>Sales Revenue</item>
+<item>Salaries Expense</item>
+<item>Retained Earnings</item>
+<item>Dividends</item>
+</list>
+</problem>
+<solution id="fs-idm268799488">
+<para id="fs-idm499740288">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm277668512">
+<problem id="fs-idm249186352">
+<para id="fs-idm265626912"><link class="lo-reference" document="m67857"/>Which of these accounts is <emphasis effect="italics">not</emphasis> included in the post-closing trial balance?</para>
+<list id="fs-idm237674704" list-type="enumerated" number-style="upper-alpha">
+<item>Land</item>
+<item>Notes Payable</item>
+<item>Retained Earnings</item>
+<item>Dividends</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm273529056">
+<problem id="fs-idm253240032">
+<para id="fs-idm225873952"><link class="lo-reference" document="m67857"/>On which of the following would the year-end Retained Earnings balance be stated correctly?</para>
+<list id="fs-idm248452576" list-type="enumerated" number-style="upper-alpha">
+<item>Unadjusted Trial Balance</item>
+<item>Adjusted Trial Balance</item>
+<item>Post-Closing Trial Balance</item>
+<item>The Worksheet</item>
+</list>
+</problem>
+<solution id="fs-idm273882208">
+<para id="fs-idm247525248">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm488927344">
+<problem id="fs-idm272730800">
+<para id="fs-idm274899328"><link class="lo-reference" document="m67857"/>Which of these accounts is included in the post-closing trial balance?</para>
+<list id="fs-idm266887872" list-type="enumerated" number-style="upper-alpha">
+<item>Supplies Expense</item>
+<item>Accounts Payable</item>
+<item>Sales Revenue</item>
+<item>Insurance Expense</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm277033424" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm267005776">
+<problem id="fs-idm946142336">
+<para id="fs-idm227005056"><link class="lo-reference" document="m67857"/>What account types are included in a post-closing trial balance?</para>
+</problem>
+<solution id="fs-idm531613600">
+<para id="fs-idm254854192">The post-closing trial balance will include only the permanent/real accounts, which are assets, liabilities, and equity. All of the other accounts (temporary/nominal accounts: revenue, expense, dividend) would have been cleared to zero by the closing entries.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm242797184">
+<problem id="fs-idm531813680">
+<para id="fs-idm946025040"><link class="lo-reference" document="m67857"/>Which of the basic financial statements can be directly tied to the post-closing trial balance? Why is this so?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm504270336" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm517190288">
+<problem id="fs-idm245288400">
+<para id="fs-idm232712208"><link class="lo-reference" document="m67857"/>Identify whether each of the following accounts would be listed in the company’s Post-Closing Trial Balance.</para>
+<list id="fs-idm221685104" list-type="enumerated" number-style="upper-alpha">
+<item>Accounts Payable</item>
+<item>Advertising Expense</item>
+<item>Dividends</item>
+<item>Fees Earned Revenue</item>
+<item>Prepaid Advertising</item>
+<item>Supplies</item>
+<item>Supplies Expense</item>
+<item>Unearned Fee Revenue</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm269511120">
+<problem id="fs-idm267024528">
+<para id="fs-idm237946512"><link class="lo-reference" document="m67857"/>Identify which of the following accounts would <emphasis effect="italics">not</emphasis> be listed on the company’s Post-Closing Trial Balance.</para>
+<media id="fs-idm237970640" class="scaled-down-30" alt="Prepaid insurance $9,444, Land 34,000, Notes payable 48,000, Retained earnings 31,315, Insurance expense 12,689, Service revenue 82,500, Supplies 9,700, Salaries expense 51,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_02_EA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm522841808" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm246080848">
+<problem id="fs-idm281412672">
+<para id="fs-idm531492480"><link class="lo-reference" document="m67857"/>Identify which of the following accounts would be listed on the company’s Post-Closing Trial Balance.</para>
+<list id="fs-idm228551552" list-type="enumerated" number-style="upper-alpha">
+<item>Accounts Receivable</item>
+<item>Accumulated Depreciation</item>
+<item>Cash</item>
+<item>Office Expense</item>
+<item>Note Payable</item>
+<item>Rent Revenue</item>
+<item>Retained Earnings</item>
+<item>Unearned Rent Revenue</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm247155728">
+<problem id="fs-idm226871824">
+<para id="fs-idm273902320"><link class="lo-reference" document="m67857"/>Identify which of the following accounts would <emphasis effect="italics">not</emphasis> be listed on the company’s Post-Closing Trial Balance.</para>
+<media id="fs-idm518666944" class="scaled-down-30" alt="Accounts payable $19,000, Advertising expense 23,760, Cash 55,332, Common stock 38,000, Dividend 9,000, Fee revenue 60,000, Prepaid insurance 21,466, Land 45,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_02_EB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm277226896" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm518689712">
+<problem id="fs-idm517251664">
+<para id="fs-idm496981600"><link class="lo-reference" document="m67857"/>Assuming the following Adjusted Trial Balance, create the Post-Closing Trial Balance that would result, after all closing journal entries were made and posted:</para>
+<media id="fs-idm486848096" class="scaled-down" alt="Adjusted Trial Balance. Cash 22,900 debit. Prepaid insurance 4,000 debit. Fixed assets 44,000 debit. Notes payable 40,000 credit. Common stock 25,000 credit. Retained earnings 48,350 credit. Dividends 22,000 debit. Sales revenue 150,000 credit. Automobile expense 26,500 debit. Insurance expense 20,000. Salaries expense 122,500. Supplies expense 1,450. Debit total 263,350, credit total 263,350.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_02_PA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm517014640">
+<problem id="fs-idm531819248">
+<para id="fs-idm282546336"><link class="lo-reference" document="m67857"/>The following Post-Closing Trial Balance contains errors. Prepare a corrected Post-Closing Trial Balance:</para>
+<media id="fs-idm529299280" class="scaled-down" alt="Post-Closing Trial Balance. Cash 29,900 debit. Prepaid insurance 5,500 debit. Fixed assets 50,000 credit. Notes payable 46,000 credit. Common stock 32,000 debit. Retained earnings 7,400 credit. Debit total 67,400, credit total 103,400.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_02_PA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm950712048">
+<problem id="fs-idm522628112">
+<para id="fs-idm952500448"><link class="lo-reference" document="m67857"/>Assuming the following Adjusted Trial Balance, recreate the Post-Closing Trial Balance that would result after all closing journal entries were made and posted:</para>
+<media id="fs-idm223375792" class="scaled-down" alt="Adjusted Trial Balance. Cash 17,900 debit. Accounts receivable 9,900 debit. Supplies 1,600 debit. Prepaid insurance 2,500 debit. Salaries payable 8,600 credit. Common stock 10,000 credit. Retained earnings 2,800 credit. Dividends 4,000 debit. Service fee revenue 37,050 credit. Salaries expense 16,900 debit. Supplies expense 4,200 debit. Insurance expense 1,450 debit. Debit total 58,450, credit total 58,450.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_02_PA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm941851776" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm523678704">
+<problem id="fs-idm517363376">
+<para id="fs-idm229468064"><link class="lo-reference" document="m67857"/>Assuming the following Adjusted Trial Balance, create the Post-Closing Trial Balance that would result after all closing journal entries were made and posted:</para>
+<media id="fs-idm522459712" class="scaled-down" alt="Adjusted Trial Balance. Cash 8,625 debit. Accounts receivable 11,600 debit. Accounts payable 8,450 credit. Unearned revenue 1,500 credit. Common stock 10,000 credit. Retained earnings 12,275 credit. Dividends 2,000 debit. Service revenue 97,500 credit. Advertising expense 2,500 debit. Rent expense 18,000 debit. Utilities expense 12,000 debit. Wages expense 75,000 debit. Debit total 129,725, credit total129,725.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_02_PB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm276974960">
+<problem id="fs-idm489080704">
+<para id="fs-idm270261552"><link class="lo-reference" document="m67857"/>The following Post-Closing Trial Balance contains errors. Prepare a corrected Post-Closing Trial Balance:</para>
+<media id="fs-idm277720192" class="scaled-down" alt="Post-Closing Trial Balance. Cash 32,660 credit. Supplies 7,200 debit. Land 25,000 credit. Notes payable 47,700 debit. Common stock 7,000 credit. Retained earnings 10,160 credit. Total debits 54,900, total credits 74,820.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_02_PB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm529439248">
+<problem id="fs-idm522763232">
+<para id="fs-idm532734544"><link class="lo-reference" document="m67857"/>Assuming the following Adjusted Trial Balance, re-create the Post-Closing Trial Balance that would result after all closing journal entries were made and posted:</para>
+<media id="fs-idm269038640" class="scaled-down" alt="Adjusted Trial Balance. Cash 5,450 debit. Accounts receivable 4,700 debit. Supplies 250 debit. Prepaid insurance 1,250. Salaries payable 650 credit. Common stock 5,000 credit. Retained earnings 750 credit. Dividends 1,400 debit. Service fee revenue 17,300 credit. Salaries expense 9,050 debit. Supplies expense 1,000 debit. Insurance expense 600 debit. Debit total 23,700, credit total 23,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_02_PB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm274105632" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm276016976">
+<problem id="fs-idm277656032">
+<para id="fs-idm269541296"><link class="lo-reference" document="m67857"/>Search the US Securities and Exchange Commission website (https://www.sec.gov/edgar/searchedgar/companysearch.html) and locate the latest Form 10-K for a company you would like to analyze. Submit a short memo:</para>
+<list id="fs-idm273494368" list-type="bulleted" bullet-style="bullet">
+<item>State the name and ticker symbol of the company you have chosen.</item>
+<item>Review the company’s Balance Sheets.</item>
+<item>Reconstruct a Post-Closing Trial Balance for the company from the information presented in the financial statements.</item>
+</list>
+<para id="fs-idm272347552">Provide the web link to the company’s Form 10-K, to allow accurate verification of your answers.</para>
+</problem>
+</exercise>
+</section>
+   </content>
+</document>

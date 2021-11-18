@@ -1,0 +1,509 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Discuss and Record Transactions Applying the Two Commonly Used Freight-In Methods</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67865</md:content-id>
+  <md:title>Discuss and Record Transactions Applying the Two Commonly Used Freight-In Methods</md:title>
+  <md:abstract/>
+  <md:uuid>2c9023f5-4416-4ea7-9b92-cab212c30bfc</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm249118704">When you buy merchandise online, shipping charges are usually one of the negotiated terms of the sale. As a consumer, anytime the business pays for shipping, it is welcomed. For businesses, shipping charges bring both benefits and challenges, and the terms negotiated can have a significant impact on inventory operations.</para>
+<figure id="OSX_Acct_F06_05_Ship" class="scaled-down-30">
+<media id="fs-idm213931696" alt="Photo of tractor-trailer truck.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_05_Ship.jpg"/>
+</media>
+<caption>Shipping Merchandise. (credit: “Guida Siebert Dairy Milk Delivery Truck tractor trailer!” by Mike Mozart/Flickr, CC BY 2.0)</caption>
+</figure>
+<note id="fs-idm264897200" class="ifrs-connection">
+<title>Shipping Term Effects</title>
+<para id="fs-idm260429472">Companies applying US GAAP as well as those applying IFRS can choose either a perpetual or periodic inventory system to track purchases and sales of inventory. While the tracking systems do not differ between the two methods, they have differences in when sales transactions are reported. If goods are shipped FOB shipping point, under IFRS, the total selling price of the item would be allocated between the item sold (as sales revenue) and the shipping (as shipping revenue). Under US GAAP, the seller can elect whether the shipping costs will be an additional component of revenue (separate performance obligation) or whether they will be considered fulfillment costs (expensed at the time shipping as shipping expense). In an FOB destination scenario, the shipping costs would be considered a fulfillment activity and expensed as incurred rather than be treated as a part of revenue under both IFRS and US GAAP.</para>
+<para id="fs-idm253213776"><emphasis effect="bold">Example</emphasis></para>
+<para id="fs-idm236408272">Wally’s Wagons sells and ships 20 deluxe model wagons to Sam’s Emporium for $5,000. Assume $400 of the total costs represents the costs of shipping the wagons and consider these two scenarios: (1) the wagons are shipped FOB shipping point or (2) the wagons are shipped FOB destination. If Wally’s is applying IFRS, the $400 shipping is considered a separate performance obligation, or shipping revenue, and the other $4,600 is considered sales revenue. Both revenues are recorded at the time of shipping and the $400 shipping revenue is offset by a shipping expense. If Wally’s used US GAAP instead, they would choose between using the same treatment as described under IFRS or considering the costs of shipping to be costs of fulfilling the order and expense those costs at the time they are incurred. In this latter case, Wally’s would record Sales Revenue of $5,000 at the time the wagons are shipped and $400 as shipping expense at the time of shipping. Notice that in both cases, the total net revenues are the same $4,600, but the distribution of those revenues is different, which impacts analyses of sales revenue versus total revenues. What happens if the wagons are shipped FOB destination instead? Under both IFRS and US GAAP, the $400 shipping would be treated as an order fulfillment cost and recorded as an expense at the time the goods are shipped. Revenue of $5,000 would be recorded at the time the goods are received by Sam’s emporium.</para>
+<para id="fs-idm264913360"><emphasis effect="bold">Financial Statement Presentation of Cost of Goods Sold</emphasis></para>
+<para id="fs-idm243844480">IFRS allows greater flexibility in the presentation of financial statements, including the income statement. Under IFRS, expenses can be reported in the income statement either by nature (for example, rent, salaries, depreciation) or by function (such as COGS or Selling and Administrative). US GAAP has no specific requirements regarding the presentation of expenses, but the SEC requires that expenses be reported by function. Therefore, it may be more challenging to compare merchandising costs (cost of goods sold) across companies if one company’s income statement shows expenses by function and another company shows them by nature.</para>
+</note>
+<section id="fs-idm235912640">
+<title>The Basics of Freight-in Versus Freight-out Costs</title>
+<para id="fs-idm249716208">Shipping is determined by contract terms between a buyer and seller. There are several key factors to consider when determining who pays for shipping, and how it is recognized in merchandising transactions. The establishment of a transfer point and ownership indicates who pays the shipping charges, who is responsible for the merchandise, on whose balance sheet the assets would be recorded, and how to record the transaction for the buyer and seller.</para>
+<para id="fs-idm249769904"><term>Ownership of inventory</term> refers to which party owns the inventory at a particular point in time—the buyer or the seller. One particularly important point in time is the <term>point of transfer</term>, when the responsibility for the inventory transfers from the seller to the buyer. Establishing ownership of inventory is important to determine who pays the shipping charges when the goods are in transit as well as the responsibility of each party when the goods are in their possession. <term>Goods in transit</term> refers to the time in which the merchandise is transported from the seller to the buyer (by way of delivery truck, for example). One party is responsible for the goods in transit and the costs associated with transportation. Determining whether this responsibility lies with the buyer or seller is critical to determining the reporting requirements of the retailer or merchandiser.</para>
+<para id="fs-idm263299056"><term>Freight-in</term> refers to the shipping costs for which the buyer is responsible when receiving shipment from a seller, such as delivery and insurance expenses. When the buyer is responsible for shipping costs, they recognize this as part of the purchase cost. This means that the shipping costs stay with the inventory until it is sold. The cost principle requires this expense to stay with the merchandise as it is part of getting the item ready for sale from the buyer’s perspective. The shipping expenses are held in inventory until sold, which means these costs are reported on the balance sheet in Merchandise Inventory. When the merchandise is sold, the shipping charges are transferred with all other inventory costs to Cost of Goods Sold on the income statement.</para>
+<para id="fs-idm266095152">For example, California Business Solutions (CBS) may purchase 30 computers from a manufacturer for $80 and part of the agreement is that CBS (the buyer) pays the shipping costs of $1,000. CBS would record the following entry to recognize the purchase of the goods and the freight-in.</para>
+<media id="fs-idm248297968" alt="A journal entry shows a debit to Inventory Expense for $3,400 and credit to Accounts Payable for $3,400 with the note “to recognize purchase of goods and freight-in (30 × $80) + $1,000”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_05_CBS01_img.jpg"/>
+</media>
+<para id="fs-idm260546656">Merchandise Inventory increases (debit), and Cash decreases (credit), for the entire cost of the purchase, including shipping, insurance, and taxes. On the balance sheet, the shipping charges would remain a part of inventory.</para>
+<para id="fs-idm250054736"><term>Freight-out</term> refers to the costs for which the seller is responsible when shipping to a buyer, such as delivery and insurance expenses. When the seller is responsible for shipping costs, they recognize this as a delivery expense. The delivery expense is specifically associated with selling and not daily operations; thus, delivery expenses are typically recorded as a selling and administrative expense on the income statement in the current period.</para>
+<para id="fs-idm252630240">For example, CBS may sell electronics packages to a customer and agree to cover the $100 cost associated with shipping and insurance. CBS would record the following entry to recognize freight-out.</para>
+<media id="fs-idm253605312" alt="A journal entry shows a debit to Delivery Expense for $100 and credit to Cash for $100 with the note “to recognize freight-out shipping costs.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_05_CBS02_img.jpg"/>
+</media>
+<para id="fs-idm260639936">Delivery Expense increases (debit) and Cash decreases (credit) for the shipping cost amount of $100. On the income statement, this $100 delivery expense will be grouped with Selling and Administrative expenses.</para>
+<note id="fs-idm236638784" class="link-to-learning">
+<para id="fs-idm255471504">Shipping term agreements provide clarity for buyers and sellers with regards to inventory responsibilities. Use the <link url="https://openstax.org/l/50ShippingTerms">animation on FOB Shipping Point and FOB Destination</link> to learn more.</para>
+</note>
+</section>
+<section id="fs-idm260113120">
+<title>Discussion and Application of FOB Destination</title>
+<para id="fs-idm255015488">As you’ve learned, the seller and buyer will establish terms of purchase that include the purchase price, taxes, insurance, and shipping charges. So, who pays for shipping? On the purchase contract, shipping terms establish who owns inventory in transit, the point of transfer, and who pays for shipping. The shipping terms are known as “free on board,” or simply FOB. Some refer to FOB as the point of transfer, but really, it incorporates more than simply the point at which responsibility transfers. There are two FOB considerations: FOB Destination and FOB Shipping Point.</para>
+<para id="fs-idm264044432">If <term>FOB destination point</term> is listed on the purchase contract, this means the seller pays the shipping charges (freight-out). This also means goods in transit belong to, and are the responsibility of, the seller. The point of transfer is when the goods reach the buyer’s place of business.</para>
+<para id="fs-idm248799136">To illustrate, suppose CBS sells 30 landline telephones at $150 each on credit at a cost of $60 per phone. On the sales contract, FOB Destination is listed as the shipping terms, and shipping charges amount to $120, paid as cash directly to the delivery service. The following entries occur.</para>
+<media id="fs-idm253823920" alt="A journal entry shows a debit to Accounts Receivable for $4,500 and credit to Sales for $4,500 with the note “to recognize sale, F O B Destination, 30 times $150,” followed by a debit to Cost of Goods Sold for $1,800 and credit to Merchandise Inventory for $1,800 with the note “to recognize cost of sale, 30 times $60,” followed by a debit to Delivery Expense for $120 and credit to Cash for $120 with the note “to recognize freight-out shipping costs.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_05_SaleFOB01_img.jpg"/>
+</media>
+<para id="fs-idm234801360">Accounts Receivable (debit) and Sales (credit) increases for the amount of the sale (30 × $150). Cost of Goods Sold increases (debit) and Merchandise Inventory decreases (credit) for the cost of sale (30 × $60). Delivery Expense increases (debit) and Cash decreases (credit) for the delivery charge of $120.</para>
+</section>
+<section id="fs-idm264851008">
+<title>Discussion and Application of FOB Shipping Point</title>
+<para id="fs-idm253011248">If <term>FOB shipping point</term> is listed on the purchase contract, this means the buyer pays the shipping charges (freight-in). This also means goods in transit belong to, and are the responsibility of, the buyer. The point of transfer is when the goods leave the seller’s place of business.</para>
+<para id="fs-idm261043296">Suppose CBS buys 40 tablet computers at $60 each on credit. The purchase contract shipping terms list FOB Shipping Point. The shipping charges amount to an extra $5 per tablet computer. All other taxes, fees, and insurance are included in the purchase price of $60. The following entry occurs to recognize the purchase.</para>
+<media id="fs-idm248130816" alt="A journal entry shows a debit to Merchandise Inventory for $2,600 and a credit to Accounts Payable for $2,600 with the note “to recognize purchase on credit, F O B Shipping Point, 40 times $65.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_05_SaleFOB02_img.jpg"/>
+</media>
+<para id="fs-idm241002624">Merchandise Inventory increases (debit) and Accounts Payable increases (credit) by the amount of the purchase, including all shipping, insurance, taxes, and fees [(40 × $60) + (40 × $5)].</para>
+<para id="fs-idm240874736"><link target-id="OSX_Acct_F06_05_Compare"/> shows a comparison of shipping terms.</para>
+<figure id="OSX_Acct_F06_05_Compare">
+<media id="fs-idm259407680" alt="F O B Shipping Point is impacted by the facts that the buyer owns the inventory and pays for shipping, and the point of transfer at which the inventory leaves the seller. The F O B Destination is impacted by the facts that the seller owns the inventory and pays the shipping, and the point of transfer at which the inventory arrives at the buyer.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_05_Compare.jpg"/>
+</media>
+<caption>FOB Shipping Point versus FOB Destination. A comparison of shipping terms. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm261416944" class="think-through">
+<title>Choosing Suitable Shipping Terms</title>
+<para id="fs-idm247192272">You are a seller and conduct business with several customers who purchase your goods on credit. Your standard contract requires an FOB Shipping Point term, leaving the buyer with the responsibility for goods in transit and shipping charges. One of your long-term customers asks if you can change the terms to FOB Destination to help them save money.</para>
+<para id="fs-idm263718192">Do you change the terms, why or why not? What positive and negative implications could this have for your business, and your customer? What, if any, restrictions might you consider if you did change the terms?</para>
+</note>
+</section>
+<section id="fs-idm235354240" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm252537872" list-type="bulleted" bullet-style="bullet">
+<item>Establishing ownership of inventory is important because it helps determine who is responsible for shipping charges, goods in transit, and transfer points. Ownership also determines reporting requirements for the buyer and seller. The buyer is responsible for the merchandise, and the cost of shipping, insurance, purchase price, taxes, and fees are held in inventory in its Merchandise Inventory account. The buyer would record an increase (debit) to Merchandise Inventory and either a decrease to Cash or an increase to Accounts Payable (credit) depending on payment method.</item>
+<item>FOB Shipping Point means the buyer should record the merchandise as inventory when it leaves the seller’s location. FOB destination means the seller should continue to carry the merchandise in inventory until it reaches the buyer’s location. This becomes really important at year-end when each party is trying to determine their actual balance sheet inventory accounts.</item>
+<item>FOB Destination means the seller is responsible for the merchandise, and the cost of shipping is expensed immediately in the period as a delivery expense. The seller would record an increase (debit) to Delivery Expense, and a decrease to Cash (credit).</item>
+<item>In FOB Destination, the seller is responsible for the shipping charges and like expenses. The point of transfer is when the merchandise reaches the buyer’s place of business, and the seller owns the inventory in transit.</item>
+<item>In FOB Shipping Point, the buyer is responsible for the shipping charges and like expenses. The point of transfer is when the merchandise leaves the seller’s place of business, and the buyer owns the inventory in transit.</item>
+</list>
+</section>
+<section id="fs-idm248952480" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm257828416">
+<problem id="fs-idm255318560">
+<para id="fs-idm266804880"><link class="lo-reference" document="m67865"/>Which of the following is <emphasis effect="italics">not</emphasis> a characteristic of FOB Destination?</para>
+<list id="fs-idm251480848" list-type="enumerated" number-style="upper-alpha">
+<item>The seller pays for shipping.</item>
+<item>The seller owns goods in transit.</item>
+<item>The point of transfer is when the goods leave the seller’s place of business.</item>
+<item>The point of transfer is when the goods arrive at the buyer’s place of business.</item>
+</list>
+</problem>
+<solution id="fs-idm253300592">
+<para id="fs-idm265658512">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm257447904">
+<problem id="fs-idm266497248">
+<para id="fs-idm255801968"><link class="lo-reference" document="m67865"/>Which two accounts are used to recognize shipping charges for a buyer, assuming the buyer purchases with cash and the terms are FOB Shipping Point?</para>
+<list id="fs-idm253821152" list-type="enumerated" number-style="upper-alpha">
+<item>delivery expense, cash</item>
+<item>merchandise inventory, cash</item>
+<item>merchandise inventory, accounts payable</item>
+<item>The buyer does not record anything for shipping since it is FOB Shipping Point.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm252635808">
+<problem id="fs-idm250745872">
+<para id="fs-idm261447808"><link class="lo-reference" document="m67865"/>Which of the following is <emphasis effect="italics">not</emphasis> a characteristic of FOB Shipping Point?</para>
+<list id="fs-idm266125664" list-type="enumerated" number-style="upper-alpha">
+<item>The buyer pays for shipping.</item>
+<item>The buyer owns goods in transit.</item>
+<item>The point of transfer is when the goods leave the seller’s place of business.</item>
+<item>The point of transfer is when the goods arrive at the buyer’s place of business.</item>
+</list>
+</problem>
+<solution id="fs-idm253179616">
+<para id="fs-idm249125488">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm251284432" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm265555152">
+<problem id="fs-idm259683280">
+<para id="fs-idm255303360"><link class="lo-reference" document="m67865"/>What are the main differences between FOB Destination and FOB Shipping Point?</para>
+</problem>
+<solution id="fs-idm267755904">
+<para id="fs-idm268089664">With FOB Destination, the seller is responsible for goods in transit, the seller pays for shipping, and the point of transfer is when the goods reach the buyer’s place of business. With FOB Shipping Point, the buyer is responsible for goods in transit, the buyer pays for shipping, and the point of transfer is when the goods leave the seller’s place of business.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm259462032">
+<problem id="fs-idm253424944">
+<para id="fs-idm259164096"><link class="lo-reference" document="m67865"/>A buyer purchases $250 worth of goods on credit from a seller. Shipping charges are $50. The terms of the purchase are 2/10, n/30, FOB Destination. What, if any, journal entry or entries will the buyer record for these transactions?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm234989712">
+<problem id="fs-idm253642496">
+<para id="fs-idm249412320"><link class="lo-reference" document="m67865"/>A seller sells $800 worth of goods on credit to a customer, with a cost to the seller of $300. Shipping charges are $100. The terms of the sale are 2/10, n/30, FOB Destination. What, if any, journal entry or entries will the seller record for these transactions?</para>
+</problem>
+<solution id="fs-idm248199280">
+<table id="fs-idm257483712" class="unnumbered unstyled" summary="No Summary">
+<label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Accounts Receivable</entry>
+<entry valign="top" align="right">800</entry>
+<entry valign="top" align="right"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Sales</entry>
+<entry valign="top" align="right"> </entry>
+<entry valign="top" align="right">800</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">To recognize sale on credit, 2/10, n/30, FOB Destination</emphasis></entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">COGS</entry>
+<entry valign="top" align="right">300</entry>
+<entry valign="top" align="right"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Merchandise Inventory</entry>
+<entry valign="top" align="right"> </entry>
+<entry valign="top" align="right">300</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">To recognize cost of sale</emphasis></entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Delivery Expense</entry>
+<entry valign="top" align="right">100</entry>
+<entry valign="top" align="right"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Cash</entry>
+<entry valign="top" align="right"> </entry>
+<entry valign="top" align="right">100</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">To recognize shipping charge, FOB Destination</emphasis></entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</solution>
+</exercise>
+<exercise id="fs-idm231999328">
+<problem id="fs-idm215645936">
+<para id="fs-idm263688080"><link class="lo-reference" document="m67865"/>Which statement and where on the statement is freight-out recorded? Why is it recorded there?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm252633168" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm227793664">
+<problem id="fs-idm246581632">
+<para id="fs-idm260261072"><link class="lo-reference" document="m67865"/>Review the following situations and record any necessary journal entries for Mequon’s Boutique.</para>
+<table id="fs-idm267574368" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">May 10</entry>
+<entry valign="top" align="left">Mequon’s Boutique purchases $2,400 worth of merchandise with cash from a manufacturer. Shipping charges are an extra $130 cash. Terms of the purchase are FOB Shipping Point.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">May 14</entry>
+<entry valign="top" align="left">Mequon’s Boutique sells $3,000 worth of merchandise to a customer who pays with cash. The merchandise has a cost to Mequon’s of $1,750. Shipping charges are an extra $150 cash. Terms of the sale are FOB Shipping Point.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm255726192">
+<problem id="fs-idm234832064">
+<para id="fs-idm268465408"><link class="lo-reference" document="m67865"/>Review the following situations and record any necessary journal entries for Letter Depot.</para>
+<table id="fs-idm251941584" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mar. 9</entry>
+<entry valign="top" align="left">Letter Depot purchases $11,420 worth of merchandise on credit from a manufacturer. Shipping charges are an extra $480 cash. Terms of the purchase are 2/10, n/40, FOB Destination, invoice dated March 9.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 20</entry>
+<entry valign="top" align="left">Letter Depot sells $7,530 worth of merchandise to a customer who pays on credit. The merchandise has a cost to Letter Depot of $2,860. Shipping charges are an extra $440 cash. Terms of the sale are 3/15, n/50, FOB Destination, invoice dated March 20.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm264094400">
+<problem id="fs-idm232944560">
+<para id="fs-idm256453632"><link class="lo-reference" document="m67865"/>Review the following situations and record any necessary journal entries for Nine Lives Inc.</para>
+<table id="fs-idm263309824" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 15</entry>
+<entry valign="top" align="left">Nine Lives Inc. purchases $8,770 worth of merchandise with cash from a manufacturer. Shipping charges are an extra $345 cash. Terms of the purchase are FOB Shipping Point.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 23</entry>
+<entry valign="top" align="left">Nine Lives Inc. sells $4,520 worth of merchandise to a customer who pays with cash. The merchandise has a cost to Nine Lives of $3,600. Shipping charges are an extra $190 cash. Terms of the sale are FOB Destination.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm250125728" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm268041008">
+<problem id="fs-idm252661600">
+<para id="fs-idm257360880"><link class="lo-reference" document="m67865"/>Review the following situations and record any necessary journal entries for Lumber Farm.</para>
+<table id="fs-idm249886096" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Feb. 13</entry>
+<entry valign="top" align="left">Lumber Farm purchases $9,650 worth of merchandise with cash from a manufacturer. Shipping charges are an extra $210 cash. Terms of the purchase are FOB Destination.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Feb. 19</entry>
+<entry valign="top" align="left">Lumber Farm sells $5,670 worth of merchandise to a customer who pays with cash. The merchandise has a cost to Lumber Farm of $2,200. Shipping charges are an extra $230 cash. Terms of the sale are FOB Destination.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm252114272">
+<problem id="fs-idm252176544">
+<para id="fs-idm259194000"><link class="lo-reference" document="m67865"/>Review the following situations and record any necessary journal entries for Clubs Unlimited.</para>
+<table id="fs-idm251716128" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jun. 12</entry>
+<entry valign="top" align="left">Clubs Unlimited purchases $3,540 worth of merchandise on credit from a manufacturer. Shipping charges are an extra $150 cash. Terms of the purchase are 2/10, n/45, FOB Shipping Point, invoice dated June 12.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 18</entry>
+<entry valign="top" align="left">Clubs Unlimited sells $8,200 worth of merchandise to a customer who pays on credit. The merchandise has a cost to Clubs Unlimited of $3,280. Shipping charges are an extra $150 cash. Terms of the sale are 3/15, n/30, FOB Shipping Point, invoice dated June 18.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm233454752">
+<problem id="fs-idm247821168">
+<para id="fs-idm250545200"><link class="lo-reference" document="m67865"/>Review the following situations and record any necessary journal entries for Wall World.</para>
+<table id="fs-idm257405360" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Dec. 6</entry>
+<entry valign="top" align="left">Wall World purchases $5,510 worth of merchandise on credit from a manufacturer. Shipping charges are an extra $146 cash. Terms of the purchase are 2/15, n/40, FOB Shipping Point, invoice dated December 6.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 10</entry>
+<entry valign="top" align="left">Wall World sells $3,590 worth of merchandise to a customer, who pays on credit. The merchandise has a cost to Wall World of $1,400. Shipping charges are an extra $115 cash. Terms of the sale are 4/10, n/30, FOB Destination, invoice dated December 10.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm252205984" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm248732464">
+<problem id="fs-idm259319024">
+<para id="fs-idm246524032"><link class="lo-reference" document="m67865"/>Record the following purchase transactions of Money Office Supplies.</para>
+<table id="fs-idm259229920" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Aug. 3</entry>
+<entry valign="top" align="left">Purchased 45 chairs on credit, at a cost of $55 per chair. Shipping charges are an extra $3 cash per chair and are not subject to discount. Terms of the purchase are 4/10, n/60, FOB Shipping Point, invoice dated August 3.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 7</entry>
+<entry valign="top" align="left">Purchased 30 chairs with cash, at a cost of $50 per chair. Shipping charges are an extra $4.50 cash per chair and are not subject to discount. Terms of the purchase are FOB Destination.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 12</entry>
+<entry valign="top" align="left">Money Office Supplies pays in full for their purchase on August 3.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm236313440" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm248721344">
+<problem id="fs-idm255290416">
+<para id="fs-idm253022976"><link class="lo-reference" document="m67865"/>Record the following purchase transactions of Custom Kitchens Inc.</para>
+<table id="fs-idm255128848" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Oct. 6</entry>
+<entry valign="top" align="left">Purchased 230 cabinet doors on credit at a cost of $46 per door. Shipping charges are an extra $2 cash per door and are not subject to discount. Terms of the purchase are 5/15, n/35, FOB Shipping Point, invoice dated October 6.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oct. 9</entry>
+<entry valign="top" align="left">Purchased 100 cabinet doors with cash at cost of $40 per door. Shipping charges are an extra $3.25 cash per door and are not subject to discount. Terms of the purchase are FOB Destination.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oct. 20</entry>
+<entry valign="top" align="left">Custom Kitchens Inc. pays in full for their purchase from October 6.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm263748672">
+<problem id="fs-idm255197072">
+<para id="fs-idm215679488"><link class="lo-reference" document="m67865"/>Record the following sales transactions of Money Office Supplies.</para>
+<table id="fs-idm259275520" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Apr. 4</entry>
+<entry valign="top" align="left">Made a cash sale to a customer for 15 chairs at a sales price of $80 per chair. The cost to Money Office Supplies is $55 per chair. Shipping charges are an extra $4 cash per chair and are not subject to discount. Terms of the sale are FOB Shipping Point.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Apr. 9</entry>
+<entry valign="top" align="left">Sold 20 chairs on credit for $85 per chair to a customer. The cost per chair to Money Office Supplies is $50 per chair. Shipping charges are an extra $4.50 cash per chair and are not subject to discount. Terms of the sale are 3/10, n/30, FOB Destination, invoice dated April 9.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Apr. 19</entry>
+<entry valign="top" align="left">The customer pays in full for their purchase on April 9.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm269710640">
+<problem id="fs-idm267578272">
+<para id="fs-idm251325696"><link class="lo-reference" document="m67865"/>Record the following sales transactions of Custom Kitchens Inc.</para>
+<table id="fs-idm253835232" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Nov. 12</entry>
+<entry valign="top" align="left">Made a cash sale to a customer for 34 cabinet doors at a sales price of $72 per door. The cost to Custom Kitchens Inc. is $46 per door. Shipping charges are an extra $3.15 cash per door and are not subject to discount. Terms of the sale are FOB Shipping Point.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Nov. 16</entry>
+<entry valign="top" align="left">Sold 22 doors on credit for $80 per door to a customer. The cost per door to Custom Kitchens Inc. is $40 per door. Shipping charges are an extra $4.00 cash per door and are not subject to discount. Terms of the sale are 5/15, n/40, FOB Destination, invoice dated November 12.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Nov. 24</entry>
+<entry valign="top" align="left">The customer pays in full for their purchase on November 16.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm261219488" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm215803872">
+<problem id="fs-idm260444640">
+<para id="fs-idm268755216"><link class="lo-reference" document="m67865"/>You own your own outdoor recreation supply store. You are in the process of drafting a standard invoice agreement for customer sales conducted on credit. Create a sample sales invoice with the following minimum information listed:</para>
+<list id="fs-idm247029760" list-type="bulleted">
+<item>Your company information</item>
+<item>Date of sale</item>
+<item>Your customer’s information</item>
+<item>An example product you sell with name, description, price per unit, and number of units sold</item>
+<item>Terms of sale including credit terms and shipping charges, with numerical figures for shipping charges</item>
+<item>Any contract language necessary to further establish the terms of sale (for example, warranties, limitations on shipping, and returns)</item>
+</list>
+<para id="fs-idm255082080">Write a reflection about your invoice choice, as it relates to format, terms, contract language, and pricing strategies. Conduct a comparison study to others in your industry (such as <emphasis class="colored-text">REI</emphasis>) to evaluate your choices. Make sure to support your decisions with concrete examples and research.</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm248147984">
+<term>FOB destination point</term>
+<meaning id="fs-idm248247248">transportation terms whereby the seller transfers ownership and financial responsibility at the time of delivery</meaning>
+</definition>
+<definition id="fs-idm260427120">
+<term>FOB shipping point</term>
+<meaning id="fs-idm231225584">transportation terms whereby the seller transfers ownership and financial responsibility at the time of shipment</meaning>
+</definition>
+<definition id="fs-idm236346176">
+<term>freight-in</term>
+<meaning id="fs-idm253167216">buyer is responsible for when receiving shipment from a seller</meaning>
+</definition>
+<definition id="fs-idm238535808">
+<term>freight-out</term>
+<meaning id="fs-idm240970896">seller is responsible for when shipping to a buyer</meaning>
+</definition>
+<definition id="fs-idm234365408">
+<term>goods in transit</term>
+<meaning id="fs-idm255530656">time in which the merchandise is being transported from the seller to the buyer</meaning>
+</definition>
+<definition id="fs-idm249096992">
+<term>ownership of inventory</term>
+<meaning id="fs-idm260192032">which party owns the inventory at a particular point in time, the buyer or the seller</meaning>
+</definition>
+<definition id="fs-idm260470576">
+<term>point of transfer</term>
+<meaning id="fs-idm259125520">when the responsibility for the inventory transfers from the seller to the buyer</meaning>
+</definition>
+</glossary>
+</document>

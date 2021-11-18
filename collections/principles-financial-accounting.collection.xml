@@ -1,0 +1,196 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col25448</md:content-id>
+    <md:title>Principles of Accounting, Volume 1: Financial Accounting</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike License</md:license>
+    <md:uuid>9ab4ba6d-1e48-486d-a2de-38ae1617ca84</md:uuid>
+<md:slug>principles-financial-accounting</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m67830"/>
+    <col:subcollection>
+      <md:title>Role of Accounting in Society</md:title>
+      <col:content>
+        <col:module document="m67831"/>
+        <col:module document="m67832"/>
+        <col:module document="m67833"/>
+        <col:module document="m67834"/>
+        <col:module document="m67835"/>
+        <col:module document="m67836"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Introduction to Financial Statements</md:title>
+      <col:content>
+        <col:module document="m67837"/>
+        <col:module document="m67838"/>
+        <col:module document="m67839"/>
+        <col:module document="m67840"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Analyzing and Recording Transactions</md:title>
+      <col:content>
+        <col:module document="m67842"/>
+        <col:module document="m67843"/>
+        <col:module document="m67844"/>
+        <col:module document="m67845"/>
+        <col:module document="m67846"/>
+        <col:module document="m67847"/>
+        <col:module document="m67841"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Adjustment Process</md:title>
+      <col:content>
+        <col:module document="m67848"/>
+        <col:module document="m67849"/>
+        <col:module document="m67850"/>
+        <col:module document="m67851"/>
+        <col:module document="m67852"/>
+        <col:module document="m67853"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Completing the Accounting Cycle</md:title>
+      <col:content>
+        <col:module document="m67854"/>
+        <col:module document="m67856"/>
+        <col:module document="m67857"/>
+        <col:module document="m67858"/>
+        <col:module document="m67859"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Merchandising Transactions</md:title>
+      <col:content>
+        <col:module document="m67860"/>
+        <col:module document="m67861"/>
+        <col:module document="m67862"/>
+        <col:module document="m67863"/>
+        <col:module document="m67864"/>
+        <col:module document="m67865"/>
+        <col:module document="m67866"/>
+        <col:module document="m67867"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Accounting Information Systems</md:title>
+      <col:content>
+        <col:module document="m67868"/>
+        <col:module document="m67869"/>
+        <col:module document="m67870"/>
+        <col:module document="m67871"/>
+        <col:module document="m67872"/>
+        <col:module document="m67873"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Fraud, Internal Controls, and Cash</md:title>
+      <col:content>
+        <col:module document="m67874"/>
+        <col:module document="m67855"/>
+        <col:module document="m67875"/>
+        <col:module document="m67876"/>
+        <col:module document="m67877"/>
+        <col:module document="m67878"/>
+        <col:module document="m67879"/>
+        <col:module document="m67932"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Accounting for Receivables</md:title>
+      <col:content>
+        <col:module document="m67880"/>
+        <col:module document="m67881"/>
+        <col:module document="m67882"/>
+        <col:module document="m67883"/>
+        <col:module document="m67884"/>
+        <col:module document="m67885"/>
+        <col:module document="m67886"/>
+        <col:module document="m67887"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Inventory</md:title>
+      <col:content>
+        <col:module document="m67888"/>
+        <col:module document="m67889"/>
+        <col:module document="m67890"/>
+        <col:module document="m67891"/>
+        <col:module document="m67892"/>
+        <col:module document="m67893"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Long-Term Assets</md:title>
+      <col:content>
+        <col:module document="m67894"/>
+        <col:module document="m67895"/>
+        <col:module document="m67896"/>
+        <col:module document="m67897"/>
+        <col:module document="m67899"/>
+        <col:module document="m67900"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Current Liabilities</md:title>
+      <col:content>
+        <col:module document="m67901"/>
+        <col:module document="m67903"/>
+        <col:module document="m67904"/>
+        <col:module document="m67905"/>
+        <col:module document="m67906"/>
+        <col:module document="m67909"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Long-Term Liabilities</md:title>
+      <col:content>
+        <col:module document="m67912"/>
+        <col:module document="m67913"/>
+        <col:module document="m67914"/>
+        <col:module document="m67915"/>
+        <col:module document="m67898"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Corporation Accounting</md:title>
+      <col:content>
+        <col:module document="m67916"/>
+        <col:module document="m67917"/>
+        <col:module document="m67918"/>
+        <col:module document="m67919"/>
+        <col:module document="m67920"/>
+        <col:module document="m67921"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Partnership Accounting</md:title>
+      <col:content>
+        <col:module document="m67922"/>
+        <col:module document="m67923"/>
+        <col:module document="m67927"/>
+        <col:module document="m67924"/>
+        <col:module document="m67925"/>
+        <col:module document="m67926"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Statement of Cash Flows</md:title>
+      <col:content>
+        <col:module document="m67928"/>
+        <col:module document="m67929"/>
+        <col:module document="m67930"/>
+        <col:module document="m67931"/>
+        <col:module document="m67933"/>
+        <col:module document="m67934"/>
+        <col:module document="m67935"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m68108"/>
+    <col:module document="m71403"/>
+    <col:module document="m71404"/>
+  </col:content>
+</col:collection>

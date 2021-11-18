@@ -1,0 +1,265 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Calculate Predetermined Overhead and Total Cost under the Traditional Allocation Method</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68135</md:content-id>
+  <md:title>Calculate Predetermined Overhead and Total Cost under the Traditional Allocation Method</md:title>
+  <md:abstract/>
+  <md:uuid>eed06667-452a-4c4f-8af7-2471432420b1</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm362180912">Both roommates make valid points about allocating limited resources. Ultimately, each must decide which method to use to allocate time, and they can make that decision based on their own analyses. Similarly, businesses and other organizations must create an allocation system for assigning limited resources, such as overhead. Whereas Kamil and Barry are discussing the allocation of hours, the issue of allocating costs raises similar questions. For example, for a manufacturer allocating maintenance costs, which are an overhead cost, is it better to allocate to each production department equally by the number of machines that need to be maintained or by the square footage of space that needs to be maintained?</para>
+<para id="fs-idm365312512">In the past, overhead costs were typically allocated based on factors such as total direct labor hours, total direct labor costs, or total machine hours. This allocation process, often called the traditional allocation method, works most effectively when direct labor is a dominant component in production. However, many industries have evolved, primarily due to changes in technology, and their production processes have become more complicated, with more steps or components. Many of these industries have significantly reduced their use of direct labor and replaced it with technology, such as robotics or other machinery. For example, a mobile phone production facility in China replaced 90 percent of its workforce with robots.<footnote id="fs-idm362532384">June Javelosa and Kristin Houser. “This Company Replaced 90% of Its Workforce with Machines. Here’s What Happened.” <emphasis effect="italics">Futurism / World Economic Forum</emphasis>. https://www.weforum.org/agenda/2017/02/after-replacing-90-of-employees-with-robots-this-companys-productivity-soared</footnote></para>
+<para id="fs-idm365376272">In these situations, a direct cost (labor) has been replaced by an overhead cost (e.g., depreciation on equipment). Because of this decrease in reliance on labor and/or changes in the types of production complexity and methods, the traditional method of overhead allocation becomes less effective in certain production environments. To account for these changes in technology and production, many organizations today have adopted an overhead allocation method known as <term class="no-emphasis">activity-based costing</term> (ABC). This chapter will explain the transition to ABC and provide a foundation in its mechanics.</para>
+<para id="fs-idm359308224">Activity-based costing is an accounting method that recognizes the relationship between product costs and a production activity, such as the number of hours of engineering or design activity, the costs of the set up or preparation for the production of different products, or the costs of packaging different products after the production process is completed. Overhead costs are then allocated to production according to the use of that activity, such as the number of machine setups needed. In contrast, the traditional allocation method commonly uses cost drivers, such as direct labor or machine hours, as the single activity.</para>
+<para id="fs-idm366756128">Because of the use of multiple activities as cost drivers, ABC costing has advantages over the traditional allocation method, which assigns overhead using a single predetermined overhead rate. Those advantages come at a cost, both in resources and time, since additional information needs to be collected and analyzed. <emphasis class="colored-text">Chrysler</emphasis>, for instance, shifted its overhead allocation to ABC in 1991 and estimates that the benefits of cost savings, product improvement, and elimination of inefficiencies have been ten to twenty times greater than the investment in the program at some sites. It believes other sites experienced savings of fifty to one hundred times the cost to implement the system.<footnote id="fs-idm374320144">Joseph H. Ness and Thomas G. Cucuzza. “Tapping the Full Potential of ABC.” <emphasis effect="italics">Harvard Business Review</emphasis>. July-Aug. 1995. https://hbr.org/1995/07/tapping-the-full-potential-of-abc</footnote></para>
+<para id="fs-idm378426768">As you’ve learned, understanding the cost needed to manufacture a product is critical to making many management decisions (<link target-id="OSX_Acct_M06_01_Components"/>). Knowing the total and component costs of the product is necessary for price setting and for measuring the efficiency and effectiveness of the organization. Remember that product costs consist of direct materials, direct labor, and manufacturing overhead. It is relatively simple to understand each product’s direct material and direct labor cost, but it is more complicated to determine the overhead component of each product’s costs because there are a number of indirect and other costs to consider. A company’s <term>manufacturing overhead costs</term> are all costs other than direct material, direct labor, or selling and administrative costs. Once a company has determined the overhead, it must establish how to allocate the cost. This allocation can come in the form of the traditional overhead allocation method or activity-based costing..</para>
+<figure id="OSX_Acct_M06_01_Components" class="scaled-down">
+<media id="fs-idm378129216" alt="A picture of two jars of coins labeled “Product A” and “Product B.” Three uneven stacks of coins labeled “Direct Material, Direct Labor, and Factory Overhead” are going into each of the jars with arrows labeled “Actual.” The contents of the jars are labeled “Total costs.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_01_Components.jpg"/>
+</media>
+<caption>Allocating Costs among Products. The total cost of a product is based on direct labor, direct material, and factory overhead costs. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<section id="fs-idm360875264">
+<title>Component Categories under Traditional Allocation</title>
+<para id="fs-idm379690640"><term>Traditional allocation</term> involves the allocation of factory overhead to products based on the volume of production resources consumed, such as the amount of direct labor hours consumed, direct labor cost, or machine hours used. In order to perform the traditional method, it is also important to understand each of the involved cost components: direct materials, direct labor, and manufacturing overhead. Direct materials and direct labor are cost categories that are relatively easy to trace to a product. <term>Direct material</term> comprises the supplies used in manufacturing that can be traced directly to the product. <term>Direct labor</term> is the work used in manufacturing that can be directly traced to the product. Although the processes for tracing the costs differ, both job order costing and process costing trace the material and labor through materials requisition requests and time cards or electronic mechanisms for measuring labor input. Job order costing traces the costs directly to the product, and process costing traces the costs to the manufacturing department.</para>
+<note id="fs-idm378165792" class="ethical-considerations">
+<title>Ethical Cost Modeling</title>
+<para id="fs-idm372406688">The proper use of management accounting skills to model financial and non-financial data optimizes the organization’s evaluation and use of resources and assists in the proper evaluation of costs and revenues in an organization. The IFAC provides guidance on the use of cost models and how to ethically design proper cost models: “Cost models should be designed and maintained to reflect the cause-and-effect interrelationships and the behavioral dynamics of the way the organization functions. The information needs of decision makers at all levels of an organization should be taken into account, by incorporating an organization’s business and operational models, strategy, structure, and competitive environment.”<footnote id="fs-idm380984128">International Federation of Accountings (IFAC) PAIB Committee. “Evaluating and Improving Costing in Organizations.” <emphasis effect="italics">International Good Practice Guidance</emphasis>. June 30, 2009. https://www.ifac.org/system/files/publications/files/IGPG-Evaluating-and-Improving-Costing-July-2009.pdf</footnote></para>
+</note>
+</section>
+<section id="fs-idm360442736">
+<title>Estimated Total Manufacturing Overhead Costs</title>
+<para id="fs-idm379649904">The more challenging product component to track is manufacturing overhead. Overhead consists of indirect materials, indirect labor, and other costs closely associated with the manufacturing process but not tied to a specific product. Examples of other overhead costs include such items as depreciation on the factory machinery and insurance on the factory building. <term>Indirect material</term> comprises the supplies used in production that cannot be traced to an individual product, and <term>indirect labor</term> is the work done by employees not directly involved in the manufacturing process, such as the supervisors’ salaries or the maintenance staff’s wages. Because these costs cannot be traced directly to the product like direct costs are, they have to be allocated among all of the products produced and added, or applied, to the production and product cost.</para>
+<para id="fs-idm381850976">For example, the recipe for shea butter has easily identifiable quantities of shea nuts and other ingredients. Based on the manufacturing process, it is also easy to determine the direct labor cost. But determining the exact overhead costs is not easy, as the cost of electricity needed to dry, crush, and roast the nuts changes depending on the moisture content of the nuts upon arrival.</para>
+<para id="fs-idm375588464">Until now, you have learned to apply overhead to production based on a predetermined overhead rate typically using an activity base. An <term>activity base</term> is considered to be a primary driver of overhead costs, and traditionally, direct labor hours or machine hours were used for it. For example, a production facility that is fairly labor intensive would likely determine that the more labor hours worked, the higher the overhead will be. As a result, management would likely view labor hours as the activity base when applying overhead costs.</para>
+<para id="fs-idm367147104">A <term class="no-emphasis">predetermined overhead rate</term> is calculated at the start of the accounting period by dividing the estimated manufacturing overhead by the estimated activity base. The predetermined overhead rate is then applied to production to facilitate determining a standard cost for a product. This estimated overhead rate will allow a company to determine a cost for the product without having to wait, possibly several months, until all of the actual overhead costs are determined, and to help with issues such as seasonal production or variable overhead costs, such as utilities.</para>
+</section>
+<section id="fs-idm369474480">
+<title>Calculation of Predetermined Overhead and Total Cost under Traditional Allocation</title>
+<para id="fs-idm378219056">The predetermined overhead rate is set at the beginning of the year and is calculated as the estimated (budgeted) overhead costs for the year divided by the estimated (budgeted) level of activity for the year. This activity base is often direct labor hours, direct labor costs, or machine hours. Once a company determines the overhead rate, it determines the overhead rate per unit and adds the overhead per unit cost to the direct material and direct labor costs for the product to find the total cost.</para>
+<media id="fs-idm360591328" class="scaled-down" alt="Formula: Predetermined Overhead Rate = Estimated Overhead Cost (in dollars) divided by Estimated Activity Base (in units or dollars).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_01_PreOR_img.jpg"/>
+</media>
+<para id="fs-idm360589696">To put this method into context, consider this example. Musicality Manufacturing developed a recording device similar to a microphone that allows musicians and music aficionados to record their playing or singing along with any song publicly available. There are three products that vary in features and ability: Solo, Band, and Orchestra. Musicality was started by musicians who majored in math and software engineering while in college. Their main concern was building a quality manufacturing plant, so they used the simpler traditional allocation method. They started by determining their direct costs, which are shown in <link target-id="OSX_Acct_M06_01_X01"/>.</para>
+<figure id="OSX_Acct_M06_01_X01" class="scaled-down">
+<media id="fs-idm377019072" alt="Costs for Solo, Band, and Orchestra, respectively, for Direct Materials per unit are: $3.50, $6, $11.70. For Direct Labor Cost per Unit, they are: 10.00, 2.75, 4.30.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_01_X01.jpg"/>
+</media>
+<caption>Material and Labor Costs for Musicality. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm375560496">Musicality determines the overhead rate based on direct labor hours. At the beginning of the year, the company estimates total overhead costs to be $2,500,000 and total direct labor hours to be 1,250,000. The predetermined overhead rate is</para>
+<equation id="fs-idm366365328" class="unnumbered"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>$2,500,000</m:mn><m:mspace width="0.2em"/><m:mtext>overhead</m:mtext></m:mrow><m:mrow><m:mn>1,250,000</m:mn><m:mspace width="0.2em"/><m:mtext>labor hours</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$2.00</m:mn><m:mspace width="0.2em"/><m:mtext>per labor hour</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm366777472">Musicality uses this information to determine the cost of each product. For example, the total direct labor hours estimated for the solo product is 350,000 direct labor hours. With $2.00 of overhead per direct hour, the Solo product is estimated to have $700,000 of overhead applied. When the $700,000 of overhead applied is divided by the estimated production of 140,000 units of the Solo product, the estimated overhead per product for the Solo product is $5.00 per unit. The computation of the overhead cost per unit for all of the products is shown in <link target-id="OSX_Acct_M06_01_X02"/>.</para>
+<figure id="OSX_Acct_M06_01_X02">
+<media id="fs-idm366736592" alt="Computation of overhead per unit for Solo, Band, Orchestra, and total, respectively. Direct Labor Hours per Product: 350,000, 400,000, 500,000, 1,250,000. Times Overhead Rate per Direct Labor Hour: $2.00 for all columns. Equals Overhead Assigned per Product: $700,000, $800,000, $1,000,000, $2,500,000. Divide by the Number of Units: 140,000, 100,000, 250,000, 490,000. Equals Overhead per Unit: $5, $8, $4.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_01_X02.jpg"/>
+</media>
+<caption>Musicality’s Overhead per Unit Using Traditional Allocation. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm366733984">The overhead cost per unit from <link target-id="OSX_Acct_M06_01_X02"/> is combined with the direct material and direct labor costs as shown in <link target-id="OSX_Acct_M06_01_X01"/> to compute the total cost per unit as shown in <link target-id="OSX_Acct_M06_01_X03"/>.</para>
+<figure id="OSX_Acct_M06_01_X03" class="scaled-down">
+<media id="fs-idm360795664" alt="Cost per unit is computed for Solo, Band, and Orchestra, respectively. Direct Materials per Unit: $3.50, $6.00, $11.70. Direct Labor per Unit 10.00, 2.75, 4.30. Overhead per unit: $5.00, $8.00, $4.00. Added for a total of $18.50, $16.75, $20.00.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_01_X03.jpg"/>
+</media>
+<caption>Musicality’s Product Costs Using Traditional Allocation. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm366746256">After reviewing the product cost and consulting with the marketing department, the sales prices were set. The sales price, cost of each product, and resulting gross profit are shown in <link target-id="OSX_Acct_M06_01_X04"/>.</para>
+<figure id="OSX_Acct_M06_01_X04" class="scaled-down">
+<media id="fs-idm366744640" alt="Gross profit is calculated for Solo, Band, and Orchestra, respectively. Sales Price: $20.00, $25.00, $30.00. Minus Cost per Unit (traditional): 18.50, 16.75, 20.00. Equals Gross Profit per Unit: $1.50, $8.25, $10.00.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_01_X04.jpg"/>
+</media>
+<caption>Musicality’s Gross Profit per Unit Using Traditional Allocation. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm366742432">Sales of each product have been strong, and the total gross profit for each product is shown in <link target-id="OSX_Acct_M06_01_X05"/>. Using the Solo product as an example, 150,000 units are sold at a price of $20 per unit resulting in sales of $3,000,000. The cost of goods sold consists of direct materials of $3.50 per unit, direct labor of $10 per unit, and manufacturing overhead of $5.00 per unit. With 150,000 units, the direct material cost is $525,000; the direct labor cost is $1,500,000; and the manufacturing overhead applied is $750,000 for a total Cost of Goods Sold of $2,775,000. The resulting Gross Profit is $225,000 or $1.50 per unit.</para>
+<figure id="OSX_Acct_M06_01_X05">
+<media id="fs-idm366740400" alt="Calculation of Total Gross Profit for Solo, Band, Orchestra, and Total, respectively. Number of Units Sold: 150,000, 110,000, 200,000, 460,000. Sales: $3,000,000, $2,750,000, $6,000,000, $11,750,000. Less Cost of Goods Sold. Direct Material: 525,000, 660,000, 2,340,000, 3,525,000. Direct Labor: 1,500,000, 302,500, 860,000, 2,662,500. Manufacturing Overhead: 750,000, 880,000, 800,000, 2,430,000. Cost of Goods Sold: 2,775,000, 1,842,500, 4,000,000, 8,617,500. Gross Profit: $225,000, $907,500, $2,000,000, $3,132,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_01_X05.jpg"/>
+</media>
+<caption>Musicality’s Gross Profit by Product Line Using Traditional Allocation. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm362205232" class="think-through">
+<title>Computing Actual Overhead Costs</title>
+<para id="fs-idm362204352">As manufacturing technology becomes less expensive and more efficient, the mix between overhead and labor changes so that tasks are more computerized tasks and involve less direct labor; the traditional use of direct labor hours or direct labor dollars changes accordingly. If the predetermined overhead rate is based on direct labor hours and set at the beginning of the year but manufacturing technology leads to a reduction in direct labor during the year, the number of direct labor hours may be less than estimated. This reduces the amount of overhead applied so that the overhead is more likely to be underapplied at the end of the year. Why do companies not wait until the end of the period and compute an actual overhead rate based on actual manufacturing costs and actual units?</para>
+</note>
+</section>
+<section id="fs-idm362202912" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm362202032" list-type="bulleted" bullet-style="bullet">
+<item>Manufacturing overhead is estimated for the upcoming period.</item>
+<item>An activity base is selected to allocate overhead. This is traditionally direct labor hours, direct labor cost, or machine hours.</item>
+<item>A predetermined overhead rate is calculated by dividing the estimated overhead by the allocation base.</item>
+<item>Overhead is allocated to each product based on the estimated predetermined overhead rate and the number of units in the selected activity base.</item>
+</list>
+</section>
+<section id="fs-idm362199088" class="multiple-choice">
+<exercise id="fs-idm362198592">
+<problem id="fs-idm362198336">
+<para id="fs-idm362198080"><link class="lo-reference" document="m68135"/>Active Frame, Inc., manufactures clear and tinted sport glasses. The manufacturing of clear glasses takes 45,000 direct labor hours and involves 1,700 parts and 115 inspections. The manufacturing of tinted glasses takes 115,000 direct labor hours and involves 1,400 parts and 450 inspections. The traditional method applies $560,000 of overhead on the basis of direct labor hours. What is the amount of overhead per direct labor hour applied to the clear glass products?</para>
+<list id="fs-idm362196608" list-type="enumerated" number-style="upper-alpha">
+<item>$933.33</item>
+<item>$157,500</item>
+<item>$322.500</item>
+<item>$402,500</item>
+</list>
+</problem>
+<solution id="fs-idm362194080">
+<para id="fs-idm362193824">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm362193184">
+<problem id="fs-idm362192928">
+<para id="fs-idm362192672"><link class="lo-reference" document="m68135"/>TyeDye Lights makes two products: Party and Holiday. It takes 80,900 direct labor hours to manufacture the Party Line and 93,500 direct labor hours to manufacture the Holiday Line. Overhead consists of $225,000 in the machine setup cost pool and $149,960 in the packaging cost pool. The machine setup pool has 52,000 setups for the Party product and 98,000 setups for the Holiday product. The packaging cost pool has 26,000 parts in the Party product and 39,200 parts for the Holiday product. Using the traditional cost method of direct labor hours, what is the predetermined overhead rate?</para>
+<list id="fs-idm362191072" list-type="enumerated" number-style="upper-alpha">
+<item>$1.50 per direct labor hour</item>
+<item>$2.15 per direct labor hour</item>
+<item>$2.30 per direct labor hour</item>
+<item>$3.80 per direct labor hour</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm378063120" class="questions">
+<exercise id="fs-idm363316800">
+<problem id="fs-idm377146224">
+<para id="fs-idm370552128"><link class="lo-reference" document="m68135"/>What is the predetermined overhead rate, and when is it typically estimated?</para>
+</problem>
+<solution id="fs-idm358803616">
+<para id="fs-idm376315360">The predetermined overhead rate is the amount of manufacturing overhead that is estimated to be applied to each product or department depending on the cost system used (job order costing or process costing). It typically is estimated at the beginning of each period by dividing the estimated manufacturing overhead by an activity base. While it is most commonly a year, the period can be a year, quarter, or month as determined by management. In traditional allocation systems, that base is typically direct labor hours, direct labor dollars, or machine hours. In activity-based costing systems, the activity base is one or more cost drivers.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm362456736" class="exercise-set-a">
+<exercise id="fs-idm362456240">
+<problem id="fs-idm362455984">
+<para id="fs-idm362455728"><link class="lo-reference" document="m68135"/>Steeler Towel Company estimates its overhead to be $250,000. It expects to have 100,000 direct labor hours costing $2,500,000 in labor and utilizing 12,500 machine hours. Calculate the predetermined overhead rate using:</para>
+<list id="fs-idm362454736" list-type="enumerated" number-style="upper-alpha">
+<item>Direct labor hours</item>
+<item>Direct labor dollars</item>
+<item>Machine hours</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm362452464">
+<problem id="fs-idm362452208">
+<para id="fs-idm362451952"><link class="lo-reference" document="m68135"/>Crystal Pools estimates overhead will utilize 250,000 machine hours and cost $750,000. It takes 2 machine hours per unit, direct material cost of $14 per unit, and direct labor of $20 per unit. What is the cost of each unit produced?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm362450704">
+<problem id="fs-idm362450448">
+<para id="fs-idm362450192"><link class="lo-reference" document="m68135"/>A company estimated 100,000 direct labor hours and $800,000 in overhead. The actual overhead was $805,100, and there were 99,900 direct labor hours. What is the predetermined overhead rate, and how much was applied during the year?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm362448944">
+<problem id="fs-idm362448688">
+<para id="fs-idm362448432"><link class="lo-reference" document="m68135"/>Cozy, Inc., manufactures small and large blankets. It estimates $350,000 in overhead during the manufacturing of 75,000 small blankets and 25,000 large blankets. What is the predetermined overhead rate if a small blanket takes 1 machine hour and a large blanket takes 2 machine hours?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm362446752" class="exercise-set-b">
+<exercise id="fs-idm362446256">
+<problem id="fs-idm362446000">
+<para id="fs-idm362445744"><link class="lo-reference" document="m68135"/>Green Bay Cheese Company estimates its overhead to be $375,000. It expects to have 125,000 direct labor hours costing $1,500,000 in labor and utilizing 15,000 machine hours. Calculate the predetermined overhead rate using:</para>
+<list id="fs-idm362444752" list-type="enumerated" number-style="upper-alpha">
+<item>Direct labor hours</item>
+<item>Direct labor dollars</item>
+<item>Machine hours</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm362442480">
+<problem id="fs-idm362442224">
+<para id="fs-idm362441968"><link class="lo-reference" document="m68135"/>Boarders estimates overhead will utilize 160,000 machine hours and cost $80,000. It takes 4 machine hours per unit, direct material cost of $5 per unit, and direct labor of $5 per unit. What is the cost of each unit produced?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm362440720">
+<problem id="fs-idm362440464">
+<para id="fs-idm362440208"><link class="lo-reference" document="m68135"/>A company estimated 50,000 direct labor hours and $450,000 in overhead. The actual overhead was $445,000, and there were 50,500 direct labor hours. What is the predetermined overhead rate, and how much was applied during the year?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm362438960">
+<problem id="fs-idm362438704">
+<para id="fs-idm362438448"><link class="lo-reference" document="m68135"/>Cozy, Inc., manufactures small and large blankets. It estimates $950,000 in overhead during the manufacturing of 360,000 small blankets and 120,000 large blankets. What is the predetermined overhead rate if a small blanket takes 2 hours of direct labor and a large blanket takes 3 hours of direct labor?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm362436752" class="problem-set-a">
+<exercise id="fs-idm362436256">
+<problem id="fs-idm362436000">
+<para id="fs-idm362435744"><link class="lo-reference" document="m68135"/>Colonels uses a traditional cost system and estimates next year’s overhead will be $480,000, with the estimated cost driver of 240,000 direct labor hours. It manufactures three products and estimates these costs:</para>
+<media id="fs-idm377348224" class="scaled-down" alt="Chart showing the figures for Small, Medium, and Large, respectively. Units: 32,000, 12,000, 4,000. Direct Materials Cost: $5, $8, $9. Direct Labor Hours per Unit: 4, 6, 10.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_01_PA01_img.jpg"/>
+</media>
+<para id="fs-idm360914960">If the labor rate is $25 per hour, what is the per-unit cost of each product?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm362494464">
+<problem id="fs-idm377407968">
+<para id="fs-idm358851552"><link class="lo-reference" document="m68135"/>Five Card Draw manufactures and sells 24,000 units of Diamonds, which retails for $180, and 27,000 units of Clubs, which retails for $190. The direct materials cost is $25 per unit of Diamonds and $30 per unit of Clubs. The labor rate is $25 per hour, and Five Card Draw estimated 180,000 direct labor hours. It takes 3 direct labor hours to manufacture Diamonds and 4 hours for Clubs. The total estimated overhead is $720,000. Five Card Draw uses the traditional allocation method based on direct labor hours.</para>
+<list id="fs-idm362433648" list-type="enumerated" number-style="upper-alpha">
+<item>What is the gross profit per unit for Diamonds and Clubs?</item>
+<item>What is the total gross profit for the year?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm371954768" class="problem-set-b">
+<exercise id="fs-idm373004864">
+<problem id="fs-idm371013584">
+<para id="fs-idm380159392"><link class="lo-reference" document="m68135"/>Bobcat uses a traditional cost system and estimates next year’s overhead will be $800,000, as driven by the estimated 25,000 direct labor hours. It manufactures three products and estimates the following costs:</para>
+<media id="fs-idm359666304" class="scaled-down" alt="The information for Bobcat, Jaguar, and Tiger, respectively. Units: 250,000, 80,000, 12,000. Direct Material Cost: $13, $22, $37. Direct Labor Hours per Unit 2, 3, 5.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_01_PB01_img.jpg"/>
+</media>
+<para id="fs-idm357937792">If the labor rate is $30 per hour, what is the per-unit cost of each product?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm367426432">
+<problem id="fs-idm374581568">
+<para id="fs-idm364811632"><link class="lo-reference" document="m68135"/>Five Card Draw manufactures and sells 10,000 units of Aces, which retails for $200, and 8,000 units of Kings, which retails for $170. The direct materials cost is $20 per unit of Aces and $15 per unit of Kings. The labor rate is $30 per hour, and Five Card Draw estimated 64,000 direct labor hours. It takes 4 direct labor hours to manufacture Aces and 3 hours for Kings. The total estimated overhead is $128,000. Five Card Draw uses the traditional allocation method based on direct labor hours.</para>
+<list id="fs-idm364528960" list-type="enumerated" number-style="upper-alpha">
+<item>How much is the gross profit per unit for Aces and Kings?</item>
+<item>What is the total gross profit for the year?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm364526944" class="thought-provokers">
+<exercise id="fs-idm364526448">
+<problem id="fs-idm364526192">
+<para id="fs-idm364525936"><link class="lo-reference" document="m68135"/>What conditions are optimal for using traditional allocation? Is the allocation more effective when there is high-volume production?</para>
+</problem>
+</exercise>
+</section>
+  </content>
+<glossary>
+<definition id="fs-idm364524032">
+<term>activity base</term>
+<meaning id="fs-idm364523392">activity that has been considered to be a primary driver of overhead costs and for which, traditionally, direct labor hours or machine hours were used</meaning>
+</definition>
+<definition id="fs-idm364522720">
+<term>direct labor</term>
+<meaning id="fs-idm364522080">labor directly related to the manufacturing of the product or the production of a service</meaning>
+</definition>
+<definition id="fs-idm364521568">
+<term>direct materials</term>
+<meaning id="fs-idm364520928">materials used in the manufacturing process that can be traced directly to the product</meaning>
+</definition>
+<definition id="fs-idm364520416">
+<term>indirect labor</term>
+<meaning id="fs-idm364519776">labor not directly involved in the active conversion of materials into finished products or the provision of services</meaning>
+</definition>
+<definition id="fs-idm364519264">
+<term>indirect materials</term>
+<meaning id="fs-idm364518624">materials used in production but not efficiently traceable to a specific unit of production</meaning>
+</definition>
+<definition id="fs-idm364518112">
+<term>manufacturing overhead costs</term>
+<meaning id="fs-idm364517472">all manufacturing costs excluding direct material and direct labor</meaning>
+</definition>
+<definition id="fs-idm364516960">
+<term>traditional allocation</term>
+<meaning id="fs-idm364516320">allocation of factory overhead to products based on the volume of production resources consumed</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,294 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Describe and Prepare Multi-Step and Simple Income Statements for Merchandising Companies</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67866</md:content-id>
+  <md:title>Describe and Prepare Multi-Step and Simple Income Statements for Merchandising Companies</md:title>
+  <md:abstract/>
+  <md:uuid>490b2a3c-5ca8-4aa7-9aad-d1d3fc2a7a22</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm205489072">Merchandising companies prepare financial statements at the end of a period that include the income statement, balance sheet, statement of cash flows, and statement of retained earnings. The presentation format for many of these statements is left up to the business. For the income statement, this means a company could prepare the statement using a multi-step format or a simple format (also known as a single-step format). Companies must decide the format that best fits their needs.</para>
+<figure id="OSX_Acct_F06_06_Scale" class="scaled-down">
+<media id="fs-idm211855792" alt="Balance scale showing multi-step balancing simple.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_06_Scale_img.jpg"/>
+</media>
+<caption>Multi-Step versus Single-Step Formats. (credit: modification of “Balance Swing Equality” by “Mediamodifier”/Pixabay, CC0)</caption>
+</figure>
+<section id="fs-idm206180672">
+<title>Similarities and Differences between the Multi-Step and Simple Income Statement Format</title>
+<para id="fs-idm203624704">A <term class="no-emphasis">multi-step income statement</term> is more detailed than a simple income statement. Because of the additional detail, it is the option selected by many companies whose operations are more complex. Each revenue and expense account is listed individually under the appropriate category on the statement. The multi-step statement separates cost of goods sold from operating expenses and deducts cost of goods sold from net sales to obtain a <term>gross margin</term>.</para>
+<para id="fs-idm211497984"><term>Operating expenses</term> are daily operational costs not associated with the direct selling of products or services. Operating expenses are broken down into selling expenses (such as advertising and marketing expenses) and general and administrative expenses (such as office supplies expense, and depreciation of office equipment). Deducting the operating expenses from gross margin produces <term>income from operations</term>.</para>
+<para id="fs-idm207148336">Following income from operations are <term>other revenue and expenses</term> not obtained from selling goods or services or other daily operations. Other revenue and expenses examples include interest revenue, gains or losses on sales of assets (buildings, equipment, and machinery), and interest expense. Other revenue and expenses added to (or deducted from) income from operations produces <term>net income</term> (loss).</para>
+<para id="fs-idm219832096">A <term class="no-emphasis">simple income statement</term> is less detailed than the multi-step format. A simple income statement combines all revenues into one category, followed by all expenses, to produce net income. There are very few individual accounts and the statement does not consider cost of sales separate from operating expenses.</para>
+</section>
+<section id="fs-idm216128784">
+<title>Demonstration of the Multi-Step Income Statement Format</title>
+<para id="fs-idm204004032">To demonstrate the use of the multi-step income statement format, let’s continue to discuss California Business Solutions (CBS). The following is select account data from the adjusted trial balance for the year ended, December 31, 2018. We will use this information to create a multi-step income statement. Note that the statements prepared are using a perpetual inventory system.</para>
+<media id="fs-idm207659136" alt="A Trial Balance for California Business Solutions for the year ended December 31, 2018. Accounts, with either Debits or Credits, showing Sales: $300,000 credit; Sales Discounts: $2,000 debit; Sales Returns and Allowances: $4,500 debit; Interest Revenue: $5,650 credit; Cost of Goods Sold: $180,000 debit; Interest Expense: $8,400 debit; Advertising Expense: $6,250 debit; Sales Salaries Expense: $40,000 debit; Depreciation Expense-Office Equipment: $4,700 debit; Office Supplies Expense: $1,200 debit; and Insurance Expense: $6,900 debit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_06_CBS01_img.jpg"/>
+</media>
+<para id="fs-idm211512720">The following is the multi-step income statement for CBS.</para>
+<media id="fs-idm201827424" alt="A Multi-Step Income Statement for California Business Solutions for the year ended December 31, 2018. Sales of $300,000 less Sales Discounts of $2,000 and Sales Returns and Allowance of $4,500 equals Net sales of $293,500 minus Cost of Goods Sold equals Gross Margin of $113,500 minus Operating Expenses, which include Selling Expenses of Advertising Expense ($6,250) and Sales Salaries Expense ($40,000); General and Administrative Expenses, which include Depreciation Expense: Office Equipment ($4,700), Office Supplies Expense ($1,200), and Insurance Expense ($6,900) equals Income from Operations of $54,450 plus Interest Revenue of $5,650 minus Interest Expense of $8,400 equals Net Income of $51,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_06_CBSmulti_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm208431904">
+<title>Demonstration of the Simple Income Statement Format</title>
+<para id="fs-idm201797664">We will use the same adjusted trial balance information for CBS but will now create a simple income statement.</para>
+<para id="fs-idm209720496">The following is the simple income statement for CBS.</para>
+<media id="fs-idm202832112" class="scaled-down" alt="A Simple Income Statement for California Business Solutions for the year ended December 31, 2018. Revenues include Net sales of $293,500, Interest Revenue of $5,650 minus Expenses, which include Cost of Goods Sold ($180,000) Total Selling Expenses ($46,250), Total General and Administrative Expenses ($12,800), and Interest Expense ($8,400) equals Net Income of $51,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_06_CBSsimple_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm210581056">
+<title>Final Analysis of the Two Income Statement Options</title>
+<para id="fs-idm216998096">While companies may choose the format that best suits their needs, some might choose a combination of both the multi-step and simple income statement formats. The multi-step income statement may be more beneficial for internal use and management decision-making because of the detail in account information. The simple income statement might be more appropriate for external use, as a summary for investors and lenders.</para>
+<para id="fs-idm202962288">From the information obtained on the income statement, a company can make decisions related to growth strategies. One ratio that can help them in this process is the Gross Profit Margin Ratio. The <term>gross profit margin ratio</term> shows the margin of revenue above the cost of goods sold that can be used to cover operating expenses and profit. The larger the margin, the more availability the company has to reinvest in their business, pay down debt, and return dividends to shareholders.</para>
+<media id="fs-idm203501136" class="scaled-down" alt="Gross Profit Margin Ratio equals Net sales minus Cost of Goods Sold divided by Net sales.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_06_Eq01_img.jpg"/>
+</media>
+<para id="fs-idm208437376">Taking our example from CBS, net sales equaled $293,500 and cost of goods sold equaled $180,000. Therefore, the Gross Profit Margin Ratio is computed as 0.39 (rounded to the nearest hundredth). This means that CBS has a margin of 39% to cover operating expenses and profit.</para>
+<equation id="fs-idm201893920" class="unnumbered"><m:math><m:mrow><m:mtext>Gross profit margin ratio</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo>(</m:mo><m:mn>$293,500</m:mn><m:mo>–</m:mo><m:mn>$180,000</m:mn><m:mo>)</m:mo></m:mrow><m:mrow><m:mn>$293,500</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>0.39</m:mn><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>39%</m:mn></m:mrow></m:math></equation>
+<note id="fs-idm207496960" class="think-through">
+<title>Which Income Statement Format Do I Choose?</title>
+<para id="fs-idm205498960">You are an accountant for a small retail store and are tasked with determining the best presentation for your income statement. You may choose to present it in a multi-step format or a simple income statement format. The information on the statement will be used by investors, lenders, and management to make financial decisions related to your company. It is important to the store owners that you give enough information to assist management with decision-making, but not too much information to possibly deter investors or lenders. Which statement format do you choose? Why did you choose this format? What are the benefits and challenges of your statement choice for each stakeholder group?</para>
+</note>
+<note id="fs-idm211975440" class="link-to-learning">
+<para id="fs-idm213003648"><emphasis class="colored-text">Target Brands, Inc.</emphasis> is an international retailer providing a variety of resale products to consumers. <emphasis class="colored-text">Target</emphasis> uses a multi-step income statement format found at <link url="https://openstax.org/l/50TargetAnnual">Target Brands, Inc. annual report</link> to present information to external stakeholders.</para>
+</note>
+</section>
+<section id="fs-idm212991344" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm209897952" list-type="bulleted" bullet-style="bullet">
+<item>Multi-step income statements provide greater detail than simple income statements. The format differentiates sales costs from operating expenses and separates other revenue and expenses from operational activities. This statement is best used internally by managers to make pricing and cost reduction decisions.</item>
+<item>Simple income statements are not as detailed as multi-step income statements and combine all revenues and all expenses into general categories. There is no differentiation between operational and non-operational activities. Therefore, this statement is sometimes used as a summary for external users to view general company information.</item>
+<item>The gross profit margin ratio can show a company if they have a significant enough margin after sales revenue and cost data are computed to cover operational costs and profit goals. If a company is not meeting their target for this ratio, they may consider increasing prices or decreasing costs.</item>
+</list>
+</section>
+<section id="fs-idm201428080" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm202944864">
+<problem id="fs-idm207180704">
+<para id="fs-idm205982992"><link class="lo-reference" document="m67866"/>A multi-step income statement ________.</para>
+<list id="fs-idm215837408" list-type="enumerated" number-style="upper-alpha">
+<item>separates cost of goods sold from operating expenses</item>
+<item>considers interest revenue an operating activity</item>
+<item>is another name for a simple income statement</item>
+<item>combines cost of goods sold and operating expenses</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm209770256">
+<problem id="fs-idm203008416">
+<para id="fs-idm209916272"><link class="lo-reference" document="m67866"/>Which of the following accounts would be reported under operating expenses on a multi-step income statement?</para>
+<list id="fs-idm210011488" list-type="enumerated" number-style="upper-alpha">
+<item>sales</item>
+<item>advertising expense</item>
+<item>sales returns and allowances</item>
+<item>interest expense</item>
+</list>
+</problem>
+<solution id="fs-idm212535232">
+<para id="fs-idm203356240">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm207096704">
+<problem id="fs-idm207537712">
+<para id="fs-idm217714160"><link class="lo-reference" document="m67866"/>A simple income statement ________.</para>
+<list id="fs-idm207789872" list-type="enumerated" number-style="upper-alpha">
+<item>combines all revenues into one category</item>
+<item>does not combine all expenses into one category</item>
+<item>separates cost of goods sold from operating expenses</item>
+<item>separates revenues into several categories</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm210285664">
+<problem id="fs-idm209913232">
+<para id="fs-idm201253600"><link class="lo-reference" document="m67866"/>Which of the following accounts would <emphasis effect="italics">not</emphasis> be reported under revenue on a simple income statement?</para>
+<list id="fs-idm205976032" list-type="enumerated" number-style="upper-alpha">
+<item>interest revenue</item>
+<item>net sales</item>
+<item>rent revenue</item>
+<item>operating expenses</item>
+</list>
+</problem>
+<solution id="fs-idm216190528">
+<para id="fs-idm209867728">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm207312528" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm205767408">
+<problem id="fs-idm217092448">
+<para id="fs-idm202141056"><link class="lo-reference" document="m67866"/>The following is select account information for Sunrise Motors. Sales: $256,400; Sales Returns and Allowances: $34,890; COGS: $120,470; Sales Discounts: $44,760. Given this information, what is the Gross Profit Margin Ratio for Sunrise Motors? (Round to the nearest whole percentage.)</para>
+</problem>
+<solution id="fs-idm202773408">
+<para id="fs-idm205945392">32% or $.32; ($176,750 – 120,470) / $176,750</para>
+</solution>
+</exercise>
+<exercise id="fs-idm204406272">
+<problem id="fs-idm217012944">
+<para id="fs-idm205404944"><link class="lo-reference" document="m67866"/>What is the difference between a multi-step and simple income statement?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm219745312">
+<problem id="fs-idm219745056">
+<para id="fs-idm206156464"><link class="lo-reference" document="m67866"/>How can an investor or lender use the Gross Profit Margin Ratio to make financial contribution decisions?</para>
+</problem>
+<solution id="fs-idm209638208">
+<para id="fs-idm203173376">The gross profit margin ratio shows the company’s margin over costs of sales to cover operating expenses and profit. If margin continue to increase over time, an investor or lender might consider the financial contribution less risky. If the ratio decreases, the stakeholder may perceive an increased risk that the company may not have enough revenue to service debt.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm203268960">
+<problem id="fs-idm203546912">
+<para id="fs-idm209942752"><link class="lo-reference" document="m67866"/>The following is select account information for August Sundries. Sales: $850,360; Sales Returns and Allowances: $148,550; COGS: $300,840; Operating Expenses: $45,770; Sales Discounts: $231,820. If August Sundries uses a multi-step income statement format, what is their gross margin?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm209829232" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm205894208">
+<problem id="fs-idm202729056">
+<para id="fs-idm210129408"><link class="lo-reference" document="m67866"/>The following select account data is taken from the records of Reese Industries for 2019.</para>
+<media id="fs-idm215688720" class="scaled-down" alt="List of Sales: $640,363; Merchandise Inventory: $582,620; Sales Discounts: $58,040; Interest Expense: $3,677; Sales Returns and Allowances: $90,232; Interest Revenue: $10,268; Cost of Goods Sold: $224,598; Rent Expense: $15,080; Depreciation Expense - Office Equipment: $3,200; Insurance Expense: $2,450; Advertising Expense: $12,906; Accounts Receivable: $100,440; Office Supplies Expense: $1,600; Rent Revenue: $23,622; Sales Salaries Expense: $30,410; Accounts Payable: $135,404; Common Stock: $59,419; and Marketing Expense: $31,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_06_EA01_img.jpg"/>
+</media>
+<list id="fs-idm209946064" list-type="enumerated" number-style="upper-alpha">
+<item>Use the data provided to compute net sales for 2019.</item>
+<item>Prepare a simple income statement for the year ended December 31, 2019.</item>
+<item>Compute the gross margin for 2019.</item>
+<item>Prepare a multi-step income statement for the year ended December 31, 2019.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm210463840" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm210259312">
+<problem id="fs-idm210021216">
+<para id="fs-idm219873536"><link class="lo-reference" document="m67866"/>The following select account data is taken from the records of Carnival Express for 2019.</para>
+<media id="fs-idm214949696" class="scaled-down" alt="List of Sales: $790,866; Merchandise Inventory: $465,000; Accounts Receivable: $115,509; Office Supplies Expense: $2,312; Rent Revenue: $42,900; Sales Salaries Expense: $65,300; Accounts Payable: $158,234; Common Stock: $80,963; Marketing Expense: $25,450; Sales Discounts: $62,750; Interest Expense: $5,444; Sales Returns and Allowances: $100,043; Interest Revenue: $12,321; Cost of Goods Sold: $295,840; Rent Expense: $12,678; Depreciation Expense: Office Equipment: $4,210; Insurance Expense: $2,000; and Advertising Expense: $14,650.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_06_EB01_img.jpg"/>
+</media>
+<list id="fs-idm219231968" list-type="enumerated" number-style="upper-alpha">
+<item>Use the data provided to compute net sales for 2019.</item>
+<item>Prepare a simple income statement for the year ended December 31, 2019.</item>
+<item>Compute the gross margin for 2019.</item>
+<item>Prepare a multi-step income statement for the year ended December 31, 2019.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm216116256" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm214562880">
+<problem id="fs-idm214336816">
+<para id="fs-idm219870784"><link class="lo-reference" document="m67866"/>The following is the adjusted trial balance data for Nino’s Pizzeria as of December 31, 2019.</para>
+<media id="fs-idm204925312" class="scaled-down" alt="Nino’s Pizzeria Adjusted Trial Balance for December 31, 2019. Debits or Credits, showing Cash: $775,984 credit; Accounts Receivable: $45,688 debit; Buildings: $200,460 debit; Merchandise Inventory: $135,624 debit; Accounts Payable: $437,880 credit; Common Stock: $410,542 credit; Sales: $555,696 credit; Interest Revenue: $84,652 credit; Rent Revenue: $86,900 credit; Sales Salaries Expense: $24,500 debit; Office Supplies Expense: $6,270 debit; Sales Discounts: $102,890 debit; Interest Expense: $4,577 debit; Sales Returns and Allowances: $105,854 debit; Cost of Goods Sold: $122,853; Rent Expense: $20,000; Depreciation Expense: Office Equipment: $10,555 debit; Insurance Expense: $2,780 debit; and Advertising Expense: $17,635 debit, for a debit total of $1,575,670 and a credit total of $1,575,670.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_06_PA01_img.jpg"/>
+</media>
+<list id="fs-idm201244272" list-type="enumerated" number-style="upper-alpha">
+<item>Use the data provided to compute net sales for 2019.</item>
+<item>Compute the gross margin for 2019.</item>
+<item>Compute the gross profit margin ratio (rounded to nearest hundredth).</item>
+<item>Prepare a simple income statement for the year ended December 31, 2019.</item>
+<item>Prepare a multi-step income statement for the year ended December 31, 2019.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm211897904">
+<problem id="fs-idm210141008">
+<para id="fs-idm209680560"><link class="lo-reference" document="m67866"/>The following is the adjusted trial balance data for Emma’s Alterations as of December 31, 2019.</para>
+<media id="fs-idm219974432" class="scaled-down" alt="Emma’s Alterations Adjusted Trial Balance for December 31, 2019. Debits or Credits, showing Cash: $600,538 credit; Accounts Receivable: $50,689 debit; Equipment: $199,430 debit; Merchandise Inventory: $169,744 debit; Accounts Payable: $234,893 credit; Common Stock: $502,200 credit; Sales: $393,426 credit; Interest Revenue: $100,976 credit; Rent Revenue: $65,500 credit; Sales Salaries Expense: $26,750 debit; Office Supplies Expense: $4,903 debit; Sales Discounts: $61,347 debit; Interest Expense: $3,570 debit; Sales Returns and Allowances: $55,432 debit; Cost of Goods Sold: $90,333; Rent Expense: $10,400; Depreciation Expense: Office Equipment: $8,560 debit; Insurance Expense: $3,421 debit; and Advertising Expense: $11,878 debit, for a debit total of $1,296,995 and a credit total of $1,296,995.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_06_PA02_img.jpg"/>
+</media>
+<list id="fs-idm204449232" list-type="enumerated" number-style="upper-alpha">
+<item>Use the data provided to compute net sales for 2019.</item>
+<item>Compute the gross margin for 2019.</item>
+<item>Compute the gross profit margin ratio (rounded to nearest hundredth).</item>
+<item>Prepare a simple income statement for the year ended December 31, 2019.</item>
+<item>Prepare a multi-step income statement for the year ended December 31, 2019.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm214978768" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm216354624">
+<problem id="fs-idm202931888">
+<para id="fs-idm215195168"><link class="lo-reference" document="m67866"/>The following is the adjusted trial balance data for Elm Connections as of December 31, 2019.</para>
+<media id="fs-idm216332480" alt="Elm Connections Adjusted Trial Balance for December 31, 2019. Debits or Credits, showing Cash: $596,823 credit; Accounts Receivable: $34,672 debit; Buildings: $350,000 debit; Merchandise Inventory: $263,909 debit; Accounts Payable: $502,690 credit; Common Stock: $432,975 credit; Sales: $603,427 credit; Interest Revenue: $94,568 credit; Rent Revenue: $90,000 credit; Sales Salaries Expense: $25,180 debit; Office Supplies Expense: $5,942 debit; Sales Discounts: $99,651 debit; Interest Expense: $3,566 debit; Sales Returns and Allowances: $110,285 debit; Cost of Goods Sold: $180,630; Rent Expense: $15,485; Depreciation Expense: Office Equipment: $9,000 debit; Insurance Expense: $9,324 debit; and Advertising Expense: $19,193 debit, for a debit total of $1,723,660 and a credit total of $1,723,660.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_06_PB01_img.jpg"/>
+</media>
+<list id="fs-idm213005632" list-type="enumerated" number-style="upper-alpha">
+<item>Use the data provided to compute net sales for 2019.</item>
+<item>Compute the gross margin for 2019.</item>
+<item>Compute the gross profit margin ratio (rounded to nearest hundredth)</item>
+<item>Prepare a simple income statement for the year ended December 31, 2019.</item>
+<item>Prepare a multi-step income statement for the year ended December 31, 2019.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm216585072">
+<problem id="fs-idm216542416">
+<para id="fs-idm216246304"><link class="lo-reference" document="m67866"/>Following is the adjusted trial balance data for Garage Parts Unlimited as of December 31, 2019.</para>
+<media id="fs-idm216583376" alt="Garage Parts Unlimited Adjusted Trial Balance for December 31, 2019. Debits or Credits, showing Cash: $624,500 credit; Accounts Receivable: $100,233 debit; Buildings: $465,099 debit; Merchandise Inventory: $277,340 debit; Accounts Payable: $287,693 credit; Common Stock: $564,500 credit; Sales: $885,244 credit; Interest Revenue: $216,745 credit; Rent Revenue: $101,600 credit; Sales Salaries Expense: $29,878 debit; Office Supplies Expense: $5,942 debit; Sales Discounts: $112,431 debit; Interest Expense: $9,560 debit; Sales Returns and Allowances: $162,312 debit; Cost of Goods Sold: $208,016; Rent Expense: $19,191; Depreciation Expense: Office Equipment: $8,657 debit; Insurance Expense: $10,234 debit; and Advertising Expense: $22,389 debit, for a debit total of $2,055,782 and a credit total of $2,055,782.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F06_06_PB02_img.jpg"/>
+</media>
+<list id="fs-idm214582784" list-type="enumerated" number-style="upper-alpha">
+<item>Use the data provided to compute net sales for 2019.</item>
+<item>Compute the gross margin or 2019.</item>
+<item>Compute the gross profit margin ratio (rounded to nearest hundredth)</item>
+<item>Prepare a simple income statement for the year ended December 31, 2019.</item>
+<item>Prepare a multi-step income statement for the year ended December 31, 2019.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm205624752" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm201417696">
+<problem id="fs-idm209975856">
+<para id="fs-idm204444832"><link class="lo-reference" document="m67866"/>Review the most recent yearly (or quarterly) income statement for a publicly-traded company and answer the following questions.</para>
+<list id="fs-idm209795888" list-type="bulleted">
+<item>What company did you choose, and which income statement format do they use (multi-step, simple, or combination)?</item>
+<item>What information is included on the statement?</item>
+<item>Do you agree with the format presentation? Why or why not?</item>
+<item>What are the benefits and limitations with the income statement format choice?</item>
+<item>Compute the Gross Profit Margin Ratio. Discuss the results.</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm205807664">
+<term>gross margin</term>
+<meaning id="fs-idm202007872">amount available after deducting cost of goods sold from net sales, to cover operating expenses and profit</meaning>
+</definition>
+<definition id="fs-idm209669184">
+<term>gross profit margin ratio</term>
+<meaning id="fs-idm205852784">proportion of margin a company attains, above their cost of goods sold to cover operating expenses and profit, calculated by subtracting cost of goods sold from total net revenue to arrive at gross profit and then taking gross profit divided by total net revenues</meaning>
+</definition>
+<definition id="fs-idm202828272">
+<term>income from operations</term>
+<meaning id="fs-idm207720688">gross margin less deductions for operating expenses</meaning>
+</definition>
+<definition id="fs-idm201752720">
+<term>net income</term>
+<meaning id="fs-idm206031344">when revenues and gains are greater than expenses and losses</meaning>
+</definition>
+<definition id="fs-idm210197808">
+<term>operating expenses</term>
+<meaning id="fs-idm203040800">daily operational costs not associated with the direct selling of products or services</meaning>
+</definition>
+<definition id="fs-idm212346320">
+<term>other revenue and expenses</term>
+<meaning id="fs-idm216729888">revenues and expenses not associated with daily operations, or the sale of goods and services</meaning>
+</definition>
+</glossary>
+</document>

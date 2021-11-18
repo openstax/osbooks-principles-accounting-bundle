@@ -1,0 +1,668 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Analyze and Record Transactions for the Issuance and Repurchase of Stock</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67918</md:content-id>
+  <md:title>Analyze and Record Transactions for the Issuance and Repurchase of Stock</md:title>
+  <md:abstract/>
+  <md:uuid>5651bb9c-8544-4a96-8883-d4853f2256d6</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm367402752">Chad and Rick have successfully incorporated La Cantina and are ready to issue common stock to themselves and the newly recruited investors. The proceeds will be used to open new locations. The corporate charter of the corporation indicates that the par value of its common stock is $1.50 per share. When stock is sold to investors, it is very rarely sold at par value. Most often, shares are issued at a value in excess of par. This is referred to as issuing stock at a premium. Stock with no par value that has been assigned a stated value is treated very similarly to stock with a par value.</para>
+<para id="fs-idm367246864">Stock can be issued in exchange for cash, property, or services provided to the corporation. For example, an investor could give a delivery truck in exchange for a company’s stock. Another investor could provide legal fees in exchange for stock. The general rule is to recognize the assets received in exchange for stock at the asset’s fair market value.</para>
+<section id="fs-idm357542976">
+<title>Typical Common Stock Transactions</title>
+<para id="fs-idm359227968">The company plans to issue most of the shares in exchange for cash, and other shares in exchange for kitchen equipment provided to the corporation by one of the new investors. Two common accounts in the equity section of the balance sheet are used when issuing stock—Common Stock and Additional Paid-in Capital from Common Stock. Common Stock consists of the par value of all shares of common stock issued. <term>Additional paid-in capital</term> from common stock consists of the excess of the proceeds received from the issuance of the stock over the stock’s par value. When a company has more than one class of stock, it usually keeps a separate additional paid-in capital account for each class.</para>
+<section id="fs-idm368308096">
+<title>Issuing Common Stock with a Par Value in Exchange for Cash</title>
+<para id="fs-idm359885120">When a company issues new stock for cash, assets increase with a debit, and equity accounts increase with a credit. To illustrate, assume that La Cantina issues 8,000 shares of common stock to investors on January 1 for cash, with the investors paying cash of $21.50 per share. The total cash to be received is $172,000.</para>
+<equation id="fs-idm363945104" class="unnumbered"><m:math><m:mrow><m:mtext>8,000</m:mtext><m:mspace width="0.2em"/><m:mtext>shares</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>$21.50</m:mn><m:mo>=</m:mo><m:mn>$172,000</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm368338528">The transaction causes Cash to increase (debit) for the total cash received. The Common Stock account increases (credit) with a credit for the par value of the 8,000 shares issued: 8,000 × $1.50, or $12,000. The excess received over the par value is reported in the Additional Paid-in Capital from Common Stock account. Since the shares were issued for $21.50 per share, the excess over par value per share of $20 ($21.50 − $1.50) is multiplied by the number of shares issued to arrive at the Additional Paid-in Capital from Common Stock credit.</para>
+<equation id="fs-idm372517232" class="unnumbered"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>$21.50</m:mn><m:mo>−</m:mo><m:mn>$1.50</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>8,000</m:mn><m:mo>=</m:mo><m:mn>$160,000</m:mn></m:mrow></m:math></equation>
+<media id="fs-idm368324352" alt="Journal entry for January 1: Debit Cash for 172,000, credit Common Stock for 12,000, and credit Additional paid-in Capital from Common Stock for 160,000. Explanation: “To record the issuance of $1.50 par value common stock for cash.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_02_Journ01_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm361689808">
+<title>Issuing Common Stock with a Par Value in Exchange for Property or Services</title>
+<para id="fs-idm371950416">When a company issues stock for property or services, the company increases the respective asset account with a debit and the respective equity accounts with credits. The asset received in the exchange—such as land, equipment, inventory, or any services provided to the corporation such as legal or accounting services—is recorded at the fair market value of the stock or the asset or services received, whichever is more clearly determinable.</para>
+<para id="fs-idm358585504">To illustrate, assume that La Cantina issues 2,000 shares of authorized common stock in exchange for legal services provided by an attorney. The legal services have a value of $8,000 based on the amount the attorney would charge. Because La Cantina’s stock is not actively traded, the asset will be valued at the more easily determinable market value of the legal services. La Cantina must recognize the market value of the legal services as an increase (debit) of $8,000 to its Legal Services Expense account. Similar to recording the stock issued for cash, the Common Stock account is increased by the par value of the issued stock, $1.50 × 2,000 shares, or $3,000. The excess of the value of the legal services over the par value of the stock appears as an increase (credit) to the Additional Paid-in Capital from Common Stock account:</para>
+<equation id="fs-idm361690448" class="unnumbered"><m:math><m:mrow><m:mn>$8,000</m:mn><m:mo>−</m:mo><m:mn>$3,000</m:mn><m:mo>=</m:mo><m:mn>$5,000</m:mn></m:mrow></m:math></equation>
+<media id="fs-idm359216816" alt="Journal entry for January 1: Debit Legal Services Expense 8,000, credit Common Stock for 3,000, and credit Additional paid-in Capital from Common Stock for 5,000. Explanation: “To record the issuance of $1.50 par value common stock in exchange for legal services provided.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_02_Journ02_img.jpg"/>
+</media>
+<para id="fs-idm357286080">Just after the issuance of both investments, the stockholders’ equity account, Common Stock, reflects the total par value of the issued stock; in this case, $3,000 + $12,000, or a total of $15,000. The amounts received in excess of the par value are accumulated in the Additional Paid-in Capital from Common Stock account in the amount of $5,000 + $160,000, or $165,000. A portion of the equity section of the balance sheet just after the two stock issuances by La Cantina will reflect the Common Stock account stock issuances as shown in <link target-id="OSX_Acct_F14_02_SHE1"/>.</para>
+<figure id="OSX_Acct_F14_02_SHE1" class="scaled-down"><media id="fs-idm359442672" alt="La Cantina, Partial Stockholders’ Equity Section of the Balance Sheet, December 31, 2020. Stockholders’ Equity: Common Stock, $1.50 par value, 20,000 shares authorized, 10,000 issued and outstanding $15,000. Additional Paid-in capital from common stock 165,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_02_SHE1.jpg"/>
+</media>
+
+<caption>Partial Stockholder’s Equity for La Cantina. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption></figure></section>
+<section id="fs-idm359796032">
+<title>Issuing No-Par Common Stock with a Stated Value</title>
+<para id="fs-idm356930096">Not all stock has a par value specified in the company’s charter. In most cases, no-par stock is assigned a stated value by the board of directors, which then becomes the legal capital value. Stock with a stated value is treated as if the stated value is a par value. Assume that La Cantina’s 8,000 shares of common stock issued on June 1 for $21.50 were issued at a stated value of $1.50 rather than at a par value. The total cash to be received remains $172,000 (8,000 shares × $21.50), which is recorded as an increase (debit) to Cash. The Common Stock account increases with a credit for the stated value of the 8,000 shares issued: 8,000 × $1.50, or $12,000. The excess received over the stated value is reported in the Additional Paid-in Capital from Common Stock account at $160,000, based on the issue price of $21.50 per share less the stated value of $1.50, or $20, times the 8,000 shares issued:</para>
+<equation id="fs-idm359559488" class="unnumbered"><m:math><m:mrow><m:mo>(</m:mo><m:mn>$21.50</m:mn><m:mo>−</m:mo><m:mn>$1.50</m:mn><m:mo>)</m:mo><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>8,000</m:mn><m:mo>=</m:mo><m:mn>$160,000</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm360218160">The transaction looks identical except for the explanation.</para>
+<media id="fs-idm372190512" alt="Journal entry for January 1: Debit Cash for 172,000, credit Common Stock for 12,000, and credit Additional paid-in Capital from Common Stock for 160,000. Explanation: “To record the issuance of $1.50 stated value common stock for cash.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_02_Journ03_img.jpg"/>
+</media>
+<para id="fs-idm367182080">If the 8,000 shares of La Cantina’s common stock had been no-par, and no stated value had been assigned, the $172,000 would be debited to Cash, with a corresponding increase in the Common Stock account as a credit of $172,000. No entry would be made to Additional Paid-in Capital account as it is reserved for stock issue amounts above par or stated value. The entry would appear as:</para>
+<media id="fs-idm360106384" alt="Journal entry for January 1: Debit Cash for 172,000, credit Common Stock for 172,000. Explanation: “To record the issuance of no par common stock for cash.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_02_Journ04_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm356882000">
+<title>Issuing Preferred Stock</title>
+<para id="fs-idm366298640">A few months later, Chad and Rick need additional capital to develop a website to add an online presence and decide to issue all 1,000 of the company’s authorized preferred shares. The 5%, $8 par value, preferred shares are sold at $45 each. The Cash account increases with a debit for $45 times 1,000 shares, or $45,000. The Preferred Stock account increases for the par value of the preferred stock, $8 times 1,000 shares, or $8,000. The excess of the issue price of $45 per share over the $8 par value, times the 1,000 shares, is credited as an increase to Additional Paid-in Capital from Preferred Stock, resulting in a credit of $37,000.</para>
+<equation id="fs-idm361106368" class="unnumbered"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>$45</m:mn><m:mo>−</m:mo><m:mn>$8</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>1,000</m:mn><m:mo>=</m:mo><m:mn>$37,000</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm365954176">The journal entry is:</para>
+<media id="fs-idm371881392" alt="Journal entry for January 1: Debit Cash for 45,000, credit Preferred Stock for 8,000, and credit Additional paid-in Capital from Preferred Stock for 37,000. Explanation: “To record the issuance of $8 par value Preferred stock for cash.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_02_Journ05_img.jpg"/>
+</media>
+<para id="fs-idm370683584"><link target-id="OSX_Acct_F14_02_Equity1"/> shows what the equity section of the balance sheet will reflect after the preferred stock is issued.</para>
+<figure id="OSX_Acct_F14_02_Equity1" class="scaled-down"><media id="fs-idm355375776" alt="La Cantina, Partial Stockholders’ Equity Section of the Balance Sheet, December 31, 2020. Stockholders’ Equity: 5% percent Preferred stock, $8 par value, 1,000 shares authorized, 1,000 shares issued and outstanding $8,000. Additional paid-in capital from preferred stock 37,000. Common Stock, $1.50 par value, 20,000 shares authorized, 10,000 issued and outstanding $15,000. Additional Paid-in capital from common 165,000. Retained Earnings xx.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_02_Equity1.jpg"/>
+</media>
+
+<caption>Partial Stockholders’ Equity for La Cantina. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption></figure><para id="fs-idm372670320">Notice that the corporation presents preferred stock before common stock in the Stockholders’ Equity section of the balance sheet because preferred stock has preference over common stock in the case of liquidation. GAAP requires that each class of stock displayed in this section of the balance sheet includes several items that must be disclosed along with the respective account names. The required items to be disclosed are:</para>
+<list id="fs-idm366896112" list-type="bulleted" bullet-style="bullet">
+<item>Par or stated value</item>
+<item>Number of shares authorized</item>
+<item>Number of shares issued</item>
+<item>Number of shares outstanding</item>
+<item>If preferred stock, the dividend rate</item>
+</list>
+</section>
+</section>
+<section id="fs-idm370411840">
+<title>Treasury Stock</title>
+<para id="fs-idm362331056">Sometimes a corporation decides to purchase its own stock in the market. These shares are referred to as treasury stock. A company might purchase its own outstanding stock for a number of possible reasons. It can be a strategic maneuver to prevent another company from acquiring a majority interest or preventing a hostile takeover. A purchase can also create demand for the stock, which in turn raises the market price of the stock. Sometimes companies buy back shares to be used for employee stock options or profit-sharing plans.</para>
+<note id="fs-idm367303920" class="think-through">
+<title>Walt Disney Buys Back Stock</title>
+<para id="fs-idm372784992">The <emphasis class="colored-text">Walt Disney Company</emphasis> has consistently spent a large portion of its cash flows in buying back its own stock. According to <emphasis effect="italics">The Motley Fool</emphasis>, the <emphasis class="colored-text">Walt Disney Company</emphasis> bought back 74 million shares in 2016 alone. Read the <link url="https://openstax.org/l/50DisneyShares"><emphasis effect="italics">Motley Fool</emphasis> article</link> and comment on other options that <emphasis class="colored-text">Walt Disney</emphasis> may have had to obtain financing.</para>
+</note>
+<section id="fs-idm366763792">
+<title>Acquiring Treasury Stock</title>
+<para id="fs-idm358418800">When a company purchases treasury stock, it is reflected on the balance sheet in a contra equity account. As a contra equity account, Treasury Stock has a debit balance, rather than the normal credit balances of other equity accounts. The total cost of treasury stock reduces total equity. In substance, treasury stock implies that a company owns shares of itself. However, owning a portion of one’s self is not possible. Treasury shares do not carry the basic common shareholder rights because they are not outstanding. Dividends are not paid on treasury shares, they provide no voting rights, and they do not receive a share of assets upon liquidation of the company. There are two methods possible to account for treasury stock—the cost method, which is discussed here, and the par value method, which is a more advanced accounting topic. The cost method is so named because the amount in the Treasury Stock account at any point in time represents the number of shares held in treasury times the original cost paid to acquire each treasury share.</para>
+<para id="fs-idm359644608">Assume Duratech’s net income for the first year was $3,100,000, and that the company has 12,500 shares of common stock issued. During May, the company’s board of directors authorizes the repurchase of 800 shares of the company’s own common stock as treasury stock. Each share of the company’s common stock is selling for $25 on the open market on May 1, the date that Duratech purchases the stock. Duratech will pay the market price of the stock at $25 per share times the 800 shares it purchased, for a total cost of $20,000. The following journal entry is recorded for the purchase of the treasury stock under the cost method.</para>
+<media id="fs-idm372366512" alt="Journal entry for May 1: Debit Treasury Stock for 20,000, credit Cash for 20,000. Explanation: “To record the purchase of treasury stock for cash.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_02_Journ06_img.jpg"/>
+</media>
+<para id="fs-idm371867344">Even though the company is purchasing stock, there is no asset recognized for the purchase. An entity cannot own part of itself, so no asset is acquired. Immediately after the purchase, the equity section of the balance sheet (<link target-id="OSX_Acct_F14_02_Equity2"/>) will show the total cost of the treasury shares as a deduction from total stockholders’ equity.</para>
+<figure id="OSX_Acct_F14_02_Equity2" class="scaled-down"><media id="fs-idm365925360" alt="La Cantina, Partial Stockholders’ Equity Section of the Balance Sheet, December 31, 2020. Stockholders’ Equity: 5 percent Preferred stock, $8 par value, 1,000 shares authorized, 1,000 shares issued and outstanding $8,000. Additional paid-in capital from preferred stock 37,000. Common Stock, $1.50 par value, 20,000 shares authorized, 10,000 issued and outstanding $15,000. Additional Paid-in capital from common 70,000. Retained Earnings 31,000. Total 161,000. Treasury stock (800 shares) at cost 20,000. Total stockholders’ equity $141,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_02_Equity2.jpg"/>
+</media>
+
+<caption>Partial Stockholders’ Equity Section of the Balance Sheet for Duratech. After the purchase of treasury stock, the stockholders’ equity section of the balance sheet is shown as a deduction from total stockholders’ equity. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption></figure><para id="fs-idm372471856">Notice on the partial balance sheet that the number of common shares outstanding changes when treasury stock transactions occur. Initially, the company had 10,000 common shares issued and outstanding. The 800 repurchased shares are no longer outstanding, reducing the total outstanding to 9,200 shares.</para>
+<note id="fs-idm357044112" class="concepts-practice">
+<title>Reporting Treasury Stock for Nestlé Holdings Group</title>
+<para id="fs-idm368330320"><emphasis class="colored-text">Nestlé Holdings Group</emphasis> sells a number of major brands of food and beverages including <emphasis class="colored-text">Gerber</emphasis>, <emphasis class="colored-text">Häagen-Dazs</emphasis>, <emphasis class="colored-text">Purina</emphasis>, and <emphasis class="colored-text">Lean Cuisine</emphasis>. The company’s statement of stockholders’ equity shows that it began with 990 million Swiss francs (CHF) in treasury stock at the beginning of 2016. In 2017, it acquired additional shares at a cost of 3,547 million CHF, raising its total treasury stock to 4,537 million CHF at the end of 2017, primarily due to a share buy-back program.<footnote id="fs-idm366132768">Nestlé. “Annual Report 2017.” 2017. https://www.nestle.com/investors/annual-report</footnote></para>
+<media id="fs-idm363861328" class="scaled-down" alt="Nestle Holding Group, Consolidated Statement of Changes in Equity, For the Year Ended December 31, 2017. Millions (CHF), Share Capital, Treasury Shares, Paid-in Capital, Other, Total Equity (respectively): Equity as of December 31, 2016, 311, (990), 82,870, (16,210) 65,981. Profit for the year, -, -, 7,538, -, 7,538. Other comprehensive income, -, -, 252, -, 252. Dividends, -, -, (7,468), -, (7,468). Treasury shares, -, (3,719), 113, -, (3,606). Other, -, 172, 869, (961), 80. Equity at December 31, 2017, 311, (4,537), 84,174, (17,171), 62,777.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_02_CIP01_img.png"/>
+</media>
+</note>
+</section>
+<section id="fs-idm359518272">
+<title>Reissuing Treasury Stock above Cost</title>
+<para id="fs-idm364991552">Management typically does not hold treasury stock forever. The company can resell the treasury stock at cost, above cost, below cost, or retire it. If La Cantina reissues 100 of its treasury shares at cost ($25 per share) on July 3, a reversal of the original purchase for the 100 shares is recorded. This has the effect of increasing an asset, Cash, with a debit, and decreasing the Treasury Stock account with a credit. The original cost paid for each treasury share, $25, is multiplied by the 100 shares to be resold, or $2,500. The journal entry to record this sale of the treasury shares at cost is:</para>
+<media id="fs-idm372523040" alt="Journal entry for July 3: Debit Cash for 2,500, credit Treasury Stock for 2,500. Explanation: “To record the sale of 100 shares of treasury stock at cost.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_02_Journ07_img.jpg"/>
+</media>
+<para id="fs-idm364156688">If the treasury stock is resold at a price higher than its original purchase price, the company debits the Cash account for the amount of cash proceeds, reduces the Treasury Stock account with a credit for the cost of the treasury shares being sold, and credits the Paid-in Capital from Treasury Stock account for the difference. Even though the difference—the selling price less the cost—looks like a gain, it is treated as additional capital because gains and losses only result from the disposition of economic resources (assets). Treasury Stock is not an asset. Assume that on August 1, La Cantina sells another 100 shares of its treasury stock, but this time the selling price is $28 per share. The Cash Account is increased by the selling price, $28 per share times the number of shares resold, 100, for a total debit to Cash of $2,800. The Treasury Stock account decreases by the cost of the 100 shares sold, 100 × $25 per share, for a total credit of $2,500, just as it did in the sale at cost. The difference is recorded as a credit of $300 to Additional Paid-in Capital from Treasury Stock.</para>
+<media id="fs-idm360190944" alt="Journal entry for August 1: Debit Cash for 2,800, credit Treasury Stock for 2,500, credit Additional Paid-in Capital from Treasury Stock for 300. Explanation: “To record the sale of 100 shares of treasury stock above cost.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_02_Journ08_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm368346976">
+<title>Reissuing Treasury Stock Below Cost</title>
+<para id="fs-idm356030128">If the treasury stock is reissued at a price below cost, the account used for the difference between the cash received from the resale and the original cost of the treasury stock depends on the balance in the Paid-in Capital from Treasury Stock account. Any balance that exists in this account will be a credit. The transaction will require a debit to the Paid-in Capital from Treasury Stock account to the extent of the balance. If the transaction requires a debit greater than the balance in the Paid-in Capital account, any additional difference between the cost of the treasury stock and its selling price is recorded as a reduction of the Retained Earnings account as a debit. If there is no balance in the Additional Paid-in Capital from Treasury Stock account, the entire debit will reduce retained earnings.</para>
+<para id="fs-idm367337168">Assume that on October 9, La Cantina sells another 100 shares of its treasury stock, but this time at $23 per share. Cash is increased for the selling price, $23 per share times the number of shares resold, 100, for a total debit to Cash of $2,300. The Treasury Stock account decreases by the cost of the 100 shares sold, 100 × $25 per share, for a total credit of $2,500. The difference is recorded as a debit of $200 to the Additional Paid-in Capital from Treasury Stock account. Notice that the balance in this account from the August 1 transaction was $300, which was sufficient to offset the $200 debit. The transaction is recorded as:</para>
+<media id="fs-idm355439520" alt="Journal entry for October 9: Debit Cash for 2,300, debit Additional Paid-in Capital from Treasury Stock 200, credit Treasury Stock for 2,500. Explanation: “To record the sale of 100 shares of treasury stock below cost.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_02_Journ09_img.jpg"/>
+</media>
+<para id="fs-idm359758576">Treasury stock transactions have no effect on the number of shares authorized or issued. Because shares held in treasury are not outstanding, each treasury stock transaction will impact the number of shares outstanding. A corporation may also purchase its own stock and retire it. Retired stock reduces the number of shares issued. When stock is repurchased for retirement, the stock must be removed from the accounts so that it is not reported on the balance sheet. The balance sheet will appear as if the stock was never issued in the first place.</para>
+<note id="fs-idm357254544" class="your-turn">
+<title>Understanding Stockholders’ Equity</title>
+<para id="fs-idm361895424">Wilson Enterprises reports the following stockholders’ equity:</para>
+<figure id="OSX_Acct_F14_02_YT01" class="scaled-down">
+<media id="fs-idm359604672" alt="Preferred stock, $100 par value, 10,000 shares authorized, 10,000 shares issued and outstanding $1,000,000. Common Stock, $1 par value, 2,000,000 shares authorized, 1,200,000 issued and 1,180,000 outstanding $1,200,000. Additional Paid-in capital 16,800,000. Retained Earnings 3,670,000. Total 22,670,000. Treasury stock (20,000 shares) (240,000). Total Stockholders’ Equity $22,430,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_02_YT01.png"/>
+</media>
+<caption>Wilson Enterprises, Inc., Stockholders’ Equity Section of the Balance Sheet, For the Month Ended December 31, 2020. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm357459472">Based on the partial balance sheet presented, answer the following questions:</para>
+<list id="fs-idm372773552" list-type="enumerated" number-style="upper-alpha">
+<item>At what price was each share of treasury stock purchased?</item>
+<item>What is reflected in the additional paid-in capital account?</item>
+<item>Why is there a difference between the common stock shares issued and the shares outstanding?</item>
+</list>
+<para id="fs-idm356856384"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm366789984">A. $240,000 ÷ 20,000 = $12 per share. B. The difference between the market price and the par value when the stock was issued. C. Treasury stock.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm363746976" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm366810976" list-type="bulleted" bullet-style="bullet">
+<item>The initial issuance of common stock reflects the sale of the first stock by a corporation.</item>
+<item>Common stock issued at par value for cash creates an additional paid-in capital account for the excess of the issue price over the par value.</item>
+<item>Stock issued in exchange for property or services is recorded at the fair market value of the stock or the asset or services received, whichever is more clearly determinable.</item>
+<item>Stock with a stated value is treated as if the stated value is a par value. The entire issue price of no-par stock with no stated value is credited to the capital stock account.</item>
+<item>Preferred stock issued at par or stated value creates an additional paid-in capital account for the excess of the issue price over the par value.</item>
+<item>A corporation reports a stock’s par or stated value, the number of shares authorized, issued, and outstanding, and if preferred, the dividend rate on the face of the balance sheet.</item>
+<item>Treasury stock is a corporation’s stock that the corporation purchased back. A company may buy back its stock for strategic purposes against competitors, to create demand, or to use for employee stock option plans.</item>
+<item>The acquisition of treasury stock creates a contra equity account, Treasury Stock, reported in the stockholders’ equity section of the balance sheet.</item>
+<item>When a corporation reissues its treasury stock at an amount above the cost, it generates a credit to the Additional Paid-in Capital from Treasury stock account.</item>
+<item>When a corporation reissues its treasury stock at an amount below cost, the Additional Paid-in Capital from Treasury stock account is reduced first, then any excess is debited to Retained Earnings.</item>
+</list>
+</section>
+<section id="fs-idm355930048" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm359426272">
+<problem id="fs-idm367356288">
+<para id="fs-idm362365088"><link class="lo-reference" document="m67918"/>The total amount of cash and other assets received by a corporation from the stockholders in exchange for the shares is ________.</para>
+<list id="fs-idm360047568" list-type="enumerated" number-style="upper-alpha">
+<item>always equal to par value</item>
+<item>referred to as retained earnings</item>
+<item>always below its stated value</item>
+<item>referred to as paid-in capital</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm364456624">
+<problem id="fs-idm367968384">
+<para id="fs-idm361382000"><link class="lo-reference" document="m67918"/>Stock can be issued for all <emphasis effect="italics">except</emphasis> which of the following?</para>
+<list id="fs-idm370806784" list-type="enumerated" number-style="upper-alpha">
+<item>accounts payable</item>
+<item>state income tax payments</item>
+<item>property such as a delivery truck</item>
+<item>services provided to the corporation such as legal fees</item>
+</list>
+</problem>
+<solution id="fs-idm367331376">
+<para id="fs-idm361825616">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm361867888" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm356764288">
+<problem id="fs-idm356764032">
+<para id="fs-idm372719584"><link class="lo-reference" document="m67918"/>Why would a company repurchase its own stock?</para>
+</problem>
+<solution id="fs-idm367184432">
+<para id="fs-idm363830080">To affect the market price, avoid takeover, and limit need for dividend payouts.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm360552480">
+<problem id="fs-idm360552224">
+<para id="fs-idm363836560"><link class="lo-reference" document="m67918"/>The following data was reported by Saturday Corporation:</para>
+<list id="fs-idm359866528" list-type="bulleted" bullet-style="bullet">
+<item>Authorized shares: 30,000</item>
+<item>Issued shares: 25,000</item>
+<item>Treasury shares: 5,000</item>
+</list>
+<para id="fs-idm361380432">How many shares are outstanding?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm363935040">
+<problem id="fs-idm363934784">
+<para id="fs-idm366251856"><link class="lo-reference" document="m67918"/>A corporation issues 6,000 shares of $1 par value stock for a parcel of land valued at $12,000. Prepare the journal entry to reflect this transaction.</para>
+</problem>
+<solution id="fs-idm357915664">
+<table id="fs-idm357915408" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Land</entry>
+<entry valign="top" align="right">12,000</entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">     Common Stock</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="right">6,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">     Additional Paid-in Capital from Common Stock</entry>
+<entry valign="top" align="left">-</entry>
+<entry valign="top" align="right">6,000</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</solution>
+</exercise>
+<exercise id="fs-idm357272032">
+<problem id="fs-idm357271776">
+<para id="fs-idm357271520"><link class="lo-reference" document="m67918"/>When corporations issue stock in exchange for professional services, what account(s) should be debited and what account(s) should be credited?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm357543664">
+<problem id="fs-idm357448688">
+<para id="fs-idm357448432"><link class="lo-reference" document="m67918"/>A corporation issues 5,000 shares of $1 par value stock for some equipment with a clearly determined value of $10,000. Prepare the journal entry to reflect this transaction.</para>
+</problem>
+<solution id="fs-idm359783616">
+<table id="fs-idm359783360" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Equipment</entry>
+<entry valign="top" align="right">10,000</entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">     Common Stock</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="right">5,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">     Additional Paid-in Capital from Common Stock</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="right">5,000</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm361785056" class="exercise-set-a">
+<exercise id="fs-idm368039120">
+<problem id="fs-idm368038864">
+<para id="fs-idm367093648"><link class="lo-reference" document="m67918"/>Fortuna Company is authorized to issue 1,000,000 shares of $1 par value common stock. In its first year, the company has the following transactions:</para>
+<table id="fs-idm363710592" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 31</entry>
+<entry valign="top" align="left">Issued 40,000 shares at $10 share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 10</entry>
+<entry valign="top" align="left">Issued 100,000 shares in exchange for land with a clearly determined value of $850,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 3</entry>
+<entry valign="top" align="left">Purchased 10,000 shares of treasury stock at $9 per share</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm360162048">Journalize the transactions and calculate how many shares of stock are outstanding at August 3.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm364297888">
+<problem id="fs-idm364297632">
+<para id="fs-idm364297376"><link class="lo-reference" document="m67918"/>James Incorporated is authorized to issue 5,000,000 shares of $1 par value common stock. In its second year of business, the company has the following transactions:</para>
+<table id="fs-idm367172576" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mar. 31</entry>
+<entry valign="top" align="left">Issued 30,000 shares at $10 share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jul. 9</entry>
+<entry valign="top" align="left">Issued 100,000 shares in exchange for a building with a clearly determined value of $700,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 30</entry>
+<entry valign="top" align="left">Purchased 7,000 shares of treasury stock at $9 per share</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm363970320">Journalize the transactions.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm367055984">
+<problem id="fs-idm367055728">
+<para id="fs-idm361467008"><link class="lo-reference" document="m67918"/>McVie Corporation’s stock has a par value of $2. The company has the following transactions during the year:</para>
+<table id="fs-idm362329408" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Feb. 28</entry>
+<entry valign="top" align="left">Issued 300,000 shares at $5 share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 7</entry>
+<entry valign="top" align="left">Issued 90,000 shares in exchange for equipment with a clearly determined value of $200,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Sep. 19</entry>
+<entry valign="top" align="left">Purchased 3,000 shares of treasury stock at $7 per share</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm360127648">Journalize the transactions.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm348610112">
+<problem id="fs-idm348609856">
+<para id="fs-idm348609600"><link class="lo-reference" document="m67918"/>Anslo Fabricating, Inc. is authorized to issue 10,000,000 shares of $5 stated value common stock. During the year, the company has the following transactions:</para>
+<table id="fs-idm366415728" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 3</entry>
+<entry valign="top" align="left">Issued 60,000 shares at $10 share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 15</entry>
+<entry valign="top" align="left">Issued 5,000 shares in exchange for office equipment with a clearly determined value of $50,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 16</entry>
+<entry valign="top" align="left">Purchased 4,000 shares of treasury stock at $20 per share</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm372161200">Journalize the transactions.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm356703920">
+<problem id="fs-idm356748112">
+<para id="fs-idm356747856"><link class="lo-reference" document="m67918"/>St. Marie Company is authorized to issue 1,000,000 shares of $5 par value preferred stock, and 5,000,000 shares of $1 stated value common stock. During the year, the company has the following transactions:</para>
+<table id="fs-idm368098368" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 31</entry>
+<entry valign="top" align="left">Issued 140,000 common shares at $10 share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 10</entry>
+<entry valign="top" align="left">Issued 160,000 preferred shares in exchange for land with a clearly determined value of $850,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 3</entry>
+<entry valign="top" align="left">Issued 10,000 shares of common stock for $9 per share</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm358949968">Journalize the transactions.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm362445568" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm361429328">
+<problem id="fs-idm368403888">
+<para id="fs-idm368403632"><link class="lo-reference" document="m67918"/>Spring Company is authorized to issue 500,000 shares of $2 par value common stock. In its first year, the company has the following transactions:</para>
+<table id="fs-idm361905024" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mar. 1</entry>
+<entry valign="top" align="left">Issued 40,000 shares of stock at $9.75 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Apr. 10</entry>
+<entry valign="top" align="left">Issued 1,000 shares of stock for legal services valued at $10,000.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oct. 3</entry>
+<entry valign="top" align="left">Purchased 1,000 shares of treasury stock at $9 per share</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm361600416">Journalize the transactions and calculate how many shares of stock are outstanding at August 3.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm360020144">
+<problem id="fs-idm360019888">
+<para id="fs-idm360019632"><link class="lo-reference" document="m67918"/>Silva Company is authorized to issue 5,000,000 shares of $2 par value common stock. In its IPO, the company has the following transaction: Mar. 1, issued 500,000 shares of stock at $15.75 per share for cash to investors. Journalize this transaction.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm355409072">
+<problem id="fs-idm366450080">
+<para id="fs-idm366449824"><link class="lo-reference" document="m67918"/>Juniper Company is authorized to issue 5,000,000 shares of $2 par value common stock. In conjunction with its incorporation process and the IPO, the company has the following transaction: Mar. 1, issued 4,000 shares of stock in exchange for equipment worth $250,000. Journalize the transaction.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm372774672">
+<problem id="fs-idm370615504">
+<para id="fs-idm370615248"><link class="lo-reference" document="m67918"/>Vishnu Company is authorized to issue 500,000 shares of $2 par value common stock. In conjunction with its incorporation process and the IPO, the company has the following transaction: Apr. 10, issued 1,000 shares of stock for legal services valued at $15,000. Journalize the transaction.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm360013008">
+<problem id="fs-idm360012752">
+<para id="fs-idm370845376"><link class="lo-reference" document="m67918"/>Ammon Company is authorized to issue 500,000 shares of $5 par value preferred stock. In its first year, the company has the following transaction: Mar. 1, issued 40,000 shares of preferred stock at $20.50 per share. Journalize the transaction.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm357409696" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm362325552">
+<problem id="fs-idm362325296">
+<para id="fs-idm358497232"><link class="lo-reference" document="m67918"/>Wingra Corporation was organized in March. It is authorized to issue 500,000 shares of $100 par value 8% preferred stock. It is also authorized to issue 750,000 shares of $1 par value common stock. In its first year, the corporation has the following transactions:</para>
+<table id="fs-idm355951248" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mar. 1</entry>
+<entry valign="top" align="left">Issued 10,000 shares of preferred stock at $115 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 2</entry>
+<entry valign="top" align="left">Issued 120,000 shares of common stock at $12.50 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Apr. 10</entry>
+<entry valign="top" align="left">Issued 15,000 shares of common stock for equipment valued at $196,000. The stock is currently trading at $12 per share, and is a more reliable indicator of the value of the equipment.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 12</entry>
+<entry valign="top" align="left">Issued 10,000 shares of common stock at $15 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 5</entry>
+<entry valign="top" align="left">Issued 1,000 shares of preferred stock at $112 per share</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm372761728">Journalize the transactions.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm361479520">
+<problem id="fs-idm361479264">
+<para id="fs-idm372555184"><link class="lo-reference" document="m67918"/>Copper Corporation was organized in May. It is authorized to issue 50,000,000 shares of $200 par value 7% preferred stock. It is also authorized to issue 75,000,000 shares of $5 par value common stock. In its first year, the corporation has the following transactions:</para>
+<table id="fs-idm358803632" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">May 1</entry>
+<entry valign="top" align="left">Issued 1,000 shares of preferred stock for cash at $250 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">May 23</entry>
+<entry valign="top" align="left">Issued 2,000 shares of common stock at $15.50 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 10</entry>
+<entry valign="top" align="left">Issued 15,000 shares of common stock for equipment without a readily determinable value. The stock is currently trading at $15 per share.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm366315472">Journalize the transactions.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm366314832">
+<problem id="fs-idm356063456">
+<para id="fs-idm356063200"><link class="lo-reference" document="m67918"/>EllaJane Corporation was organized several years ago and was authorized to issue 4,000,000 shares of $50 par value 6% preferred stock. It is also authorized to issue 1,750,000 shares of $1 par value common stock. In its fifth year, the corporation has the following transactions:</para>
+<table id="fs-idm367364256" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mar. 1</entry>
+<entry valign="top" align="left">Purchased 1,000 shares of its own common stock at $11 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Apr. 10</entry>
+<entry valign="top" align="left">Reissued 500 shares of its common stock held in the treasury for $15 per share.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 12</entry>
+<entry valign="top" align="left">Reissued 500 shares of common stock at $9 per share</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm367128848">Journalize the transactions.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm367340288" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm360232064">
+<problem id="fs-idm360231808">
+<para id="fs-idm360231552"><link class="lo-reference" document="m67918"/>Autumn Corporation was organized in August. It is authorized to issue 100,000 shares of $100 par value 7% preferred stock. It is also authorized to issue 500,000 shares of $5 par value common stock. During the year, the corporation had the following transactions:</para>
+<table id="fs-idm362308224" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Aug. 22</entry>
+<entry valign="top" align="left">Issued 2,000 shares of preferred stock at $105 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Sep. 3</entry>
+<entry valign="top" align="left">Issued 80,000 shares of common stock at $13.25 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oct. 11</entry>
+<entry valign="top" align="left">Issued 12,000 shares of common stock for land valued at $156,000. The stock is currently trading at $12 per share, and the stock’s trading value is a more accurate determinant of the land’s value.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Nov. 12</entry>
+<entry valign="top" align="left">Issued 5,000 shares of common stock at $15 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 5</entry>
+<entry valign="top" align="left">Issued 1,000 shares of preferred stock at $112 per share</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm363743760">Journalize the transactions.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm361205808">
+<problem id="fs-idm361205552">
+<para id="fs-idm367943888"><link class="lo-reference" document="m67918"/>MacKenzie Mining Corporation is authorized to issue 50,000 shares of $500 par value 7% preferred stock. It is also authorized to issue 5,000,000 shares of $3 par value common stock. In its first year, the corporation has the following transactions:</para>
+<table id="fs-idm358569184" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">May 1</entry>
+<entry valign="top" align="left">Issued 3,000 shares of preferred stock for cash at $750 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">May 23</entry>
+<entry valign="top" align="left">Issued 6,000 shares of common stock at $12.50 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 10</entry>
+<entry valign="top" align="left">Issued 5,000 shares of common stock for equipment without a readily determinable value. The stock is currently trading at $11 per share</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm362497056">Journalize the transactions.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm362496416">
+<problem id="fs-idm367206720">
+<para id="fs-idm367206464"><link class="lo-reference" document="m67918"/>Paydirt Limestone, Incorporated was organized several years ago and was authorized to issue 3,000,000 shares of $40 par value 9% preferred stock. It is also authorized to issue 3,750,000 shares of $2 par value common stock. In its fifth year, the corporation has the following transactions:</para>
+<table id="fs-idm366857904" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mar. 1</entry>
+<entry valign="top" align="left">Purchased 2,000 shares of its own common stock at $15 per share</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Apr. 10</entry>
+<entry valign="top" align="left">Reissued 1,000 shares of its common stock held in the treasury for $18 per share.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jun. 12</entry>
+<entry valign="top" align="left">Reissued 1,000 shares of common stock at $12 per share</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm367380688">Journalize the transactions.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm359643264" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm361323200">
+<problem id="fs-idm361322944">
+<para id="fs-idm361322688"><link class="lo-reference" document="m67918"/>On November 7, 2013, <emphasis class="colored-text">Twitter</emphasis> released its initial public offering (IPO) priced at $26 per share. When the day ended, it was priced at $44.90, reportedly making about 1600 people into millionaires in a single day.<footnote id="fs-idm357616096">Julie Bort. “Twitter’s IPO Created 1,600 New Millionaires and a $2.2 Billion Tax Bill, Analyst Says.” <emphasis effect="italics">Business Insider</emphasis>. November 11, 2013. http://www.businessinsider.com/twitter-ipo-created-1600-millionaires-2013-11</footnote> At the time it was considered a successful IPO. Four years later, <emphasis class="colored-text">Twitter</emphasis> is trading at around $18 per share. Why do you think that occurred? Is <emphasis class="colored-text">Twitter</emphasis> profitable? How can you find out? If it is not profitable, why do investors continue to support it?</para></problem>
+</exercise>
+<exercise id="fs-idm366886144">
+<problem id="fs-idm366885888">
+<para id="fs-idm366885632"><link class="lo-reference" document="m67918"/>Research online to find a company that bought back shares of its own stock (treasury stock) within the last 6–12 months. Why did it repurchase the shares? What happened to the company’s stock price immediately after the repurchase and in the months since then? Is there any reason to think the repurchase impacted the price?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm367955504">
+<term>additional paid-in capital</term>
+<meaning id="fs-idm367954864">account for recording excess of the proceeds received from the issuance of the stock over the stock’s par value</meaning>
+</definition>
+</glossary>
+</document>

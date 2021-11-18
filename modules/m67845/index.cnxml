@@ -1,0 +1,222 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Define and Describe the Initial Steps in the Accounting Cycle</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67845</md:content-id>
+  <md:title>Define and Describe the Initial Steps in the Accounting Cycle</md:title>
+  <md:abstract/>
+  <md:uuid>7340a617-53cc-4b13-a318-f72966926340</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm395343520">This chapter on analyzing and recording transactions is the first of three consecutive chapters (including <link document="m67848">The Adjustment Process</link> and <link document="m67854">Completing the Accounting Cycle</link>) covering the steps in one continuous process known as the accounting cycle. The <term>accounting cycle</term> is a step-by-step process to record business activities and events to keep financial records up to date. The process occurs over one accounting period and will begin the cycle again in the following period. A <term>period</term> is one operating cycle of a business, which could be a month, quarter, or year. Review the accounting cycle in <link target-id="OSX_Acct_F03_02_AcctCycle"/>.</para>
+<figure id="OSX_Acct_F03_02_AcctCycle">
+<media id="fs-idm392576400" alt="A large circle labeled, in the center, The Accounting Cycle. The large circle consists of 10 smaller circles with arrows pointing from one smaller circle to the next one. The smaller circles are labeled, in clockwise order: 1 Identify and Analyze Transactions; 2 Record Transactions to Journal; 3 Post Journal Information to Ledger; 4 Prepare Unadjusted Trial Balance; 5 Adjusting Entries; 6 Prepare Adjusted Trial Balance; 7 Prepare Financial Statements; 8 Closing Entries; 9 Prepare Post-Closing Trial Balance; 10 Reversing Entries (optional).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_02_AcctCycle.jpg"/>
+</media>
+<caption>The Accounting Cycle. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm417382864">As you can see, the cycle begins with identifying and analyzing transactions, and culminates in reversing entries (which we do not cover in this textbook). The entire cycle is meant to keep financial data organized and easily accessible to both internal and external users of information. In this chapter, we focus on the first four steps in the accounting cycle: identify and analyze transactions, record transactions to a journal, post journal information to a ledger, and prepare an unadjusted trial balance.</para>
+<para id="fs-idm388236832">In <link document="m67848">The Adjustment Process</link> we review steps 5, 6, and 7 in the accounting cycle: record adjusting entries, prepare an adjusted trial balance, and prepare financial statements. In <link document="m67854">Completing the Accounting Cycle</link>, we review steps 8 and 9: closing entries and prepare a post-closing trial balance. As stated previously, we do not cover reversing entries.</para>
+<note id="fs-idm394001728" class="ethical-considerations">
+<title>Turning Hacked Gift Card Accounts into Cash</title>
+<para id="fs-idm407863744">Gift cards are a great way for a company to presell its products and to create cash flow. One of the problems with gift cards is that fraudsters are using the retailer’s weak internal controls to defraud the retailer’s customers. A fraudster can hack into autoloading gift cards and drain a customer’s bank account by buying new, physical gift cards through the autoloading gift card account. This is a real problem, and an internal control to reduce this type of fraud is to use a double verification system for the transfer of money from a bank account to reloadable gift card account. Accountants can help their organization limit gift card fraud by reviewing their company’s internal controls over the gift card process.</para>
+<para id="fs-idm402302880">A simple explanation of this fraud is that a fraudster will gain access to an individual’s email account through phishing or by other means, such as a fraudster putting a key logger on a public computer or in a corrupted public Wi-Fi. The individual uses the same password for the reloadable gift card as his or her email account, and the fraudster will see emails about the gift card. The fraudster contacts the retailer posing as the individual, and the retailer creates an in-store gift card redemption code, and the fraudster or his or her accomplice will go to the store posing as the individual and buy physical gift cards with the redemption code. The customer’s bank account will be drained, and the customer will be upset. In another gift card fraud, the individual’s credit card is stolen and used to buy physical gift cards from a retailer. This type of fraud causes problems for the retailer, for the retailer’s reputation is damaged through the implementation of poor internal controls.</para>
+<para id="fs-idm359761968">Does the fraudster use the fraudulently acquired gift cards? No, there is an entire market for selling gift cards on <emphasis class="colored-text">Craigslist</emphasis>, just go look and see how easy it is to buy discounted gift cards on <emphasis class="colored-text">Craigslist</emphasis>. Also, there are companies such as <emphasis class="colored-text">cardcash.com</emphasis> and <emphasis class="colored-text">cardhub.com</emphasis> that buy and resell gift cards. The fraudster just sells the gift cards, and the retailer has no idea it is redeeming fraudulently acquired gift cards. Through the implementation of proper internal controls, the accountant can help limit this fraud and protect his or her employer’s reputation.</para>
+</note>
+<section id="fs-idm366284800">
+<title>First Four Steps in the Accounting Cycle</title>
+<para id="fs-idm393571104">The first four steps in the accounting cycle are (1) identify and analyze transactions, (2) record transactions to a journal, (3) post journal information to a ledger, and (4) prepare an unadjusted trial balance. We begin by introducing the steps and their related documentation.</para>
+<figure id="OSX_Acct_F03_02_First4">
+<media id="fs-idm635600112" alt="Four boxes with arrows pointing from one box to the next. The boxes are labeled, from left to right: 1 Identify and Analyze Transactions; 2 Record Transaction to Journal; 3 Post Journal Information to Ledger; 4 Prepare Unadjusted Trial Balance.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_02_First4.jpg"/>
+</media>
+<caption>Accounting Cycle. The first four steps in the accounting cycle. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm390478144">These first four steps set the foundation for the recording process.</para>
+<para id="fs-idm391065120"><emphasis effect="bold">Step 1</emphasis>. Identifying and analyzing transactions is the first step in the process. This takes information from original sources or activities and translates that information into usable financial data. An <term>original source</term> is a traceable record of information that contributes to the creation of a business transaction. For example, a sales invoice is considered an original source. Activities would include paying an employee, selling products, providing a service, collecting cash, borrowing money, and issuing stock to company owners. Once the original source has been identified, the company will analyze the information to see how it influences financial records.</para>
+<para id="fs-idm408515056">Let’s say that Mark Summers of Supreme Cleaners (from <link document="m67842">Why It Matters</link>) provides cleaning services to a customer. He generates an invoice for $200, the amount the customer owes, so he can be paid for the service. This sales receipt contains information such as how much the customer owes, payment terms, and dates. This sales receipt is an original source containing financial information that creates a business transaction for the company.</para>
+<para id="fs-idm416399824"><emphasis effect="bold">Step 2</emphasis>. The second step in the process is recording transactions to a journal. This takes analyzed data from step 1 and organizes it into a comprehensive record of every company transaction. A <term>transaction</term> is a business activity or event that has an effect on financial information presented on financial statements. The information to record a transaction comes from an original source. A <term>journal</term> (also known as the <term class="no-emphasis">book of original entry</term> or <term class="no-emphasis">general journal</term>) is a record of all transactions.</para>
+<para id="fs-idm391353088">For example, in the previous transaction, Supreme Cleaners had the invoice for $200. Mark Summers needs to record this $200 in his financial records. He needs to choose what accounts represent this transaction, whether or not this transaction will increase or decreases the accounts, and how that impacts the accounting equation before he can record the transaction in his journal. He needs to do this process for every transaction occurring during the period.</para>
+<para id="fs-idm390926320"><link target-id="OSX_Acct_F03_02_Journal"/> includes information such as the date of the transaction, the accounts required in the journal entry, and columns for debits and credits.</para>
+<figure id="OSX_Acct_F03_02_Journal">
+<media id="fs-idm416294832" alt="A blank page from an accounting journal. The top line is labeled General Journal. Below that are four columns, labeled from left to right: Date, Account Title, Debit, Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_02_Journal.jpg"/>
+</media>
+<caption>General Journal. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm391294240"><emphasis effect="bold">Step 3</emphasis>. The third step in the process is posting journal information to a ledger. <term>Posting</term> takes all transactions from the journal during a period and moves the information to a general ledger, or ledger. As you’ve learned, account balances can be represented visually in the form of T-accounts.</para>
+<para id="fs-idm391352304">Returning to Supreme Cleaners, Mark identified the accounts needed to represent the $200 sale and recorded them in his journal. He will then take the account information and move it to his general ledger. All of the accounts he used during the period will be shown on the general ledger, not only those accounts impacted by the $200 sale.</para>
+<figure id="OSX_Acct_F03_02_Ledger">
+<media id="fs-idm367413344" alt="Two T-accounts shown side by side. The left T-account is labeled Accounts Receivable. It contains a debit entry of $200 that is labeled January 1 and a debit balance of $200. The right T-account is labeled Cleaning Revenue. It contains a credit entry of $200 that is labeled January 1 and a credit balance of $200.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_02_Ledger.jpg"/>
+</media>
+<caption>General Ledger in T-Account Form. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm409952128"><emphasis effect="bold">Step 4</emphasis>. The fourth step in the process is to prepare an unadjusted trial balance. This step takes information from the general ledger and transfers it onto a document showing all account balances, and ensuring that debits and credits for the period balance (debit and credit totals are equal).</para>
+<para id="fs-idm388558000">Mark Summers from Supreme Cleaners needs to organize all of his accounts and their balances, including the $200 sale, onto a trial balance. He also needs to ensure his debits and credits are balanced at the culmination of this step.</para>
+<figure id="OSX_Acct_F03_02_UTB">
+<media id="fs-idm402215728" alt="Supreme Clean, Trial Balance, April 30, 2018. The balance of each account, whether debit or credit, is listed as XXX. Debit balance accounts are listed as: Cash, Accounts receivable, Office supplies, Prepaid insurance; Equipment, Dividends, Gas expense, and Advertising expense. Credit balance accounts are listed as: Accounts payable, Unearned cleaning revenue, Common stock, and Cleaning revenue.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_02_UTB.jpg"/>
+</media>
+<caption>Unadjusted Trial Balance. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm395323984">It is important to note that recording the entire process requires a strong attention to detail. Any mistakes early on in the process can lead to incorrect reporting information on financial statements. If this occurs, accountants may have to go all the way back to the beginning of the process to find their error. Make sure that as you complete each step, you are careful and really take the time to understand how to record information and why you are recording it. In the next section, you will learn how the accounting equation is used to analyze transactions.</para>
+<note id="fs-idm393677520" class="concepts-practice">
+<title>Forensic Accounting</title>
+<para id="fs-idm414240128">Ever dream about working for the Federal Bureau of Investigation (FBI)? As a forensic accountant, that dream might just be possible. A forensic accountant investigates financial crimes, such as tax evasion, insider trading, and embezzlement, among other things. Forensic accountants review financial records looking for clues to bring about charges against potential criminals. They consider every part of the accounting cycle, including original source documents, looking through journal entries, general ledgers, and financial statements. They may even be asked to testify to their findings in a court of law.</para>
+<para id="fs-idm363310752">To be a successful forensic accountant, one must be detailed, organized, and naturally inquisitive. This position will need to retrace the steps a suspect may have taken to cover up fraudulent financial activities. Understanding how a company operates can help identify fraudulent activities that veer from the company’s position. Some of the best forensic accountants have put away major criminals such as Al Capone, Bernie Madoff, Ken Lay, and Ivan Boesky.</para>
+</note>
+<note id="fs-idm673611360" class="link-to-learning">
+<para id="fs-idm410835456">A tool that can be helpful to businesses looking for an easier way to view their accounting processes is to have drillable financial statements. This feature can be found in several software systems, allowing companies to go through the accounting cycle from transaction entry to financial statement construction. Read this <link url="https://openstax.org/l/50DrillFinState"><emphasis effect="italics">Journal of Accountancy</emphasis> column on drillable financial statements</link> to learn more.</para>
+</note>
+</section>
+<section id="fs-idm388394288" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm403284720" list-type="bulleted" bullet-style="bullet">
+<item>Step 1 in the accounting cycle: Identifying and analyzing transactions requires a company to take information from an original source, identify its purpose as a financial transaction, and connect that information to an accounting equation.</item>
+<item>Step 2 in the accounting cycle: Recording transactions to a journal takes financial information identified in the transaction and copies that information, using the accounting equation, into a journal. The journal is a record of all transactions.</item>
+<item>Step 3 in the accounting cycle: Posting journal information to a ledger takes all information transferred to the journal and posts it to a general ledger. The general ledger in an accumulation of all accounts a company maintains and their balances.</item>
+<item>Step 4 in the accounting cycle: Preparing an unadjusted trial balance requires transfer of information from the general ledger (T-accounts) to an unadjusted trial balance showing all account balances.</item>
+</list>
+</section>
+<section id="fs-idm680149632" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm409252656">
+<problem id="fs-idm406510160">
+<para id="fs-idm416845248"><link class="lo-reference" document="m67845"/>Which process of the accounting cycle often requires the most analytical thought?</para>
+<list id="fs-idm406837424" list-type="enumerated" number-style="upper-alpha">
+<item>making a journal entry</item>
+<item>posting transactions to accounts</item>
+<item>summarizing the trial balance</item>
+<item>preparing the financial statements</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm408883248">
+<problem id="fs-idm375897488">
+<para id="fs-idm391861536"><link class="lo-reference" document="m67845"/>The step-by-step process to record business activities and events to keep financial records up to date is ________.</para>
+<list id="fs-idm389744064" list-type="enumerated" number-style="upper-alpha">
+<item>day-to-day cycle</item>
+<item>accounting cycle</item>
+<item>general ledger</item>
+<item>journal</item>
+</list>
+</problem>
+<solution id="fs-idm393766144">
+<para id="fs-idm684883040">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm402068528">
+<problem id="fs-idm395812064">
+<para id="fs-idm395916480"><link class="lo-reference" document="m67845"/>One operating cycle of a business, which could be a month, quarter, or year, is commonly referred to as which of the following?</para>
+<list id="fs-idm402134352" list-type="enumerated" number-style="upper-alpha">
+<item>period</item>
+<item>round</item>
+<item>tally</item>
+<item>mark</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm400679904">
+<problem id="fs-idm385540208">
+<para id="fs-idm388468096"><link class="lo-reference" document="m67845"/> ________ takes all transactions from the journal during a period and moves the information to a general ledger (ledger).</para>
+<list id="fs-idm393212192" list-type="enumerated" number-style="upper-alpha">
+<item>Hitching</item>
+<item>Posting</item>
+<item>Vetting</item>
+<item>Laxing</item>
+</list>
+</problem>
+<solution id="fs-idm409303808">
+<para id="fs-idm374595264">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm357461072" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm390960624">
+<problem id="fs-idm378457040">
+<para id="fs-idm635584672"><link class="lo-reference" document="m67845"/>Which is the “book of original entry”?</para>
+</problem>
+<solution id="fs-idm409221728">
+<para id="fs-idm406585792">The general journal.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm413583664" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm393596400">
+<problem id="fs-idm393853952">
+<para id="fs-idm410844080"><link class="lo-reference" document="m67845"/>From the following list, identify which items are considered original sources:</para>
+<list id="fs-idm414273744" list-type="enumerated" number-style="upper-alpha">
+<item>prepaid insurance</item>
+<item>bank statement</item>
+<item>sales ticket</item>
+<item>general journal</item>
+<item>trial balance</item>
+<item>balance sheet</item>
+<item>telephone bill</item>
+<item>invoice from supplier</item>
+<item>company sales account</item>
+<item>income statement</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm394552096" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm397979200">
+<problem id="fs-idm388463632">
+<para id="fs-idm409747024"><link class="lo-reference" document="m67845"/>From the following list, identify which items are considered original sources:</para>
+<list id="fs-idm404953872" list-type="enumerated" number-style="upper-alpha">
+<item>accounts receivable</item>
+<item>receipt from post office for post office box</item>
+<item>purchase order</item>
+<item>general ledger</item>
+<item>adjusted trial balance</item>
+<item>statement of retained earnings</item>
+<item>electric bill</item>
+<item>packing slip</item>
+<item>company expense account</item>
+<item>statement of cash flows</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm410360384" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm391439664">
+<problem id="fs-idm399690816">
+<para id="fs-idm635596496"><link class="lo-reference" document="m67845"/>Is the order in which we place information in the journal and ledger important?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm409670816">
+<term>accounting cycle</term>
+<meaning id="fs-idm389154608">step-by-step process to record business activities and events to keep financial records up to date</meaning>
+</definition>
+<definition id="fs-idm684949008">
+<term>journal</term>
+<meaning id="fs-idm400475552">record of all transactions</meaning>
+</definition>
+<definition id="fs-idm357284448">
+<term>original source</term>
+<meaning id="fs-idm389718000">traceable record of information that contributes to the creation of a business transaction</meaning>
+</definition>
+<definition id="fs-idm410606752">
+<term>period</term>
+<meaning id="fs-idm394376752">one operating cycle of a business, which could be a month, quarter, or year</meaning>
+</definition>
+<definition id="fs-idm409720496">
+<term>posting</term>
+<meaning id="fs-idm360995136">takes all transactions from the journal during a period and moves the information to a general ledger (ledger)</meaning>
+</definition>
+<definition id="fs-idm399345936">
+<term>transaction</term>
+<meaning id="fs-idm361108096">business activity or event that has an effect on financial information presented on financial statements</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,448 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Identify Relevant Information for Decision-Making</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68081</md:content-id>
+  <md:title>Identify Relevant Information for Decision-Making</md:title>
+  <md:abstract/>
+  <md:uuid>1eff3b98-4a77-44a2-b619-53604e12797a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm194761072">Almost everything we do in life results from choosing between alternatives, and the choices we make result in different consequences. For example, when choosing whether or not to eat breakfast before going to class, you face two alternatives and two sets of consequences. Eating breakfast means you must get up a little earlier, have food available, and be willing to prepare the food. Not eating means sleeping in longer, not having to plan food, and being hungry during class. Just as our lives are fraught with decisions large and small, the same is true for businesses. Almost every aspect of being in business involves choosing between alternatives, and each alternative typically has one or more consequences. Understanding how businesses make decisions paves the way not only to better decision-making processes but potentially to better outcomes.</para>
+<para id="fs-idm200929792">Decisions made by businesses can have short-term effects or long-term impacts, or in some situations, both. Short-term decisions often address a temporary circumstance or an immediate need while long-term decisions align more with permanent problem solving and meeting strategic goals. Because these two types of decisions require different types of analyses, we will consider short-term decision-making here and long-term decision-making in <link document="m68087">Capital Budgeting Decision</link>. Accounting distinguishes between short-term and long-term decisions not only because of the difference in the general nature of these decisions but also because the types of analyses differ significantly between short-term and long-term decision categories. As the time horizon over which the decision will have an impact expands, more costs become relevant to the decision-making process. In addition, when a time element is considered, there will be additional factors such as interest (paid or received) that will have a greater influence on decisions. <link target-id="fs-idm187816496"/> provides examples of short-term and long-term business decisions.</para>
+<table id="fs-idm187816496" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Examples of Short-Term and Long-Term Business Decisions</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Short-Term Business Decisions</entry>
+<entry valign="top" align="center">Long-Term Business Decisions</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><list id="fs-idm199508176" list-type="bulleted" bullet-style="bullet">
+<item>Accepting a special production order</item>
+<item>Determining the best product mix from current products</item>
+<item>Outsourcing a part or service</item>
+<item>Further processing or refining a current product</item>
+</list></entry>
+<entry valign="top" align="left"><list id="fs-idm177408400" list-type="bulleted" bullet-style="bullet">
+<item>Buying new equipment versus remodeling old equipment</item>
+<item>Choosing which products to manufacture</item>
+<item>Expanding into a new area or country</item>
+<item>Diversifying by buying another business</item>
+</list></entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Short-term and long-term business decisions should be analyzed using different frameworks.</caption>
+</table>
+<note id="fs-idm177259968" class="continuing-application">
+<title>Short-Term Decision-Making</title>
+<para id="fs-idm198121184">Considering the business challenges facing <emphasis class="colored-text">Gearhead Outfitters</emphasis>, what short-term decisions might the company encounter? Remember that the retailer sells men’s, women’s and children’s outdoor clothing, footwear, and accessories. <emphasis class="colored-text">Gearhead</emphasis> must carry a certain level and variety of inventory to meet the demands of its customers. The company will have to maintain appropriate accounting records to make proper business decisions to promote sustainability and growth.</para>
+<para id="fs-idm194743376">How might <emphasis class="colored-text">Gearhead</emphasis> be able to compete with larger chains and remain profitable? Will every sale result in the anticipated profit to the company? Consider what specialized short-term decision-making processes the company may use to meet its goals. Should more of an item than normal be purchased for resale to receive a larger discount from the supplier? What information about cost, volume, and profit is needed to make a sound business decision in this case? Some items may be sold at a loss (or lesser profit) to attract customers to the store. What type of information and accounting system is needed to help in this situation? The company requires relevant, consistent, and reliable data to determine the proper course of action.</para>
+<para id="fs-idm203818544">Short-term decision-making is vital in any business. Consider this concept in relation to <link document="m68076">Centralized vs. Decentralized Management</link> and how a company’s approach may affect the decision-making process. Discuss possible short-term issues and decisions, management focuses, and whether or not the centralized versus decentralized style will aid in company flexibility and success. Also, think in terms of how the decision-making process will be evaluated.</para></note>
+<section id="fs-idm199983664">
+<title>Relevant Information for Short-Term Decision-Making</title>
+<para id="fs-idm221125008">Business decision-making can be outlined as a process that is applied by management with each decision that is made. The process of decision-making in a managerial business environment can be summed up in these steps.</para>
+<list id="fs-idm206707120" list-type="enumerated" number-style="arabic">
+<item>Identify the objective or goal. For a business, typically the goal is to maximize revenues or minimize costs.</item>
+<item>Identify alternative courses of action that can achieve the goal or address an obstacle that is hindering goal achievement.</item>
+<item>Perform a comprehensive analysis of potential solutions. This includes identifying revenues, costs, benefits, and other financial and qualitative variables.</item>
+<item>Decide, based upon the analysis, the best course of action.</item>
+<item>Review, analyze, and evaluate the results of the decision.</item>
+</list>
+<para id="fs-idm196648976">The first step of the decision-making process is to identify the goal. In the decisions discussed in this course, the quantitative goal will either be to maximize revenues or to minimize costs. The second step is to identify the alternative courses of action to achieve the goal. (In the real world, steps one and two may require more thought and research that you will learn about in advanced cost accounting and management courses.). This chapter focuses on steps three and four, which involve <term>short-term decision analysis</term>: determining the appropriate information necessary for making a decision that will impact the company in the short term, usually 12 months or fewer, and using that information in a proper analysis in order to reach an informed decision among alternatives. Step five, which involves reviewing and evaluating the decision, is briefly addressed with each type of decision analyzed.</para>
+<para id="fs-idm208708368">Though these same general steps could be used in long-term decision analyses, the nature of long-term decisions is different. Short-term decisions are typically operational in nature: making versus buying a component of a product, using scarce resources, selling a product as-is or processing it further into a different product. It is relatively easy to change a short-term decision with minimal impact on the company. Long-term decisions are strategic in nature and typically involve large sums of money. The effects of a long-term decision can have significant financial impact on a company for years. Examples of long-term decisions include replacing manufacturing equipment, building a new factory, or deciding to eliminate a product line. While you’ve learned how managerial accounting classifies, tracks, monitors, and controls costs, managerial accountants also closely analyze revenues, which are less controllable than costs, but are important in these decisions. As stated in the first step of the decision-making process, maximizing revenues is usually one of the goals of an organization. Therefore, making some short-term decisions requires analysis of both costs and revenues.</para>
+<para id="fs-idm197983888">In carrying out step three of the managerial decision-making process, a differential analysis compares the relevant costs and revenues of potential solutions. What does this involve? First, it is important to understand that there are many types of short-term decisions that a business may face, but these decisions always involve choosing between alternatives. Examples of these types of decisions include determining whether to accept a special order; making a product or component versus buying the product or component; performing additional processing on a product; keeping versus eliminating a product or segment; or determining whether to take on a new project. In each of these situations, the business should compare the relevant costs and the relevant revenues of one alternative to the relevant costs and relevant revenues of the other alternative(s). Therefore, an important step in the differential analysis of potential solutions is to identify the relevant costs and relevant revenues of the decision.</para>
+<para id="fs-idm199993824">What does it mean for something to be relevant? In the context of decision-making, something is relevant if it will influence the decision being made. For example, suppose you have two options for a summer job—either flagging traffic for a road crew or working for a landscaping company doing lawn care. For either job, you will be required to have industrial grade sound protectors (plugs or headphones) for your ears. This cost would not be relevant because it is the same under either alternative, so it will not influence your decision between the two jobs; it would be considered an <term>irrelevant cost</term>. You also believe your transportation costs will be the same for either job; thus this would also be an irrelevant cost.</para>
+<para id="fs-idm210368880">However, if you are required to have steel-toed boots for the road work job but can wear any type of work boot for the landscaping job, you would need to consider the difference between the costs, or the <term>differential cost</term>, of these two types of boots. This difference in cost between the two pairs of boots would be designated as a <term>relevant cost</term> because it influences your decision.</para>
+<para id="fs-idm219240800">The two jobs also may have differences in revenues, called a <term>differential revenue</term>. Because the differential revenue influences the decision, it is also a <term>relevant revenue</term>. If both jobs pay the same hourly wage, it would have an <term>irrelevant revenue</term>, but if the road crew job offers overtime for any time worked over 40 hours, then this overtime wage has the potential to be a relevant revenue if overtime is a likely occurrence. Looking only at these differences—of both costs and revenues—between the alternatives, is known as <term>differential analysis</term>.</para>
+<para id="fs-idm217722432">In conducting these types of analyses between alternatives, the initial focus will be on each <term>quantitative factor</term> of the analysis—in other words, the component that can be measured numerically. Examples of quantitative factors in business include sales growth, number of defective parts produced, or number of labor hours worked. However, in decision-making, it is important also to consider each <term>qualitative factor</term>, which is one that cannot be measured numerically. For example, using the same summer job scenario, qualitative factors may include the environment in which you would be working (road dust and tar odors versus pollen and mower exhaust fumes), the amount of time exposed to the sun, the people with whom you will be working (working with friends versus making new friends), and weather-related issues (both jobs are outdoors, but could one job send you home for the day due to weather?). Examples of qualitative factors in business include employee morale, customer satisfaction, and company or brand image. In making short-term decisions, a business will want to analyze both qualitative and quantitative factors.</para>
+<para id="fs-idm199594848">In short-term decision-making, revenues are often easier to evaluate than costs. In addition, each alternative typically only has one possible one revenue outcome even though there are many costs to consider for each alternative. How do we know if a cost will have an impact on the decision? The starting point is to understand the various labels that are attached to costs in these decision-making environments.</para>
+<section id="fs-idm203554000">
+<title>Avoidable versus Unavoidable Costs</title>
+<para id="fs-idm200703312">Management must determine if a cost is avoidable or unavoidable because in the short run, only avoidable costs are relevant for decision-making purposes. An <term>avoidable cost</term> is one that can be eliminated (in whole or in part) by choosing one alternative over another. For example, assume that a bike shop offers their customers custom paint jobs for bikes that the customers already own. If they eliminate the service, the cost of the bike paint could be eliminated. Also assume that they had been employing a part-time painter to do the work. The painter’s compensation would also be an avoidable cost.</para>
+<para id="fs-idm208671616">An <term>unavoidable cost</term> is one that does not change or go away in the short-run by choosing one alternative over another. For example, a company might sign a long-term lease on equipment or a production facility. These types of leases typically don’t allow for cancellation, so if this one does not, then their required payments are unavoidable costs for the duration of the lease.</para>
+<para id="fs-idm194616560"><term class="no-emphasis">Variable costs</term> are avoidable costs, since variable costs do not exist if the product is no longer made, or if the portion of the business (such as a segment or division) that generated the variable costs ceases to operate. <term class="no-emphasis">Fixed costs</term>, on the other hand, may be unavoidable, partially unavoidable, or avoidable only in certain circumstances. Remember that fixed costs tend to remain constant for a period of time and within a relevant range of production and are not easily eliminated in the short-run. Therefore, most fixed costs also are unavoidable. If a fixed cost is specific only to one of the alternatives, then that fixed cost also may be avoidable. Avoidable costs are future costs that are relevant to decision-making. Past costs are never an avoidable cost.</para>
+<para id="fs-idm216887824">Recall that we are using a short-term viewpoint to determine whether or not costs are avoidable. In the long run, virtually all costs are avoidable. For example, assume that a company has a long-term, ten-year lease on a production facility that cannot be cancelled. For the first ten years it would be noncancelable and thus unavoidable. But after ten years it would become avoidable.</para>
+<note id="fs-idm234404576" class="your-turn">
+<title>AlexCo’s Wagons</title>
+<para id="fs-idm245415632">AlexCo produces collapsible wagons that are popular with beachgoers, shoppers, gardeners, parents, and tailgaters. Annual sales have been 100,000 wagons per year. The retail selling price of each wagon is $67.00. To date, AlexCo has produced each of the components used in making the wagons but has been approached by DAL, Inc. with an offer to provide the axle and wheel assembly for $18.75 per assembly. AlexCo’s costs to produce the axle and wheel assembly are $9.00 in direct materials, $6.50 in direct labor, $3.57 in variable overhead, and $2.50 in fixed overhead. Twenty-five percent of the fixed overhead is avoidable if the assembly is produced by DAL. Should AlexCo continue to make the axle and wheel assembly or should it buy the assembly from DAL, Inc.?</para>
+<para id="fs-idm239148384"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm212548672" alt="Relevant costs to make internally: Direct materials $9.00, Direct labor $6.50, Variable overhead $3.57, Avoidable fixed costs $0.63 equals Total unit relevant cost $19.70. Multiply times Units required 100,000 equals Total relevant costs $1,970,000. Relevant costs to buy from DAL, Inc.: Total unit relevant cost $18.75 times Units required 100,000 equals $1,875,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_03_YT01Sn_img.jpg"/>
+</media>
+<para id="fs-idm242169280">Ignoring qualitative factors, it would be more cost effective for AlexCo to buy the axle and wheel assembly from DAL, Inc. However, AlexCo should be certain of any qualitative issues and not solely base their decision on the quantitative analysis.</para>
+</note>
+</section>
+<section id="fs-idm201345616">
+<title>Sunk Costs</title>
+<para id="fs-idm224197872">A <term>sunk cost</term> is one that cannot be avoided because it has already occurred. A sunk cost will not change regardless of the alternative that management chooses; therefore, sunk costs have no bearing on future events and are not relevant in decision-making. The basic premise sounds simple enough, but sunk costs are difficult to ignore due to human nature and are sometimes incorrectly included in the decision-making process. For example, suppose you have an old car, a hand-me-down from your grandmother, and last year you spent $1,600 on repairs and new tires and were just told by your mechanic that the car needs $1,200 in repairs to operate safely. Your goal is to have a safe and reliable car. Your alternatives are to get the repairs completed or trade in the car for a newer used car.</para>
+<para id="fs-idm201037984">From a quantitative perspective, you have gathered the following information to help with your decision. The trade-in value of your old car will be the minimum given by the dealer, or $200. The newer used car will require you to make monthly payments of $150 for two years. In analyzing your two alternatives, what costs do you consider? Remember, the $1,600 you have already spent (note the past tense) is a sunk cost; it is a consequence of a past decision. In this example, the relevant costs for each alternative are the following: $1,200 in current repair costs to keep your current car or $3,400 (from the 24 payments of $150 minus $200 for the trade in) to buy a newer used car. Obviously, you also would consider qualitative factors, such as the sentimental value of your grandmother’s car or the excitement of having a newer car.</para>
+<para id="fs-idm200883424">Sunk costs are most problematic for business decisions when they pertain to existing equipment. The book value of an asset (historical cost – accumulated depreciation) is a sunk cost regardless of whether a business keeps the asset or disposes of it in some manner. The cost of the asset occurred in the past and therefore is sunk and irrelevant to the decision at hand. Mangers may be reluctant to ignore sunk costs when making decisions, especially if the prior decision to purchase the asset was an unwise one. Often, when management takes a path of action that is not achieving the desired results, managers may continue the same path in the hope that the effect of prior decisions will improve the results. The use of the word <emphasis effect="italics">prior</emphasis> is a key indicator that information is nonrelevant to a current decision. Holding on to old decisions or old commitments is common because letting them go forces management to admit they made a bad decision.</para>
+</section>
+<section id="fs-idm198818128">
+<title>Future Costs That Do Not Differ</title>
+<para id="fs-idm210746288">Any future cost that does not differ between the alternatives is not a relevant cost for the decision. For example, if a company is considering baking either bagels or doughnuts and both baked goods require $0.30 worth of flour, then the cost of flour would not be a relevant cost in determining which of the two had the highest production cost. As relevant information for short-term decision-making, the cost of sound protectors for your summer job would not be relevant to your decision because that cost exists in both scenarios. Another irrelevant cost would be your transportation cost, since that cost is also the same regardless of the job you choose. In another example, if a company is planning to produce either red widgets or blue wingdings and will need to hire 10 additional employees to produce either of the goods, the cost of those 10 employees is irrelevant because it does not differ between the alternatives.</para>
+<note id="fs-idm205223632" class="ethical-considerations">
+<title>Johnson &amp; Johnson’s 1982 Recall and Replacement of All Tylenol in the World</title>
+<para id="fs-idm196752368">In 1982, <emphasis class="colored-text">Johnson &amp; Johnson</emphasis> was faced with a large-scale business and ethical dilemma. During the course of several days beginning on September 29, 1982, seven deaths occurred in the Chicago area that were attributed to consuming capsules of Extra-Strength Tylenol. The painkiller was, at the time, <emphasis class="colored-text">Johnson &amp; Johnson</emphasis>’s best-selling product. The company had to decide if the short-term cost of replacing the Tylenol was worth the future cost to their reputation and their customer’s health and safety. At tremendous expense, <emphasis class="colored-text">Johnson &amp; Johnson</emphasis> “placed consumers first by recalling 31 million bottles of Tylenol capsules from store shelves and offering replacement product in the safer tablet form free of charge.”<footnote id="fs-idm199742800">Judith Rehak. “Tylenol Made a Hero of Johnson &amp; Johnson: The Recall That Started Them All.” <emphasis effect="italics">New York Times</emphasis>. Mar. 23, 2002. https://www.nytimes.com/2002/03/23/your-money/IHT-tylenol-made-a-hero-of-johnson-johnson-the-recall-that-started.html</footnote></para>
+<para id="fs-idm200952608">As it was later discovered, someone was lacing Tylenol capsules with cyanide and returning the pills in the original packages to store shelves. However, <emphasis class="colored-text">Johnson &amp; Johnson</emphasis>’s<emphasis class="colored-text"/> decision to incur short-term costs by recalling all of their pills ultimately paid off, as in the long run, the company’s stock value increased and Tylenol sales recovered. One could look at the decision as an opportunity cost: <emphasis class="colored-text">Johnson &amp; Johnson</emphasis> had to choose between two alternatives. The company could have chosen a short-term solution with reduced short-term losses, but by making an ethical business decision, the long-term rewards were greater than the short-term savings.</para>
+</note>
+</section>
+<section id="fs-idm219964864">
+<title>Opportunity Costs</title>
+<para id="fs-idm214272416">When choosing between two alternatives, usually only one of the two choices can be selected. When this is the case, you may be faced with <term>opportunity costs</term>, which are the costs associated with not choosing the other alternative. For example, if you are trying to choose between going to work immediately after completing your undergraduate degree or continuing to graduate school, you will have an opportunity cost. If you choose to go to work immediately, your opportunity cost is forgoing a graduate degree and any potential job limitations or advancements that result from that decision. If you choose instead to go directly into graduate school, your opportunity cost is the income that you could have been earning by going to work immediately upon graduation.</para>
+<note id="fs-idm213119776" class="your-turn">
+<title>Costs and Revenue at Carolina Clusters</title>
+<para id="fs-idm195488272">Carolina Clusters, Inc., a candy manufacturer in a resort town, just bought a new taffy pulling machine for $27,000 and is planning to increase the production of salt-water taffy. Due to the increased production, Carolina is deciding between hiring two part-time college students or one full-time employee. Each college student would work half days totaling 20 hours per week, and would earn $12 per hour. The full-time employee would work full days 40 hours per week and would earn $12 per hour plus the equivalent of $2 per hour in benefits. Each employee is given two t-shirts to wear as their uniform. The t-shirts cost Carolina $8 each. In addition, Carolina provides disposable hair coverings and gloves for the employees. Each employee uses, on average, six sets of gloves per eight-hour shift or four sets per four-hour shift. One hair covering per shift per person is typical. The cost of the hair covering is $0.05 per covering and the cost of a pair of gloves is $0.02 per pair. Identify any relevant costs, relevant revenues, sunk costs, and opportunity costs that Carolina Clusters needs to consider in making the decision whether to hire two part-time employees or one full-time employee.</para>
+<para id="fs-idm210149696"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm197378000">Relevant costs:</para>
+<list id="fs-idm199216080" list-type="bulleted">
+<item>$2 per hour for benefits</item>
+<item>$16 for two t-shirts: Hiring one full-time person will result in a $16 expenditure for t-shirts. Hiring two college students would result in $32 in t-shirt expenditures, thus the relevant t-shirts costs is the $16 difference.</item>
+<item>$0.05 for a hair covering: Hiring one full-time person will result in $0.05 per day in hair covering costs but hiring two college students would result in $0.10 per day in hair covering costs thus the relevant hair covering cost is the $0.05 difference.</item>
+<item>$0.04 for a pair of gloves: Hiring one full-time person will result in $0.12 (6 × $0.02) per day in glove costs, but hiring two college students would result in $0.16 (8 × $0.02) per day in glove costs. Thus, the relevant glove cost is the $0.04 difference.</item>
+</list>
+<para id="fs-idm222528288">Relevant revenues: None</para>
+<para id="fs-idm222624096">Sunk costs: $27,000 for the taffy machine</para>
+<para id="fs-idm210235088">Opportunity costs: None</para>
+</note>
+</section>
+</section>
+<section id="fs-idm177181632" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm200943648" list-type="bulleted" bullet-style="bullet">
+<item>Decision-making involves choosing between alternatives.</item>
+<item>A critical step in the decision-making process is identification of all the relevant information for each alternative. Relevant information is any information that would have an impact on the decision.</item>
+<item>Relevant information can come in the form of costs or revenues, or be nonfinancial in form. For information regarding costs, this means determining which costs are avoidable and which are unavoidable.</item>
+</list>
+</section>
+<section id="fs-idm221613088" class="multiple-choice">
+<exercise id="fs-idm197507728">
+<problem id="fs-idm196683616">
+<para id="fs-idm213628976"><link class="lo-reference" document="m68081"/>________ are the costs associated with <emphasis effect="italics">not</emphasis> choosing the other alternative.</para>
+<list id="fs-idm224018512" list-type="enumerated" number-style="upper-alpha">
+<item>Sunk costs</item>
+<item>Opportunity costs</item>
+<item>Differential costs</item>
+<item>Avoidable costs</item>
+</list>
+</problem>
+<solution id="fs-idm221011040">
+<para id="fs-idm224089312">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm224442832">
+<problem id="fs-idm210536544">
+<para id="fs-idm216289408"><link class="lo-reference" document="m68081"/>Which type of incurred costs are <emphasis effect="italics">not</emphasis> relevant in decision-making (i.e., they have no bearing on future events) and should be excluded in decision-making?</para>
+<list id="fs-idm177390800" list-type="enumerated" number-style="upper-alpha">
+<item>avoidable costs</item>
+<item>unavoidable costs</item>
+<item>sunk costs</item>
+<item>differential costs</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm215177952">
+<problem id="fs-idm203195776">
+<para id="fs-idm215877584"><link class="lo-reference" document="m68081"/>The managerial decision-making process has which of the following as its third step?</para>
+<list id="fs-idm211751232" list-type="enumerated" number-style="upper-alpha">
+<item>Review, analyze and evaluate the results of the decision.</item>
+<item>Decide, based upon the analysis, the best course of action.</item>
+<item>Identify alternative courses of action to achieve a goal or solve a problem.</item>
+<item>Perform a comprehensive differential (differential) analysis of potential solutions.</item>
+</list>
+</problem>
+<solution id="fs-idm177872912">
+<para id="fs-idm196407536">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm201269280">
+<problem id="fs-idm214681904">
+<para id="fs-idm201080656"><link class="lo-reference" document="m68081"/>Which of the following is <emphasis effect="italics">not</emphasis> one of the five steps in the decision-making process?</para>
+<list id="fs-idm197908832" list-type="enumerated" number-style="upper-alpha">
+<item>identify alternatives</item>
+<item>review, analyze, and evaluate decision</item>
+<item>decide best action</item>
+<item>consult with CFO concerning variable costs</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm200503824" class="questions">
+<exercise id="fs-idm221183296">
+<problem id="fs-idm210561680">
+<para id="fs-idm188112320"><link class="lo-reference" document="m68081"/>Your roommate at school believes that all fixed costs are always avoidable. Do you agree? How would you explain your point of view to your roommate?</para>
+</problem>
+<solution id="fs-idm199928096">
+<para id="fs-idm219832640">Primarily disagree, but there are a few times where fixed costs can be avoided or partially avoided. Variable costs are avoidable costs since variable costs do not exist if the product is no longer made, or if the portion of the business (such as a segment or division) that generated the variable costs ceases to operate. Fixed costs, on the other hand, may be unavoidable, partially unavoidable, or avoidable only in certain circumstances. When a company discontinues a product or service, certain fixed costs may not be required.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm213637184">
+<problem id="fs-idm201448752">
+<para id="fs-idm198129504"><link class="lo-reference" document="m68081"/>Explain how to differentiate short-term decisions from long-term decisions of a business and the changes in analyses that influence these decisions.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm213084752"><problem id="fs-idm221708896">
+<para id="fs-idm212939232"><link class="lo-reference" document="m68081"/>Felipe’s Restaurant and Pie Shop needs help defining the costs for his business. He also wants to know which costs are relevant or irrelevant to his decision. Identify each cost as relevant or irrelevant. Then identify the type of cost (sunk, fixed, variable, or opportunity).</para>
+<table id="fs-idm209724384" summary="No Summary" class="unnumbered unstyled"><label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center">Cost</entry>
+<entry valign="top" align="center">Relevant or Irrelevant?</entry>
+<entry valign="top" align="center">Sunk, Fixed, Variable, or Opportunity?</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Rent</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Baker wages</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Felipe’s culinary school tuition</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Berries for pies</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Painting dining area last year</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Felipe’s decision not to attend graduate school</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+<solution id="fs-idm199808528">
+<table id="fs-idm226237168" summary="No Summary" class="unnumbered unstyled"><label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left">Cost</entry>
+<entry valign="top" align="left">Relevant or Irrelevant</entry>
+<entry valign="top" align="left">Sunk, Fixed, Variable, or Opportunity?</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Rent</entry>
+<entry valign="top" align="left">Relevant</entry>
+<entry valign="top" align="left">Fixed</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Baker wages</entry>
+<entry valign="top" align="left">Relevant</entry>
+<entry valign="top" align="left">Variable</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Felipe’s culinary school tuition</entry>
+<entry valign="top" align="left">Irrelevant</entry>
+<entry valign="top" align="left">Sunk</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Berries for pies</entry>
+<entry valign="top" align="left">Relevant</entry>
+<entry valign="top" align="left">Variable</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Painting dining area last year</entry>
+<entry valign="top" align="left">Irrelevant</entry>
+<entry valign="top" align="left">Sunk</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Felipe’s decision not to attend graduate school</entry>
+<entry valign="top" align="left">Irrelevant</entry>
+<entry valign="top" align="left">Opportunity</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</solution>
+</exercise></section>
+<section id="fs-idm175108752" class="exercise-set-a">
+<exercise id="fs-idm203711440">
+<problem id="fs-idm222758848">
+<para id="fs-idm199460016"><link class="lo-reference" document="m68081"/>Garrison Boutique, a small novelty store, just spent $4,000 on a new software program that will help in organizing its inventory. Due to the steep learning curve required to use the new software, Garrison must decide between hiring two part-time college students or one full-time employee. Each college student would work 20 hours per week, and would earn $15 per hour. The full-time employee would work 40 hours per week and would earn $15 per hour plus the equivalent of $2 per hour in benefits. Employees are given two polo shirts to wear as their uniform. The polo-shirts cost Garrison $10 each. What are the relevant costs, relevant revenues, sunk costs, and opportunity costs for Garrison?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm197133904">
+<problem id="fs-idm215094960">
+<para id="fs-idm208813632"><link class="lo-reference" document="m68081"/>Derek Dingler conducts corporate training seminars on managerial accounting techniques all around the country. An upcoming training seminar is to be held in Philadelphia. Just prior to that engagement, Derek will be in New York City. He plans to stay in Philadelphia the night of the seminar, as the next morning he plans to meet with clients about future training seminar possibilities. One travel option is to fly from New York to Philadelphia on the first flight on Friday morning, which will get him to Philadelphia two hours before the start of his seminar. The cost of that flight is $287. <emphasis class="colored-text">Uber</emphasis> fees for his time in Philadelphia will cost $68. His meal per diem is $40 for each full day and $25 for each half day. The hotel cost is $225 per night. His second option is to rent a car and drive the two hours to Philadelphia from New York City the afternoon before the seminar. The cost of the rental car including gas is $57 per day and the car will be needed for two full days. At the end of the meetings he will return to New York City. What are the relevant costs, relevant revenues, sunk costs, and opportunity costs that Derek Dingler has to consider in making the decision whether to fly or drive from New York City to Philadelphia?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm205244288">
+<problem id="fs-idm201222064">
+<para id="fs-idm188092864"><link class="lo-reference" document="m68081"/>Bridget Youhzi works for a large firm. Her alma mater has asked her to make a presentation to the upcoming accounting honor society’s annual scholarship dinner. Her firm supports the presentation because it hopes to recruit more excellent employees like Bridget. The university is 196 miles from her office. In order to get to the dinner by 5:00 p.m., she will need to leave work at 1:00 p.m. She can drive her personal car and be reimbursed $0.50 per mile. The dinner ends at 9:00 p.m. Company policy allows her to spend the night if the return trip is four hours or more. There is a student-run inn and conference center across the street from campus that charges $101 per night.</para>
+<para id="fs-idm223412240">Instead of driving, she could catch a 3:00 p.m. flight that has a round-trip fare of $300. Flying would require her to rent a car for $39 per day and pay an airport parking fee of $25 for the day. The company pays a per diem of $35 for incidentals if the employee spends at least six hours out of town. (The per diem would be for one 24-hour period for either flying or driving.) As a manager, Bridget is responsible for recruiting within a budget and wants to determine which is more economical.</para>
+<para id="fs-idm218876752">Use the information provided to answer these questions.</para>
+<list id="fs-idm209101584" list-type="enumerated" number-style="upper-alpha">
+<item>What is the total amount of expenses Bridget would include on her expense report if she drives?</item>
+<item>What is the total amount of expenses she would include on her expense report if she flies?</item>
+<item>What is the relevant cost of driving?</item>
+<item>What is the relevant cost of flying?</item>
+<item>What is the differential cost of flying over driving?</item>
+<item>What other factors should Bridget consider in her decision between driving and flying?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm218556560" class="exercise-set-b">
+<exercise id="fs-idm216122544">
+<problem id="fs-idm216884384">
+<para id="fs-idm217625360"><link class="lo-reference" document="m68081"/>Ella Maksimov is CEO of her own marketing firm. The firm recently moved from a strip mall in the suburbs to an office space in a downtown building, in order to make the firm’s employees more accessible to clients. Two new clients are interested in using Ella’s advertising services but both clients are in the same line of business, meaning that Ella’s company can represent only one of the clients. Pampered Pooches wants to hire Ella’s firm for a one-year contract for web, newspaper, radio, and direct mail advertising. Pampered will pay $126,000 for these services. Ella estimates the cost of the services requested by Pampered Pooches to be $83,000. Delightful Dogs is interested in hiring Ella to produce mass mailings and web ads. Delightful will pay Ella $94,000 for these services and Ella estimates the cost of these services to be $47,000. Identify any relevant costs, relevant revenues, sunk costs, and opportunity costs that Ella Graham has to consider in making the decision whether to represent Pampered Pooches or Delightful Dogs.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm218769184">
+<problem id="fs-idm221118512">
+<para id="fs-idm223932640"><link class="lo-reference" document="m68081"/>You are trying to decide whether to take a job after you graduate or go onto graduate school. Consider the following questions as you make your decision.</para>
+<list id="fs-idm226257040" list-type="enumerated" number-style="upper-alpha">
+<item>Which of these costs, for the most part, would be relevant (R), and which would be irrelevant (IR)?
+<list id="fs-idm210548416" list-type="bulleted">
+<item>Cost of your undergraduate education</item>
+<item>Salary with an undergraduate degree</item>
+<item>Salary with both an undergraduate degree and a graduate degree</item>
+<item>Rent</item>
+<item>Car Insurance</item>
+<item>Graduate school tuition and fees</item>
+<item>Food costs</item>
+<item>Moving expenses</item>
+</list></item>
+<item>Which of these costs could have a differential amount that is relevant/irrelevant, depending upon the location and or policies of your new job?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm222585216">
+<problem id="fs-idm225039024">
+<para id="fs-idm199609584"><link class="lo-reference" document="m68081"/>You are working for a large firm that has asked you to attend a career fair at a university that is 185 miles from your office. You need to be there at 9:00 a.m. on a Monday morning. You can drive your personal car and be reimbursed $0.55 per mile, but you would need to leave home at 5:30 a.m. to get to the event and set up on time. Company policy allows you to spend the night if you must leave town before 6:00 a.m. The hotel across the street from campus charges $85 per night. Instead of driving, you could catch a 7:00 a.m. flight with a round-trip fare of $260. Flying would require you to rent a car for $29 per day, and you would have an airport parking fee of $20 for the day. The company pays a per diem of $40 for incidentals if you spend at least 6 hours out of town. (The per diem would be for one 24-hour period for either flying or driving.) As a manager, you are responsible for recruiting within a budget and want to determine which is more economical.</para>
+<para id="fs-idm217694256">Use the information provided to answer these questions.</para>
+<list id="fs-idm224545984" list-type="enumerated" number-style="upper-alpha">
+<item>What is the total amount of expenses you would include on your expense report if you drive?</item>
+<item>What is the total amount of expenses you would include on your expense report if you fly?</item>
+<item>What is the relevant cost of driving?</item>
+<item>What is the relevant cost of flying?</item>
+<item>What is the differential cost of flying over driving?</item>
+<item>What other factors should you consider in your decision between driving and flying?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm218866784" class="problem-set-a">
+<exercise id="fs-idm177740080">
+<problem id="fs-idm206681648">
+<para id="fs-idm176858320"><link class="lo-reference" document="m68081"/>Artisan Metalworks has a bottleneck in their production that occurs within the engraving department. Jamal Moore, the COO, is considering hiring an extra worker, whose salary will be $55,000 per year, to solve the problem. With this extra worker, the company could produce and sell 3,000 more units per year. Currently, the selling price per unit is $25 and the cost per unit is $7.85. Using the information provided, calculate the annual financial impact of hiring the extra worker.</para>
+<media id="fs-idm214466656" alt="Direct materials $3.50, Direct Labor $1.10, Variable overhead $0.45, Fixed overhead (primarily depreciation of equipment) $2.80 equals Total $7.85.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_01_PA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm224938048">
+<problem id="fs-idm201263680">
+<para id="fs-idm203197984"><link class="lo-reference" document="m68081"/>Syntech makes digital cameras for drones. Their basic digital camera uses $80 in variable costs and requires $1,500 per month in fixed costs. Syntech sells 100 cameras per month. If they process the camera further to enhance its functionality, it will require an additional $45 per unit of variable costs, plus an increase in fixed costs of $1,000 per month. The current price of the camera is $160. The marketing manager is positive that they can sell more and charge a higher price for the improved version. At what price level would the upgraded camera begin to improve operational earnings?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm220478944" class="problem-set-b">
+<exercise id="fs-idm222670576">
+<problem id="fs-idm215467280">
+<para id="fs-idm214545296"><link class="lo-reference" document="m68081"/>Variety Artisans has a bottleneck in their production that occurs within the engraving department. Arjun Naipul, the COO, is considering hiring an extra worker, whose salary will be $45,000 per year, to solve the problem. With this extra worker, the company could produce and sell 3,500 more units per year. Currently, the selling price per unit is $18 and the cost per unit is $5.85. Using the information provided, calculate the annual financial impact of hiring the extra worker.</para>
+<media id="fs-idm203134688" alt="Direct materials $2.50, Direct Labor $1.10, Variable overhead $0.45, Fixed overhead (primarily depreciation of equipment) $1.80 equals Total $5.85.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_01_PB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm175137632">
+<problem id="fs-idm199999888">
+<para id="fs-idm212041440"><link class="lo-reference" document="m68081"/>Mortech makes digital cameras for drones. Their basic digital camera uses $80 in variable costs and requires $1,500 per month in fixed costs. Mortech sells 200 cameras per month. If they process the camera further to enhance its functionality, it will require an additional $45 per unit of variable costs, plus an increase in fixed costs of $1,000 per month. The current price of the camera is $200. The marketing manager is positive that they can sell more and charge a higher price for the improved version. At what price level would the upgraded camera begin to improve operational earnings?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm181046432">
+<term>avoidable cost</term>
+<meaning id="fs-idm207781424">cost that can be eliminated (in whole or in part) by choosing one alternative over another</meaning>
+</definition>
+<definition id="fs-idm201009280">
+<term>differential analysis</term>
+<meaning id="fs-idm196174208">type of analysis that considers only the differences between variables that are important to the analysis</meaning>
+</definition>
+<definition id="fs-idm208751760">
+<term>differential cost</term>
+<meaning id="fs-idm217681840">difference between costs for alternatives</meaning>
+</definition>
+<definition id="fs-idm203177632">
+<term>differential revenue</term>
+<meaning id="fs-idm222326272">difference between revenues for alternatives</meaning>
+</definition>
+<definition id="fs-idm201856800">
+<term>irrelevant cost</term>
+<meaning id="fs-idm224024080">cost that has no effect on the decision being made because it is the same under either alternative</meaning>
+</definition>
+<definition id="fs-idm214519488">
+<term>irrelevant revenue</term>
+<meaning id="fs-idm199239744">revenue that has no effect on the decision being made</meaning>
+</definition>
+<definition id="fs-idm216472192">
+<term>opportunity costs</term>
+<meaning id="fs-idm196536768">costs associated with not choosing the other alternative</meaning>
+</definition>
+<definition id="fs-idm196236192">
+<term>qualitative factor</term>
+<meaning id="fs-idm200829280">component of a decision-making process that cannot be measured numerically</meaning>
+</definition>
+<definition id="fs-idm188082656">
+<term>quantitative factor</term>
+<meaning id="fs-idm205241968">component of a decision-making process that can be measured numerically</meaning>
+</definition>
+<definition id="fs-idm214869424">
+<term>relevant cost</term>
+<meaning id="fs-idm210195936">cost that influences the decision being made</meaning>
+</definition>
+<definition id="fs-idm209268816">
+<term>relevant revenue</term>
+<meaning id="fs-idm200857344">revenue that influences the decision being made</meaning>
+</definition>
+<definition id="fs-idm201334144">
+<term>short-term decision analysis</term>
+<meaning id="fs-idm198073008">determining the appropriate elements of information necessary for making a decision that will impact the company in the short term, usually 12 months or fewer, and using that information in a proper analysis in order to reach an informed decision among alternatives</meaning>
+</definition>
+<definition id="fs-idm188114688">
+<term>sunk cost</term>
+<meaning id="fs-idm175164336">cost that cannot be avoided because it has already occurred</meaning>
+</definition>
+<definition id="fs-idm195642256">
+<term>unavoidable cost</term>
+<meaning id="fs-idm209333168">cost that does not go away in the short-run by choosing one alternative over another</meaning>
+</definition>
+</glossary>
+</document>

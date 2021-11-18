@@ -1,0 +1,381 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Prepare Journal Entries for a Job Order Cost System</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68126</md:content-id>
+  <md:title>Prepare Journal Entries for a Job Order Cost System</md:title>
+  <md:abstract/>
+  <md:uuid>e402cfba-8ec4-45bc-a910-3ea29d885885</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm223691920">Although you have seen the job order costing system using both T-accounts and job cost sheets, it is necessary to understand how these transactions are recorded in the company’s general ledger.</para>
+<section id="fs-idm223679536">
+<title>Journal Entries to Move Direct Materials, Direct Labor, and Overhead into Work in Process</title>
+<para id="fs-idm216837376">Dinosaur Vinyl keeps track of its inventory and orders additional inventory to have on hand when the production department requests it. This inventory is not associated with any particular job, and the purchases stay in raw materials inventory until assigned to a specific job. For example, Dinosaur Vinyl purchased an additional $10,000 of vinyl and $500 of black ink to complete Macs &amp; Cheese’s billboard. If the purchase is made on account, the entry is as shown:</para>
+<media id="fs-idm218265968" alt="A journal entry lists Raw Materials Inventory: Vinyl with a debit of 10,000, Raw Material Inventory: Black ink with a debit of 500, Accounts Payable with a credit of 10,500, and the note “To record purchase of vinyl and ink inventory”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_07_Journal01_img.jpg"/>
+</media>
+<para id="fs-idm247808656">As shown in <link document="m68005" target-id="OSX_Acct_M04_05_JCSheet"/>, for the production process for job MAC001, the job supervisor submitted a materials requisition form for $300 in vinyl, $100 in black ink, $60 in red ink, and $60 in gold ink. For the finishing process for Job MAC001, $120 in grommets and $60 in finishing wood were requisitioned. The entry to reflect these actions is:</para>
+<media id="fs-idm241053088" alt="A journal entry lists Work in Process Inventory with a debit of 700, Raw Materials Inventory: Vinyl with a credit of 300, Raw Materials Inventory: Black ink with a credit of 100, Raw Materials Inventory: Red ink with a credit of 60, Raw Materials Inventory: Gold ink with a credit of 60, Raw Materials Inventory: Grommets with a credit of 120, Raw Materials Inventory: Finishing wood with a credit of 60, and the note “To record requisition of vinyl and ink inventory”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_07_Journal02_img.jpg"/>
+</media>
+<para id="fs-idm237989904">The production department employees work on the sign and send it over to the finishing/assembly department when they have completed their portion of the job.</para>
+<para id="fs-idm246263584">The direct cost of factory labor includes the direct wages paid to the employees and all other payroll costs associated with that labor. Typically, this includes wages and the payroll taxes and fringe benefits directly tied to those wages. The accounting system needs to keep track of the labor and the other related expenses assigned to a particular job. These records are typically kept in a time ticket submitted by employees daily.</para>
+<para id="fs-idm248653648">On April 10, the labor time sheet totaling $30 is recorded for Job MAC001 through this entry:</para>
+<media id="fs-idm228345728" alt="A journal entry lists Work in Process Inventory (MAC001) with a debit of 30, Factory Wages Payable with a credit of 30, and the note “To record labor for Job MAC001”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_07_Journal03_img.jpg"/>
+</media>
+<para id="fs-idm229056608">The assembly personnel in the finishing/assembly department complete Job MAC001 in two hours. The labor is recorded as shown:</para>
+<media id="fs-idm247180416" alt="A journal entry lists Work in Process Inventory with a debit of 36, Factory Wages Payable with a credit of 36, and the note “To record labor for Job MAC001”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_07_Journal04_img.jpg"/>
+</media>
+<para id="fs-idm249439536">Indirect materials also have a materials requisition form, but the costs are recorded differently. They are first transferred into manufacturing overhead and then allocated to work in process. The entry to record the indirect material is to debit manufacturing overhead and credit raw materials inventory.</para>
+<para id="fs-idm221324464">Indirect labor records are also maintained through time tickets, although such work is not directly traceable to a specific job. The difference between direct labor and indirect labor is that the indirect labor records the debit to manufacturing overhead while the credit is to factory wages payable.</para>
+<para id="fs-idm216510752">Dinosaur Vinyl’s time tickets indicate that $4,000 in indirect labor costs were incurred during the period. The entry is:</para>
+<media id="fs-idm219095680" alt="A journal entry lists Manufacturing Overhead with a debit of 4,000, Factory wages payable with a credit of 4,000, and the note “To record indirect labor for WIP inventories”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_07_Journal05_img.jpg"/>
+</media>
+<para id="fs-idm243454416">Dinosaur Vinyl also records the actual overhead incurred. As shown in <link document="m68004" target-id="OSX_Acct_M04_04_DVEstActOH"/>, manufacturing overhead costs of $21,000 were incurred. The entry to record these expenses increases the amount of overhead in the manufacturing overhead account. The entry is:</para>
+<media id="fs-idm219015056" alt="A journal entry lists Manufacturing Overhead with a debit of 21,000, and the following accounts with credits: Supplies Inventory 1,500; Utilities Payable 7,000; Accumulated Depreciation 7,500; Prepaid Insurance 2,917; Interest Payable 2,083. The entry note reads “To record April’s overhead expenses”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_07_Journal06_img.jpg"/>
+</media>
+<para id="fs-idm227052592">The amount of overhead applied to Job MAC001 is $165. The process of determining the manufacturing overhead calculation rate was explained and demonstrated in <link document="m68124">Accounting for Manufacturing Overhead</link>. The journal entry to record the manufacturing overhead for Job MAC001 is:</para>
+<media id="fs-idm243400608" alt="A journal entry lists Work in Process Inventory with a debit of 165, Manufacturing Overhead with a credit of 165, and the note “To apply overhead to Job MAC001”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_07_Journal07_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm244503584">
+<title>Journal Entry to Move Work in Process Costs into Finished Goods</title>
+<para id="fs-idm232905824">When each job and job order cost sheet have been completed, an entry is made to transfer the total cost from the work in process inventory to the finished goods inventory. The total cost of the product for Job MAC001 is $931 and the entry is:</para>
+<media id="fs-idm232949440" alt="A journal entry lists Finished Goods Inventory with a debit of 931, Work in Process inventory with a credit of 931, and the note “To recognize completion of Job MAC001”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_07_Journal08_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm217139168">
+<title>Journal Entries to Move Finished Goods into Cost of Goods Sold</title>
+<para id="fs-idm242552512">When the sale has occurred, the goods are transferred to the buyer. The product is transferred from the finished goods inventory to cost of goods sold. A corresponding entry is also made to record the sale. The sign for Job MAC001 had a sales price of $2,000 and a cost of $931. These are the entries to record the transfer of goods and sale to the buyer:</para>
+<media id="fs-idm225740368" alt="A journal entry reads Cost of Goods Sold with a debit of 931, Finished Goods Inventory with a credit of 931, and the note “To recognize sale of Job MAC001”. A second journal entry reads Accounts Receivable with a debit of 2,000, Sales with a credit of 2,000, and the note “To recognize sale of Job MAC001”..">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_07_Journal09_img.jpg"/>
+</media>
+<para id="fs-idm225704944">The resulting accounting is shown on the company’s income statement:</para>
+<media id="fs-idm225244336" class="scaled-down" alt="The Income Statement including the headings: DINOSAUR VINYL, INC., Income Statement. Sales are listed as $2,000, Cost of Goods Sold of 931 are subtracted to get Gross Profit of $1,069.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_07_IncStmt_img.jpg"/>
+</media>
+<note id="fs-idm249575152" class="think-through">
+<title>Ongoing Overapplied Overhead</title>
+<para id="fs-idm247754832">At the end of each year, manufacturing overhead is analyzed, and an adjusting entry is made to dispose of the under- or overapplied overhead. How would you advise a company that has had overapplied overhead for each of the last five years?</para>
+</note>
+</section>
+<section id="fs-idm242894928" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm251121872" list-type="bulleted" bullet-style="bullet">
+<item>Job cost sheets record the material, labor, and overhead costs for each job, whereas journal entries actually transfer the costs into the work in process inventory, the finished goods inventory, and cost of goods sold.</item>
+</list>
+</section>
+<section id="fs-idm242803760" class="multiple-choice">
+<exercise id="fs-idm225356304">
+<problem id="fs-idm234512176">
+<para id="fs-idm228929904"><link class="lo-reference" document="m68126"/>In a job order cost system, raw materials purchased are debited to which account?</para>
+<list id="fs-idm245913360" list-type="enumerated" number-style="upper-alpha">
+<item>raw materials inventory</item>
+<item>work in process inventory</item>
+<item>finished goods inventory</item>
+<item>cost of goods sold</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm232500384">
+<problem id="fs-idm246688144">
+<para id="fs-idm223358720"><link class="lo-reference" document="m68126"/>In a job order cost system, overhead applied is debited to which account?</para>
+<list id="fs-idm228893312" list-type="enumerated" number-style="upper-alpha">
+<item>work in process inventory</item>
+<item>finished goods inventory</item>
+<item>manufacturing overhead</item>
+<item>cost of goods sold</item>
+</list>
+</problem>
+<solution id="fs-idm236945296">
+<para id="fs-idm232573504">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm248866480">
+<problem id="fs-idm246429504">
+<para id="fs-idm240431872"><link class="lo-reference" document="m68126"/>In a job order cost system, factory wage expense is debited to which account?</para>
+<list id="fs-idm247090416" list-type="enumerated" number-style="upper-alpha">
+<item>raw materials inventory</item>
+<item>work in process inventory</item>
+<item>finished goods inventory</item>
+<item>cost of goods sold</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm227411808">
+<problem id="fs-idm244335360">
+<para id="fs-idm209487616"><link class="lo-reference" document="m68126"/>In a job order cost system, utility expense incurred is debited to which account?</para>
+<list id="fs-idm225003488" list-type="enumerated" number-style="upper-alpha">
+<item>work in process inventory</item>
+<item>finished goods inventory</item>
+<item>manufacturing overhead</item>
+<item>cost of goods sold</item>
+</list>
+</problem>
+<solution id="fs-idm222751216">
+<para id="fs-idm232543888">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm218267296">
+<problem id="fs-idm224692208">
+<para id="fs-idm246453968"><link class="lo-reference" document="m68126"/>In a job order cost system, indirect labor incurred is debited to which account?</para>
+<list id="fs-idm225276496" list-type="enumerated" number-style="upper-alpha">
+<item>work in process inventory</item>
+<item>finished goods inventory</item>
+<item>manufacturing overhead</item>
+<item>cost of goods sold</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm232067696" class="questions">
+<exercise id="fs-idm235180544">
+<problem id="fs-idm244516192">
+<para id="fs-idm237233792"><link class="lo-reference" document="m68126"/>Match the concept on the left to its correct description.</para>
+<table id="fs-idm221306672" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">A. job order costing</entry>
+<entry valign="top" align="left">i. computes the overhead applied to each job</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">B. materials requisition sheet</entry>
+<entry valign="top" align="left">ii. source document indicating the number of hours an employee worked on specific jobs</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C. overapplied overhead</entry>
+<entry valign="top" align="left">iii. source document indicating the raw materials assigned to a specific production job</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">D. predetermined overhead rate</entry>
+<entry valign="top" align="left">iv. the cost accounting system used by pet food manufacturers</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">E. process costing</entry>
+<entry valign="top" align="left">v. the cost accounting system used by law firms</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">F. time ticket</entry>
+<entry valign="top" align="left">vi. the result when the actual overhead is less than the amount assigned to each specific job</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">G. underapplied overhead</entry>
+<entry valign="top" align="left">vii. the result when the actual overhead is more than the amount assigned to each specific job</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm238303504" class="exercise-set-a">
+<exercise id="fs-idm243053680">
+<problem id="fs-idm228894768">
+<para id="fs-idm242249536"><link class="lo-reference" document="m68126"/>A company has the following transactions during the week.</para>
+<list id="fs-idm230729440" list-type="bulleted">
+<item>Purchase of $1,000 raw materials inventory</item>
+<item>Assignment of $500 of raw materials inventory to Job 5</item>
+<item>Payroll for 20 hours with $1,000 assigned to Job 5</item>
+<item>Factory utility bills of $750</item>
+<item>Overhead applied at the rate of $10 per hour</item>
+</list>
+<para id="fs-idm215431792">What is the cost assigned to Job 5 at the end of the week?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm238273680">
+<problem id="fs-idm231908592">
+<para id="fs-idm216346256"><link class="lo-reference" document="m68126"/>During the month, Job AB2 used specialized machinery for 450 hours and incurred $500 in utilities on account, $300 in factory depreciation expense, and $100 in property tax on the factory. Prepare journal entries for the following:</para>
+<list id="fs-idm243013360" list-type="enumerated" number-style="upper-alpha">
+<item>Record the expenses incurred.</item>
+<item>Record the allocation of overhead at the predetermined rate of $1.50 per machine hour.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm226003168">
+<problem id="fs-idm235429888">
+<para id="fs-idm234415920"><link class="lo-reference" document="m68126"/>Job 113 was completed at a cost of $5,000, and Job 85 was completed at a cost of $3,000 and sold on account for $4,500. Prepare journal entries for the following:</para>
+<list id="fs-idm236786080" list-type="enumerated" number-style="upper-alpha">
+<item>Completion of Job 113.</item>
+<item>Completion and sale of Job 85.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm236877296">
+<problem id="fs-idm233618064">
+<para id="fs-idm247215760"><link class="lo-reference" document="m68126"/>A company’s individual job sheets show these costs:</para>
+<media id="fs-idm225942080" class="scaled-down" alt="A chart showing costs for Jobs 131, 132, and 133. Direct materials is 4,585, 8723, and 1,575 respectively. Direct labor is 2,385, 2,498, and 2,874, respectively.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_07_EA04_img.jpg"/>
+</media>
+<para id="fs-idm247125200">Overhead is applied at 1.25 times the direct labor cost. Use the data on the cost sheets to perform these tasks:</para>
+<list id="fs-idm247591056" list-type="enumerated" number-style="upper-alpha">
+<item>Apply overhead to each of the jobs.</item>
+<item>Prepare an entry to record the assignment of direct materials to work in process.</item>
+<item>Prepare an entry to record the assignment of direct labor to work in process.</item>
+<item>Prepare an entry to record the assignment of manufacturing overhead to work in process.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm236779264">
+<problem id="fs-idm247176032">
+<para id="fs-idm247013664"><link class="lo-reference" document="m68126"/>A summary of material requisition slips and time tickets, along with the overhead allocation, show these costs:</para>
+<media id="fs-idm231942832" class="scaled-down" alt="A four column cost chart with the following headings: Job No., Material Requisition Slips, Factory Labor Time Tickets, Overhead Applied. The rows are: 131, 505, 200, 70; 132, 251, 260, 91; 133, 393, 180, 63; 134, 340, 300, 105; Not job specific, 76, 145, 0; Totals 1565, 1,085, 329.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_07_EA05_img.jpg"/>
+</media>
+<list id="fs-idm225953024" list-type="enumerated" number-style="upper-alpha">
+<item>Prepare an entry to record the assignment of direct material to work in process.</item>
+<item>Prepare an entry to record the assignment of direct labor to work in process.</item>
+<item>Prepare an entry to record the assignment of manufacturing overhead to work in process.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm234964752" class="exercise-set-b">
+<exercise id="fs-idm235122032">
+<problem id="fs-idm234353520">
+<para id="fs-idm238074736"><link class="lo-reference" document="m68126"/>A company has the following transactions during the week.</para>
+<list id="fs-idm231860352" list-type="bulleted">
+<item>Purchase of $3,000 raw materials inventory</item>
+<item>Assignment of $700 of raw materials inventory to Job 7</item>
+<item>Payroll for 10 hours and $3,000 is assigned to Job 7</item>
+<item>Factory depreciation of $1,750</item>
+<item>Overhead applied at the rate of $200 per hour</item>
+</list>
+<para id="fs-idm225070768">What is the cost assigned to Job 7 at the end of the week?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm237461232">
+<problem id="fs-idm245616336">
+<para id="fs-idm215503808"><link class="lo-reference" document="m68126"/>During the month, Job Arch2 used specialized machinery for 350 hours and incurred $700 in utilities on account, $400 in factory depreciation expense, and $200 in property tax on the factory. Prepare journal entries for the following:</para>
+<list id="fs-idm243477088" list-type="enumerated" number-style="upper-alpha">
+<item>Record the expenses incurred.</item>
+<item>Record the allocation of overhead at the predetermined rate of $1.50 per machine hour.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm238282624">
+<problem id="fs-idm250846048">
+<para id="fs-idm248672112"><link class="lo-reference" document="m68126"/>Job 113 was completed at a cost of $7,500, and Job 85 was completed at a cost of $2,300 and sold on account for $4,500. Prepare journal entries for the following:</para>
+<list id="fs-idm242791968" list-type="enumerated" number-style="upper-alpha">
+<item>Completion of Job 113.</item>
+<item>Completion and sale of Job 85.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm246428464">
+<problem id="fs-idm245179056">
+<para id="fs-idm245516048"><link class="lo-reference" document="m68126"/>A company’s individual job sheets show these costs:</para>
+<media id="fs-idm244531744" class="scaled-down" alt="A chart showing costs for Jobs 298, 299, and 300. Direct material is 2,228, 23,945, and 4,231 respectively. Direct labor is 2,391, 23,492, and 3,413, respectively. Overhead is ?, ?, and ? respectively. The totals are 8,803, 88,548, and 13,617, respectively.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_07_EB04_img.jpg"/>
+</media>
+<para id="fs-idm245892224">Overhead is applied at 1.75 times the direct labor cost. Use the data on the cost sheets to perform these tasks:</para>
+<list id="fs-idm233642352" list-type="enumerated" number-style="upper-alpha">
+<item>Apply overhead to each of the jobs.</item>
+<item>Prepare an entry to record the assignment of direct material to work in process.</item>
+<item>Prepare an entry to record the assignment of direct labor to work in process.</item>
+<item>Prepare an entry to record the assignment of manufacturing overhead to work in process.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm234392688">
+<problem id="fs-idm238301280">
+<para id="fs-idm216498048"><link class="lo-reference" document="m68126"/>A summary of materials requisition slips and time tickets, along with the overhead allocation, show these costs:</para>
+<media id="fs-idm240434512" class="scaled-down" alt="A four column cost chart with the following headings: Job No., Material Requisition Slips, Factory Labor Time Tickets, Overhead Applied. The rows are: AAA001, 3,423, 5,004, 1,750; AAA002 4,342, 4,530, 1,568; AAA003 3,431 5,345, 1,813; AAA004 3,421, 2,423, 840; Not specific to one job, 570, 3,353, 0; Totals 15,187, 20,655, 5,971.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_07_EB05_img.jpg"/>
+</media>
+<list id="fs-idm243015008" list-type="enumerated" number-style="upper-alpha">
+<item>Prepare an entry to record the assignment of direct material to work in process.</item>
+<item>Prepare an entry to record the assignment of direct labor to work in process.</item>
+<item>Prepare an entry to record the assignment of manufacturing overhead to work in process.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm248680112" class="problem-set-a">
+<exercise id="fs-idm250921344">
+<problem id="fs-idm249812224">
+<para id="fs-idm243847280"><link class="lo-reference" document="m68126"/>The following data summarize the operations during the year. Prepare a journal entry for each transaction.</para>
+<list id="fs-idm224491200" list-type="enumerated" number-style="upper-alpha">
+<item>Purchase of raw materials on account: $3,000</item>
+<item>Raw materials used by Job 1: $500</item>
+<item>Raw materials used as indirect materials: $100</item>
+<item>Direct labor for Job 1: $300</item>
+<item>Indirect labor incurred: $50</item>
+<item>Factory utilities incurred on account: $700</item>
+<item>Adjusting entry for factory depreciation: $250</item>
+<item>Manufacturing overhead applied as percent of direct labor: 200%</item>
+<item>Job 1 is transferred to finished goods</item>
+<item>Job 1 is sold: $3,000</item>
+<item>Manufacturing overhead is overapplied: $100</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm223627264">
+<problem id="fs-idm228414448">
+<para id="fs-idm244245872"><link class="lo-reference" document="m68126"/>The following events occurred during March for Ajax Company. Prepare a journal entry for each transaction.</para>
+<list id="fs-idm225963264" list-type="enumerated" number-style="upper-alpha">
+<item>Materials were purchased on account for $35,429.</item>
+<item>Materials were requisitioned to begin work on Job C15 in the amount of $25,259.</item>
+<item>Direct labor expense for Job C15 was $24,129.</item>
+<item>Actual overhead was incurred on account of $32,852.</item>
+<item>Factory overhead was charged to Job C15 at the rate of 200% of direct labor.</item>
+<item>Job C15 was transferred to finished goods at $97,646.</item>
+<item>Job C15 was sold on account for $401,000.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm226994480" class="problem-set-b">
+<exercise id="fs-idm216306144">
+<problem id="fs-idm225271600">
+<para id="fs-idm228465728"><link class="lo-reference" document="m68126"/>The following data summarize the operations during the year. Prepare a journal entry for each transaction.</para>
+<list id="fs-idm232022080" list-type="enumerated" number-style="upper-alpha">
+<item>Purchase of raw materials on account: $1,500</item>
+<item>Raw materials used by Job 1: $400</item>
+<item>Raw materials used as indirect materials: $50</item>
+<item>Direct labor for Job 1: $200</item>
+<item>Indirect labor incurred for Job 1: $30</item>
+<item>Factory utilities incurred on account: $500</item>
+<item>Adjusting entry for factory depreciation: $200</item>
+<item>Manufacturing overhead applied as percent of direct labor: 100%</item>
+<item>Job 1 is transferred to finished goods</item>
+<item>Job 1 is sold: $1,000</item>
+<item>Manufacturing overhead is underapplied: $100</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm219010864">
+<problem id="fs-idm219177008">
+<para id="fs-idm207062928"><link class="lo-reference" document="m68126"/>The following events occurred during March for Ajax Company. Prepare a journal entry for each transaction.</para>
+<list id="fs-idm250733232" list-type="enumerated" number-style="upper-alpha">
+<item>Materials were purchased on account for $5,429.</item>
+<item>Materials were requisitioned to begin work on Job C15 in the amount of $2,500.</item>
+<item>Direct labor expense for Job C15 was $4,250.</item>
+<item>Actual overhead was incurred on account for $5,385.</item>
+<item>Factory overhead was charged to Job C15 at the rate of 200% direct labor.</item>
+<item>Job C15 was transferred to finished goods at $15,250.</item>
+<item>Job C15 was sold on account for $28,000.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm228498416" class="thought-provokers">
+<exercise id="fs-idm247848928">
+<problem id="fs-idm217143440">
+<para id="fs-idm248492336"><link class="lo-reference" document="m68126"/>How do the job cost sheets act as a subsidiary ledger for the work in process inventory if journal entries are not made to the job cost sheets?</para>
+</problem>
+</exercise>
+</section>
+  </content>
+</document>

@@ -1,0 +1,540 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Describe and Identify the Three Major Components of Product Costs under Job Order Costing</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68124</md:content-id>
+  <md:title>Describe and Identify the Three Major Components of Product Costs under Job Order Costing</md:title>
+  <md:abstract/>
+  <md:uuid>4f16e125-1d03-423c-bf43-19867e0f50c1</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm247944176">In order to set an appropriate sales price for a product, companies need to know how much it costs to produce an item. Just as a company provides financial statement information to external stakeholders for decision-making, they must provide costing information to internal managerial decision makers. Virtually every tangible product has direct materials, direct labor, and overhead costs that can include indirect materials and indirect labor, along with other costs, such as utilities and depreciation on production equipment. To account for these and inform managers making decisions, the costs are tracked in a cost accounting system.</para>
+<para id="fs-idm241624320">While the flow of costs is generally the same for all costing systems, the difference is in the details: Product costs have material, labor, and overhead costs, which may be assessed differently. In most production facilities, the raw materials are moved from the raw materials inventory into the <term class="no-emphasis">work in process inventory</term>. The work in process involves one or more production departments and is where labor and overhead convert the raw materials into finished goods. The movement of these costs through the work in process inventory is shown in <link target-id="OSX_Acct_M04_02_WIPInv"/>.</para>
+<figure id="OSX_Acct_M04_02_WIPInv">
+<media id="fs-idm241613120" alt="A T-account for Work In Process Inventory. Outside of the T-account is a label “Production costs” with arrows pointing to each of the components on the debit side of the T-account: “Direct Materials”, “Direct Labor”, and “Manufacturing Overhead.” The credit side of the T-account says “Transferred to Finished Goods Inventory” with an arrow pointing outside of the right side of the T account with the label “Finished goods inventory”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_02_WIPInv.jpg"/>
+</media>
+<caption>Work in Process Inventory. Direct materials, direct labor, and manufacturing overhead enter the work in process inventory as the costs associated with the products that are in production. Once the products are completed, their costs are transferred to the finished goods inventory. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm256491920">At this stage, the completed products are transferred into the finished goods inventory account. When the product is sold, the costs move from the finished goods inventory into the cost of goods sold.</para>
+<para id="fs-idm255686560">While many types of production processes could be demonstrated, let’s consider an example in which a contractor is building a home for a client. The accounting system will track direct materials, such as lumber, and direct labor, such as the wages paid to the carpenters constructing the home. Along with these direct materials and labor, the project will incur manufacturing overhead costs, such as indirect materials, indirect labor, and other miscellaneous overhead costs. Samples of these costs include indirect materials, such as nails, indirect labor, such as the supervisor’s salary, assuming that the supervisor is overseeing several projects at the same time, and miscellaneous overhead costs such as depreciation on the equipment used in the construction project.</para>
+<para id="fs-idm240291376">As direct materials, direct labor, and overhead are introduced into the production process, they become part of the work in process inventory value. When the home is completed, the accumulated costs become part of the finished goods inventory value, and when the home is sold, the finished goods value of the home becomes the cost of goods sold. <link target-id="OSX_Acct_M04_02_FlowProd"/> illustrates the flow of these costs through production.</para>
+<figure id="OSX_Acct_M04_02_FlowProd">
+<media id="fs-idm241600336" alt="A flow chart with two tiers. The top tier shows flows from left to right from “Materials Inventory”, to “Work in Process”, to “Finished Goods”, to “Cost of Goods Sold. The bottom tier shows two boxes pointing to the “Work in Process” account, labeled “Direct Labor” and “Manufacturing Overhead.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_02_FlowProd.jpg"/>
+</media>
+<caption>Flow of Materials from Raw Materials to Finished Goods. Accounting methods track a product’s material, labor, and overhead costs, as it moves through production. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm243027840">The three general categories of costs included in manufacturing processes are <term class="no-emphasis">direct materials</term>, <term class="no-emphasis">direct labor</term>, and <term class="no-emphasis">overhead</term>. Note that there are a few exceptions, since some service industries do not have direct material costs, and some automated manufacturing companies do not have direct labor costs. For example, a tax accountant could use a job order costing system during tax season to trace costs. The one major difference between the home builder example and this one is that the tax accountant will not have direct material costs to track. The few assets used will typically be categorized as overhead.</para>
+<para id="fs-idm259456944">A benefit of knowing the production costs for each job in a job order costing system is the ability to set appropriate sales prices based on all the production costs, including direct materials, direct labor, and overhead. The unique nature of the products manufactured in a job order costing system makes setting a price even more difficult. For each job, management typically wants to set the price higher than its production cost. Even if management is willing to price the product as a loss leader, they still need to know how much money will be lost on each product. To achieve this, management needs an accounting system that can accurately assign and document the costs for each product.</para>
+<para id="fs-idm245347216">If you’re not familiar with the concept of a loss leader, a simple example might help clarify the concept. A <term>loss leader</term> is a product that is sold at a price that is often less than the cost of producing it in order to entice you to buy accessories that are necessary for its use. For example, you might pay $50 or $60 for a printer (for which the producer probably does not make any profit) in order to then sell you extremely expensive printer cartridges that only print a few pages before they have to be replaced. However, even pricing a product as a loss leader requires analysis of the three categories of costs: direct materials, direct labor, and overhead.</para>
+<section id="fs-idm245127776">
+<title>Direct Materials</title>
+<para id="fs-idm264289456"><term>Direct materials</term> are those materials that can be directly traced to the manufacturing of the product. Some examples of direct materials for different industries are shown in <link target-id="fs-idm261948512"/>. In order to respond quickly to production needs, companies need raw materials inventory on hand. While production volume might change, management does not want to stop production to wait for raw materials to be delivered. Further, a company needs raw materials on hand for future jobs as well as for the current job. The materials are sent to the production department as it is needed for production of the products.</para>
+<table id="fs-idm261948512" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Common Direct Materials by Industry</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Industry</entry>
+<entry valign="top" align="center">Direct Materials</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Automotive</entry>
+<entry valign="top" align="left">Iron, aluminum, glass, rubber</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Cell phones</entry>
+<entry valign="top" align="left">Glass, various metals, plastic</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Furniture</entry>
+<entry valign="top" align="left">Wood, leather, vinyl</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jewelry</entry>
+<entry valign="top" align="left">Gold, silver, diamonds, rubies</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Pharmaceuticals</entry>
+<entry valign="top" align="left">Natural or synthetic biological ingredients</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm259344272">Each job begins when raw materials are put into the work in process inventory. When the materials are requested for production, a materials requisition slip is completed and shows the exact items and quantity requested, along with the associated cost. The completed form is signed by the requestor and approved by the manager responsible for the budget.</para>
+<para id="fs-idm244057360">Returning to the example of Dinosaur Vinyl’s order for Macs &amp; Cheese’s stadium sign, <link target-id="OSX_Acct_M04_02_MatReq"/> shows the <term>materials requisition form</term> for Job MAC001. This form indicates the quantity and specific items to be put into the work in process. It also transfers the cost of those items to the work in process inventory and decreases the raw materials inventory by the same amount. The raw materials inventory department maintains a copy to document the change in inventory levels, and the accounting department maintains a copy to properly assign the costs to the particular job.</para>
+<figure id="OSX_Acct_M04_02_MatReq">
+<media id="fs-idm259403296" alt="A Materials Requisition Form with the heading “Dinosaur Vinyl, Inc. The identifying lines are filled out: Materials requisition No. 3392, Job No.: MAC001, Date of Request: 4/5/2017, Date Needed: 4/5/2017. Below is a section with four columns labeled “Description”, “Quantity”, “Unit Cost”, and “Total Cost.” The rows say: “Raw materials inventory: Vinyl, 1, 300, 300; Raw materials inventory: Black ink, 2, 50, 100; Raw materials inventory: Red ink, 1, 60, 60; Raw materials inventory: Gold ink, 1, 60, 60; Raw materials inventory: Grommets, 12, 10, 120; Raw materials inventory: Framing wood, 40, 1.50, 60”. The Total Cost column shows “520.” Below are signatures for “Requested by” signed by John Ming and “Authorized by” signed by Isla Clark, both dated 4/5/17.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_02_MatReq.jpg"/>
+</media>
+<caption>Materials Requisition Form for Job MAC001. The materials requisition form allows different departments to track and account for the direct materials needed to manufacture the product. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm253902592">Dinosaur Vinyl has a beginning inventory of $1,000 in <emphasis effect="italics">raw materials: vinyl</emphasis>, and $300 in each of its ink inventories: <emphasis effect="italics">raw materials: black ink</emphasis>, <emphasis effect="italics">raw materials: red ink</emphasis>, and <emphasis effect="italics">raw materials: gold ink</emphasis>. In order to have enough inventory on hand for all of its jobs, it purchases $10,000 in vinyl and $500 in black ink. The T-accounts in <link target-id="OSX_Acct_M04_02_RMatInv01"/> show the stated beginning debit balances. An additional $10,000 of vinyl and $500 of black ink were then purchased for anticipated use, providing the demonstrated final account balances. The red ink and gold ink balances did not change, since no additional quantities were purchased.</para>
+<para id="fs-idm257797568">The beginning balances and purchases in each of these accounts are illustrated in <link target-id="OSX_Acct_M04_02_RMatInv01"/>.</para>
+<figure id="OSX_Acct_M04_02_RMatInv01">
+<media id="fs-idm248482288" alt="Six T-Accounts. The one headed “Raw Materials Inventory: Vinyl has three debit entries: Beginning inventory 1,000, 4/2/2017 10,000, Balance 11,000. The one headed Raw Materials Inventory: Black Ink has three debit entries: Beginning inventory 300, 4/2/2017 500, Balance 800. The one headed Raw Materials Inventory: Red Ink has two debit entries: Beginning inventory 300, Balance 300. The one headed Raw Materials Inventory: Gold Ink has two debit entries: Beginning inventory 300, Balance 300. The one headed Raw Materials Inventory: Grommets has two debit entries: Beginning inventory 120, Balance 120. The one headed Raw Materials Inventory: Framing Wood has two debit entries: Beginning inventory 60, Balance 60.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_02_RMatInv01.jpg"/>
+</media>
+<caption>Beginning Balances and Purchases. These T-accounts show the balances for the raw materials inventory. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm244405008">Traditional billboards with the design printed on vinyl include direct materials of vinyl and printing ink, plus the framing materials, which consist of wood and grommets. The typical billboard sign is 14 feet high by 48 feet wide, and Dinosaur Vinyl incurs a vinyl cost of $300 per billboard. The price for the ink varies by color. For this job, Dinosaur Vinyl needs two units of black ink at a cost of $50 each, one unit of red ink and one unit of gold ink at a cost of $60 each, twelve grommets at a cost of $10 each, and forty units of wood at a cost of $1.50 per unit. The total cost of direct materials is $700, as shown in <link target-id="OSX_Acct_M04_02_DirectMat"/>.</para>
+<figure id="OSX_Acct_M04_02_DirectMat">
+<media id="fs-idm241148816" alt="A five column chart showing the cost of the direct materials used. The headings are “Item”, “Units”, “Cost per Unit”, “Item Cost”, and “Total Cost.” The figures are divided by department. The Production Department rows are: Vinyl, 1,$300, $300; Black ink, 2, 50, 100; Red ink, 1, 60, 60; Gold ink, 1, 60, 60. The item cost is then totaled in the total cost column as $520. The Finishing Department rows are: Grommets, 12, $10, $120; and Framing Wood, 40, 1.50, 60. The item cost is then totaled in the total cost column as 180. The total cost for the two departments is then totaled as $700 for the Total Direct Materials.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_02_DirectMat.jpg"/>
+</media>
+<caption>Direct Materials Needed for Job MAC001. The costs for direct materials needed by both the production and finishing departments are shown. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm257976608">Some items are more difficult to measure per unit, such as adhesives and other materials not directly traceable to the final product. Their costs are assigned to the product as part of manufacturing overhead as indirect materials.</para>
+<para id="fs-idm264839776">When Dinosaur Vinyl requests materials to complete Job MAC001, the materials are moved from <term class="no-emphasis">raw materials inventory</term> to <term class="no-emphasis">work in process inventory</term>. We will use the beginning inventory balances in the accounts that were provided earlier in the example. The requisition is recorded on the job cost sheet along with the cost of the materials transferred. The costs assigned to job MAC001 are $300 in vinyl, $100 in black ink, $60 in red ink, and $60 in gold ink. During the finishing stages, $120 in grommets and $60 in wood are requisitioned and put into work in process inventory. The costs are tracked from the materials requisition form to the work in process inventory and noted specifically as part of Job MAC001 on the preceding job order cost sheet. The movement of goods is illustrated in <link target-id="OSX_Acct_M04_02_RMatInv02"/>.</para>
+<figure id="OSX_Acct_M04_02_RMatInv02">
+<media id="fs-idm256416736" alt="Seven T-accounts: The one headed “Raw Materials Inventory: Vinyl” has two debit entries: Beginning inventory 1000, 4/2/2017 10,000, one credit entry: 4/2/2017 300, and a debit Balance of 300. The one headed “Raw Materials Inventory: Black Ink” has two debit entries: Beginning inventory 300, 4/2/2017 500, one credit entryside: 4/2/2017 100, and a debit Balance of 700. The one headed “Raw Materials Inventory: Red Ink” has a debit: Beginning inventory 300, one credit entry: 4/2/2017 60, and a debit Balance of 240. The one headed “Raw Materials Inventory: Gold Ink” has a debit: Beginning inventory 300, one credit: 4/2/2017 60, and a debit Balance of 240. The one headed “Raw Materials Inventory: Grommets” has a debit: Beginning inventory 300, one credit entry: 4/14/2017 120, and a debit Balance of 180. The one headed “Raw Materials Inventory: Wood” has a debit: Beginning inventory 300, two credit entries: “used in other jobs 200” and 4/14/2017 60, and a debit Balance of 40. The one headed “Work in Process Inventory” has two debit entries: 4/2/2017 520, and 4/14/2017 180.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_02_RMatInv02.jpg"/>
+</media>
+<caption>Movement of Goods. These T-accounts illustrate the tracking of costs from raw materials inventory to the work in process inventory as the product moves through the manufacturing process. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm260432096">Each of the T-accounts traces the movement of the raw materials from inventory to work in process. The vinyl and ink were used first to print the billboard, and then the billboard went to the finishing department for the grommets and frame, which were moved to work in process after the vinyl and ink. The final T-account shows the total cost for the raw materials placed into work in process on April 2 (vinyl and ink) and on April 14 (grommets and wood). The journal entries to reflect the flow of costs from raw materials to work in process to finished goods are provided in the section describing how to <link document="m68126">Prepare Journal Entries for a Job Order Cost System</link>.</para>
+</section>
+<section id="fs-idm257432512">
+<title>Direct Labor</title>
+<para id="fs-idm254755472"><term>Direct labor</term> is the total cost of wages, payroll taxes, payroll benefits, and similar expenses for the individuals who work directly on manufacturing a particular product. The direct labor costs for Dinosaur Vinyl to complete Job MAC001 occur in the production and finishing departments. In the production department, two individuals each work one hour at a rate of $15 per hour, including taxes and benefits. The finishing department’s direct labor involves two individuals working one hour each at a rate of $18 per hour. <link target-id="OSX_Acct_M04_02_DirectLab"/> shows the direct labor costs for Job MAC001.</para>
+<figure id="OSX_Acct_M04_02_DirectLab">
+<media id="fs-idm253893920" alt="A five column chart calculating the Direct Labor. The headings are: “Item”, “Hours”, “Rate per Hour”, “Item Cost”, and “Total Cost.” The figures are divided by department. The Production Department rows are: Material Handler, 1, $15, $15; Print Technician, 1, 15, 15. The item cost is then totaled in the total cost column as $30. The Finishing Department rows are: Production Assistant, 1, $18, $18; Production Assistant, 1, $18, $18. The item cost is then totaled in the total cost column as $36. The total cost for the two departments is then totaled as $66 for the Total Direct Labor.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_02_DirectLab.jpg"/>
+</media>
+<caption>Direct Labor for Job MAC001. Labor costs account for individuals working directly on the product. Individuals whose contributions are indirect will be tracked under manufacturing overhead. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm240801888">Job MAC001 is also manufactured with the work of individuals whose contributions cannot be directly traced to the product: These indirect labor costs are assigned to the product as part of manufacturing overhead.</para>
+<para id="fs-idm239815808">A company can use various methods to trace employee wages to specific jobs. For example, employees may fill out <term>time tickets</term> that include job numbers and time per job, or workers may scan bar codes of specific jobs when they begin a job task. <link target-id="OSX_Acct_M04_02_EmpTimeTk"/> shows what time tickets might look like on Job MAC001. Please note that in the employee time tickets that are displayed, each employee worked on more than one job. However, we are only going to track the expenses for Job MAC001.</para>
+<figure id="OSX_Acct_M04_02_EmpTimeTk">
+<media id="fs-idm260156032" alt="Three forms labeled “Employee Time Ticket.” They each have a place to fill out the Employee Name, Department, Employee ID, and Date. Then there are four columns the form with headings: “Job No.”, “Hours Worked”, “Hourly Rate”, and “Total Cost”. The first ticket is Renee Chelsea, material handler, ID# 12842, 4/5/2017 with the following information: MAC001 1, 15, 15; POR143, 7,15,105. Her total cost is added to be 120. The second ticket is Raymond Santiago, Print Technician, ID#23133, 4/5/2017 with the following information: MAC001 1, 15, 15; TJR441 4, 15, 60, POR143, 3, 15, 45. His total is 120. The last ticket is Rani Fina, Finishing/Assembly, ID#13353, 4/15/2017 with the following information: MAC001, 2, 18, 36; TJR441 5, 18, 90; POR143, 1, 18, 18; for a total of 144. Each ticket has a place on the bottom to be authorized with a signature and a date.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_02_EmpTimeTk.jpg"/>
+</media>
+<caption>Employee Time Tickets. Time tickets (or time cards) are one method a company can use to track direct labor costs per individual and per job. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm253034576">When the accounting department processes time tickets, the costs are assigned to the individual jobs, resulting in labor costs being recorded on the work in process inventory, as shown in <link target-id="OSX_Acct_M04_02_WIPInv01"/>.</para>
+<figure id="OSX_Acct_M04_02_WIPInv01" class="scaled-down">
+<media id="fs-idm253420048" alt="A T-account for “Work in Process Inventory” with four debit entries: 4/2/2017 520, 4/5/2017 30, 4/10/2017 30, and 4/15/2017 36.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_02_WIPInv01.jpg"/>
+</media>
+<caption>Costs Accounted for in the Work in Process Inventory. The direct material costs of $520 and $180, and the direct labor costs of $30 and $36 assigned to Job MAC001 are shown. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm253912608">
+<title>Manufacturing Overhead</title>
+<para id="fs-idm252904528">Recall that the costs of a manufactured item are direct materials, direct labor, and manufacturing overhead. Costs that support production but are not direct materials or direct labor are considered overhead. <term>Manufacturing overhead</term> has three components: indirect materials, indirect labor, and overhead.</para>
+<section id="fs-idm254946176">
+<title>Indirect Materials</title>
+<para id="fs-idm255416992">Indirect material costs are derived from the goods not directly traced to the finished product, like the sign adhesive in the Dinosaur Vinyl example. Tracking the exact amount of adhesive used would be difficult, time consuming, and expensive, so it makes more sense to classify this cost as an indirect material.</para>
+<para id="fs-idm241766080"><term>Indirect materials</term> are materials used in production but not traced to specific products because the net informational value from the time and effort to trace the cost to each individual product produced is impossible or inefficient. For example, a furniture factory classifies the cost of glue, stain, and nails as indirect materials. Nails are often used in furniture production; however, one chair may need 15 nails, whereas another may need 18 nails. At a cost of less than one cent per nail, it is not worth keeping track of each nail per product. It is much more practical to track how many pounds of nails were used for the period and allocate this cost (along with other costs) to the overhead costs of the finished products.</para>
+</section>
+<section id="fs-idm252216672">
+<title>Indirect Labor</title>
+<para id="fs-idm258531888"><term>Indirect labor</term> represents the labor costs of those employees associated with the manufacturing process, but whose contributions are not directly traceable to the final product. These would include the costs of the factory floor supervisor, the factory housekeeping staff, and factory maintenance workers. For Dinosaur Vinyl, for example, labor costs for the technician who maintains the printers would be indirect labor. It would be too time consuming to determine how much of the technician’s time is attributable to each sign being produced. It makes much more sense to classify that labor expense as indirect labor.</para>
+<para id="fs-idm252982752">It is important to understand that the allocation of costs may vary from company to company. What may be a direct labor cost for one company may be an indirect labor cost for another company or even for another department within the same company. Deciding whether the expense is direct or indirect depends on its task. If the employee’s work can be directly tied to the product, it is direct labor. If it is tied to the factory but not to the product, it is indirect labor. If it is tied to the marketing department, it is a sales and administrative expense, and not included in the cost of the product. For example, salaries of factory employees assembling parts are direct labor, salaries of factory employees performing maintenance are indirect labor, and salaries of employees in the marketing department are sales and administration expenses.</para>
+</section>
+<section id="fs-idm249069056">
+<title>Overhead</title>
+<para id="fs-idm253908368">The last category of manufacturing overhead is the <term class="no-emphasis">overhead</term> itself. These costs are necessary for production but not efficient to assign to individual product production. Examples of typical overhead costs are production facility electricity, warehouse rent, and depreciation of equipment.</para>
+<para id="fs-idm253889104">But note that while production facility electricity costs are treated as overhead, the organization’s administrative facility electrical costs are not included as overhead costs. Instead, they are treated as period costs, as office rent or insurance would be.</para>
+<para id="fs-idm255704608">When both administrative and production activities occur in a common building, the production and period costs would be allocated in some predetermined manner. For example, if a 10,000 square foot building were physically allocated at 4,000 square feet for administrative purposes and 6,000 square feet for production, a company might allocate its annual $30,000 property tax expense on a 40%/60% basis, or $12,000 as a period cost for the administrative offices and a production (overhead) cost of $18,000.</para>
+<note id="fs-idm240418128" class="link-to-learning">
+<para id="fs-idm240417632">Do you know of a restaurant that was doing really well until it moved into a larger space? Often this happens because the owners thought their profits could handle the costs of the increased space. Unfortunately, they were not really aware of the production costs. Keeping track of product costs is critical for pricing and cost control. Read <link url="https://openstax.org/l/50pizza">advice from restaurant owner John Gutekanst about the importance of understanding food costs</link> and his approach to account for these in his pizzeria.</para>
+</note>
+</section>
+<section id="fs-idm257705968">
+<title>Accounting for Manufacturing Overhead</title>
+<para id="fs-idm246072736">In all costing systems, the expense recognition principle requires costs to be recorded in the period in which they are incurred. The costs are expensed when matched to the revenue with which they are associated; this is commonly referred to as <emphasis effect="italics">having the expenses follow the revenues</emphasis>. This explains why raw material purchases are not assigned to the job until the materials are requested. When companies use an inventory account, the product costs are expensed when the inventory is sold. It is common to have an item produced in one year, such as 2017, and expensed as cost of goods sold in a later year, such as 2018. In addition to the previously mentioned <emphasis effect="italics">revenue recognition</emphasis> treatment, this treatment is justified under GAAP’s <emphasis effect="italics">matching principle</emphasis>. If the inventory has not been sold, the company has an inventory asset rather than an expense.</para>
+<para id="fs-idm240336160">The expense recognition principle also applies to manufacturing overhead costs. The <term class="no-emphasis">manufacturing overhead</term> is an expense of production, even though the company is unable to trace the costs directly to each specific job. For example, the electricity needed to run production equipment typically is not easily traced to a particular product or job, yet it is still a cost of production. As a cost of production, the electricity—one type of manufacturing overhead—becomes a cost of the product and part of inventory costs until the product or job is sold. Fortunately, the accounting system keeps track of the manufacturing overhead, which is then applied to each individual job in the overhead allocation process.</para>
+<note id="fs-idm240323712" class="ethical-considerations">
+<title>Ethical Job Order Costing</title>
+<para id="fs-idm262030192">Job order costing requires the assignment of direct materials, direct labor, and overhead to each production unit. The primary focus on costs allows some leeway in recording amounts because the accountant assigns the costs. When jobs are billed on a cost-plus-fee basis, management may be tempted to overcharge the cost of the job. Cost-based contracts may include a guaranteed maximum, time and materials, or cost reimbursable contract. An example is the design and delivery of a corporate training program. The training company may charge for the hours worked by instructors in preparation and delivery of the course, plus a fee for the course materials.</para>
+<para id="fs-idm248012048">One major issue in all of these contracts is adding too much overhead cost and fraudulent invoicing for unused materials or unperformed work by subcontractors. Management might be tempted to direct the accountant to avoid the appearance of going over the original estimate by manipulating job order costing. It is the accountant’s job to ensure that the amounts recorded in the accounting system fairly represent the economic activity of the company, and the fair and proper allocation of costs.</para>
+</note>
+<para id="fs-idm251839920">Managers use the information in the manufacturing overhead account to estimate the overhead for the next fiscal period. This estimated overhead needs to be as close to the actual value as possible, so that the allocation of costs to individual products can be accurate and the sales price can be properly determined.</para>
+<para id="fs-idm246267344">Properly allocating overhead to the individual jobs depends on finding a cost driver that provides a fair basis for the allocation. A <term>cost driver</term> is a production factor that causes a company to incur costs. An example would be a bakery that produces a line of apple pies that it markets to local restaurants. To make the pies requires that the bakery incur labor costs, so it is safe to say that pie production is a cost driver. It should also be safe to assume that the more pies made, the greater the number of labor hours experienced (also assuming that direct labor has not been replaced with a greater amount of automation). We assume, in this case, that one of the marketing advantages that the bakery advertises is 100% handmade pastries.</para>
+<para id="fs-idm255498656">In traditional costing systems, the most common activities used as cost drivers are direct labor in dollars, direct labor in hours, or machine hours. Often in the production process, there is a correlation between an increase in the amount of direct labor used and an increase in the amount of manufacturing overhead incurred. If the company can demonstrate such a relationship, they then often allocate overhead based on a formula that reflects this relationship, such as the upcoming equation. In the case of the earlier bakery, the company could determine an overhead allocation amount based on each hour of direct labor or, in other cases, based on the ratio of anticipated total direct labor costs to total manufacturing overhead costs.</para>
+<para id="fs-idm240218096">For example, assume that the company estimates total manufacturing overhead for the year to be $400,000 and the direct labor costs for the year to be $200,000. This relationship would lead to $2.00 of applied overhead for each $1.00 of direct labor incurred. The manufacturing overhead cost can be calculated and applied to each specific job, based on the direct labor costs. The formula that represents the overhead allocation relationship is shown, and it is the formula for overhead allocation:</para>
+<media id="fs-idm239569936" class="scaled-down" alt="A formula: Estimated Annual Overhead Costs ($) divided by Expected Annual Activity (DL $) equals overhead allocation rate.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_02_Alloc01_img.jpg"/>
+</media>
+<para id="fs-idm240189344">For example, Dinosaur Vinyl determined that the direct labor cost is the appropriate driver to use when establishing an overhead rate. The estimated annual overhead cost for Dinosaur Vinyl is $250,000. The total direct labor cost is estimated to be $100,000, so the allocation rate is computed as shown:</para>
+<media id="fs-idm243537952" alt="A formula: Estimated Annual Overhead Costs ($250,000) divided by Expected Annual Activity ($100,000) equals $2.50 per $1.00 Direct Labor Expense">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_02_Alloc02_img.jpg"/>
+</media>
+<para id="fs-idm243490336">Since the direct labor expense for MAC001 is $66, the overhead allocated is $66 times the overhead application rate of $2.50 per direct labor dollar, or $165, as shown:</para>
+<media id="fs-idm241372128" alt="Formula: Overhead Allowed equals $66 (Direct Labor) times $2.50 (overhead application rate) equals $165">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_02_Alloc03_img.jpg"/>
+</media>
+<para id="fs-idm243786000"><link target-id="OSX_Acct_M04_02_WIPInv02"/> shows the journal entry to record the overhead allocation.</para>
+<figure id="OSX_Acct_M04_02_WIPInv02">
+<media id="fs-idm258816624" alt="A journal entry dated 4/18/17 lists Work in Process Inventory with a debit of 165, Manufacturing Overhead with a credit of 165, and the note “To assign overhead to Job MAC0001. A T-account for “Work in Process Inventory” with five debit entries: 4/2/2017 520, 4/5/2017 30, 4/10/2017 30, and 4/15/2017 36, 4/18/2017 165.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_02_WIPInv02.jpg"/>
+</media>
+<caption>Overhead Allocation. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm261964704" class="think-through">
+<title>Franchise or Unique Venture?</title>
+<para id="fs-idm252076176">You are deciding whether to purchase a pizza franchise or open your own restaurant specializing in pizza. List the expenses necessary to sell pizza and identify them as a fixed cost or variable cost; as a manufacturing cost or sales and administrative costs; and as a direct materials, direct labor, or overhead. For each overhead item, state whether it is an indirect material expense, indirect labor expense, or other. For each cost, identify its origination in a job order costing environment.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm243699872" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm245563232" list-type="bulleted" bullet-style="bullet">
+<item>Direct materials are requested on a materials requisition form and recorded on the job cost sheet when transferred from raw materials inventory to the work in process inventory.</item>
+<item>Time tickets are used to accumulate the labor associated with particular jobs and assigned to those jobs on the job cost sheet.</item>
+<item>Manufacturing overhead costs are accumulated in the manufacturing overhead account and assigned to the individual jobs using the predetermined overhead rate.</item>
+</list>
+</section>
+<section id="fs-idm249111136" class="multiple-choice">
+<exercise id="fs-idm240915040">
+<problem id="fs-idm243583280">
+<para id="fs-idm259294096"><link class="lo-reference" document="m68124"/>Which document lists the inventory that will be removed from the raw materials inventory?</para>
+<list id="fs-idm246710064" list-type="enumerated" number-style="upper-alpha">
+<item>job cost sheet</item>
+<item>purchase order</item>
+<item>materials requisition form</item>
+<item>receiving document</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm264795440">
+<problem id="fs-idm262009456">
+<para id="fs-idm239596464"><link class="lo-reference" document="m68124"/>Which document shows the cost of direct materials, direct labor, and overhead applied for each specific job?</para>
+<list id="fs-idm257556960" list-type="enumerated" number-style="upper-alpha">
+<item>job cost sheet</item>
+<item>purchase order</item>
+<item>materials requisition form</item>
+<item>receiving document</item>
+</list>
+</problem>
+<solution id="fs-idm380353280">
+<para id="fs-idm380353024">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm243800992">
+<problem id="fs-idm253979088">
+<para id="fs-idm260298912"><link class="lo-reference" document="m68124"/>Which document lists the total direct materials used in a specific job?</para>
+<list id="fs-idm262525856" list-type="enumerated" number-style="upper-alpha">
+<item>job cost sheet</item>
+<item>purchase order</item>
+<item>materials requisition form</item>
+<item>receiving document</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm245826288">
+<problem id="fs-idm245276736">
+<para id="fs-idm261009264"><link class="lo-reference" document="m68124"/>Which document lists the total direct labor used in a specific job?</para>
+<list id="fs-idm258015520" list-type="enumerated" number-style="upper-alpha">
+<item>job cost sheet</item>
+<item>purchase order</item>
+<item>employee time ticket</item>
+<item>receiving document</item>
+</list>
+</problem>
+<solution id="fs-idm380053488">
+<para id="fs-idm380053232">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm252935232" class="exercise-set-a">
+<exercise id="fs-idm252767552">
+<problem id="fs-idm245547232">
+<para id="fs-idm263036352"><link class="lo-reference" document="m68124"/><link target-id="fs-idm257402608"/> shows a list of expenses involved in the production of custom, professional lacrosse sticks.</para>
+<list id="fs-idm254760048" list-type="enumerated" number-style="upper-alpha">
+<item>For each item listed, state whether the cost should be applied to manufacturing or sales and administration.</item>
+<item>If the cost is a manufacturing cost, state whether it is direct materials, direct labor, or manufacturing overhead.</item>
+<item>If the cost is a manufacturing overhead cost, state whether it is indirect materials, indirect labor, or another type of manufacturing overhead.</item>
+</list>
+<table id="fs-idm257402608" class="top-titled" summary="No Summary">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Expenses Involved in Lacrosse Stick Production</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="center">Lacrosse Stick Production Costs</entry>
+<entry valign="bottom" align="center">Manufacturing or Sales &amp; Administration Cost?</entry>
+<entry valign="bottom" align="center">If Manufacturing: Direct Materials, Direct Labor, or Overhead?</entry>
+<entry valign="bottom" align="center">If Overhead: Indirect Materials, Indirect Labor, or Other?</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Carbon, fiberglass</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Administrative building rent</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Accountant salary</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Factory building depreciation</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Strings for the pocket</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Advertising</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Production supervisor salary</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Paint for sticks</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Research and development costs</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Wages of person who strings the sticks</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Cutting machine depreciation</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Human resources salaries</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Factory maintenance</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm255706496">
+<problem id="fs-idm248684368">
+<para id="fs-idm240863024"><link class="lo-reference" document="m68124"/>Burnham Industries incurs these costs for the month:</para>
+<media id="fs-idm240126032" class="scaled-down" alt="A list of costs reads “Direct materials, $2,000”, “Direct labor, 3,000”, “Factory depreciation expense, 3,500”, “Factory utilities expense, 750”, “CEO’s salary, 4,000”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_02_EA02_img.jpg"/>
+</media>
+<list id="fs-idm246152400" list-type="enumerated" number-style="upper-alpha">
+<item>What is the prime cost?</item>
+<item>What is the conversion cost?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm243587600" class="exercise-set-b">
+<exercise id="fs-idm263140448">
+<problem id="fs-idm246123360">
+<para id="fs-idm240314160"><link class="lo-reference" document="m68124"/>Choco’s Chocolates incurs the following costs for the month:</para>
+<media id="fs-idm246745408" class="scaled-down" alt="A list of costs reads “Direct materials, $15,000”, “Direct labor, 25,000”, “Factory depreciation expense, 45,000”, “Factory utilities expense, 2000”, “Payroll staff’s salary, 15,000”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_02_EB01_img.jpg"/>
+</media>
+<list id="fs-idm258138880" list-type="enumerated" number-style="upper-alpha">
+<item>What is the prime cost?</item>
+<item>What is the conversion cost?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm240361056">
+<problem id="fs-idm259499584">
+<para id="fs-idm246353840"><link class="lo-reference" document="m68124"/>The table shows a list of expenses involved in the production of custom snowboard bindings.</para>
+<list id="fs-idm257283760" list-type="enumerated" number-style="upper-alpha">
+<item>For each item listed, state if the cost is manufacturing or sales and administration.</item>
+<item>If the cost is a manufacturing cost, state if it is direct materials, direct labor, or manufacturing overhead.</item>
+<item>If the cost is a manufacturing overhead cost, state if it is indirect materials, indirect labor, or another type of manufacturing overhead.</item>
+</list>
+<table id="fs-idm257145424" class="top-titled" summary="No Summary">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Snowboard Binding Production Costs</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="center">Snowboard Bindings Production Costs</entry>
+<entry valign="bottom" align="center">Manufacturing or Sales &amp; Administration Cost?</entry>
+<entry valign="bottom" align="center">If Manufacturing: Direct Materials, Direct Labor, or Overhead?</entry>
+<entry valign="bottom" align="center">If Overhead: Indirect Materials, Indirect Labor, or Other?</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Aluminum</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Factory building rent</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Fiberglass framework for each pair of bindings</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Accountant salary</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Administration building depreciation</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Straps</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Advertising</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Production supervisor salary</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Glue</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Research and development costs</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Inspector wages</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Metal shaping machine depreciation</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Human resources salaries</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Factory repair</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm259910944">
+<term>cost driver</term>
+<meaning id="fs-idm259908432">activity that is the reason for the increase or decrease of another cost; examples include labor hours incurred, labor costs paid, amounts of materials used in production, units produced, machine hours, or any other activity that has a cause-and-effect relationship with incurred costs</meaning>
+</definition>
+<definition id="fs-idm261673184">
+<term>direct labor</term>
+<meaning id="fs-idm261416144">labor directly related to the manufacturing of the product or the production of a service</meaning>
+</definition>
+<definition id="fs-idm263689280">
+<term>direct materials</term>
+<meaning id="fs-idm262856096">materials used in the manufacturing process that can be traced directly to the product</meaning>
+</definition>
+<definition id="fs-idm261460704">
+<term>indirect labor</term>
+<meaning id="fs-idm261522352">labor not directly involved in the active conversion of materials into finished products or the provision of services</meaning>
+</definition>
+<definition id="fs-idm252941328">
+<term>indirect materials</term>
+<meaning id="fs-idm261328336">materials used in production but not efficiently traceable to a specific unit of production</meaning>
+</definition>
+<definition id="fs-idm261162496">
+<term>loss leader</term>
+<meaning id="fs-idm261818976">product sold at a price that is often less than the cost of producing it in order to entice customers to buy accessories that are necessary for its use</meaning>
+</definition>
+<definition id="fs-idm257354192">
+<term>manufacturing overhead</term>
+<meaning id="fs-idm264183584">costs incurred in the production process that are not economically feasible to measure as direct material or direct labor costs; examples include indirect material, indirect labor, utilities, and depreciation</meaning>
+</definition>
+<definition id="fs-idm260919280">
+<term>materials requisition form</term>
+<meaning id="fs-idm264176576">form showing which specific raw materials and costs are transferred from raw materials inventory to work in process inventory</meaning>
+</definition>
+<definition id="fs-idm259984736">
+<term>time ticket</term>
+<meaning id="fs-idm246415248">document used to record the particular job worked on by each employee</meaning>
+</definition>
+</glossary>
+</document>

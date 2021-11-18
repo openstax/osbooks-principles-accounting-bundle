@@ -1,0 +1,278 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Evaluate and Determine Whether to Make or Buy a Component</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68083</md:content-id>
+  <md:title>Evaluate and Determine Whether to Make or Buy a Component</md:title>
+  <md:abstract/>
+  <md:uuid>d2f82a02-3ed3-4106-9e68-ec571123506e</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm222731472">One of the most common outsourcing scenarios is one in which a company must decide whether it is going to make a component that it needs in manufacturing a product or buy that component already made. For example, all of the components of the iPhone are made by companies other than <emphasis class="colored-text">Apple</emphasis>. <emphasis class="colored-text">Ford</emphasis> buys truck and automobile seats, as well as many other components and individual parts, from various suppliers and then assembles them at <emphasis class="colored-text">Ford</emphasis> factories. With each component, <emphasis class="colored-text">Ford</emphasis> must decide if it is more cost effective to make that component internally or to buy that component from an external supplier.</para>
+<para id="fs-idm235961936">This type of analysis is also relevant to the service industry; for example, <emphasis class="colored-text">ADP</emphasis> provides payroll and data processing services to over 650,000 companies worldwide. Or a law firm may decide to hire certain research activities to be completed by outside experts rather than hire the necessary staff to keep that function in-house. These are all examples of outsourcing. <term>Outsourcing</term> is the act of using another company to provide goods or services that your company requires.</para>
+<para id="fs-idm245398320">Many companies outsource some of their work, but why? Consider this scenario: Today, while driving home from class, one of your car’s engine warning lights goes on. You will most likely take your car to an auto repair specialist to have it analyzed and repaired, whereas your grandfather might have popped the hood, grabbed his toolbox, and attempted to diagnose and fix the problem himself. Why? It is often a matter of expertise and sometimes simply a matter of cost benefit. In your grandfather’s time, car engines were more mechanical and less electronic, which made learning to repair cars a simpler process that required less expertise and only basic tools. Today, your car has many electronic components and often requires sophisticated monitors to assess the problem and may involve the replacement of computer chips or electronic sensors. Thus, you opt to outsource the repair of your car to someone who has the knowledge and facilities to provide the repair more cost effectively than you could if you did it yourself. Your grandfather likely could have made the repair to his car several decades ago as cheaply as the mechanic with only a sacrifice of his time. To your grandfather, the cost of his time was worth the benefit of completing the repair himself.</para>
+<para id="fs-idm241245872">Companies outsource for the same reasons. Many companies have found that it is more cost effective to outsource certain activities, such as payroll, data storage, and web design and hosting. It is more efficient to pay an outside expert than to hire the appropriate staff to keep a particular task inside the company.</para>
+<section id="fs-idm220730352">
+<title>Fundamentals of the Decision to Make or to Buy</title>
+<para id="fs-idm212628352">As with other decisions, the make-versus-buy decision involves both quantitative and qualitative analysis. The quantitative component requires cost analysis to determine which alternative is more cost effective. This cost analysis can be performed by looking at the cost to buy the component versus the cost to produce the component, which allows us to make a decision based on an analysis of unavoidable costs. For example, the costs to produce will include direct materials, direct labor, variable overhead, and fixed overhead. If the business chooses to buy the component instead, the avoidable costs will go away but unavoidable costs will remain and would need to be considered as part of the cost to buy the component.</para>
+</section>
+<section id="fs-idm235197296">
+<title>Sample Data</title>
+<para id="fs-idm239780848">Thermal Mugs, Inc., manufactures various types of leak-proof personal drink carriers. Thermal’s T6 container, its most insulated carrier, maintains the temperature of the liquid inside for 6 hours. Thermal has designed a new lid for the T6 carrier that allows for easier drinking and pouring. The cost to produce the new lid is $2.19:</para>
+<media id="fs-idm233684080" class="scaled-down-30" alt="Direct materials $0.87, Direct labor, $0.45, Variable overhead $0.36, Fixed overhead $0.51, Total unit cost $2.19.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_03_Mugs01_img.jpg"/>
+</media>
+<para id="fs-idm212489040">Plato Plastics has approached Thermal and offered to produce the 120,000 lids Thermal will require for current production levels of the T6 carrier, at a unit price of $1.75 each. Is this a good deal? Should Thermal buy the lids from Plato rather than produce them themselves? Initially, the $1.75 presented by Plato seems like a much better price than the $2.19 that it would cost Thermal to produce the lids. However, more information about the relevant costs is necessary to determine whether the offer by Plato is the better offer. Remember that all the variable costs of producing the lid will only exist if the lid is produced by Thermal, thus the variable costs (direct materials, direct labor, and variable overhead) are all relevant costs that will differ between the alternatives.</para>
+<para id="fs-idm242206144">What about the fixed costs? Assume all the fixed costs are not tied directly to the production of the lid and therefore will still exist even if the lid is purchased externally from Plato. This means the fixed costs of $0.51 per unit are unavoidable and therefore are not relevant.</para>
+</section>
+<section id="fs-idm222530432">
+<title>Calculations Using Sample Data</title>
+<para id="fs-idm239107680">Calculations show that when the relevant costs are compared between the two alternatives, it is more cost effective for Thermal to produce the 120,000 units of the T6 lid internally than to purchase it from Plato.</para>
+<media id="fs-idm236342144" alt="Relevant costs to make internally: Direct materials $0.87, Direct labor $0.45, Variable overhead $0.36 equals Total unit relevant cost $1.68. Multiply times Units required 120,000 equals Total relevant costs $201,600. Relevant costs to buy from Plato: Total unit relevant cost $1.75 time Units required 120,000 equals $210,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_03_Mugs02_img.jpg"/>
+</media>
+<para id="fs-idm242846336">By producing the T6 lid internally, Thermal can save $8,400 ($210,000 − $201,600). How would the analysis change if a portion of the fixed costs were avoidable? Suppose that, of the $0.51 in fixed costs per unit of the T6 lid, $0.12 of those fixed costs are associated with interest costs and insurance expenses and thus would be avoidable if the T6 lid is purchased externally rather than produced internally. How does that change the analysis?</para>
+<media id="fs-idm236317136" alt="Relevant costs to make internally: Direct materials $0.87, Direct labor $0.45, Variable overhead $0.36, avoidable fixed costs $0.12 equals Total unit relevant cost $1.80. Multiply times Units required 120,000 equals Total relevant costs $216,000. Relevant costs to buy from Plato: Total unit relevant cost $1.75 times Units required 120,000 equals $210,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_03_Mugs03_img.jpg"/>
+</media>
+<para id="fs-idm217631088">In this scenario, it is more cost effective for Thermal to buy the T6 lid from Plato, as Thermal would save $6,000 ($216,000 − $210,000).</para>
+</section>
+<section id="fs-idm235498240">
+<title>Final Analysis of the Decision</title>
+<para id="fs-idm236957968">The difference in these two presentations of the data emphasizes the importance of defining which costs are relevant, as improper cost identification can lead to bad decisions.</para>
+<para id="fs-idm235168432">These analyses only considered the quantitative factors in a make-versus-buy decision, but there are qualitative factors to consider as well, including:</para>
+<list id="fs-idm235202032" list-type="bulleted">
+<item>Will the T6 lid made by Plato meet the quality requirements of Thermal?</item>
+<item>Will Plato continue to produce the T6 lid at the $1.75 price, or is this a teaser rate to obtain the business, with the plan for the rate to go up in the future?</item>
+<item>Can Plato continue to produce the quantity of the lids desired? If more or fewer are needed from Plato, is the adjusted production level obtainable, and does it affect the cost?</item>
+<item>Does using Plato to produce the lids displace Thermal workers or hamper morale?</item>
+<item>Does using Plato to produce the lids affect the reputation of Thermal?</item>
+</list>
+<para id="fs-idm233266896">In addition, if the decision is to buy the lid, Thermal is dependent on Plato for quality, timely delivery, and cost control. If Plato fails to deliver the lids on time, this can negatively affect Thermal’s production and sales. If the lids are of poor quality, returns, replacements, and the damage to Thermal’s reputation can be significant. Without long-term agreements on price increases, Plato can increase the price they charge Thermal, thus making the entire drink container more expensive and less profitable. However, buying the lid likely means that Thermal has excess production capacity that can now be applied to making other products. If Thermal chooses to make the lid, this consumes some of the productive capacity and may affect the relationship Thermal has with the outside supplier if that supplier is already working with Thermal on other products.</para>
+<para id="fs-idm212985312">Make versus buy, one of many outsourcing decisions, should involve assessing all relevant costs in conjunction with the qualitative issues that affect the decision or arise because of the choice. Although it may appear that these types of outsourcing decisions are difficult to resolve, companies throughout the world make these decisions daily as part of the company’s strategic plan, and therefore, each company must weigh the advantages and disadvantages of outsourcing production of goods and services. Some examples are shown in <link target-id="fs-idm222597344"/>.</para>
+<table id="fs-idm222597344" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Advantages and Disadvantages of Outsourcing</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Advantages of Outsourcing</entry>
+<entry valign="top" align="center">Disadvantages of Outsourcing</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><list id="fs-idm245499440" list-type="bulleted">
+<item>Utilizes external expertise, removes the need for in-house expertise</item>
+<item>Frees up capacity for other uses</item>
+<item>Frees up capital for other uses</item>
+<item>Allows management to focus on competitive strengths</item>
+<item>Transfers some production and technological risks to supplier</item>
+</list></entry>
+<entry valign="top" align="left"><list id="fs-idm236030512" list-type="bulleted">
+<item>Takes away control over quality and timing of production</item>
+<item>May limit ability to upsize or downsize production</item>
+<item>May have hidden costs and/or a lack of stability of price</item>
+<item>May diminish innovation</item>
+<item>Often makes it difficult to bring the production back in-house once it has been removed</item>
+</list></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm222580176">In an outsourcing decision, the relevant costs and qualitative issues should be analyzed thoroughly. If there are no qualitative issues that affect the decision and the leasing or purchasing price is less than the relevant (avoidable) costs of producing the good or service in house, the company should outsource the product or service. The following example demonstrates this issue for a service entity.</para>
+<para id="fs-idm241361248">Lake Law has ten lawyers on staff who handle workers’ compensation and workplace discrimination lawsuits. Lake has an excellent success rate and frequently wins large settlements for their clients. Because of the size of their settlements, many clients are interested in establishing trusts to manage the investing and distribution of the funds. Lake Law does not have a trust or estate lawyer on staff and is debating between hiring one or using an attorney at a nearby law firm that specializes in wills, trusts, and estates to handle the trusts of Lake’s clients. Hiring a new attorney would require $120,000 in salary for the attorney, an additional 20% in benefits, a legal assistant for the new attorney for 20 hours per week at a cost of $20 per hour, and conversion of a storage room into an office. Lake spent $100,000 on redecorating the offices last year and has sufficient furniture for a new office. The attorney at the nearby firm would charge a retainer of $50,000 plus $200 per hour worked on each trust. The retainer is in addition to the $200 per hour charge for work on trusts. The average trust takes 10 hours to complete and Lake estimates approximately 50 trusts per year. In addition, an external attorney would charge $500 for each trust to cover office expenses and filing fees. Which option should Lake choose?</para>
+<para id="fs-idm235128480">To determine the solution, first, find the relevant costs for hiring internally and for using an external attorney.</para>
+<media id="fs-idm241517488" alt="Hire internally: Salary $120,000, Benefits (20 percent) $24,000, Legal assistant (20 hrs times $20) $400 equals Total relevant costs $164,800. Use external attorney: Retainer $50,000, Cost per trust times number of trusts ($200 times 10 times 50) $100,000, Additional fees $500 equals Total relevant costs $175,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_03_Lake_img.jpg"/>
+</media>
+<para id="fs-idm236460496">Based on the quantitative analysis, Lake should hire an estate attorney to have on staff. For the year, the firm would save $10,200 ($164,800 for internal versus $175,000 with the external attorney) by going with the internal hire. Other potential advantages would be that an in-house attorney could complete more than the estimated 50 trusts without incurring additional costs, and by keeping the work in-house, it helps to build the relationship between the firm and the clients. A disadvantage would be if there is not sufficient work to keep the in-house attorney busy, the company would still have to pay the $120,000 salary plus the additional costs of $44,800 for benefits and the legal assistant’s salary, even if the attorney is working at less than full capacity.</para>
+<note id="fs-idm237098048" class="link-to-learning">
+<para id="fs-idm239638512">The iPhone is the ultimate example of outsourcing. Though created in the United States, it is produced all around the globe, with thousands of parts supplied by over 200 suppliers—none of which is <emphasis class="colored-text">Apple</emphasis>. Read this <link url="https://openstax.org/l/50iPhoneParts">article from <emphasis effect="italics">The New York Times</emphasis> on where parts for the iPhone are made</link> to learn how an iPhone gets from the design phase in the United States to production of components around the world, to assembly in China, and then back to the United States for sale in a retail store.</para>
+</note>
+</section>
+<section id="fs-idm235998384" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm242883456" list-type="bulleted" bullet-style="bullet">
+<item>Deciding to outsource a component of the operations or manufacturing of a business is a choice between alternatives.</item>
+<item>Choosing whether to make or to buy a product, or choosing to have services performed by an outside company, are outsourcing decisions.</item>
+<item>Outsourcing decisions involve comparing the cost to keep the product or service in-house to the cost of buying the product or service from an outside party.</item>
+<item>An important consideration in these types of decisions is unavoidable costs.</item>
+</list>
+</section>
+<section id="fs-idm241420640" class="multiple-choice">
+<exercise id="fs-idm237708944">
+<problem id="fs-idm240873616">
+<para id="fs-idm239162320"><link class="lo-reference" document="m68083"/>________ is the act of using another company to provide goods or services that your company requires.</para>
+<list id="fs-idm241393216" list-type="enumerated" number-style="upper-alpha">
+<item>Allocating</item>
+<item>Outsourcing</item>
+<item>Segmenting</item>
+<item>Leasing</item>
+</list>
+</problem>
+<solution id="fs-idm217669328">
+<para id="fs-idm234142016">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm236454144">
+<problem id="fs-idm253052240">
+<para id="fs-idm235445568"><link class="lo-reference" document="m68083"/>Which of the following is a disadvantage of outsourcing?</para>
+<list id="fs-idm253079536" list-type="enumerated" number-style="upper-alpha">
+<item>freeing up capacity</item>
+<item>freeing up capital</item>
+<item>transferring production and technology risks</item>
+<item>limiting ability to upsize or downsize production</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm245677888">
+<problem id="fs-idm234041824">
+<para id="fs-idm237885728"><link class="lo-reference" document="m68083"/>Which of the following is <emphasis effect="italics">not</emphasis> a qualitative decision that should be considered in an outsourcing decision?</para>
+<list id="fs-idm235240624" list-type="enumerated" number-style="upper-alpha">
+<item>employee morale</item>
+<item>product quality</item>
+<item>company reputation</item>
+<item>relevant costs</item>
+</list>
+</problem>
+<solution id="fs-idm242356032">
+<para id="fs-idm247327248">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm236890848" class="questions">
+<exercise id="fs-idm235962512">
+<problem id="fs-idm241611184">
+<para id="fs-idm238750432"><link class="lo-reference" document="m68083"/>In “The Trouble with Outsourcing,” a Schumpeter column in <emphasis effect="italics">The Economist</emphasis>, there is a statement of advice to companies, who outsource products or services: “they need to think harder about what is their core business, and what is peripheral.”<footnote id="fs-idm227603328">“The Trouble with Outsourcing.” <emphasis effect="italics">The Economist</emphasis>. July 30, 2011. https://www.economist.com/business/2011/07/30/the-trouble-with-outsourcing</footnote> What types of problems do you think they are talking about? In your answer, present at least five (5) problems that companies should consider when outsourcing products or services.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm254618400">
+<problem id="fs-idm238220176">
+<para id="fs-idm253105392"><link class="lo-reference" document="m68083"/>Many outsourced jobs have resulted in “offshoring” jobs, rather than using domestic outsourcing. If a U.S. company wants to offshore a service like customer service, for example, what are some of their considerations? In your answer, address offshoring disadvantages as compared with domestic outsourcing.</para>
+</problem>
+<solution id="fs-idm234383680">
+<para id="fs-idm244100464">First and foremost, customer service quality is a consideration, followed closely by the ability of the offshore personnel to speak clearly in English and to understand the customer’s needs. Chief operating officers should also make sure that the call centers are adequately staffed and run in an ethical manner, similar to the main company contracting with the outsourced service. Offshoring disadvantages should be weighed against domestic outsourcing in the areas of time zone problems, politically correct labor choices, rising labor costs abroad, as well as culture and language.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm238720416" class="exercise-set-a">
+<exercise id="fs-idm239641152">
+<problem id="fs-idm230020544">
+<para id="fs-idm217549760"><link class="lo-reference" document="m68083"/>Reuben’s Deli currently makes rolls for deli sandwiches it produces. It uses 30,000 rolls annually in the production of deli sandwiches. The costs to make the rolls are:</para>
+<media id="fs-idm237840928" class="scaled-down-30" alt="Cost per roll: Materials $0.24, Labor, $0.40, Variable overhead $0.16, Fixed overhead $0.20.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_03_EA01_img.jpg"/>
+</media>
+<para id="fs-idm238277600">A potential supplier has offered to sell Reuben the rolls for $0.90 each. If the rolls are purchased, 30% of the fixed overhead could be avoided. If Reuben accepts the offer, what will the effect on profit be?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm254569216">
+<problem id="fs-idm239636080">
+<para id="fs-idm234360624"><link class="lo-reference" document="m68083"/>Almond Treats manufactures various types of cereals that feature almonds. Acme Cereal Company has approached Almond Treats with a proposal to sell the company its top selling cereal at a price of $22,000 for 20,000 pounds. The costs shown are associated with production of 20,000 pounds of almond cereal:</para>
+<media id="fs-idm242194880" class="scaled-down-30" alt="Direct materials $13,000, Direct labor $5,000, Manufacturing overhead $7,000, Total cost $25,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_03_EA02_img.jpg"/>
+</media>
+<para id="fs-idm233063648">The manufacturing overhead consists of $2,000 of variable costs with the balance being allocated to fixed costs. Should Almond Treats make or buy the almond cereal?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm249681328" class="exercise-set-b">
+<exercise id="fs-idm217966080">
+<problem id="fs-idm233971968">
+<para id="fs-idm243857456"><link class="lo-reference" document="m68083"/>Country Diner currently makes cookies for its boxed lunches. It uses 40,000 cookies annually in the production of the boxed lunches. The costs to make the cookies are:</para>
+<media id="fs-idm241745632" alt="Cost per cookie: Materials $0.30, Labor $0.30, Variable overhead $0.20, Fixed overhead $0.10.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_03_EB01_img.jpg"/>
+</media>
+<para id="fs-idm238316512">A potential supplier has offered to sell Country Diner the cookies for $0.85 each. If the cookies are purchased, 10% of the fixed overhead could be avoided. If Jason accepts the offer, what will the effect on profit be?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm239585776">
+<problem id="fs-idm248350992">
+<para id="fs-idm234958496"><link class="lo-reference" document="m68083"/>Oat Treats manufactures various types of cereal bars featuring oats. Simmons Cereal Company has approached Oat Treats with a proposal to sell the company its top selling oat cereal bar at a price of $27,500 for 20,000 bars. The costs shown are associated with production of 20,000 oat bars currently.</para>
+<media id="fs-idm232598864" class="scaled-down-30" alt="Direct materials $14,000, Direct labor $6,000, Manufacturing overhead $8,000, Total cost $28,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_03_EB02_img.jpg"/>
+</media>
+<para id="fs-idm236054800">The manufacturing overhead consists of $3,000 of variable costs with the balance being allocated to fixed costs. Should Oat Treats make or buy the oat bars?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm237124848" class="problem-set-a">
+<exercise id="fs-idm235520096">
+<problem id="fs-idm244248656">
+<para id="fs-idm236042944"><link class="lo-reference" document="m68083"/>Boston Executive, Inc., produces executive limousines and currently manufactures the mini-bar inset at these costs:</para>
+<media id="fs-idm254074368" class="scaled-down-30" alt="Cost per unit: Variable costs: Direct material $950, Direct labor $650, Variable overhead $300 equals Total variable costs $1,900. Fixed costs: Depreciation of equipment $500, Depreciation of building $200, Supervisor salaries $300, Total fixed costs $1,000. Total cost $2,900.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_03_PA02_img.jpg"/>
+</media>
+<para id="fs-idm242339424">The company received an offer from Elite Mini-Bars to produce the insets for $2,100 per unit and supply 1,000 mini-bars for the coming year’s estimated production. If the company accepts this offer and shuts down production of this part of the business, production workers and supervisors will be reassigned to other areas. Assume that for the short-term decision-making process demonstrated in this problem, the company’s total labor costs (direct labor and supervisor salaries) will remain the same if the bar inserts are purchased.</para>
+<para id="fs-idm234517072">The specialized equipment cannot be used and has no market value. However, the space occupied by the mini-bar production can be used by a different production group that will lease it for $55,000 per year. Should the company make or buy the mini-bar insert?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm235280592">
+<problem id="fs-idm232476928">
+<para id="fs-idm232489920"><link class="lo-reference" document="m68083"/>Gent Designs requires three units of part A for every unit of A1 that it produces. Currently, part A is made by Gent, with these per-unit costs in a month when 4,000 units were produced:</para>
+<media id="fs-idm232934416" class="scaled-down-30" alt="Direct materials $4.00, Direct labor $1.50, Manufacturing overhead $1.30, Total cost $6.80.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_03_PA03_img.jpg"/>
+</media>
+<para id="fs-idm242227552">Variable manufacturing overhead is applied at $1.00 per unit. The other $0.30 of overhead consists of allocated fixed costs. Gent will need 6,000 units of part A for the next year’s production.</para>
+<para id="fs-idm237131872">Cory Corporation has offered to supply 6,000 units of part A at a price of $7.00 per unit. If Gent accepts the offer, all of the variable costs and $1,200 of the fixed costs will be avoided. Should Gent Designs accept the offer from Cory Corporation?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm242486608" class="problem-set-b">
+<exercise id="fs-idm217920848">
+<problem id="fs-idm249268608">
+<para id="fs-idm245472592"><link class="lo-reference" document="m68083"/>Regal Executive, Inc., produces executive motor coaches and currently manufactures the tent awnings that accompany them at these costs:</para>
+<media id="fs-idm249826704" class="scaled-down-30" alt="Cost per unit: Variable costs: Direct material $1,250, Direct labor $750, Variable overhead $500 equals Total variable costs $2,500. Fixed costs: Depreciation of equipment $500, Depreciation of building $400, Supervisor salaries $300, Total fixed costs $1200. Total cost $3,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_03_PB02_img.jpg"/>
+</media>
+<para id="fs-idm243968512">The company received an offer from Saied Tents to produce the awnings for $3,200 per unit and supply 1,000 awnings for the coming year’s estimated production. If the company accepts this offer and shuts down production of this part of the business, production workers and supervisors will be reassigned to other areas. Assume that for the short-term decision-making process demonstrated in this problem, the company’s total labor costs (direct labor and supervisor salaries) will remain the same if the bar inserts are purchased.</para>
+<para id="fs-idm241424496">The specialized equipment cannot be used and has no market value. However, the space occupied by the awning production can be used by a different production group that will lease it for $60,000 per year. Should the company make or buy the awnings?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm241623104">
+<problem id="fs-idm238318656">
+<para id="fs-idm230002752"><link class="lo-reference" document="m68083"/>Remarkable Enterprises requires four units of part A for every unit of A1 that it produces. Currently, part A is made by Remarkable, with these per-unit costs in a month when 4,000 units were produced:</para>
+<media id="fs-idm252981312" class="scaled-down-30" alt="Direct materials $4.80, Direct labor $2.00, Manufacturing overhead $2.10, Total cost $8.90.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_03_PB03_img.jpg"/>
+</media>
+<para id="fs-idm236528272">Variable manufacturing overhead is applied at $1.60 per unit. The other $0.50 of overhead consists of allocated fixed costs. Remarkable will need 8,000 units of part A for the next year’s production.</para>
+<para id="fs-idm238693392">Altoona Corporation has offered to supply 8,000 units of part A at a price of $8.00 per unit. If Remarkable accepts the offer, all of the variable costs and $2,000 of the fixed costs will be avoided. Should Remarkable accept the offer from Altoona Corporation?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm233712336">
+<problem id="fs-idm234503632">
+<para id="fs-idm252315936"><link class="lo-reference" document="m68083"/>Colin O’Shea has a carpentry shop that employs 4 carpenters. Colin received an order for 1,000 coffee tables. The coffee tables have a round table top and four decorative legs. An offer for $500 per table was received. Colin found an unfinished round table top that he could buy for $50 each.</para>
+<list id="fs-idm239596944" list-type="enumerated" number-style="upper-alpha">
+<item>Using this quantitative cost data to make the table top, should Colin buy the table top or make it?<newline/>
+<media id="fs-idm246179216" class="scaled-down-30" alt="Direct material $10, Direct labor $35, Variable overhead $20, Fixed overhead $7.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_03_PB0X_img.jpg"/>
+</media></item>
+<item>What qualitative factors would be included in your decision.</item>
+</list>
+<para id="fs-idm211941376">B. Can the vendor make it to the same quality standards? Can it be completed on time? Is there idle capacity in the factory that could be used?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm217901728" class="thought-provokers">
+<exercise id="fs-idm234403520">
+<problem id="fs-idm241296688">
+<para id="fs-idm236613824"><link class="lo-reference" document="m68083"/>You are a management accountant for Time Treasures Company, whose company has recently signed an outsourcing agreement with Spotless, Inc., a janitorial service company. Spotless will provide all of Time Treasures’ janitorial services, including sweeping floors, hauling trash, washing windows, stocking restrooms, and performing minor repairs. Time Treasures will be billed at an hourly rate based on the type of service performed. The work of common laborers (sweeping, hauling trash) is to be billed at $8 per hour. More skilled (repairs) and more dangerous work (washing outside windows on the 23<sup>rd</sup> floor) are to be billed at $18 per hour. Supervisory time is to be billed at $20 per hour. Spotless will submit monthly invoices, which will show the number and types of hours for which Time Treasures is being charged. The outsourcing contract is simple and straightforward.</para>
+<list id="fs-idm252592320" list-type="enumerated" number-style="upper-alpha">
+<item>What are some of the internal control problems you foresee as a result of outsourcing the janitorial service with this contract?</item>
+<item>Explain recommendations to control risk that would you suggest after reviewing the contract.</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm238935808">
+<term>outsourcing</term>
+<meaning id="fs-idm253842336">act of using another company to provide goods or services that your company requires</meaning>
+</definition>
+</glossary>
+</document>

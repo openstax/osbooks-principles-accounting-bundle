@@ -1,0 +1,260 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Evaluate and Determine Whether to Keep or Discontinue a Segment or Product</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68084</md:content-id>
+  <md:title>Evaluate and Determine Whether to Keep or Discontinue a Segment or Product</md:title>
+  <md:abstract/>
+  <md:uuid>735ae423-88b2-4bdc-89e6-12ecd357630b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm366387824">Companies tend to divide their organization along product lines, geographic locations, or other management needs for decision-making and reporting. A <term>segment</term> is a portion of the business that management believes has sufficient similarities in product lines, geographic locations, or customers to warrant reporting that portion of the company as a distinct part of the entire company. For example, <emphasis class="colored-text">General Electric, Inc.</emphasis>, has eight segments and the <emphasis class="colored-text">Walt Disney Company</emphasis> has four segments. <link target-id="fs-idm366688464"/> shows these segments.</para>
+<table id="fs-idm366688464" class="top-titled" summary="No Summary">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Examples of Company Segments</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">General Electric Segments</entry>
+<entry valign="top" align="center">Disney Segments</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><list id="fs-idm356309408" list-type="bulleted"><item>Additive</item>
+<item>Aviation</item>
+<item>Capital</item>
+<item>Digital</item>
+<item>Healthcare</item>
+<item>Lighting</item>
+<item>Power</item>
+<item>Renewable Energy</item>
+<item>Transportation</item>
+</list></entry>
+<entry valign="top" align="left"><list id="fs-idm372984016" list-type="bulleted">
+<item>Media Networks</item>
+<item>Parks, Experiences, and Consumer Products</item>
+<item>Studio Entertainment</item>
+<item>Direct to Consumer and International</item>
+</list></entry>
+</row>
+</tbody>
+
+
+</tgroup><caption>Examples of Company Segments<footnote id="fs-idm365635984">GE Businesses. n.d. https://www.ge.com/; Disney. “Our Businesses.” n.d. https://www.thewaltdisneycompany.com/about/#our-businesses</footnote><!-- Duplicating table title to add footnote in caption instead of fake table title --></caption>
+</table><para id="fs-idm348619760">As part of the normal operations of a business, managers make decisions such as whether to keep producing a product, whether to continue operating in certain areas, or whether to close entire segments of their operations. These are historically some of the most difficult decisions that managers make. Examples of these types of decisions include <emphasis class="colored-text">Macy’s</emphasis> decision to close 100 stores in 2016 due to increased competition from online retailers such as <emphasis class="colored-text">Amazon.com</emphasis><footnote id="fs-idm378778480">Hayley Peterson. “Macy’s May Shut Down Even More Stores.” <emphasis effect="italics">Business Insider</emphasis>. May 12, 2017. http://www.businessinsider.com/macys-might-shut-down-more-stores-2017-5</footnote> and <emphasis class="colored-text">Delta Airline’s</emphasis> decision to eliminate 16 routes to save costs.<footnote id="fs-idm370461632">Jason Williams. “Delta Downsizing Flights to 14 More Cities.” Cincinnati.com. Mar. 11, 2015. http://www.cincinnati.com/story/news/2015/03/10/delta-cincinnati-airline-cuts-kentucky/24701445/</footnote> What information does management use in making these types of decisions?</para>
+<para id="fs-idm364653968">As with other decisions, management must consider both the quantitative and qualitative aspects. In choosing between alternatives—that is, in choosing between keeping and eliminating the product, segment, or service—the relevant revenues and costs should be analyzed. Remember that relevant revenues and costs are those that differ between alternatives. Often, the keep-versus-eliminate decision arises because the product or segment appears to be generating less of a profit than in prior periods or is unprofitable. In these situations, the product or segment may produce a positive contribution margin but may appear to have a lower or negative profit because of the allocation of common fixed costs.</para>
+<section id="fs-idm367298128">
+<title>Fundamentals of the Decision to Keep or Discontinue a Segment or Product</title>
+<para id="fs-idm363799824">Two basic approaches can be used to analyze data in this type of decision. One approach is to compare contribution margins and fixed costs. In this method, the contribution margins with and without the segment (or division or product line) are determined. The two contribution margins are compared and the alternative with the greatest contribution margin would be the chosen alternative because it provides the biggest contribution toward meeting fixed costs.</para>
+<para id="fs-idm350117808">The second approach involves calculating the total net income for retaining the segment and comparing it to the total net income for dropping the segment. The company would then proceed with the alternative that has the highest net income. In order to perform these net income calculations, the company would need more information than they would need in order to follow the contribution margin approach, which does not consider the costs and revenues that are the same between the alternatives.</para>
+<note id="fs-idm374327104" class="think-through">
+<title>Allocating Common Fixed Costs</title>
+<para id="fs-idm374374912">Acme, Co., has three retail divisions: Small, Medium, and Large. Sales, variable costs, and fixed costs for each of the divisions are:</para>
+<media id="fs-idm382555152" alt="Sales, Variable Costs, and Fixed Costs, respectively: Small $5,000,000, $2,875,000, $2,450,000; Medium $10,000,000, $7,235,000, $5,125,000; Large $25,000,000, $18,960,000, $8,230,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_04_TT01_img.jpg"/>
+</media>
+<para id="fs-idm362401904">Included in the fixed costs are $5,400,000 in allocated common costs, which are split evenly among the three divisions. Is an even split the best way to allocate those costs? Why or why not? What other ways might Acme consider using to allocate the common fixed costs?</para>
+</note>
+</section>
+<section id="fs-idm366888448">
+<title>Sample Data</title>
+<para id="fs-idm366872384">Suppose SnowBucks, Inc., has three product lines: snow boots, snow sporting equipment, and a clothing line for winter sports. It has been brought to senior management’s attention that the snow boot product line is unprofitable. <link target-id="OSX_Acct_M10_04_Snow01"/> shows the data presented to senior management:</para>
+<figure id="OSX_Acct_M10_04_Snow01">
+<media id="fs-idm363775840" alt="Snow Boots, Snow Sporting Equipment, Clothing Line, Total, respectively: Sales $1,150,000, $1,540,000, $1,354,000, $4,044,000 less Cost of goods sold: Variable manufacturing expenses $423,000, $507,000, $378,000, $1,308,000 and Fixed manufacturing expenses $392,000, $413,000, $353,000, $1,158,000 equals Gross margin $335,000, $620,000, $623,000, $1,578,000 less Selling and administrative expenses of Variable selling and administrative expenses $195,000, $130,000, $147,000, $472,000 and Fixed selling and administrative expenses $216,000, $216,000, $216,000, $648,000 equals Operating incomes of ($76,000), $274,000, $260,000, $458,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_04_Snow01.jpg"/>
+</media>
+<caption>Operating Income Report for SnowBucks, by Segment. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm362389248">Upon initial review, it appears that the snow boot product line is unprofitable. Should this product line be eliminated? To adequately analyze this situation, a proper analysis of the relevant revenues and costs must be made. The functional income statement in <link target-id="OSX_Acct_M10_04_Snow01"/> does not separate relevant from non-relevant costs.</para>
+<para id="fs-idm385893440">In conducting the analysis, the accounting team discovers that each product line is allocated certain costs over which the product line managers have no control. These <term>allocated costs</term> are typically associated with areas of the company that do not generate revenue but are necessary for the running of the organization, such as salaries for executives, human resources, and accounting at headquarters.</para>
+<para id="fs-idm356244288">The cost of these parts of the organization must somehow be shared with the revenue-generating portions of the business. Companies often allocate these costs to other parts of the organization based on some formula, such as dividing the total costs by the number of divisions or segments, as percentage of total revenue, or as percentage of total square footage.</para>
+<para id="fs-idm357217200">SnowBucks currently allocates these costs equally to the three product lines, and all the fixed selling and administrative expenses are considered allocated costs. In addition, the fixed manufacturing expenses represent factory rent, depreciation, and insurance, and all these costs will continue to exist regardless of whether the snow boot division continues. However, included in the fixed manufacturing expenses is the $75,000 salary of a sales supervisor for each division. This is an avoidable fixed cost as this cost would no longer exist if any division ceased operating.</para>
+</section>
+<section id="fs-idm363810192">
+<title>Calculations Using Sample Data</title>
+<para id="fs-idm367227568">Based on the new information, a new analysis using a product line margin indicates the following:</para>
+<media id="fs-idm384908656" alt="Snow Boots, Snow Sporting Equipment, Clothing Line, Total, respectively: Sales $1,150,000, $1,540,000, $1,354,000, $4,044,000 less Variable expenses: Variable manufacturing expenses $423,000, $507,000, $378,000, $1,308,000 and Variable selling and administrative expenses $195,000, $130,000, $147,000, $472,000 equals Contribution margin $532,000, $903,000, $829,000, $2,264,000 less Direct fixed manufacturing expenses $75,000, $75,000, $75,000, $225,000 equals Product margin $457,000, $828,000, $754,000, $2,039,000. From the total Product margin of $2,039,000 subtract total Fixed selling and administrative expenses $648,000 and Fixed manufacturing expenses $933,000 to equal Operating income of $458,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_04_Snow02_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm366645344">
+<title>Final Analysis of the Decision</title>
+<para id="fs-idm387569728">This new analysis shows that when the relevant costs and revenues are considered, it is apparent the snow boot product line is contributing toward meeting the fixed costs of the organization and therefore to overall corporate profitability. The reason the snow boot product line was showing an operating loss was due to the allocation of common costs. Consideration should be given to the way allocated costs are assigned to the various products to determine if the allocation is logical or if another allocation method, such as one based on each product line’s percentage of the total corporate sales, would provide a better matching of costs and services provided by corporate headquarters. Management should also consider qualitative factors, such as the impact of removing one product line on the overall sales of the other products. If customers commonly buy snow boots and skis together, then discontinuing the snow boot line could impact the sales of snow skis.</para>
+<note id="fs-idm363817440" class="your-turn">
+  <title>Disney’s Segments</title>
+<para id="fs-idm383902704">View <link url="https://openstax.org/l/50DisneyEarn">Walt Disney Company’s 2018 full year earnings report</link> on their website. Scroll to the section on Segment Results and answer these questions:</para>
+<list id="fs-idm344167552" list-type="enumerated" number-style="upper-alpha">
+<item>How many segments does <emphasis class="colored-text">Disney</emphasis> have?</item>
+<item>Which segment had the highest revenue in 2018?</item>
+<item>Which segment had the highest operating income in 2018?</item>
+<item>Which segment has shown the most revenue growth between 2017 and 2018?</item>
+<item>How many segments showed growth in operating income between 2017 and 2018 and how many segments showed a decline in operating income between 2017 and 2018?</item>
+<item>Which segment has shown the least operating income growth between 2017 and 2018?</item>
+</list>
+<para id="fs-idm356420640"><emphasis effect="bold">Solution</emphasis></para>
+<list id="fs-idm324751184" list-type="enumerated" number-style="upper-alpha">
+<item>Four: Media Networks, Parks &amp; Resorts, Studio Entertainment, and Consumer Products &amp; Interactive Media</item>
+<item>Media Networks</item>
+<item>Media Networks</item>
+<item>Studio Entertainment</item>
+<item>Two segments (Parks &amp; Resorts and Studio Entertainment) showed operating income growth, while two segments (Media Networks and Consumer Products &amp; Interactive Media) showed a decline in operating income between 2017 and 2018.</item>
+<item>Consumer Products &amp; Interactive Media</item>
+</list>
+</note>
+</section>
+<section id="fs-idm374810272" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm388608496" list-type="bulleted" bullet-style="bullet">
+<item>Deciding to keep or discontinue a product line or a segment of a business is a choice between alternatives.</item>
+<item>The choice to keep or eliminate involves comparing the business’s total operating income generated from keeping the product or segment and comparing this to the business’s total operating income generated if the product or segment is eliminated.</item>
+<item>An important consideration in these types of decisions is allocated costs.</item>
+</list>
+</section>
+<section id="fs-idm385788816" class="multiple-choice">
+<exercise id="fs-idm380520448">
+<problem id="fs-idm387176816">
+<para id="fs-idm385316128"><link class="lo-reference" document="m68084"/>Which of the following is one of the two approaches used to analyze data in the decision to keep or discontinue a segment?</para>
+<list id="fs-idm379073152" list-type="enumerated" number-style="upper-alpha">
+<item>comparing contribution margins and fixed costs</item>
+<item>comparing contribution margins and variable costs</item>
+<item>comparing gross margin and variable costs</item>
+<item>comparing total contribution margin under each alternative</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm385854864">
+<problem id="fs-idm368457824">
+<para id="fs-idm356146816"><link class="lo-reference" document="m68084"/>When should a segment be dropped?</para>
+<list id="fs-idm387368272" list-type="enumerated" number-style="upper-alpha">
+<item>only when the decrease in total contribution margin is less than the decrease in fixed cost</item>
+<item>only when the decrease in total contribution margin is equal to fixed cost</item>
+<item>only when the increase in total contribution margin is more than the decrease in fixed cost</item>
+<item>only when the decrease in total contribution margin is less than the decrease in variable cost</item>
+</list>
+</problem>
+<solution id="fs-idm364504480">
+<para id="fs-idm362936928">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm384381536">
+<problem id="fs-idm388661952">
+<para id="fs-idm385494240"><link class="lo-reference" document="m68084"/>Youngstown Construction plans to discontinue its roofing segment. Last year, this segment generated a contribution margin of $65,000 and incurred $70,000 in fixed costs. Discontinuing the segment will allow the company to avoid half of the fixed costs. What effect is expected to occur to the company’s overall profit?</para>
+<list id="fs-idm380049248" list-type="enumerated" number-style="upper-alpha">
+<item>a decrease of $5,000</item>
+<item>a decrease of $30,000</item>
+<item>a decrease of $5,000</item>
+<item>an increase of $30,000</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm368536608" class="questions">
+<exercise id="fs-idm383866208">
+<problem id="fs-idm374035600">
+<para id="fs-idm373030640"><link class="lo-reference" document="m68084"/>What type of qualitative issues should management consider if a quantitative analysis reveals that a segment should be dropped?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm377878480">
+<problem id="fs-idm348667664">
+<para id="fs-idm378200528"><link class="lo-reference" document="m68084"/>In the decision by a grocery company that is trying to decide whether to keep or drop the bakery department in its grocery stores, what would the bakery manager’s salary be in relationship to the decision if the manager will be laid off?</para>
+</problem>
+<solution id="fs-idm384359136">
+<para id="fs-idm384384624">The bakery manager’s salary would be avoidable and therefore differential in the analysis.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm374270736" class="exercise-set-a">
+<exercise id="fs-idm380994000">
+<problem id="fs-idm383288016">
+<para id="fs-idm373105440"><link class="lo-reference" document="m68084"/>Party Supply is trying to decide whether or not to continue its costume segment. The information shown is available for Party Supply’s business segments. Assume that neither the Direct fixed costs nor the Allocated common fixed costs may be eliminated, but will be allocated to the two remaining segments.</para>
+<media id="fs-idm384300384" alt="Costumes, Party Supplies, and Floral Decorations, respectively: Sales $160,000, $110,000, $120,000 less Variable costs $84,000, $50,000, $120,000 equals Contribution margin $76,000, $60,000, $90,000 less Direct fixed costs $50,000, $20,000, $25,000 and Allocated common fixed costs $30,000, $25,000, $30,000 equals Net income $(4,000), $15,000, $35,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_04_EA02_img.jpg"/>
+</media>
+<para id="fs-idm372533536">If costumes are dropped, what change will occur to profit?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm365021360" class="exercise-set-b">
+<exercise id="fs-idm370876240">
+<problem id="fs-idm387391520">
+<para id="fs-idm356319792"><link class="lo-reference" document="m68084"/>The Party Zone is trying to decide whether or not to continue its costume segment. The information shown is available for Party Zone’s business segments. Assume that neither the Direct fixed costs nor the Allocated common fixed costs may be eliminated, but will be allocated to the two remaining segments.</para>
+<media id="fs-idm364178768" alt="Costumes, Party Supplies, and Floral Decorations, respectively: Sales $160,000, $112,000, $215,000 less Variable costs $94,000, $52,000, $125,000 equals Contribution margin $66,000, $60,000, $90,000 less Direct fixed costs $50,000, $22,000, $28,000 and Allocated common fixed costs $20,000, $27,000, $32,000 equals Net income $(4,000), $11,000, $30,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_04_EB02_img.jpg"/>
+</media>
+<para id="fs-idm346073600">If costumes are dropped, what change will occur to profit?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm364597456" class="problem-set-a">
+<exercise id="fs-idm387017808">
+<problem id="fs-idm387089424">
+<para id="fs-idm372432048"><link class="lo-reference" document="m68084"/>Trifecta Distributors has decided to discontinue manufacturing its X Plus model. Currently, the company has 4,600 partially completed X Plus models on hand. The government has put a recall on a particular part in the X Plus model, so each base model must now be reworked to accommodate the style of the new part. The company has spent $110 per unit to manufacture these X Plus models to their current state. Reworking each X Plus model will cost $20 for materials and $20 for direct labor. In addition, $7 of variable overhead and $32 of allocated fixed overhead (relating primarily to depreciation of plant and equipment) will be allocated per unit. If Trifecta completes the X Plus models, it can sell them for $160 per unit. On the other hand, another manufacturer is interested in purchasing the partially completed units for $104 each and converting them into Z Plus models. Prepare a differential analysis per unit to determine if Trifecta should complete the X Plus models or sell them in their current state.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm384546576">
+<problem id="fs-idm380610592">
+<para id="fs-idm375457424"><link class="lo-reference" document="m68084"/>Extreme Sports sells logo sports merchandise. The company is contemplating whether or not to continue its custom embroidery service. All of the company’s direct fixed costs can be avoided if a segment is dropped. This information is available for the segments.</para>
+<media id="fs-idm364656864" alt="Custom Embroidery and Logo Apparel, respectively: Sales $60,000, $250,000 less Variable costs $30,000, $110,000 equals Contribution margin $30,000, $140,000 less direct fixed costs $22,000, $40,000 and Allocated common fixed costs $12,000, $50,000 equals Net income $(4,000), $50,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_04_PA02_img.jpg"/>
+</media>
+<list id="fs-idm356336032" list-type="enumerated" number-style="upper-alpha">
+<item>What will be the impact on net income if the embroidery segment is dropped?</item>
+<item>Assume that if the embroidery segment is dropped, apparel sales will increase 10%. What is the impact on the contribution margin and net income solely for the apparel?</item>
+<item>Identify one cost that is not relevant in this analysis.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm386823056">
+<problem id="fs-idm381213168">
+<para id="fs-idm383758288"><link class="lo-reference" document="m68084"/>Hong Publishing has purchased Lang Publishing. After reviewing titles from both companies, a decision must be made to determine what titles must be dropped. The following information is available to make the decision.</para>
+<media id="fs-idm366529088" alt="Title X, Title Y, and Title Z, respectively: Sales $100,000, $150,000, $200,000 less Variable cost $50,000, $75,000, $100,000 equals Contribution margin $50,000, $70,000, $100,000 less direct fixed cost $20,000, $30,000, $40,000 and Allocated common fixed cost $10,000, $15,000, $20,000 equals Net income $20,000), $30,000, $40,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_04_PA3_img.jpg"/>
+</media>
+<list id="fs-idm377200032" list-type="enumerated" number-style="upper-alpha">
+<item>What is the total income if all titles were produced?</item>
+<item>If Title X was dropped, what would be the effect on Net Income?</item>
+<item>How much did Title X Contribute to Fixed Costs?</item>
+<item>Determine the cost and the amount that will remain even if Title X is dropped?</item>
+<item>Which costs and amount will be eliminated if Title X is dropped?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm380962240" class="problem-set-b">
+<exercise id="fs-idm370335200">
+<problem id="fs-idm372598112">
+<para id="fs-idm368197664"><link class="lo-reference" document="m68084"/>ZZOOM, Inc., has decided to discontinue manufacturing its Z Best model. Currently, the company has 4,600 partially completed Z Best models on hand. The government has put a recall on a particular part in the Z Best model, so each base model must now be reworked to accommodate the style of the new part. The company has spent $110 per unit to manufacture these Z Best models to their current state. Reworking each Z Best model will cost $22 for materials and $25 for direct labor. In addition, $9 of variable overhead and $34 of allocated fixed overhead (relating primarily to depreciation of plant and equipment) will be allocated per unit. If ZZOOM completes the Z Best models, it can sell them for $180 per unit. On the other hand, another manufacturer is interested in purchasing the partially completed units for $105 each and converting them into Z Plus models. Prepare a differential analysis per unit to determine if ZZOOM should complete the Z Best models or sell them in their current state.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm388466768">
+<problem id="fs-idm374418096">
+<para id="fs-idm380950128"><link class="lo-reference" document="m68084"/>Cable paper company produces many colors of paper. The current popular color is grey. To increase the production of grey paper, a decision must be made to determine what color must be dropped. The following information is available to make the decision.</para>
+<media id="fs-idm383228960" alt="Peach, Blue, and Plum, respectively: Sales $40,000, $60,000, $80,000 less Variable costs $20,000, $30,000, $40,000 equals Contribution margin $20,000, $30,000, $40,000 less Direct fixed costs $8,000, $12,000, $16,000 and Allocated common fixed costs $4,000, $6,000, $8,000 equals Net income $8,000, $12,000, $16,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_04_PB2_img.jpg"/>
+</media>
+<list id="fs-idm375454032" list-type="enumerated" number-style="upper-alpha">
+<item>What is the total income if all colors were produced?</item>
+<item>If Peach was dropped, what would be the effect on Net Income?</item>
+<item>How much did Peach paper contribute to Fixed Costs?</item>
+<item>Determine the cost and the amount that will remain even if Peach is dropped?</item>
+<item>Which costs and amount will be eliminated if Peach is dropped?</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm368440400">
+<term>allocated costs</term>
+<meaning id="fs-idm384495280">costs that are generated by non–revenue generating portions of the business, such as corporate headquarters, that are assigned based on some formula to the revenue generating portions of the business</meaning>
+</definition>
+<definition id="fs-idm344373568">
+<term>segment</term>
+<meaning id="fs-idm380467488">portion of the business that management believes has sufficient similarities in product lines, geographic locations, or customers to warrant reporting that portion of the company as a distinct part of the entire company</meaning>
+</definition>
+</glossary>
+</document>

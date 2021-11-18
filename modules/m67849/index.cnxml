@@ -1,0 +1,264 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Explain the Concepts and Guidelines Affecting Adjusting Entries</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67849</md:content-id>
+  <md:title>Explain the Concepts and Guidelines Affecting Adjusting Entries</md:title>
+  <md:abstract/>
+  <md:uuid>dbd41641-21ea-45f4-9e93-bbd7ba754372</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm400957408"><link document="m67842">Analyzing and Recording Transactions</link> was the first of three consecutive chapters covering the steps in the accounting cycle (<link target-id="OSX_Acct_F04_01_AcctCycle"/>).</para>
+<figure id="OSX_Acct_F04_01_AcctCycle">
+<media id="fs-idm674293744" alt="A large circle labeled, in the center, The Accounting Cycle. The large circle consists of 10 smaller circles with arrows pointing from one smaller circle to the next one. The smaller circles are labeled, in clockwise order: 1 Identify and Analyze Transactions; 2 Record Transactions to Journal; 3 Post Journal Information to Ledger; 4 Prepare Unadjusted Trial Balance; 5 Adjusting Entries; 6 Prepare Adjusted Trial Balance; 7 Prepare Financial Statements; 8 Closing Entries; 9 Prepare Post-Closing Trial Balance; 10 Reversing Entries (optional).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_01_AcctCycle.jpg"/>
+</media>
+<caption>The Basic Accounting Cycle. In this chapter, we examine the next three steps in the accounting cycle—5, 6, and 7—which cover adjusting entries (journalize and post), preparing an adjusted trial balance, and preparing the financial statements. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm680145200">In <link document="m67842">Analyzing and Recording Transactions</link>, we discussed the first four steps in the accounting cycle: identify and analyze transactions, record transactions to a journal, post journal information to the general ledger, and prepare an (unadjusted) trial balance. This chapter examines the next three steps in the cycle: record adjusting entries (journalizing and posting), prepare an adjusted trial balance, and prepare the financial statements (<link target-id="OSX_Acct_F04_01_AcctCycle2"/>).</para>
+<figure id="OSX_Acct_F04_01_AcctCycle2" class="scaled-down">
+<media id="fs-idm399618992" alt="Three boxes with arrows pointing from one box to the next, labeled left to right: 5 Adjusting Entries; 6 Prepare Adjusted Trial Balance; 7 Prepare Financial Statements.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_01_AcctCycle2.jpg"/>
+</media>
+<caption>Steps 5, 6, and 7 in the Accounting Cycle. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm373094624">As we progress through these steps, you learn why the trial balance in this phase of the accounting cycle is referred to as an “adjusted” trial balance. We also discuss the purpose of adjusting entries and the accounting concepts supporting their need. One of the first concepts we discuss is <term class="no-emphasis">accrual accounting</term>.</para>
+<section id="fs-idm385135328">
+<title>Accrual Accounting</title>
+<para id="fs-idm414701008">Public companies reporting their financial positions use either US generally accepted accounting principles (GAAP) or International Financial Reporting Standards (IFRS), as allowed under the Securities and Exchange Commission (SEC) regulations. Also, companies, public or private, using US GAAP or IFRS prepare their financial statements using the rules of accrual accounting. Recall from <link document="m67837">Introduction to Financial Statements</link> that accrual basis accounting prescribes that revenues and expenses must be recorded in the accounting period in which they were earned or incurred, no matter when cash receipts or payments occur. It is because of accrual accounting that we have the <emphasis effect="italics">revenue recognition principle</emphasis> and the <emphasis effect="italics">expense recognition principle</emphasis> (also known as the <emphasis effect="italics">matching principle</emphasis>).</para>
+<para id="fs-idm673663392">The accrual method is considered to better match revenues and expenses and standardizes reporting information for comparability purposes. Having comparable information is important to external users of information trying to make investment or lending decisions, and to internal users trying to make decisions about company performance, budgeting, and growth strategies.</para>
+<para id="fs-idm410219376">Some nonpublic companies may choose to use cash basis accounting rather than accrual basis accounting to report financial information. Recall from <link document="m67837">Introduction to Financial Statements</link> that cash basis accounting is a method of accounting in which transactions are not recorded in the financial statements until there is an exchange of cash. Cash basis accounting sometimes delays or accelerates revenue and expense reporting until cash receipts or outlays occur. With this method, cash flows are used to measure business performance in a given period and can be simpler to track than accrual basis accounting.</para>
+<para id="fs-idm388463632">There are several other accounting methods or concepts that accountants will sometimes apply. The first is <term>modified accrual accounting</term>, which is commonly used in governmental accounting and merges accrual basis and cash basis accounting. The second is <term>tax basis accounting</term> that is used in establishing the tax effects of transactions in determining the tax liability of an organization.</para>
+<para id="fs-idm639035008">One fundamental concept to consider related to the accounting cycle—and to accrual accounting in particular—is the idea of the accounting period.</para>
+</section>
+<section id="fs-idm391066480">
+<title>The Accounting Period</title>
+<para id="fs-idm355976224">As we discussed, accrual accounting requires companies to report revenues and expenses in the accounting period in which they were earned or incurred. An <term>accounting period</term> breaks down company financial information into specific time spans, and can cover a month, a quarter, a half-year, or a full year. Public companies governed by GAAP are required to present quarterly (three-month) accounting period financial statements called <term class="no-emphasis">10-Qs</term>. However, most public and private companies keep monthly, quarterly, and yearly (annual) period information. This is useful to users needing up-to-date financial data to make decisions about company investment and growth. When the company keeps yearly information, the year could be based on a fiscal or calendar year. This is explained shortly.</para>
+<note id="fs-idm365506208" class="continuing-application">
+<title>Adjustment Process for Grocery Stores</title>
+<para id="fs-idm372961280">In every industry, adjustment entries are made at the end of the period to ensure revenue matches expenses. Companies with an online presence need to account for items sold that have not yet been shipped or are in the process of reaching the end user. But what about the grocery industry? At first glance, it might seem that no such adjustment entries are necessary. However, grocery stores have adapted to the current retail environment. For example, your local grocery store might provide catering services for a graduation party. If the contract requires the customer to put down a 50% deposit, and occurs near the end of a period, the grocery store will have unearned revenue until it provides the catering service. Once the party occurs, the grocery store needs to make an adjusting entry to reflect that revenue has been earned.</para>
+</note>
+</section>
+<section id="fs-idm407830656">
+<title>The Fiscal Year and the Calendar Year</title>
+<para id="fs-idm397916656">A company may choose its yearly reporting period to be based on a calendar or fiscal year. If a company uses a <term>calendar year</term>, it is reporting financial data from January 1 to December 31 of a specific year. This may be useful for businesses needing to coincide with a traditional yearly tax schedule. It can also be easier to track for some businesses without formal reconciliation practices, and for small businesses.</para>
+<para id="fs-idm390935216">A <term>fiscal year</term> is a twelve-month reporting cycle that can begin in any month and records financial data for that consecutive twelve-month period. For example, a business may choose its fiscal year to begin on April 1, 2019, and end on March 31, 2020. This can be common practice for corporations and may best reflect the operational flow of revenues and expenses for a particular business. In addition to annual reporting, companies often need or choose to report financial statement information in interim periods.</para>
+</section>
+<section id="fs-idm410682752">
+<title>Interim Periods</title>
+<para id="fs-idm389854608">An <term>interim period</term> is any reporting period shorter than a full year (fiscal or calendar). This can encompass monthly, quarterly, or half-year statements. The information contained on these statements is timelier than waiting for a yearly accounting period to end. The most common interim period is three months, or a quarter. For companies whose common stock is traded on a major stock exchange, meaning these are <emphasis effect="italics">publicly traded</emphasis> companies, quarterly statements must be filed with the SEC on a Form 10-Q. The companies must file a Form 10-K for their annual statements. As you’ve learned, the SEC is an independent agency of the federal government that provides oversight of public companies to maintain fair representation of company financial activities for investors to make informed decisions.</para>
+<para id="fs-idm394090336">In order for information to be useful to the user, it must be timely—that is, the user has to get it quickly enough so it is relevant to decision-making. You may recall from <link document="m67842">Analyzing and Recording Transactions</link> that this is the basis of the time period assumption in accounting. For example, a potential or existing investor wants timely information by which to measure the performance of the company, and to help decide whether to invest, to stay invested, or to sell their stockholdings and invest elsewhere. This requires companies to organize their information and break it down into shorter periods. Internal and external users can then rely on the information that is both timely and relevant to decision-making.</para>
+<para id="fs-idm374690464">The accounting period a company chooses to use for financial reporting will impact the types of adjustments they may have to make to certain accounts.</para>
+<note id="fs-idm646379408" class="ethical-considerations">
+<title>Illegal Cookie Jar Accounting Used to Manage Earnings</title>
+<para id="fs-idm389016576">From 2000 through the end of 2001, <emphasis class="colored-text">Bristol-Myers Squibb</emphasis> engaged in “Cookie Jar Accounting,” resulting in $150 million in SEC fines. The company manipulated its accounting to create a false indication of income and growth to create the appearance that it was meeting its own targets and Wall Street analysts’ earnings estimates during the years 2000 and 2001. The SEC describes some of what occurred:</para>
+
+<quote id="fs-idm400736432"><para id="fs-idm412172560">Bristol-Myers inflated its results primarily by (1) stuffing its distribution channels with excess inventory near the end of every quarter in amounts sufficient to meet its targets by making pharmaceutical sales to its wholesalers ahead of demand; and (2) improperly recognizing $1.5 billion in revenue from such pharmaceutical sales to its two biggest wholesalers. In connection with the $1.5 billion in revenue, Bristol-Myers covered these wholesalers’ carrying costs and guaranteed them a return on investment until they sold the products. When Bristol-Myers recognized the $1.5 billion in revenue upon shipment, it did so contrary to generally accepted accounting principles.<footnote id="fs-idm390069776">U.S. Securities and Exchange Commission. “Bristol-Myers Squibb Company Agrees to Pay $150 Million to Settle Fraud Charges.” August 4, 2004. https://www.sec.gov/news/press/2004-105.htm</footnote></para></quote>
+
+<para id="fs-idm681511984">In addition to the improper distribution of product to manipulate earnings numbers, which was not enough to meet earnings targets, the company improperly used divestiture reserve funds (a “cookie jar” fund that is funded by the sale of assets such as product lines or divisions) to meet those targets. In this circumstance, earnings management was considered illegal, costing the company millions of dollars in fines.</para>
+</note>
+</section>
+<section id="fs-idm408515056" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm353324944" list-type="bulleted" bullet-style="bullet">
+<item>The next three steps in the accounting cycle are adjusting entries (journalizing and posting), preparing an adjusted trial balance, and preparing the financial statements. These steps consider end-of-period transactions and their impact on financial statements.</item>
+<item>Accrual basis accounting is used by US GAAP or IFRS-governed companies, and it requires revenues and expenses to be recorded in the accounting period in which they occur, not necessarily where an associated cash event happened. This is unlike cash basis accounting that will delay reporting revenues and expenses until a cash event occurs.</item>
+<item>Companies need timely and consistent financial information presented for users to consider in their decision-making. Accounting periods help companies do this by breaking down information into months, quarters, half-years, and full years.</item>
+<item>A calendar year considers financial information for a company for the time period of January 1 to December 31 on a specific year. A fiscal year is any twelve-month reporting cycle not beginning on January 1 and ending on December 31.</item>
+<item>An interim period is any reporting period that does not cover a full year. This can be useful when needing timely information for users making financial decisions.</item>
+</list>
+</section>
+<section id="fs-idm395544160" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm404923552">
+<problem id="fs-idm392349296">
+<para id="fs-idm391353088"><link class="lo-reference" document="m67849"/>Which of the following is any reporting period shorter than a full year (fiscal or calendar) and can encompass monthly, quarterly, or half-year statements?</para>
+<list id="fs-idm395563904" list-type="enumerated" number-style="upper-alpha">
+<item>fiscal year</item>
+<item>interim period</item>
+<item>calendar year</item>
+<item>fixed year</item>
+</list>
+</problem>
+<solution id="fs-idm395166752">
+<para id="fs-idm366300976">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm392341680">
+<problem id="fs-idm395479952">
+<para id="fs-idm393677520"><link class="lo-reference" document="m67849"/>Which of the following is the federal, independent agency that provides oversight of public companies to maintain fair representation of company financial activities for investors to make informed decisions?</para>
+<list id="fs-idm395812064" list-type="enumerated" number-style="upper-alpha">
+<item>IRS (Internal Revenue Service)</item>
+<item>SEC (Securities and Exchange Commission)</item>
+<item>FASB (Financial Accounting Standards Board)</item>
+<item>FDIC (Federal Deposit Insurance Corporation)</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm372709552">
+<problem id="fs-idm416353968">
+<para id="fs-idm388356368"><link class="lo-reference" document="m67849"/>Revenues and expenses must be recorded in the accounting period in which they were earned or incurred, no matter when cash receipts or outlays occur under which of the following accounting methods?</para>
+<list id="fs-idm393817952" list-type="enumerated" number-style="upper-alpha">
+<item>accrual basis accounting</item>
+<item>cash basis accounting</item>
+<item>tax basis accounting</item>
+<item>revenue basis accounting</item>
+</list>
+</problem>
+<solution id="fs-idm410816640">
+<para id="fs-idm410835456">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm357481840">
+<problem id="fs-idm351521472">
+<para id="fs-idm409090512"><link class="lo-reference" document="m67849"/>Which of the following breaks down company financial information into specific time spans, and can cover a month, quarter, half-year, or full year?</para>
+<list id="fs-idm402224640" list-type="enumerated" number-style="upper-alpha">
+<item>accounting period</item>
+<item>yearly period</item>
+<item>monthly period</item>
+<item>fiscal period</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm378377696">
+<problem id="fs-idm402215728">
+<para id="fs-idm376925680"><link class="lo-reference" document="m67849"/>Which of the following is a twelve-month reporting cycle that can begin in any month, except January 1, and records financial data for that twelve-month consecutive period?</para>
+<list id="fs-idm673566608" list-type="enumerated" number-style="upper-alpha">
+<item>fixed year</item>
+<item>interim period</item>
+<item>calendar year</item>
+<item>fiscal year</item>
+</list>
+</problem>
+<solution id="fs-idm684883040">
+<para id="fs-idm409307248">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm638475232" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm397950064">
+<problem id="fs-idm407863744">
+<para id="fs-idm366372448"><link class="lo-reference" document="m67849"/>Describe the revenue recognition principle. Give specifics.</para>
+</problem>
+<solution id="fs-idm412651456">
+<para id="fs-idm393838848">The revenue recognition principle mandates that revenue be reported when earned, regardless of when the revenue is collected. For this reason, when revenue is earned but not yet collected, an accrual entry is required to accurately report revenue earned. For the same reason, when cash is collected, in advance of the earnings process, a deferral entry is required, to accurately report revenue earned.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm390574384">
+<problem id="fs-idm390405600">
+<para id="fs-idm409140160"><link class="lo-reference" document="m67849"/>Describe the expense recognition principle (matching principle). Give specifics.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm397261648" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm374502496">
+<problem id="fs-idm417658752">
+<para id="fs-idm373219552"><link class="lo-reference" document="m67850"/>Identify whether each of the following transactions, which are related to revenue recognition, are accrual, deferral, or neither.</para>
+<list id="fs-idm416458928" list-type="enumerated" number-style="upper-alpha">
+<item>sold goods to customers on credit</item>
+<item>collected cash from customer accounts</item>
+<item>sold goods to customers for cash</item>
+<item>collected cash in advance for goods to be delivered later</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm413549424">
+<problem id="fs-idm414519888">
+<para id="fs-idm394182112"><link class="lo-reference" document="m67850"/>Identify whether each of the following transactions, which are related to expense recognition, are accrual, deferral, or neither.</para>
+<list id="fs-idm392235584" list-type="enumerated" number-style="upper-alpha">
+<item>paid an expense for the current month</item>
+<item>prepaid an expense for future months</item>
+<item>made a payment to reduce accounts payable</item>
+<item>incurred a current-month expense, to be paid next month</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm400833200" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm359922352">
+<problem id="fs-idm390567216">
+<para id="fs-idm391127200"><link class="lo-reference" document="m67850"/>Identify whether each of the following transactions, which are related to revenue recognition, are accrual, deferral, or neither.</para><list id="fs-idm410974192" list-type="enumerated" number-style="upper-alpha">
+<item>earn now, collect now</item>
+<item>earn now, collect later</item>
+<item>earn later, collect now</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm371406320">
+<problem id="fs-idm359882896">
+<para id="fs-idm416918768"><link class="lo-reference" document="m67849"/>To demonstrate the difference between cash account activity and accrual basis profits (net income), note the amount each transaction affects cash <emphasis effect="italics">and</emphasis> the amount each transaction affects net income.</para>
+<list id="fs-idm406402400" list-type="enumerated" number-style="upper-alpha">
+<item>paid balance due for accounts payable $6,900</item>
+<item>charged clients for legal services provided $5,200</item>
+<item>purchased supplies on account $1,750</item>
+<item>collected legal service fees from clients for current month $3,700</item>
+<item>issued stock in exchange for a note payable $10,000</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm390492256" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm394771616">
+<problem id="fs-idm399593584">
+<para id="fs-idm393997520"><link class="lo-reference" document="m67849"/>Identify whether each of the following transactions, which are related to revenue recognition, are accrual, deferral, or neither.</para>
+<list id="fs-idm409240224" list-type="enumerated" number-style="upper-alpha">
+<item>expense now, pay now</item>
+<item>expense later, pay now</item>
+<item>expense now, pay later</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm394552880">
+<problem id="fs-idm407849040">
+<para id="fs-idm372784544"><link class="lo-reference" document="m67849"/>To demonstrate the difference between cash account activity and accrual basis profits (net income), note the amount each transaction affects cash <emphasis effect="italics">and</emphasis> the amount each transaction affects net income.</para>
+<list id="fs-idm400713360" list-type="enumerated" number-style="upper-alpha">
+<item>issued stock for cash $20,000</item>
+<item>purchased supplies inventory on account $1,800</item>
+<item>paid employee salaries; assume it was current day’s expenses $950</item>
+<item>paid note payment to bank (principal only) $1,200</item>
+<item>collected balance on accounts receivable $4,750</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm389718000" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm673834240">
+<problem id="fs-idm399555184">
+<para id="fs-idm414793472"><link class="lo-reference" document="m67849"/>Assume you are the controller of a large corporation, and the chief executive officer (CEO) has requested that you explain to them why the net income that you are reporting for the year is so low, when the CEO knows for a fact that the cash accounts are much higher at the end of the year than they were at the beginning of the year. Write a memo to the CEO to offer some possible explanations for the disparity between financial statement net income and the change in cash during the year.</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm414410880">
+<term>accounting period</term>
+<meaning id="fs-idm403234720">breaks down company financial information into specific time spans and can cover a month, quarter, half-year, or full year</meaning>
+</definition>
+<definition id="fs-idm389154112">
+<term>calendar year</term>
+<meaning id="fs-idm373285968">reports financial data from January 1 to December 31 of a specific year</meaning>
+</definition>
+<definition id="fs-idm388294608">
+<term>fiscal year</term>
+<meaning id="fs-idm410805616">twelve-month reporting cycle that can begin in any month, and records financial data for that twelve-month consecutive period</meaning>
+</definition>
+<definition id="fs-idm400648720">
+<term>interim period</term>
+<meaning id="fs-idm395222816">any reporting period shorter than a full year (fiscal or calendar)</meaning>
+</definition>
+<definition id="fs-idm388424096">
+<term>modified accrual accounting</term>
+<meaning id="fs-idm389069104">commonly used in governmental accounting and combines accrual basis and cash basis accounting</meaning>
+</definition>
+<definition id="fs-idm389064704">
+<term>tax basis accounting</term>
+<meaning id="fs-idm390390096">establishes the tax effects of transactions in determining the tax liability of an organization</meaning>
+</definition>
+</glossary>
+</document>

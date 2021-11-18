@@ -1,0 +1,162 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Appendix: Prepare a Completed Statement of Cash Flows Using the Direct Method</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67935</md:content-id>
+  <md:title>Appendix: Prepare a Completed Statement of Cash Flows Using the Direct Method</md:title>
+  <md:abstract/>
+  <md:uuid>0b0f6bad-7f7e-4254-b162-cee102d95412</md:uuid>
+</metadata>
+
+<content>
+<figure id="OSX_Acct_F16_07_SCFlow">
+<media id="fs-idm252465840" alt="Propensity Company. Statement of Cash Flows: Direct Method. Year Ended December 31, 2018. Cash flow from operating activities. Cash collected from customers $242,500. Cash payments: to suppliers for inventory $157,300; for salaries 42,200; for insurance 12,700; for interest 3,500; for income taxes 1,860, for other operating expenses 11,100. Total 228,660. Net cash flow: operating activities 13,480. Cash flow from investing activities: Proceeds from sale of land 14,800; Cost of new plant assets (equipment) (40,000). Net cash flow: investing activities (25,200). Cash flow from financing activities: Payment of notes payable (principal) (11,000); Issuance of common stock 45,000; Payment of dividends (440). Net cash flow: financing activities 33,560. Total cash flow increase/(decrease) 22,200. Cash balance, December 31, 2017 24,300. Cash balance, December 31, 2018 $46,500. Non-cash investing and financial activities: Land acquired in exchange for note payable $20,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_07_SCFlow.jpg"/>
+</media>
+<caption>Statement of Cash Flows. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm265769408">As previously mentioned, the net cash flows for all sections of the statement of cash flows are identical when using the <term class="no-emphasis">direct method</term> or the indirect method. The difference is just in the way that net cash flows from operating activities are calculated and presented. The direct approach requires that each item of income and expense be converted from the accrual basis value to the cash basis value for that item. This is accomplished by adjusting the accrual amount for the revenue or expense by any related current operating asset or liability. Revenue and expense items that are not related to those current asset and liability accounts would not need an adjustment.</para>
+<para id="fs-idm260723008">In the following section, we demonstrate the calculations needed to assess the component pieces of the operating section using the direct approach.</para>
+<section id="fs-idm236853680">
+<title>Cash Collected from Customers</title>
+<para id="fs-idm263695024">Cash collected from customers is different from the sales revenue that is recorded on the accrual basis financial statements. To reconcile the amount of sales revenue reported on the income statement to the cash collected from sales, calculate the maximum amount of cash that could have been collected this period (potential cash collected) by combining (a) the amount that was due from customers on the first day of the period (beginning accounts receivable) and (b) total sales revenue recorded this period. If there were no outstanding accounts receivable balance at the end of the period, then one could reasonably assume that this total was collected in full during this period. Thus, the amount collected for sales can be determined by subtracting the ending accounts receivable balance from the total potential cash that could have been collected.</para>
+<media id="fs-idm248592192" class="scaled-down" alt="Cash collected from sales revenue. Beginning balance, accounts receivable $26,000. Plus accrual basis sales 238,000. Equals potential cash collected 264,000. Less ending balance, accounts receivable 21,500. Equals cash collected from customers this period $242,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_07_CashColl_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm250733536">
+<title>Cash Paid to Suppliers for Inventory</title>
+<para id="fs-idm262144992">Cash paid for inventory is different from the cost of goods sold that is recorded on the accrual basis financial statements. To reconcile the amount of cost of goods sold reported on the income statement to the cash paid for inventory, it is necessary to perform two calculations. The first part of the calculation determines how much inventory was purchased, and the second part of the calculation determines how much of those purchases were paid for during the current period.</para>
+<para id="fs-idm234098224">First, calculate the maximum amount of inventory that was available for sale this period by combining (a) the amount of inventory that was on hand on the last day of the period (ending inventory) and (b) total cost of goods sold recorded this period. If there were no inventory balance at the beginning of the period, then one could reasonably assume that this total was purchased entirely during the current period. Thus, the amount of inventory purchased this period can be determined by subtracting the beginning inventory balance from the total goods (inventory) available for sale.</para>
+<para id="fs-idm252627472">Second, calculate the maximum amount of cash that could have been paid for inventory this period (total obligation to pay inventory costs) by combining (a) the amount that was due to suppliers on the first day of the period (beginning accounts payable) and (b) total inventory purchases this period, from the first inventory calculation. If there were no outstanding accounts payable balance at the end of the period, then one could reasonably assume that this total was paid in full during this current period. Thus, the amount paid for inventory can be determined by subtracting the ending accounts payable balance from the total obligation to pay inventory costs that could have been paid. The final number of the second calculation is the actual cash paid for inventory.</para>
+<media id="fs-idm251333200" class="scaled-down" alt="Cash paid for inventory purchase: part 1. Ending balance, inventory $48,000. Plus cost of goods sold 153,000. Equals goods available for sale 201,000. Less beginning balance, inventory 45,500. Equals inventory purchased this period 155,500. Cash paid for inventory purchases: part 2. Beginning balance, accounts payable 19,000. Plus inventory purchased (from part 1) 155,500. Equals total obligation to pay inventory costs 174,500. Less ending balance, accounts payable 17,200. Equals cash paid for inventory this period $157,300.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_07_Paid01_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm251572528">
+<title>Cash Paid for Salaries</title>
+<para id="fs-idm248826560">Cash paid for salaries is different from the salaries expense that is recorded on the accrual basis financial statements. To reconcile the amount of salaries expense reported on the income statement to the cash paid for salaries, calculate the maximum amount of cash that could have been paid for salaries this period (total obligation to pay salaries) by combining (a) the amount that was due to employees on the first day of the period (beginning salaries payable) and (b) total salaries expense recorded this period. If there were no outstanding salaries payable balance at the end of the period, then one could reasonably assume that this total was paid in full during this current period. Thus, the amount paid for salaries can be determined by subtracting the ending salaries payable balance from the total obligation to pay salaries that could have been paid.</para>
+<media id="fs-idm258720816" class="scaled-down" alt="Cash paid for expense related to a current liability. Beginning balance, salaries payable $1,500. Plus expense on income statement 42,600. Equals total obligation to pay salaries 44,100. Less ending balance, salaries payable 1,900. Equals cash paid for salaries this period $42,400.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_07_Paid02_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm248974816">
+<title>Cash Paid for Insurance</title>
+<para id="fs-idm255013536">Cash paid for insurance is different from the insurance expense that is recorded on the accrual basis financial statements. To reconcile the amount of insurance expense reported on the income statement to the cash paid for insurance premiums, calculate the maximum amount of cash that could have been paid for insurance this period (total insurance premiums expended) by combining (a) the amount of insurance premiums that were prepaid on the last day of the period (ending prepaid insurance) and (b) total insurance expense recorded this period. If there were no prepaid insurance balance at the beginning of the period, then one could reasonably assume that this total was paid entirely during the current period. Thus, the amount paid for insurance this period can be determined by subtracting the beginning prepaid insurance balance from the total insurance premiums that had been recorded as expended.</para>
+<media id="fs-idm255776416" alt="Cash paid for expense related to a prepaid asset. Ending balance, prepaid insurance $2,500. Plus insurance expense on income statement 12,000. Equals total insurance premiums expended 14,500. Less beginning balance, prepaid insurance 1,800. Equals insurance paid this period $12,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_07_Paid03_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm259105744" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm234125232" list-type="bulleted" bullet-style="bullet">
+<item>This section included an example of a statement of cash flows, prepared under the direct method, using the continuing example for Propensity Company.</item>
+<item>The direct method of preparing the statement of cash flows is identical to the indirect method except for the cash flows from the operating section.</item>
+<item>To complete the cash flows from operating activities, the direct method directly shows the cash collected from customers from revenue activities and the cash spent on operations, rather than reconciling net income to cash flows from operating activities as done using the indirect method. Calculating the amounts directly collected from revenues and spent on expenditures involves calculating the cash effect of the accrual amounts reported on the income statement.</item>
+</list>
+</section>
+<section id="fs-idm260822048" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm263562176">
+<problem id="fs-idm248310192">
+<para id="fs-idm260676816"><link class="lo-reference" document="m67935"/>Why is using the direct method to prepare the operating section of the statement of cash flows more challenging for accountants than preparing the balance sheet, income statement, and retained earnings statement?</para>
+</problem>
+<solution id="fs-idm250739072">
+<para id="fs-idm265128432">Using the direct method to prepare the operating section requires that revenue and expense items be converted to the cash basis of accounting, since these items are recorded in company records using the accrual basis of accounting. The balance sheet, income statement, and retained earnings statement use the accrual basis balances that are maintained in the company accounting records, and thus can be obtained directly from the adjusted trial balance, without modifications.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm257436368" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm252597184">
+<problem id="fs-idm248226688">
+<para id="fs-idm259929952"><link class="lo-reference" document="m67935"/>Use the following excerpts from Algona Company’s financial statements to determine cash received from customers in 2018.</para>
+<media id="fs-idm259660368" class="scaled-down" alt="From Balance Sheets on December 31, 2018: Accounts Receivable 85,000. December 31, 2017: Accounts Receivable $105,000. From Income Statement of 2018: Sales 700,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_07_EA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm250701824">
+<problem id="fs-idm247212656">
+<para id="fs-idm259865504"><link class="lo-reference" document="m67935"/>Use the following excerpts from Huckleberry Company’s financial statements to determine cash paid to suppliers for inventory in 2018.</para>
+<media id="fs-idm262383888" class="scaled-down" alt="From Balance Sheet on December 31, 2018: Inventory $74,000; Accounts Payable 55,000. December 31, 2017: Inventory $82,000; Accounts Payable 58,000. From Income Statement of 2018: Cost of Goods Sold $520,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_07_EA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm258718688" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm262017104">
+<problem id="fs-idm264837616">
+<para id="fs-idm265119616"><link class="lo-reference" document="m67935"/>Use the following excerpts from Brownstone Company’s financial statements to determine cash received from customers in 2018.</para>
+<media id="fs-idm257398416" class="scaled-down" alt="From Balance Sheet on December 31, 2018: Accounts Receivable $25,000. December 31, 2017: Accounts Receivable $20,000. From Income Statement of 2018: Sales 220,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_07_EB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm265897968">
+<problem id="fs-idm255196016">
+<para id="fs-idm257469008"><link class="lo-reference" document="m67935"/>Use the following excerpts from Jasper Company’s financial statements to determine cash paid to suppliers for inventory in 2018.</para>
+<media id="fs-idm225482416" class="scaled-down" alt="From Balance Sheet on December 31, 2018: Inventory $35,000; Accounts Payable 22,000. December 31, 2017: Inventory 31,000; Accounts Payable 20,500. From Income Statement of 2018: Cost of Goods Sold 175,900.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_07_EB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm251159440" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm252740208">
+<problem id="fs-idm252424800">
+<para id="fs-idm248601216"><link class="lo-reference" document="m67935"/>Use the following excerpts from Fromera Company’s financial information to prepare the operating section of the statement of cash flows (direct method) for the year 2018.</para>
+<media id="fs-idm260587072" alt="2018 Income Statement items: Sales $299,000. Cost of goods sold (135,000). Operating expenses, other than depreciation expense (27,000). Depreciation expense (17,000). Gain on sale of plant assets 16,500. Net income 136,500. Balance Sheet items: December 31, 2018: Accounts receivable (associated with sales) $45,300. Inventory (associated with inventory) 1,600. Accounts payable (associated with inventory) 22,500. Accrued liabilities (associated with other expenses) 900. December 31, 2017: Accounts receivable (associated with sales) $43,400. Inventory (associated with inventory) 1,800. Accounts payable (associated with inventory) 21,250. Accrued liabilities (associated with other expenses) 1,150.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_07_PA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm252981456">
+<problem id="fs-idm262427184">
+<para id="fs-idm245714384"><link class="lo-reference" document="m67935"/>Use the following excerpts from Victrolia Company’s financial information to prepare a statement of cash flows (direct method) for the year 2018.</para>
+<media id="fs-idm251305808" alt="2018 Income Statement items: Sales $455,000. Cost of goods sold (221,500). Operating expenses, other than depreciation expense (58,600). Depreciation expense (24,000). Gain on sale of plant assets 23,500. Net income 174,400. Balance Sheet items: December 31, 2018: Cash $321,450. Accounts receivable 39,750. Inventory 33,000. Accounts payable 17,550. Accrued liabilities 3,500. December 31, 2017: Cash $133,500. Accounts receivable 36,500. Inventory 35,000. Accounts payable 19,550. Accrued liabilities 2,200. Additional information: Plant assets were sold for $40,000; book value $16,500. Dividends of $25,000 were declared and paid.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_07_PA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm249293696">
+<problem id="fs-idm252550304">
+<para id="fs-idm261937216"><link class="lo-reference" document="m67935"/>Use the following cash transactions relating to Lucknow Company to determine the cash flows from operating, using the direct method.</para>
+<media id="fs-idm248542752" class="scaled-down" alt="Beginning cash balance $122,000. Collected from customers 33,000. Paid dividends to stockholders 3,000. Paid for interest on notes payable 4,750. Collected dividends from stock owned 3,500. Collected cash from sale of land 20,000. Paid principal payments on notes payable 12,000. Collected cash from issuance of stock 40,000. Paid suppliers for merchandise 29,400. Ending cash balance 169,350.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_07_PA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm258336272" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm260818288">
+<problem id="fs-idm250812896">
+<para id="fs-idm261702816"><link class="lo-reference" document="m67935"/>Use the following excerpts from Swansea Company’s financial information to prepare the operating section of the statement of cash flows (direct method) for the year 2018.</para>
+<media id="fs-idm243478144" alt="2018 Income Statement items: Sales $777,000. Cost of goods sold (555,000). Operating expenses, other than depreciation expense (22,000). Depreciation expense (44,000). Loss on sale of plant assets (11,000). Net income 145,000. Balance Sheet items: December 31, 2018: Accounts receivable (associated with sales) 63,300. Inventory (associated with inventory) 2,400. Accounts payable (associated with inventory) 35,000. Accrued liabilities (associated with other expenses) 2,100. December 31, 2017: Accounts receivable (associated with sales) $63,000. Inventory (associated with inventory) 2,800. Accounts payable (associated with inventory) 37,400. Accrued liabilities (associated with other expenses) 2,650.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_07_PB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm235661760">
+<problem id="fs-idm236756784">
+<para id="fs-idm226077744"><link class="lo-reference" document="m67935"/>Use the following excerpts from Swahilia Company’s financial information to prepare a statement of cash flows (direct method) for the year 2018.</para>
+<media id="fs-idm226526272" alt="2018 Income Statement items: Sales $777,000. Cost of goods sold (555,000). Operating expenses, other than depreciation expense (22,000). Depreciation expense (44,000). Loss on sale of plant assets (11,000). Net income 145,000. Balance Sheet items: December 31, 2018: Cash $429,850. Accounts receivable 63,300. Inventory 2,400. Accounts payable 35,000. Accrued liabilities 2,100. December 31, 2017: Cash $228,700. Accounts receivable 63,000. Inventory 2,800. Accounts payable 37,400. Accrued liabilities 2,650.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_07_PB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm264929072">
+<problem id="fs-idm255117616">
+<para id="fs-idm265788272"><link class="lo-reference" document="m67935"/>Use the following cash transactions relating to Warthoff Company to determine the cash flows from operating, using the direct method.</para>
+<media id="fs-idm255763408" class="scaled-down" alt="Beginning cash balance $45,000. Collected from customers 24,500. Paid dividends to stockholders 5,000. Paid for interest on notes payable 3,200. Collected dividends from stock owned 1,800. Collected cash from sale of land 15,000. Pain principal payments on notes payable 18,800. Collected cash from issuance of stock 25,000. Paid suppliers for merchandise 31,000. Ending cash balance 53,300.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_07_PB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+   </content>
+</document>

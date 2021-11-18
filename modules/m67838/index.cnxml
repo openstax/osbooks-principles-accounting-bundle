@@ -1,0 +1,786 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Describe the Income Statement, Statement of Owner’s Equity, Balance Sheet, and Statement of Cash Flows, and How They Interrelate</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67838</md:content-id>
+  <md:title>Describe the Income Statement, Statement of Owner’s Equity, Balance Sheet, and Statement of Cash Flows, and How They Interrelate</md:title>
+  <md:abstract/>
+  <md:uuid>046014ef-296a-4ef2-ae9d-8e58aec02bf3</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm394768064">The study of accounting requires an understanding of precise and sometimes complicated terminology, purposes, principles, concepts, and organizational and legal structures. Typically, your introductory accounting courses will familiarize you with the overall accounting environment, and for those of you who want greater detail, there is an assortment of more advanced accounting courses available.</para>
+<para id="fs-idm394822320">This chapter concentrates on the four major types of financial statements and their interactions, the major types of business structures, and some of the major terms and concepts used in this course. Coverage here is somewhat basic since these topics are accorded much greater detail in future chapters.</para>
+<section id="fs-idm338271552">
+<title>Types of Business Structure</title>
+<para id="fs-idm386038000">As you learned in <link document="m67831">Role of Accounting in Society</link>, virtually every activity that occurs in a business has an associated cost or value. Part of an accountant’s role is to quantify these activities, or transactions.</para>
+<para id="fs-idm385655536">Also, in business—and accounting in particular—it is necessary to distinguish the business entity from the individual owner(s). The personal transactions of the owners, employees, and other parties connected to the business should not be recorded in the organization’s records; this accounting principle is called the <emphasis effect="italics">business entity concept</emphasis>. Accountants should record only business transactions in business records.</para>
+<para id="fs-idm380407008">This separation is also reflected in the legal structure of the business. There are several common types of legal business structures. While the accounting concepts for the various types of businesses are essentially the same regardless of the legal structure, the terminology will change slightly depending on the organization’s legal structure, and it is important to understand the differences.</para>
+<para id="fs-idm360819088">There are three broad categories for the legal structure of an organization: sole proprietorship, partnership, and corporation. A <term>sole proprietorship</term> is a legal business structure consisting of a single individual. Benefits of this type of structure include ease of formation, favorable tax treatment, and a high level of control over the business. The risks involved with sole proprietorships include unlimited personal liability and a limited life for the business. Unless the business is sold, the business ends when the owner retires or passes away. In addition, sole proprietorships have a fairly limited ability to raise capital (funding), and often sole proprietors have limited expertise—they are excellent at what they do but may have limited expertise in other important areas of business, such as accounting or marketing.</para>
+<para id="fs-idm359238384">A <term>partnership</term> is a legal business structure consisting of an association of two or more people who contribute money, property, or services to operate as co-owners of a business. Benefits of this type of structure include favorable tax treatment, ease of formation of the business, and better access to capital and expertise. The downsides to a partnership include unlimited personal liability (although there are other legal structures—a limited liability partnership, for example—to help mitigate the risk); limited life of the partnership, similar to sole proprietorships; and increased complexity to form the venture (decision-making authority, profit-sharing arrangement, and other important issues need to be formally articulated in a written partnership agreement).</para>
+<para id="fs-idm383211904">A <term>corporation</term> is a legal business structure involving one or more individuals (owners) who are legally distinct (separate) from the business. A primary benefit of a corporate legal structure is the owners of the organization have limited liability. That is, a corporation is “stand alone,” conducting business as an entity separate from its owners. Under the corporate structure, owners delegate to others (called agents) the responsibility to make day-to-day decisions regarding the operations of the business. Other benefits of the corporate legal structure include relatively easy access to large amounts of capital by obtaining loans or selling ownership (stock), and since the stock is easily sold or transferred to others, the business operates beyond the life of the shareholders. A major disadvantage of a corporate legal structure is double taxation—the business pays income tax and the owners are taxed when distributions (also called dividends) are received.</para>
+<table id="fs-idm363370288" class="top-titled" summary="No Summary">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c4">Types of Business Structures</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center"> </entry>
+<entry valign="top" align="center">Sole Proprietorship</entry>
+<entry valign="top" align="center">Partnership</entry>
+<entry valign="top" align="center">Corporation</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Number of Owners</entry>
+<entry valign="middle" align="left">Single individual</entry>
+<entry valign="middle" align="left">Two or more individuals</entry>
+<entry valign="top" align="left">One or more owners</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Ease of Formation</entry>
+<entry valign="middle" align="left">Easier to form</entry>
+<entry valign="middle" align="left">Harder to form</entry>
+<entry valign="top" align="left">Difficult to form</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Ability to Raise Capital</entry>
+<entry valign="middle" align="left">Difficult to raise capital</entry>
+<entry valign="middle" align="left">Harder to raise capital</entry>
+<entry valign="top" align="left">Easier to raise capital</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Liability Risk</entry>
+<entry valign="middle" align="left">Unlimited liability</entry>
+<entry valign="middle" align="left">Unlimited liability</entry>
+<entry valign="top" align="left">Limited liability</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Taxation Consideration</entry>
+<entry valign="middle" align="left">Single taxation</entry>
+<entry valign="middle" align="left">Single taxation</entry>
+<entry valign="top" align="left">Double taxation</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-idm381881888">
+<title>The Four Financial Statements</title>
+<para id="fs-idm383138640">Are you a fan of books, movies, or sports? If so, chances are you have heard or said the phrase “spoiler alert.” It is used to forewarn readers, viewers, or fans that the ending of a movie or book or outcome of a game is about to be revealed. Some people prefer knowing the end and skipping all of the details in the middle, while others prefer to fully immerse themselves and then discover the outcome. People often do not know or understand what accountants produce or provide. That is, they are not familiar with the “ending” of the accounting process, but that is the best place to begin the study of accounting.</para>
+<para id="fs-idm382037504">Accountants create what are known as financial statements. <term class="no-emphasis">Financial statements</term> are reports that communicate the financial performance and financial position of the organization.</para>
+<para id="fs-idm383752912">In essence, the overall purpose of financial statements is to evaluate the performance of a company, governmental entity, or not-for-profit entity. This chapter illustrates this through a company, which is considered to be in business to generate a profit. Each financial statement we examine has a unique function, and together they provide information to determine whether a company generated a profit or loss for a given period (such as a month, quarter, or year); the assets, which are resources of the company, and accompanying liabilities, which are obligations of the company, that are used to generate the profit or loss; owner interest in profits or losses; and the cash position of the company at the end of the period.</para>
+<para id="fs-idm342209168">The four financial statements that perform these functions and the order in which we prepare them are:</para>
+<list id="fs-idm384008016" list-type="enumerated" number-style="arabic">
+<item>Income Statement</item>
+<item>Statement of Owner’s Equity</item>
+<item>Balance Sheet</item>
+<item>Statement of Cash Flows.</item>
+</list>
+<para id="fs-idm384156384">The order of preparation is important as it relates to the concept of how financial statements are interrelated. Before explaining each in detail, let’s explore the purpose of each financial statement and its main components.</para>
+<note id="fs-idm390829328" class="continuing-application">
+<title>Introduction to the Gearhead Outfitters Story</title>
+<para id="fs-idm386468944"><emphasis class="colored-text">Gearhead Outfitters</emphasis>, founded by Ted Herget in 1997 in Jonesboro, Arkansas, is a retail chain that sells outdoor gear for men, women, and children. The company’s inventory includes clothing, footwear for hiking and running, camping gear, backpacks, and accessories, by brands such as <emphasis class="colored-text">The North Face</emphasis>, <emphasis class="colored-text">Birkenstock</emphasis>, <emphasis class="colored-text">Wolverine</emphasis>, <emphasis class="colored-text">Yeti</emphasis>, <emphasis class="colored-text">Altra</emphasis>, <emphasis class="colored-text">Mizuno</emphasis>, and <emphasis class="colored-text">Patagonia</emphasis>. Herget fell in love with the outdoor lifestyle while working as a ski instructor in Colorado and wanted to bring that feeling back home to Arkansas. And so, <emphasis class="colored-text">Gearhead</emphasis> was born in a small downtown location in Jonesboro. The company has had great success over the years, expanding to numerous locations in Herget’s home state, as well as Louisiana, Oklahoma, and Missouri.</para>
+<para id="fs-idm379546320">While Herget knew his industry when starting <emphasis class="colored-text">Gearhead</emphasis>, like many entrepreneurs he faced regulatory and financial issues that were new to him. Several of these issues were related to accounting and the wealth of decision-making information that accounting systems provide.</para>
+<para id="fs-idm378353808">For example, measuring revenue and expenses, providing information about cash flow to potential lenders, analyzing whether profit and positive cash flow is sustainable to allow for expansion, and managing inventory levels. Accounting, or the preparation of financial statements (balance sheet, income statement, and statement of cash flows), provides the mechanism for business owners such as Herget to make fundamentally sound business decisions.</para>
+</note>
+</section>
+<section id="fs-idm386530512">
+<title>Purpose of Financial Statements</title>
+<para id="fs-idm383295328">Before exploring the specific financial statements, it is important to know why these are important documents. To understand this, you must first understand who the users of financial statements are. Users of the information found in financial statements are called stakeholders. A <term>stakeholder</term> is someone affected by decisions made by a company; this can include groups or individuals affected by the actions or policies of an organization, including investors, creditors, employees, managers, regulators, customers, and suppliers. The stakeholder’s interest sometimes is not directly related to the entity’s financial performance. Examples of stakeholders include lenders, investors/owners, vendors, employees and management, governmental agencies, and the communities in which the businesses operate. Stakeholders are interested in the performance of an organization for various reasons, but the common goal of using the financial statements is to understand the information each contains that is useful for making financial decisions. For example, a banker may be interested in the financial statements to decide whether or not to lend the organization money.</para><para id="fs-idm382524880">Likewise, small business owners may make decisions based on their familiarity with the business—they know if the business is doing well or not based on their “gut feeling.” By preparing the financial statements, accountants can help owners by providing clarity of the organization’s financial performance. It is important to understand that, in the long term, every activity of the business has a financial impact, and financial statements are a way that accountants report the activities of the business. Stakeholders must make many decisions, and the financial statements provide information that is helpful in the decision-making process.</para>
+<para id="fs-idm382215344">As described in <link document="m67831">Role of Accounting in Society</link>, the complete set of financial statements acts as an X-ray of a company’s financial health. By evaluating all of the financial statements together, someone with financial knowledge can determine the overall health of a company. The accountant can use this information to advise outside (and inside) stakeholders on decisions, and management can use this information as one tool to make strategic short- and long-term decisions.</para>
+<note id="fs-idm384541680" class="ethical-considerations">
+<title>Utilitarian View of Accounting Decisions and Stakeholder Well-Being</title>
+<para id="fs-idm375543680">Utilitarianism is a well-known and influential moral theory commonly used as a framework to evaluate business decisions. Utilitarianism suggests that an ethical action is one whose consequence achieves the greatest good for the greatest number of people. So, if we want to make an ethical decision, we should ask ourselves who is helped and who is harmed by it. Focusing on consequences in this way generally does not require us to take into account the means of achieving that particular end, however. Put simply, the utilitarian view is an ethical theory that the best action of a company is the one that maximizes utility of all stakeholders to the decision. This view assumes that all individuals with an interest in the business are considered within the decision.</para>
+<para id="fs-idm371229696">Financial statements are used to understand the financial performance of companies and to make long- and short-term decisions. A utilitarian approach considers all stakeholders, and both the long- and short-term effects of a business decision. This allows corporate decision makers to choose business actions with the potential to produce the best outcomes for the majority of all stakeholders, not just shareholders, and therefore maximize stakeholder happiness.</para>
+<para id="fs-idm377918480">Accounting decisions can change the approach a stakeholder has in relation to a business. If a company focuses on modifying operations and financial reporting to maximize short-term shareholder value, this could indicate the prioritization of certain stakeholder interests above others. When a company pursues only short-term profit for shareholders, it neglects the well-being of other stakeholders. Professional accountants should be aware of the interdependent relationship between all stakeholders and consider whether the results of their decisions are good for the majority of stakeholder interests.</para>
+</note>
+<note id="fs-idm386567280" class="your-turn">
+<title>Business Owners as Decision Makers</title>
+<para id="fs-idm387617376">Think of a business owner in your family or community. Schedule some time to talk with the business owner, and find out how he or she uses financial information to make decisions.</para>
+<para id="fs-idm382427456"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm396868288">Business owners will use financial information for many decisions, such as comparing sales from one period to another, determining trends in costs and other expenses, and identifying areas in which to reduce or reallocate expenses. This information will be used to determine, for example, staffing and inventory levels, streamlining of operations, and advertising or other investment decisions.</para>
+</note>
+</section>
+<section id="fs-idm389199568">
+<title>The Income Statement</title>
+<para id="fs-idm382411040">The first financial statement prepared is the <term>income statement</term>, a statement that shows the organization’s financial performance <emphasis effect="italics">for a given period of time</emphasis>. Let’s illustrate the purpose of an income statement using a real-life example. Assume your friend, Chris, who is a sole proprietor, started a summer landscaping business on August 1, 2020. It is categorized as a service entity. To keep this example simple, assume that she is using her family’s tractor, and we are using the <emphasis effect="italics">cash basis</emphasis> method of accounting to demonstrate Chris’s initial operations for her business. The other available basis method that is commonly used in accounting is the <emphasis effect="italics">accrual basis</emphasis> method. She is responsible for paying for fuel and any maintenance costs. She named the business Chris’ Landscaping. On August 31, Chris checked the account balance and noticed there is only $250 in the checking account. This balance is lower than expected because she thought she had been paid by some customers. Chris decides to do some research to determine why the balance in the checking account is lower than expected. Her research shows that she earned a total of $1,400 from her customers but had to pay $100 to fix the brakes on her tractor, $50 for fuel, and also made a $1,000 payment to the insurance company for business insurance. The reason for the lower-than-expected balance was due to the fact that she spent ($1,150 for brakes, fuel, and insurance) only slightly less than she earned ($1,400)—a net increase of $250. While she would like the checking balance to grow each month, she realizes most of the August expenses were infrequent (brakes and insurance) and the insurance, in particular, was an unusually large expense. She is convinced the checking account balance will likely grow more in September because she will earn money from some new customers; she also anticipates having fewer expenses.</para>
+<media id="fs-idm387900272" class="scaled-down" alt="Chris’ Landscaping, Income Statement, For the Month Ended August 31, 2020. Revenue $1,400, Total revenue $1,400. Expenses: Tractor brake repair 100, Tractor fuel 50, Buiness insurance 1,000; Total Expenses 1,150; Net income $250.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_CrInc_img.jpg"/>
+</media>
+<para id="fs-idm337844640">The Income Statement can also be visualized by the formula: Revenue – Expenses = Net Income/(Loss).</para>
+<para id="fs-idm387556672">Let’s change this example slightly and assume the $1,000 payment to the insurance company will be paid in September, rather than in August. In this case, the ending balance in Chris’s checking account would be $1,250, a result of earning $1,400 and only spending $100 for the brakes on her car and $50 for fuel. This stream of cash flows is an example of cash basis accounting because it reflects when payments are received and made, not necessarily the time period that they affect. At the end of this section and in <link document="m67848">The Adjustment Process</link> you will address accrual accounting, which does reflect the time period that they affect.</para>
+<para id="fs-idm347769552">In accounting, this example illustrates an income statement, a financial statement that is used to measure the financial performance of an organization for a particular period of time. We use the simple landscaping account example to discuss the elements of the income statement, which are revenues, expenses, gains, and losses. Together, these determine whether the organization has net income (where revenues and gains are greater than expenses and losses) or net loss (where expenses and losses are greater than revenues and gains). Revenues, expenses, gains, and losses are further defined here.</para>
+<section id="fs-idm390005392">
+<title>Revenue</title>
+<para id="fs-idm389436736"><term>Revenue</term><footnote id="fs-idm372574816">In a subsequent section of this chapter, you will learn that the accounting profession is governed by the Financial Accounting Standards Board (or FASB), a professional body that issues guidelines/pronouncements for the accounting profession. A set of theoretical pronouncements issued by FASB is called Statement of Financial Accounting Concepts (SFAC). In SFAC No. 6, FASB defines revenues as “inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity’s ongoing major or central operations” (SFAC No. 6, p. 23).</footnote> is the value of goods and services the organization sold or provided to customers for a given period of time. In our current example, Chris’s landscaping business, the “revenue” earned for the month of August would be $1,400. It is the value Chris received in exchange for the services provided to her clients. Likewise, when a business provides goods or services to customers for cash at the time of the service or in the future, the business classifies the amount(s) as revenue. Just as the $1,400 earned from a business made Chris’s checking account balance increase, revenues increase the value of a business. In accounting, revenues are often also called sales or fees earned. Just as earning wages from a business or summer job reflects the number of hours worked for a given rate of pay or payments from clients for services rendered, revenues (and the other terms) are used to indicate the dollar value of goods and services provided to customers for a given period of time.</para>
+<note id="fs-idm380990912" class="your-turn">
+<title>Coffee Shop Products</title>
+<para id="fs-idm398049712">Think about the coffee shop in your area. Identify items the coffee shop sells that would be classified as revenues. Remember, revenues for the coffee shop are related to its primary purpose: selling coffee and related items. Or, better yet, make a trip to the local coffee shop and get a first-hand experience.</para>
+<para id="fs-idm388669360"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm387740080">Many coffee shops earn revenue through multiple revenue streams, including coffee and other specialty drinks, food items, gift cards, and merchandise.</para>
+</note>
+</section>
+<section id="fs-idm379753824">
+<title>Expenses</title>
+<para id="fs-idm384045360">An <term>expense</term><footnote id="fs-idm394947440">Expenses are formally defined by the FASB as “outflows or other using up of assets or incurrences of liabilities (or a combination of both) from delivering or producing goods, rendering services, or carrying out other activities that constitute the entity’s ongoing major or central operations” (SFAC No. 6, p. 23).</footnote> is a cost associated with providing goods or services to customers. In our opening example, the expenses that Chris incurred totaled $1,150 (consisting of $100 for brakes, $50 for fuel, and $1,000 for insurance). You might think of expenses as the opposite of revenue in that expenses reduce Chris’s checking account balance. Likewise, expenses decrease the value of the business and represent the dollar value of costs incurred to provide goods and services to customers for a given period of time.</para>
+<note id="fs-idm384913104" class="your-turn">
+<title>Coffee Shop Expenses</title>
+<para id="fs-idm398371632">While thinking about or visiting the coffee shop in your area, look around (or visualize) and identify items or activities that are the expenses of the coffee shop. Remember, expenses for the coffee shop are related to resources consumed while generating revenue from selling coffee and related items. Do not forget about any expenses that might not be so obvious—as a general rule, every activity in a business has an associated cost.</para>
+<para id="fs-idm388630032"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm384480112">Costs of the coffee shop that might be readily observed would include rent; wages for the employees; and the cost of the coffee, pastries, and other items/merchandise that may be sold. In addition, costs such as utilities, equipment, and cleaning or other supplies might also be readily observable. More obscure costs of the coffee shop would include insurance, regulatory costs such as health department licensing, point-of-sale/credit card costs, advertising, donations, and payroll costs such as workers’ compensation, unemployment, and so on.</para>
+</note>
+</section>
+<section id="fs-idm385345088">
+<title>Gains</title>
+<para id="fs-idm398066704">A <term>gain</term><footnote id="fs-idm337801968">FASB notes that gains represent an increase in organizational value from activities that are “<emphasis effect="italics">incidental</emphasis> or <emphasis effect="italics">peripheral</emphasis>” (SFAC No. 6, p. 24) to the primary purpose of the business.</footnote> can result from selling ancillary business items for more than the items are worth. (Ancillary business items are those that are used to support business operations.) To illustrate the concept of a gain, let’s return to our example. However, this example and the accompanying <emphasis effect="italics">losses</emphasis> example are not going to be part of our income statement, balance sheet, or owner’s equity statement discussions. The gains and losses examples are only to be used in demonstrating the concepts of gains and losses. Assume that Chris paid $1,500 for a small piece of property to use for building a storage facility for her company. Further assume that Chris has an opportunity to sell the land for $2,000. She subsequently found a better storage option and decided to sell the property. After doing so, Chris will have a gain of $500 (a selling price of $2,000 and a cost of $1,500) and will also have $2,000 to deposit into her checking account, which would increase the balance.</para>
+<para id="fs-idm387838704">Thinking back to the proceeds ($1,400) Chris received from her landscaping business, we might ask the question: how are gains similar to and different from revenues? The revenue of $1,400 that Chris earned from her business and the $2,000 she received from selling the land are similar in that both increase her checking account balance and make her business more valuable.</para>
+<para id="fs-idm383226864">A difference, however, is evident if we consider how these funds were earned. Chris earned the $1,400 because she provided services (her labor) to her clients. Chris’s primary objective is to earn revenue by working for her clients. In addition, earning money by selling her land was an infrequent event for Chris, since her primary job was serving as a landscaper. Her primary goal is to earn fees or revenue, not to earn money by selling land. In fact, she cannot consider doing that again because she does not have additional land to sell.</para>
+<para id="fs-idm387581328">The primary goal of a business is to earn revenue by providing goods and services to customers in exchange for cash at that time or in the future. While selling other items for more than the value of the item does occur in business, these transactions are classified as gains, because these sales are infrequent and not the primary purpose of the business.</para>
+</section>
+<section id="fs-idm375107536">
+<title>Losses</title>
+<para id="fs-idm389137568">A <term>loss</term><footnote id="fs-idm391223536">FASB notes losses represent a decrease in organizational value from activities that are “<emphasis effect="italics">incidental</emphasis> or <emphasis effect="italics">peripheral</emphasis>” (SFAC No. 6, p. 24) to the primary purpose of the business.</footnote> results from selling ancillary business items for less than the items are worth. To illustrate, let’s now assume that Chris sells her land that she purchased for $1,500 at a sales price of $1,200. In this case she would realize (incur) a loss of $300 on the sale of the property ($1,200 sales price minus the $1,500 cost of purchasing the property) and will also have $1,200 to deposit into her checking account, which would increase the balance.</para>
+<para id="fs-idm379568112">You should not be confused by the fact that the checking account balance increased even though this transaction resulted in a financial loss. Chris received $1,200 that she can deposit into her checking account and use for future expenses. The $300 loss simply indicates that she received less for the land than she paid for it. These are two aspects of the same transaction that communicate different things, and it is important to understand the differences.</para>
+<para id="fs-idm361673760">As we saw when comparing gains and revenues, losses are similar to expenses in that both losses and expenses decrease the value of the organization. In addition, just as Chris’s primary goal is to earn money from her job rather than selling land, in business, losses refer to infrequent transactions involving ancillary items of the business.</para>
+</section>
+<section id="fs-idm370435264">
+<title>Net Income (Net Loss)</title>
+<para id="fs-idm343123152">Net income (net loss) is determined by comparing revenues and expenses. <term>Net income</term> is a result of revenues (inflows) being greater than expenses (outflows). A <term>net loss</term> occurs when expenses (outflows) are greater than revenues (inflows). In accounting it is common to present net income in the following format:</para>
+<media id="fs-idm358847408" class="scaled-down" alt="Net Income: Revenue (sometimes called Sales or Fees Earned) minus Expenses equals Operating Profit (or Net Loss).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_Net01_img.jpg"/>
+</media>
+<para id="fs-idm389125456">Recall that revenue is the value of goods and services a business provides to its customers and increase the value of the business. Expenses, on the other hand, are the costs of providing the goods and services and decrease the value of the business. When revenues exceed expenses, companies have net income. This means the business has been successful at earning revenues, containing expenses, or a combination of both. If, on the other hand, expenses exceed revenues, companies experience a net loss. This means the business was unsuccessful in earning adequate revenues, sufficiently containing expenses, or a combination of both. While businesses work hard to avoid net loss situations, it is not uncommon for a company to sustain a net loss from time-to-time. It is difficult, however, for businesses to remain viable while experiencing net losses over the long term.</para>
+<para id="fs-idm388911728">Shown as a formula, the net income (loss) function is:</para>
+<media id="fs-idm381078784" class="scaled-down" alt="Two equations are shown. Revenues (R) minus Expenses (E) equals Net Income (when R is greater than E). Revenues (R) minus Expenses (E) equals Net Loss (when E is greater than R).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_Net02_img.jpg"/>
+</media>
+<para id="fs-idm374390688">To be complete, we must also consider the impact of gains and losses. While gains and losses are infrequent in a business, it is not uncommon that a business would present a gain and/or loss in its financial statements. Recall that gains are similar to revenue and losses are similar to expenses. Therefore, the traditional accounting format would be:</para>
+<media id="fs-idm385843312" class="scaled-down" alt="Gains and Losses: Revenue (sometimes called Sales r Fees Earned) plus Gains minus Expenses minus Losses equals Net Income (or Net Loss).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_GandL01_img.jpg"/>
+</media>
+<para id="fs-idm390903008">Shown as a formula, the net income (loss) function, including gains and losses, is:</para>
+<media id="fs-idm384168496" alt="Two equations are shown. Revenues (R) plus Gains (G) minus Expenses (E) minus Losses (L) equals Net Income [when (R plus G) is greater than (E plus L)]. Revenues (R) plus Gains (G) minus Expenses (E) minus Losses (L) equals Net Income [when (E plus L) is greater than (R plus G)].">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_GandL02_img.jpg"/>
+</media>
+<para id="fs-idm388753600">When assessing a company’s net income, it is important to understand the source of the net income. Businesses strive to attain “high-quality” net income (earnings). High-quality earnings are based on sustainable earnings—also called permanent earnings—while relying less on infrequent earnings—also called temporary earnings. Recall that revenues represent the <emphasis effect="italics">ongoing</emphasis> value of goods and services the business provides (sells) to its customers, while gains are <emphasis effect="italics">infrequent</emphasis> and involve items ancillary to the primary purpose of the business. We should use caution if a business attains a significant portion of its net income as a result of gains, rather than revenues. Likewise, net losses derived as a result of losses should be put into the proper perspective due to the infrequent nature of losses. While net losses are undesirable for any reason, net losses that result from expenses related to ongoing operations, rather than losses that are infrequent, are more concerning for the business.</para>
+</section>
+</section>
+<section id="fs-idm385099376">
+<title>Statement of Owner’s Equity</title>
+<para id="fs-idm370852320">Equity is a term that is often confusing but is a concept with which you are probably already familiar. In short, equity is the value of an item that remains after considering what is owed for that item. The following example may help illustrate the concept of equity.</para>
+<para id="fs-idm386456832">When thinking about the concept of equity, it is often helpful to think about an example many families are familiar with: purchasing a home. Suppose a family purchases a home worth $200,000. After making a down payment of $25,000, they secure a bank loan to pay the remaining $175,000. What is the value of the family’s equity in the home? If you answered $25,000, you are correct. At the time of the purchase, the family owns a home worth $200,000 (an asset), but they owe $175,000 (a liability), so the equity or net worth in the home is $25,000.</para>
+<para id="fs-idm385670720">The <term>statement of owner’s equity</term>, which is the second financial statement created by accountants, is a statement that shows how the equity (or value) of the organization has changed over time. Similar to the income statement, the statement of owner’s equity is <emphasis effect="italics">for a specific period of time, typically one year.</emphasis> Recall that another way to think about equity is net worth, or value. So, the statement of owner’s equity is a financial statement that shows how the net worth, or value, of the business has changed for a given period of time.</para>
+<media id="fs-idm391941104" class="scaled-down-30" alt="Chris’ Landscaping, Statement of Owner’s Equity, For month ended August 31, 2020. Owner’s equity, August 1 $0 plus Net Income $250; Owner’s equity, August 31 $250.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_Comp_img.jpg"/>
+</media>
+<para id="fs-idm384505344">The elements of the financial statements shown on the statement of owner’s equity include <emphasis effect="italics">investments by owners</emphasis> as well as <emphasis effect="italics">distributions to owners</emphasis>. Investments by owners and distributions to owners are two activities that impact the value of the organization (increase and decrease, respectively). In addition, net income or net loss affects the value of the organization (net income increases the value of the organization, and net loss decreases it). Net income (or net loss) is also shown on the statement of owner’s equity; this is an example of how the statements are interrelated. Note that the word <emphasis effect="italics">owner’s</emphasis> (singular for a sole owner) changes to <emphasis effect="italics">owners’</emphasis> (plural, for a group of owners) when preparing this statement for an entity with multiple owners versus a sole proprietorship.</para>
+<para id="fs-idm398380288">In our example, to make it less complicated, we started with the first month of operations for Chris’s Landscaping. In the first month of operations, the owner’s equity total begins the month of August 2020, at $0, since there have been no transactions. During the month, the business received revenue of $1,400 and incurred expenses of $1,150, for net income of $250. Since Chris did not contribute any investment or make any withdrawals, other than the $1,150 for expenses, the ending balance in the owner’s equity account on August 31, 2020, would be $250, the net income earned.</para>
+<para id="fs-idm343192720">At this stage, it’s important to point out that we are working with a sole proprietorship to help simplify the examples. We have addressed the owner’s value in the firm as <emphasis effect="italics">capital</emphasis> or <emphasis effect="italics">owner’s equity</emphasis>. However, later we switch the structure of the business to a corporation, and instead of owner’s equity we begin using stockholder’s equity, which includes account titles such as <emphasis effect="italics">common stock</emphasis> and <emphasis effect="italics">retained earnings</emphasis> to represent the owners’ interests.</para>
+<para id="fs-idm369822448">The corporate treatment is more complicated because corporations may have a few owners up to potentially thousands of owners (stockholders). More detail on this issue is provided in <link document="m67839">Define, Explain, and Provide Examples of Current and Noncurrent Assets, Current and Noncurrent Liabilities, Equity, Revenues, and Expenses</link>.</para>
+<section id="fs-idm348698880">
+<title>Investments by Owners</title>
+<para id="fs-idm375442384">Generally, there are two ways by which organizations become more valuable: profitable operations (when revenues exceed expenses) and investments by owners. Organizations often have long-term goals or projects that are very expensive (for example, building a new manufacturing facility or purchasing another company).</para>
+<para id="fs-idm372873552">While having profitable operations is a viable way to “fund” these goals and projects, organizations often want to undertake these projects in a quicker time frame. Selling ownership is one way to quickly obtain the funding necessary for these goals. <term>Investments by owners</term> represent an exchange of cash or other assets for which the investor is given an ownership interest in the organization. This is a mutually beneficial arrangement: the organization gets the funding it needs on a timely basis, and the investor gets an ownership interest in the organization.</para>
+<para id="fs-idm382391248">When organizations generate funding by selling ownership, the ownership interest usually takes the form of <term>common stock</term>, which is the corporation’s primary class of stock issued, with each share representing a partial claim to ownership or a share of the company’s business. When the organization issues common stock for the first time, it is called an <term>initial public offering (IPO)</term>. In <link document="m67916">Corporation Accounting</link>, you learn more about the specifics of this type of accounting. Once a company issues (or sells) common stock after an IPO, we describe the company as a <term>publicly traded company</term>, which simply means the company’s stock can be purchased by the general public on a public exchange like the New York Stock Exchange (NYSE). That is, investors can become owners of the particular company. Companies that issue publicly traded common shares in the United States are regulated by the <term>Securities and Exchange Commission (SEC)</term>, a federal regulatory agency that, among other responsibilities, is charged with oversight of financial investments such as common stock.</para>
+<note id="fs-idm385591280" class="concepts-practice">
+<title>Roku Goes Public</title>
+<para id="fs-idm374127104">On September 1, 2017, <emphasis class="colored-text">Roku, Inc.</emphasis> filed a Form S-1 with the Securities and Exchange Commission (SEC).<footnote id="fs-idm390826352">Roku, Inc. “Form S-1 Filing with the Securities and Exchange Commission.” September 1, 2017. https://www.sec.gov/Archives/edgar/data/1428439/000119312517275689/d403225ds1.htm</footnote> In this form, <emphasis class="colored-text">Roku</emphasis> disclosed its intention to become a publicly traded company, meaning its stock will trade (sell) on public stock exchanges, allowing individual and institutional investors an opportunity to own a portion (shares) of the company. The Form S-1 included detailed financial and nonfinancial information about the company. The information from <emphasis class="colored-text">Roku</emphasis> also included the purpose of the offering as well as the intended uses of the funds. Here is a portion of the disclosure: “The principal purposes of this offering are to increase our capitalization and financial flexibility and create a public market for our Class A common stock. We intend to use the net proceeds we receive from this offering primarily for general corporate purposes, including working capital . . . research and development, business development, sales and marketing activities and capital expenditures.”<footnote id="fs-idm399037184">Roku, Inc. “Form S-1 Filing with the Securities and Exchange Commission.” September 1, 2017. https://www.sec.gov/Archives/edgar/data/1428439/000119312517275689/d403225ds1.htm</footnote></para>
+<para id="fs-idm384977632">On September 28, 2017, <emphasis class="colored-text">Roku</emphasis> “went public” and exceeded expectations. Prior to the IPO, <emphasis class="colored-text">Roku</emphasis> estimated it would sell between $12 and $14 per share, raising over $117 million for the company. The closing price per share on September 28 was $23.50, nearly doubling initial expectations for the share value.<footnote id="fs-idm380706768">Roku, Inc. Data. https://finance.yahoo.com/quote/ROKU/history?p=ROKU</footnote></para>
+</note>
+</section>
+<section id="fs-idm387879008">
+<title>Distributions to Owners</title>
+<para id="fs-idm372004256">There are basically two ways in which organizations become less valuable in terms of owners’ equity: from unprofitable operations (when expenses or losses exceed revenues or gains) and by distributions to owners. Owners (investors) of an organization want to see their investment appreciate (gain) in value. Over time, owners of common stock can see the value of the stock increase in value—the share price increases—due to the success of the organization. Organizations may also make <term>distributions to owners</term>, which are periodic rewards issued to the owners in the form of cash or other assets. Distributions to owners represent some of the value (equity) of the organization.</para>
+<para id="fs-idm345670448">For investors who hold common stock in the organization, these periodic payments or distributions to owners are called <term>dividends</term>. For sole proprietorships, distributions to owners are withdrawals or drawings. From the organization’s perspective, dividends represent a portion of the net worth (equity) of the organization that is returned to owners as a reward for their investment. While issuing dividends does, in fact, reduce the organization’s assets, some argue that paying dividends increases the organization’s long-term value by making the stock more desirable. (Note that this topic falls under the category of “dividend policy” and there is a significant stream of research addressing this.)</para>
+</section>
+</section>
+<section id="fs-idm376023168">
+<title>Balance Sheet</title>
+<para id="fs-idm361341760">Once the statement of owner’s equity is completed, accountants typically complete the <term>balance sheet</term>, a statement that lists what the organization owns (<emphasis effect="italics">assets</emphasis>), what it owes (<emphasis effect="italics">liabilities</emphasis>), and what it is worth (<emphasis effect="italics">equity</emphasis>) on a <emphasis effect="italics">specific date</emphasis>. Notice the change in timing of the report. The income statement and statement of owner’s equity report the financial performance and equity change for a period of time. The balance sheet, however, lists the financial position at the close of business on a specific date. (Refer to <link target-id="OSX_Acct_F02_01_BalSht"/> for the balance sheet as of August 31, 2020, for Chris’ Landscaping.)</para>
+<figure id="OSX_Acct_F02_01_BalSht" class="scaled-down-30">
+<media id="fs-idm362436096" alt="Balance Sheet for Chris’ Landscaping. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_BalSht.jpg"/>
+</media>
+<caption>“Balance Sheet for Chris’ Landscaping.” (attribution: Copyright, Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<section id="fs-idm373503424">
+<title>Assets</title>
+<para id="fs-idm345166496">If you recall our previous example involving Chris and her newly established landscaping business, you are probably already familiar with the term <term>asset</term><footnote id="fs-idm385087296">The FASB defines assets as “probable future economic benefits obtained or controlled by a particular entity as a result of past transactions or events” (SFAC No. 6, p. 12).</footnote>—these are resources used to generate revenue. In Chris’s business, to keep the example relatively simple, the business ended the month with one asset, cash, assuming that the insurance was for one month’s coverage.</para>
+<para id="fs-idm371216896">However, as organizations become more complex, they often have dozens or more types of assets. An asset can be categorized as a <term>short-term asset</term> or <term class="no-emphasis">current asset</term> (which is typically used up, sold, or converted to cash in one year or less) or as a <term>long-term asset</term> or <term class="no-emphasis">noncurrent asset</term> (which is not expected to be converted into cash or used up within one year). Long-term assets are often used in the production of products and services.</para>
+<para id="fs-idm386558128">Examples of short-term assets that businesses own include cash, accounts receivable, and inventory, while examples of long-term assets include land, machinery, office furniture, buildings, and vehicles. Several of the chapters that you will study are dedicated to an in-depth coverage of the special characteristics of selected assets. Examples include <link document="m67860">Merchandising Transactions</link>, which are typically short term, and <link document="m67894">Long-Term Assets</link>, which are typically long term.</para>
+<para id="fs-idm344718624">An asset can also be categorized as a tangible asset or an intangible asset. <term>Tangible assets</term> have a physical nature, such as trucks or many inventory items, while <term>intangible assets</term> have value but often lack a physical existence or corpus, such as insurance policies or trademarks.</para>
+</section>
+<section id="fs-idm375918128">
+<title>Liabilities</title>
+<para id="fs-idm372738688">You are also probably already familiar with the term <term>liability</term><footnote id="fs-idm371032048">The FASB defines liabilities as “probable future sacrifices of economic benefits arising from present obligations of a particular entity to transfer assets or provide services to other entities in the future as a result of past transactions or events” (SFAC No. 6, p. 13).</footnote>—these are amounts owed to others (called creditors). A liability can also be categorized as a <term>short-term liability</term> (or <term class="no-emphasis">current liability</term>) or a <term>long-term liability</term> (or <term class="no-emphasis">noncurrent liability</term>), similar to the treatment accorded assets. Short-term liabilities are typically expected to be paid within one year or less, while long-term liabilities are typically expected to be due for payment more than one year past the current balance sheet date.</para>
+<para id="fs-idm381104448">Common short-term liabilities or amounts owed by businesses include amounts owed for items purchased on credit (also called <emphasis effect="italics">accounts payable</emphasis>), taxes, wages, and other business costs that will be paid in the future. Long-term liabilities can include such liabilities as long-term notes payable, mortgages payable, or bonds payable.</para>
+</section>
+<section id="fs-idm341824048">
+<title>Equity</title>
+<para id="fs-idm372466752">In the Statement of Owner’s Equity discussion, you learned that <term>equity</term> (or <term class="no-emphasis">net assets</term>) refers to book value or net worth. In our example, Chris’s Landscaping, we determined that Chris had $250 worth of equity in her company at the end of the first month (see <link target-id="OSX_Acct_F02_01_BalSht"/>).</para>
+<para id="fs-idm381024912">At any point in time it is important for stakeholders to know the financial position of a business. Stated differently, it is important for employees, managers, and other interested parties to understand what a business owns, owes, and is worth at any given point. This provides stakeholders with valuable financial information to make decisions related to the business.</para>
+</section>
+</section>
+<section id="fs-idm364014528">
+<title>Statement of Cash Flows</title>
+<para id="fs-idm359809632">The fourth and final financial statement prepared is the <term>statement of cash flows</term>, which is a statement that lists the cash inflows and cash outflows for the business <emphasis effect="italics">for a period of time.</emphasis> At first glance, this may seem like a redundant financial statement. We know the income statement also reports the inflows and outflows for the business for a period of time. In addition, the statement of owner’s equity and the balance sheet help to show the other activities, such as investments by and distributions to owners that are not included in the income statement. To understand why the statement of cash flows is necessary, we must first understand the two bases of accounting used to prepare the financial statements. The changes in cash within this statement are often referred to as sources and uses of cash. A source of cash lets one see where cash is coming from. For example, is cash being generated from sales to customers, or is the cash a result of an advance in a large loan. Use of cash looks at what cash is being used for. Is cash being used to make an interest payment on a loan, or is cash being used to purchase a large piece of machinery that will expand business capacity? The two bases of accounting are the cash basis and the accrual basis, briefly introduced in <link document="m67838">Describe the Income Statement, Statement of Owner’s Equity, Balance Sheet, and Statement of Cash Flows, and How They Interrelate</link>.</para>
+<para id="fs-idm372778144">Under <term>cash basis accounting</term>, transactions (i.e., a sale or a purchase) are not recorded in the financial statements until there is an exchange of cash. This type of accounting is permitted for nonprofit entities and small businesses that elect to use this type of accounting. Under <term>accrual basis accounting</term>, transactions are generally recorded in the financial statement when the transactions occur, and not when paid, although in some situations the two events could happen on the same day.</para>
+<para id="fs-idm359240336">An example of the two methods (cash versus accrual accounting) would probably help clarify their differences. Assume that a mechanic performs a tune-up on a client’s car on May 29, and the customer picks up her car and pays the mechanic $100 on June 2. If the mechanic were using the cash method, the revenue would be recognized on June 2, the date of payment, and any expenses would be recognized when paid.</para>
+<para id="fs-idm379040144">If the accrual method were used, the mechanic would recognize the revenue and any related expenses on May 29, the day the work was completed. The accrual method will be the basis for your studies here (except for our coverage of the cash flow statement in <link document="m67838">Statement of Cash Flows</link>). The accrual method is also discussed in greater detail in <link document="m67849">Explain the Steps within the Accounting Cycle through the Unadjusted Trial Balance</link>.</para>
+<para id="fs-idm388553552">While the cash basis of accounting is suited well and is more efficient for small businesses and certain types of businesses, such as farming, and those without inventory, like lawyers and doctors, the accrual basis of accounting is theoretically preferable to the cash basis of accounting. Accrual accounting is advantageous because it distinguishes between the timing of the transactions (when goods and services are provided) and when the cash involved in the transactions is exchanged (which can be a significant amount of time after the initial transaction). This allows accountants to provide, in a timely manner, relevant and complete information to stakeholders. <link document="m67848">The Adjustment Process</link> explores several common techniques involved in accrual accounting.</para>
+<para id="fs-idm377894208">Two brief examples may help illustrate the difference between cash accounting and accrual accounting. Assume that a business sells $200 worth of merchandise. In some businesses, there are two ways the customers pay: cash and credit (also referred to as “on account”). Cash sales include checks and credit cards and are paid at the time of the sale. Credit sales (not to be confused with credit card sales) allow the customer to take the merchandise but pay within a specified period of time, usually up to forty-five days.</para>
+<para id="fs-idm390912992">A cash sale would be recorded in the financial statements under <emphasis effect="italics">both</emphasis> the cash basis and accrual basis of accounting. It makes sense because the customer received the merchandise and paid the business at the same time. It is considered two events that occur simultaneously (exchange of merchandise for cash).</para>
+<para id="fs-idm359795712">Similar to the previous example for the mechanic, a credit sale, however, would be treated differently under each of these types of accounting. Under the cash basis of accounting, a credit sale would not be recorded in the financial statements until the cash is received, under terms stipulated by the seller. For example, assume on April 1 a landscaping business provides $500 worth of services to one of its customers. The sale is made on account, with the payment due forty-five days later. Under the cash basis of accounting, the revenue would not be recorded until May 16, when the cash was received. Under the accrual basis of accounting, this sale would be recorded in the financial statements at the time the services were provided, April 1. The reason the sale would be recorded is, under accrual accounting, the business reports that it provided $500 worth of services to its customer. The fact the customers will pay later is viewed as a separate transaction under accrual accounting (<link target-id="OSX_Acct_F02_01_CashVsAcc"/>).</para>
+<figure id="OSX_Acct_F02_01_CashVsAcc">
+<media id="fs-idm399412496" alt="Left side: Landscape, Statement of Cash Flows, For the Month Ended May 31, 2021. Cash flow from operations: Net earnings $500. A circle and arrow around May 31, 2021 point to the word Cash. Right side: Landscape, Statement of Cash Flows, For the Month Ended April 30, 2021; Cash flow from operations: Net earnings $500. A circle and arrow around April 30, 2021 point to the word Accrual.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_CashVsAcc.jpg"/>
+</media>
+<caption>Credit versus Cash. On the left is a credit sale recorded under the cash basis of accounting. On the right the same credit sale is recorded under the accrual basis of accounting. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm396430704">Let’s now explore the difference between the cash basis and accrual basis of accounting using an expense. Assume a business purchases $160 worth of printing supplies from a supplier (vendor). Similar to a sale, a purchase of merchandise can be paid for at the time of sale using cash (also a check or credit card) or at a later date (on account). A purchase paid with cash at the time of the sale would be recorded in the financial statements under <emphasis effect="italics">both</emphasis> cash basis and accrual basis of accounting. It makes sense because the business received the printing supplies from the supplier and paid the supplier at the same time. It is considered two events that occur simultaneously (exchange of merchandise for cash).</para>
+<para id="fs-idm360740816">If the purchase was made on account (also called a <emphasis effect="italics">credit purchase</emphasis>), however, the transaction would be recorded differently under each of these types of accounting. Under the cash basis of accounting, the $160 purchase on account would not be recorded in the financial statements until the cash is paid, as stipulated by the seller’s terms. For example, if the printing supplies were received on July 17 and the payment terms were fifteen days, no transaction would be recorded until August 1, when the goods were paid for. Under the accrual basis of accounting, this purchase would be recorded in the financial statements at the time the business received the printing supplies from the supplier (July 17). The reason the purchase would be recorded is that the business reports that it bought $160 worth of printing supplies from its vendors. The fact the business will pay later is viewed as a separate issue under accrual accounting. <link target-id="fs-idm379127072"/> summarizes these examples under the different bases of accounting.</para>
+<table id="fs-idm379127072" class="top-titled" summary="No Summary">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c3">Transactions by Cash Basis versus Accrual Basis of Accounting</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">Transaction</entry>
+<entry valign="middle" align="center">Under Cash Basis Accounting</entry>
+<entry valign="middle" align="center">Under Accrual Basis Accounting</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="middle" align="left">$200 sale for cash</entry>
+<entry valign="middle" align="left">Recorded in financial statements at time of sale</entry>
+<entry valign="middle" align="left">Recorded in financial statements at time of sale</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">$200 sale on account</entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Not</emphasis> recorded in financial statements until cash is received</entry>
+<entry valign="middle" align="left">Recorded in financial statements at time of sale</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">$160 purchase for cash</entry>
+<entry valign="middle" align="left">Recorded in financial statements at time of purchase</entry>
+<entry valign="middle" align="left">Recorded in financial statements at time of purchase</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">$160 purchase on account</entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Not</emphasis> recorded in financial statements until cash is paid</entry>
+<entry valign="middle" align="left">Recorded in financial statements at time of purchase</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Businesses often sell items for cash as well as on account, where payment terms are extended for a period of time (for example, thirty to forty-five days). Likewise, businesses often purchase items from suppliers (also called vendors) for cash or, more likely, on account. Under the cash basis of accounting, these transactions would not be recorded until the cash is exchanged. In contrast, under accrual accounting the transactions are recorded when the transaction occurs, regardless of when the cash is received or paid.</caption>
+</table>
+<para id="fs-idm349119600">Knowing the difference between the cash basis and accrual basis of accounting is necessary to understand the need for the statement of cash flows. Stakeholders need to know the financial <emphasis effect="italics">performance</emphasis> (as measured by the income statement—that is, net income or net loss) and financial <emphasis effect="italics">position</emphasis> (as measured by the balance sheet—that is, assets, liabilities, and owners’ equity) of the business. This information is provided in the income statement, statement of owner’s equity, and balance sheet. However, since these financial statements are prepared using accrual accounting, stakeholders do not have a clear picture of the business’s cash activities. The statement of cash flows solves this inadequacy by specifically focusing on the cash inflows and cash outflows.</para>
+</section>
+<section id="fs-idm371317744" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm341108304" list-type="bulleted" bullet-style="bullet">
+<item>Financial statements provide financial information to stakeholders to help them in making decisions.</item>
+<item>There are four financial statements: income statement, statement of owner’s equity, balance sheet, and statement of cash flows.</item>
+<item>The income statement measures the financial <emphasis effect="italics">performance</emphasis> of the organization for a period of time. The income statement lists revenues, expenses, gains, and losses, which make up net income (or net loss).</item>
+<item>The statement of owner’s equity shows how the net worth of the organization changes for a period of time. In addition to showing net income or net loss, the statement of owner’s equity shows the investments by and distributions to owners.</item>
+<item>The balance sheet shows the organization’s financial <emphasis effect="italics">position</emphasis> on a given date. The balance sheet lists assets, liabilities, and owners’ equity.</item>
+<item>The statement of cash flows shows the organization’s cash inflows and cash outflows for a given period of time. The statement of cash flows is necessary because financial statements are usually prepared using <emphasis effect="italics">accrual</emphasis> accounting, which records transactions when they occur rather than waiting until cash is exchanged.</item>
+</list>
+</section>
+<section id="fs-idm396365728" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm385189632">
+<problem id="fs-idm385189376">
+<para id="fs-idm385189120"><link class="lo-reference" document="m67838"/>Which of these statements is <emphasis effect="italics">not</emphasis> one of the financial statements?</para>
+<list id="fs-idm383790736" list-type="enumerated" number-style="upper-alpha">
+<item>income statement</item>
+<item>balance sheet</item>
+<item>statement of cash flows</item>
+<item>statement of owner investments</item>
+</list>
+</problem>
+<solution id="fs-idm381242464">
+<para id="fs-idm381242208">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm370303680">
+<problem id="fs-idm377107392">
+<para id="fs-idm377107136"><link class="lo-reference" document="m67838"/>Stakeholders are less likely to include which of the following groups?</para>
+<list id="fs-idm385140048" list-type="enumerated" number-style="upper-alpha">
+<item>owners</item>
+<item>employees</item>
+<item>community leaders</item>
+<item>competitors</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm359834736">
+<problem id="fs-idm359834480">
+<para id="fs-idm349242320"><link class="lo-reference" document="m67838"/>Identify the correct components of the income statement.</para>
+<list id="fs-idm380968496" list-type="enumerated" number-style="upper-alpha">
+<item>revenues, losses, expenses, and gains</item>
+<item>assets, liabilities, and owner’s equity</item>
+<item>revenues, expenses, investments by owners, distributions to owners</item>
+<item>assets, liabilities, and dividends</item>
+</list>
+</problem>
+<solution id="fs-idm362931792">
+<para id="fs-idm362931536">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm384816368">
+<problem id="fs-idm384816112">
+<para id="fs-idm384680368"><link class="lo-reference" document="m67838"/>The balance sheet lists which of the following?</para>
+<list id="fs-idm372021088" list-type="enumerated" number-style="upper-alpha">
+<item>assets, liabilities, and owners’ equity</item>
+<item>revenues, expenses, gains, and losses</item>
+<item>assets, liabilities, and investments by owners</item>
+<item>revenues, expenses, gains, and distributions to owners</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm384906016">
+<problem id="fs-idm384905760">
+<para id="fs-idm384905504"><link class="lo-reference" document="m67838"/>Assume a company has a $350 credit (not cash) sale. How would the transaction appear if the business uses <emphasis effect="italics">accrual</emphasis> accounting?</para>
+<list id="fs-idm342902608" list-type="enumerated" number-style="upper-alpha">
+<item>$350 would show up on the balance sheet as a sale.</item>
+<item>$350 would show up on the income statement as a sale.</item>
+<item>$350 would show up on the statement of cash flows as a cash outflow.</item>
+<item>The transaction would not be reported because the cash was not exchanged.</item>
+</list>
+</problem>
+<solution id="fs-idm363381200">
+<para id="fs-idm342653696">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm345744960" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm378964352">
+<problem id="fs-idm378964096">
+<para id="fs-idm378963840"><link class="lo-reference" document="m67838"/>Identify the four financial statements and describe the purpose of each.</para>
+</problem>
+<solution id="fs-idm377552112">
+<para id="fs-idm377053776">Income statement shows the financial performance of a business for a period of time; statement of owner’s equity shows the change in net worth of a business for a period of time; balance sheet shows the financial position of a business on a specific date; statement of cash flows shows the cash inflows and outflows of the business for a period of time.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm397778864">
+<problem id="fs-idm397778608">
+<para id="fs-idm397778352"><link class="lo-reference" document="m67838"/>Define the term <emphasis effect="italics">stakeholders</emphasis>. Identify two stakeholder groups, and explain how each group might use the information contained in the financial statements.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm370826016">
+<problem id="fs-idm381338912">
+<para id="fs-idm381338656"><link class="lo-reference" document="m67838"/>Identify one similarity and one difference between revenues and gains. Why is this distinction important to stakeholders?</para>
+</problem>
+<solution id="fs-idm375835568">
+<para id="fs-idm367268352">Both revenues and gains represent inflows to the business, making it more valuable. Revenues relate to the primary purpose of the business, while gains represent incidental or peripheral activities. This is important to stakeholders because revenues represent ongoing or permanent activities, while gains represent infrequent or transient activities. Stakeholders should focus on permanent earnings and put peripheral or incidental earnings into the proper context.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm367267968">
+<problem id="fs-idm379186112">
+<para id="fs-idm379185856"><link class="lo-reference" document="m67838"/>Identify one similarity and one difference between expenses and losses. Why is this distinction important to stakeholders?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm362890800">
+<problem id="fs-idm362890544">
+<para id="fs-idm381316400"><link class="lo-reference" document="m67838"/>Explain the concept of equity, and identify some activities that affect equity of a business.</para>
+</problem>
+<solution id="fs-idm342581472">
+<para id="fs-idm342581216">Equity is the net worth of the business. It can also be thought of as the net assets (assets minus liabilities) of the business. Activities that affect equity include revenues, expenses, gains, losses, and investment by and distributions to owners.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm394964064" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm386943888">
+<problem id="fs-idm386943632">
+<para id="fs-idm386943376"><link class="lo-reference" document="m67838"/>For each independent situation below, calculate the missing values.</para>
+<media id="fs-idm362652736" class="scaled-down" alt="Revenues minus Expenses plus Gains minus Losses equals Net Income/(Loss), respectively: $1,250, 1,100, 125, 75, ?; ?, 100,755, 0, 1,550 (485); 75,560, 68,600, ?, 1,675, 6,485; 26,390, ?, 320, 600, (990); 872,300, 856,995, 11,000, ?, 26,305.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_EA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm385426640">
+<problem id="fs-idm370789456">
+<para id="fs-idm370789200"><link class="lo-reference" document="m67838"/>For each independent situation below, calculate the missing values for owner’s equity</para>
+<media id="fs-idm371297616" class="scaled-down" alt="Beginning Balance plus Investments minus Distributions equals Ending Balance, respectively: $0, 22,750, 12,000, ?; 17,630, ?, 7,500, 66,330; ?, 75,300, 163,200, 138,900; 0, 175,300, ?, 159,530; 85,800, 62,750, 43,900, ?.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_EA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm373479376">
+<problem id="fs-idm373479120">
+<para id="fs-idm373478864"><link class="lo-reference" document="m67838"/>For each independent situation below, calculate the missing values.</para>
+<media id="fs-idm362814512" class="scaled-down" alt="Assets minus Liabilities equals Owner’s Equity, respectively: $32,000, 17,000, ?; 168,700, ?, 146,300; 17,500, 16,830, ?; ?, 232,000, 330,700; 382,170, ?, 125,270.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_EA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm379731536">
+<problem id="fs-idm384757648">
+<para id="fs-idm384757392"><link class="lo-reference" document="m67838"/>For each independent situation below, place an (X) by the transactions that would be included in the statement of cash flows.</para>
+<table id="fs-idm367241024" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c2"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Transaction</entry>
+<entry valign="bottom" align="center">Included</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Sold items on account</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Wrote check to pay utilities</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Received cash investment by owner</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Recorded wages owed to employees</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Received bill for advertising</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm385524464" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm390807344">
+<problem id="fs-idm390807088">
+<para id="fs-idm390806832"><link class="lo-reference" document="m67838"/>For each independent situation below, calculate the missing values.</para>
+<media id="fs-idm373530144" alt="Revenues minus Expenses plus Gains minus Losses equals Net Income/(Loss), respectively: $1,813, 1,595, 181, 109, ?; ?, 146,095, 0, 2,248, (703); 109,562, 99,470, ?, 2,429, 9,403; 38,266, ?, 464, 870, (1,436); 1,264,835, 1,242,643, 15,950, ?, 38,142.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_EB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm377104480">
+<problem id="fs-idm377104224">
+<para id="fs-idm377103968"><link class="lo-reference" document="m67838"/>For each independent situation below, calculate the missing values for Owner’s Equity.</para>
+<media id="fs-idm385747712" class="scaled-down" alt="Beginning Balance plus Investments minus Distributions equals Ending Balance, respectively: $0, 14,333, 7,560, ?; 11,107, ?, 4,725, 41,788; ?, 47,439, 102,816, 87,507; 0, 110,439, ? 100,504; 54,054, 39,533, 27,657, ?.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_EB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm367140944">
+<problem id="fs-idm367140688">
+<para id="fs-idm385688864"><link class="lo-reference" document="m67838"/>For each independent situation below, calculate the missing values.</para>
+<media id="fs-idm340750448" class="scaled-down" alt="Assets minus Liabilities equals Owner’s Equity, respectively: $81,600, 17,000, ?; 430,185, ?, 373,065; 44,625, 42,917, ?; ?, 591,600, 843,285; 974,534, ?, 319,439.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_EB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm389266768">
+<problem id="fs-idm389266512">
+<para id="fs-idm381313744"><link class="lo-reference" document="m67838"/>For each of the following independent situations, place an (X) by the transactions that would be included in the statement of cash flows.</para>
+<table id="fs-idm375849152" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c2"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Transaction</entry>
+<entry valign="bottom" align="center">Included</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Purchased supplies with check</entry>
+<entry valign="bottom" align="center"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Received inventory (a bill was included)</entry>
+<entry valign="bottom" align="center"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Paid cash to owner for withdrawal</entry>
+<entry valign="bottom" align="center"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Gave cash donation to local charity</entry>
+<entry valign="bottom" align="center"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Received bill for utilities</entry>
+<entry valign="bottom" align="center"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm338504768" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm338614896">
+<problem id="fs-idm338614640">
+<para id="fs-idm338614384"><link class="lo-reference" document="m67838"/>The following information is taken from the records of Baklava Bakery for the year 2019.</para>
+<media id="fs-idm338246928" class="scaled-down-30" alt="Revenues: January 22,500; Gains: February 1,200; Losses: March 3,700; Expenses: February 21,620; Gains: January 0; Revenues: March 42,800; Losses: February 1,600; Expenses: March 45,100; Losses: January 0; Revenues: February 37,550; Expenses: January 20,760; Gains: March 5,600.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_PA01_img.jpg"/>
+</media>
+<list id="fs-idm338409552" list-type="enumerated" number-style="upper-alpha">
+<item>Calculate net income or net loss for January.</item>
+<item>Calculate net income or net loss for February.</item>
+<item>Calculate net income or net loss for March.</item>
+<item>For each situation, comment on how a stakeholder might view the firm’s performance. (Hint: Think about the source of the income or loss.)</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm339312864">
+<problem id="fs-idm339312608">
+<para id="fs-idm339316128"><link class="lo-reference" document="m67838"/>Each situation below relates to an independent company’s owners’ equity.</para>
+<media id="fs-idm338176176" alt="Beginning Balance plus Net Income minus Net Loss plus Investments minus Distributions equals Ending Balance, respectively: ?, 16,500, 0, 22,300, 1,750, 37,050; 63,180, 0, 12,000, 0, ?, 44,880; 275,300, ?, 0, 0, 24,100, 299,400.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_PA02_img.jpg"/>
+</media>
+<list id="fs-idm370659424" list-type="enumerated" number-style="upper-alpha">
+<item>Calculate the missing values.</item>
+<item>Based on your calculations, make observations about each company.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm378734432">
+<problem id="fs-idm382671040">
+<para id="fs-idm382670784"><link class="lo-reference" document="m67838"/>The following information is from a new business. Comment on the year-to-year changes in the accounts and possible sources and uses of funds (how were the funds obtained and used).</para>
+<media id="fs-idm371306896" class="scaled-down" alt="Assets minus Liabilities equals Owner’s Equity, respectively: End of Year 1: 245,000, 120,000, 125,000; End of Year 2: 286,000, 150,000, 136,000; End of Year 3: 212,000, 80,000, 132,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_PA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm376957520">
+<problem id="fs-idm376957264">
+<para id="fs-idm338423536"><link class="lo-reference" document="m67838"/>Each of the following situations relates to a different company.</para>
+<media id="fs-idm338656384" alt="Revenues, Expenses, Gains, Losses, and Net Income (Loss), respectively: Company A 16,500, 12,400, 750, 900, ?; Company B 167,320, ?, 1,350, 6,240, (9,250); Company C ?, 72,300, 0, 5,200, 5,100; Company D 235,000, 241,000, ?, 0, 6,300.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_PA04_img.jpg"/>
+</media>
+<list id="fs-idm339634720" list-type="enumerated" number-style="upper-alpha">
+<item>For each of these independent situations, find the missing amounts.</item>
+<item>How would stakeholders view the financial performance of each company? Explain.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm339725712" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm339715440">
+<problem id="fs-idm339715184">
+<para id="fs-idm341381616"><link class="lo-reference" document="m67838"/>The following information is taken from the records of Rosebloom Flowers for the year 2019.</para>
+<media id="fs-idm340872096" class="scaled-down-30" alt="Revenues: January 36,425; Gains: February 2,820; Losses: March 8,695; Expenses: February 50,807; Gains: January 0; Revenues: March 53,580; Losses: February 3,760; Expenses: March 58,985; Losses: January 0; Revenues: February 88,243; Expenses: January 48,786; Gains: March 13,160.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_PB01_img.jpg"/>
+</media>
+<list id="fs-idm340822768" list-type="enumerated" number-style="upper-alpha">
+<item>Calculate net income or net loss for January.</item>
+<item>Calculate net income or net loss for February.</item>
+<item>Calculate net income or net loss for March.</item>
+<item>For each situation, comment on how a stakeholder might view the firm’s performance. (Hint: think about the source of the income or loss.)</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm344780224">
+<problem id="fs-idm345152496">
+<para id="fs-idm345152240"><link class="lo-reference" document="m67838"/>Each situation below relates to an independent company’s Owners’ Equity.</para>
+<media id="fs-idm346116576" alt="Beginning Balance plus Net Income minus Net Loss plus Investments minus Distributions equals Ending Balance, respectively: 163,800, 16,500, 0, ?, 1,750, 254,150; 63,180, 0, 12,000, 0, 51,180, ?; 0, 0, ?, 150,000, 0, 101,400.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_PB02_img.jpg"/>
+</media>
+<list id="fs-idm345214064" list-type="enumerated" number-style="upper-alpha">
+<item>Calculate the missing values.</item>
+<item>Based on your calculations, make observations about each company.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm345201056">
+<problem id="fs-idm345254000">
+<para id="fs-idm345253744"><link class="lo-reference" document="m67838"/>The following information is from a new business. Comment on the year-to-year changes in the accounts and possible sources and uses funds (how were the funds obtained and used).</para>
+<media id="fs-idm346130992" class="scaled-down" alt="Assets minus Liabilities equals Owner’s Equity, respectively: End of Year 1: 137,000, 62,000, 75,000; End of Year 2: 148,000, 57,000, 91,000; End of Year 3: 168,000, 80,000, 88,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_PB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm346081696">
+<problem id="fs-idm346081440">
+<para id="fs-idm345204544"><link class="lo-reference" document="m67838"/>Each of the following situations relates to a different company.</para>
+<media id="fs-idm344830352" alt="Revenues, Expenses, Gains, Losses, and Net Income (Loss) respectively: Company A ?, 455,490, 0, 32,760, 32,130; Company B 1,480,500, 1,518,300, ?, 0, 39,690; Company C 103,950, 78,120, 4,725, 5,670, ?; Company D 1,054,116, ?, 8,505, 39,312, (58,275).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_01_PB04_img.jpg"/>
+</media>
+<list id="fs-idm344728112" list-type="enumerated" number-style="upper-alpha">
+<item>For each of these independent situations, find the missing amounts.</item>
+<item>How would stakeholders view the financial performance of each company? Explain.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm344876448" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm344348400">
+<problem id="fs-idm344348144">
+<para id="fs-idm344445104"><link class="lo-reference" document="m67838"/>Choose three stakeholders (or stakeholder groups) for <emphasis class="colored-text">Walmart</emphasis> and prepare a written response for each stakeholder. In your written response, consider the factors about the business the particular stakeholder would be interested in. Consider the financial and any nonfinancial factors that would be relevant to the stakeholder (or stakeholder group). Explain why these factors are important. Do some research and see if you can find support for your points.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm344469072">
+<problem id="fs-idm344468816">
+<para id="fs-idm344468560"><link class="lo-reference" document="m67838"/>Assume you purchased ten shares of <emphasis class="colored-text">Roku</emphasis> during the company’s IPO. Comment on why this might be a good investment. Consider factors such as what you expect to get from your investment, why you think <emphasis class="colored-text">Roku</emphasis> would become a publicly traded company, and what you think is the landscape of the industry <emphasis class="colored-text">Roku</emphasis> is in. What other factors might be relevant to your decision to invest in <emphasis class="colored-text">Roku</emphasis>?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm344583568">
+<term>accrual basis accounting</term>
+<meaning id="fs-idm344580224">accounting system in which revenue is recorded or recognized when earned yet not necessarily received, and in which expenses are recorded when legally incurred and not necessarily when paid</meaning>
+</definition>
+<definition id="fs-idm344579552">
+<term>asset</term>
+<meaning id="fs-idm344593088">tangible or intangible resource owned or controlled by a company, individual, or other entity with the intent that it will provide economic value</meaning>
+</definition>
+<definition id="fs-idm344608304">
+<term>balance sheet</term>
+<meaning id="fs-idm344607664">financial statement that lists what the organization owns (assets), owes (liabilities), and is worth (equity) on a specific date</meaning>
+</definition>
+<definition id="fs-idm344616944">
+<term>cash basis accounting</term>
+<meaning id="fs-idm344633152">method of accounting in which transactions are not recorded in the financial statements until there is an exchange of cash</meaning>
+</definition>
+<definition id="fs-idm344361024">
+<term>common stock</term>
+<meaning id="fs-idm344360384">corporation’s primary class of stock issued, with each share representing a partial claim to ownership or a share of the company’s business</meaning>
+</definition>
+<definition id="fs-idm344336672">
+<term>corporation</term>
+<meaning id="fs-idm344336032">legal business structure involving one or more individuals (owners) who are legally distinct (separate) from the business</meaning>
+</definition>
+<definition id="fs-idm344333680">
+<term>distribution to owner</term>
+<meaning id="fs-idm344222048">periodic “reward” distributed to owner of cash or other assets</meaning>
+</definition>
+<definition id="fs-idm344221376">
+<term>dividend</term>
+<meaning id="fs-idm344126608">portion of the net worth (equity) that is returned to owners of a corporation as a reward for their investment</meaning>
+</definition>
+<definition id="fs-idm344113872">
+<term>equity</term>
+<meaning id="fs-idm344113232">residual interest in the assets of an entity that remains after deducting its liabilities</meaning>
+</definition>
+<definition id="fs-idm344148240">
+<term>expense</term>
+<meaning id="fs-idm344147600">cost associated with providing goods or services</meaning>
+</definition>
+<definition id="fs-idm344122880">
+<term>gain</term>
+<meaning id="fs-idm344176448">increase in organizational value from activities that are “incidental or peripheral” to the primary purpose of the business</meaning>
+</definition>
+<definition id="fs-idm344175600">
+<term>income statement</term>
+<meaning id="fs-idm344089136">financial statement that measures the organization’s financial performance for a given period of time</meaning>
+</definition>
+<definition id="fs-idm344052176">
+<term>initial public offering (IPO)</term>
+<meaning id="fs-idm344051536">when a company issues shares of its stock to the public for the first time</meaning>
+</definition>
+<definition id="fs-idm344037072">
+<term>intangible asset</term>
+<meaning id="fs-idm344077536">asset with financial value but no physical presence; examples include copyrights, patents, goodwill, and trademarks</meaning>
+</definition>
+<definition id="fs-idm344077024">
+<term>investment by owner</term>
+<meaning id="fs-idm344049456">exchange of cash or other assets in exchange for an ownership interest in the organization</meaning>
+</definition>
+<definition id="fs-idm344048832">
+<term>liability</term>
+<meaning id="fs-idm344073424">probable future sacrifice of economic benefits arising from present obligations of a particular entity to transfer assets or provide services to other entities in the future as a result of past transactions or events</meaning>
+</definition>
+<definition id="fs-idm344756672">
+<term>long-term asset</term>
+<meaning id="fs-idm344756032">asset used ongoing in the normal course of business for more than one year that is not intended to be resold</meaning>
+</definition>
+<definition id="fs-idm343913072">
+<term>long-term liability</term>
+<meaning id="fs-idm343912432">debt settled outside one year or one operating cycle, whichever is longer</meaning>
+</definition>
+<definition id="fs-idm345908944">
+<term>loss</term>
+<meaning id="fs-idm343978496">decrease in organizational value from activities that are “incidental or peripheral” to the primary purpose of the business</meaning>
+</definition>
+<definition id="fs-idm343938560">
+<term>net income</term>
+<meaning id="fs-idm343937920">when revenues and gains are greater than expenses and losses</meaning>
+</definition>
+<definition id="fs-idm344002720">
+<term>net loss</term>
+<meaning id="fs-idm344002080">when expenses and losses are greater than revenues and gains</meaning>
+</definition>
+<definition id="fs-idm357604144">
+<term>partnership</term>
+<meaning id="fs-idm357603504">legal business structure consisting of an association of two or more people who contribute money, property, or services to operate as co-owners of a business</meaning>
+</definition>
+<definition id="fs-idm346192976">
+<term>publicly traded company</term>
+<meaning id="fs-idm345934256">company whose stock is traded (bought and sold) on an organized stock exchange</meaning>
+</definition>
+<definition id="fs-idm345933744">
+<term>revenue</term>
+<meaning id="fs-idm346191872">inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity’s ongoing major or central operations</meaning>
+</definition>
+<definition id="fs-idm346178400">
+<term>Securities and Exchange Commission (SEC)</term>
+<meaning id="fs-idm346177760">federal regulatory agency that regulates corporations with shares listed and traded on security exchanges through required periodic filings</meaning>
+</definition>
+<definition id="fs-idm392100064">
+<term>short-term asset</term>
+<meaning id="fs-idm392099424">asset typically used up, sold, or converted to cash in one year or less</meaning>
+</definition>
+<definition id="fs-idm349614400">
+<term>short-term liability</term>
+<meaning id="fs-idm344235296">liability typically expected to be paid within one year or less</meaning>
+</definition>
+<definition id="fs-idm344234784">
+<term>sole proprietorship</term>
+<meaning id="fs-idm354092704">legal business structure consisting of a single individual</meaning>
+</definition>
+<definition id="fs-idm354092192">
+<term>stakeholder</term>
+<meaning id="fs-idm354130496">someone affected by decisions made by a company; may include an investor, creditor, employee, manager, regulator, customer, supplier, and layperson</meaning>
+</definition>
+<definition id="fs-idm361634224">
+<term>statement of cash flows</term>
+<meaning id="fs-idm361633584">financial statement listing the cash inflows and cash outflows for the business for a period of time</meaning>
+</definition>
+<definition id="fs-idm344086672">
+<term>statement of owner’s equity</term>
+<meaning id="fs-idm344086032">financial statement showing how the equity of the organization changed for a period of time</meaning>
+</definition>
+<definition id="fs-idm374315808">
+<term>tangible asset</term>
+<meaning id="fs-idm359219296">asset that has physical substance</meaning>
+</definition>
+</glossary>
+</document>

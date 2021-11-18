@@ -1,0 +1,458 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Calculate the Cost of Goods Sold and Ending Inventory Using the Perpetual Method</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67891</md:content-id>
+  <md:title>Calculate the Cost of Goods Sold and Ending Inventory Using the Perpetual Method</md:title>
+  <md:abstract/>
+  <md:uuid>93e4bc4d-8f74-40f4-a15c-033c8e74c8f9</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm189730352">As you’ve learned, the perpetual inventory system is updated continuously to reflect the current status of inventory on an ongoing basis. Modern sales activity commonly uses <term class="no-emphasis">electronic identifier</term>s—such as bar codes and RFID technology—to account for inventory as it is purchased, monitored, and sold. Specific identification inventory methods also commonly use a manual form of the perpetual system. Here we’ll demonstrate the mechanics implemented when using perpetual inventory systems in inventory accounting, whether those calculations are orchestrated in a laborious manual system or electronically (in the latter, the inventory accounting operates effortlessly behind the scenes but nonetheless utilizes the same perpetual methodology).</para>
+<note id="fs-idm195833760" class="concepts-practice">
+<title>Perpetual Inventory’s Advancements through Technology</title>
+<para id="fs-idm170435808">Perpetual inventory has been seen as the wave of the future for many years. It has grown since the 1970s alongside the development of affordable personal computers. Universal product codes, commonly known as UPC barcodes, have advanced inventory management for large and small retail organizations, allowing real-time inventory counts and reorder capability that increased popularity of the perpetual inventory system. These UPC codes identify specific products but are not specific to the particular batch of goods that were produced. Electronic product codes (EPCs) such as radio frequency identifiers (RFIDs) are essentially an evolved version of UPCs in which a chip/identifier is embedded in the EPC code that matches the goods to the actual batch of product that was produced. This more specific information allows better control, greater accountability, increased efficiency, and overall quality monitoring of goods in inventory. The technology advancements that are available for perpetual inventory systems make it nearly impossible for businesses to choose periodic inventory and forego the competitive advantages that the technology offers.</para>
+</note>
+<section id="fs-idm184766496">
+<title>Information Relating to All Cost Allocation Methods, but Specific to Perpetual Inventory Updating</title>
+<para id="fs-idm218534608">Let’s return to The Spy Who Loves You Corporation data to demonstrate the four cost allocation methods, assuming inventory is updated on an ongoing basis in a perpetual system.</para>
+<section id="fs-idm190005888">
+<title>Cost Data for Calculations</title>
+<para id="fs-idm183405840"><emphasis effect="bold">Company</emphasis>: Spy Who Loves You Corporation</para>
+<para id="fs-idm214403680"><emphasis effect="bold">Product</emphasis>: Global Positioning System (GPS) Tracking Device</para>
+<para id="fs-idm169621696"><emphasis effect="bold">Description</emphasis>: This product is an economical real-time GPS tracking device, designed for individuals who wish to monitor others’ whereabouts. It is being marketed to parents of middle school and high school students as a safety measure. Parents benefit by being apprised of the child’s location, and the student benefits by not having to constantly check in with parents. Demand for the product has spiked during the current fiscal period, while supply is limited, causing the selling price to escalate rapidly. Note: For simplicity of demonstration, beginning inventory cost is assumed to be $21 per unit for all cost assumption methods.</para>
+<media id="fs-idm201786992" class="scaled-down" alt="Chart showing July 1 beginning inventory of 150 units costing $21, July 5 sale of 120 units for $36, July 10 purchase of 225 units for $27, July 15 sale of 180 units for $39, July 25 purchase of 210 units for $33, with July 31 ending inventory of 285 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_GPS_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm210166176">
+<title>Calculations for Inventory Purchases and Sales during the Period, Perpetual Inventory Updating</title>
+<para id="fs-idm213675104">Regardless of which cost assumption is chosen, recording inventory sales using the perpetual method involves recording both the revenue and the cost from the transaction for each individual sale. As additional inventory is purchased during the period, the cost of those goods is added to the merchandise inventory account. Normally, no significant adjustments are needed at the end of the period (before financial statements are prepared) since the inventory balance is maintained to continually parallel actual counts.</para>
+<note id="fs-idm180072528" class="ethical-considerations">
+<title>Ethical Short-Term Decision Making</title>
+<para id="fs-idm178535584">When management and executives participate in unethical or fraudulent short-term decision making, it can negatively impact a company on many levels. According to Antonia Chion, Associate Director of the SEC’s Division of Enforcement, those who participate in such activities will be held accountable.<footnote id="fs-idm178466768">U.S. Securities and Exchange Commission (SEC). “SEC Charges Former Executives with Accounting Fraud and Other Accounting Failures.” October 6, 2015. https://www.sec.gov/news/pressrelease/2015-234.html</footnote> For example, in 2015, the <term class="no-emphasis">Securities and Exchange Commission (SEC)</term> charged two former top executives of OCZ Technology Group Inc. for accounting failures.<footnote id="fs-idm168032160"><emphasis effect="italics">SEC v. Ryan Petersen</emphasis>, No. 15-cv-04599 (N.D. Cal. filed October 6, 2015). https://www.sec.gov/litigation/litreleases/2017/lr23874.htm</footnote> The SEC alleged that OCZ’s former CEO Ryan Petersen engaged in a scheme to materially inflate OCZ’s revenues and gross margins from 2010 to 2012, and that OCZ’s former chief financial officer Arthur Knapp participated in certain accounting, disclosure, and internal accounting controls failures.</para>
+<para id="fs-idm169882384">Petersen and Knapp allegedly participated in channel stuffing, which is the process of recognizing and recording revenue in a current period that actually will be legally earned in one or more future fiscal periods. A common example is to arrange for customers to submit purchase orders in the current year, often with the understanding that if they don’t need the additional inventory then they may return the inventory received or cancel the order if delivery has not occurred.<footnote id="fs-idm185031136">George B. Parizek and Madeleine V. Findley. <emphasis effect="italics">Charting a Course: Revenue Recognition Practices for Today’s Business Environment</emphasis>. 2008. https://www.sidley.com/-/media/files/publications/2008/10/charting-a-course-revenue-recognition-practices-__/files/view-article/fileattachment/chartingacourse.pdf</footnote> When the intention behind channel stuffing is to mislead investors, it crosses the line into fraudulent practice. This and other unethical short-term accounting decisions made by Petersen and Knapp led to the bankruptcy of the company they were supposed to oversee and resulted in fraud charges from the SEC. Practicing ethical short-term decision making may have prevented both scenarios.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm189941424">
+<title>Specific Identification</title>
+<para id="fs-idm219950720">For demonstration purposes, the specific units assumed to be sold in this period are designated as follows, with the specific inventory distinction being associated with the lot numbers:</para>
+<list id="fs-idm187685936" list-type="bulleted">
+<item>Sold 120 units, all from Lot 1 (beginning inventory), costing $21 per unit</item>
+<item>Sold 180 units, 20 from Lot 1 (beginning inventory), costing $21 per unit; 160 from Lot 2 (July 10 purchase), costing $27 per unit</item>
+</list>
+<para id="fs-idm209316848">The <term class="no-emphasis">specific identification</term> method of cost allocation directly tracks each of the units purchased and costs them out as they are sold. In this demonstration, assume that some sales were made by specifically tracked goods that are part of a lot, as previously stated for this method. For The Spy Who Loves You, the first sale of 120 units is assumed to be the units from the beginning inventory, which had cost $21 per unit, bringing the total cost of these units to $2,520. Once those units were sold, there remained 30 more units of the beginning inventory. The company bought 225 more units for $27 per unit. The second sale of 180 units consisted of 20 units at $21 per unit and 160 units at $27 per unit for a total second-sale cost of $4,740. Thus, after two sales, there remained 10 units of inventory that had cost the company $21, and 65 units that had cost the company $27 each. The last transaction was an additional purchase of 210 units for $33 per unit. Ending inventory was made up of 10 units at $21 each, 65 units at $27 each, and 210 units at $33 each, for a total specific identification perpetual ending inventory value of $8,895.</para>
+<section id="fs-idm203517808">
+<title>Calculations of Costs of Goods Sold, Ending Inventory, and Gross Margin, Specific Identification</title>
+<para id="fs-idm190261536">The specific identification costing assumption tracks inventory items individually so that, when they are sold, the exact cost of the item is used to offset the revenue from the sale. The cost of goods sold, inventory, and gross margin shown in <link target-id="OSX_Acct_F10_03_PerpSIM"/> were determined from the previously-stated data, particular to specific identification costing.</para>
+<figure id="OSX_Acct_F10_03_PerpSIM">
+<media id="fs-idm188547248" alt=" Financial data shows the cost of goods purchased, cost of goods sold, and cost of inventory remaining for July. These transactions occurred for cost of goods purchased: July 10, 225 units purchased at $27 each for a total cost of $6,075. July 25, 210 units purchased at $33 each for a total cost of $6,930. Total purchases in July were $13,005. These transactions occurred for cost of goods sold: July 5, 120 units sold at $21 each for a total cost of $2,520. July 15, 20 units sold at $21 each for a total cost of $420. July 15, 160 units sold at $27 each for a total cost of $4,320. Total cost of goods sold in July were $7,260. These transactions occurred for cost of inventory remaining: July 1, 150 units at $21 for a total of $3,150. July 5, 30 units at $21 for a total of $630. July 10, 30 units at $21 for a total of $360 and 225 units at $27 for a total of $6,075. July 15, 10 units at $21 for a total of $210 and 65 units at $27 for a total of $1,755. July 25 10 units at $21 for a total of $210, 65 units at $27 for a total of $1,755, and 210 units at $33 for a total of $6,930. A second chart shows cost value: 10 units at $21 equals $210, 65 units at $27 equals $1,755 210 units at $33 equals $6,930, for a cost value total of $8,895.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PerpSIM.jpg"/>
+</media>
+<caption>Specific Identification Costing Assumption Cost of Goods Sold, Inventory, and Cost Value. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm182907152"><link target-id="OSX_Acct_F10_03_GrossMar01"/> shows the gross margin, resulting from the specific identification perpetual cost allocations of $7,260.</para>
+<figure id="OSX_Acct_F10_03_GrossMar01" class="scaled-down-30">
+<media id="fs-idm199986512" alt="Gross Margin calculation: Sales of $11,340 minus Cost of Goods Sold 7,260 equals Gross Margin of 4,080.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_GrossMar01.jpg"/>
+</media>
+<caption>Specific Identification Perpetual Cost Allocations Gross Margin. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm212929936">
+<title>Description of Journal Entries for Inventory Sales, Perpetual, Specific Identification</title>
+<para id="fs-idm201834640">Journal entries are not shown, but the following discussion provides the information that would be used in recording the necessary journal entries. Each time a product is sold, a revenue entry would be made to record the sales revenue and the corresponding accounts receivable or cash from the sale. Because of the choice to apply perpetual inventory updating, a second entry made at the same time would record the cost of the item based on the actual cost of the items, which would be shifted from merchandise inventory (an asset) to cost of goods sold (an expense).</para>
+</section>
+</section>
+<section id="fs-idm201808208">
+<title>First-in, First-out (FIFO)</title>
+<para id="fs-idm202884064">The <term class="no-emphasis">first-in, first-out method (FIFO)</term> of cost allocation assumes that the earliest units purchased are also the first units sold. For The Spy Who Loves You, using perpetual inventory updating, the first sale of 120 units is assumed to be the units from the beginning inventory, which had cost $21 per unit, bringing the total cost of these units to $2,520. Once those units were sold, there remained 30 more units of beginning inventory. The company bought 225 more units for $27 per unit. At the time of the second sale of 180 units, the FIFO assumption directs the company to cost out the last 30 units of the beginning inventory, plus 150 of the units that had been purchased for $27. Thus, after two sales, there remained 75 units of inventory that had cost the company $27 each. The last transaction was an additional purchase of 210 units for $33 per unit. Ending inventory was made up of 75 units at $27 each, and 210 units at $33 each, for a total FIFO perpetual ending inventory value of $8,955.</para>
+<section id="fs-idm169570512">
+<title>Calculations of Costs of Goods Sold, Ending Inventory, and Gross Margin, First-in, First-out (FIFO)</title>
+<para id="fs-idm186309024">The FIFO costing assumption tracks inventory items based on lots of goods that are tracked, in the order that they were acquired, so that when they are sold the earliest acquired items are used to offset the revenue from the sale. The cost of goods sold, inventory, and gross margin shown in <link target-id="OSX_Acct_F10_03_PerpFIFO"/> were determined from the previously-stated data, particular to perpetual FIFO costing.</para>
+<figure id="OSX_Acct_F10_03_PerpFIFO">
+<media id="fs-idm178291712" alt="Financial data shows the cost of goods purchased, cost of goods sold, and cost of inventory remaining for July. These transactions occurred for cost of goods purchased: July 10, 225 units purchased at $27 each for a total cost of $6,075. July 25, 210 units purchased at $33 each for a total cost of $6,930. Total purchases in July were $13,005. These transactions occurred for cost of goods sold: July 5, 120 units sold at $21 each for a total cost of $2,520. July 15, 30 units sold at $21 each for a total cost of $630. July 15, 150 units sold at $27 each for a total cost of $4,050. Total cost of goods sold in July were $7,200. These transactions occurred for cost of inventory remaining: July 1, 150 units at $21 for a total of $3,150. July 5, 30 units at $21 for a total of $630. July 10, 30 units at $21 for a total of $360 and 225 units at $27 for a total of $6,075. July 15, 75 units at $27 for a total of $2,025. July 25 75 units at $27 for a total of $2,025, and 210 units at $33 for a total of $6,930. A second chart shows cost value: 7 units at $27 equals $2,025, 210 units at $33 equals $6,930, for a cost value total of $8,895.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PerpFIFO.jpg"/>
+</media>
+<caption>FIFO Costing Assumption Cost of Goods Purchased, Cost of Goods Sold, and Cost of Inventory Remaining. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm203382864"><link target-id="OSX_Acct_F10_03_GrossMar02"/> shows the gross margin, resulting from the FIFO perpetual cost allocations of $7,200.</para>
+<figure id="OSX_Acct_F10_03_GrossMar02" class="scaled-down-30">
+<media id="fs-idm161501488" alt="Gross Margin calculation: Sales of $11,340 minus Cost of Goods Sold 7,200 equals Gross Margin of 4,140.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_GrossMar02.jpg"/>
+</media>
+<caption>FIFO Perpetual Cost Allocations Gross Margin. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm201977792">
+<title>Description of Journal Entries for Inventory Sales, Perpetual, First-in, First-out (FIFO)</title>
+<para id="fs-idm202553072">Journal entries are not shown, but the following discussion provides the information that would be used in recording the necessary journal entries. Each time a product is sold, a revenue entry would be made to record the sales revenue and the corresponding accounts receivable or cash from the sale. When applying perpetual inventory updating, a second entry made at the same time would record the cost of the item based on FIFO, which would be shifted from merchandise inventory (an asset) to cost of goods sold (an expense).</para>
+</section>
+</section>
+<section id="fs-idm163698640">
+<title>Last-in, First-out (LIFO)</title>
+<para id="fs-idm203127904">The <term class="no-emphasis">last-in, first-out method (LIFO)</term> of cost allocation assumes that the last units purchased are the first units sold. For The Spy Who Loves You, using perpetual inventory updating, the first sale of 120 units is assumed to be the units from the beginning inventory (because this was the only lot of good available, so it represented the last purchased lot), which had cost $21 per unit, bringing the total cost of these units in the first sale to $2,520. Once those units were sold, there remained 30 more units of beginning inventory. The company bought 225 more units for $27 per unit. At the time of the second sale of 180 units, the LIFO assumption directs the company to cost out the 180 units from the latest purchased units, which had cost $27 for a total cost on the second sale of $4,860. Thus, after two sales, there remained 30 units of beginning inventory that had cost the company $21 each, plus 45 units of the goods purchased for $27 each. The last transaction was an additional purchase of 210 units for $33 per unit. Ending inventory was made up of 30 units at $21 each, 45 units at $27 each, and 210 units at $33 each, for a total LIFO perpetual ending inventory value of $8,775.</para>
+<section id="fs-idm228351152">
+<title>Calculations of Costs of Goods Sold, Ending Inventory, and Gross Margin, Last-in, First-out (LIFO)</title>
+<para id="fs-idm182205504">The LIFO costing assumption tracks inventory items based on lots of goods that are tracked in the order that they were acquired, so that when they are sold, the latest acquired items are used to offset the revenue from the sale. The following cost of goods sold, inventory, and gross margin were determined from the previously-stated data, particular to perpetual, LIFO costing.</para>
+<figure id="OSX_Acct_F10_03_PerpLIFO">
+<media id="fs-idm201214080" alt="Financial data shows the cost of goods purchased, cost of goods sold, and cost of inventory remaining for July. These transactions occurred for cost of goods purchased: July 10, 225 units purchased at $27 each for a total cost of $6,075. July 25, 210 units purchased at $33 each for a total cost of $6,930. Total purchases in July were $13,005. These transactions occurred for cost of goods sold: July 5, 120 units sold at $21 each for a total cost of $2,520. July 15, 180 units sold at $27 each for a total cost of $4,860. Total cost of goods sold in July were $7,380. These transactions occurred for cost of inventory remaining: July 1, 150 units at $21 for a total of $3,150. July 5, 30 units at $21 for a total of $630. July 10, 30 units at $21 for a total of $630 and 225 units at $27 for a total of $6,075. July 15, 30 units at $21 for a total of $630 and 45 units at $27 for a total of $1,215. July 25 30 units at $21 for a total of $630, 45 units at $27 for a total of $1,215, and 210 units at $33 for a total of $6,930. A second chart shows cost value: 30 units at $21 equals $630, 45 units at $27 equals $1215, 210 units at $33 equals $6,930, for a cost value total of $8,775.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PerpLIFO.jpg"/>
+</media>
+<caption>LIFO Costing Assumption Cost of Goods Purchased, Cost of Goods Sold, and Cost of Inventory Remaining. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm205582912"><link target-id="OSX_Acct_F10_03_GrossMar03"/> shows the gross margin resulting from the LIFO perpetual cost allocations of $7,380.</para>
+<figure id="OSX_Acct_F10_03_GrossMar03" class="scaled-down-30">
+<media id="fs-idm211518912" alt="Gross Margin calculation: Sales of $11,340 minus Cost of Goods Sold 7,380 equals Gross Margin of 3,960.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_GrossMar03.jpg"/>
+</media>
+<caption>LIFO Perpetual Cost Allocations Gross Margin. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm203456832">
+<title>Description of Journal Entries for Inventory Sales, Perpetual, Last-in, First-out (LIFO)</title>
+<para id="fs-idm182878752">Journal entries are not shown, but the following discussion provides the information that would be used in recording the necessary journal entries. Each time a product is sold, a revenue entry would be made to record the sales revenue and the corresponding accounts receivable or cash from the sale. When applying apply perpetual inventory updating, a second entry made at the same time would record the cost of the item based on LIFO, which would be shifted from merchandise inventory (an asset) to cost of goods sold (an expense).</para>
+<note id="fs-idm176394960" class="link-to-learning">
+<para id="fs-idm176394464">Visit this <link url="https://openstax.org/l/50Amazon">Amazon inventory video for a little insight into some of the inventory challenges experienced by retail giant Amazon</link> to learn more.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm177806688">
+<title>Weighted-Average Cost (AVG)</title>
+<para id="fs-idm183699136">Weighted-average cost allocation requires computation of the average cost of all units in goods available for sale at the time the sale is made for perpetual inventory calculations. For The Spy Who Loves You, the first sale of 120 units is assumed to be the units from the beginning inventory (because this was the only lot of good available, so the price of these units also represents the average cost), which had cost $21 per unit, bringing the total cost of these units in the first sale to $2,520. Once those units were sold, there remained 30 more units of the inventory, which still had a $21 average cost. The company bought 225 more units for $27 per unit. Recalculating the average cost, after this purchase, is accomplished by dividing total cost of goods available for sale (which totaled $6,705 at that point) by the number of units held, which was 255 units, for an average cost of $26.29 per unit. At the time of the second sale of 180 units, the AVG assumption directs the company to cost out the 180 at $26.29 for a total cost on the second sale of $4,732. Thus, after two sales, there remained 75 units at an average cost of $26.29 each. The last transaction was an additional purchase of 210 units for $33 per unit. Recalculating the average cost again resulted in an average cost of $31.24 per unit. Ending inventory was made up of 285 units at $31.24 each for a total AVG perpetual ending inventory value of $8,902 (rounded).<footnote id="fs-idm401372320">Note that there is a $1 rounding difference due to the rounding of cents inherent in the cost determination chain process.</footnote></para>
+<section id="fs-idm228112848">
+<title>Calculations of Costs of Goods Sold, Ending Inventory, and Gross Margin, Weighted Average (AVG)</title>
+<para id="fs-idm182878272">The AVG costing assumption tracks inventory items based on lots of goods that are combined and re-averaged after each new acquisition to determine a new average cost per unit so that, when they are sold, the latest averaged cost items are used to offset the revenue from the sale. The cost of goods sold, inventory, and gross margin shown in <link target-id="OSX_Acct_F10_03_PerpWACM"/> were determined from the previously-stated data, particular to perpetual, AVG costing.</para>
+<figure id="OSX_Acct_F10_03_PerpWACM">
+<media id="fs-idm202520832" alt="Financial data shows the cost of goods purchased, cost of goods sold, and cost of inventory remaining for July. These transactions occurred for cost of goods purchased: July 10, 225 units purchased at $27 each for a total cost of $6,075. July 25, 210 units purchased at $33 each for a total cost of $6,930. Total purchases in July were $13,005. These transactions occurred for cost of goods sold: July 5, 120 units sold at $21 each for a total cost of $2,520. July 15, 180 units sold at $26.29 each for a total cost of $4,733. Total cost of goods sold in July were $7,253. These transactions occurred for cost of inventory remaining: July 1, 150 units at $21 for a total of $3,150. July 5, 30 units at $21 for a total of $630. July 10, 225 units at $31.24 for a total of $8,902. A second chart shows cost value: 285 units at $31.24 equals $8,902 for a cost value total of $8,902.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PerpWACM.jpg"/>
+</media>
+<caption>AVG Costing Assumption Cost of Goods Purchased, Cost of Goods Sold, and Cost of Inventory Remaining. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm173549680"><link target-id="OSX_Acct_F10_03_GrossMar04"/> shows the gross margin, resulting from the weighted-average perpetual cost allocations of $7,253.</para>
+<figure id="OSX_Acct_F10_03_GrossMar04" class="scaled-down-30">
+<media id="fs-idm293586000" alt="Gross Margin calculation: Sales of $11,340 minus Cost of Goods Sold 7,253 equals Gross Margin of 4,087.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_GrossMar04.jpg"/>
+</media>
+<caption>Weighted AVG Perpetual Cost Allocations Gross Margin. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm217666400">
+<title>Description of Journal Entries for Inventory Sales, Perpetual, Weighted Average (AVG)</title>
+<para id="fs-idm182940064">Journal entries are not shown, but the following discussion provides the information that would be used in recording the necessary journal entries. Each time a product is sold, a revenue entry would be made to record the sales revenue and the corresponding accounts receivable or cash from the sale. When applying perpetual inventory updating, a second entry would be made at the same time to record the cost of the item based on the AVG costing assumptions, which would be shifted from merchandise inventory (an asset) to cost of goods sold (an expense).</para>
+</section>
+</section>
+<section id="fs-idm175260368">
+<title>Comparison of All Four Methods, Perpetual</title>
+<para id="fs-idm195965376">The outcomes for gross margin, under each of these different cost assumptions, is summarized in <link target-id="OSX_Acct_F10_03_Compare"/>.</para>
+<figure id="OSX_Acct_F10_03_Compare">
+<media id="fs-idm185480048" alt="Comparison between Specific ID, FIFO, LIFO, and AVG respectively: Sales Revenue 11,340 minus the costs under each method: 7,260, 7,200, 7,380, or 7,253 equals Gross Margin under each method of 4,080, 4,140, 3,960, or 4,087.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_Compare.jpg"/>
+</media>
+<caption>Gross Margin Comparison. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm220597392" class="think-through">
+<title>Last-in, First-out (LIFO)</title>
+<para id="fs-idm212428128">Two-part consideration: 1) Why do you think a company would ever choose to use perpetual LIFO as its costing method? It is clearly more trouble to calculate than other methods and doesn’t really align with the natural flow of the merchandise, in most cases. 2) Should the order in which the items are actually sold determine which costs are used to offset sales revenues from those goods? Explain your understanding of these issues.</para>
+</note>
+</section>
+<section id="fs-idm210037488" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm201038864" list-type="bulleted" bullet-style="bullet">
+<item>Perpetual inventory systems maintain inventory balance in the company records in a real-time or slightly delayed, continuously updated state. No significant adjustments are needed at the end of the period, before issuing the financial statements.</item>
+<item>Companies using the perpetual method for inventory updating choose between the basic four cost flow assumption methods, which are first-in, first-out (FIFO); last-in, first-out (LIFO); specific identification (SI); and weighted average (AVG).</item>
+<item>Most modern inventory systems utilize the perpetual inventory system, due to the benefits it offers for efficiency, ease of operation, availability of real-time updating, and accuracy.</item>
+</list>
+</section>
+<section id="fs-idm181388064" class="multiple-choice">
+<exercise id="fs-idm210640480">
+<problem id="fs-idm204181328">
+<para id="fs-idm200083888"><link class="lo-reference" document="m67891"/>Which inventory costing method is almost always done on a perpetual basis?</para>
+<list id="fs-idm170387728" list-type="enumerated" number-style="upper-alpha">
+<item>specific identification</item>
+<item>first-in, first-out</item>
+<item>last-in, first-out</item>
+<item>weighted average</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm170378704">
+<problem id="fs-idm219788848">
+<para id="fs-idm295111024"><link class="lo-reference" document="m67891"/>Which of the following describes features of a perpetual inventory system?</para>
+<list id="fs-idm178620080" list-type="enumerated" number-style="upper-alpha">
+<item>Technology is normally used to record inventory changes.</item>
+<item>Merchandise bought is recorded as purchases.</item>
+<item>An adjusting journal entry is required at year end, to match physical counts to the asset account.</item>
+<item>Inventory is updated at the end of the period.</item>
+</list>
+</problem>
+<solution id="fs-idm211244336">
+<para id="fs-idm218527920">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm203576816" class="questions">
+<exercise id="fs-idm211135248">
+<problem id="fs-idm226939136">
+<para id="fs-idm203795776"><link class="lo-reference" document="m67891"/>Describe costing inventory using first-in, first-out. Address the different treatment, if any, that must be given for periodic and perpetual inventory updating.</para>
+</problem>
+<solution id="fs-idm178930928">
+<para id="fs-idm212686240">The FIFO method assumes the first units acquired are sold first. On a periodic basis, that means that ending inventory can be determined by calculating the number of units remaining, and assuming that the cost of those units is the amount paid for the latest purchase; cost of goods sold is all inventory cost that is not in the ending inventory. For perpetual, inventory held at the time of each sale is evaluated and units acquired earliest are costed out against that particular sale.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm293578096">
+<problem id="fs-idm293577840">
+<para id="fs-idm293577584"><link class="lo-reference" document="m67891"/>Describe costing inventory using last-in, first-out. Address the different treatment, if any, that must be given for periodic and perpetual inventory updating.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm180815824">
+<problem id="fs-idm180815568">
+<para id="fs-idm180815312"><link class="lo-reference" document="m67891"/>Describe costing inventory using weighted average. Address the different treatment, if any, that must be given for periodic and perpetual inventory updating.</para>
+</problem>
+<solution id="fs-idm207903024">
+<para id="fs-idm197279600">The weighted-average method requires that the average cost be computed for all units that are available for sale. For periodic weighted average, the total dollar amount of goods available for sale should be divided by the total number of units available for sale, to obtain the average cost for the entire period. For perpetual, the average cost would be recalculated each time the total number of units changes, using the same strategy as described for periodic, but using the cost and number of units that are available at the time of sale.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm210696688" class="exercise-set-a">
+<exercise id="fs-idm210696192">
+<problem id="fs-idm201114976">
+<para id="fs-idm224466000"><link class="lo-reference" document="m67891"/>Calculate the cost of goods sold dollar value for A65 Company for the month, considering the following transactions under three different cost allocation methods and using perpetual inventory updating. Provide calculations for first-in, first-out (FIFO).</para>
+<media id="fs-idm184632160" class="scaled-down" alt="Beginning Inventory is 800 units at cost of $50 each, purchased 600 units at $52 each, sold 400 units for $80 each, sold 350 units for $90 each, Ending Inventory is 650 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_EA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm228283920">
+<problem id="fs-idm224495312">
+<para id="fs-idm202116000"><link class="lo-reference" document="m67891"/>Calculate the cost of goods sold dollar value for A66 Company for the month, considering the following transactions under three different cost allocation methods and using perpetual inventory updating. Provide calculations for last-in, first-out (LIFO).</para>
+<media id="fs-idm203020560" class="scaled-down" alt="Beginning Inventory is 800 units at cost of $50 each, purchased 600 units at $52 each, sold 400 units for $80 each, sold 350 units for $90 each, Ending Inventory is 650 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_EA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm189988016">
+<problem id="fs-idm183167744">
+<para id="fs-idm213820400"><link class="lo-reference" document="m67891"/>Calculate the cost of goods sold dollar value for A67 Company for the month, considering the following transactions under three different cost allocation methods and using perpetual inventory updating. Provide calculations for weighted average (AVG).</para>
+<media id="fs-idm210473408" class="scaled-down" alt="Beginning Inventory is 800 units at cost of $50 each, purchased 600 units at $52 each, sold 400 units for $80 each, sold 350 units for $90 each, Ending Inventory is 650 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_EA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm182875840">
+<problem id="fs-idm163369808">
+<para id="fs-idm187883856"><link class="lo-reference" document="m67891"/>Prepare journal entries to record the following transactions, assuming perpetual inventory updating and first-in, first-out (FIFO) cost allocation. Assume no beginning inventory.</para>
+<media id="fs-idm211255872" alt="January 2 purchased merchandise for resale 300 units at $21 each. January 12 purchased merchandise for resale 200 units at $24 each. January 16 sold merchandise 220 units for $40 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_EA04_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm212632048">
+<problem id="fs-idm202012352">
+<para id="fs-idm201438016"><link class="lo-reference" document="m67891"/>Prepare Journal entries to record the following transactions, assuming perpetual inventory updating, and last-in, first-out (LIFO) cost allocation. Assume no beginning inventory.</para>
+<media id="fs-idm186029568" alt="March 12 purchased merchandise for resale 5,000 units at $90 each. March 15 purchased merchandise for resale 3,500 units at $100 each. March 16 sold merchandise 2,000 units for $200 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_EA05_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm203794224" class="exercise-set-b">
+<exercise id="fs-idm227436752">
+<problem id="fs-idm203006816">
+<para id="fs-idm222309728"><link class="lo-reference" document="m67891"/>Calculate the cost of goods sold dollar value for B65 Company for the month, considering the following transactions under three different cost allocation methods and using perpetual inventory updating. Provide calculations for first-in, first-out (FIFO).</para>
+<media id="fs-idm213716064" alt="Beginning Inventory is 100 units at cost of $66 each, purchased 80 units at $75 each, sold 50 units for $120 each, sold 25 units for $125 each, Ending Inventory is 105 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_EB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm203072768">
+<problem id="fs-idm180171040">
+<para id="fs-idm212665440"><link class="lo-reference" document="m67891"/>Calculate the cost of goods sold dollar value for B66 Company for the month, considering the following transactions under three different cost allocation methods and using perpetual inventory updating. Provide calculations for last-in, first-out (LIFO).</para>
+<media id="fs-idm163329584" alt="Beginning Inventory is 100 units at cost of $66 each, purchased 80 units at $75 each, sold 50 units for $120 each, sold 25 units for $125 each, Ending Inventory is 105 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_EB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm210098208">
+<problem id="fs-idm212828496">
+<para id="fs-idm217668352"><link class="lo-reference" document="m67891"/>Calculate the cost of goods sold dollar value for B67 Company for the month, considering the following transactions under three different cost allocation methods and using perpetual inventory updating. Provide calculations for weighted average (AVG).</para>
+<media id="fs-idm210461232" alt="Beginning Inventory is 100 units at cost of $66 each, purchased 80 units at $75 each, sold 50 units for $120 each, sold 25 units for $125 each, Ending Inventory is 105 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_EB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm224074400">
+<problem id="fs-idm187337392">
+<para id="fs-idm163856560"><link class="lo-reference" document="m67891"/>Prepare journal entries to record the following transactions, assuming perpetual inventory updating and first-in, first-out (FIFO) cost allocation. Assume no beginning inventory.</para>
+<media id="fs-idm187820944" alt="November 19 purchased merchandise for resale 1,200 units at $6 each. November 22 purchased merchandise for resale 980 units at $5 each. November 30 sold merchandise 850 units for $10 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_EB04_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm213852528">
+<problem id="fs-idm218517792">
+<para id="fs-idm223589328"><link class="lo-reference" document="m67891"/>Prepare journal entries to record the following transactions, assuming perpetual inventory updating and last-in, first-out (LIFO) cost allocation. Assume no beginning inventory.</para>
+<media id="fs-idm210126272" alt="March 12 purchased merchandise for resale 120 units at $52 each. March 15 purchased merchandise for resale 180 units at $56 each. March 16 sold merchandise 90 units for $95 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_EB05_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm203394480" class="problem-set-a">
+<exercise id="fs-idm187686432">
+<problem id="fs-idm183723072">
+<para id="fs-idm183967600"><link class="lo-reference" document="m67891"/>Calculate the cost of goods sold dollar value for A74 Company for the sale on March 11, considering the following transactions under three different cost allocation methods and using perpetual inventory updating. Provide calculations for (a) first-in, first-out (FIFO); (b) last-in, first-out (LIFO); and (c) weighted average (AVG).</para>
+<media id="fs-idm213581584" class="scaled-down" alt="March 1 Beginning Inventory is 110 units at cost of $87 each, March 8 purchased 140 units at $89 each, March 11 sold 95 units for $120 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm222983264">
+<problem id="fs-idm227515472">
+<para id="fs-idm225920544"><link class="lo-reference" document="m67891"/>Use the first-in, first-out (FIFO) cost allocation method, with perpetual inventory updating, to calculate (a) sales revenue, (b) cost of goods sold, and c) gross margin for A75 Company, considering the following transactions.</para>
+<media id="fs-idm211078912" class="scaled-down" alt="Beginning Inventory is 105 units at cost of $40 each, March 2 purchased 150 units at $42 each, March 31 sold 88 units for $75 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm210777520">
+<problem id="fs-idm210507168">
+<para id="fs-idm218660848"><link class="lo-reference" document="m67891"/>Use the last-in, first-out (LIFO) cost allocation method, with perpetual inventory updating, to calculate (a) sales revenue, (b) cost of goods sold, and c) gross margin for A75 Company, considering the following transactions.</para>
+<media id="fs-idm201940096" class="scaled-down" alt="Beginning Inventory is 105 units at cost of $40 each, March 2 purchased 150 units at $42 each, March 31 sold 88 units for $75 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm176487440">
+<problem id="fs-idm214490576">
+<para id="fs-idm209645232"><link class="lo-reference" document="m67891"/>Use the weighted-average (AVG) cost allocation method, with perpetual inventory updating, to calculate (a) sales revenue, (b) cost of goods sold, and c) gross margin for A75 Company, considering the following transactions.</para>
+<media id="fs-idm177193744" class="scaled-down" alt="Beginning Inventory is 105 units at cost of $40 each, March 2 purchased 150 units at $42 each, March 31 sold 88 units for $75 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PA04_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm208807056">
+<problem id="fs-idm179044480">
+<para id="fs-idm214437040"><link class="lo-reference" document="m67891"/>Prepare journal entries to record the following transactions, assuming perpetual inventory updating and first-in, first-out (FIFO) cost allocation. Assume no beginning inventory.</para>
+<media id="fs-idm210072112" class="scaled-down" alt="Purchased 165 units at $21 each. Sold 120 units for $36 each. Purchased 225 units at $27 each. Sold 180 units for $39 each. Purchased 210 units at $33 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PA05_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm187727168">
+<problem id="fs-idm219594480">
+<para id="fs-idm181307792"><link class="lo-reference" document="m67891"/>Calculate a) cost of goods sold, b) ending inventory, and c) gross margin for A76 Company, considering the following transactions under three different cost allocation methods and using perpetual inventory updating. Provide calculations for first-in, first-out (FIFO).</para>
+<media id="fs-idm223049248" class="scaled-down" alt="Beginning Inventory is 240 units at cost of $100 each, sold 160 units for $140 each, purchased 520 units at $103 each, sold 400 units for $142 each, purchased 400 units at $110 each, sold 370 units for $144 each, Ending Inventory is 230 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PA06_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm187244576">
+<problem id="fs-idm210383600">
+<para id="fs-idm202463392"><link class="lo-reference" document="m67891"/>Calculate a) cost of goods sold, b) ending inventory, and c) gross margin for A76 Company, considering the following transactions under three different cost allocation methods and using perpetual inventory updating. Provide calculations for last-in, first-out (LIFO).</para>
+<media id="fs-idm217005328" class="scaled-down" alt="Beginning Inventory is 240 units at cost of $100 each, sold 160 units for $140 each, purchased 520 units at $103 each, sold 400 units for $142 each, purchased 400 units at $110 each, sold 370 units for $144 each, Ending Inventory is 230 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PA07_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm225987232">
+<problem id="fs-idm163886592">
+<para id="fs-idm183166208"><link class="lo-reference" document="m67891"/>Calculate a) cost of goods sold, b) ending inventory, and c) gross margin for A76 Company, considering the following transactions under three different cost allocation methods and using perpetual inventory updating. Provide calculations for weighted average (AVG).</para>
+<media id="fs-idm178098448" class="scaled-down" alt="Beginning Inventory is 240 units at cost of $100 each, sold 160 units for $140 each, purchased 520 units at $103 each, sold 400 units for $142 each, purchased 400 units at $110 each, sold 370 units for $144 each, Ending Inventory is 230 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PA08_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm208590800">
+<problem id="fs-idm217030400">
+<para id="fs-idm208558832"><link class="lo-reference" document="m67891"/>Compare the calculations for gross margin for A76 Company, based on the results of the perpetual inventory calculations using FIFO, LIFO, and AVG.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm220376624" class="problem-set-b">
+<exercise id="fs-idm200132976">
+<problem id="fs-idm218383248">
+<para id="fs-idm184099488"><link class="lo-reference" document="m67891"/>Calculate the cost of goods sold dollar value for B74 Company for the sale on November 20, considering the following transactions under three different cost allocation methods and using perpetual inventory updating. Provide calculations for (a) first-in, first-out (FIFO); (b) last-in, first-out (LIFO); and (c) weighted average (AVG).</para>
+<media id="fs-idm178532832" class="scaled-down" alt="November 1 Beginning Inventory is 650 units at cost of $55 each, November 15 purchased 500 units at $52 each, November 20 sold 400 units for $80 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm211253728">
+<problem id="fs-idm228205360">
+<para id="fs-idm177035632"><link class="lo-reference" document="m67891"/>Use the first-in, first-out method (FIFO) cost allocation method, with perpetual inventory updating, to calculate (a) sales revenue, (b) cost of goods sold, and c) gross margin for B75 Company, considering the following transactions.</para>
+<media id="fs-idm209253824" class="scaled-down" alt="Beginning Inventory is 7,500 units at cost of $60 each, September 18 purchased 8,000 units at $55 each, September 28 sold 500 units for $100 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm202430752">
+<problem id="fs-idm163621568">
+<para id="fs-idm179393536"><link class="lo-reference" document="m67891"/>Use the last-in, first-out method (LIFO) cost allocation method, with perpetual inventory updating, to calculate (a) sales revenue, (b) cost of goods sold, and c) gross margin for B75 Company, considering the following transactions.</para>
+<media id="fs-idm227029840" class="scaled-down" alt="Beginning Inventory is 7,500 units at cost of $60 each, September 18 purchased 8,000 units at $55 each, September 28 sold 500 units for $100 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm211475136">
+<problem id="fs-idm170528320">
+<para id="fs-idm181448272"><link class="lo-reference" document="m67891"/>Use the <term>weighted-average (AVG)</term> cost allocation method, with perpetual inventory updating, to calculate (a) sales revenue, (b) cost of goods sold, and c) gross margin for B75 Company, considering the following transactions.</para>
+<media id="fs-idm187289392" class="scaled-down" alt="Beginning Inventory is 7,500 units at cost of $60 each, September 18 purchased 8,000 units at $55 each, September 28 sold 500 units for $100 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PB04_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm196316432">
+<problem id="fs-idm222457856">
+<para id="fs-idm190192128"><link class="lo-reference" document="m67891"/>Prepare journal entries to record the following transactions, assuming perpetual inventory updating, and last-in, first-out (LIFO) cost allocation. Assume no beginning inventory.</para>
+<media id="fs-idm186319776" class="scaled-down" alt="Purchased 165 units at cost of $21 each, sold 120 units for $36 each, purchased 225 units at $27 each, sold 180 units for $39 each, purchased 210 units at $33 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PB05_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm170464976">
+<problem id="fs-idm176416672">
+<para id="fs-idm224060160"><link class="lo-reference" document="m67891"/>Calculate a) cost of goods sold, b) ending inventory, and c) gross margin for B76 Company, considering the following transactions under three different cost allocation methods and using perpetual inventory updating. Provide calculations for first-in, first-out (FIFO).</para>
+<media id="fs-idm222981040" class="scaled-down" alt="Beginning Inventory is 420 units at cost of $200 each, sold 150 units for $401 each, purchased 250 units at $205 each, sold 275 units for $421 each, purchased 200 units at $215 each, sold 260 units for $441 each, Ending Inventory is 185 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PB06_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm203584736">
+<problem id="fs-idm169721984">
+<para id="fs-idm174665776"><link class="lo-reference" document="m67891"/>Calculate a) cost of goods sold, b) ending inventory, and c) gross margin for B76 Company, considering the following transactions under three different cost allocation methods and using perpetual inventory updating. Provide calculations for last-in, first-out (LIFO).</para>
+<media id="fs-idm201878896" class="scaled-down" alt="Beginning Inventory is 420 units at cost of $200 each, sold 150 units for $401 each, purchased 250 units at $205 each, sold 275 units for $421 each, purchased 200 units at $215 each, sold 260 units for $441 each, Ending Inventory is 185 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PB07_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm221186528">
+<problem id="fs-idm209065392">
+<para id="fs-idm182035504"><link class="lo-reference" document="m67891"/>Calculate a) cost of goods sold, b) ending inventory, and c) gross margin for B76 Company, considering the following transactions under three different cost allocation methods and using perpetual inventory updating. Provide calculations for weighted average (AVG).</para>
+<media id="fs-idm209237632" class="scaled-down" alt="Beginning Inventory is 420 units at cost of $200 each, sold 150 units for $401 each, purchased 250 units at $205 each, sold 275 units for $421 each, purchased 200 units at $215 each, sold 260 units for $441 each, Ending Inventory is 185 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_03_PB08_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm210444592">
+<problem id="fs-idm202497376">
+<para id="fs-idm209027696"><link class="lo-reference" document="m67891"/>Compare the calculations for gross margin for B76 Company, based on the results of the perpetual inventory calculations using FIFO, LIFO, and AVG.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm188445056" class="thought-provokers">
+<exercise id="fs-idm212448560">
+<problem id="fs-idm201377360">
+<para id="fs-idm184719680"><link class="lo-reference" document="m67891"/>Search the internet for recent news items (within the past year) relating to inventory issues. Submit a short memo describing what you found and explaining why it is important to the future of inventory accounting or management. For example, this can be related to technology, bar code, RFID, shipping, supply chain, logistics, or other inventory-related topics that are currently trending. Provide the weblink to the source of your information.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm179087136">
+<problem id="fs-idm179086880">
+<para id="fs-idm179086624"><link class="lo-reference" document="m67891"/>Search the internet for information about the technological breakthrough relating to inventory issues, referred to as the Internet of Things (IoT). How do you think the development of such technology will change the way accountants manage inventory in the future? Provide the weblink to the source or sources of your information.</para>
+</problem>
+</exercise>
+</section>
+   </content>
+</document>

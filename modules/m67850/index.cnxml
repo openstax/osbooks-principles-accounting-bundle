@@ -1,0 +1,839 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Discuss the Adjustment Process and Illustrate Common Types of Adjusting Entries</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67850</md:content-id>
+  <md:title>Discuss the Adjustment Process and Illustrate Common Types of Adjusting Entries</md:title>
+  <md:abstract/>
+  <md:uuid>1e13d7a0-bc49-4a51-8b57-1d19e7af5859</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm355355232">When a company reaches the end of a period, it must update certain accounts that have either been left unattended throughout the period or have not yet been recognized. <term>Adjusting entries</term> update accounting records at the end of a period for any transactions that have not yet been recorded. One important accounting principle to remember is that just as the accounting equation (Assets = Liabilities + Owner’s equity/or common stock/or capital) must be equal, it must remain equal after you make adjusting entries. Also note that in this equation, owner’s equity represents an individual owner (sole proprietorship), common stock represents a corporation’s owners’ interests, and capital represents a partnership’s owners’ interests. We discuss the effects of adjusting entries in greater detail throughout this chapter.</para>
+<para id="fs-idm628880496">There are several steps in the accounting cycle that require the preparation of a trial balance: step 4, preparing an unadjusted trial balance; step 6, preparing an adjusted trial balance; and step 9, preparing a post-closing trial balance. You might question the purpose of more than one trial balance. For example, why can we not go from the unadjusted trial balance straight into preparing financial statements for public consumption? What is the purpose of the adjusted trial balance? Does preparing more than one trial balance mean the company made a mistake earlier in the accounting cycle? To answer these questions, let’s first explore the (unadjusted) trial balance, and why some accounts have incorrect balances.</para>
+<section id="fs-idm363786944">
+<title>Why Some Accounts Have Incorrect Balances on the Trial Balance</title>
+<para id="fs-idm362020256">The unadjusted trial balance may have incorrect balances in some accounts. Recall the <term class="no-emphasis">trial balance</term> from <link document="m67842">Analyzing and Recording Transactions</link> for the example company, Printing Plus.</para>
+<figure id="OSX_Acct_F04_02_UTB01" class="scaled-down">
+<media id="fs-idm630961184" alt="Printing Plus, Unadjusted Trial Balance, January 31, 2019. Debit accounts: Cash $24,800; Accounts Receivable 1,200; Supplies 500; Equipment 3,500; Dividends 100; Salaries Expense 3,600; Utility Expense 300; Total Debits $34,000. Credit accounts: Accounts Payable 500; Unearned Revenue 4,000; Common Stock 20,000; Service Revenue 9,500; Total Credits $34,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_UTB01.jpg"/>
+</media>
+<caption>Unadjusted Trial Balance for Printing Plus. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm372741440">The trial balance for Printing Plus shows Supplies of $500, which were purchased on January 30. Since this is a new company, Printing Plus would more than likely use some of their supplies right away, before the end of the month on January 31. Supplies are only an asset when they are unused. If Printing Plus used some of its supplies immediately on January 30, then why is the full $500 still in the supply account on January 31? How do we fix this incorrect balance?</para>
+<para id="fs-idm320212160">Similarly, what about Unearned Revenue? On January 9, the company received $4,000 from a customer for printing services to be performed. The company recorded this as a liability because it received payment without providing the service. To clear this liability, the company must perform the service. Assume that as of January 31 some of the printing services have been provided. Is the full $4,000 still a liability? Since a portion of the service was provided, a change to unearned revenue should occur. The company needs to correct this balance in the Unearned Revenue account.</para>
+<para id="fs-idm627294192">Having incorrect balances in Supplies and in Unearned Revenue on the company’s January 31 trial balance is not due to any error on the company’s part. The company followed all of the correct steps of the accounting cycle up to this point. So why are the balances still incorrect?</para>
+<para id="fs-idm366043200">Journal entries are recorded when an activity or event occurs that triggers the entry. Usually the trigger is from an original source. Recall that an original source can be a formal document substantiating a transaction, such as an invoice, purchase order, cancelled check, or employee time sheet. Not every transaction produces an original source document that will alert the bookkeeper that it is time to make an entry.</para>
+<para id="fs-idm627292768">When a company purchases supplies, the original order, receipt of the supplies, and receipt of the invoice from the vendor will all trigger journal entries. This trigger does not occur when using supplies from the supply closet. Similarly, for unearned revenue, when the company receives an advance payment from the customer for services yet provided, the cash received will trigger a journal entry. When the company provides the printing services for the customer, the customer will not send the company a reminder that revenue has now been earned. Situations such as these are why businesses need to make adjusting entries.</para>
+<note id="fs-idm639729200" class="think-through">
+<title>Keep Calm and Adjust . . .</title>
+<para id="fs-idm638937712">Elliot Simmons owns a small law firm. He does the accounting himself and uses an accrual basis for accounting. At the end of his first month, he reviews his records and realizes there are a few inaccuracies on this unadjusted trial balance.</para>
+<para id="fs-idm361994256">One difference is the supplies account; the figure on paper does not match the value of the supplies inventory still available. Another difference was interest earned from his bank account. He did not have anything recognizing these earnings.</para>
+<para id="fs-idm370675776">Why did his unadjusted trial balance have these errors? What can be attributed to the differences in supply figures? What can be attributed to the differences in interest earned?</para>
+</note>
+</section>
+<section id="fs-idm343131664">
+<title>The Need for Adjusting Entries</title>
+<para id="fs-idm364751280">Adjusting entries update accounting records at the end of a period for any transactions that have not yet been recorded. These entries are necessary to ensure the income statement and balance sheet present the correct, up-to-date numbers. Adjusting entries are also necessary because the initial trial balance may not contain complete and current data due to several factors:</para>
+<list id="fs-idm317862608" list-type="bulleted">
+<item>The inefficiency of recording every single day-to-day event, such as the use of supplies.</item>
+<item>Some costs are not recorded during the period but must be recognized at the end of the period, such as depreciation, rent, and insurance.</item>
+<item>Some items are forthcoming for which original source documents have not yet been received, such as a utility bill.</item>
+</list>
+<para id="fs-idm317860656">There are a few other guidelines that support the need for adjusting entries.</para>
+<section id="fs-idm317860272">
+<title>Guidelines Supporting Adjusting Entries</title>
+<para id="fs-idm630912416">Several guidelines support the need for adjusting entries:</para>
+<list id="fs-idm363783712" list-type="bulleted">
+<item>Revenue recognition principle: Adjusting entries are necessary because the revenue recognition principle requires revenue recognition when earned, thus the need for an update to unearned revenues.</item>
+<item>Expense recognition (matching) principle: This requires matching expenses incurred to generate the revenues earned, which affects accounts such as insurance expense and supplies expense.</item>
+<item>Time period assumption: This requires useful information be presented in shorter time periods such as years, quarters, or months. This means a company must recognize revenues and expenses in the proper period, requiring adjustment to certain accounts to meet these criteria.</item>
+</list>
+<para id="fs-idm342958352">The required adjusting entries depend on what types of transactions the company has, but there are some common types of adjusting entries. Before we look at recording and posting the most common types of adjusting entries, we briefly discuss the various types of adjusting entries.</para>
+</section>
+</section>
+<section id="fs-idm306394912">
+<title>Types of Adjusting Entries</title>
+<para id="fs-idm631782576">Adjusting entries requires updates to specific account types at the end of the period. Not all accounts require updates, only those not naturally triggered by an original source document. There are two main types of adjusting entries that we explore further, deferrals and accruals.</para>
+</section>
+<section id="fs-idm623437088">
+<title>Deferrals</title>
+<para id="fs-idm623436448"><term>Deferrals</term> are prepaid expense and revenue accounts that have delayed recognition until they have been used or earned. This recognition may not occur until the end of a period or future periods. When deferred expenses and revenues have yet to be recognized, their information is stored on the balance sheet. As soon as the expense is incurred and the revenue is earned, the information is transferred from the balance sheet to the income statement. Two main types of deferrals are prepaid expenses and unearned revenues.</para>
+<section id="fs-idm623435280">
+<title>Prepaid Expenses</title>
+<para id="fs-idm623434640">Recall from <link document="m67842">Analyzing and Recording Transactions</link> that <term class="no-emphasis"><emphasis effect="italics">prepaid expenses</emphasis></term> (prepayments) are assets for which advanced payment has occurred, before the company can benefit from use. As soon as the asset has provided benefit to the company, the value of the asset used is transferred from the balance sheet to the income statement as an expense. Some common examples of prepaid expenses are supplies, depreciation, insurance, and rent.</para>
+<para id="fs-idm365564320">When a company purchases supplies, it may not use all supplies immediately, but chances are the company has used some of the supplies by the end of the period. It is not worth it to record every time someone uses a pencil or piece of paper during the period, so at the end of the period, this account needs to be updated for the value of what has been used.</para>
+<para id="fs-idm365563568">Let’s say a company paid for supplies with cash in the amount of $400. At the end of the month, the company took an inventory of supplies used and determined the value of those supplies used during the period to be $150. The following entry occurs for the initial payment.</para>
+<media id="fs-idm615684592" alt="Journal entry, undated. Debit Supplies 400. Credit Cash 400. Explanation: “To recognize purchase of supplies.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_Jorn01_img.jpg"/>
+</media>
+<para id="fs-idm370664160">Supplies increases (debit) for $400, and Cash decreases (credit) for $400. When the company recognizes the supplies usage, the following adjusting entry occurs.</para>
+<media id="fs-idm314870656" alt="Journal entry, undated. Debit Supplies Expense 150. Credit Supplies 150. Explanation: “To recognize supplies used during the period.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_Jorn02_img.jpg"/>
+</media>
+<para id="fs-idm365550064">Supplies Expense is an expense account, increasing (debit) for $150, and Supplies is an asset account, decreasing (credit) for $150. This means $150 is transferred from the balance sheet (asset) to the income statement (expense). Notice that not all of the supplies are used. There is still a balance of $250 (400 – 150) in the Supplies account. This amount will carry over to future periods until used. The balances in the Supplies and Supplies Expense accounts show as follows.</para>
+<media id="fs-idm355840544" class="scaled-down" alt="Two T-accounts. Left T-account labeled Supplies; debit entry 400; credit entry 150; debit balance 250. Right T-account labeled Supplies Expense; debit entry 150; debit balance 150.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_TAcct01_img.jpg"/>
+</media>
+<para id="fs-idm368120768">Depreciation may also require an adjustment at the end of the period. Recall that <emphasis effect="italics">depreciation</emphasis> is the systematic method to record the allocation of cost over a given period of certain assets. This allocation of cost is recorded over the <term>useful life</term> of the asset, or the time period over which an asset cost is allocated. The allocated cost up to that point is recorded in Accumulated Depreciation, a contra asset account. A <term>contra account</term> is an account paired with another account type, has an opposite normal balance to the paired account, and reduces the balance in the paired account at the end of a period.</para>
+<para id="fs-idm368215056">Accumulated Depreciation is contrary to an asset account, such as Equipment. This means that the normal balance for Accumulated Depreciation is on the credit side. It houses all depreciation expensed in current and prior periods. Accumulated Depreciation will reduce the asset account for depreciation incurred up to that point. The difference between the asset’s value (cost) and accumulated depreciation is called the <term>book value</term> of the asset. When depreciation is recorded in an adjusting entry, Accumulated Depreciation is credited and Depreciation Expense is debited.</para>
+<para id="fs-idm324196064">For example, let’s say a company pays $2,000 for equipment that is supposed to last four years. The company wants to depreciate the asset over those four years equally. This means the asset will lose $500 in value each year ($2,000/four years). In the first year, the company would record the following adjusting entry to show depreciation of the equipment.</para>
+<media id="fs-idm631208096" class="scaled-down" alt="Journal entry, undated. Debit Depreciation Expense 500. Credit Accumulated Depreciation Equipment 500. Explanation: “To recognize depreciation for the year.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_Jorn03_img.jpg"/>
+</media>
+<para id="fs-idm308991552">Depreciation Expense increases (debit) and Accumulated Depreciation, Equipment, increases (credit). If the company wanted to compute the book value, it would take the original cost of the equipment and subtract accumulated depreciation.</para>
+<equation id="fs-idm624288816" class="unnumbered"><m:math><m:mrow><m:mtext>Book value of equipment</m:mtext><m:mo>=</m:mo><m:mn>$2,000</m:mn><m:mo>–</m:mo><m:mn>$500</m:mn><m:mo>=</m:mo><m:mn>$1,500</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm315961440">This means that the current book value of the equipment is $1,500, and depreciation will be subtracted from this figure the next year. The following account balances after adjustment are as follows:</para>
+<media id="fs-idm319409616" alt="Two T-accounts. Left T-account labeled Accumulated Depreciation: Equipment; credit entry 500; credit balance 500. Right T-account labeled Depreciation Expense; debit entry 500, debit balance 500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_TAcct02_img.jpg"/>
+</media>
+<para id="fs-idm641188528">You will learn more about depreciation and its computation in <link document="m67894">Long-Term Assets</link>. However, one important fact that we need to address now is that the book value of an asset is not necessarily the price at which the asset would sell. For example, you might have a building for which you paid $1,000,000 that currently has been depreciated to a book value of $800,000. However, today it could sell for more than, less than, or the same as its book value. The same is true about just about any asset you can name, except, perhaps, cash itself.</para>
+<para id="fs-idm615657280">Insurance policies can require advanced payment of fees for several months at a time, six months, for example. The company does not use all six months of insurance immediately but over the course of the six months. At the end of each month, the company needs to record the amount of insurance expired during that month.</para>
+<para id="fs-idm615656560">For example, a company pays $4,500 for an insurance policy covering six months. It is the end of the first month and the company needs to record an adjusting entry to recognize the insurance used during the month. The following entries show the initial payment for the policy and the subsequent adjusting entry for one month of insurance usage.</para>
+<media id="fs-idm629012736" alt="Journal with two undated entries. First entry: debit Prepaid Insurance 4,500; Credit Cash 4,500. Explanation: “To recognize payment for insurance policy covering six months.” Second entry: debit Insurance Expense 750; credit Prepaid Insurance 750. Explanation: “To recognize insurance used during one month.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_Jorn04_img.jpg"/>
+</media>
+<para id="fs-idm355409136">In the first entry, Cash decreases (credit) and Prepaid Insurance increases (debit) for $4,500. In the second entry, Prepaid Insurance decreases (credit) and Insurance Expense increases (debit) for one month’s insurance usage found by taking the total $4,500 and dividing by six months (4,500/6 = 750). The account balances after adjustment are as follows:</para>
+<media id="fs-idm306444368" class="scaled-down" alt="Two T-accounts. Left T-account labeled Prepaid Insurance; debit entry 4,500; credit entry 750; debit balance 3,750. Right T-account labeled Insurance Expense; debit entry 750; debit balance 750.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_TAcct03_img.jpg"/>
+</media>
+<para id="fs-idm632348272">Similar to prepaid insurance, rent also requires advanced payment. Usually to rent a space, a company will need to pay rent at the beginning of the month. The company may also enter into a lease agreement that requires several months, or years, of rent in advance. Each month that passes, the company needs to record rent used for the month.</para>
+<para id="fs-idm615654896">Let’s say a company pays $8,000 in advance for four months of rent. After the first month, the company records an adjusting entry for the rent used. The following entries show initial payment for four months of rent and the adjusting entry for one month’s usage.</para>
+<media id="fs-idm314733680" alt="Journal with two undated entries. First entry: debit Prepaid Rent 8,000; credit Cash 8,000. Explanation: “To recognize payment for rent covering four months.” Second entry: debit Rent Expense 2,000; credit Prepaid Rent 2,000. Explanation: “To recognize rent used during one month.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_Jorn05_img.jpg"/>
+</media>
+<para id="fs-idm615634032">In the first entry, Cash decreases (credit) and Prepaid Rent increases (debit) for $8,000. In the second entry, Prepaid Rent decreases (credit) and Rent Expense increases (debit) for one month’s rent usage found by taking the total $8,000 and dividing by four months (8,000/4 = 2,000). The account balances after adjustment are as follows:</para>
+<media id="fs-idm368358656" alt="Two T-accounts. Left T-account labeled Prepaid Rent; debit entry 8,000; credit entry 2,000; debit balance 6,000. Right T-account labeled Rent Expense; debit entry 2,000; debit balance 2,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_TAcct04_img.jpg"/>
+</media>
+<para id="fs-idm364933328">Another type of deferral requiring adjustment is unearned revenue.</para>
+</section>
+<section id="fs-idm324501488">
+<title>Unearned Revenues</title>
+<para id="fs-idm357022496">Recall that <term class="no-emphasis">unearned revenue</term> represents a customer’s advanced payment for a product or service that has yet to be provided by the company. Since the company has not yet provided the product or service, it cannot recognize the customer’s payment as revenue. At the end of a period, the company will review the account to see if any of the unearned revenue has been earned. If so, this amount will be recorded as revenue in the current period.</para>
+<para id="fs-idm314647296">For example, let’s say the company is a law firm. During the year, it collected retainer fees totaling $48,000 from clients. Retainer fees are money lawyers collect in advance of starting work on a case. When the company collects this money from its clients, it will debit cash and credit unearned fees. Even though not all of the $48,000 was probably collected on the same day, we record it as if it was for simplicity’s sake.</para>
+<media id="fs-idm368402992" alt="Journal entry, undated. Debit Cash 48,000. Credit Unearned Fee Revenue 48,000. Explanation: “To recognize collection of retainer fees.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_Jorn06_img.jpg"/>
+</media>
+<para id="fs-idm343108832">In this case, Unearned Fee Revenue increases (credit) and Cash increases (debit) for $48,000.</para>
+<para id="fs-idm355211088">At the end of the year after analyzing the unearned fees account, 40% of the unearned fees have been earned. This 40% can now be recorded as revenue. Total revenue recorded is $19,200 ($48,000 × 40%).</para>
+<media id="fs-idm358857408" alt="Journal entry, undated. Debit Unearned Fee Revenue 19,200. Credit Fee Revenue 19,200. Explanation: “To recognize fees earned.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_Jorn07_img.jpg"/>
+</media>
+<para id="fs-idm623487536">For this entry, Unearned Fee Revenue decreases (debit) and Fee Revenue increases (credit) for $19,200, which is the 40% earned during the year. The company will have the following balances in the two accounts:</para>
+<media id="fs-idm628965632" class="scaled-down" alt="Two T-accounts. Left T-account labeled Unearned Fee Revenue; debit entry 19,200; credit entry 48,000; credit balance 28,800. Right T-account labeled Fee Revenue; credit entry 19,200; credit balance 19,200.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_TAcct05_img.jpg"/>
+</media>
+<para id="fs-idm639692656">Besides deferrals, other types of adjusting entries include accruals.</para>
+</section>
+</section>
+<section id="fs-idm343488528">
+<title>Accruals</title>
+<para id="fs-idm631582160"><term>Accruals</term> are types of adjusting entries that accumulate during a period, where amounts were previously unrecorded. The two specific types of adjustments are accrued revenues and accrued expenses.</para>
+<section id="fs-idm630909408">
+<title>Accrued Revenues</title>
+<para id="fs-idm372922272"><term>Accrued revenues</term> are revenues earned in a period but have yet to be recorded, and no money has been collected. Some examples include interest, and services completed but a bill has yet to be sent to the customer.</para>
+<para id="fs-idm315474416">Interest can be earned from bank account holdings, notes receivable, and some accounts receivables (depending on the contract). Interest had been accumulating during the period and needs to be adjusted to reflect interest earned at the end of the period. Note that this interest has not been paid at the end of the period, only earned. This aligns with the revenue recognition principle to recognize revenue when earned, even if cash has yet to be collected.</para>
+<para id="fs-idm366179552">For example, assume that a company has one outstanding note receivable in the amount of $100,000. Interest on this note is 5% per year. Three months have passed, and the company needs to record interest earned on this outstanding loan. The calculation for the interest revenue earned is $100,000 × 5% × 3/12 = $1,250. The following adjusting entry occurs.</para>
+<media id="fs-idm370717776" alt="Journal entry, undated. Debit Interest Receivable 1,250. Credit Interest Revenue 1,250. Explanation: “To recognize interest revenue earned and due.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_Jorn08_img.jpg"/>
+</media>
+<para id="fs-idm355736320">Interest Receivable increases (debit) for $1,250 because interest has not yet been paid. Interest Revenue increases (credit) for $1,250 because interest was earned in the three-month period but had been previously unrecorded.</para>
+<media id="fs-idm363725632" class="scaled-down" alt="Two T-account. Left T-account labeled Interest Receivable; debit entry 1,250; debit balance 1,250. Right T-account labeled Interest Revenue; credit entry 1,250; credit balance 1,250.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_TAcct06_img.jpg"/>
+</media>
+<para id="fs-idm358930496">Previously unrecorded service revenue can arise when a company provides a service but did not yet bill the client for the work. This means the customer has also not yet paid for services. Since there was no bill to trigger a transaction, an adjustment is required to recognize revenue earned at the end of the period.</para>
+<para id="fs-idm315977744">For example, a company performs landscaping services in the amount of $1,500. However, they have not yet received payment. At the period end, the company would record the following adjusting entry.</para>
+<media id="fs-idm361161552" alt="Journal entry, undated. Debit Accounts Receivable 1,500. Credit Service Revenue 1,500. Explanation: “To recognize service revenue earned and due.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_Jorn09_img.jpg"/>
+</media>
+<para id="fs-idm358531584">Accounts Receivable increases (debit) for $1,500 because the customer has not yet paid for services completed. Service Revenue increases (credit) for $1,500 because service revenue was earned but had been previously unrecorded.</para>
+<media id="fs-idm628911104" class="scaled-down" alt="Two T-accounts. Left T-account labeled Service Revenue; credit entry 1,500; credit balance 1,500. Right T-account labeled Accounts Receivable; debit entry 1,500; debit balance 1,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_TAcct07_img.jpg"/>
+</media>
+</section>
+</section>
+<section id="fs-idm359383664">
+<title>Accrued Expenses</title>
+<para id="fs-idm365160064"><term>Accrued expenses</term> are expenses incurred in a period but have yet to be recorded, and no money has been paid. Some examples include interest, tax, and salary expenses.</para>
+<para id="fs-idm365230304">Interest expense arises from notes payable and other loan agreements. The company has accumulated interest during the period but has not recorded or paid the amount. This creates a liability that the company must pay at a future date. You cover more details about computing interest in <link document="m67901">Current Liabilities</link>, so for now amounts are given.</para>
+<para id="fs-idm315976880">For example, a company accrued $300 of interest during the period. The following entry occurs at the end of the period.</para>
+<media id="fs-idm366352400" alt="Journal entry, undated. Debit Interest Expense 300. Credit Interest Payable 300. Explanation: “To recognize interest expense incurred but not paid.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_Jorn10_img.jpg"/>
+</media>
+<para id="fs-idm361641792">Interest Expense increases (debit) and Interest Payable increases (credit) for $300. The following are the updated ledger balances after posting the adjusting entry.</para>
+<media id="fs-idm314792000" class="scaled-down" alt="Two T-accounts. Left T-account labeled Interest Payable; credit entry 300; credit balance 300. Right T-account labeled Interest Expense; debit entry 300; debit balance 300.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_TAcct08_img.jpg"/>
+</media>
+<para id="fs-idm364894816">Taxes are only paid at certain times during the year, not necessarily every month. Taxes the company owes during a period that are unpaid require adjustment at the end of a period. This creates a liability for the company. Some tax expense examples are income and sales taxes.</para>
+<para id="fs-idm315975952">For example, a company has accrued income taxes for the month for $9,000. The company would record the following adjusting entry.</para>
+<media id="fs-idm314755776" alt="Journal entry, undated. Debit Income Tax Expense 9,000. Credit Income Tax Payable 9,000. Explanation: “To recognize income tax expense incurred but not paid.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_Jorn11_img.jpg"/>
+</media>
+<para id="fs-idm315002976">Income Tax Expense increases (debit) and Income Tax Payable increases (credit) for $9,000. The following are the updated ledger balances after posting the adjusting entry.</para>
+<media id="fs-idm306249200" class="scaled-down" alt="Two T-accounts. Left T-account labeled Income Tax Payable; credit entry 9,000; credit balance 9,000. Right T-account labeled Income Tax Expense; debit entry 9,000; debit balance 9,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_TAcct09_img.jpg"/>
+</media>
+<para id="fs-idm365212720">Many salaried employees are paid once a month. The salary the employee earned during the month might not be paid until the following month. For example, the employee is paid for the prior month’s work on the first of the next month. The financial statements must remain up to date, so an adjusting entry is needed during the month to show salaries previously unrecorded and unpaid at the end of the month.</para>
+<para id="fs-idm361147728">Let’s say a company has five salaried employees, each earning $2,500 per month. In our example, assume that they do not get paid for this work until the first of the next month. The following is the adjusting journal entry for salaries.</para>
+<media id="fs-idm372820064" alt="Journal entry, undated. Debit Salaries Expense 12,500. Credit Salaries Payable 12,500. Explanation: “To recognize salaries expense incurred but not paid.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_Jorn12_img.jpg"/>
+</media>
+<para id="fs-idm361765808">Salaries Expense increases (debit) and Salaries Payable increases (credit) for $12,500 ($2,500 per employee × five employees). The following are the updated ledger balances after posting the adjusting entry.</para>
+<media id="fs-idm371980848" class="scaled-down" alt="Two T-accounts. Left T-account labeled Salaries Payable; credit entry 12,500; credit balance 12,500. Right T-account labeled Salaries Expense; debit entry 12,500; debit balance 12,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_TAcct10_img.jpg"/>
+</media>
+<para id="fs-idm631927968">In <link document="m67851">Record and Post the Common Types of Adjusting Entries</link>, we explore some of these adjustments specifically for our company Printing Plus, and show how these entries affect our general ledger (T-accounts).</para>
+<note id="fs-idm314578976" class="your-turn"><title>Adjusting Entries</title><table id="fs-idm360871792" class="top-titled" summary="No Summary">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Example</entry>
+<entry valign="top" align="center">Income Statement Account</entry>
+<entry valign="top" align="center">Balance Sheet Account</entry>
+<entry valign="top" align="center">Cash in Entry?</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-idm364869232">Review the three adjusting entries that follow. Using the table provided, for each entry write down the income statement account and balance sheet account used in the adjusting entry in the appropriate column. Then in the last column answer yes or no.</para>
+<media id="fs-idm356104064" alt="Journal entry one: debit Supplies Expense 500; credit Supplies 500. Journal entry two: debit Unearned Revenue 2,000; credit Service Revenue 2,000. Journal entry three: debit Rent Expense 1,200; credit Prepaid Machine Rent 1,200.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_YT01Jrn_img.png"/>
+</media>
+<para id="fs-idm355318256"><emphasis effect="bold">Solution</emphasis></para>
+<table id="fs-idm372783344" class="top-titled" summary="No Summary">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Example</entry>
+<entry valign="top" align="center">Income Statement Account</entry>
+<entry valign="top" align="center">Balance Sheet Account</entry>
+<entry valign="top" align="center">Cash in Entry?</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="center">1</entry>
+<entry valign="top" align="left">Supplies expense</entry>
+<entry valign="top" align="left">Supplies</entry>
+<entry valign="top" align="center">no</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">2</entry>
+<entry valign="top" align="left">Service Revenue</entry>
+<entry valign="top" align="left">Unearned Revenue</entry>
+<entry valign="top" align="center">no</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">3</entry>
+<entry valign="top" align="left">Rent Expense</entry>
+<entry valign="top" align="left">Prepaid machine rent</entry>
+<entry valign="top" align="center">no</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</note><note id="fs-idm356735248" class="your-turn">
+<title>Adjusting Entries Take Two</title>
+<para id="fs-idm370537104">Did we continue to follow the rules of adjusting entries in these two examples? Explain.</para>
+<media id="fs-idm348859728" alt="Journal entry one: debit Electricity Expense 100; credit Accounts Payable 100. Journal entry two: debit Salaries Expense 4,000; credit Salaries Payable 4,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_02_YT02Jrn_img.png"/>
+</media>
+
+<table id="fs-idm368037344" class="top-titled" summary="No Summary">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Example</entry>
+<entry valign="top" align="center">Income Statement Account</entry>
+<entry valign="top" align="center">Balance Sheet Account</entry>
+<entry valign="top" align="center">Cash in Entry?</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm367123120"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm365088048">Yes, we did. Each entry has one income statement account and one balance sheet account, and cash does not appear in either of the adjusting entries.</para>
+
+<table id="fs-idm366472656" class="top-titled" summary="No Summary">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Example</entry>
+<entry valign="top" align="center">Income Statement Account</entry>
+<entry valign="top" align="center">Balance Sheet Account</entry>
+<entry valign="top" align="center">Cash in Entry?</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="center">1</entry>
+<entry valign="top" align="left">Electricity Expense</entry>
+<entry valign="top" align="left">Accounts Payable</entry>
+<entry valign="top" align="center">no</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">2</entry>
+<entry valign="top" align="left">Salaries Expense</entry>
+<entry valign="top" align="left">Salaries Payable</entry>
+<entry valign="top" align="center">no</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</note>
+</section>
+<section id="fs-idm365896224" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm361429264" list-type="bulleted" bullet-style="bullet">
+<item>Incorrect balances: Incorrect balances on the unadjusted trial balance occur because not every transaction produces an original source document that will alert the bookkeeper it is time to make an entry. It is not that the accountant made an error, it means an adjustment is required to correct the balance.</item>
+<item>Need for adjustments: Some account adjustments are needed to update records that may not have original source documents or those that do not reflect change on a daily basis. The revenue recognition principle, expense recognition principle, and time period assumption all further the need for adjusting entries because they require revenue and expense reporting occur when earned and incurred in a current period.</item>
+<item>Prepaid expenses: Prepaid expenses are assets paid for before their use. When they are used, this asset’s value is reduced and an expense is recognized. Some examples include supplies, insurance, and depreciation.</item>
+<item>Unearned revenues: These are customer advanced payments for product or services yet to be provided. When the company provides the product or service, revenue is then recognized.</item>
+<item>Accrued revenues: Accrued revenues are revenues earned in a period but have yet to be recorded and no money has been collected. Accrued revenues are updated at the end of the period to recognize revenue and money owed to the company.</item>
+<item>Accrued expenses: Accrued expenses are incurred in a period but have yet to be recorded and no money has been paid. Accrued expenses are updated to reflect the expense and the company’s liability.</item>
+</list>
+</section>
+<section id="fs-idm362311328" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm318988096">
+<problem id="fs-idm322917696">
+<para id="fs-idm365252256"><link class="lo-reference" document="m67850"/>Which type of adjustment occurs when cash is either collected or paid, but the related income or expense is <emphasis effect="italics">not</emphasis> reportable in the current period?</para>
+<list id="fs-idm355851920" list-type="enumerated" number-style="upper-alpha">
+<item>accrual</item>
+<item>deferral</item>
+<item>estimate</item>
+<item>cull</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm364707296">
+<problem id="fs-idm361398528">
+<para id="fs-idm317697328"><link class="lo-reference" document="m67850"/>Which type of adjustment occurs when cash <emphasis effect="italics">is not</emphasis> collected or paid, but the related income or expense <emphasis effect="italics">is</emphasis> reportable in the current period?</para>
+<list id="fs-idm368256592" list-type="enumerated" number-style="upper-alpha">
+<item>accrual</item>
+<item>deferral</item>
+<item>estimate</item>
+<item>cull</item>
+</list>
+</problem>
+<solution id="fs-idm314751824">
+<para id="fs-idm372844192">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm366826016">
+<problem id="fs-idm319840656">
+<para id="fs-idm314584928"><link class="lo-reference" document="m67850"/>If an adjustment includes an entry to a payable or receivable account, which type of adjustment is it?</para>
+<list id="fs-idm320209824" list-type="enumerated" number-style="upper-alpha">
+<item>accrual</item>
+<item>deferral</item>
+<item>estimate</item>
+<item>cull</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm628788832">
+<problem id="fs-idm618011104">
+<para id="fs-idm360890304"><link class="lo-reference" document="m67850"/>If an adjustment includes an entry to Accumulated Depreciation, which type of adjustment is it?</para>
+<list id="fs-idm330236352" list-type="enumerated" number-style="upper-alpha">
+<item>accrual</item>
+<item>deferral</item>
+<item>estimate</item>
+<item>cull</item>
+</list>
+</problem>
+<solution id="fs-idm624265904">
+<para id="fs-idm372611648">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm628928720">
+<problem id="fs-idm357252560">
+<para id="fs-idm319917952"><link class="lo-reference" document="m67850"/>Rent collected in advance is an example of which of the following?</para>
+<list id="fs-idm639892048" list-type="enumerated" number-style="upper-alpha">
+<item>accrued expense</item>
+<item>accrued revenue</item>
+<item>deferred expense (prepaid expense)</item>
+<item>deferred revenue (unearned revenue)</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm365613904">
+<problem id="fs-idm361364528">
+<para id="fs-idm323140592"><link class="lo-reference" document="m67850"/>Rent paid in advance is an example of which of the following?</para>
+<list id="fs-idm324270224" list-type="enumerated" number-style="upper-alpha">
+<item>accrued expense</item>
+<item>accrued revenue</item>
+<item>deferred expense (prepaid expense)</item>
+<item>deferred revenue (unearned revenue)</item>
+</list>
+</problem>
+<solution id="fs-idm315847072">
+<para id="fs-idm631562880">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm364268864">
+<problem id="fs-idm364393392">
+<para id="fs-idm363808192"><link class="lo-reference" document="m67850"/>Salaries owed but <emphasis effect="italics">not</emphasis> yet paid is an example of which of the following?</para>
+<list id="fs-idm306639216" list-type="enumerated" number-style="upper-alpha">
+<item>accrued expense</item>
+<item>accrued revenue</item>
+<item>deferred expense (prepaid expense)</item>
+<item>deferred revenue (unearned revenue)</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm364493680">
+<problem id="fs-idm360730064">
+<para id="fs-idm367970592"><link class="lo-reference" document="m67850"/>Revenue earned but <emphasis effect="italics">not</emphasis> yet collected is an example of which of the following?</para>
+<list id="fs-idm372420688" list-type="enumerated" number-style="upper-alpha">
+<item>accrued expense</item>
+<item>accrued revenue</item>
+<item>deferred expense (prepaid expense)</item>
+<item>deferred revenue (unearned revenue)</item>
+</list>
+</problem>
+<solution id="fs-idm355366896">
+<para id="fs-idm359375616">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm306534800" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm366902528">
+<problem id="fs-idm344687152">
+<para id="fs-idm358524208"><link class="lo-reference" document="m67850"/>What parts of the accounting cycle require analytical processes, rather than methodical processes? Explain.</para>
+</problem>
+<solution id="fs-idm639670976">
+<para id="fs-idm372925488">Analyzing transactions (to enable journal entries) is the only analytical part of the accounting cycle. Analysis is required for both the original transaction entries and the adjusting entries. All of the other steps are just methodical posting of the entries, summarizing of the balances, regrouping of the accounts for financial reports, and closing of the accounts for year-end. Only the journal entries require decision-making processes.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm635110800">
+<problem id="fs-idm635110544">
+<para id="fs-idm364574896"><link class="lo-reference" document="m67850"/>Why is the adjusting process needed?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm618002448">
+<problem id="fs-idm618002192">
+<para id="fs-idm618001936"><link class="lo-reference" document="m67850"/>Name two types of adjusting journal entries that are commonly made before preparing financial statements? Explain, with examples.</para>
+</problem>
+<solution id="fs-idm618000896">
+<para id="fs-idm618000640">Accruals—when cash has not moved, but it is time to record the transaction (examples: Accounts Payable or Accounts Receivable). Deferrals—when cash has moved, but it is not time to record the transaction (examples: Prepaid Insurance or Unearned Revenue).</para>
+</solution>
+</exercise>
+<exercise id="fs-idm617999680">
+<problem id="fs-idm617999424">
+<para id="fs-idm617999168"><link class="lo-reference" document="m67850"/>Are there any accounts that would never have an adjusting entry? Explain.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm353812736">
+<problem id="fs-idm355745104">
+<para id="fs-idm323247216"><link class="lo-reference" document="m67850"/>Why do adjusting entries always include both balance sheet and income statement accounts?</para>
+</problem>
+<solution id="fs-idm357988272">
+<para id="fs-idm356736928">Adjusting entries always include at least one income statement account and at least one balance sheet account, because the adjustment process is done to shift revenues and expenses between the Balance Sheet and the Income Statement, depending on whether it is the correct period to include that income or expense (report on the Income Statement) or not (report on the Balance Sheet).</para>
+</solution>
+</exercise>
+<exercise id="fs-idm309094704">
+<problem id="fs-idm309094448">
+<para id="fs-idm309094192"><link class="lo-reference" document="m67850"/>Why are adjusting journal entries needed?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm309092096" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm309532832">
+<problem id="fs-idm319246896">
+<para id="fs-idm372742256"><link class="lo-reference" document="m67850"/>Identify which type of adjustment is indicated by these transactions. Choose accrued revenue, accrued expense, deferred revenue, or deferred expense.</para>
+<list id="fs-idm361937680" list-type="enumerated" number-style="upper-alpha">
+<item>rent paid in advance for use of property</item>
+<item>cash received in advance for future services</item>
+<item>supplies inventory purchased</item>
+<item>fees earned but not yet collected</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm314934288">
+<problem id="fs-idm357585712">
+<para id="fs-idm358020576"><link class="lo-reference" document="m67850"/>The following accounts were used to make year-end adjustments. Identify the related account that is associated with this account (the other account in the adjusting entry).</para>
+<list id="fs-idm357173936" list-type="enumerated" number-style="upper-alpha">
+<item>Salaries Payable</item>
+<item>Depreciation Expense</item>
+<item>Supplies</item>
+<item>Unearned Rent</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm363934752" class="exercise-set-b"><title>Exercise Set B</title><exercise id="fs-idm400693760">
+<problem id="fs-idm360647344">
+<para id="fs-idm413044464"><link class="lo-reference" document="m67850"/>Identify whether each of the following transactions, which are related to revenue recognition, are accrual, deferral, or neither.</para>
+<list id="fs-idm400073136" list-type="enumerated" number-style="upper-alpha">
+<item>provided legal services to client, who paid at the time of service</item>
+<item>received cash for legal services performed last month</item>
+<item>received cash from clients for future services to be provided</item>
+<item>provided legal services to client, to be collected next month</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm392701440">
+<problem id="fs-idm418215248">
+<para id="fs-idm394346256"><link class="lo-reference" document="m67850"/>Identify whether each of the following transactions, which are related to expense recognition, are accrual, deferral, or neither.</para>
+<list id="fs-idm388665968" list-type="enumerated" number-style="upper-alpha">
+<item>recorded employee salaries earned, to be paid in future month</item>
+<item>paid employees for current month salaries</item>
+<item>paid employee salaries for work performed in a prior month</item>
+<item>gave an employee an advance on future wages</item>
+</list>
+</problem>
+</exercise>
+
+<exercise id="fs-idm628829088">
+<problem id="fs-idm324485344">
+<para id="fs-idm356710768"><link class="lo-reference" document="m67850"/> and <link class="lo-reference" document="m67851"/>Indicate what impact the following adjustments have on the accounting equation, Assets = Liabilities + Equity (assume normal balances).</para><table id="fs-idm317729696" class="top-titled" summary="No Summary">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left">Impact 1</entry>
+<entry valign="bottom" align="left">Impact 2</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">A.</entry>
+<entry valign="bottom" align="left">Prepaid Insurance adjusted from $5,000 to $3,600</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">B.</entry>
+<entry valign="bottom" align="left">Interest Payable adjusted from $5,300 to $6,800</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C.</entry>
+<entry valign="bottom" align="left">Prepaid Insurance adjusted from $18,500 to $6,300</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">D.</entry>
+<entry valign="bottom" align="left">Supplies account balance $500, actual count $220</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm361038944">
+<problem id="fs-idm325610560">
+<para id="fs-idm315069424"><link class="lo-reference" document="m67850"/>What two accounts are affected by the needed adjusting entries?</para>
+<list id="fs-idm356995552" list-type="enumerated" number-style="upper-alpha">
+<item>supplies actual counts are lower than account balance</item>
+<item>employee salaries are due but not paid at year end</item>
+<item>insurance premiums that were paid in advance have expired</item>
+</list>
+</problem>
+</exercise>
+</section><section id="fs-idm361157312" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm317809408">
+<problem id="fs-idm367974240">
+<para id="fs-idm361190896"><link class="lo-reference" document="m67850"/>Identify which type of adjustment is indicated by these transactions. Choose accrued revenue, accrued expense, deferred revenue, deferred expense, or estimate.</para>
+<list id="fs-idm367326960" list-type="enumerated" number-style="upper-alpha">
+<item>utilities owed but not paid</item>
+<item>cash received in advance for future services</item>
+<item>supplies inventory purchased</item>
+<item>fees earned but not yet collected</item>
+<item>depreciation expense recorded</item>
+<item>insurance paid for future periods</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm357929872">
+<problem id="fs-idm343089824">
+<para id="fs-idm355845184"><link class="lo-reference" document="m67850"/>Identify which type of adjustment is associated with this account, and what is the other account in the adjustment? Choose accrued revenue, accrued expense, deferred revenue, or deferred expense.</para>
+<list id="fs-idm628731648" list-type="enumerated" number-style="upper-alpha">
+<item>accounts receivable</item>
+<item>interest payable</item>
+<item>prepaid insurance</item>
+<item>unearned rent</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm317626480">
+<problem id="fs-idm359922064">
+<para id="fs-idm306533312"><link class="lo-reference" document="m67850"/>Indicate what impact the following adjustments have on the accounting equation, Assets = Liabilities + Equity (assume normal balances).</para>
+
+<table id="fs-idm360469984" class="top-titled" summary="No Summary">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left">Impact 1</entry>
+<entry valign="bottom" align="left">Impact 2</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">A.</entry>
+<entry valign="bottom" align="left">Unearned Fees adjusted from $7,000 to $5,000</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">B.</entry>
+<entry valign="bottom" align="left">Recorded depreciation expense of $12,000</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C.</entry>
+<entry valign="bottom" align="left">Prepaid Insurance adjusted from $18,500 to $6,300</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">D.</entry>
+<entry valign="bottom" align="left">Supplies account balance $500, actual count $220</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm319437712">
+<problem id="fs-idm314766768">
+<para id="fs-idm345657424"><link class="lo-reference" document="m67850"/>What two accounts are affected by each of these adjustments?</para>
+<list id="fs-idm356991104" list-type="enumerated" number-style="upper-alpha">
+<item>billed customers for services provided</item>
+<item>adjusted prepaid insurance to correct</item>
+<item>recorded depreciation expense</item>
+<item>recorded unpaid utility bill</item>
+<item>adjusted supplies inventory to correct</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm641061744" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm629129968">
+<problem id="fs-idm366789824">
+<para id="fs-idm625149408"><link class="lo-reference" document="m67850"/>Identify which type of adjustment is indicated by these transactions. Choose accrued revenue, accrued expense, deferred revenue, or deferred expense.</para>
+<list id="fs-idm306415296" list-type="enumerated" number-style="upper-alpha">
+<item>fees earned and billed, but not collected</item>
+<item>recorded depreciation expense</item>
+<item>fees collected in advance of services</item>
+<item>salaries owed but not yet paid</item>
+<item>property rentals costs, prepaid for future months</item>
+<item>inventory purchased for cash</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm368295104">
+<problem id="fs-idm370583424">
+<para id="fs-idm368222192"><link class="lo-reference" document="m67850"/>Identify which type of adjustment is associated with this account, and what the other account is in the adjustment. Choose accrued revenue, accrued expense, deferred revenue, or deferred expense.</para>
+<list id="fs-idm362405328" list-type="enumerated" number-style="upper-alpha">
+<item>Salaries Payable</item>
+<item>Interest Receivable</item>
+<item>Unearned Fee Revenue</item>
+<item>Prepaid Rent</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm344670800">
+<problem id="fs-idm359604800">
+<para id="fs-idm372167088"><link class="lo-reference" document="m67850"/>Indicate what impact the following adjustments have on the accounting equation: Assets = Liabilities + Equity (assume normal balances).</para>
+<table id="fs-idm361143776" class="top-titled" summary="No Summary">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left">Impact 1</entry>
+<entry valign="bottom" align="left">Impact 2</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">A.</entry>
+<entry valign="bottom" align="left">Unearned Rent adjusted from $15,000 to $9,500</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">B.</entry>
+<entry valign="bottom" align="left">Recorded salaries payable of $3,750</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C.</entry>
+<entry valign="bottom" align="left">Prepaid Rent adjusted from $6,000 to $4,000</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">D.</entry>
+<entry valign="bottom" align="left">Recorded depreciation expense of $5,500</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm364202480">
+<problem id="fs-idm314588800">
+<para id="fs-idm370507280"><link class="lo-reference" document="m67850"/>What two accounts are affected by each of these adjustments?</para>
+<list id="fs-idm364855856" list-type="enumerated" number-style="upper-alpha">
+<item>recorded accrued interest on note payable</item>
+<item>adjusted unearned rent to correct</item>
+<item>recorded depreciation for the year</item>
+<item>adjusted salaries payable to correct</item>
+<item>sold merchandise to customers on account</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm635024688" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm364159424">
+<problem id="fs-idm631955088">
+<para id="fs-idm364739936"><link class="lo-reference" document="m67850"/>Search the US Securities and Exchange Commission website (https://www.sec.gov/edgar/searchedgar/companysearch.html), and locate the latest Form 10-K for a company you would like to analyze. Submit a short memo:</para>
+<list id="fs-idm309499760" list-type="bulleted">
+<item>State the name and ticker symbol of the company you have chosen.</item>
+<item>Review the company’s end-of-period Balance Sheet for the most recent annual report, in search of accruals and deferrals.</item>
+<item>List the name and account balance of at least four accounts that represent accruals or deferrals—these could be accrued revenues, accrued expenses, deferred (unearned) revenues, or deferred (prepaid) expenses.</item>
+<item>Provide the web link to the company’s Form 10-K, to allow accurate verification of your answers.</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+
+<glossary>
+<definition id="fs-idm631456448">
+<term>accrual</term>
+<meaning id="fs-idm631455808">type of adjusting entry that accumulates during a period, where an amount was previously unrecorded</meaning>
+</definition>
+<definition id="fs-idm631455296">
+<term>accrued expense</term>
+<meaning id="fs-idm631454656">expense incurred in a period but not yet recorded, and no money has been paid</meaning>
+</definition>
+<definition id="fs-idm317774368">
+<term>accrued revenue</term>
+<meaning id="fs-idm639862080">revenue earned in a period but not yet recorded, and no money has been collected</meaning>
+</definition>
+<definition id="fs-idm632252416">
+<term>adjusting entries</term>
+<meaning id="fs-idm364324864">update accounting records at the end of a period for any transactions that have not yet been recorded</meaning>
+</definition>
+<definition id="fs-idm624236512">
+<term>book value</term>
+<meaning id="fs-idm322592192">difference between the asset’s value (cost) and accumulated depreciation; also, value at which assets or liabilities are recorded in a company’s financial statements</meaning>
+</definition>
+<definition id="fs-idm615662864">
+<term>contra account</term>
+<meaning id="fs-idm356861856">account paired with another account type that has an opposite normal balance to the paired account; reduces or increases the balance in the paired account at the end of a period</meaning>
+</definition>
+<definition id="fs-idm361882640">
+<term>deferral</term>
+<meaning id="fs-idm316985152">prepaid expense and revenue accounts that have delayed recognition until they have been used or earned</meaning>
+</definition>
+<definition id="fs-idm372273616">
+<term>useful life</term>
+<meaning id="fs-idm322838736">time period over which an asset cost is allocated</meaning>
+</definition>
+</glossary>
+</document>

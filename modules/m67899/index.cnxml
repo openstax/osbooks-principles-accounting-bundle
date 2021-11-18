@@ -1,0 +1,247 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Describe Accounting for Intangible Assets and Record Related Transactions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67899</md:content-id>
+  <md:title>Describe Accounting for Intangible Assets and Record Related Transactions</md:title>
+  <md:abstract/>
+  <md:uuid>c0ac006a-2812-409f-8281-7f2ca910570f</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm234441712">Intangible assets can be difficult to understand and incorporate into the decision-making process. In this section we explain them in more detail and provide examples of how to amortize each type of intangible asset.</para>
+<section id="fs-idm243512464">
+<title>Fundamentals of Intangible Assets</title>
+<para id="fs-idm218235904">Intangibles are recorded at their acquisition cost, as are tangible assets. The costs of internally generated intangible assets, such as a patent developed through research and development, are recorded as expenses when incurred. An exception is legal costs to register or defend an intangible asset. For example, if a company incurs legal costs to defend a patent it has developed internally, the costs associated with developing the patent are recorded as an expense, but the legal costs associated with defending the patent would be capitalized as a patent intangible asset.</para>
+<para id="fs-idm259066784">Amortization of intangible assets is handled differently than depreciation of tangible assets. Intangible assets are typically amortized using the straight-line method; there is typically no salvage value, as the usefulness of the asset is used up over its lifetime, and no accumulated amortization account is needed. Additionally, based on regulations, certain intangible assets are restricted and given limited life spans, while others are infinite in their economic life and not amortized.</para>
+</section>
+<section id="fs-idm224990320">
+<title>Copyrights</title>
+<para id="fs-idm248224768">While copyrights have a finite life span of 70 years beyond the author’s death, they are amortized over their estimated useful life. Therefore, if a company acquired a copyright on a new graphic novel for $10,000 and estimated it would be able to sell that graphic novel for the next ten years, it would amortize $1,000 a year ($10,000/ten years), and the journal entry would be as shown. Assume that the novel began sales on January 1, 2019.</para>
+<media id="fs-idm250965728" alt="Journal entry dated December 31, 2019 debiting Amortization Expense for 1,000 and crediting Copyright for 1,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F11_05_Jorn01_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm221598192">
+<title>Patents</title>
+<para id="fs-idm236916464">Patents are issued to the inventor of the product by the federal government and last twenty years. All costs associated with creating the product being patented (such as research and development costs) are expensed; however, direct costs to obtain the patent could be capitalized. Otherwise, patents are capitalized only when purchased. Like copyrights, patents are amortized over their useful life, which can be shorter than twenty years due to changing technology. Assume Mech Tech purchased the patent for a new pump system. The patent cost $20,000, and the company expects the pump to be a useful product for the next twenty years. Mech Tech will then amortize the $20,000 over the next twenty years, which is $1,000 a year.</para>
+<media id="fs-idm251333248" alt="Journal entry dated December 31, 2019 debiting Amortization Expense for 1,000 and crediting Patent for 1,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F11_05_Jorn02_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm250699232">
+<title>Trademarks</title>
+<para id="fs-idm247189184">Companies can register their trademarks with the federal government for ten years with the opportunity to renew the trademark every ten years. Trademarks are recorded as assets only when they are purchased from another company and are valued based on market price at the time of purchase. In this case, these trademarks are amortized over the expected useful life. In some cases, the trademark may be seen as having an indefinite life, in which case there would be no amortization.</para>
+</section>
+<section id="fs-idm230656016">
+<title>Goodwill</title>
+<para id="fs-idm770210208">From an accounting standpoint, goodwill is internally generated and is not recorded as an asset unless it is purchased during the acquisition of another company. The purchase of goodwill occurs when one company buys another company for an amount greater than the total value of the company’s net assets. The value difference between net assets and the purchase price is then recorded as goodwill on the purchaser’s financial statements. For example, say the London Hoops professional basketball team was sold for $10 million. The new owner received net assets of $7 million, so the goodwill (value of the London Hoops above its net assets) is $3 million. The following journal entry shows how the new owner would record this purchase.</para>
+<media id="fs-idm248921792" alt="Journal entry dated Jan. 1, 2019 debiting Net Assets for 7,000,000 and Goodwill for 3,000,000 and crediting Cash for 10,000,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F11_05_Jorn03_img.jpg"/>
+</media>
+<para id="fs-idm225456496">Goodwill does not have an expected life span and therefore is not amortized. However, a company is required to compare the book value of goodwill to its market value at least annually to determine if it needs to be adjusted. This comparison process is called <emphasis effect="italics">testing for impairment</emphasis>. If the market value of goodwill is found to be lower than the book value, then goodwill needs to be reduced to its market value. If goodwill is impaired, it is reduced with a credit, and an impairment loss is debited. Goodwill is never increased beyond its original cost. For example, if the new owner of London Hoops assesses that London Hoops now has a fair value of $9,000,000 rather than the $10,000,000 of the original purchase, the owner would need to record the impairment as shown in the following journal entry.</para>
+<media id="fs-idm248956768" alt="Journal entry dated Dec. 31, 2019 debiting Impairment Loss for 1,000,000 and crediting Goodwill for 1,000,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F11_05_Jorn04_img.jpg"/>
+</media>
+<note id="fs-idm246742448" class="concepts-practice">
+<title>Microsoft’s Goodwill</title>
+<para id="fs-idm252381456">In 2016, <emphasis class="colored-text">Microsoft</emphasis> bought <emphasis class="colored-text">LinkedIn</emphasis> for $25 billion. <emphasis class="colored-text">Microsoft</emphasis> wanted the brand, website platform, and software, which are intangible assets of <emphasis class="colored-text">LinkedIn</emphasis>, and therefore <emphasis class="colored-text">Microsoft</emphasis> only received $4 billion in net assets. The overpayment by <emphasis class="colored-text">Microsoft</emphasis> is not necessarily a bad business decision, but rather the premium or value of those intangible assets that <emphasis class="colored-text">LinkedIn</emphasis> owned and <emphasis class="colored-text">Microsoft</emphasis> wanted. The $21 billion difference will be listed on <emphasis class="colored-text">Microsoft</emphasis>’s balance sheet as goodwill.</para>
+</note>
+<note id="fs-idm252597184" class="link-to-learning">
+<para id="fs-idm265139056"><emphasis class="colored-text">Apple Inc.</emphasis> had goodwill of $5,717,000,000 on its 2017 balance sheet. Explore <link url="https://openstax.org/l/50AppleForm10K"><emphasis class="colored-text">Apple, Inc.</emphasis>’s U.S. Securities and Exchange Commission 10-K Filing</link> for notes that discuss goodwill and whether <emphasis class="colored-text">Apple</emphasis> has had to adjust for the impairment of this asset in recent years.</para>
+</note>
+</section>
+<section id="fs-idm233933952" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm264108592" list-type="bulleted" bullet-style="bullet">
+<item>Intangible assets are expensed using amortization. This is similar to depreciation but is credited to the intangible asset rather than to a contra account.</item>
+<item>Finite intangible assets are typically amortized using the straight-line method over the useful life of the asset.</item>
+<item>Intangible assets with an indefinite life are not amortized but are assessed yearly for impairment.</item>
+</list>
+</section>
+<section id="fs-idm261381184" class="multiple-choice"><title>Multiple Choice</title><exercise id="fs-idm263715680">
+<problem id="fs-idm250806704">
+<para id="fs-idm255452800"><link class="lo-reference" document="m67899"/>The amortization process is like what other process?</para>
+<list id="fs-idm252788368" list-type="enumerated" number-style="upper-alpha">
+<item>depreciation</item>
+<item>valuation</item>
+<item>recognizing revenue</item>
+<item>capitalization</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm775308368">
+<problem id="fs-idm265166192">
+<para id="fs-idm253811536"><link class="lo-reference" document="m67899"/>How are intangible assets with an indefinite life treated?</para>
+<list id="fs-idm262373360" list-type="enumerated" number-style="upper-alpha">
+<item>They are depreciated.</item>
+<item>They are amortized.</item>
+<item>They are depleted.</item>
+<item>They are tested yearly for impairment.</item>
+</list>
+</problem>
+<solution id="fs-idm236956736">
+<para id="fs-idm261165936">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm260890288">
+<problem id="fs-idm248739776">
+<para id="fs-idm250821264"><link class="lo-reference" document="m67899"/>If the market value of goodwill is found to be lower than the book value, goodwill is __________ and must be adjusted by __________.</para>
+<list id="fs-idm253007648" list-type="enumerated" number-style="upper-alpha">
+<item>worthless; reducing it with a credit</item>
+<item>impaired; reducing it with a credit</item>
+<item>impaired; increasing it with a credit</item>
+<item>worthless; increasing it with a credit</item>
+</list>
+</problem>
+</exercise>
+
+
+<exercise id="fs-idm388457440">
+<problem id="fs-idm344533888">
+<para id="fs-idm385646496"><link class="lo-reference" document="m67899"/>Which of the following represents an event that is less routine when accounting for long-term assets?</para>
+<list id="fs-idm385670432" list-type="enumerated" number-style="upper-alpha">
+<item>recording an asset purchase</item>
+<item>recording depreciation on an asset</item>
+<item>recording accumulated depreciation for an asset or asset category</item>
+<item>changing the estimated useful life of an asset</item>
+</list>
+</problem>
+<solution id="fs-idm368247968">
+<para id="fs-idm381278544">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm339939952">
+<problem id="fs-idm338718576">
+<para id="fs-idm387386672"><link class="lo-reference" document="m67899"/>Which of the following is true regarding special issues in accounting for long-term assets?</para>
+<list id="fs-idm377758688" list-type="enumerated" number-style="upper-alpha">
+<item>An asset’s useful life can never be changed.</item>
+<item>An asset’s salvage value can never be changed.</item>
+<item>Depreciation expense calculations may need to be updated using new and more accurate estimates.</item>
+<item>Asset values are never reduced in value due to physical deterioration.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm394959376">
+<problem id="fs-idm386930128">
+<para id="fs-idm340105536"><link class="lo-reference" document="m67899"/>The loss in value from all causes within a property <emphasis effect="italics">except</emphasis> those due to physical deterioration is known as which of the following?</para>
+<list id="fs-idm389562976" list-type="enumerated" number-style="upper-alpha">
+<item>functional obsolescence</item>
+<item>obsolescence</item>
+<item>true obsolescence</item>
+<item>deterioration</item>
+</list>
+</problem>
+<solution id="fs-idm395138848">
+<para id="fs-idm370330576">A</para>
+</solution>
+</exercise>
+</section><section id="fs-idm230127760" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm261961824">
+<problem id="fs-idm247276640">
+<para id="fs-idm265741216"><link class="lo-reference" document="m67899"/>Explain the differences between the process of amortizing intangible assets and the process of depreciating tangible assets.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm265731744">
+<problem id="fs-idm248952752">
+<para id="fs-idm265803360"><link class="lo-reference" document="m67899"/>What is goodwill, and what are the unique aspects of accounting for it?</para>
+</problem>
+<solution id="fs-idm247090000">
+<para id="fs-idm262427184">Goodwill is internally generated, but it is not recorded as an asset unless (and only when) one company acquires another company at a price greater than the total value of the net assets being purchased. The purchaser will record goodwill for the difference between the fair value of net assets acquired and the purchase price. Goodwill is not amortized and will be tested annually for impairment.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm249170592" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm249173568">
+<problem id="fs-idm261250000">
+<para id="fs-idm257053056"><link class="lo-reference" document="m67899"/>The following intangible assets were purchased by Goldstein Corporation:</para>
+<list id="fs-idm264965984" list-type="enumerated" number-style="upper-alpha">
+<item>A patent with a remaining legal life of twelve years is bought, and Goldstein expects to be able to use it for seven years.</item>
+<item>A copyright with a remaining life of thirty years is purchased, and Goldstein expects to be able to use it for ten years.</item>
+</list>
+<para id="fs-idm775286864">For each of these situations, determine the useful life over which Goldstein will amortize the intangible assets.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm250751584" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm258171216">
+<problem id="fs-idm257402848">
+<para id="fs-idm770021232"><link class="lo-reference" document="m67899"/>The following intangible assets were purchased by Hanna Unlimited:</para>
+<list id="fs-idm932736064" list-type="enumerated" number-style="upper-alpha">
+<item>A patent with a remaining legal life of twelve years is bought, and Hanna expects to be able to use it for six years. It is purchased at a cost of $48,000.</item>
+<item>A copyright with a remaining life of thirty years is purchased, and Hanna expects to be able to use it for ten years. It is purchased for $70,000.</item>
+</list>
+<para id="fs-idm263533584">Determine the annual amortization amount for each intangible asset.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm781349280" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm766308048">
+<problem id="fs-idm781399280">
+<para id="fs-idm265753840"><link class="lo-reference" document="m67899"/>For each of the following unrelated situations, calculate the annual amortization expense and prepare a journal entry to record the expense:</para>
+<list id="fs-idm248186224" list-type="enumerated" number-style="upper-alpha">
+<item>A patent with a ten-year remaining legal life was purchased for $300,000. The patent will be usable for another eight years.</item>
+<item>A patent was acquired on a new smartphone. The cost of the patent itself was only $24,000, but the market value of the patent is $600,000. The company expects to be able to use this patent for all twenty years of its life.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm262283440">
+<problem id="fs-idm253127328">
+<para id="fs-idm252897568"><link class="lo-reference" document="m67899"/>Buchanan Imports purchased McLaren Corporation for $5,000,000 cash when McLaren had net assets worth $4,500,000.</para>
+<list id="fs-idm248327376" list-type="enumerated" number-style="upper-alpha">
+<item>What is the amount of goodwill in this transaction?</item>
+<item>What is Buchanan’s journal entry to record the purchase of McLaren?</item>
+<item>What journal entry should Buchanan write when the company internally generates additional goodwill in the year following the purchase of McLaren?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm250203360" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm388667376">
+<problem id="fs-idm397864320">
+<para id="fs-idm344036896"><link class="lo-reference" document="m67898"/>Prepare the assets section of the balance sheet as of December 31 for Hooper’s International using the following information:</para>
+<media id="fs-idm388107984" class="scaled-down" alt="Cash 900,000; Equipment $580,000; Accounts receivable $90,000; Copyright $60,000 (after amortization expense was recorded); Copyright amortization expense $2,000; Inventory $120,000; Patent $20,000; Building $1,500,000; Depreciation expense building $56,000; Depreciation expense equipment $43,000; Accumulated depreciation building $112,000; Accumulated depreciation equipment $86,000; Sales revenue $590,000; Cost of goods sold $235,000; Selling, general, and administrative expenses $110,000; Goodwill $29,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F11_04_PB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm229963040">
+<problem id="fs-idm252754944">
+<para id="fs-idm262209584"><link class="lo-reference" document="m67899"/>For each of the following unrelated situations, calculate the annual amortization expense and prepare a journal entry to record the expense:</para>
+<list id="fs-idm788614832" list-type="enumerated" number-style="upper-alpha">
+<item>A patent with a seventeen-year remaining legal life was purchased for $850,000. The patent will be usable for another six years.</item>
+<item>A patent was acquired on a new tablet. The cost of the patent itself was only $12,000, but the market value of the patent is $150,000. The company expects to be able to use this patent for all twenty years of its life.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm261125776">
+<problem id="fs-idm254984896">
+<para id="fs-idm220613776"><link class="lo-reference" document="m67899"/>On May 1, 2015, Zoe Inc. purchased Branta Corp. for $15,000,000 in cash. They only received $12,000,000 in net assets. In 2016, the market value of the goodwill obtained from Branta Corp. was valued at $4,000,000, but in 2017 it dropped to $2,000,000. Prepare the journal entry for the creation of goodwill and the entry to record any impairments to it in subsequent years.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm263960640">
+<problem id="fs-idm233974000">
+<para id="fs-idm259738016"><link class="lo-reference" document="m67899"/>Farm Fresh Agriculture Company purchased Sunny Side Egg Distribution for $400,000 cash when Sunny Side had net assets worth $390,000.</para>
+<list id="fs-idm255782928" list-type="enumerated" number-style="upper-alpha">
+<item>What is the amount of goodwill in this transaction?</item>
+<item>What is Farm Fresh Agriculture Company’s journal entry to record the purchase of Sunny Side Egg Distribution?</item>
+<item>What journal entry should Farm Fresh Agriculture Company write when the company tests for impairment and determines that goodwill is worth $1,000 in the year following the purchase of Sunny Side?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm255747904" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm251177952">
+<problem id="fs-idm225117760">
+<para id="fs-idm264040608"><link class="lo-reference" document="m67899"/>Malone Industries has been in business for five years and has been very successful. In the past year, it expanded operations by buying Hot Metal Manufacturing for a price greater than the value of the net assets purchased. In the past year, the customer base has expanded much more than expected, and the company’s owners want to increase the goodwill account. Your CPA firm has been hired to help Malone prepare year-end financial statements, and your boss has asked you to talk to Malone’s managers about goodwill and whether an adjustment can be made to the goodwill account. How do you respond to the owners and managers?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+</document>

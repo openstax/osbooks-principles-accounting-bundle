@@ -1,0 +1,592 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Record and Post the Common Types of Adjusting Entries</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67851</md:content-id>
+  <md:title>Record and Post the Common Types of Adjusting Entries</md:title>
+  <md:abstract/>
+  <md:uuid>2cca6129-9350-4e36-a1a9-4fd04eed4ad2</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm255545952">Before beginning adjusting entry examples for Printing Plus, let’s consider some rules governing adjusting entries:</para>
+<list id="fs-idm270031568" list-type="bulleted">
+<item>Every adjusting entry will have at least one income statement account and one balance sheet account.</item>
+<item>Cash will never be in an adjusting entry.</item>
+<item>The adjusting entry records the change in amount that occurred during the period.</item>
+</list>
+<para id="fs-idm488358560">What are “income statement” and “balance sheet” accounts? Income statement accounts include revenues and expenses. Balance sheet accounts are assets, liabilities, and stockholders’ equity accounts, since they appear on a balance sheet. The second rule tells us that cash can never be in an adjusting entry. This is true because paying or receiving cash triggers a journal entry. This means that every transaction with cash will be recorded at the time of the exchange. We will not get to the adjusting entries and have cash paid or received which has not already been recorded. If accountants find themselves in a situation where the cash account must be adjusted, the necessary adjustment to cash will be a <emphasis effect="italics">correcting entry</emphasis> and not an adjusting entry.</para>
+<para id="fs-idm245161008">With an adjusting entry, the amount of change occurring during the period is recorded. For example, if the supplies account had a $300 balance at the beginning of the month and $100 is still available in the supplies account at the end of the month, the company would record an adjusting entry for the $200 used during the month (300 – 100). Similarly for unearned revenues, the company would record how much of the revenue was earned during the period.</para>
+<para id="fs-idm277720192">Let’s now consider new transaction information for Printing Plus.</para>
+<note id="fs-idm391294240" class="concepts-practice">
+<title>Earnings Management</title>
+<para id="fs-idm393420816">Recording adjusting entries seems so cut and dry. It looks like you just follow the rules and all of the numbers come out 100 percent correct on all financial statements. But in reality this is not always the case. Just the fact that you have to make estimates in some cases, such as depreciation estimating residual value and useful life, tells you that numbers will not be 100 percent correct unless the accountant has ESP. Some companies engage in something called earnings management, where they follow the rules of accounting mostly but they stretch the truth a little to make it look like they are more profitable. Some companies do this by recording revenue before they should. Others leave assets on the books instead of expensing them when they should to decrease total expenses and increase profit.</para>
+<para id="fs-idm409163472">Take Mexico-based home-building company <emphasis class="colored-text">Desarrolladora Homex S.A.B. de C.V.</emphasis> This company reported revenue earned on more than 100,000 homes they had not even build yet. The SEC’s complaint states that Homex reported revenues from a project site where every planned home was said to have been “built and sold by Dec. 31, 2011. Satellite images of the project site on March 12, 2012, show it was still largely undeveloped and the vast majority of supposedly sold homes remained unbuilt.”<footnote id="fs-idm390457536">U.S. Securities and Exchange Commission. “SEC Charges Mexico-Based Homebuilder in $3.3 Billion Accounting Fraud. Press Release.” March 3, 2017. https://www.sec.gov/news/pressrelease/2017-60.html</footnote></para>
+<para id="fs-idm400102176">Is managing your earnings illegal? In some situations it is just an unethical stretch of the truth easy enough to do because of the estimates made in adjusting entries. You can simply change your estimate and insist the new estimate is really better when maybe it is your way to improve the bottom line, for example, changing your annual depreciation expense calculated on expensive plant assets from assuming a ten-year useful life, a reasonable estimated expectation, to a twenty-year useful life, not so reasonable but you insist your company will be able to use these assets twenty years while knowing that is a slim possibility. Doubling the useful life will cause 50% of the depreciation expense you would have had. This will make a positive impact on net income. This method of earnings management would probably not be considered illegal but is definitely a breach of ethics. In other situations, companies manage their earnings in a way that the SEC believes is actual fraud and charges the company with the illegal activity.</para>
+</note>
+<section id="fs-idm270404432">
+<title>Recording Common Types of Adjusting Entries</title>
+<para id="fs-idm277654144">Recall the transactions for Printing Plus discussed in <link document="m67842">Analyzing and Recording Transactions</link>.</para>
+<table id="fs-idm509771248" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 3, 2019</entry>
+<entry valign="top" align="left">issues $20,000 shares of common stock for cash</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 5, 2019</entry>
+<entry valign="top" align="left">purchases equipment on account for $3,500, payment due within the month</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 9, 2019</entry>
+<entry valign="top" align="left">receives $4,000 cash in advance from a customer for services not yet rendered</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 10, 2019</entry>
+<entry valign="top" align="left">provides $5,500 in services to a customer who asks to be billed for the services</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 12, 2019</entry>
+<entry valign="top" align="left">pays a $300 utility bill with cash</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 14, 2019</entry>
+<entry valign="top" align="left">distributed $100 cash in dividends to stockholders</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 17, 2019</entry>
+<entry valign="top" align="left">receives $2,800 cash from a customer for services rendered</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 18, 2019</entry>
+<entry valign="top" align="left">paid in full, with cash, for the equipment purchase on January 5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 20, 2019</entry>
+<entry valign="top" align="left">paid $3,600 cash in salaries expense to employees</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 23, 2019</entry>
+<entry valign="top" align="left">received cash payment in full from the customer on the January 10 transaction</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 27, 2019</entry>
+<entry valign="top" align="left">provides $1,200 in services to a customer who asks to be billed for the services</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Jan. 30, 2019</entry>
+<entry valign="top" align="left">purchases supplies on account for $500, payment due within three months</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm495506176">On January 31, 2019, Printing Plus makes adjusting entries for the following transactions.</para>
+<list id="fs-idm268873584" list-type="enumerated" number-style="arabic">
+<item>On January 31, Printing Plus took an inventory of its supplies and discovered that $100 of supplies had been used during the month.</item>
+<item>The equipment purchased on January 5 depreciated $75 during the month of January.</item>
+<item>Printing Plus performed $600 of services during January for the customer from the January 9 transaction.</item>
+<item>Reviewing the company bank statement, Printing Plus discovers $140 of interest earned during the month of January that was previously uncollected and unrecorded.</item>
+<item>Employees earned $1,500 in salaries for the period of January 21–January 31 that had been previously unpaid and unrecorded.</item>
+</list>
+<para id="fs-idm273841616">We now record the adjusting entries from January 31, 2019, for Printing Plus.</para>
+<para id="fs-idm272667248"><emphasis effect="bold">Transaction 13:</emphasis> On January 31, Printing Plus took an inventory of its supplies and discovered that $100 of supplies had been used during the month.</para>
+<para id="fs-idm273003312"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm278335168" list-type="bulleted">
+<item>$100 of supplies were used during January. Supplies is an asset that is decreasing (credit).</item>
+<item>Supplies is a type of prepaid expense that, when used, becomes an expense. Supplies Expense would increase (debit) for the $100 of supplies used during January.</item>
+</list>
+<media id="fs-idm269572800" alt="Journal entry, dated January 31, 2019. Debit Supplies Expense 100. Credit Supplies 100. Explanation: “To recognize supply usage for January.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_Jorn01_img.jpg"/>
+</media>
+<para id="fs-idm275216704"><emphasis effect="bold">Impact on the financial statements:</emphasis> Supplies is a balance sheet account, and Supplies Expense is an income statement account. This satisfies the rule that each adjusting entry will contain an income statement and balance sheet account. We see total assets decrease by $100 on the balance sheet. Supplies Expense increases overall expenses on the income statement, which reduces net income.</para>
+<media id="fs-idm275444784" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: minus $100 under Assets; plus $0 under Liabilities; minus $100 under Stockholders’ Equity. Horizontal lines under Assets, Liabilities, and Stockholders’ Equity. Totals: minus $100 under Assets; $0 under Liabilities; minus $100 under Stockholders’ Equity.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_TAcct01_img.jpg"/>
+</media>
+<para id="fs-idm247896144"><emphasis effect="bold">Transaction 14:</emphasis> The equipment purchased on January 5 depreciated $75 during the month of January.</para>
+<para id="fs-idm509784048"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm280943808" list-type="bulleted">
+<item>Equipment lost value in the amount of $75 during January. This depreciation will impact the Accumulated Depreciation–Equipment account and the Depreciation Expense–Equipment account. While we are not doing depreciation calculations here, you will come across more complex calculations in the future.</item>
+<item>Accumulated Depreciation–Equipment is a contra asset account (contrary to Equipment) and increases (credit) for $75.</item>
+<item>Depreciation Expense–Equipment is an expense account that is increasing (debit) for $75.</item>
+</list>
+<media id="fs-idm277092784" alt="Journal entry, dated January 31, 2019. Debit Depreciation Expense: Equipment 75. Credit Accumulated Depreciation: Equipment 75. Explanation: “To recognize equipment depreciation for January.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_Jorn02_img.jpg"/>
+</media>
+<para id="fs-idm274948416"><emphasis effect="bold">Impact on the financial statements:</emphasis> Accumulated Depreciation–Equipment is a contra account to Equipment. When calculating the book value of Equipment, Accumulated Depreciation–Equipment will be deducted from the original cost of the equipment. Therefore, total assets will decrease by $75 on the balance sheet. Depreciation Expense will increase overall expenses on the income statement, which reduces net income.</para>
+<media id="fs-idm531580160" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: minus $75 under Assets; plus $0 under Liabilities; minus $75 under Stockholders’ Equity. Horizontal lines under Assets, Liabilities, and Stockholders’ Equity. Totals: minus $75 under Assets; $0 under Liabilities; minus $75 under Stockholders’ Equity.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_TAcct02_img.jpg"/>
+</media>
+<para id="fs-idm271946768"><emphasis effect="bold">Transaction 15:</emphasis> Printing Plus performed $600 of services during January for the customer from the January 9 transaction.</para>
+<para id="fs-idm269704720"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm271633392" list-type="bulleted">
+<item>The customer from the January 9 transaction gave the company $4,000 in advanced payment for services. By the end of January the company had earned $600 of the advanced payment. This means that the company still has yet to provide $3,400 in services to that customer.</item>
+<item>Since some of the unearned revenue is now earned, Unearned Revenue would decrease. Unearned Revenue is a liability account and decreases on the debit side.</item>
+<item>The company can now recognize the $600 as earned revenue. Service Revenue increases (credit) for $600.</item>
+</list>
+<media id="fs-idm272507568" alt="Journal entry, dated January 31, 2019. Debit Unearned Revenue 600. Credit Service Revenue 600. Explanation: “To recognize revenue earned from January 9 transaction.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_Jorn03_img.jpg"/>
+</media>
+<para id="fs-idm524659696"><emphasis effect="bold">Impact on the financial statements:</emphasis> Unearned revenue is a liability account and will decrease total liabilities and equity by $600 on the balance sheet. Service Revenue will increase overall revenue on the income statement, which increases net income.</para>
+<media id="fs-idm223008368" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: $0 under Assets; minus $600 under Liabilities; plus $600 under Stockholders’ Equity. Horizontal lines under Assets, Liabilities, and Stockholders’ Equity. Totals: $0 under Assets; minus $600 under Liabilities; plus $600 under Stockholders’ Equity.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_TAcct03_img.jpg"/>
+</media>
+<para id="fs-idm282565472"><emphasis effect="bold">Transaction 16:</emphasis> Reviewing the company bank statement, Printing Plus discovers $140 of interest earned during the month of January that was previously uncollected and unrecorded.</para>
+<para id="fs-idm274589360"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm269712544" list-type="bulleted">
+<item>Interest is revenue for the company on money kept in a savings account at the bank. The company only sees the bank statement at the end of the month and needs to record interest revenue that has not yet been collected or recorded.</item>
+<item>Interest Revenue is a revenue account that increases (credit) for $140.</item>
+<item>Since Printing Plus has yet to collect this interest revenue, it is considered a receivable. Interest Receivable increases (debit) for $140.</item>
+</list>
+<media id="fs-idm271576464" alt="Journal entry, dated January 31, 2019. Debit Interest Receivable 140. Credit Interest Revenue 140. Explanation: “To recognize interest revenue earned but not yet collected.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_Jorn04_img.jpg"/>
+</media>
+<para id="fs-idm518689552"><emphasis effect="bold">Impact on the financial statements:</emphasis> Interest Receivable is an asset account and will increase total assets by $140 on the balance sheet. Interest Revenue will increase overall revenue on the income statement, which increases net income.</para>
+<media id="fs-idm277753136" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: plus $140 under Assets; $0 under Liabilities; plus $140 under Stockholders’ Equity. Horizontal lines under Assets, Liabilities, and Stockholders’ Equity. Totals: plus $140 under Assets; $0 under Liabilities; plus $140 under Stockholders’ Equity.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_TAcct04_img.jpg"/>
+</media>
+<para id="fs-idm281923056"><emphasis effect="bold">Transaction 17:</emphasis> Employees earned $1,500 in salaries for the period of January 21–January 31 that had been previously unpaid and unrecorded.</para>
+<para id="fs-idm282089616"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm280920656" list-type="bulleted">
+<item>Salaries have accumulated since January 21 and will not be paid in the current period. Since the salaries expense occurred in January, the expense recognition principle requires recognition in January.</item>
+<item>Salaries Expense is an expense account that is increasing (debit) for $1,500.</item>
+<item>Since the company has not yet paid salaries for this time period, Printing Plus owes the employees this money. This creates a liability for Printing Plus. Salaries Payable increases (credit) for $1,500.</item>
+</list>
+<media id="fs-idm271635744" alt="Journal entry, dated January 31, 2019. Debit Salaries Expense 1,500. Credit Salaries Payable 1,500. Explanation: “To recognize salaries expense but not yet paid.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_Jorn05_img.jpg"/>
+</media>
+<para id="fs-idm278341408"><emphasis effect="bold">Impact on the financial statements:</emphasis> Salaries Payable is a liability account and will increase total liabilities and equity by $1,500 on the balance sheet. Salaries expense will increase overall expenses on the income statement, which decreases net income.</para>
+<media id="fs-idm271996880" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: $0 under Assets; plus $1,500 under Liabilities; minus $1,500 under Stockholders’ Equity. Horizontal lines under Assets, Liabilities, and Stockholders’ Equity. Totals: $0 under Assets; plus $1,500 under Liabilities; minus $1,500 under Stockholders’ Equity.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_TAcct05_img.jpg"/>
+</media>
+<para id="fs-idm274869456">We now explore how these adjusting entries impact the general ledger (T-accounts).</para>
+<note id="fs-idm268734624" class="your-turn">
+<title>Deferrals versus Accruals</title>
+<para id="fs-idm270261552">Label each of the following as a deferral or an accrual, and explain your answer.</para>
+<list id="fs-idm274867040" list-type="enumerated" number-style="arabic">
+<item>The company recorded supplies usage for the month.</item>
+<item>A customer paid in advance for services, and the company recorded revenue earned after providing service to that customer.</item>
+<item>The company recorded salaries that had been earned by employees but were previously unrecorded and have not yet been paid.</item>
+</list>
+<para id="fs-idm269518432"><emphasis effect="bold">Solution</emphasis></para>
+<list id="fs-idm277656032" list-type="enumerated" number-style="arabic">
+<item>The company is recording a deferred expense. The company was deferring the recognition of supplies from supplies expense until it had used the supplies.</item>
+<item>The company has deferred revenue. It deferred the recognition of the revenue until it was actually earned. The customer already paid the cash and is currently on the balance sheet as a liability.</item>
+<item>The company has an accrued expense. The company is bringing the salaries that have been incurred, added up since the last paycheck, onto the books for the first time during the adjusting entry. Cash will be given to the employees at a later time.</item>
+</list>
+</note>
+<note id="fs-idm221706128" class="link-to-learning">
+<para id="fs-idm271750896">Several internet sites can provide additional information for you on adjusting entries. One very good site where you can find many tools to help you study this topic is <link url="https://openstax.org/l/50AcctCoach">Accounting Coach</link> which provides a tool that is available to you free of charge. Visit the website and take a <link url="https://openstax.org/l/50AcctQuiz">quiz on accounting basics</link> to test your knowledge.</para>
+</note>
+</section>
+<section id="fs-idm273334688"><title>Posting Adjusting Entries</title><para id="fs-idm519754400">Once you have journalized all of your adjusting entries, the next step is posting the entries to your ledger. Posting adjusting entries is no different than posting the regular daily journal entries. T-accounts will be the visual representation for the Printing Plus general ledger.</para>
+<para id="fs-idm268421648"><emphasis effect="bold">Transaction 13:</emphasis> On January 31, Printing Plus took an inventory of its supplies and discovered that $100 of supplies had been used during the month.</para>
+<para id="fs-idm277679840"><emphasis effect="bold">Journal entry and T-accounts:</emphasis></para>
+
+<media id="fs-idm490477952" alt="Journal entry, dated January 31, 2019. Debit Supplies Expense 100. Credit Supplies 100. Explanation: “To recognize supply usage for January.” Below the Journal, two T-accounts. Left T-account labeled Supplies; January 30 debit entry 500; January 31 credit entry 100; debit balance 400. Right T-account labeled Supplies Expense; January 31 debit entry 100; debit balance 100.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_JrnTAcct06_img.jpg"/>
+</media>
+<para id="fs-idm266872656">In the journal entry, Supplies Expense has a debit of $100. This is posted to the Supplies Expense T-account on the debit side (left side). Supplies has a credit balance of $100. This is posted to the Supplies T-account on the credit side (right side). You will notice there is already a debit balance in this account from the purchase of supplies on January 30. The $100 is deducted from $500 to get a final debit balance of $400.</para>
+<para id="fs-idm271782144"><emphasis effect="bold">Transaction 14:</emphasis> The equipment purchased on January 5 depreciated $75 during the month of January.</para>
+<para id="fs-idm272657008"><emphasis effect="bold">Journal entry and T-accounts:</emphasis></para>
+<media id="fs-idm272482976" alt="Journal entry, dated January 31, 2019. Debit Depreciation Expense: Equipment 75. Credit Accumulated Depreciation: Equipment 75. Explanation: “To recognize equipment depreciation for January.” Below the Journal, two T-accounts. Left T-account labeled Depreciation Expense Equipment; January 31 debit entry 75; debit balance 75. Right T-account labeled Accumulated Depreciation Equipment; January 31 credit entry 75; credit balance 75.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_JrnTAcct07_img.jpg"/>
+</media>
+<para id="fs-idm271943456">In the journal entry, Depreciation Expense–Equipment has a debit of $75. This is posted to the Depreciation Expense–Equipment T-account on the debit side (left side). Accumulated Depreciation–Equipment has a credit balance of $75. This is posted to the Accumulated Depreciation–Equipment T-account on the credit side (right side).</para>
+<para id="fs-idm518722688"><emphasis effect="bold">Transaction 15:</emphasis> Printing Plus performed $600 of services during January for the customer from the January 9 transaction.</para>
+<para id="fs-idm268904400"><emphasis effect="bold">Journal entry and T-accounts:</emphasis></para>
+<media id="fs-idm274963360" alt="Journal entry, dated January 31, 2019. Debit Unearned Revenue 600. Credit Service Revenue 600. Explanation: “To recognize revenue earned from January 9 transaction.” Below the Journal, two T-accounts. Left T-account labeled Unearned Revenue; January 9 credit entry 4,000; January 31 debit entry 600; credit balance 3,400. Right T-account labeled Service Revenue; January 10 credit entry 5,500; January 17 credit entry 2,800; January 27 credit entry, 1,200; January 31 credit entry 600; credit balance 10,100.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_JrnTAcct08_img.jpg"/>
+</media>
+<para id="fs-idm282566256">In the journal entry, Unearned Revenue has a debit of $600. This is posted to the Unearned Revenue T-account on the debit side (left side). You will notice there is already a credit balance in this account from the January 9 customer payment. The $600 debit is subtracted from the $4,000 credit to get a final balance of $3,400 (credit). Service Revenue has a credit balance of $600. This is posted to the Service Revenue T-account on the credit side (right side). You will notice there is already a credit balance in this account from other revenue transactions in January. The $600 is added to the previous $9,500 balance in the account to get a new final credit balance of $10,100.</para>
+<para id="fs-idm221833136"><emphasis effect="bold">Transaction 16:</emphasis> Reviewing the company bank statement, Printing Plus discovers $140 of interest earned during the month of January that was previously uncollected and unrecorded.</para>
+<para id="fs-idm274412880"><emphasis effect="bold">Journal entry and T-accounts:</emphasis></para>
+<media id="fs-idm283867808" alt="Journal entry, dated January 31, 2019. Debit Interest Receivable 140. Credit Interest Revenue 140. Explanation: “To recognize interest revenue earned but not yet collected.” Below the Journal, two T-accounts. Left T-account labeled Interest Receivable; January 31 debit entry 140; debit balance 140. Right T-account labeled Interest Revenue; January 31 credit entry 140; credit balance 140.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_JrnTAcct09_img.jpg"/>
+</media>
+<para id="fs-idm270326864">In the journal entry, Interest Receivable has a debit of $140. This is posted to the Interest Receivable T-account on the debit side (left side). Interest Revenue has a credit balance of $140. This is posted to the Interest Revenue T-account on the credit side (right side).</para>
+<para id="fs-idm276999424"><emphasis effect="bold">Transaction 17:</emphasis> Employees earned $1,500 in salaries for the period of January 21–January 31 that had been previously unpaid and unrecorded.</para>
+<para id="fs-idm274937264"><emphasis effect="bold">Journal entry and T-accounts:</emphasis></para>
+<media id="fs-idm495390512" alt="Journal entry, dated January 31, 2019. Debit Interest Receivable 1,500. Credit Interest Revenue 1,500. Explanation: “To recognize Salaries Payable earned but not yet collected” Below the Journal, two T-accounts. Left T-account labeled Salaries Expense; January 20 debt entry 3,600 and January 31 debit entry 1,500; debit balance 5,100. Right T-account labeled Salaries Payable; January 31 credit entry 1,500; credit balance 1,500..">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_JrnTAcct10_img.jpg"/>
+</media>
+<para id="fs-idm503133024">In the journal entry, Salaries Expense has a debit of $1,500. This is posted to the Salaries Expense T-account on the debit side (left side). You will notice there is already a debit balance in this account from the January 20 employee salary expense. The $1,500 debit is added to the $3,600 debit to get a final balance of $5,100 (debit). Salaries Payable has a credit balance of $1,500. This is posted to the Salaries Payable T-account on the credit side (right side).</para>
+<section id="fs-idm224387072">
+<title>T-accounts Summary</title>
+<para id="fs-idm277792736">Once all adjusting journal entries have been posted to T-accounts, we can check to make sure the accounting equation remains balanced. Following is a summary showing the T-accounts for Printing Plus including adjusting entries.</para>
+<figure id="OSX_Acct_F04_03_TAcctSum01">
+<media id="fs-idm272634704" alt="Three columns headed Assets equal Liabilities plus Equity. The Asset column has six T-accounts. Cash, with a debit entry dated January 3 for 20,000, a debit entry dated January 9 for 4,000, a debit entry dated January 17 for 2,800, a debit entry dated January 23 for 5,500, a credit entry dated January 12 for 300, a credit entry dated January 14 for 100, a credit entry dated January 18 for 3,500, a credit entry dated January 20 for 3,600, and a debit balance of 24,800. Accounts Receivable, with a debit entry dated January 10 for 5,500, a debit entry dated January 27 for 1,200, a credit entry dated January 23 for 5,500, and a debit balance of 1,200. Interest Receivable, with a debit entry dated January 31 for 140, and a debit balance of 140. Supplies, with a debit entry dated January 30 for 500, a credit entry dated January 31 for 100, and a debit balance of 400. Equipment, with a debit entry dated January 5 for 3,500, and a debit balance of 3,500. Accumulated Depreciation: Equipment, with a credit entry dated January 31 for 75, and a credit balance of 75. The Liability column has three T-accounts. Accounts Payable, with a debit entry dated January 18 for 3,500, a credit entry dated January 5 for 3,500, a credit entry dated January 30 for 500, and a credit balance of 500. Salaries Payable, with a credit entry dated January 31 for 1,500, and a credit balance of 1,500. Unearned Revenue, with a credit entry dated January 9 for 4,000, a debit entry dated January 31 for 600, and a credit balance of 3,400. The Equity column has eight T-accounts. Common Stock, with a credit entry dated January 3 for 20,000, and a credit balance of 20,000. Dividends, with a debit entry dated January 14 for 100, and a debit balance of 100. Service Revenue, with a credit entry dated January 10 for 5,500, a credit entry dated January 17 for 2,800, a credit entry dated January 27 for 1,200, a credit entry dated January 31 for 600, and a credit balance of 10,000. Interest Revenue, with a credit entry dated January 31 for 140, and a credit balance of 140. Supplies Expense, with a debit entry dated January 31 for 100, and a debit balance of 100. Salaries Expense, with a debit entry dated January 20 for 3,600, a debit entry dated January 31 for 1,500, and a debit balance of 5,100. Utility Expense, with a debit entry dated January 12 for 300, and a debt balance of 300. Depreciation Expense: Equipment, with a debit entry dated January 31 of 75, and a debit balance of 75.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_TAcctSum01_img.jpg"/>
+</media>
+<caption>Printing Plus summary of T-accounts with Adjusting Entries. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm280674896">The sum on the assets side of the accounting equation equals $29,965, found by adding together the final balances in each asset account (24,800 + 1,200 + 140 + 400 + 3,500 – 75). To find the total on the liabilities and equity side of the equation, we need to find the difference between debits and credits. Credits on the liabilities and equity side of the equation total $35,640 (500 + 1,500 + 3,400 + 20,000 + 10,100 + 140). Debits on the liabilities and equity side of the equation total $5,675 (100 + 100 + 5,100 + 300 + 75). The difference between $35,640 – $5,675 = $29,965. Thus, the equation remains balanced with $29,965 on the asset side and $29,965 on the liabilities and equity side. Now that we have the T-account information, and have confirmed the accounting equation remains balanced, we can create the adjusted trial balance in our sixth step in the accounting cycle.</para>
+<note id="fs-idm271985472" class="link-to-learning">
+<para id="fs-idm270743392">When posting any kind of journal entry to a general ledger, it is important to have an organized system for recording to avoid any account discrepancies and misreporting. To do this, companies can streamline their general ledger and remove any unnecessary processes or accounts. Check out this <link url="https://openstax.org/l/50JrnAcctArticl">article “Encourage General Ledger Efficiency” from the <emphasis effect="italics">Journal of Accountancy</emphasis></link> that discusses some strategies to improve general ledger efficiency.</para>
+</note>
+</section>
+</section><section id="fs-idm274130064" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm510153440" list-type="bulleted" bullet-style="bullet">
+<item>Rules for adjusting entries: The rules for recording adjusting entries are as follows: every adjusting entry will have one income statement account and one balance sheet account, cash will never be in an adjusting entry, and the adjusting entry records the change in amount that occurred during the period.</item>
+<item>Posting adjusting entries: Posting adjusting entries is the same process as posting general journal entries. The additional adjustments may add accounts to the end of the period or may change account balances from the earlier journal entry step in the accounting cycle.</item>
+</list>
+</section>
+<section id="fs-idm272887808" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm490492736">
+<problem id="fs-idm518555328">
+<para id="fs-idm531752000"><link class="lo-reference" document="m67851"/>What adjusting journal entry is needed to record depreciation expense for the period?</para>
+<list id="fs-idm266978624" list-type="enumerated" number-style="upper-alpha">
+<item>a debit to Depreciation Expense; a credit to Cash</item>
+<item>a debit to Accumulated Depreciation; a credit to Depreciation Expense</item>
+<item>a debit to Depreciation Expense; a credit to Accumulated Depreciation</item>
+<item>a debit to Accumulated Depreciation; a credit to Cash</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm237970976">
+<problem id="fs-idm270219536">
+<para id="fs-idm282652112"><link class="lo-reference" document="m67851"/>Which of these transactions requires an adjusting entry (debit) to Unearned Revenue?</para>
+<list id="fs-idm278283568" list-type="enumerated" number-style="upper-alpha">
+<item>revenue earned but not yet collected</item>
+<item>revenue collected but not yet earned</item>
+<item>revenue earned before being collected, when it is later collected</item>
+<item>revenue collected before being earned, when it is later earned</item>
+</list>
+</problem>
+<solution id="fs-idm239657408">
+<para id="fs-idm271069360">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm247635968" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm531357744">
+<problem id="fs-idm277462400">
+<para id="fs-idm251591008"><link class="lo-reference" document="m67851"/>If the Supplies account had an ending balance of $1,200 and the actual count for the remaining supplies was $400 at the end of the period, what adjustment would be needed?</para>
+</problem>
+<solution id="fs-idm277226384">
+<para id="fs-idm274886640">An entry to adjust the supplies account to the $400 balance is needed; Debit Supplies Expense for 800; Credit Supplies for 800.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm529210976">
+<problem id="fs-idm522863520">
+<para id="fs-idm237876000"><link class="lo-reference" document="m67851"/>When a company collects cash from customers before performing the contracted service, what is the impact, and how should it be recorded?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm274344032">
+<problem id="fs-idm270570768">
+<para id="fs-idm237999488"><link class="lo-reference" document="m67851"/>If the Prepaid Insurance account had a balance of $12,000, representing one year’s policy premium, which was paid on July 1, what entry would be needed to adjust the Prepaid Insurance account at the end of December, before preparing the financial statements?</para>
+</problem>
+<solution id="fs-idm531410640">
+<para id="fs-idm270124624">An entry to adjust the Prepaid Insurance account to $6,000 balance is needed; Debit Insurance Expense for 6,000; Credit Prepaid Insurance for 6,000.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm272166272">
+<problem id="fs-idm268251104">
+<para id="fs-idm272815168"><link class="lo-reference" document="m67851"/>If adjusting entries include these listed accounts, what other account must be in that entry as well? (A) Depreciation expense; (B) Unearned Service Revenue; (C) Prepaid Insurance; (D) Interest Payable.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm282092400" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm270122048">
+<problem id="fs-idm233002976">
+<para id="fs-idm272652368"><link class="lo-reference" document="m67850"/> and <link class="lo-reference" document="m67851"/>Reviewing insurance policies revealed that a single policy was purchased on August 1, for one year’s coverage, in the amount of $6,000. There was no previous balance in the Prepaid Insurance account at that time. Based on the information provided:</para><list id="fs-idm277161312" list-type="enumerated" number-style="upper-alpha">
+<item>Make the December 31 adjusting journal entry to bring the balances to correct.</item>
+<item>Show the impact that these transactions had.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm245130384">
+<problem id="fs-idm270623536">
+<para id="fs-idm510987440"><link class="lo-reference" document="m67851"/>On July 1, a client paid an advance payment (retainer) of $5,000 to cover future legal services. During the period, the company completed $3,500 of the agreed-on services for the client. There was no beginning balance in the Unearned Revenue account for the period. Based on the information provided,</para>
+<list id="fs-idm277221152" list-type="enumerated" number-style="upper-alpha">
+<item>Make the December 31 adjusting journal entry to bring the balances to correct.</item>
+<item>Show the impact that these transactions had.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm262298512">
+<problem id="fs-idm239266976">
+<para id="fs-idm249008096"><link class="lo-reference" document="m67851"/>Reviewing payroll records indicates that employee salaries that are due to be paid on January 3 include $3,575 in wages for the last week of December. There was no previous balance in the Salaries Payable account at that time. Based on the information provided, make the December 31 adjusting journal entry to bring the balances to correct.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm531206544">
+<problem id="fs-idm268236448">
+<para id="fs-idm251559184"><link class="lo-reference" document="m67851"/>Supplies were purchased on January 1, to be used throughout the year, in the amount of $8,500. On December 31, a physical count revealed that the remaining supplies totaled $1,200. There was no beginning of the year balance in the Supplies account. Based on the information provided:</para>
+<list id="fs-idm268409968" list-type="enumerated" number-style="upper-alpha">
+<item>Create journal entries for the original transaction</item>
+<item>Create journal entries for the December 31 adjustment needed to bring the balances to correct</item>
+<item>Show the activity, with ending balance</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm275577056">
+<problem id="fs-idm522814000">
+<para id="fs-idm282133232"><link class="lo-reference" document="m67851"/>Prepare journal entries to record the following business transaction and related adjusting entry.</para>
+<list id="fs-idm529139904" list-type="enumerated" number-style="upper-alpha">
+<item>January 12, purchased supplies for cash, to be used all year, $3,850</item>
+<item>December 31, physical count of remaining supplies, $800</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm277564816">
+<problem id="fs-idm272444368">
+<para id="fs-idm272675680"><link class="lo-reference" document="m67851"/>Prepare journal entries to record the following adjustments.</para>
+<list id="fs-idm221595104" list-type="enumerated" number-style="upper-alpha">
+<item>Insurance that expired this period, $18,000</item>
+<item>Depreciation on assets, $4,800</item>
+<item>Salaries earned by employees but unpaid, $1,200</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm247802240">
+<problem id="fs-idm275215920">
+<para id="fs-idm269183872"><link class="lo-reference" document="m67851"/>Prepare adjusting journal entries, as needed, considering the account balances excerpted from the unadjusted trial balance and the adjustment data.</para>
+<media id="fs-idm257868448" class="scaled-down" alt="Excerpt from Unadjusted Trial Balance. Debits: Fixed Assets 120,000; Prepaid Rent 18,000. Credits: Accumulated Depreciation 24,000; Unearned Revenue 3,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_EA07_img.jpg"/>
+</media>
+<list id="fs-idm531258448" list-type="enumerated" number-style="upper-alpha">
+<item>depreciation on fixed assets, $ 8,500</item>
+<item>unexpired prepaid rent, $12,500</item>
+<item>remaining balance of unearned revenue, $555</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm237789952" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm245226800">
+<problem id="fs-idm524295824">
+<para id="fs-idm248380096"><link class="lo-reference" document="m67851"/>Reviewing insurance policies revealed that a single policy was purchased on March 1, for one year's coverage, in the amount of $9,000. There was no previous balance in the Prepaid Insurance account at that time. Based on the information provided,</para>
+<list id="fs-idm268743024" list-type="enumerated" number-style="upper-alpha">
+<item>Make the December 31 adjusting journal entry to bring the balances to correct.</item>
+<item>Show the impact that these transactions had.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm518572208">
+<problem id="fs-idm268868784">
+<para id="fs-idm269083968"><link class="lo-reference" document="m67851"/>On September 1, a company received an advance rental payment of $12,000, to cover six months’ rent on an office building. There was no beginning balance in the Unearned Rent account for the period. Based on the information provided,</para>
+<list id="fs-idm269199808" list-type="enumerated" number-style="upper-alpha">
+<item>Make the December 31 adjusting journal entry to bring the balances to correct.</item>
+<item>Show the impact that these transactions had.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm248415328">
+<problem id="fs-idm271755600">
+<para id="fs-idm247795744"><link class="lo-reference" document="m67851"/>Reviewing payroll records indicates that one-fifth of employee salaries that are due to be paid on the first payday in January, totaling $15,000, are actually for hours worked in December. There was no previous balance in the Salaries Payable account at that time. Based on the information provided, make the December 31 adjusting journal entry to bring the balances to correct.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm227004560">
+<problem id="fs-idm249004816">
+<para id="fs-idm495492512"><link class="lo-reference" document="m67851"/>On July 1, a client paid an advance payment (retainer) of $10,000, to cover future legal services. During the period, the company completed $6,200 of the agreed-on services for the client. There was no beginning balance in the Unearned Revenue account for the period. Based on the information provided, make the journal entries needed to bring the balances to correct for:</para>
+<list id="fs-idm522465104" list-type="enumerated" number-style="upper-alpha">
+<item>original transaction</item>
+<item>December 31 adjustment</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm268415536">
+<problem id="fs-idm275554864">
+<para id="fs-idm270945728"><link class="lo-reference" document="m67851"/>Prepare journal entries to record the business transaction and related adjusting entry for the following:</para>
+<list id="fs-idm272037680" list-type="enumerated" number-style="upper-alpha">
+<item>March 1, paid cash for one year premium on insurance contract, $18,000</item>
+<item>December 31, remaining unexpired balance of insurance, $3,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm273733920">
+<problem id="fs-idm518937472">
+<para id="fs-idm226765792"><link class="lo-reference" document="m67851"/>Prepare journal entries to record the following adjustments:</para>
+<list id="fs-idm273326464" list-type="enumerated" number-style="upper-alpha">
+<item>revenue earned but not collected, nor recorded, $14,000</item>
+<item>revenue earned that had originally been collected in advance, $8,500</item>
+<item>taxes due but not yet paid, $ 2,750</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm237823264">
+<problem id="fs-idm270433200">
+<para id="fs-idm239198192"><link class="lo-reference" document="m67851"/>Prepare adjusting journal entries, as needed, considering the account balances excerpted from the unadjusted trial balance and the adjustment data.</para>
+<media id="fs-idm254009840" class="scaled-down" alt="Excerpt from Unadjusted Trial Balance. Debits: Equipment 66,000; Supplies 6,000. Credits: Accumulated Depreciation 22,000; Salaries Payable 3,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_EB07_img.jpg"/>
+</media>
+<list id="fs-idm247604208" list-type="enumerated" number-style="upper-alpha">
+<item>amount due for employee salaries, $4,800</item>
+<item>actual count of supplies inventory, $ 2,300</item>
+<item>depreciation on equipment, $3,000</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm529277888" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm275220208">
+<problem id="fs-idm269880880">
+<para id="fs-idm275519072"><link class="lo-reference" document="m67851"/>Using the following information:</para>
+<list id="fs-idm263452288" list-type="enumerated" number-style="upper-alpha">
+<item>make the December 31 adjusting journal entry for depreciation</item>
+<item>determine the net book value (NBV) of the asset on December 31</item>
+</list>
+<list id="fs-idm272791184" list-type="bulleted">
+<item>Cost of asset, $250,000</item>
+<item>Accumulated depreciation, beginning of year, $80,000</item>
+<item>Current year depreciation, $25,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm257912304">
+<problem id="fs-idm270344768">
+<para id="fs-idm269015488"><link class="lo-reference" document="m67851"/>Use the following account T-balances (assume normal balances) and correct balance information to make the December 31 adjusting journal entries.</para>
+<media id="fs-idm274107760" class="scaled-down" alt="Prepaid Insurance: $26,000 T-Account Balance, $14,000 Correct Balance. Salaries Payable: $5,500 T-Account Balance, $6,200 Correct Balance. Unearned Rental Revenue: $8,000 T-Account Balance, $1,600 Correct Balance.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_PA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm524492544">
+<problem id="fs-idm269082832">
+<para id="fs-idm282530272"><link class="lo-reference" document="m67851"/>Use the following account T-balances (assume normal balances) and correct balance information to make the December 31 adjusting journal entries.</para>
+<media id="fs-idm495481248" class="scaled-down" alt="Unearned Service Revenue: $24,000 T-Account Balance, $10,500 Correct Balance. Supplies: $8,500 T-Account Balance, $2,600 Correct Balance. Interest Payable: $2,400 T-Account Balance, $2,000 Correct Balance.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_PA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm221811248">
+<problem id="fs-idm225826480">
+<para id="fs-idm268352320"><link class="lo-reference" document="m67851"/>Prepare journal entries to record the following transactions. Create a T-account for Interest Payable, post any entries that affect the account, and tally the ending balance for the account (assume Interest Payable beginning balance of $2,500).</para>
+<list id="fs-idm524421840" list-type="enumerated" number-style="upper-alpha">
+<item>March 1, paid interest due on note, $2,500</item>
+<item>December 31, interest accrued on note payable, $4,250</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm251550208">
+<problem id="fs-idm278291776">
+<para id="fs-idm509813664"><link class="lo-reference" document="m67851"/>Prepare journal entries to record the following transactions. Create a T-account for Prepaid Insurance, post any entries that affect the account, and tally the ending balance for the account (assume Prepaid Insurance beginning balance of $9,000).</para>
+<list id="fs-idm248402416" list-type="enumerated" number-style="upper-alpha">
+<item>April 1, paid cash for one-year policy, $18,000</item>
+<item>December 31, unexpired premiums, $4,500</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm501774560">
+<problem id="fs-idm255502576">
+<para id="fs-idm529491216"><link class="lo-reference" document="m67851"/>Determine the amount of cash expended for Salaries during the month, based on the entries in the following accounts (assume 0 beginning balances).</para>
+<media id="fs-idm269070000" class="scaled-down" alt="Salaries Expense, Debit 55,000. Debit Balance 55,000. Salaries Payable, Credit 6,000. Credit Balance 6,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_PA06_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm274816976">
+<problem id="fs-idm249050704">
+<para id="fs-idm226009424"><link class="lo-reference" document="m67851"/>Prepare adjusting journal entries, as needed, considering the account balances excerpted from the unadjusted trial balance and the adjustment data.</para>
+<media id="fs-idm270004320" class="scaled-down" alt="Excerpt from Unadjusted Trial Balance. Debits: Property Plant and Equipment 320,000; Prepaid Insurance 24,000; Supplies 7,500. Credits: Accumulated Depreciation 89,500; Unearned Service Revenue 3,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_PA07_img.jpg"/>
+</media>
+<list id="fs-idm272081552" list-type="enumerated" number-style="upper-alpha">
+<item>supplies actual count at year end, $6,500</item>
+<item>remaining unexpired insurance, $6,000</item>
+<item>remaining unearned service revenue, $1,200</item>
+<item>salaries owed to employees, $2,400</item>
+<item>depreciation on property plant and equipment, $18,000</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm244848000" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm272113232">
+<problem id="fs-idm265717920">
+<para id="fs-idm268951552"><link class="lo-reference" document="m67851"/>Using the following information,</para>
+<list id="fs-idm518814352" list-type="enumerated" number-style="upper-alpha">
+<item>Make the December 31 adjusting journal entry for depreciation.</item>
+<item>Determine the net book value (NBV) of the asset on December 31.</item>
+</list>
+<list id="fs-idm272909648" list-type="bulleted">
+<item>Cost of asset, $195,000</item>
+<item>Accumulated depreciation, beginning of year, $26,000</item>
+<item>Current year depreciation, $13,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm278365824">
+<problem id="fs-idm226891200">
+<para id="fs-idm282827952"><link class="lo-reference" document="m67851"/>Use the following account T-balances (assume normal balances) and correct balance information to make the December 31 adjusting journal entries.</para>
+<media id="fs-idm277209296" class="scaled-down" alt="Unearned Fee Revenue: T-Account Balance 12,000, Correct Balance 9,000. Supplies: T-Account Balance 3,200, Correct Balance 1,050. Interest Payable: T-Account Balance 1,850, Correct Balance 1,975.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_PB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm257924912">
+<problem id="fs-idm228394576">
+<para id="fs-idm502744096"><link class="lo-reference" document="m67851"/>Use the following account T-balances (assume normal balances) and correct balance information to make the December 31 adjusting journal entries.</para>
+<media id="fs-idm277915072" class="scaled-down" alt="Prepaid Insurance: T-Account Balance 12,000, Correct Balance 5,000. Taxes Payable: T-Account Balance 8,850, Correct Balance 9,900. Unearned Rental Revenue: T-Account Balance 6,000, Correct Balance 2,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_PB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm278764272">
+<problem id="fs-idm509829008">
+<para id="fs-idm531300480"><link class="lo-reference" document="m67851"/>Prepare journal entries to record the following transactions. Create a T-account for Supplies, post any entries that affect the account, and tally ending balance for the account (assume Supplies beginning balance of $6,550).</para>
+<list id="fs-idm282025344" list-type="enumerated" number-style="upper-alpha">
+<item>January 26, purchased additional supplies for cash, $9,500</item>
+<item>December 31, actual count of supplies, $8,500</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm248012944">
+<problem id="fs-idm272559392">
+<para id="fs-idm283771680"><link class="lo-reference" document="m67851"/>Prepare journal entries to record the following transactions. Create a T-account for Unearned Revenue, post any entries that affect the account, tally ending balance for the account (assume Unearned Revenue beginning balance of $12,500).</para>
+<list id="fs-idm277001248" list-type="enumerated" number-style="upper-alpha">
+<item>May 1, collected an advance payment from client, $15,000</item>
+<item>December 31, remaining unearned advances, $7,500</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm275003408">
+<problem id="fs-idm275227808">
+<para id="fs-idm282807264"><link class="lo-reference" document="m67851"/>Determine the amount of cash expended for Insurance Premiums during the month, based on the entries in the following accounts (assume 0 beginning balances).</para>
+<media id="fs-idm502745888" class="scaled-down" alt="Insurance Expense, Debit 31,000. Debit balance, 31,000. Prepaid Insurance, Debit 9,000. Debit Balance 9,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_PB06_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm237973056">
+<problem id="fs-idm503261008">
+<para id="fs-idm248398064"><link class="lo-reference" document="m67851"/>Prepare adjusting journal entries, as needed, considering the account balances excerpted from the unadjusted trial balance and the adjustment data.</para>
+<media id="fs-idm502735840" class="scaled-down" alt="Excerpt from Unadjusted Trial Balance, Debits: Buildings and Equipment 250,000; Prepaid Advertising 6,400. Credits: Accumulated Depreciation 56,000; Unearned Rental Revenue 8,900; Interest Payable 3,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_03_PB07_img.jpg"/>
+</media>
+<list id="fs-idm226961056" list-type="enumerated" number-style="upper-alpha">
+<item>depreciation on buildings and equipment, $17,500</item>
+<item>advertising still prepaid at year end, $2,200</item>
+<item>interest due on notes payable, $4,300</item>
+<item>unearned rental revenue, $6,900</item>
+<item>interest receivable on notes receivable, $1,200</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm263512944" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm524668848">
+<problem id="fs-idm270335920">
+<para id="fs-idm518932496"><link class="lo-reference" document="m67851"/>Search the web for instances of possible impropriety relating to earnings management. This could be news reports, Securities and Exchange Commission violation reports, fraud charges, or any other source of alleged financial statement judgment lapse.</para><list id="fs-idm522724000" list-type="bulleted">
+<item>Write down the name and industry type of the company you are discussing.</item>
+<item>Describe the purported indiscretion, and how it relates to mis-reporting earnings or shady accounting.</item>
+<item>Estimate the impact of the potential misrepresented amount.</item>
+<item>Note: You do not have to have proof that a compromise occurred, but you do need to have a source of your reporting of the potential trouble.</item>
+<item>Provide the web link to the information you found, to allow accurate verification of your answers.</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+</document>

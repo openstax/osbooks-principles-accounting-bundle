@@ -1,0 +1,129 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Explain the Purpose of the Statement of Cash Flows</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67929</md:content-id>
+  <md:title>Explain the Purpose of the Statement of Cash Flows</md:title>
+  <md:abstract/>
+  <md:uuid>f7cf8848-4f06-4d27-9b1a-7110bcd3cbd8</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm237221424">The <term>statement of cash flows</term> is a financial statement listing the cash inflows and cash outflows for the business for a period of time. <term>Cash flow</term> represents the cash receipts and cash disbursements as a result of business activity. The statement of cash flows enables users of the financial statements to determine how well a company’s income generates cash and to predict the potential of a company to generate cash in the future.</para>
+<para id="fs-idm252454176">Accrual accounting creates timing differences between income statement accounts and cash. A revenue transaction may be recorded in a different fiscal year than the year the cash related to that revenue is received. One purpose of the statement of cash flows is that users of the financial statements can see the amount of cash inflows and outflows during a year in addition to the amount of revenue and expense shown on the income statement. This is important because cash flows often differ significantly from accrual basis net income. For example, assume in 2019 that <emphasis class="colored-text">Amazon</emphasis> showed a loss of approximately $720 million, yet <emphasis class="colored-text">Amazon</emphasis>’s cash balance increased by more than $91 million. Much of the change can be explained by timing differences between income statement accounts and cash receipts and distributions.</para>
+<para id="fs-idm251538224">A related use of the statement of cash flows is that it provides information about the quality of a company’s net income. A company that has records that show significantly less cash inflow on the statement of cash flows than the reported net income on the income statement could very well be reporting revenue for which cash will never be received from the customer or underreporting expenses.</para>
+<para id="fs-idm262274400">A third use of the statement of cash flows is that it provides information about a company’s sources and uses of cash not related to the income statement. For example, assume in 2019 that <emphasis class="colored-text">Amazon</emphasis> spent $287 million on purchasing fixed assets and almost $370 million acquiring other businesses. This indicated to financial statement users that <emphasis class="colored-text">Amazon</emphasis> was expanding even as it was losing money. Investors must have thought that spending was good news as <emphasis class="colored-text">Amazon</emphasis> was able to raise more than $1 billion in borrowings or stock issuances in 2019.</para>
+<note id="fs-idm251222304" class="ethical-considerations">
+<title>Cash Flow Statement Reporting</title>
+<para id="fs-idm255462048">US generally accepted accounting principles (GAAP) has codified how cash flow statements are to be presented to users of financial statements. This was codified in Topic 230: Statement of Cash Flows as part of US GAAP.<footnote id="fs-idm253662256">Financial Accounting Standards Board (FASB). “Statement of Cash Flows (Topic 230) Classification of Certain Cash Receipts and Cash Payments.” An Amendment of the <emphasis class="italics">FASB Accounting Standards Codification</emphasis>. August 2016. https://asc.fasb.org/imageRoot/55/95454355.pdf</footnote> Accountants in the United States should follow US GAAP. Accountants working internationally must report in accordance with International Accounting Standard (IAS) 7 Statement of Cash Flows.<footnote id="fs-idm258747968">International Financial Reporting Standards (IFRS). “IAS 7 Statement of Cash Flows.” n.d.  https://www.ifrs.org/issued-standards/list-of-standards/ias-7-statement-of-cash-flows/</footnote> The ethical accountant understands the users of a company’s financial statement and properly prepares a Statement of Cash Flow. There is often more than one way that financial statements can be presented, such as US GAAP and International Financial Reporting Standards (IFRS). What if a company under US GAAP showed reporting issues on their financial statements and switched to IFRS where results looked better. Is this proper? Does this occur?</para>
+</note>
+<para id="fs-idm248540064">The statement of cash flows identifies the sources of cash as well as the uses of cash, for the period being reported, which leads the user of the financial statement to the period’s <term>net cash flows</term>, which is a method used to determine profitability by measuring the difference between an entity’s cash inflows and cash outflows. The statement answers the following two questions: What are the sources of cash (where does the cash come from)? What are the uses of cash (where does the cash go)? A positive net cash flow indicates an increase in cash during the reporting period, whereas a negative net cash flow indicates a decrease in cash during the reporting period. The statement of cash flows is also used as a predictive tool for external users of the financial statements, for estimated future cash flows, based on cash flow results in the past.</para>
+<note id="fs-idm246560112" class="link-to-learning">
+<para id="fs-idm236838240">This <link url="https://openstax.org/l/50CashFlowsVid">video from Khan Academy explains cash flows</link> in a unique way.</para>
+</note>
+<section id="fs-idm261027248">
+<title>Approaches to Preparing the Statement of Cash Flows</title>
+<para id="fs-idm248921792">The statement of cash flows can be prepared using the indirect approach or the direct approach. The <term>indirect method</term> approach reconciles net income to cash flows by subtracting noncash expenses and adjusting for changes in current assets and liabilities, which reflects timing differences between accrual-based net income and cash flows. A <term>noncash expense</term> is an expense that reduces net income but is not associated with a cash flow; the most common example is depreciation expense. The <term>direct method</term> lists net cash flows from revenue and expenses, whereby accrual basis revenue and expenses are converted to cash basis collections and payments. Because the vast majority of financial statements are presented using the indirect method, the indirect approach will be demonstrated within the chapter, and the direct method will be demonstrated in <link document="m67935">Appendix: Prepare a Completed Statement of Cash Flows Using the Direct Method</link>.</para><note id="fs-idm259248208" class="link-to-learning">
+<para id="fs-idm260984848"><link url="https://openstax.org/l/50AccountCoach">AccountingCoach</link> is a great resource for many accounting topics, including cash flow issues.</para>
+</note>
+</section>
+<section id="fs-idm255129952" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm247420832" list-type="bulleted" bullet-style="bullet">
+<item>The statement of cash flows presents the sources and uses of cash.</item>
+<item>The statement of cash flows is used to predict future cash flows and to assess the quality of an entity’s earnings.</item>
+<item>There are two approaches utilized to prepare the statement of cash flow: the indirect method and the direct method.</item>
+</list>
+</section>
+<section id="fs-idm248113232" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm255327648">
+<problem id="fs-idm246734864">
+<para id="fs-idm247212656"><link class="lo-reference" document="m67929"/>Which of the following statements is false?</para>
+<list id="fs-idm257351200" list-type="enumerated" number-style="upper-alpha">
+<item>Noncash activities should be reported in accrual basis financial statements.</item>
+<item>Net cash flow from operating activities relates to normal business operations.</item>
+<item>Net income usually equals net cash flow from operating activities.</item>
+
+<item>The statement of cash flows is an essential part of the basic financial statements.</item>
+</list>
+</problem>
+<solution id="fs-idm261961824">
+<para id="fs-idm263564080">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm249079536" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm263998048">
+<problem id="fs-idm252779184">
+<para id="fs-idm249235120"><link class="lo-reference" document="m67929"/>What function does the statement of cash flows serve, as one of the four basic financial statements?</para>
+</problem>
+<solution id="fs-idm255280848">
+<para id="fs-idm250806704">The statement of cash flow serves as a bridge between the cash basis bank transactions and the accrual basis financial statements (balance sheet, income statement, and retained earnings statement). It reveals where the cash came from, and where it went.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm255452800">
+<problem id="fs-idm255441904">
+<para id="fs-idm265164288"><link class="lo-reference" document="m67929"/>Is it possible for a company to have significant net income in the same time period that net cash flows are negative? Explain.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm266216496" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm250850448">
+<problem id="fs-idm263499968">
+<para id="fs-idm261754224"><link class="lo-reference" document="m67929"/>Provide journal entries to record each of the following transactions. For each, identify whether the transaction represents a source of cash (S), a use of cash (U), or neither (N).</para>
+<list id="fs-idm260890288" list-type="enumerated" number-style="upper-alpha">
+<item>Declared and paid to shareholders, a dividend of $24,000.</item>
+<item>Issued common stock at par value for $12,000 cash.</item>
+<item>Sold a tract of land that had cost $10,000, for $16,000.</item>
+<item>Purchased a company truck, with a note payable of $38,000.</item>
+<item>Collected $8,000 from customer accounts receivable.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm253619776" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm248589232">
+<problem id="fs-idm264837616">
+<para id="fs-idm251764784"><link class="lo-reference" document="m67929"/>Provide journal entries to record each of the following transactions. For each, identify whether the transaction represents a source of cash (S), a use of cash (U), or neither (N).</para>
+<list id="fs-idm248210624" list-type="enumerated" number-style="upper-alpha">
+<item>Paid $22,000 cash on bonds payable.</item>
+<item>Collected $12,600 cash for a note receivable.</item>
+<item>Declared a dividend to shareholders for $16,000, to be paid in the future.</item>
+<item>Paid $26,500 to suppliers for purchases on account.</item>
+<item>Purchased treasury stock for $18,000 cash.</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm251053600">
+<term>cash flow</term>
+<meaning id="fs-idm252597184">cash receipts and cash disbursements as a result of business activity</meaning>
+</definition>
+<definition id="fs-idm260696240">
+<term>direct method</term>
+<meaning id="fs-idm249293696">approach used to determine net cash flows from operating activities, whereby accrual basis revenue and expenses are converted to cash basis collections and payments</meaning>
+</definition>
+<definition id="fs-idm251159440">
+<term>indirect method</term>
+<meaning id="fs-idm248226688">approach used to determine net cash flows from operating activities, starting with net income and adjusting for items that impact new income but do not require outlay of cash</meaning>
+</definition>
+<definition id="fs-idm261718480">
+<term>net cash flow</term>
+<meaning id="fs-idm252520864">method used to determine profitability by measuring the difference between an entity’s cash inflows and cash outflows</meaning>
+</definition>
+<definition id="fs-idm264108592">
+<term>noncash expense</term>
+<meaning id="fs-idm255467680">expense that reduces net income but is not associated with a cash flow; most common example is depreciation expense</meaning>
+</definition>
+<definition id="fs-idm258232016">
+<term>statement of cash flows</term>
+<meaning id="fs-idm247251536">financial statement listing the cash inflows and cash outflows for the business for a period of time</meaning>
+</definition>
+</glossary>
+</document>

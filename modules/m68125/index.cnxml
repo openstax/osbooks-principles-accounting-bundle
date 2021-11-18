@@ -1,0 +1,171 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Use the Job Order Costing Method to Trace the Flow of Product Costs through the Inventory Accounts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68125</md:content-id>
+  <md:title>Use the Job Order Costing Method to Trace the Flow of Product Costs through the Inventory Accounts</md:title>
+  <md:abstract/>
+  <md:uuid>ceae67c4-6b11-42a7-995e-62ba58f79b0f</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm246973488">Job order costing can be used for many different industries, and each industry maintains records for one or more inventory accounts. The manufacturing industry keeps track of the costs of each inventory account as the product is moved from raw materials inventory into work in process, through work in process, and into the finished goods inventory.</para>
+<para id="fs-idm218386912">Conversely, typical companies in the merchandising industry sell products they do not manufacture and purchase their inventory in an already completed state. It is relatively easy to keep track of the inventory cost for a merchandising company through its application of first-in/first-out (FIFO), last-in/last-out (LIFO), weighted average, or specific identification inventory techniques on the unsold items. The primary difference in the four methods is the valuation of the cost of goods sold and the remaining ending inventory valuation, assuming that the company did not sell 100% of the inventory that they had available for sale during a given period. Companies are allowed to choose the method that they feel best represents their cost flows through their cost of goods sold and their ending inventory balances.</para>
+<para id="fs-idm233589120">Not all service companies have inventory, and those companies do not have direct materials nor do they consider their work in process their inventory, since their final product is often an intangible asset, such as a legal document or tax return. Regardless of whether the service has inventory accounts, service companies all keep track of the direct labor and overhead costs incurred while completing each job in progress.</para>
+<para id="fs-idm225808320">Inventory is an asset reported on the balance sheet, and each company needs to maintain accurate records for the cost of each type of inventory: <term class="no-emphasis">raw materials inventory</term>, <term class="no-emphasis">work in process inventory</term>, and <term class="no-emphasis">finished goods inventory</term>. All three costs are computed in a similar manner. You can see in <link target-id="OSX_Acct_M04_03_CostofInv"/> that the general format is the same for maintaining all accounts, whether the company uses a job order, process, or hybrid cost system.</para>
+<figure id="OSX_Acct_M04_03_CostofInv">
+<media id="fs-idm216630720" alt="A figure of four columns showing the similarity of the calculation of each level of inventory as it moves to the next level. The far left column is the general calculation: Beginning Inventory plus what is brought in equals what is available. Then subtract the ending inventory (what is left) to get the amount used. The next column is this same calculation for Materials inventory: Beginning Raw Materials Inventory plus purchases equals material available for use. Then subtract Ending Raw Materials Inventory to get Materials used in production. There is an arrow from this result pointing to the amount that is added to the Work in Process Inventory, which is the next column’s calculation: Beginning WIP Inventory plus material (from the arrow), labor, and overhead used in production equals Manufacturing Costs Incurred. Then subtract the ending WIP Inventory to get the Cost of goods Manufactured. There is an arrow pointing from this result to the amount that is added to the Finished Goods Inventory, which is calculated in the next column: Beginning Finished Goods Inventory plus Cost of Goods Manufactured (from the arrow) equals Goods Available for Sale. Then subtract Ending Finished Goods Inventory to get Cost of Goods Sold.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_03_CostofInv.jpg"/>
+</media>
+<caption>Cost of Inventory Accounts. Inventory is accounted for across the flow through production. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm225948336">Each <term class="no-emphasis">inventory account</term> starts with a beginning balance at the start of an accounting period. During the period, if additional inventory is purchased, the new inventory amount is added to the beginning balance to calculate the total inventory available for use or sale. The ending inventory balance at the end of the accounting period can then be subtracted from the inventory available for use, and the total represents the cost of the inventory used during the period.</para>
+<para id="fs-idm245305168">For example, if the beginning inventory balance were $400, and the company bought an additional $1,000, it would have $1,400 of inventory available for use. If the ending inventory balance were $500, the amount of inventory used during the period would be $900 ($400 + $1,000 = $1,400 – $500 = $900).</para>
+<section id="fs-idm223291056">
+<title>Raw Materials Inventory</title>
+<para id="fs-idm233684048">Raw materials inventory is the total cost of materials that will be used in the production process. Usually, several accounts make up the raw materials inventory, and these can be actual accounts or accounts subsidiary to the general raw materials inventory account. In our example, Dinosaur Vinyl has several raw materials accounts: vinyl, red ink, black ink, gold ink, grommets, and wood.</para>
+<para id="fs-idm227469072">Within the <term class="no-emphasis">raw materials inventory</term> account, purchases increase the inventory, whereas raw materials sent into production reduce it. It is easy to reconcile the amount of ending inventory and the cost of direct materials used in production, since the materials requisition form (<link document="m68124" target-id="OSX_Acct_M04_02_MatReq"/>) keeps track of the inventory requested and sent into each specific job. Since the costs are transferred with production, the calculation shows the amount of materials used in production:</para>
+<media id="fs-idm244568416" alt="This figure calculates Materials used in production: Beginning Materials Inventory plus net materials purchased equals Materials available for use. Then subtract the ending raw materials inventory to get Materials used in production.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_03_CstMatUsed.jpg"/>
+</media>
+</section>
+<section id="fs-idm235267568">
+<title>Work in Process Inventory</title>
+<para id="fs-idm226000976">In a job order cost system, the balance in the work in process inventory account is continually updated as job costs are recorded and is the total of all unfinished jobs, as shown on the individual job cost sheets.</para>
+<para id="fs-idm225203616">The production cycle is a continuous cycle that begins with raw materials being transferred to work in process, moving through production, and ending as finished goods inventory. Typically, as goods are being produced, additional jobs are being started and finished, and the work in process inventory includes unit costs of jobs still in production at the end of the accounting period. At the end of the accounting cycle, there will be jobs that remain unfinished in the production cycle, and these represent the <term class="no-emphasis">work in process inventory</term>. The costs on the job order cost sheet help reconcile the cost of the items transferred to the finished goods inventory and the cost of the work in process inventory.</para>
+<para id="fs-idm230735904">For example, Dinosaur Vinyl has completed Job MAC001. The total cost of $931 is transferred to the finished goods inventory:</para>
+<media id="fs-idm217449952" alt="A journal entry lists Finished Goods Inventory with a debit of 931, Work in Process Inventory with a debit of 931, and the note “To transfer Job MAC001 to Finished Goods”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_03_TransFG_img.jpg"/>
+</media>
+<para id="fs-idm216623056">At this point, we need to examine an important component of the costing process. The <term>cost of goods manufactured</term> (COGM) is the costs of all of the units that a company completed and transferred to the finished goods inventory during an accounting period. Obviously, the cost of goods manufactured is not just a single number that can be pulled from one location. We have to look at all costs included in the manufacturing process to determine the cost of goods manufactured. The calculation begins with the beginning balance in the work in process inventory, incorporates the new production costs incurred during the current period (typically a year), and then subtracts the ending balance in the work in process inventory since these costs will be included in the subsequent accounting period’s cost of goods manufactured, as shown:</para>
+<media id="fs-idm216608208" alt="This figure calculates Cost of goods manufactured during the period (completed): Beginning Work in Process Inventory plus the current manufacturing costs (Direct Materials used in production, Direct Labor, and Overhead) equals Manufacturing costs incurred. Then subtract the ending Work in Process inventory to get Cost of Goods Manufactured.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_03_CostGdsMfg.jpg"/>
+</media>
+</section>
+<section id="fs-idm221240976">
+<title>Finished Goods Inventory</title>
+<para id="fs-idm216247808">After each job has been completed and overhead has been applied, the product is transferred to the <term class="no-emphasis">finished goods inventory</term> where it stays until it is sold. As each job is transferred, the costs are summarized and transferred as well, and the job cost sheet is completed to show the actual production cost of the product and the sales price of the items produced.</para>
+<para id="fs-idm223424880">A job order cost system continually updates each job cost sheet as materials, labor, and overhead are added. As a result, all inventory accounts are constantly maintained. The materials inventory balance is continually updated, as materials are purchased and requisitioned for individual jobs. The work in process inventory and finished goods inventory are master accounts, and their balances are determined by adding the total of the job cost sheets. The total of the incomplete jobs becomes the total work in process inventory, and the total of the completed and unsold jobs becomes the total of the finished goods inventory.</para>
+<para id="fs-idm222003376">Similar to the raw materials and work in process inventories, the cost of goods sold can be calculated as shown:</para>
+<media id="fs-idm218298672" alt="This figure calculates Cost of Goods Sold: Beginning Finished Goods Inventory plus Cost of Goods Manufactured equals Goods available for sale. Then subtract the ending finished goods inventory to get Cost of goods sold.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_03_CostFGInv.jpg"/>
+</media>
+</section>
+<section id="fs-idm216536496">
+<title>Cost of Goods Sold</title>
+<para id="fs-idm218913360">The <term>cost of goods sold</term> is the manufacturing cost of the items sold during the period. It is calculated by adding the beginning finished goods inventory and the cost of goods manufactured to arrive at the cost of goods available for sale. The cost of goods available for sale less the ending inventory results in the cost of goods sold.</para>
+<para id="fs-idm245302896">In our example, when the sale has occurred, the goods are transferred to the buyer, and the product is transferred from the finished goods inventory to the cost of goods sold. A corresponding entry is also made to record the sale. Dinosaur Vinyl’s sales price for Job MAC001 was $2,000, and its cost of goods sold was $931:</para>
+<media id="fs-idm216349104" alt="A journal entry lists Costs of Goods Sold with a debit of 931, Finished Goods Inventory with a credit of 931, and the note “To transfer sold Job MAC001”. A second journal entry lists Accounts Receivable with a debit of 2,000, Sales with a credit of 2,000, and the note “To record sale of Job MAC001”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_03_SaleMac001_img.jpg"/>
+</media>
+<para id="fs-idm242705936"><link target-id="OSX_Acct_M04_03_Flow"/> shows the flow to cost of goods sold.</para>
+<figure id="OSX_Acct_M04_03_Flow">
+<media id="fs-idm232489088" alt="A figure showing the flow of costs. There are three small boxes on the left indicating “Direct Materials”, “Direct Labor” and “Overhead.” There are arrows from each of these boxes to the debit side of each of the T-Accounts showing in the middle column: “Work in Process Inventory: TJR441”, “Work in Process Inventory: MAC001” and “Work in Process Inventory: POR143” – with the exception of overhead to TR441 (which has not yet been finished.) The debit side of each of these T-accounts say “Incurred” in them. The credit side of the T-accounts for MAC001 and POR143 say “To Finished Goods Inventory” and there are arrows pointing from each to the debit side of a T-Account for “Finished Goods Inventory,” which says “From WIP Inventory.” The credit side of the Finished Goods Inventory T-Account says “To Cost of Goods Sold” and there is an arrow pointing from that to the debit side of a T-Account Labeled “Cost of Goods Sold”. This T-Account has the words “From Finished Goods Inventory” on the debit side and “Closing Entries” on the credit side.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_03_Flow.jpg"/>
+</media>
+<caption>Flow of Manufacturing Costs under the Job Order Costing Method. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm246834512" class="your-turn">
+<title>Tracking the Flow with Selected T-Accounts</title>
+<para id="fs-idm240896352">Use the transaction letters to show the flow in and out of the T-accounts. Note: some items may be used more than once. Also, not every possible T-account entry is required in this exercise. For example, for the purchase of raw materials, the credit entry for either cash or accounts payable is not required.</para>
+<media id="fs-idm246608176" alt="There are six blank T-Accounts in this figure: one each for “Raw Materials Inventory: Vinyl”, “Factory Wage Expense”, “Manufacturing Overhead”, “Work in Process Inventory”, “Cost of Goods Sold”, and “Finished Goods Inventory.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_03_YT01_img.png"/>
+</media>
+<list id="fs-idm235045424" list-type="enumerated" number-style="upper-alpha">
+<item>Purchase raw materials inventory</item>
+<item>Factory wage expense incurred</item>
+<item>Issue raw materials inventory to Job P33</item>
+<item>Factory wage allocated to Job P33</item>
+<item>Factory wage allocated to overhead</item>
+<item>Job P33 completed</item>
+<item>Job P33 sold</item>
+</list>
+<para id="fs-idm223177136"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm246664544" alt="The six T-Accounts: one each for “Raw Materials Inventory: Vinyl”, “Factory Wage Expense”, “Manufacturing Overhead”, “Work in Process Inventory”, “Cost of Goods Sold”, and “Finished Goods Inventory” are now filled out. “Raw Materials Inventory: Vinyl” has an A on the debit side and a C on the credit side, “Factory Wage Expense” has a B on the debit side, and an E and F on the credit side, “Manufacturing Overhead” has an F on the debit side, “Work in Process Inventory” has a C and E on the debit side and a D on the credit side, “Cost of Goods Sold” has a G on the debit side, and “Finished Goods Inventory” has a D on the debit and G on the credit side.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_03_YT01Sol_img.png"/>
+</media>
+</note>
+</section>
+<section id="fs-idm244405440" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm231924400" list-type="bulleted" bullet-style="bullet">
+<item>Materials used in production include the beginning raw materials inventory and purchases, less the ending inventory. This amount is the amount added to the work in process inventory.</item>
+<item>The cost of goods manufactured includes the beginning work in process inventory, the materials used in production, the direct labor assigned to each job, and the manufacturing overhead costs assigned, less the costs remaining in the work in process inventory. This amount is transferred to the finished goods inventory.</item>
+<item>The cost of goods sold include the beginning finished goods inventory and the cost of goods manufactured during the period, less the ending inventory.</item>
+<item>When the job is completed, the costs are transferred from the work in process inventory to the finished goods inventory.</item>
+<item>When the jobs are sold, the costs are transferred from the finished goods inventory to the cost of goods sold.</item>
+</list>
+</section>
+<section id="fs-idm241877008" class="questions">
+<exercise id="fs-idm250874000">
+<problem id="fs-idm220594944">
+<para id="fs-idm240243856"><link class="lo-reference" document="m68125"/>Is the cost of goods manufactured the same as the cost of goods sold?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm251121872">
+<problem id="fs-idm250147840">
+<para id="fs-idm233635328"><link class="lo-reference" document="m68125"/>From beginning to end, place these items in the order of the flow of goods.</para>
+<list id="fs-idm235385472" list-type="enumerated" number-style="upper-alpha">
+<item>cost of goods sold</item>
+<item>raw materials inventory</item>
+<item>finished goods inventory</item>
+<item>work in process inventory</item>
+</list>
+</problem>
+<solution id="fs-idm380478944">
+<para id="fs-idm379259088">B, D, C, A.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm232905824" class="exercise-set-a">
+<exercise id="fs-idm240286176">
+<problem id="fs-idm231127184">
+<para id="fs-idm217170048"><link class="lo-reference" document="m68125"/>Marzoni’s records show raw materials inventory had a beginning balance of $200 and an ending balance of $300. If the cost of materials used during the month was $900, what were the purchases made during the month?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm238054432">
+<problem id="fs-idm246418752">
+<para id="fs-idm223436496"><link class="lo-reference" document="m68125"/>Sterling’s records show the work in process inventory had a beginning balance of $4,000 and an ending balance of $3,000. How much direct labor was incurred if the records also show:</para>
+<media id="fs-idm242901104" class="scaled-down-30" alt="Figure lists Materials used as $1,500, Overhead Applied as 500, and Cost of Goods Manufactured as 7500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_03_EA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm216732592">
+<problem id="fs-idm240357168">
+<para id="fs-idm244544752"><link class="lo-reference" document="m68125"/>Logo Gear purchased $2,250 worth of merchandise during the month, and its monthly income statement shows cost of goods sold of $2,000. What was the beginning inventory if the ending inventory was $1,000?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm228889712" class="exercise-set-b">
+<exercise id="fs-idm233091520">
+<problem id="fs-idm225940112">
+<para id="fs-idm225244336"><link class="lo-reference" document="m68125"/>Masonry’s records show the raw materials inventory had purchases of $1,000 and an ending raw materials inventory balance of $200. If the cost of materials used during the month was $900, what was the beginning inventory?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm249825776">
+<problem id="fs-idm247808656">
+<para id="fs-idm250533536"><link class="lo-reference" document="m68125"/>Steinway’s records show their work in process inventory had a beginning balance of $3,000 and an ending balance of $3,500. How much overhead was applied if the records also show the following:</para>
+<media id="fs-idm247699312" class="scaled-down-30" alt="Figure lists Materials used as $2,500, Overhead Applied as 5000, and Cost of Goods Manufactured as 7700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_03_EB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm240431872">
+<problem id="fs-idm246248448">
+<para id="fs-idm237275440"><link class="lo-reference" document="m68125"/>Langston’s purchased $3,100 of merchandise during the month, and its monthly income statement shows a cost of goods sold of $3,000. What was the beginning inventory if the ending inventory was $1,250?</para>
+</problem>
+</exercise>
+</section>
+  </content>
+<glossary>
+<definition id="fs-idm234587792">
+<term>cost of goods manufactured</term>
+<meaning id="fs-idm228358912">manufacturing costs incurred less the ending work in process inventory</meaning>
+</definition>
+<definition id="fs-idm219774784">
+<term>cost of goods sold</term>
+<meaning id="fs-idm218934224">expense account that houses all costs associated with getting a product ready for sale</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,175 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Describe Some Special Issues in Accounting for Long-Term Assets</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67900</md:content-id>
+  <md:title>Describe Some Special Issues in Accounting for Long-Term Assets</md:title>
+  <md:abstract/>
+  <md:uuid>70dc2ab7-28d1-41b0-aa8d-d92251c18ebb</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm377009264">A company will account for some events for long-term assets that are less routine than recording purchase and depreciation or amortization. For example, a company may realize that its original estimate of useful life or salvage value is no longer accurate. A long-term asset may lose its value, or a company may sell a long-term asset.</para>
+<section id="fs-idm377823728">
+<title>Revision of Remaining Life or Salvage Value</title>
+<para id="fs-idm390225856">As you have learned, depreciation is based on estimating both the useful life of an asset and the salvage value of that asset. Over time, these estimates may be proven inaccurate and need to be adjusted based on new information. When this occurs, the depreciation expense calculation should be changed to reflect the new (more accurate) estimates. For this entry, the remaining depreciable balance of the net book value is allocated over the new useful life of the asset. To work through this process with data, let’s return to the example of Kenzie Company.</para>
+<list id="fs-idm388701936" list-type="bulleted" bullet-style="bullet">
+<item>Kenzie has a press worth $58,000.</item>
+<item>Its salvage value was originally estimated to be $10,000.</item>
+<item>Its economic life was originally estimated to be five years.</item>
+<item>Kenzie uses straight-line depreciation.</item>
+</list>
+<para id="fs-idm377633664">After three years, Kenzie determines that the estimated useful life would have been more accurately estimated at eight years, and the salvage value at that time would be $6,000. The revised depreciation expense is calculated as shown:</para>
+<media id="fs-idm374127104" class="scaled-down" alt="Original Cost $58,000; Depreciation Previously Taken (3 times $9,600) equals 28,800; Book Value at Beginning of Year 4 $29,200; Revised Salvage Value 6,000; Revised Remaining Depreciable Cost $23,200. Revised Remaining Useful Life 5 years. Revised Depreciation $23,200 divided by 5 years equals $4,640 per year.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F11_06_RevDep_img.jpg"/>
+</media>
+<para id="fs-idm397269520">These revised calculations show that Kenzie should now be recording a depreciation of $4,640 per year for the next five years.</para>
+<note id="fs-idm380276704" class="your-turn">
+<title>Useful Life</title>
+<para id="fs-idm361376784">Georgia-Pacific is a global company that employs a wide variety of property, plant, and equipment assets in its production facilities. You work for Georgia-Pacific as an accountant in charge of the fixed assets subsidiary ledger at a warehouse facility in Pennsylvania. You find out that the useful lives for the fork trucks need to be adjusted. As an asset category, the trucks were bought at the same time and had original useful lives of seven years. However, after depreciating them for two years, the company makes improvements to the trucks that allow them to be used outdoors in what can be harsh winters. The improvements also extend their useful lives by two additional years. What is the remaining useful life after the improvements?</para>
+<para id="fs-idm338573088"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm380879392">Seven original years – two years depreciated + two additional years = seven years remaining.</para>
+</note>
+</section>
+<section id="fs-idm368143216">
+<title>Obsolescence</title>
+<para id="fs-idm380156304">Obsolescence refers to the reduction in value and/or use of the asset. Obsolescence has traditionally resulted from the physical deterioration of the asset—called <term>physical obsolescence</term>. In current application—and considering the role of modern technology and tech assets—accounting for functional obsolescence is becoming more common. <term>Functional obsolescence </term>is the loss of value from all causes within a property <emphasis effect="italics">except</emphasis> those due to physical deterioration. With functional obsolescence, the useful life still needs to be adjusted downward: although the asset physically still works, its functionality makes it less useful for the company. Also, an adjustment might be necessary in the salvage value. This potential adjustment depends on the specific details of each obsolescence determination or decision.</para>
+</section>
+<section id="fs-idm366416864">
+<title>Sale of an Asset</title>
+<para id="fs-idm383562272">When an asset is sold, the company must account for its depreciation up to the date of sale. This means companies may be required to record a depreciation entry before the sale of the asset to ensure it is current. After ensuring that the net book value of an asset is current, the company must determine if the asset has sold at a gain, at a loss, or at book value. We look at examples of each accounting alternative using the Kenzie Company data.</para>
+<para id="fs-idm343001216">Recall that Kenzie’s press has a depreciable base of $48,000 and an economic life of five years. If Kenzie sells the press at the end of the third year, the company would have taken three years of depreciation amounting to $28,800 ($9,600 × 3 years). With an original cost of $58,000, and after subtracting the accumulated depreciation of $28,800, the press would have a book value of $29,200. If the company sells the press for $31,000, it would realize a gain of $1,800, as shown.</para>
+<media id="fs-idm384023616" class="scaled-down" alt="Cost of Press $58,000; Less: Accumulated Depreciation: Printing Press 28,800; Book Value $29,200. Sales Price $31,000; Less: Book Value 29,200; Gain on Sale of Printing Press $1,800.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F11_06_Kenz01_img.jpg"/>
+</media>
+<para id="fs-idm347255488">The journal entry to record the sale is shown here.</para>
+<media id="fs-idm364135840" alt="Journal entry dated Dec. 31, 2019 debiting Cash for 31,000 and Accumulated Depreciation: Printing Press for 28,800 and crediting Printing Press for 58,000 and Gain on Sale: Printing Press for 1,800.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F11_06_Kenz02_img.jpg"/>
+</media>
+<para id="fs-idm374052864">If Kenzie sells the printing press for $27,100, what would the journal entries be? The book value of the press is $29,200, so Kenzie would be selling the press at a loss. The journal entry to record the sale is shown here.</para>
+<media id="fs-idm367474704" alt="Journal entry dated Dec. 31, 2019 debiting Cash for 27,100 and Accumulated Depreciation: Printing Press for 28,800 and Loss on Sale of Printing Press for 2,100 and crediting Printing Press for 58,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F11_06_Kenz03_img.jpg"/>
+</media>
+<para id="fs-idm364138688">What if Kenzie sells the press at exactly book value? In this case, the company will realize neither a gain nor a loss. Here is the journal entry to record the sale.</para>
+<media id="fs-idm387618352" alt="Journal entry dated Dec. 31, 2019 debiting Cash for 29,200 and Accumulated Depreciation: Printing Press for 28,800 and crediting Printing Press for 58,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F11_06_Kenz04_img.jpg"/>
+</media>
+<para id="fs-idm392004848">While it would be ideal to estimate a salvage value that provides neither a gain nor a loss upon the retirement and sale of a long-term asset, this type of accuracy is virtually impossible to reach, unless you negotiate a fixed future sales price. For example, you might buy a truck for $80,000 and lock in a five-year life with 100,000 or fewer miles driven. Under these conditions, the dealer might agree to pay you $20,000 for the truck in five years.</para>
+<para id="fs-idm380437200">Under these conditions, you could justify calculating your depreciation over a five-year period, using a depreciable base of $60,000. Under the straight-line method, this would provide an annual depreciation amount of $12,000. Also, when you sell the truck to the dealer after five years, the sales price will be $20,000, and the book value will be $20,000, so there would be neither a gain nor a loss on the sale.</para>
+<para id="fs-idm381063808">In the Kenzie example where the asset was sold for $31,000 after three years, Kenzie should have recorded a total of $27,000 in depreciation (cost of $58,000 less the sales value of $31,000). However, the company recorded $28,800 in depreciation over the three-year period. Subtracting the gain of $1,800 from the total depreciation expense of $28,800 shows the true cost of using the asset as $27,000, and not the depreciation amount of $28,800.</para>
+<para id="fs-idm379663120">When the asset was sold for $27,100, the accounting records would show $30,900 in depreciation (cost of $58,000 less the sales price of $27,100). However, depreciation is listed as $28,800 over the three-year period. Adding the loss of $2,100 to the total depreciation expense of $28,800 results in a cost of $30,900 for use of the asset rather than the $28,800 depreciation.</para>
+<para id="fs-idm382669376">If the asset sells for exactly the book value, its depreciation expense was estimated perfectly, and there is no gain or loss. If it sells for $29,200 and had a book value of $29,200, its depreciation expense of $28,800 matches the original estimate.</para>
+<note id="fs-idm362646288" class="think-through">
+<title>Depreciation of Long-Term Assets</title>
+<para id="fs-idm361034864">You are a new staff accountant at a large construction company. After a rough year, management is seeking ways to minimize expenses or increase revenues before year-end to help increase the company’s earnings per share. Your boss has asked staff to think “outside the box” and has asked to you look through the list of long-term assets to find ones that have been fully depreciated in value but may still have market value. Why would your manager be looking for these specific assets? How significantly might these items impact your company’s overall performance? What ethical issues might come into play in the task you have been assigned?</para>
+</note>
+<note id="fs-idm385903344" class="link-to-learning">
+<para id="fs-idm385398048">The management of fixed assets can be quite a challenge for any business, from sole proprietorships to global corporations. Not only do companies need to track their asset purchases, depreciation, sales, disposals, and capital expenditures, they also need to be able to generate a variety of reports. Read this <link url="https://openstax.org/l/50SoftwarePkg">Finances Online post for more details on software packages</link> that help companies steward their fixed assets no matter what their size.</para>
+</note>
+</section>
+<section id="fs-idm387973520" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm383884880" list-type="bulleted" bullet-style="bullet">
+<item>Because estimates are used to calculate depreciation of fixed assets, sometimes adjustments may need to be made to the asset’s useful life or to its salvage value.</item>
+<item>To make these adjustments, the asset’s net book value is updated, and then the adjustments are made for the remaining years.</item>
+<item>Assets are sometimes sold before the end of their useful life. These sales can result in a gain, a loss, or neither, depending on the cash received and the asset’s net book value.</item>
+</list>
+</section>
+<section id="fs-idm388519008" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm384653712">
+<problem id="fs-idm383574880">
+<para id="fs-idm338738672"><link class="lo-reference" document="m67900"/>What are some examples of special issues in accounting for long-term assets? How are they handled?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm381957360">
+<problem id="fs-idm391647904">
+<para id="fs-idm389694640"><link class="lo-reference" document="m67900"/>What is the difference between functional obsolescence and physical obsolescence?</para>
+</problem>
+<solution id="fs-idm377036192">
+<para id="fs-idm379701360">Obsolescence refers to the reduction in value and/or use of an asset. It may refer to the actual physical deterioration of the asset, which is known as physical obsolescence, or to the loss of value from causes other than physical deterioration, which is functional obsolescence. Functional obsolescence is specific to the organization and the usefulness the asset has for the company going forward. This type of obsolescence could be the result of simply not needing the asset any longer.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm372968688" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm394980480">
+<problem id="fs-idm348931664">
+<para id="fs-idm372929968"><link class="lo-reference" document="m67900"/>Sand River Sales has a fork truck used in its warehouse operations. The truck had an original useful life of five years. However, after depreciating the asset for three years, the company makes a major repair that extends the life by four years. What is the remaining useful life after the major repair?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm379242896" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm384480112">
+<problem id="fs-idm338232656">
+<para id="fs-idm387091552"><link class="lo-reference" document="m67900"/>Baglia’s Wholesale Trinkets has a 3-D printer used in operations. The original useful life was estimated to be six years. However, after two years of use, the printer was overhauled, and its total useful life was extended to eight years. How many years of depreciation remain after the overhaul in year 2?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm374052640" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm394702608">
+<problem id="fs-idm389399392">
+<para id="fs-idm390399392"><link class="lo-reference" document="m67900"/>Montezuma Inc. purchases a delivery truck for $15,000. The truck has a salvage value of $3,000 and is expected to be driven for eight years. Montezuma uses the straight-line depreciation method. Calculate the annual depreciation expense. After three years of recording depreciation, Montezuma determines that the delivery truck will only be useful for another three years and that the salvage value will increase to $4,000. Determine the depreciation expense for the final three years of the asset’s life, and create the journal entry for year four.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm383823088">
+<problem id="fs-idm382728896">
+<para id="fs-idm384045360"><link class="lo-reference" document="m67900"/>Garcia Co. owns equipment that costs $76,800, with accumulated depreciation of $40,800. Garcia sells the equipment for cash. Record the journal entry for the sale of the equipment if Garcia were to sell the equipment for the following amounts:</para>
+<list id="fs-idm399666016" list-type="enumerated" number-style="upper-alpha">
+<item>$47,000 cash</item>
+<item>$36,000 cash</item>
+<item>$31,000 cash</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm372355488">
+<problem id="fs-idm390880352">
+<para id="fs-idm388976720"><link class="lo-reference" document="m67900"/>Colquhoun International purchases a warehouse for $300,000. The best estimate of the salvage value at the time of purchase was $15,000, and it is expected to be used for twenty-five years. Colquhoun uses the straight-line depreciation method for all warehouse buildings. After four years of recording depreciation, Colquhoun determines that the warehouse will be useful for only another fifteen years. Calculate annual depreciation expense for the first four years. Determine the depreciation expense for the final fifteen years of the asset’s life, and create the journal entry for year five.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm373898560" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm341229952">
+<problem id="fs-idm394911120">
+<para id="fs-idm387679296"><link class="lo-reference" document="m67900"/>Montezuma Inc. purchases a delivery truck for $20,000. The truck has a salvage value of $8,000 and is expected to be driven for ten years. Montezuma uses the straight-line depreciation method. Calculate the annual depreciation expense. After five years of recording depreciation, Montezuma determines that the delivery truck will be useful for another five years (ten years in total, as originally expected) and that the salvage value will increase to $10,000. Determine the depreciation expense for the final five years of the asset’s life, and create the journal entry for years 6–10 (the entry will be the same for each of the five years).</para>
+</problem>
+</exercise>
+<exercise id="fs-idm386260160">
+<problem id="fs-idm378352016">
+<para id="fs-idm396504048"><link class="lo-reference" document="m67900"/>Garcia Co. owns equipment that costs $150,000, with accumulated depreciation of $65,000. Garcia sells the equipment for cash. Record the journal entry for the sale of the equipment if Garcia were to sell the equipment for the following amounts:</para>
+<list id="fs-idm363345616" list-type="enumerated" number-style="upper-alpha">
+<item>$90,000 cash</item>
+<item>$85,000 cash</item>
+<item>$80,000 cash</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm384591920">
+<problem id="fs-idm391783664">
+<para id="fs-idm399097856"><link class="lo-reference" document="m67900"/>Urquhart Global purchases a building to house its administrative offices for $500,000. The best estimate of the salvage value at the time of purchase was $45,000, and it is expected to be used for forty years. Urquhart uses the straight-line depreciation method for all buildings. After ten years of recording depreciation, Urquhart determines that the building will be useful for a total of fifty years instead of forty. Calculate annual depreciation expense for the first ten years. Determine the depreciation expense for the final forty years of the asset’s life, and create the journal entry for year eleven.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm383091824" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm376049024">
+<problem id="fs-idm387400064">
+<para id="fs-idm390808608"><link class="lo-reference" document="m67900"/>Your family started a new manufacturing business making outdoor benches for use in parks and outdoor venues two years ago. The business has been very successful, and sales are soaring. Because of this success, your family realizes that the equipment purchased to start the business will not last as long as expected because the company has needed to run twenty-four-hour production shifts for most of the past year. There has been a lot of wear and tear on the equipment. The original useful lives and salvage values are not as accurate as your family had hoped. Your aunt, who is the production manager for the family business, has approached you because she is concerned about this issue, and she knows you have had an accounting class. What advice do you have for her? How should the company readjust given the realities of the last few years?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm363317040">
+<term>functional obsolescence</term>
+<meaning id="fs-idm385271408">reduction of an asset’s value to the company, not including physical obsolescence</meaning>
+</definition>
+<definition id="fs-idm391227536">
+<term>physical obsolescence</term>
+<meaning id="fs-idm349575504">reduction in the value of an asset to the company based on its physical deterioration</meaning>
+</definition>
+</glossary>
+</document>

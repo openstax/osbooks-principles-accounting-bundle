@@ -1,0 +1,1253 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Use Journal Entries to Record Transactions and Post to T-Accounts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67847</md:content-id>
+  <md:title>Use Journal Entries to Record Transactions and Post to T-Accounts</md:title>
+  <md:abstract/>
+  <md:uuid>8727b026-3a6c-40a8-bbaa-99edc2c1ff08</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm355653984">When we introduced debits and credits, you learned about the usefulness of T-accounts as a graphic representation of any account in the general ledger. But before transactions are posted to the T-accounts, they are first recorded using special forms known as <emphasis effect="italics">journals</emphasis>.</para>
+<section id="fs-idm365580912">
+<title>Journals</title>
+<para id="fs-idm394796624">Accountants use special forms called <emphasis effect="italics">journals</emphasis> to keep track of their business transactions. A journal is the first place information is entered into the accounting system. A journal is often referred to as the <term>book of original entry</term> because it is the place the information originally enters into the system. A journal keeps a historical account of all recordable transactions with which the company has engaged. In other words, a journal is similar to a diary for a business. When you enter information into a journal, we say you are <term>journalizing</term> the entry. Journaling the entry is the second step in the accounting cycle. Here is a picture of a journal.</para>
+<media id="fs-idm357330976" alt="A journal entry shows four columns labeled left to right: Date, Account, Debit, Credit. Under the column headings is a blank line with no entry.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_jrlpaper_img.jpg"/>
+</media>
+<para id="fs-idm396017136">You can see that a journal has columns labeled debit and credit. The debit is on the left side, and the credit is on the right. Let’s look at how we use a journal.</para>
+<para id="fs-idm397892080">When filling in a journal, there are some rules you need to follow to improve journal entry organization.</para>
+<section id="fs-idm353376992">
+<title>Formatting When Recording Journal Entries</title>
+<list id="fs-idm366400128" list-type="bulleted" bullet-style="bullet">
+<item>Include a date of when the transaction occurred.</item>
+<item>The debit account title(s) always come first and on the left.</item>
+<item>The credit account title(s) always come after all debit titles are entered, and on the right.</item>
+<item>The titles of the credit accounts will be indented below the debit accounts.</item>
+<item>You will have at least one debit (possibly more).</item>
+<item>You will always have at least one credit (possibly more).</item>
+<item>The dollar value of the debits must equal the dollar value of the credits or else the equation will go out of balance.</item>
+<item>You will write a short description after each journal entry.</item>
+<item>Skip a space after the description before starting the next journal entry.</item>
+</list>
+<para id="fs-idm372484528">An example journal entry format is as follows. It is not taken from previous examples but is intended to stand alone.</para>
+<media id="fs-idm372750352" alt="A journal entry dated April 1, 2018. Debit Cash, 5,000. Credit Common Stock, 5,000. Explanation: “Received cash in exchange for common stock.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornEx01_img.jpg"/>
+</media>
+<para id="fs-idm355678128">Note that this example has only one debit account and one credit account, which is considered a <term>simple entry</term>. A <term>compound entry</term> is when there is more than one account listed under the debit and/or credit column of a journal entry (as seen in the following).</para>
+<media id="fs-idm646345104" alt="A journal entry dated April 1, 2018. Debit Cash, 3,000, and Supplies, 2,000. Credit Common Stock, 5,000. Explanation: “Received cash and supplies in exchange for common stock.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornEx02_img.jpg"/>
+</media>
+<para id="fs-idm390497216">Notice that for this entry, the rules for recording journal entries have been followed. There is a date of April 1, 2018, the debit account titles are listed first with Cash and Supplies, the credit account title of Common Stock is indented after the debit account titles, there are at least one debit and one credit, the debit amounts equal the credit amount, and there is a short description of the transaction.</para>
+<para id="fs-idm676508592">Let’s now look at a few transactions from Printing Plus and record their journal entries.</para>
+</section>
+</section>
+<section id="fs-idm676343024">
+<title>Recording Transactions</title>
+<para id="fs-idm673573872">We now return to our company example of Printing Plus, Lynn Sanders’ printing service company. We will analyze and record each of the transactions for her business and discuss how this impacts the financial statements. Some of the listed transactions have been ones we have seen throughout this chapter. More detail for each of these transactions is provided, along with a few new transactions.</para>
+<list id="fs-idm391140896" list-type="enumerated" number-style="arabic">
+<item>On January 3, 2019, issues $20,000 shares of common stock for cash.</item>
+<item>On January 5, 2019, purchases equipment on account for $3,500, payment due within the month.</item>
+<item>On January 9, 2019, receives $4,000 cash in advance from a customer for services not yet rendered.</item>
+<item>On January 10, 2019, provides $5,500 in services to a customer who asks to be billed for the services.</item>
+<item>On January 12, 2019, pays a $300 utility bill with cash.</item>
+<item>On January 14, 2019, distributed $100 cash in dividends to stockholders.</item>
+<item>On January 17, 2019, receives $2,800 cash from a customer for services rendered.</item>
+<item>On January 18, 2019, paid in full, with cash, for the equipment purchase on January 5.</item>
+<item>On January 20, 2019, paid $3,600 cash in salaries expense to employees.</item>
+<item>On January 23, 2019, received cash payment in full from the customer on the January 10 transaction.</item>
+<item>On January 27, 2019, provides $1,200 in services to a customer who asks to be billed for the services.</item>
+<item>On January 30, 2019, purchases supplies on account for $500, payment due within three months.</item>
+</list>
+<para id="fs-idm366137840"><emphasis effect="bold">Transaction 1:</emphasis> On January 3, 2019, issues $20,000 shares of common stock for cash.</para>
+<para id="fs-idm402877376"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm646336112" list-type="bulleted" bullet-style="bullet">
+<item>This is a transaction that needs to be recorded, as Printing Plus has received money, and the stockholders have invested in the firm.</item>
+<item>Printing Plus now has more cash. Cash is an asset, which in this case is increasing. Cash increases on the debit side.</item>
+<item>When the company issues stock, stockholders purchase common stock, yielding a higher common stock figure than before issuance. The common stock account is increasing and affects equity. Looking at the expanded accounting equation, we see that Common Stock increases on the credit side.</item>
+</list>
+<media id="fs-idm372714704" alt="A journal entry dated January 3, 2019. Debit Cash, 20,000. Credit Common Stock, 20,000. Explanation: “To recognize issuance of common stock.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornEx03_img.jpg"/>
+</media>
+<para id="fs-idm635407024"><emphasis effect="bold">Impact on the financial statements:</emphasis> Both of these accounts are balance sheet accounts. You will see total assets increase and total stockholders’ equity will also increase, both by $20,000. With both totals increasing by $20,000, the accounting equation, and therefore our balance sheet, will be in balance. There is no effect on the income statement from this transaction as there were no revenues or expenses recorded.</para>
+<media id="fs-idm395215248" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: plus $20,000 under Assets; plus $0 under Liabilities; plus $20,000 under Stockholders’ Equity. Next: horizontal lines under Assets, Liabilities, and Stockholders’ Equity. A final line of totals: $20,000 equals $0 plus $20,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_TAcct01_img.jpg"/>
+</media>
+<para id="fs-idm684920576"><emphasis effect="bold">Transaction 2:</emphasis> On January 5, 2019, purchases equipment on account for $3,500, payment due within the month.</para>
+<para id="fs-idm646383968"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm403346768" list-type="bulleted" bullet-style="bullet">
+<item>In this case, equipment is an asset that is increasing. It increases because Printing Plus now has more equipment than it did before. Assets increase on the debit side; therefore, the Equipment account would show a $3,500 debit.</item>
+<item>The company did not pay for the equipment immediately. Lynn asked to be sent a bill for payment at a future date. This creates a liability for Printing Plus, who owes the supplier money for the equipment. Accounts Payable is used to recognize this liability. This liability is increasing, as the company now owes money to the supplier. A liability account increases on the credit side; therefore, Accounts Payable will increase on the credit side in the amount of $3,500.</item>
+</list>
+<media id="fs-idm819407728" alt="A journal entry dated January 5, 2019. Debit Equipment, 3,500. Credit Accounts Payable, 3,500. Explanation: “To recognize purchase of equipment on account.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornEx04_img.jpg"/>
+</media>
+<para id="fs-idm355976224"><emphasis effect="bold">Impact on the financial statements:</emphasis> Since both accounts in the entry are balance sheet accounts, you will see no effect on the income statement.</para>
+<media id="fs-idm635346288" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: plus $3,500 under Assets; plus $3,500 under Liabilities; plus $0 under Stockholders’ Equity. Next: horizontal lines under Assets, Liabilities, and Stockholders’ Equity. A final line of totals: $3,500 equals $3,500 plus $0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_TAcct02_img.jpg"/>
+</media>
+<para id="fs-idm390271248"><emphasis effect="bold">Transaction 3:</emphasis> On January 9, 2019, receives $4,000 cash in advance from a customer for services not yet rendered.</para>
+<para id="fs-idm366745088"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm395563904" list-type="bulleted" bullet-style="bullet">
+<item>Cash was received, thus increasing the Cash account. Cash is an asset that increases on the debit side.</item>
+<item>Printing Plus has not yet provided the service, meaning it cannot recognize the revenue as earned. The company has a liability to the customer until it provides the service. The Unearned Revenue account would be used to recognize this liability. This is a liability the company did not have before, thus increasing this account. Liabilities increase on the credit side; thus, Unearned Revenue will recognize the $4,000 on the credit side.</item>
+</list>
+<media id="fs-idm409163472" alt="A journal entry dated January 9, 2019. Debit Cash, 4,000. Credit Unearned Revenue, 4,000. Explanation: “To recognize receipt of customer advanced payment for services yet to be rendered.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornEx05_img.jpg"/>
+</media>
+<para id="fs-idm681511984"><emphasis effect="bold">Impact on the financial statements:</emphasis> Since both accounts in the entry are balance sheet accounts, you will see no effect on the income statement.</para>
+<media id="fs-idm385540208" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: plus $4,000 under Assets; plus $4,000 under Liabilities; plus $0 under Stockholders’ Equity. Next: horizontal lines under Assets, Liabilities, and Stockholders’ Equity. A final line of totals: $4,000 equals $4,000 plus $0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_TAcct03_img.jpg"/>
+</media>
+<para id="fs-idm402836176"><emphasis effect="bold">Transaction 4:</emphasis> On January 10, 2019, provides $5,500 in services to a customer who asks to be billed for the services.</para>
+<para id="fs-idm684910192"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm372994448" list-type="bulleted" bullet-style="bullet">
+<item>The company provided service to the client; therefore, the company may recognize the revenue as earned (revenue recognition principle), which increases revenue. Service Revenue is a revenue account affecting equity. Revenue accounts increase on the credit side; thus, Service Revenue will show an increase of $5,500 on the credit side.</item>
+<item>The customer did not immediately pay for the services and owes Printing Plus payment. This money will be received in the future, increasing Accounts Receivable. Accounts Receivable is an asset account. Asset accounts increase on the debit side. Therefore, Accounts Receivable will increase for $5,500 on the debit side.</item>
+</list>
+<media id="fs-idm373160800" alt="A journal entry dated January 10, 2019. Debit Accounts Receivable, 5,500. Credit Service Revenue, 5,500. Explanation: “To recognize revenue earned, billed customer.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornEx06_img.jpg"/>
+</media>
+<para id="fs-idm359821616"><emphasis effect="bold">Impact on the financial statements:</emphasis> You have revenue of $5,500. Revenue is reported on your income statement. The more revenue you have, the more net income (earnings) you will have. The more earnings you have, the more retained earnings you will keep. Retained earnings is a stockholders’ equity account, so total equity will increase $5,500. Accounts receivable is going up so total assets will increase by $5,500. The accounting equation, and therefore the balance sheet, remain in balance.</para>
+<media id="fs-idm391831376" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: plus $5,500 under Assets; plus $0 under Liabilities; plus $5,500 under Stockholders’ Equity. Next: horizontal lines under Assets, Liabilities, and Stockholders’ Equity. A final line of totals: $5,500 equals $0 plus $5,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_TAcct04_img.jpg"/>
+</media>
+<para id="fs-idm409235616"><emphasis effect="bold">Transaction 5:</emphasis> On January 12, 2019, pays a $300 utility bill with cash.</para>
+<para id="fs-idm393729664"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm394387792" list-type="bulleted" bullet-style="bullet">
+<item>Cash was used to pay the utility bill, which means cash is decreasing. Cash is an asset that decreases on the credit side.</item>
+<item>Paying a utility bill creates an expense for the company. Utility Expense increases, and does so on the debit side of the accounting equation.</item>
+</list>
+<media id="fs-idm388906480" alt="A journal entry dated January 12, 2019. Debit Utility Expense, 300. Credit Cash, 300. Explanation: “Paid utility bill with cash.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornEx07_img.jpg"/>
+</media>
+<para id="fs-idm400679904"><emphasis effect="bold">Impact on the financial statements:</emphasis> You have an expense of $300. Expenses are reported on your income statement. More expenses lead to a decrease in net income (earnings). The fewer earnings you have, the fewer retained earnings you will end up with. Retained earnings is a stockholders’ equity account, so total equity will decrease by $300. Cash is decreasing, so total assets will decrease by $300, impacting the balance sheet.</para>
+<media id="fs-idm388888976" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: minus $300 under Assets; plus $0 under Liabilities; minus $300 under Stockholders’ Equity. Next: horizontal lines under Assets, Liabilities, and Stockholders’ Equity. A final line of totals: $300 equals $0 plus $300.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_TAcct05_img.jpg"/>
+</media>
+<para id="fs-idm395544160"><emphasis effect="bold">Transaction 6:</emphasis> On January 14, 2019, distributed $100 cash in dividends to stockholders.</para>
+<para id="fs-idm410667664"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm393253760" list-type="bulleted" bullet-style="bullet">
+<item>Cash was used to pay the dividends, which means cash is decreasing. Cash is an asset that decreases on the credit side.</item>
+<item>Dividends distribution occurred, which increases the Dividends account. Dividends is a part of stockholder’s equity and is recorded on the debit side. This debit entry has the effect of reducing stockholder’s equity.</item>
+</list>
+<media id="fs-idm390074416" alt="A journal entry dated January 14, 2019. Debit Dividends, 100. Credit Cash, 100. Explanation: “Paid dividends with cash.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornEx08_img.jpg"/>
+</media>
+<para id="fs-idm402290624"><emphasis effect="bold">Impact on the financial statements:</emphasis> You have dividends of $100. An increase in dividends leads to a decrease in stockholders’ equity (retained earnings). Cash is decreasing, so total assets will decrease by $100, impacting the balance sheet.</para>
+<media id="fs-idm391068144" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: minus $100 under Assets; plus $0 under Liabilities; minus $100 under Stockholders’ Equity. Next: horizontal lines under Assets, Liabilities, and Stockholders’ Equity. A final line of totals: $100 equals $0 plus $100.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_TAcct06_img.jpg"/>
+</media>
+<para id="fs-idm402267376"><emphasis effect="bold">Transaction 7:</emphasis> On January 17, 2019, receives $2,800 cash from a customer for services rendered.</para>
+<para id="fs-idm390960624"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm365579136" list-type="bulleted" bullet-style="bullet">
+<item>The customer used cash as the payment method, thus increasing the amount in the Cash account. Cash is an asset that is increasing, and it does so on the debit side.</item>
+<item>Printing Plus provided the services, which means the company can recognize revenue as earned in the Service Revenue account. Service Revenue increases equity; therefore, Service Revenue increases on the credit side.</item>
+</list>
+<media id="fs-idm415162624" alt="A journal entry dated January 17, 2019. Debit Cash, 2,800. Credit Service Revenue, 2,800. Explanation: “Collected cash for services rendered.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornEx09_img.jpg"/>
+</media>
+<para id="fs-idm394417472"><emphasis effect="bold">Impact on the financial statements:</emphasis> Revenue is reported on the income statement. More revenue will increase net income (earnings), thus increasing retained earnings. Retained earnings is a stockholders’ equity account, so total equity will increase $2,800. Cash is increasing, which increases total assets on the balance sheet.</para>
+<media id="fs-idm391353088" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: plus $2,800 under Assets; plus $0 under Liabilities; plus $2,800 under Stockholders’ Equity. Next: horizontal lines under Assets, Liabilities, and Stockholders’ Equity. A final line of totals: $2,800 equals $0 plus $2,800.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_TAcct07_img.jpg"/>
+</media>
+<para id="fs-idm412456192"><emphasis effect="bold">Transaction 8:</emphasis> On January 18, 2019, paid in full, with cash, for the equipment purchase on January 5.</para>
+<para id="fs-idm402899200"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm642021408" list-type="bulleted" bullet-style="bullet">
+<item>Cash is decreasing because it was used to pay for the outstanding liability created on January 5. Cash is an asset and will decrease on the credit side.</item>
+<item>Accounts Payable recognized the liability the company had to the supplier to pay for the equipment. Since the company is now paying off the debt it owes, this will decrease Accounts Payable. Liabilities decrease on the debit side; therefore, Accounts Payable will decrease on the debit side by $3,500.</item>
+</list>
+<media id="fs-idm390505504" alt="A journal entry dated January 18, 2019. Debit Accounts Payable, 3,500. Credit Cash, 3,500. Explanation: “Paid liability for equipment in full.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornEx10_img.jpg"/>
+</media>
+<para id="fs-idm395323984"><emphasis effect="bold">Impact on the financial statements:</emphasis> Since both accounts in the entry are balance sheet accounts, you will see no effect on the income statement.</para>
+<media id="fs-idm397765152" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: minus $3,500 under Assets; minus $3,500 under Liabilities; plus $0 under Stockholders’ Equity. Next: horizontal lines under Assets, Liabilities, and Stockholders’ Equity. A final line of totals: $3,500 equals $3,500 plus $0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_TAcct08_img.jpg"/>
+</media>
+<para id="fs-idm355705312"><emphasis effect="bold">Transaction 9:</emphasis> On January 20, 2019, paid $3,600 cash in salaries expense to employees.</para>
+<para id="fs-idm391352304"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm635370464" list-type="bulleted" bullet-style="bullet">
+<item>Cash was used to pay for salaries, which decreases the Cash account. Cash is an asset that decreases on the credit side.</item>
+<item>Salaries are an expense to the business for employee work. This will increase Salaries Expense, affecting equity. Expenses increase on the debit side; thus, Salaries Expense will increase on the debit side.</item>
+</list>
+<media id="fs-idm366771392" alt="A journal entry dated January 20, 2019. Debit Salaries Expense, 3,600. Credit Cash, 3,600. Explanation: “Paid employee salaries.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornEx11_img.jpg"/>
+</media>
+<para id="fs-idm388710688"><emphasis effect="bold">Impact on the financial statements:</emphasis> You have an expense of $3,600. Expenses are reported on the income statement. More expenses lead to a decrease in net income (earnings). The fewer earnings you have, the fewer retained earnings you will end up with. Retained earnings is a stockholders’ equity account, so total equity will decrease by $3,600. Cash is decreasing, so total assets will decrease by $3,600, impacting the balance sheet.</para>
+<media id="fs-idm393852880" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: minus $3,600 under Assets; plus $0 under Liabilities; minus $3,600 under Stockholders’ Equity. Next: horizontal lines under Assets, Liabilities, and Stockholders’ Equity. A final line of totals: $3,600 equals $0 plus $3,600.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_TAcct09_img.jpg"/>
+</media>
+<para id="fs-idm410245248"><emphasis effect="bold">Transaction 10:</emphasis> On January 23, 2019, received cash payment in full from the customer on the January 10 transaction.</para>
+<para id="fs-idm395198240"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm394297056" list-type="bulleted" bullet-style="bullet">
+<item>Cash was received, thus increasing the Cash account. Cash is an asset, and assets increase on the debit side.</item>
+<item>Accounts Receivable was originally used to recognize the future customer payment; now that the customer has paid in full, Accounts Receivable will decrease. Accounts Receivable is an asset, and assets decrease on the credit side.</item>
+</list>
+<media id="fs-idm402053424" alt="A journal entry dated January 23, 2019. Debit Cash, 5,500. Credit Accounts Receivable, 5,500. Explanation: “Received customer payment from January 10.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornEx12_img.jpg"/>
+</media>
+<para id="fs-idm366648064"><emphasis effect="bold">Impact on the financial statements:</emphasis> In this transaction, there was an increase to one asset (Cash) and a decrease to another asset (Accounts Receivable). This means total assets change by $0, because the increase and decrease to assets in the same amount cancel each other out. There are no changes to liabilities or stockholders’ equity, so the equation is still in balance. Since there are no revenues or expenses affected, there is no effect on the income statement.</para>
+<media id="fs-idm414338688" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: plus $5,500 and minus 5,500 under Assets; plus $0 under Liabilities; plus $0 under Stockholders’ Equity. Next: horizontal lines under Assets, Liabilities, and Stockholders’ Equity. A final line of totals: $0 equals $0 plus $0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_TAcct10_img.jpg"/>
+</media>
+<para id="fs-idm366380560"><emphasis effect="bold">Transaction 11:</emphasis> On January 27, 2019, provides $1,200 in services to a customer who asks to be billed for the services.</para>
+<para id="fs-idm394158896"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm392152080" list-type="bulleted" bullet-style="bullet">
+<item>The customer does not pay immediately for the services but is expected to pay at a future date. This creates an Accounts Receivable for Printing Plus. The customer owes the money, which increases Accounts Receivable. Accounts Receivable is an asset, and assets increase on the debit side.</item>
+<item>Printing Plus provided the service, thus earning revenue. Service Revenue would increase on the credit side.</item>
+</list>
+<media id="fs-idm393822208" alt="A journal entry dated January 27, 2019. Debit Accounts Receivable, 1,200. Credit Service Revenue, 1,200. Explanation: “Billed customer for services rendered.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornEx13_img.jpg"/>
+</media>
+<para id="fs-idm642019040"><emphasis effect="bold">Impact on the financial statements:</emphasis> Revenue is reported on the income statement. More revenue will increase net income (earnings), thus increasing retained earnings. Retained earnings is a stockholders’ equity account, so total equity will increase $1,200. Cash is increasing, which increases total assets on the balance sheet.</para>
+<media id="fs-idm393248736" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: plus $1,200 under Assets; plus $0 under Liabilities; plus $1,200 under Stockholders’ Equity. Next: horizontal lines under Assets, Liabilities, and Stockholders’ Equity. A final line of totals: $1,200 equals $0 plus $1,200.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_TAcct11_img.jpg"/>
+</media>
+<para id="fs-idm393519760"><emphasis effect="bold">Transaction 12:</emphasis> On January 30, 2019, purchases supplies on account for $500, payment due within three months.</para>
+<para id="fs-idm393136784"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm417513536" list-type="bulleted" bullet-style="bullet">
+<item>The company purchased supplies, which are assets to the business until used. Supplies is increasing, because the company has more supplies than it did before. Supplies is an asset that is increasing on the debit side.</item>
+<item>Printing Plus did not pay immediately for the supplies and asked to be billed for the supplies, payable at a later date. This creates a liability for the company, Accounts Payable. This liability increases Accounts Payable; thus, Accounts Payable increases on the credit side.</item>
+</list>
+<media id="fs-idm361033760" alt="A journal entry dated January 30, 2019. Debit Supplies, 500. Credit Accounts Payable, 500. Explanation: “Purchased supplies on account.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornEx14_img.jpg"/>
+</media>
+<para id="fs-idm391406816"><emphasis effect="bold">Impact on the financial statements:</emphasis> There is an increase to a liability and an increase to assets. These accounts both impact the balance sheet but not the income statement.</para>
+<media id="fs-idm403907360" alt="Heading: Assets equal Liabilities plus Stockholders’ Equity. Below the heading: plus $500 under Assets; plus $500 under Liabilities; plus $0 under Stockholders’ Equity. Next: horizontal lines under Assets, Liabilities, and Stockholders’ Equity. A final line of totals: $500 equals $500 plus $0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_TAcct12_img.jpg"/>
+</media>
+<para id="fs-idm404932256">The complete journal for these transactions is as follows:</para>
+<media id="fs-idm414336272" alt="A journal entry dated January 3, 2019. Debit Cash, 20,000. Credit Common Stock, 20,000. Recognize issue of common stock. January 5, 2019. Debit Equipment, 3,500. Credit Accounts Payable, 3,500. Recognize purchase of equipment on account. January 9, 2019. Debit Cash, 4,000. Credit Unearned Revenue, 4,000. Received advanced payments for services yet rendered. January 10, 2019. Debit Accounts Receivable, 5,500. Credit Service Revenue, 5,500. Revenue earned, billed customer. January 12, 2019. Debit Utility expense, 300. Credit Cash, 300. Paid utility bill. January 14, 2019. Debit Dividends, 100. Credit Cash, 100. Paid out dividends. January 17, 2019. Debit Cash, 2,800. Credit Service Revenue, 2,800. Collected cash for services rendered. January 18, 2019. Debit Accounts Payable, 3,500. Credit Cash, 3,500. Paid liability for equipment in full. January 20, 2019. Debit Salaries expense, 3,600. Credit Cash, 3,600. Paid employee salaries. January 23, 2019. Debit Cash, 5,500. Credit Accounts Receivable, 5,500. Received customer payment from January 10. January 27, 2019. Debit Accounts Receivable, 1,200. Credit Service Revenue, 1,200. Billed customers for services rendered. January 30, 2019. Debit Supplies, 500. Credit Accounts Payable, 500. Purchased supplies on account.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_TAcctSum01_img.jpg"/>
+</media>
+<para id="fs-idm372948464">We now look at the next step in the accounting cycle, step 3: post journal information to the ledger.</para>
+<note id="fs-idm416118224" class="continuing-application">
+<title>Colfax Market</title>
+<para id="fs-idm383672848"><emphasis class="colored-text">Colfax Market</emphasis> is a small corner grocery store that carries a variety of staple items such as meat, milk, eggs, bread, and so on. As a smaller grocery store, <emphasis class="colored-text">Colfax</emphasis> does not offer the variety of products found in a larger supermarket or chain. However, it records journal entries in a similar way.</para>
+<para id="fs-idm415962864">Grocery stores of all sizes must purchase product and track inventory. While the number of entries might differ, the recording process does not. For example, <emphasis class="colored-text">Colfax</emphasis> might purchase food items in one large quantity at the beginning of each month, payable by the end of the month. Therefore, it might only have a few accounts payable and inventory journal entries each month. Larger grocery chains might have multiple deliveries a week, and multiple entries for purchases from a variety of vendors on their accounts payable weekly.</para>
+<para id="fs-idm360593328">This similarity extends to other retailers, from clothing stores to sporting goods to hardware. No matter the size of a company and no matter the product a company sells, the fundamental accounting entries remain the same.</para>
+</note>
+</section>
+<section id="fs-idm396083040">
+<title>Posting to the General Ledger</title>
+<para id="fs-idm395858768">Recall that the general ledger is a record of each account and its balance. Reviewing journal entries individually can be tedious and time consuming. The general ledger is helpful in that a company can easily extract account and balance information. Here is a small section of a general ledger.</para>
+<media id="fs-idm395519600" alt="A General Ledger titled “Cash Account No. 101” with four columns labeled from left to right: Date, Description, Reference, Debit, Credit, Balance. Date 2019. Remaining columns are blank.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_Ledger01_img.jpg"/>
+</media>
+<para id="fs-idm408950160">You can see at the top is the name of the account “Cash,” as well as the assigned account number “101.” Remember, all asset accounts will start with the number 1. The date of each transaction related to this account is included, a possible description of the transaction, and a reference number if available. There are debit and credit columns, storing the financial figures for each transaction, and a balance column that keeps a running total of the balance in the account after every transaction.</para>
+<para id="fs-idm388960608">Let’s look at one of the journal entries from Printing Plus and fill in the corresponding ledgers.</para>
+<media id="fs-idm372728000" alt="A journal entry dated January 3, 2019. Debit Cash., 20,000. Credit Common Stock, 20,000. Explanation: Received cash in exchange for common stock. Below the journal entry is a General Ledger titled “Cash Account No. 101” with six columns, from left to right: Date; 2019, January 3. Description; Cash for Common Stock. Debit; 20,000. Balance; 20,000. Below is a General Ledger titled “Common Stock Account No. 301”. Date; 2019, January 3. Description; Cash for common stock. Credit; 20,000. Balance; 20,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornLedg01_img.jpg"/>
+</media>
+<para id="fs-idm393814000">As you can see, there is one ledger account for Cash and another for Common Stock. Cash is labeled account number 101 because it is an asset account type. The date of January 3, 2019, is in the far left column, and a description of the transaction follows in the next column. Cash had a debit of $20,000 in the journal entry, so $20,000 is transferred to the general ledger in the debit column. The balance in this account is currently $20,000, because no other transactions have affected this account yet.</para>
+<para id="fs-idm389764464">Common Stock has the same date and description. Common Stock had a credit of $20,000 in the journal entry, and that information is transferred to the general ledger account in the credit column. The balance at that time in the Common Stock ledger account is $20,000.</para>
+<para id="fs-idm394116528">Another key element to understanding the general ledger, and the third step in the accounting cycle, is how to calculate balances in ledger accounts.</para>
+<note id="fs-idm388704032" class="link-to-learning">
+<para id="fs-idm673590768">It is a good idea to familiarize yourself with the type of information companies report each year. Peruse <link url="https://openstax.org/l/50BestBuy2017"><emphasis class="colored-text">Best Buy</emphasis>’s 2017 annual report</link> to learn more about <emphasis class="colored-text">Best Buy</emphasis>. Take note of the company’s balance sheet on page 53 of the report and the income statement on page 54. These reports have much more information than the financial statements we have shown you; however, if you read through them you may notice some familiar items.</para>
+</note>
+</section>
+<section id="fs-idm393033072">
+<title>Calculating Account Balances</title>
+<para id="fs-idm395816208">When calculating balances in ledger accounts, one must take into consideration which side of the account increases and which side decreases. To find the account balance, you must find the difference between the sum of all figures on the side that increases and the sum of all figures on the side that decreases.</para>
+<para id="fs-idm353381152">For example, the Cash account is an asset. We know from the accounting equation that assets increase on the debit side and decrease on the credit side. If there was a debit of $5,000 and a credit of $3,000 in the Cash account, we would find the difference between the two, which is $2,000 (5,000 – 3,000). The debit is the larger of the two sides ($5,000 on the debit side as opposed to $3,000 on the credit side), so the Cash account has a debit balance of $2,000.</para>
+<para id="fs-idm399606480">Another example is a liability account, such as Accounts Payable, which increases on the credit side and decreases on the debit side. If there were a $4,000 credit and a $2,500 debit, the difference between the two is $1,500. The credit is the larger of the two sides ($4,000 on the credit side as opposed to $2,500 on the debit side), so the Accounts Payable account has a credit balance of $1,500.</para>
+<para id="fs-idm622665600">The following are selected journal entries from Printing Plus that affect the Cash account. We will use the Cash ledger account to calculate account balances.</para>
+<media id="fs-idm404758512" alt="A journal entry dated January 3, 2019. Debit Cash, 20,000. Credit Common Stock, 20,000. Recognize issue of common stock. January 9, 2019. Debit Cash, 4,000. Credit Unearned Revenue, 4,000. Received advanced payments for services yet rendered. January 12, 2019. Debit Utility expense, 300. Credit Cash, 300. Paid utility bill. January 14,2019. Debit Dividends, 100. Credit Cash, 100. Paid out dividends. January 17, 2019. Debit Cash, 2,800. Credit Service Revenue, 2,800. Collected cash for services rendered. January 18, 2019. Debit Accounts Payable, 3,500. Credit Cash, 3,500. Paid liability for equipment in full. January 20, 2019. Debit Salaries expense, 3,600. Credit Cash, 3,600. Paid employee salaries. January 23, 2019. Debit Cash, 5,500. Credit Accounts Receivable, 5,500. Received customer payment from January 10.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_CashLedg01_img.jpg"/>
+</media>
+<para id="fs-idm360613696">The general ledger account for Cash would look like the following:</para>
+<media id="fs-idm402392032" alt="A General Ledger titled “Cash Account No. 101” with six columns labeled left to right: Date, Item, Reference, Debit, Credit, Balance. Date: 2019, January 3; Item: Cash for common stock; Debit: 20,000; Balance: 20,000. Date: January 9; Item: Payment from client; Debit: 4,000; Balance: 24,000. Date: January 12; Item: Utility bill; Credit: 300; Balance: 23,700. Date: January 14; Item: Dividends payment; Credit: 100; Balance: 23,600. Date: January 17; Item: Cash for services; Debit: 2,800; Balance: 26,400. Date: January 18; Item: Paid cash for equipment; Credit: 3,500; Balance: 22,900. Date: January 20; Item: Paid employee salaries; Credit: 3,600; Balance: 19,300. Date: January 23; Item: Customer payment; Debit: 5,500; Balance: 24,800.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_CashLedg02_img.jpg"/>
+</media>
+<para id="fs-idm417993248">In the last column of the Cash ledger account is the running balance. This shows where the account stands after each transaction, as well as the final balance in the account. How do we know on which side, debit or credit, to input each of these balances? Let’s consider the general ledger for Cash.</para>
+<para id="fs-idm395070976">On January 3, there was a debit balance of $20,000 in the Cash account. On January 9, a debit of $4,000 was included. Since both are on the debit side, they will be added together to get a balance on $24,000 (as is seen in the balance column on the January 9 row). On January 12, there was a credit of $300 included in the Cash ledger account. Since this figure is on the credit side, this $300 is subtracted from the previous balance of $24,000 to get a new balance of $23,700. The same process occurs for the rest of the entries in the ledger and their balances. The final balance in the account is $24,800.</para>
+<para id="fs-idm673957248">Checking to make sure the final balance figure is correct; one can review the figures in the debit and credit columns. In the debit column for this cash account, we see that the total is $32,300 (20,000 + 4,000 + 2,800 + 5,500). The credit column totals $7,500 (300 + 100 + 3,500 + 3,600). The difference between the debit and credit totals is $24,800 (32,300 – 7,500). The balance in this Cash account is a debit of $24,800. Having a debit balance in the Cash account is the normal balance for that account.</para>
+</section>
+<section id="fs-idm394346256">
+<title>Posting to the T-Accounts</title>
+<para id="fs-idm390177952">The third step in the accounting cycle is to post journal information to the ledger. To do this we can use a T-account format. A company will take information from its journal and post to this general ledger. Posting refers to the process of transferring data from the journal to the general ledger. It is important to understand that T-accounts are only used for illustrative purposes in a textbook, classroom, or business discussion. They are not official accounting forms. Companies will use ledgers for their official books, not T-accounts.</para>
+<para id="fs-idm417695840">Let’s look at the journal entries for Printing Plus and post each of those entries to their respective T-accounts.</para>
+<para id="fs-idm406657536">The following are the journal entries recorded earlier for Printing Plus.</para>
+<para id="fs-idm373219552"><emphasis effect="bold">Transaction 1:</emphasis> On January 3, 2019, issues $20,000 shares of common stock for cash.</para>
+<media id="fs-idm381999136" alt="A journal entry dated January 3, 2019. Debit Cash, 20,000. Credit Common Stock, 20,000. Explanation: “To recognize issuance of common stock.” Below the journal entry are two T-accounts. The left account is labeled Cash, with a debit entry dated January 3 for 20,000, and a balance of 20,000. The right account is labeled Common Stock, with a credit entry dated January 3 for 20,000, and a balance of 20,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JrnTAcct01_img.jpg"/>
+</media>
+<para id="fs-idm400795136">In the journal entry, Cash has a debit of $20,000. This is posted to the Cash T-account on the debit side (left side). Common Stock has a credit balance of $20,000. This is posted to the Common Stock T-account on the credit side (right side).</para>
+<para id="fs-idm404818784"><emphasis effect="bold">Transaction 2:</emphasis> On January 5, 2019, purchases equipment on account for $3,500, payment due within the month.</para>
+<media id="fs-idm407800448" alt="A journal entry dated January 5, 2019. Debit Equipment, 3,500. Credit Accounts Payable, 3,500. Explanation: “To recognize purchase of equipment on account.” Below the journal entry are two T-accounts. The left account is labeled Equipment, with a debit entry dated January 5 for 3,500, and a balance of 3,500. The right account is labeled Accounts Payable, with a credit entry dated January 5 for 3,500, and a balance of 3,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JrnTAcct02_img.jpg"/>
+</media>
+<para id="fs-idm393851232">In the journal entry, Equipment has a debit of $3,500. This is posted to the Equipment T-account on the debit side. Accounts Payable has a credit balance of $3,500. This is posted to the Accounts Payable T-account on the credit side.</para>
+<para id="fs-idm396071664"><emphasis effect="bold">Transaction 3:</emphasis> On January 9, 2019, receives $4,000 cash in advance from a customer for services not yet rendered.</para>
+<media id="fs-idm382112208" alt="A journal entry dated January 9, 2019. Debit Cash, 4,000. Credit Unearned revenue, 4,000. Explanation: “To recognize receipt of customer advanced payment for services yet to be rendered.” Below the journal entry are two T-accounts. The left account is labeled Cash, with a debit entry dated January 3 for 20,000, a debit entry dated January 9 for 4,000, and a balance of 24,000. The right account is labeled Unearned Revenue, with a credit entry dated January 9 for 4,000, and a balance of 4,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JrnTAcct03_img.jpg"/>
+</media>
+<para id="fs-idm372579280">In the journal entry, Cash has a debit of $4,000. This is posted to the Cash T-account on the debit side. You will notice that the transaction from January 3 is listed already in this T-account. The next transaction figure of $4,000 is added directly below the $20,000 on the debit side. Unearned Revenue has a credit balance of $4,000. This is posted to the Unearned Revenue T-account on the credit side.</para>
+<para id="fs-idm358683936"><emphasis effect="bold">Transaction 4:</emphasis> On January 10, 2019, provides $5,500 in services to a customer who asks to be billed for the services.</para>
+<media id="fs-idm676583520" alt="A journal entry dated January 10, 2019. Debit Accounts Receivable, 5,500. Credit Service Revenue, 5,500. Explanation: “To recognize revenue earned, billed customer.” Below the journal entry are two T-accounts. The left account is labeled Accounts Receivable, with a debit entry dated January 10 for 5,500, and a balance of 5,500. The right account is labeled Service Revenue, with a credit entry dated January 10 for 5,500, and a balance of 5,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JrnTAcct04_img.jpg"/>
+</media>
+<para id="fs-idm406835088">In the journal entry, Accounts Receivable has a debit of $5,500. This is posted to the Accounts Receivable T-account on the debit side. Service Revenue has a credit balance of $5,500. This is posted to the Service Revenue T-account on the credit side.</para>
+<para id="fs-idm400793312"><emphasis effect="bold">Transaction 5:</emphasis> On January 12, 2019, pays a $300 utility bill with cash.</para>
+<media id="fs-idm400886688" alt="A journal entry dated January 12, 2019. Debit Utility Expense, 300. Credit Cash, 300. Explanation: “Paid utility bill with cash.” Below the journal entry are two T-accounts. The left account is labeled Utility Expense, with a debit entry dated January 12 for 300, and a balance of 300. The right account is labeled Cash, with a debit entry dated January 3 for 20,000, a debit entry dated January 9 for 4,000, a credit entry dated January 12 for 200, and a balance of 23,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JrnTAcct05_img.jpg"/>
+</media>
+<para id="fs-idm408438016">In the journal entry, Utility Expense has a debit balance of $300. This is posted to the Utility Expense T-account on the debit side. Cash has a credit of $300. This is posted to the Cash T-account on the credit side. You will notice that the transactions from January 3 and January 9 are listed already in this T-account. The next transaction figure of $300 is added on the credit side.</para>
+<para id="fs-idm389993904"><emphasis effect="bold">Transaction 6:</emphasis> On January 14, 2019, distributed $100 cash in dividends to stockholders.</para>
+<media id="fs-idm395324928" alt="A journal entry dated January 14, 2019. Debit Dividends, 100. Credit Cash, 100. Explanation: “Paid dividends with cash.” Below the journal entry are two T-accounts. The left account is labeled Dividends, with a debit entry dated January 14 for 100, and a balance of 100. The right account is labeled Cash, with a debit entry dated January 3 for 20,000, a debit entry dated January 9 for 4,000, a credit entry dated January 12 for 300, a credit entry dated January 14 for 100, and a balance of 23,600.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JrnTAcct06_img.jpg"/>
+</media>
+<para id="fs-idm398197200">In the journal entry, Dividends has a debit balance of $100. This is posted to the Dividends T-account on the debit side. Cash has a credit of $100. This is posted to the Cash T-account on the credit side. You will notice that the transactions from January 3, January 9, and January 12 are listed already in this T-account. The next transaction figure of $100 is added directly below the January 12 record on the credit side.</para>
+<para id="fs-idm813729472"><emphasis effect="bold">Transaction 7:</emphasis> On January 17, 2019, receives $2,800 cash from a customer for services rendered.</para>
+<media id="fs-idm367432048" alt="A journal entry dated January 17, 2019. Debit Cash, 2,800. Credit Service Revenue, 2,800. Explanation: “Collected cash for services rendered.” Below the journal entry are two T-accounts. The left account is labeled Cash, with a debit entry dated January 3 for 20,000, a debit entry dated January 9 for 4,000, a debit entry dated January 17 for 2,800, a credit entry dated January 12 for 300, a credit entry dated January 14 for 100, and a balance of 26,400. The right account is labeled Service Revenue, with a credit entry dated January 10 for 5,500, a credit entry dated January 17 for 2,800, and a balance of 8,300.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JrnTAcct07_img.jpg"/>
+</media>
+<para id="fs-idm415968832">In the journal entry, Cash has a debit of $2,800. This is posted to the Cash T-account on the debit side. You will notice that the transactions from January 3, January 9, January 12, and January 14 are listed already in this T-account. The next transaction figure of $2,800 is added directly below the January 9 record on the debit side. Service Revenue has a credit balance of $2,800. This too has a balance already from January 10. The new entry is recorded under the Jan 10 record, posted to the Service Revenue T-account on the credit side.</para>
+<para id="fs-idm412586368"><emphasis effect="bold">Transaction 8:</emphasis> On January 18, 2019, paid in full, with cash, for the equipment purchase on January 5.</para>
+<media id="fs-idm400090160" alt="A journal entry dated January 18, 2019. Debit Accounts Payable, 3,500. Credit Cash, 3,500. Explanation: “Paid liability for equipment in full.” Below the journal entry are two T-accounts. The left account is labeled Cash, with a debit entry dated January 3 for 20,000, a debit entry dated January 9 for 4,000, a debit entry dated January 17 for 2,800, a credit entry dated January 12 for 300, a credit entry dated January 14 for 100, a credit entry dated January 18 for 3,500 and a balance of 22,900. The right account is labeled Accounts Payable, with a credit entry dated January 5 for 3,500, a debit entry dated January 18 for 3,500, and a balance of 0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JrnTAcct08_img.jpg"/>
+</media>
+<para id="fs-idm397757952">On this transaction, Cash has a credit of $3,500. This is posted to the Cash T-account on the credit side beneath the January 14 transaction. Accounts Payable has a debit of $3,500 (payment in full for the Jan. 5 purchase). You notice there is already a credit in Accounts Payable, and the new record is placed directly across from the January 5 record.</para>
+<para id="fs-idm365534000"><emphasis effect="bold">Transaction 9:</emphasis> On January 20, 2019, paid $3,600 cash in salaries expense to employees.</para>
+<media id="fs-idm409698144" alt="A journal entry dated January 20, 2019. Debit Salaries Expense, 3,600. Credit Cash, 3,600. Explanation: “Paid employee salaries.” Below the journal entry are two T-accounts. The left account is labeled Cash, with a debit entry dated January 3 for 20,000, a debit entry dated January 9 for 4,000, a debit entry dated January 17 for 2,800, a credit entry dated January 12 for 300, a credit entry dated January 14 for 100, a credit entry dated January 18 for 3,500, a credit entry dated January 20 for 3,600, and a balance of 19,300. The right account is labeled Salaries Expense, with a debit entry dated January 20 for 3,600, and a balance of 3,600.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JrnTAcct09_img.jpg"/>
+</media>
+<para id="fs-idm681544080">On this transaction, Cash has a credit of $3,600. This is posted to the Cash T-account on the credit side beneath the January 18 transaction. Salaries Expense has a debit of $3,600. This is placed on the debit side of the Salaries Expense T-account.</para>
+<para id="fs-idm410273792"><emphasis effect="bold">Transaction 10:</emphasis> On January 23, 2019, received cash payment in full from the customer on the January 10 transaction.</para>
+<media id="fs-idm414546224" alt="A journal entry dated January 23, 2019. Debit Cash, 5,500. Credit Accounts Receivable, 5,500. Explanation: “Received customer payment from January 10.” Below the journal entry are two T-accounts. The left account is labeled Cash, with a debit entry dated January 3 for 20,000, a debit entry dated January 9 for 4,000, a debit entry dated January 17 for 2,800, a debit entry dated January 23 for 5,500, a credit entry dated January 12 for 300, a credit entry dated January 14 for 100, a credit entry dated January 18 for 3,500, a credit entry dated January 20 for 3,600, and a balance of 24,800. The right account is labeled Accounts Receivable, with a debit entry dated January 10 for 5,500, a credit entry dated January 23 for 5,500, and a balance of 0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JrnTAcct10_img.jpg"/>
+</media>
+<para id="fs-idm410953584">On this transaction, Cash has a debit of $5,500. This is posted to the Cash T-account on the debit side beneath the January 17 transaction. Accounts Receivable has a credit of $5,500 (from the Jan. 10 transaction). The record is placed on the credit side of the Accounts Receivable T-account across from the January 10 record.</para>
+<para id="fs-idm394073440"><emphasis effect="bold">Transaction 11:</emphasis> On January 27, 2019, provides $1,200 in services to a customer who asks to be billed for the services.</para>
+<media id="fs-idm393023760" alt="A journal entry dated January 27, 2019. Debit Accounts Receivable, 1,200. Credit Service Revenue, 1,200. Explanation: “Billed customer for services rendered.” Below the journal entry are two T-accounts. The left account is labeled Accounts Receivable, with a debit entry dated January 10 for 5,500, a debit entry dated January 27 for 1,200, a credit entry dated January 23 for 5,500, and a balance of 1,200. The right account is labeled Service Revenue, with a credit entry dated January 10 for 5,500, a credit entry dated January 17 for 2,800, a credit entry dated January 27 for 1,200, and a balance of 9,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JrnTAcct11_img.jpg"/>
+</media>
+<para id="fs-idm674136896">On this transaction, Accounts Receivable has a debit of $1,200. The record is placed on the debit side of the Accounts Receivable T-account underneath the January 10 record. Service Revenue has a credit of $1,200. The record is placed on the credit side of the Service Revenue T-account underneath the January 17 record.</para>
+<para id="fs-idm403234720"><emphasis effect="bold">Transaction 12:</emphasis> On January 30, 2019, purchases supplies on account for $500, payment due within three months.</para>
+<media id="fs-idm393872912" alt="A journal entry dated January 30, 2019. Debit Supplies, 500. Credit Accounts Payable, 500. Explanation: “Purchased supplies on account.” Below the journal entry are two T-accounts. The left account is labeled Supplies, with a debit entry dated January 30 for 500, and a balance of 500. The right account is labeled Accounts Payable, with a debit entry dated January 18 for 3,500, a credit entry dated January 9 for 3,500, a credit entry dated January 30 for 500, and a balance of 500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JrnTAcct12_img.jpg"/>
+</media>
+<para id="fs-idm394045808">On this transaction, Supplies has a debit of $500. This will go on the debit side of the Supplies T-account. Accounts Payable has a credit of $500. You notice there are already figures in Accounts Payable, and the new record is placed directly underneath the January 5 record.</para>
+<section id="fs-idm400689392">
+<title>T-Accounts Summary</title>
+<para id="fs-idm389731984">Once all journal entries have been posted to T-accounts, we can check to make sure the accounting equation remains balanced. A summary showing the T-accounts for Printing Plus is presented in <link target-id="OSX_Acct_F03_05_TAcctSum03"/>.</para>
+<figure id="OSX_Acct_F03_05_TAcctSum03">
+<media id="fs-idm393594832" alt="Three columns headed Assets equal Liabilities plus Equity. The Asset column has four T-accounts. Cash, with a debit entry dated January 3 for 20,000, a debit entry dated January 9 for 4,000, a debit entry dated January 17 for 2,800, a debit entry dated January 23 for 5,500, a credit entry dated January 12 for 300, a credit entry dated January 14 for 100, a credit entry dated January 18 for 3,500, a credit entry dated January 20 for 3,600, and a balance of 24,800. Accounts Receivable, with a debit entry dated January 10 for 5,500, a debit entry dated January 27 for 1,200, a credit entry dated January 23 for 5,500, and a balance of 1,200. Supplies, with a debit entry dated January 30 for 500, and a balance of 500. Equipment, with a debit entry dated January 5 for 3,500, and a balance of 3,500. The Liability column has two T-accounts. Accounts Payable, with a debit entry dated January 18 for 3,500, a credit entry dated January 9 for 3,500, a credit entry dated January 30 for 500, and a balance of 500. Unearned Revenue, with a credit entry dated January 9 for 4,000, and a balance of 4,000. The Equity column has five T-accounts. Common Stock, with a credit entry dated January 3 for 20,000, and a balance of 20,000. Dividends, with a debit entry dated January 14 for 100, and a balance of 100. Service Revenue, with a credit entry dated January 10 for 5,500, a credit entry dated January 17 for 2,800, a credit entry dated January 27 for 1,200, and a balance of 9,500. Salaries Expense, with a debit entry dated January 20 for 3,600, and a balance of 3,600. Utility Expense, with a debit entry dated January 12 for 300, and a balance of 300.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_TAcctSum03.jpg"/>
+</media>
+<caption>Summary of T-Accounts for Printing Plus. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm395129440">The sum on the assets side of the accounting equation equals $30,000, found by adding together the final balances in each asset account (24,800 + 1,200 + 500 + 3,500). To find the total on the liabilities and equity side of the equation, we need to find the difference between debits and credits. Credits on the liabilities and equity side of the equation total $34,000 (500 + 4,000 + 20,000 + 9,500). Debits on the liabilities and equity side of the equation total $4,000 (100 + 3,600 + 300). The difference $34,000 – $4,000 = $30,000. Thus, the equation remains balanced with $30,000 on the asset side and $30,000 on the liabilities and equity side. Now that we have the T-account information, and have confirmed the accounting equation remains balanced, we can create the unadjusted trial balance.</para>
+<note id="fs-idm674150768" class="your-turn"><title>Journalizing Transactions</title><para id="fs-idm397711712">You have the following transactions the last few days of April.</para>
+<table id="fs-idm366798400" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Apr. 25</entry>
+<entry valign="top" align="left">You stop by your uncle’s gas station to refill both gas cans for your company, Watson’s Landscaping. Your uncle adds the total of $28 to your account.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Apr. 26</entry>
+<entry valign="top" align="left">You record another week’s revenue for the lawns mowed over the past week. You earned $1,200. You received cash equal to 75% of your revenue.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Apr. 27</entry>
+<entry valign="top" align="left">You pay your local newspaper $35 to run an advertisement in this week’s paper.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Apr. 29</entry>
+<entry valign="top" align="left">You make a $25 payment on account.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<list id="fs-idm410847088" list-type="enumerated" number-style="upper-alpha">
+<item>Prepare the necessary journal entries for these four transactions.</item>
+<item>Explain why you debited and credited the accounts you did.</item>
+<item>What will be the new balance in each account used in these entries?</item>
+</list>
+<para id="fs-idm407182576"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm417047024" alt="A journal entry dated April 25, 2018. Debit Gas expense, 28. Credit Accounts payable, 28. Explanation: “Purchased gas on account.” April 26, 2018. Debit Cash, 900. Debit Accounts receivable, 300. Credit Lawnmowing revenue, 1,200. Explanation: “Earned $1,200 revenue: received 75 percent in cash.” April 27, 2018. Debit Advertising expense, 35. Credit Cash, 35. Explanation: “Paid cash to run an ad in the newspaper.” April 29, 2018. Debit Accounts payable, 25. Credit Cash, 25. Explanation: “Made a payment on account.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_YT01SnJrn_img.png"/>
+</media>
+<para id="fs-idm407821776">April 25</para>
+<list id="fs-idm388758384" list-type="bulleted" bullet-style="bullet">
+<item>You have incurred more gas expense. This means you have an increase in the total amount of gas expense for April. Expenses go up with debit entries. Therefore, you will debit gas expense.</item>
+<item>You purchased the gas on account. This will increase your liabilities. Liabilities increase with credit entries. Credit accounts payable to increase the total in the account.</item>
+</list>
+<para id="fs-idm413046960">April 26</para>
+<list id="fs-idm394178448" list-type="bulleted" bullet-style="bullet">
+<item>You have received more cash from customers, so you want the total cash to increase. Cash is an asset, and assets increase with debit entries, so debit cash.</item>
+<item>You also have more money owed to you by your customers. You have performed the services, your customers owe you the money, and you will receive the money in the future. Debit accounts receivable as asset accounts increase with debits.</item>
+<item>You have mowed lawns and earned more revenue. You want the total of your revenue account to increase to reflect this additional revenue. Revenue accounts increase with credit entries, so credit lawn-mowing revenue.</item>
+</list>
+<para id="fs-idm414854176">April 27</para>
+<list id="fs-idm362391872" list-type="bulleted" bullet-style="bullet">
+<item>Advertising is an expense of doing business. You have incurred more expenses, so you want to increase an expense account. Expense accounts increase with debit entries. Debit advertising expense.</item>
+<item>You paid cash for the advertising. You have less cash, so credit the cash account. Cash is an asset, and asset account totals decrease with credits.</item>
+</list>
+<para id="fs-idm385172960">April 29</para>
+<list id="fs-idm414018000" list-type="bulleted" bullet-style="bullet">
+<item>You paid “on account.” Remember that “on account” means a service was performed or an item was received without being paid for. The customer asked to be billed. You were the customer in this case. You made a purchase of gas on account earlier in the month, and at that time you increased accounts payable to show you had a liability to pay this amount sometime in the future. You are now paying down some of the money you owe on that account. Since you paid this money, you now have less of a liability so you want to see the liability account, accounts payable, decrease by the amount paid. Liability accounts decrease with debit entries.</item>
+<item>You paid, which means you gave cash (or wrote a check or electronically transferred) so you have less cash. To decrease the total cash, credit the account because asset accounts are reduced by recording credit entries.</item>
+</list>
+</note><note id="fs-idm397819152" class="your-turn"><title>Normal Account Balances</title><para id="fs-idm397444160">Calculate the balances in each of the following accounts. Do they all have the normal balance they should have? If not, which one? How do you know this?</para>
+<media id="fs-idm355909760" alt="A General Ledger titled “Cash Account No. 101” with six columns. Date: 2019. Six columns labeled left to right: Date, Item, Reference, Debit, Credit, Balance. Debit: 9,500; Balance: 9,500. Credit: 3,500; Balance: 6,000. Debit: 1,750; Balance: 7,750. Credit: 5,800; Balance: 1,950. Debit: 500; Balance: 2,450. Credit: 1,500; Balance: 950. ">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_YT02Ledg01_img.png"/>
+</media>
+<media id="fs-idm407854736" alt="A General Ledger titled “Accounts Receivable No. 111” with six columns. Date: 2019. Debt column entries: 4,500, 3,650, 825. Credit column entries: 4,250, 3,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_YT02Ledg02_img.png"/>
+</media>
+<media id="fs-idm406585792" alt="A General Ledger titled “Accounts Payable No. 201” with six columns. Date: 2019. Debit column entries: 500, 650. Credit column entries: 1,500, 875, 325.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_YT02Ledg03_img.png"/>
+</media>
+<para id="fs-idm410805616"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm409732352" alt="A General Ledger titled “Cash Account No. 101” with six columns. Date: 2019. Six columns labeled left to right: Date, Item, Reference, Debit, Credit, Balance. Debit: 9,500; Balance: 9,500. Credit: 3,500; Balance: 6,000. Debit: 1,750; Balance: 7,750. Credit: 5,800; Balance: 1,950. Debit: 500; Balance: 2,450. Credit: 1,500; Balance: 950. Credit: 1,200; Balance: 250.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_YT02Ledg04_img.png"/>
+</media>
+<media id="fs-idm406396288" alt="A General Ledger titled “Accounts Receivable No. 111” with six columns. Date: 2019. Six columns labeled left to right: Date, Item, Reference, Debit, Credit, Balance. Debit: 4,500; Balance: 4,500. Debit: 3,650; Balance: 8,150. Credit: 4,250; Balance: 3,900. Credit: 3,500; Balance: 400. Debit: 825; Balance: 1,225.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_YT02Ledg05_img.png"/>
+</media>
+<media id="fs-idm684250944" alt="A General Ledger titled “Accounts Payable No. 201” with six columns. Date: 2019. Six columns labeled left to right: Date, Item, Reference, Debit, Credit, Balance. Credit: 1,500; Balance: 1,500. Credit: 875; Balance: 2,375. Debit: 500; Balance: 1,875. Credit: 325; Balance: 2,200. Debit: 650; Balance: 1,550.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_YT02Ledg06_img.png"/>
+</media>
+</note><note id="fs-idm391657424" class="think-through">
+<title>Gift Cards</title>
+<para id="fs-idm392993856">Gift cards have become an important topic for managers of any company. Understanding who buys gift cards, why, and when can be important in business planning. Also, knowing when and how to determine that a gift card will not likely be redeemed will affect both the company’s balance sheet (in the liabilities section) and the income statement (in the revenues section).</para>
+<para id="fs-idm403257088">According to a 2017 holiday shopping report from the National Retail Federation, gift cards are the most-requested presents for the eleventh year in a row, with 61% of people surveyed saying they are at the top of their wish lists.<footnote id="fs-idm397195152">National Retail Federation (NRF). “NRF Consumer Survey Points to Busy Holiday Season, Backs Up Economic Forecast and Import Numbers.” October 27, 2017. https://nrf.com/media-center/press-releases/nrf-consumer-survey-points-busy-holiday-season-backs-economic-forecast</footnote> <emphasis effect="italics">CEB TowerGroup</emphasis> projects that total gift card volume will reach $160 billion by 2018.<footnote id="fs-idm382094512">CEB Tower Group. “2015 Gift Card Sales to Reach New Peak of $130 Billion.” PR Newswire. December 8, 2015. https://www.prnewswire.com/news-releases/2015-gift-card-sales-to-reach-new-peak-of-130-billion-300189615.html</footnote></para><para id="fs-idm406273552">How are all of these gift card sales affecting one of America’s favorite specialty coffee companies, <emphasis class="colored-text">Starbucks</emphasis>?</para>
+<para id="fs-idm394437472">In 2014 one in seven adults received a <emphasis class="colored-text">Starbucks</emphasis> gift card. On Christmas Eve alone $2.5 million gift cards were sold. This is a rate of 1,700 cards per minute.<footnote id="fs-idm359866432">Sara Haralson. “Last-Minute Shoppers Rejoice! Starbucks Has You Covered.” <emphasis effect="italics">Fortune</emphasis>. December 22, 2015. http://fortune.com/video/2015/12/22/starbucks-gift-cards/</footnote></para>
+<para id="fs-idm394192368">The following discussion about gift cards is taken from <emphasis class="colored-text">Starbucks</emphasis>’s 2016 annual report:</para>
+<quote id="fs-idm418005840"><para id="fs-idm373005504">When an amount is loaded onto a stored value card we recognize a corresponding liability for the full amount loaded onto the card, which is recorded within stored value card liability on our consolidated balance sheets. When a stored value card is redeemed at a company-operated store or online, we recognize revenue by reducing the stored value card liability. When a stored value card is redeemed at a licensed store location, we reduce the corresponding stored value card liability and cash, which is reimbursed to the licensee. There are no expiration dates on our stored value cards, and in most markets, we do not charge service fees that cause a decrement to customer balances. While we will continue to honor all stored value cards presented for payment, management may determine the likelihood of redemption, based on historical experience, is deemed to be remote for certain cards due to long periods of inactivity. In these circumstances, unredeemed card balances may be recognized as breakage income. In fiscal 2016, 2015, and 2014, we recognized breakage income of $60.5 million, $39.3 million, and $38.3 million, respectively.<footnote id="fs-idm389982000">U.S. Securities and Exchange Commission. Communication from Starbucks Corporation regarding 2014 10-K Filing. November 14, 2014. https://www.sec.gov/Archives/edgar/data/829224/000082922415000020/filename1.htm</footnote></para></quote>
+<para id="fs-idm415706736">As of October 1, 2017, <emphasis class="colored-text">Starbucks</emphasis> had a total of $1,288,500,000 in stored value card liability.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm385538032" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm388305184" list-type="bulleted" bullet-style="bullet">
+<item>Journals are the first place where information is entered into the accounting system, which is why they are often referred to as books of original entry.</item>
+<item>Journalizing transactions transfers information from accounting equation analysis to a record of each transaction.</item>
+<item>There are several formatting rules for journalizing transactions that include where to put debits and credits, which account titles come first, the need for a date and inclusion of a brief description.</item>
+<item>Step 3 in the accounting cycle posts journal information to the general ledger (T-accounts). Final balances in each account must be calculated before transfer to the trial balance occurs.</item>
+</list>
+</section>
+<section id="fs-idm397442592" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm391680368">
+<problem id="fs-idm393596400">
+<para id="fs-idm390239088"><link class="lo-reference" document="m67847"/>Which of the following accounts is increased by a debit?</para>
+<list id="fs-idm391165504" list-type="enumerated" number-style="upper-alpha">
+<item>Common Stock</item>
+<item>Accounts Payable</item>
+<item>Supplies</item>
+<item>Service Revenue</item>
+</list>
+</problem>
+<solution id="fs-idm414392144">
+<para id="fs-idm409773888">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm403029744">
+<problem id="fs-idm417610624">
+<para id="fs-idm404867744"><link class="lo-reference" document="m67847"/>Which of the following accounts does <emphasis effect="italics">not</emphasis> increase with a debit entry?</para><list id="fs-idm394973856" list-type="enumerated" number-style="upper-alpha">
+<item>Retained Earnings</item>
+<item>Buildings</item>
+<item>Prepaid Rent</item>
+<item>Electricity Expense</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm397977424">
+<problem id="fs-idm406791968">
+<para id="fs-idm400534320"><link class="lo-reference" document="m67847"/>Which of the following pairs increase with credit entries?</para>
+<list id="fs-idm375974272" list-type="enumerated" number-style="upper-alpha">
+<item>supplies and retained earnings</item>
+<item>rent expense and unearned revenue</item>
+<item>prepaid rent and common stock</item>
+<item>unearned service revenue and accounts payable</item>
+</list>
+</problem>
+<solution id="fs-idm385203136">
+<para id="fs-idm412654096">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm395956048">
+<problem id="fs-idm359891248">
+<para id="fs-idm409140160"><link class="lo-reference" document="m67847"/>Which of the following pairs of accounts are impacted the same with debits and credits?</para>
+<list id="fs-idm410536688" list-type="enumerated" number-style="upper-alpha">
+<item>Cash and Unearned Service Revenue</item>
+<item>Electricity Expense and Office Supplies</item>
+<item>Accounts Receivable and Accounts Payable</item>
+<item>Buildings and Common Stock</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm397220320">
+<problem id="fs-idm404901152">
+<para id="fs-idm388463632"><link class="lo-reference" document="m67847"/>Which of the following accounts will normally have a debit balance?</para>
+<list id="fs-idm409250480" list-type="enumerated" number-style="upper-alpha">
+<item>Common Stock</item>
+<item>Fees Earned</item>
+<item>Supplies</item>
+<item>Accounts Payable</item>
+</list>
+</problem>
+<solution id="fs-idm416394016">
+<para id="fs-idm388666224">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm392113840">
+<problem id="fs-idm406756464">
+<para id="fs-idm397748992"><link class="lo-reference" document="m67847"/>What type of account is prepaid insurance?</para>
+<list id="fs-idm391658640" list-type="enumerated" number-style="upper-alpha">
+<item>Stockholders’ Equity</item>
+<item>Expense</item>
+<item>Liability</item>
+<item>Asset</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm391861056">
+<problem id="fs-idm404983168">
+<para id="fs-idm390492256"><link class="lo-reference" document="m67847"/>Unearned service revenue occurs when which of the following occurs?</para>
+<list id="fs-idm378457040" list-type="enumerated" number-style="upper-alpha">
+<item>company receives cash from a customer before performing the service</item>
+<item>company pays cash before receiving a service from a supplier</item>
+<item>company pays cash after receiving a service from a supplier</item>
+<item>company receives cash from a customer after performing a service</item>
+</list>
+</problem>
+<solution id="fs-idm399307712">
+<para id="fs-idm374239632">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm673544928">
+<problem id="fs-idm393523056">
+<para id="fs-idm374502496"><link class="lo-reference" document="m67847"/>Which set of accounts has the same type of normal balance?</para>
+<list id="fs-idm388829296" list-type="enumerated" number-style="upper-alpha">
+<item>Cash, accounts payable</item>
+<item>Prepaid rent, unearned service revenue</item>
+<item>Dividends, common stock</item>
+<item>Accounts payable, retained earnings</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm414545120">
+<problem id="fs-idm686105712">
+<para id="fs-idm395000672"><link class="lo-reference" document="m67847"/>Which of these transactions requires a debit entry to Cash?</para>
+<list id="fs-idm391002272" list-type="enumerated" number-style="upper-alpha">
+<item>paid balance due to suppliers</item>
+<item>sold merchandise on account</item>
+<item>collected balance due from customers</item>
+<item>purchased supplies for cash</item>
+</list>
+</problem>
+<solution id="fs-idm646322528">
+<para id="fs-idm371452272">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm639056224">
+<problem id="fs-idm819414208">
+<para id="fs-idm397688768"><link class="lo-reference" document="m67847"/>Which of these transactions requires a credit entry to Revenue?</para>
+<list id="fs-idm394106912" list-type="enumerated" number-style="upper-alpha">
+<item>received cash from services performed this month</item>
+<item>collected balance due from customers</item>
+<item>received cash from bank loan</item>
+<item>refunded a customer for a defective product</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm372988288">
+<problem id="fs-idm414327600">
+<para id="fs-idm404877888"><link class="lo-reference" document="m67847"/>Which of these accounts commonly requires both debit and credit entries?</para>
+<list id="fs-idm388494528" list-type="enumerated" number-style="upper-alpha">
+<item>Sales Revenue</item>
+<item>Utilities Expense</item>
+<item>Accounts Receivable</item>
+<item>Common Stock</item>
+</list>
+</problem>
+<solution id="fs-idm366704368">
+<para id="fs-idm383638656">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm382099328">
+<problem id="fs-idm404938368">
+<para id="fs-idm410974192"><link class="lo-reference" document="m67847"/>Which of the following accounting records is the main source of information used to prepare the financial statements?</para>
+<list id="fs-idm402987728" list-type="enumerated" number-style="upper-alpha">
+<item>journal entries</item>
+<item>T-accounts</item>
+<item>trial balance</item>
+<item>chart of accounts</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm635601456">
+<problem id="fs-idm359853120">
+<para id="fs-idm394574160"><link class="lo-reference" document="m67847"/>Which of the following financial statements should be prepared first?</para>
+<list id="fs-idm684252432" list-type="enumerated" number-style="upper-alpha">
+<item>Balance Sheet</item>
+<item>Income Statement</item>
+<item>Retained Earnings Statement</item>
+<item>Statement of Cash Flows</item>
+</list>
+</problem>
+<solution id="fs-idm390169600">
+<para id="fs-idm686151296">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm393257840" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm376002416">
+<problem id="fs-idm406297808">
+<para id="fs-idm405086560"><link class="lo-reference" document="m67847"/>What do the terms “debit” and “credit” mean?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm374276208">
+<problem id="fs-idm395073808">
+<para id="fs-idm392244784"><link class="lo-reference" document="m67847"/>Will an accounts receivable balance increase with a debit or a credit entry? How do you know?</para>
+</problem>
+<solution id="fs-idm359764528">
+<para id="fs-idm392466544">The total in accounts receivable will increase with a debit. We know this because accounts receivable is an asset account, and asset balances increase with debit entries.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm385184784">
+<problem id="fs-idm400625968">
+<para id="fs-idm357294960"><link class="lo-reference" document="m67847"/>What types of accounts will increase with a credit?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm393628496">
+<problem id="fs-idm399524128">
+<para id="fs-idm642014320"><link class="lo-reference" document="m67847"/>What is a journal?</para>
+</problem>
+<solution id="fs-idm406709456">
+<para id="fs-idm364765008">A journal is a chronological listing of all of the recordable transactions that have occurred in a company.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm401356336">
+<problem id="fs-idm605125696">
+<para id="fs-idm395406128"><link class="lo-reference" document="m67847"/>Why is a journal referred to as the “book of original entry”?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm408304208">
+<problem id="fs-idm395322512">
+<para id="fs-idm397464752"><link class="lo-reference" document="m67847"/>What does the term <emphasis effect="italics">recognize</emphasis> mean?</para>
+</problem>
+<solution id="fs-idm395432032">
+<para id="fs-idm646242160">Recognize means to make a journal entry.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm397304544">
+<problem id="fs-idm392588560">
+<para id="fs-idm395178560"><link class="lo-reference" document="m67847"/>What are the rules you should follow when recording journal entries?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm414521904">
+<problem id="fs-idm409748544">
+<para id="fs-idm353382992"><link class="lo-reference" document="m67847"/>What is the general ledger?</para>
+</problem>
+<solution id="fs-idm397241952">
+<para id="fs-idm402171840">It is a comprehensive listing for all accounts a company has and their balances.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm371485184">
+<problem id="fs-idm394788048">
+<para id="fs-idm406488400"><link class="lo-reference" document="m67847"/>Explain the steps in posting.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm374588384">
+<problem id="fs-idm673877040">
+<para id="fs-idm388198832"><link class="lo-reference" document="m67847"/>What is a T-account? When would we use T-accounts?</para>
+</problem>
+<solution id="fs-idm388206416">
+<para id="fs-idm395374176">T-accounts represent the changes made to the general ledger. They are used as an illustrative tool when planning or discussing the effects a particular transaction will have on the accounting records. T-accounts are used in academic and business situations, as they are easier to sketch out than general journals.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm394905840">
+<problem id="fs-idm673655904">
+<para id="fs-idm674042944"><link class="lo-reference" document="m67847"/>Explain normal balances. Give three examples of accounts that will normally have a debit balance and three accounts that will normally have a credit balance.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm635386384">
+<problem id="fs-idm388576064">
+<para id="fs-idm402239168"><link class="lo-reference" document="m67847"/>What is a prepaid account? What type of account is it?</para>
+</problem>
+<solution id="fs-idm646329520">
+<para id="fs-idm391992144">A prepaid account is an account that shows the balance of money we have paid in advance of an expense being incurred. Prepaid accounts are assets.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm680096816">
+<problem id="fs-idm402111264">
+<para id="fs-idm388244944"><link class="lo-reference" document="m67847"/>What is an unearned account? What type of account is it?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm360605696">
+<problem id="fs-idm365578368">
+<para id="fs-idm393230768"><link class="lo-reference" document="m67847"/>Explain what a T-account is and what purpose it serves.</para>
+</problem>
+<solution id="fs-idm366672544">
+<para id="fs-idm408935936">A T-account is a visual depiction of the activity in an account. Entries made on the left side of the T-account represent debits, while entries on the right side represent credits. The ending account balance is the total net combined debits and credits for that account.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm402130384">
+<problem id="fs-idm390037968">
+<para id="fs-idm395171616"><link class="lo-reference" document="m67847"/>Can a credit entry be described as a generally positive or negative transaction? Explain.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm374526784">
+<problem id="fs-idm674152672">
+<para id="fs-idm409058800"><link class="lo-reference" document="m67847"/>What types of accounts are increased with a debit?</para>
+</problem>
+<solution id="fs-idm388320432">
+<para id="fs-idm402331184">Asset accounts, dividend accounts, and expense accounts are increased with a debit. (Also, contra-liability accounts, contra-equity accounts, and contra-revenue accounts are increased with a debit.)</para>
+</solution>
+</exercise>
+<exercise id="fs-idm366162592">
+<problem id="fs-idm643125472">
+<para id="fs-idm684674624"><link class="lo-reference" document="m67847"/>What types of accounts are increased with a credit?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm363300624">
+<problem id="fs-idm366651408">
+<para id="fs-idm392354640"><link class="lo-reference" document="m67847"/>What does an account’s “normal balance” indicate?</para>
+</problem>
+<solution id="fs-idm365914960">
+<para id="fs-idm642914352">Normal balance refers to the expected ending balance for an account, based on the way that the account balance increases (either debit or credit.)</para>
+</solution>
+</exercise>
+<exercise id="fs-idm399965200">
+<problem id="fs-idm409969440">
+<para id="fs-idm402091264"><link class="lo-reference" document="m67847"/>Does the order in which financial statements are prepared matter?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm635375584">
+<problem id="fs-idm819400080">
+<para id="fs-idm374569696"><link class="lo-reference" document="m67847"/>Answer the following questions about the trial balance: What is the purpose of it? What is the primary usefulness of it?</para>
+</problem>
+<solution id="fs-idm353305840">
+<para id="fs-idm360964400">The purpose of the trial balance is to recap the account balances, to ensure that debits equal credits. The trial balance is used to prepare the financial statements, in this order: Income Statement, Retained Earnings Statement, and Balance Sheet.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm388979344" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm393145520">
+<problem id="fs-idm390333792">
+<para id="fs-idm394658400"><link class="lo-reference" document="m67847"/>Determine whether the balance in each of the following accounts increases with a debit or a credit.</para>
+<list id="fs-idm373042704" list-type="enumerated" number-style="upper-alpha">
+<item>Cash</item>
+<item>Common Stock</item>
+<item>Equipment</item>
+<item>Accounts Payable</item>
+<item>Fees Earned</item>
+<item>Electricity Expense</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm404186752">
+<problem id="fs-idm397702848">
+<para id="fs-idm398438544"><link class="lo-reference" document="m67847"/>Journalize for Harper and Co. each of the following transactions or state no entry required and explain why. Be sure to follow proper journal writing rules.</para>
+<list id="fs-idm393366928" list-type="enumerated" number-style="upper-alpha">
+<item>A corporation is started with an investment of $50,000 in exchange for stock.</item>
+<item>Equipment worth $4,800 is ordered.</item>
+<item>Office supplies worth $750 are purchased on account.</item>
+<item>A part-time worker is hired. The employee will work 15–20 hours per week starting next Monday at a rate of $18 per hour.</item>
+<item>The equipment is received along with the invoice. Payment is due in three equal monthly installments, with the first payment due in sixty days.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm391667952">
+<problem id="fs-idm391694960">
+<para id="fs-idm376020768"><link class="lo-reference" document="m67847"/>Discuss how each of the following transactions for Watson, International, will affect assets, liabilities, and stockholders’ equity, and prove the company’s accounts will still be in balance.</para>
+<list id="fs-idm388545408" list-type="enumerated" number-style="upper-alpha">
+<item>An investor invests an additional $25,000 into a company receiving stock in exchange.</item>
+<item>Services are performed for customers for a total of $4,500. Sixty percent was paid in cash, and the remaining customers asked to be billed.</item>
+<item>An electric bill was received for $35. Payment is due in thirty days.</item>
+<item>Part-time workers earned $750 and were paid.</item>
+<item>The electric bill in “C” is paid.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm393672320">
+<problem id="fs-idm394976288">
+<para id="fs-idm390476752"><link class="lo-reference" document="m67847"/>For each item that follows, indicate whether a debit or a credit applies.</para>
+<list id="fs-idm394409776" list-type="enumerated" number-style="upper-alpha">
+<item>increase in prepaid insurance</item>
+<item>increase in utilities expense</item>
+<item>increase in commissions earned</item>
+<item>increase in supplies</item>
+<item>decrease in retained earnings</item>
+<item>decrease in income taxes payable</item>
+<item>increase in unearned revenue</item>
+<item>increase in salaries expense</item>
+<item>decrease in notes receivable</item>
+<item>increase in common stock</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm406496416">
+<problem id="fs-idm397655296">
+<para id="fs-idm407249552"><link class="lo-reference" document="m67847"/>Indicate whether each account that follows has a normal debit or credit balance.</para>
+<list id="fs-idm391032304" list-type="enumerated" number-style="upper-alpha">
+<item>Unearned Revenue</item>
+<item>Office Machines</item>
+<item>Prepaid Rent</item>
+<item>Cash</item>
+<item>Legal Fees Earned</item>
+<item>Salaries Payable</item>
+<item>Dividends</item>
+<item>Accounts Receivable</item>
+<item>Advertising Expense</item>
+<item>Retained Earnings</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm393608672">
+<problem id="fs-idm371456128">
+<para id="fs-idm674214784"><link class="lo-reference" document="m67847"/>A business has the following transactions:</para>
+<list id="fs-idm684901040" list-type="bulleted" bullet-style="bullet">
+<item>The business is started by receiving cash from an investor in exchange for common stock $20,000</item>
+<item>The business purchases supplies on account $500</item>
+<item>The business purchases furniture on account $2,000</item>
+<item>The business renders services to various clients on account totaling $9,000</item>
+<item>The business pays salaries $2,000</item>
+<item>The business pays this month’s rent $3,000</item>
+<item>The business pays for the supplies purchased on account.</item>
+<item>The business collects from one of its clients for services rendered earlier in the month $1,500.</item>
+</list>
+<para id="fs-idm397369152">What is total income for the month?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm357031600">
+<problem id="fs-idm402778784">
+<para id="fs-idm390588320"><link class="lo-reference" document="m67847"/>Prepare journal entries to record the following transactions.</para>
+<list id="fs-idm402373072" list-type="enumerated" number-style="upper-alpha"><item>January 22, purchased, an asset, merchandise inventory on account for $2,800.</item>
+<item>February 10, paid creditor for part of January 22 purchase, $1,600</item>
+</list></problem>
+</exercise>
+<exercise id="fs-idm373161216">
+<problem id="fs-idm388338112">
+<para id="fs-idm400566800"><link class="lo-reference" document="m67847"/>Prepare journal entries to record the following transactions.</para>
+<list id="fs-idm355902656" list-type="enumerated" number-style="upper-alpha">
+<item>July 1, issued common stock for cash, $15,000</item>
+<item>July 15, purchased supplies, on account, $1,800</item>
+<item>July 25, billed customer for accounting services provided, $950</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm389757680">
+<problem id="fs-idm360014192">
+<para id="fs-idm390084352"><link class="lo-reference" document="m67847"/>Prepare journal entries to record the following transactions.</para>
+<list id="fs-idm686045664" list-type="enumerated" number-style="upper-alpha">
+<item>March 1, purchased land for cash, $20,000</item>
+<item>March 11, purchased merchandise inventory, on account, $18,500</item>
+<item>March 15, Sold merchandise to customer for cash, $555</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm391542640">
+<problem id="fs-idm351421792">
+<para id="fs-idm407740256"><link class="lo-reference" document="m67847"/>Post the following February transactions to T-accounts for Accounts Receivable and Cash, indicating the ending balance (assume no beginning balances in these accounts).</para>
+<list id="fs-idm383520896" list-type="enumerated" number-style="upper-alpha">
+<item>provided legal services to customers for cash, $5,600</item>
+<item>provided legal services to customers on account, $4,700</item>
+<item>collected cash from customer accounts, $3,500</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm409217536">
+<problem id="fs-idm684916144">
+<para id="fs-idm410734960"><link class="lo-reference" document="m67847"/>Post the following November transactions to T-accounts for Accounts Payable and Inventory, indicating the ending balance (assume no beginning balances in these accounts).</para>
+<list id="fs-idm673973472" list-type="enumerated" number-style="upper-alpha">
+<item>purchased merchandise inventory on account, $22,000</item>
+<item>paid vendors for part of inventory purchased earlier in month, $14,000</item>
+<item>purchased merchandise inventory for cash, $6,500</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm390185792" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm680146080">
+<problem id="fs-idm635433264">
+<para id="fs-idm390473488"><link class="lo-reference" document="m67847"/>State whether the balance in each of the following accounts increases with a debit or a credit.</para>
+<list id="fs-idm374265312" list-type="enumerated" number-style="upper-alpha">
+<item>Office Supplies</item>
+<item>Retained Earnings</item>
+<item>Salaries Expense</item>
+<item>Accounts Receivable</item>
+<item>Service Revenue</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm402457376">
+<problem id="fs-idm388515104">
+<para id="fs-idm415531904"><link class="lo-reference" document="m67847"/>Journalize each of the following transactions or state no entry required and explain why. Be sure to follow proper journal writing rules.</para>
+<list id="fs-idm417677744" list-type="enumerated" number-style="upper-alpha">
+<item>A company is started with an investment of a machine worth $40,000. Common stock is received in exchange.</item>
+<item>Office furniture is ordered. The furniture worth $7,850 will be delivered in one week. The payment will be due forty-five days after delivery.</item>
+<item>An advertisement was run in the newspaper at a total cost of $250. Cash was paid when the order was placed.</item>
+<item>The office furniture is delivered.</item>
+<item>Services are performed for a client. The client was billed for $535.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm416333104">
+<problem id="fs-idm416363568">
+<para id="fs-idm415626816"><link class="lo-reference" document="m67847"/>Discuss how each of the following transactions will affect assets, liabilities, and stockholders’ equity, and prove the company’s accounts will still be in balance.</para>
+<list id="fs-idm388577136" list-type="enumerated" number-style="upper-alpha">
+<item>A company purchased $450 worth of office supplies on credit.</item>
+<item>The company parking lot was plowed after a blizzard. A check for $75 was given to the plow truck operator.</item>
+<item>$250 was paid on account.</item>
+<item>A customer paid $350 on account.</item>
+<item>Provided services for a customer, $500. The customer asked to be billed.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm374653328">
+<problem id="fs-idm360626144">
+<para id="fs-idm378404768"><link class="lo-reference" document="m67847"/>For each of the following items, indicate whether a debit or a credit applies.</para>
+<list id="fs-idm415634560" list-type="enumerated" number-style="upper-alpha">
+<item>increase in retained earnings</item>
+<item>decrease in prepaid rent</item>
+<item>increase in dividends</item>
+<item>decrease in salaries payable</item>
+<item>increase in accounts receivable</item>
+<item>decrease in common stock</item>
+<item>decrease in prepaid insurance</item>
+<item>decrease in advertising expense</item>
+<item>decrease in unearned service fees</item>
+<item>increase in office equipment</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm401305856">
+<problem id="fs-idm414862176">
+<para id="fs-idm414672304"><link class="lo-reference" document="m67847"/>Indicate whether each of the following accounts has a normal debit or credit balance.</para>
+<list id="fs-idm410261264" list-type="enumerated" number-style="upper-alpha">
+<item>prepaid landscaping expense</item>
+<item>common stock</item>
+<item>delivery vans</item>
+<item>maintenance expense</item>
+<item>retained earnings</item>
+<item>office supplies</item>
+<item>revenue earned</item>
+<item>accounts payable</item>
+<item>unearned painting revenue</item>
+<item>interest payable</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm366186800">
+<problem id="fs-idm416292272">
+<para id="fs-idm685945408"><link class="lo-reference" document="m67847"/>Krespy Corp. has a cash balance of $7,500 before the following transactions occur:</para>
+<list id="fs-idm372488256" list-type="enumerated" number-style="upper-alpha">
+<item>received customer payments of $965</item>
+<item>supplies purchased on account $435</item>
+<item>services worth $850 performed, 25% is paid in cash the rest will be billed</item>
+<item>corporation pays $275 for an ad in the newspaper</item>
+<item>bill is received for electricity used $235.</item>
+<item>dividends of $2,500 are distributed</item>
+</list>
+<para id="fs-idm417504496">What is the balance in cash after these transactions are journalized and posted?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm393926400">
+<problem id="fs-idm351405056">
+<para id="fs-idm415405424"><link class="lo-reference" document="m67847"/>A business has the following transactions:</para>
+<list id="fs-idm402820592" list-type="enumerated" number-style="upper-alpha">
+<item>The business is started by receiving cash from an investor in exchange for common stock $10,000.</item>
+<item>Rent of $1,250 is paid for the first month.</item>
+<item>Office supplies are purchased for $375.</item>
+<item>Services worth $3,450 are performed. Cash is received for half.</item>
+<item>Customers pay $1,250 for services to be performed next month.</item>
+<item>$6,000 is paid for a one year insurance policy.</item>
+<item>We receive 25% of the money owed by customers in “D”.</item>
+<item>A customer has placed an order for $475 of services to be done this coming week.</item>
+</list>
+<para id="fs-idm635351872">How much total revenue does the company have?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm378379824">
+<problem id="fs-idm388541984">
+<para id="fs-idm416365648"><link class="lo-reference" document="m67847"/>Prepare journal entries to record the following transactions.</para>
+<list id="fs-idm397609504" list-type="enumerated" number-style="upper-alpha">
+<item>November 19, purchased merchandise inventory, on account, $12,000</item>
+<item>November 29, paid creditor for part of November 19 purchase, $10,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm397378032">
+<problem id="fs-idm357565376">
+<para id="fs-idm397499552"><link class="lo-reference" document="m67847"/>Prepare journal entries to record the following transactions:</para>
+<list id="fs-idm388505120" list-type="enumerated" number-style="upper-alpha">
+<item>December 1, collected balance due from customer account, $5,500</item>
+<item>December 12, paid creditors for supplies purchased last month, $4,200</item>
+<item>December 31, paid cash dividend to stockholders, $1,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm365561344">
+<problem id="fs-idm400648576">
+<para id="fs-idm364809680"><link class="lo-reference" document="m67847"/>Prepare journal entries to record the following transactions:</para>
+<list id="fs-idm395313616" list-type="enumerated" number-style="upper-alpha">
+<item>October 9, issued common stock in exchange for building, $40,000</item>
+<item>October 12, purchased supplies on account, $3,600</item>
+<item>October 24, paid cash dividend to stockholders, $2,500</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm404797920">
+<problem id="fs-idm390770944">
+<para id="fs-idm376947472"><link class="lo-reference" document="m67847"/>Post the following August transactions to T-accounts for Accounts Payable and Supplies, indicating the ending balance (assume no beginning balances in these accounts):</para>
+<list id="fs-idm644075040" list-type="enumerated" number-style="upper-alpha">
+<item>purchased supplies on account, $600</item>
+<item>paid vendors for supplies delivered earlier in month, $500</item>
+<item>purchased supplies for cash, $450</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm635441952">
+<problem id="fs-idm390073520">
+<para id="fs-idm415603424"><link class="lo-reference" document="m67847"/>Post the following July transactions to T-accounts for Accounts Receivable and Cash, indicating the ending balance (assume no beginning balances in these accounts):</para>
+<list id="fs-idm413666576" list-type="enumerated" number-style="upper-alpha">
+<item>sold products to customers for cash, $8,500</item>
+<item>sold products to customers on account, $2,900</item>
+<item>collected cash from customer accounts, $1,600</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm415597136" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm398214240">
+<problem id="fs-idm415387104">
+<para id="fs-idm394120304"><link class="lo-reference" document="m67847"/>The following information is provided for the first month of operations for Legal Services Inc.:</para>
+<list id="fs-idm391602800" list-type="enumerated" number-style="upper-alpha">
+<item>The business was started by selling $100,000 worth of common stock.</item>
+<item>Six months’ rent was paid in advance, $4,500.</item>
+<item>Provided services in the amount of $1,000. The customer will pay at a later date.</item>
+<item>An office worker was hired. The worker will be paid $275 per week.</item>
+<item>Received $500 in payment from the customer in “C”.</item>
+<item>Purchased $250 worth of supplies on credit.</item>
+<item>Received the electricity bill. We will pay the $110 in thirty days.</item>
+<item>Paid the worker hired in “D” for one week’s work.</item>
+<item>Received $100 from a customer for services we will provide next week.</item>
+<item>Dividends in the amount of $1,500 were distributed.</item>
+</list>
+<para id="fs-idm415555344">Prepare the necessary journal entries to record these transactions. If an entry is not required for any of these transactions, state this and explain why.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm415865552">
+<problem id="fs-idm415288544">
+<para id="fs-idm373116128"><link class="lo-reference" document="m67847"/> Sewn for You had the following transactions in its first week of business.</para>
+<list id="fs-idm416301520" list-type="enumerated" number-style="upper-alpha">
+<item>Jessica Johansen started Sewn for You, a seamstress business, by contributing $20,000 and receiving stock in exchange.</item>
+<item>Paid $2,250 to cover the first three months’ rent.</item>
+<item>Purchased $500 of sewing supplies. She paid cash for the purchase.</item>
+<item>Purchased a sewing machine for $1,500 paying $200 cash and signing a note for the balance.</item>
+<item>Finished a job for a customer earning $180. The customer paid cash.</item>
+<item>Received a $500 down payment to make a wedding dress.</item>
+<item>Received an electric bill for $125 which is due to be paid in three weeks.</item>
+<item>Completed an altering job for $45. The customer asked to be billed.</item>
+</list>
+<para id="fs-idm416225200">Prepare the necessary journal entries to record these transactions. If an entry is not required for any of these transactions, state this and explain why.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm415550384">
+<problem id="fs-idm404998224">
+<para id="fs-idm415599008"><link class="lo-reference" document="m67847"/>George Hoskin started his own business, Hoskin Hauling. The following transactions occurred in the first two weeks:</para>
+<list id="fs-idm393143136" list-type="enumerated" number-style="upper-alpha">
+<item>George Hoskin contributed cash of $12,000 and a truck worth $10,000 to start the business. He received Common Stock in return.</item>
+<item>Paid two months' rent in advance, $800.</item>
+<item>Agreed to do a hauling job for a price of $1,200.</item>
+<item>Performed the hauling job discussed in “C.” We will get paid later.</item>
+<item>Received payment of $600 on the hauling job done in “D.”</item>
+<item>Purchased gasoline on credit, $50.</item>
+<item>Performed another hauling job. Earned $750, was paid cash.</item>
+</list>
+<para id="fs-idm402379904">Record the following transactions in T-accounts. Label each entry with the appropriate letter. Total the T-accounts when you are done.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm389926400">
+<problem id="fs-idm674025056">
+<para id="fs-idm402427808"><link class="lo-reference" document="m67847"/>Prepare journal entries to record the following transactions. Create a T-account for Cash, post any entries that affect the account, and calculate the ending balance for the account. Assume a Cash beginning balance of $16,333.</para>
+<list id="fs-idm403004448" list-type="enumerated" number-style="upper-alpha">
+<item>February 2, issued stock to shareholders, for cash, $25,000</item>
+<item>March 10, paid cash to purchase equipment, $16,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm373111904">
+<problem id="fs-idm415689904">
+<para id="fs-idm402248272"><link class="lo-reference" document="m67847"/>Prepare journal entries to record the following transactions. Create a T-account for Accounts Payable, post any entries that affect the account, and tally ending balance for the account. Assume an Accounts Payable beginning balance of $5,000.</para>
+<list id="fs-idm389151920" list-type="enumerated" number-style="upper-alpha">
+<item>February 2, purchased an asset, merchandise inventory, on account, $30,000</item>
+<item>March 10, paid creditor for part of February purchase, $12,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm409247488">
+<problem id="fs-idm391777216">
+<para id="fs-idm402899792"><link class="lo-reference" document="m67847"/>Prepare journal entries to record the following transactions for the month of July:</para>
+<list id="fs-idm415340432" list-type="enumerated" number-style="upper-alpha">
+<item>on first day of the month, paid rent for current month, $2,000</item>
+<item>on tenth day of month, paid prior month balance due on accounts, $3,100</item>
+<item>on twelfth day of month, collected cash for services provided, $5,500</item>
+<item>on twenty-first day of month, paid salaries to employees, $3,600</item>
+<item>on thirty-first day of month, paid for dividends to shareholders, $800</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm415459200">
+<problem id="fs-idm392241728">
+<para id="fs-idm415607856"><link class="lo-reference" document="m67847"/>Prepare journal entries to record the following transactions for the month of November:</para>
+<list id="fs-idm415616992" list-type="enumerated" number-style="upper-alpha">
+<item>on first day of the month, issued common stock for cash, $20,000</item>
+<item>on third day of month, purchased equipment for cash, $10,500</item>
+<item>on tenth day of month, received cash for accounting services, $14,250</item>
+<item>on fifteenth day of month, paid miscellaneous expenses, $3,200</item>
+<item>on last day of month, paid employee salaries, $8,600</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm635358400">
+<problem id="fs-idm360651744">
+<para id="fs-idm409035696"><link class="lo-reference" document="m67847"/>Post the following July transactions to T-accounts for Accounts Receivable, Sales Revenue, and Cash, indicating the ending balance. Assume no beginning balances in these accounts.</para>
+<list id="fs-idm415478288" list-type="enumerated" number-style="upper-alpha">
+<item>on first day of the month, sold products to customers for cash, $13,660</item>
+<item>on fifth day of month, sold products to customers on account, $22,100</item>
+<item>on tenth day of month, collected cash from customer accounts, $18,500</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm395031872">
+<problem id="fs-idm366213664">
+<para id="fs-idm402885296"><link class="lo-reference" document="m67847"/>Post the following November transactions to T-accounts for Accounts Payable, Inventory, and Cash, indicating the ending balance. Assume no beginning balances in Accounts Payable and Inventory, and a beginning Cash balance of $36,500.</para>
+<list id="fs-idm415592384" list-type="enumerated" number-style="upper-alpha">
+<item>purchased merchandise inventory on account, $16,000</item>
+<item>paid vendors for part of inventory purchased earlier in month, $12,000</item>
+<item>purchased merchandise inventory for cash, $10,500</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm374333728" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm393622000">
+<problem id="fs-idm416303728">
+<para id="fs-idm415419072"><link class="lo-reference" document="m67847"/>Prepare journal entries to record the following transactions. Create a T-account for Cash, post any entries that affect the account, and calculate the ending balance for the account. Assume a Cash beginning balance of $37,400.</para>
+<list id="fs-idm411729776" list-type="enumerated" number-style="upper-alpha">
+<item>May 12, collected balance due from customers on account, $16,000</item>
+<item>June 10, purchased supplies for cash, $4,444</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm415310128">
+<problem id="fs-idm415567584">
+<para id="fs-idm372779472"><link class="lo-reference" document="m67847"/>Prepare journal entries to record the following transactions. Create a T-account for Accounts Payable, post any entries that affect the account, and calculate the ending balance for the account. Assume an Accounts Payable beginning balance of $7,500.</para>
+<list id="fs-idm399295232" list-type="enumerated" number-style="upper-alpha">
+<item>May 12, purchased merchandise inventory on account. $9,200</item>
+<item>June 10, paid creditor for part of previous month’s purchase, $11,350</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm415538432">
+<problem id="fs-idm415716768">
+<para id="fs-idm388383184"><link class="lo-reference" document="m67847"/>Prepare journal entries to record the following transactions that occurred in April:</para>
+<list id="fs-idm391529456" list-type="enumerated" number-style="upper-alpha">
+<item>on first day of the month, issued common stock for cash, $15,000</item>
+<item>on eighth day of month, purchased supplies, on account, $1,800</item>
+<item>on twentieth day of month, billed customer for services provided, $950</item>
+<item>on twenty-fifth day of month, paid salaries to employees, $2,000</item>
+<item>on thirtieth day of month, paid for dividends to shareholders, $500</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm418449760">
+<problem id="fs-idm410243088">
+<para id="fs-idm408257328"><link class="lo-reference" document="m67847"/>Prepare journal entries to record the following transactions that occurred in March:</para>
+<list id="fs-idm416340224" list-type="enumerated" number-style="upper-alpha">
+<item>on first day of the month, purchased building for cash, $75,000</item>
+<item>on fourth day of month, purchased inventory, on account, $6,875</item>
+<item>on eleventh day of month, billed customer for services provided, $8,390</item>
+<item>on nineteenth day of month, paid current month utility bill, $2,000</item>
+<item>on last day of month, paid suppliers for previous purchases, $2,850</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm404986240">
+<problem id="fs-idm415354320">
+<para id="fs-idm397429376"><link class="lo-reference" document="m67847"/>Post the following November transactions to T-accounts for Accounts Payable, Inventory, and Cash, indicating the ending balance. Assume no beginning balances in Accounts Payable and Inventory, and a beginning Cash balance of $21,220.</para>
+<list id="fs-idm391562720" list-type="enumerated" number-style="upper-alpha">
+<item>purchased merchandise inventory on account, $9,900</item>
+<item>paid vendors for part of inventory purchased earlier in month, $6,500</item>
+<item>purchased merchandise inventory for cash, $4,750</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm415621840">
+<problem id="fs-idm415582512">
+<para id="fs-idm416356016"><link class="lo-reference" document="m67847"/>Post the following July transactions to T-accounts for Accounts Receivable, Sales Revenue, and Cash, indicating the ending balance. Assume no beginning balances in these accounts.</para>
+<list id="fs-idm394435424" list-type="enumerated" number-style="upper-alpha">
+<item>sold products to customers for cash, $7,500</item>
+<item>sold products to customers on account, $12,650</item>
+<item>collected cash from customer accounts, $9,500</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm357186224">
+<problem id="fs-idm360961712">
+<para id="fs-idm367487680"><link class="lo-reference" document="m67841"/>Prepare an unadjusted trial balance, in correct format, from the following alphabetized account information. Assume all accounts have normal balances.</para>
+<media id="fs-idm357517168" class="scaled-down-30" alt="Accounts payable $3,600; Accounts receivable 45,333; Building 156,000; Cash 50,480; Common Stock 110,000; Dividends 18,000; Equipment 33,500; Fees earned revenue 225,430; Land 18,000; Miscellaneous expense 5,123; Notes payable 85,500; Retained earnings 60,606; Salaries expense 151,900; Supplies 6,800.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_PB07_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm353320752">
+<problem id="fs-idm399682304">
+<para id="fs-idm366464304"><link class="lo-reference" document="m67841"/>Prepare an unadjusted trial balance, in correct format, from the following alphabetized account information. Assume all accounts have normal balances.</para>
+<media id="fs-idm375926960" class="scaled-down-30" alt="Accounts payable $18,000; Accounts receivable 4,000; Automobile 28,000; Cash 19,000; Common Stock 30,000; Dividends 16,000; Equipment 80,000; Insurance expense 8,000; Land 26,000; Notes payable (long term) 55,000; Salaries expense 37,000; Sales revenue 115,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_PB08_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm630596432" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm410153520">
+<problem id="fs-idm405119472">
+<para id="fs-idm397807856"><link class="lo-reference" document="m67847"/>Visit the website of the US Securities and Exchange Commission (SEC) (https://www.sec.gov/edgar/searchedgar/companysearch.html). Search for the latest Form 10-K for a company you would like to. When you are choosing, make sure the company sells a product (has inventory on the Balance Sheet, and Cost of Goods Sold on the Income Statement). Submit a short memo:</para>
+<list id="fs-idm390589360" list-type="enumerated" number-style="upper-alpha">
+<item>Include the name and ticker symbol of the company you have chosen.</item>
+<item>Follow the financial statement progression from the Income Statement to the Retained Earnings Statement to the Balance Sheet. Find the net income amount from the Income Statement and identify where it appears on the Statement of Retained Earnings (or the Statement of Stockholders’ Equity).</item>
+<item>On the statement found for instruction (A), find the ending retained earnings balance, and identify where it appears on the Balance Sheet for year-end.</item>
+<item>Provide the web link to the company’s Form 10-K to allow accurate verification of your answers.</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm630600912">
+<term>book of original entry</term>
+<meaning id="fs-idm366746880">journal is often referred to as this because it is the place the information originally enters into the system</meaning>
+</definition>
+<definition id="fs-idm397580048">
+<term>compound entry</term>
+<meaning id="fs-idm676591936">more than one account is listed under the debit and/or credit column of a journal entry</meaning>
+</definition>
+<definition id="fs-idm643100608">
+<term>journalizing</term>
+<meaning id="fs-idm394015584">entering information into a journal; second step in the accounting cycle</meaning>
+</definition>
+<definition id="fs-idm391474096">
+<term>simple entry</term>
+<meaning id="fs-idm813660224">only one debit account and one credit account are listed under the debit and credit columns of a journal entry</meaning>
+</definition>
+</glossary>
+</document>

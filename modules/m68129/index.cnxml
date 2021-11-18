@@ -1,0 +1,377 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Compare and Contrast Job Order Costing and Process Costing</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68129</md:content-id>
+  <md:title>Compare and Contrast Job Order Costing and Process Costing</md:title>
+  <md:abstract/>
+  <md:uuid>4815f80e-b2b1-496b-84b8-bdd150a1d466</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm190317776">As you’ve learned, job order costing is the optimal accounting method when costs and production specifications are not identical for each product or customer but the direct material and direct labor costs can easily be traced to the final product. Job order costing is often a more complex system and is appropriate when the level of detail is necessary, as discussed in <link document="m68122">Job Order Costing</link>. Examples of products manufactured using the job order costing method include tax returns or audits conducted by a public accounting firm, custom furniture, or, in a comprehensive example, semitrucks. At the <emphasis class="colored-text">Peterbilt</emphasis> factory in Denton, Texas, the company can build over 100,000 unique versions of their semitrucks without making the same truck twice.</para>
+<para id="fs-idm193797792"><term>Process costing</term> is the optimal costing system when a standardized process is used to manufacture identical products and the direct material, direct labor, and manufacturing overhead cannot be easily or economically traced to a specific unit. Process costing is used most often when manufacturing a product in batches. Each department or production process or batch process tracks its direct material and direct labor costs as well as the number of units in production. The actual cost to produce each unit through a process costing system varies, but the average result is an adequate determination of the cost for each manufactured unit. Examples of items produced and accounted for using a form of the process costing method could be soft drinks, petroleum products, or even furniture such as chairs, assuming that the company makes batches of the same chair, instead of customizing final products for individual customers.</para>
+<para id="fs-idm482267024">For example, small companies, such as David and William’s, and large companies, such as <emphasis class="colored-text">Nabisco</emphasis>, use similar cost-determination processes. In order to understand how much each product costs—for example, Oreo cookies—<emphasis class="colored-text">Nabisco</emphasis> uses process costing to track the direct materials, direct labor, and manufacturing overhead used in the manufacturing of its products. Oreo production has six distinct steps or departments: (1) make the cookie dough, (2) press the cookie dough into a molding machine, (3) bake the cookies, (4) make the filling and apply it to the cookies, (5) put the cookies together into a sandwich, and (6) and place the cookies into plastic trays and packages. Each department keeps track of its direct materials used and direct labor incurred, and manufacturing overhead applied to facilitate determining the cost of a batch of Oreo cookies.</para>
+<media id="fs-idm198681776" alt="Boxes labeled (from left to right): Make dough, Mold dough, Bake cookies, Apply filling, Assemble cookies, Package product. Arrows point from one box to the other from left to right.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_01_OreoProd_img.jpg"/>
+</media>
+<para id="fs-idm458637408">As previously mentioned, process costing is used when similar items are produced in large quantities. As such, many individuals immediately associate process costing with assembly line production. Process costing works best when products cannot be distinguished from each other and, in addition to obvious production line products like ice cream or paint, also works for more complex manufacturing of similar products like small engines. Conversely, products in a job order cost system are manufactured in small quantities and include custom jobs such as custom manufacturing products. They can also be legal or accounting tasks, movie production, or major projects such as construction activities.</para>
+<para id="fs-idm174991648">The difference between process costing and job order costing relates to how the costs are assigned to the products. In either costing system, the ability to obtain and analyze cost data is needed. This results in the costing system selected being the one that best matches the manufacturing process.</para>
+<para id="fs-idm215053344">A job order cost system is often more expensive to maintain than a basic process costing system, since there is a cost associated with assigning the individual material and labor to the product. Thus, a job order cost system is used for custom jobs when it is easy to determine the cost of materials and labor used for each job. A process cost system is often less expensive to maintain and works best when items are identical and it is difficult to trace the exact cost of materials and labor to the final product. For example, assume that your company uses three production processes to make jigsaw puzzles. The first process glues the picture on the cardboard backing, the second process cuts the puzzle into pieces, and the final process loads the pieces into the boxes and seals them. Tracing the complete costs for the batch of similar puzzles would likely entail three steps, with three separate costing system components. In this environment, it would be difficult and not economically feasible to trace the exact materials and the exact labor to each individual puzzle; rather, it would be more efficient to trace the costs per batch of puzzles.</para>
+<para id="fs-idm179437360">The costing system used typically depends on whether the company can most efficiently and economically trace the costs to the job (favoring job order costing system) or to the production department or batch (favoring a process costing system).</para>
+<para id="fs-idm170554240">While the costing systems are different from each other, management uses the information provided to make similar managerial decisions, such as setting the sales price. For example, in a job order cost system, each job is unique, which allows management to establish individual prices for individual projects. Management also needs to establish a sales price for a product produced with a process costing system, but this system is not designed to stop the production process and individually cost each batch of a product, so management must set a price that will work for many batches of the product.</para>
+<para id="fs-idm190268096">In addition to setting the sales price, managers need to know the cost of their products in order to determine the value of inventory, plan production, determine labor needs, and make long- and short-term plans. They also need to know the costs to determine when a new product should be added or an old product removed from production.</para>
+<para id="fs-idm218115680">In this chapter, you will learn when and why process costing is used. You’ll also learn the concepts of conversion costs and equivalent units of production and how to use these for calculating the unit and total cost of items produced using a process costing system.</para>
+<section id="fs-idm457352288">
+<title>Basic Managerial Accounting Terms Used in Job Order Costing and Process Costing</title>
+<para id="fs-idm194588800">Regardless of the costing system used, manufacturing costs consist of direct material, direct labor, and manufacturing overhead. <link target-id="OSX_Acct_M05_01_RockCity"/> shows a partial organizational chart for Rock City Percussion, a drumstick manufacturer. In this example, two groups—administrative and manufacturing—report directly to the chief financial officer (CFO). Each group has a vice president responsible for several departments. The organizational chart also shows the departments that report to the production department, illustrating the production arrangement. The material storage unit stores the types of wood used (hickory, maple, and birch), the tips (nylon and felt), and packaging materials.</para>
+<figure id="OSX_Acct_M05_01_RockCity">
+<media id="fs-idm177533616" alt="Box labeled Chief Financial Officer at the top points to two boxes just below labeled Administrative Group and Manufacturing Group. The Administrative Group box points to four boxes below that: Sales, Marketing, and Artist Relations; Customer Service; Human Resources; and Accounting and Finance/Product Design. The Manufacturing Group box points to three boxes below it: Production, Shipping, and Maintenance. The Production box points to three boxes below it: Materials Storeroom, Shaping, and Packaging.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_01_RockCity.jpg"/>
+</media>
+<caption>The Organizational Chart for Rock City Percussion. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm197899632">Understanding the company’s organization is an important first step in any costing system. Next is understanding the production process. The most basic drumstick is made of hickory and has a wooden tip. When the popular size 5A stick is manufactured, the hickory stored in the materials storeroom is delivered to the shaping department where the wood is cut into pieces, shaped into dowels, and shaped into the size 5A shape while under a stream of water. The sticks are dried, and then sent to the packaging department, where the sticks are embossed with the Rock City Percussion logo, inspected, paired, packaged, and shipped to retail outlets such as <emphasis class="colored-text">Guitar Center</emphasis>. The manufacturing process is described in <link target-id="OSX_Acct_M05_01_StickFlow"/>.</para>
+<figure id="OSX_Acct_M05_01_StickFlow">
+<media id="fs-idm470602544" alt="Four boxes with arrows pointing from left to right. Leftmost box is Materials Storeroom. Description: Raw materials are kept in stock until requested for manufacturing. The next box is Shaping and Drying. The Shaping Department begins the conversion of materials by shaping the drumsticks and transferring the work in process inventory to the Packaging Department. The next box is the Packaging Department. The Packaging Department completes the conversion of materials to finished product and transfers them to finished goods. All goods in this department are work in process. The last box is Finished Goods. Finished Goods items are complete and awaiting shipping to the retail outlet.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_01_StickFlow.jpg"/>
+</media>
+<caption>Rock City Percussion Manufacturing Process. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm492049488">The different units within Rock City Percussion illustrate the two main cost categories of a manufacturing company: manufacturing costs and administrative costs.</para>
+<note id="fs-idm183024800" class="link-to-learning">
+<para id="fs-idm220377936">Understanding the full manufacturing process for a product helps with tracking costs. This <link url="https://openstax.org/l/50drumsticks">video on how drumsticks are made</link> shows the production process for drumsticks at one company, starting with the raw wood and ending with packaging.</para>
+</note>
+<section id="fs-idm218508048">
+<title>Manufacturing Costs</title>
+<para id="fs-idm486578896"><term>Manufacturing costs</term> or <term>product costs</term> include all expenses required to manufacture the product: direct materials, direct labor, and manufacturing overhead. Since process costing assigns the costs to each department, the inventory at the end of the period includes the finished goods inventory, and the work in process inventory for each manufacturing department. For example, using the departments shown in <link target-id="OSX_Acct_M05_01_StickFlow"/>, raw materials inventory is the cost paid for the materials that remain in the storeroom until requested.</para>
+<para id="fs-idm198822016">While still in production, the work in process units are moved from one department to the next until they are completed, so the work in process inventory includes all of the units in the shaping and packaging departments. When the units are completed, they are transferred to finished goods inventory and become <term class="no-emphasis">costs of goods sold</term> when the product is sold.</para>
+<para id="fs-idm194527056">When assigning costs to departments, it is important to separate the product costs from the <term>period costs</term>, which are those that are typically related with a particular time period, instead of attached to the production of an asset. Management often needs additional information to make decisions and needs the product costs further categorized as prime costs or conversion costs (<link target-id="OSX_Acct_M05_02_MfgCosts"/>). <term>Prime costs</term> are costs that include the primary (or direct) product costs: direct material and direct labor. <term>Conversion costs</term> are the costs necessary to convert direct materials into a finished product: direct labor and manufacturing overhead, which includes other costs that are not classified as direct materials or direct labor, such as plant insurance, utilities, or property taxes. Also, note that direct labor is considered to be a component of both prime costs and conversion costs.</para>
+<figure id="OSX_Acct_M05_02_MfgCosts" class="scaled-down">
+<media id="fs-idm460770000" alt="A Venn diagram showing Direct Materials only in the left circle (Prime Costs), Direct Labor in the middle cross-over section, and Manufacturing Overhead only in the right circle (Conversion Costs).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_02_MfgCosts.jpg"/>
+</media>
+<caption>Prime Costs and Conversion Costs. Product costs can be categorized as prime costs (direct product costs) or conversion costs (costs incurred while converting the materials into a finished product). Direct labor is accounted for in both categories. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm203419856">Job order costing tracks prime costs to assign direct material and direct labor to individual products (jobs). Process costing also tracks prime costs to assign direct material and direct labor to each production department (batch). Manufacturing overhead is another cost of production, and it is applied to products (job order) or departments (process) based on an appropriate activity base.</para>
+<note id="fs-idm162318400" class="ethical-considerations">
+<title>The Unethical Bakery Accountant<footnote id="fs-idm223950560">Katy Vine. “Just Desserts.” <emphasis effect="italics">Texas Monthly</emphasis>. October 2010. https://features.texasmonthly.com/editorial/just-desserts/</footnote><sup>,</sup><footnote id="fs-idm216301232">Federal Bureau of Investigation (FBI). “Former Collin Street Bakery Executive and Wife Sentenced.” September 16, 2015. https://www.fbi.gov/contact-us/field-offices/dallas/news/press-releases/former-collin-street-bakery-executive-and-wife-sentenced</footnote></title>
+<para id="fs-idm453758336">According to the Federal Bureau of Investigation (FBI), “Sandy Jenkins was a shy, daydreaming accountant at the <emphasis class="colored-text">Collin Street Bakery</emphasis>, the world’s most famous fruitcake company. He was tired of feeling invisible, so he started stealing—and got a little carried away.” Being unethical netted the accountant ten years in federal prison, and his wife Kay was sentenced to five years’ probation and 100 hours of community service, and she was required to write a formal apology to the bakery. According to the FBI, “Jenkins spent over $11 million on a Black American Express card alone—roughly $98,000 per month over the course of the scheme—for a couple that had a legitimate income, through the Bakery, of approximately $50,000 per year.”</para>
+<para id="fs-idm183993680">How did this happen? <emphasis effect="italics">Texas Monthly</emphasis> reports that Sandy found a way to write unapproved checks in the accounting system. He implemented his accounting system and created checks that were “signed” by the owner of the company, Bob McNutt. McNutt was perplexed as to why his bakery was not more profitable year after year. The accountant was stealing the money while making the stolen checks appear to be paying for material costs or operating costs. According to <emphasis effect="italics">Texas Monthly</emphasis>, “Once Sandy was sure that nobody had noticed the first fraudulent check, he tried it again. And again and again. Each time, Sandy would repeat the scheme, pairing his fraudulent check with one that appeared legitimate. Someone would have to closely examine the checks to see any discrepancies, and that seemed unlikely.” The multimillion dollar fraud was exposed when another accountant looked closely at the checks and noticed discrepancies.</para>
+</note>
+</section>
+<section id="fs-idm214624208">
+<title>Selling and Administrative Expenses</title>
+<para id="fs-idm216421808"><term>Selling and administrative (S&amp;A) expenses</term> are period costs, which means that they are recorded in the period in which they were incurred. Selling and administrative expenses typically are not directly assigned to the items produced or services provided and include costs of departments not directly associated with manufacturing but necessary to operate the business. The selling costs component of S&amp;A expenses is related to the promotion and sale of the company’s products, while administrative expenses are related to the administration of the company. Some examples of S&amp;A expenses include marketing costs; administration building rent; the chief executive officer’s salary expense; and the accounting, payroll, and data processing department expenses.</para>
+<para id="fs-idm464703920">These general rules for S&amp;A expenses, however, have their exceptions. For example, some items that are classified as overhead, such as plant insurance, are period costs but are classified as overhead and are attached to the items produced as product costs.</para>
+<para id="fs-idm224026784">The <term>expense recognition principle</term> is the primary reason to separate the costs of production from the other expenses of the company. This principle requires costs to be recorded in the period in which they are incurred. The costs are expensed when matched to the revenue with which they are associated; this is commonly referred to as <emphasis effect="italics">having the expenses follow the revenues</emphasis>.</para>
+<para id="fs-idm468161952">Period costs are expensed during the period in which they are incurred; this allows a company to apply the administrative and other expenses shown on the income statement to the same period in which the company earns income. Under generally accepted accounting principles (GAAP), separating the production costs and assigning them to the department results in the costs of the product staying with the work in process inventory for each department. This follows the expense recognition principle because the cost of the product is expensed when revenue from the sale is recognized.</para>
+</section>
+</section>
+<section id="fs-idm219727568">
+<title>Equivalent Units</title>
+<para id="fs-idm198690096">In a process cost system, costs are maintained by each department, and the method for determining the cost per individual unit is different than in a job order costing system. Rock City Percussion uses a process cost system because the drumsticks are produced in batches, and it is not economically feasible to trace the direct labor or direct material, like hickory, to a specific drumstick. Therefore, the costs are maintained by each department, rather than by job, as they are in job order costing.</para>
+<para id="fs-idm199353264">How does an organization determine the cost of each unit in a process costing environment? The costs in each department are allocated to the number of units produced in a given period. This requires determination of the number of units produced, but this is not always an easy process. At the end of the accounting period, there typically are always units still in production, and these units are only partially complete. Think of it this way: At midnight on the last day of the month, all accounting numbers need to be determined in order to process the financial statements for that month, but the production process does not stop at the end of each accounting period. However, the number of units produced must be calculated at the end of the accounting period to determine the number of <term>equivalent units</term>, or the number of units that would have been produced if the units were produced sequentially and in their entirety in a particular time period. The number of equivalent units is different from the number of actual units and represents the number of full or whole units that could have been produced given the amount of effort applied. To illustrate, consider this analogy. You have five large pizzas that each contained eight slices. Your friends served themselves, and when they were finished eating, there were several partial pizzas left. In equivalent units, determine how many whole pizzas are left if the remaining slices are divided as shown in <link target-id="OSX_Acct_M05_01_EquivUnits"/>.</para>
+<list id="fs-idm208663232" list-type="bulleted">
+<item>Pie 1 had one slice</item>
+<item>Pie 2 had two slices</item>
+<item>Pie 3 had two slices</item>
+<item>Pie 4 had three slices</item>
+<item>Pie 5 had eight slices</item>
+</list>
+<para id="fs-idm179000864">Together, there are sixteen slices left. Since there are eight slices per pizza, the leftover pizza would be considered two full equivalent units of pizzas. The equivalent unit is determined separately for direct materials and for conversion costs as part of the computation of the per-unit cost for both material and conversion costs.</para>
+<figure id="OSX_Acct_M05_01_EquivUnits">
+<media id="fs-idm494984944" alt="A diagram showing five boxes with pizzas labeled 1 through 5. The first has seven grayed-out slices and one orange slice. The second and third have six grayed-out and two orange slices each. The fourth has five grayed-out and three orange, the fifth has eight orange slices. There are two more boxes filled with the orange slices, labeled Equivalent Units—one has the collection of the eight oranges slices collected from boxes 1 through 4, the other is the full box 5 repeated.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_01_EquivUnits.jpg"/>
+</media>
+<caption>Equivalent Units. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm196545792">
+<title>Major Characteristics of Process Costing</title>
+<para id="fs-idm200139760">Process costing is the optimal system for a company to use when the production process results in many similar units. It is used when production is continuous or occurs in large batches and it is difficult to trace a particular input cost to a specific individual product.</para>
+<para id="fs-idm195648704">For example, before David and William found ways to make five large cookies per batch, their family always made one large cookie per batch. In order to make five cookies at a time, they had to gather the ingredients and baking materials, including five bowls and five cookie sheets. The exact amount of ingredients for one large cookie was mixed in each separate bowl and then placed on the cookie sheet. When this method was used, it was easy to establish that exactly one egg, two cups of flour, three-quarter cup of chocolate chips, three-quarter cup of sugar, one-quarter teaspoon salt, and so forth, were in each cookie. This made it easy to determine the exact cost of each cookie. But if David and William used one bowl instead of five bowls, measured the ingredients into it and then divided the dough into five large cookies, they could not know for certain that each cookie has exactly two cups of flour. One cookie may have 1 7/8 cups and another may have 1 15/16 cups, and one cookie may have a few more chocolate chips than another. It is also impossible to trace the chocolate chips from each bag to each cookie because the chips were mixed together. These variations do not affect the taste and are not important in this type of accounting. Process costing is optimal when the products are relatively homogenous or indistinguishable from one another, such as bottles of vegetable oil or boxes of cereal.</para>
+<para id="fs-idm195980608">Often, process costing makes sense if the individual costs or values of each unit are not significant. For example, it would not be cost effective for a restaurant to make each cup of iced tea separately or to track the direct material and direct labor used to make each eight-ounce glass of iced tea served to a customer. In this scenario, job order costing is a less efficient accounting method because it costs more to track the costs per eight ounces of iced tea than the cost of a batch of tea. Overall, when it is difficult or not economically feasible to track the costs of a product individually, process costing is typically the best cost system to use.</para>
+<para id="fs-idm174765648">Process costing can also accommodate increasingly complex business scenarios. While making drumsticks may sound simple, an immense amount of technology is involved. Rock City Percussion makes 8,000 hickory sticks per day, four days each week. The sticks made of maple and birch are manufactured on the fifth day of the week. It is difficult to tell the first drumstick made on Monday from the 32,000th one made on Thursday, so a computer matches the sticks in pairs based on the tone produced.</para>
+<para id="fs-idm203404224">Process costing measures and assigns the costs to the associated department. The basic 5A hickory stick consists only of hickory as direct material. The rest of the manufacturing process involves direct labor and manufacturing overhead, so the focus is on properly assigning those costs. Thus, process costing works well for simple production processes such as cereal, rubber, and steel, and for more complicated production processes such as the manufacturing of electronics and watches, if there is a degree of similarity in the production process.</para>
+<para id="fs-idm196744592">In a process cost system, each department accumulates its costs to compute the value of work in process inventory, so there will be a work in process inventory for each manufacturing or production department as well as an inventory cost for finished goods inventory. Manufacturing departments are often organized by the various stages of the production process. For example, blending, baking, and packaging could each be categorized as manufacturing or production departments for the cookie producer, while cutting, assembly, and finishing could be manufacturing or production departments with accompanying costs for a furniture manufacturer. Each department, or process, will have its own work in process inventory account, but there will only be one finished goods inventory account.</para>
+<para id="fs-idm173264720">There are two methods used to compute the values in the work in process and finished goods inventories. The first method is the weighted-average method, which includes all costs (costs incurred during the current period and costs incurred during the prior period and carried over to the current period). This method is often favored, because in the process cost production method there often is little product left at the end of the period and most has been transferred out. The second method is the first-in, first-out (FIFO) method, which calculates the unit costs based on the assumption that the first units sold come from the prior period’s work in process that was carried over into the current period and completed. After these units are sold, the newer completed units can then be sold. The theory is similar to the FIFO inventory valuation process that you learned about in <link document="m67888">Inventory</link>. (Since the FIFO process costing method is more complicated than the weighted-average method, the FIFO method is typically covered in more advanced accounting courses.)</para>
+<para id="fs-idm192035728">With processing, it is difficult to establish how much of each material, and exactly how much time is in each unit of finished product. This will require the use of the equivalent unit computation, and management selects the method (weighted average or FIFO) that best fits their information system.</para>
+<para id="fs-idm212993088">Process costing can also be used by service organizations that provide homogeneous services and often do not have inventory to value, such as a hotel reservation system. Although they have no inventory, the hotel might want to know its costs per reservation for a period. They could allocate the total costs incurred by the reservation system based on the number of inquiries they served. For example, assume that in a year they incurred costs of $200,000 and served 50,000 potential guests. They could determine an average cost by dividing costs by number of inquiries, or $200,000/50,000 = $4.00 per potential guest.</para>
+<para id="fs-idm178996208">In the case of a not-for-profit company, the same process could be used to determine the average costs incurred by a department that performs interviews. The department’s costs would be allocated based on the number of cases processed. For example, assume a not-for-profit pet adoption organization has an annual budget of $180,000 and typically matches 900 shelter animals with new owners each year. The average cost would be $200 per match.</para>
+</section>
+<section id="fs-idm464651264">
+<title>Similarities between Process Costing and Job Order Costing</title>
+<para id="fs-idm214995024">Both process costing and job order costing maintain the costs of direct material, direct labor, and manufacturing overhead. The process of production does not change because of the costing method. The costing method is chosen based on the production process.</para>
+<para id="fs-idm198239536">In job order cost production, the costs can be directly traced to the job, and the job cost sheet contains the total expenses for that job. Process costing is optimal when the costs cannot be traced directly to the job. For example, it would be impossible for David and William to trace the exact amount of eggs in each chocolate chip cookie. It is also impossible to trace the exact amount of hickory in a drumstick. Even two sticks made sequentially may have different weights because the wood varies in density. These types of manufacturing are optimal for the process cost system.</para>
+<para id="fs-idm206821008">The similarities between job order cost systems and process cost systems are the product costs of materials, labor, and overhead, which are used determine the cost per unit, and the inventory values. The differences between the two systems are shown in <link target-id="fs-idm219979120"/>.</para>
+<table id="fs-idm219979120" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Differences between Job Order Costing and Process Costing</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="center">Job Order Costing</entry>
+<entry valign="bottom" align="center">Process Costing</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Product costs are traced to the product and recorded on each job’s individual job cost sheet.</entry>
+<entry valign="top" align="left">Product costs are traced to departments or processes.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Each department tracks its expenses and adds them to the job cost sheet. As jobs move from one department to another, the job cost sheet moves to the next department as well.</entry>
+<entry valign="top" align="left">Each department tracks its expenses, the number of units started or transferred in, and the number of units transferred to the next department.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Unit costs are computed using the job cost sheet.</entry>
+<entry valign="top" align="left">Unit costs are computed using the departmental costs and the equivalent units produced.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Finished goods inventory includes the products completed but not sold, and all incomplete jobs are work in process inventory.</entry>
+<entry valign="top" align="left">Finished goods inventory is the number of units completed at the per unit cost. Work in process inventory is the cost per unit and the equivalent units remaining to be completed.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-idm214513088" class="concepts-practice">
+<title>Choosing Between Process Costing and Job Order Costing</title>
+<para id="fs-idm213059952">Process costing and job order costing are both acceptable methods for tracking costs and production levels. Some companies use a single method, while some companies use both, which creates a hybrid costing system. The system a company uses depends on the nature of the product the company manufactures.</para>
+<para id="fs-idm179012688">Companies that mass produce a product allocate the costs to each department and use process costing. For example, <emphasis class="colored-text">General Mills</emphasis> uses process costing for its cereal, pasta, baking products, and pet foods. Job order systems are custom orders because the cost of the direct material and direct labor are traced directly to the job being produced. For example, <emphasis class="colored-text">Boeing</emphasis> uses job order costing to manufacture planes.</para>
+<para id="fs-idm168860096">When a company mass produces parts but allows customization on the final product, both systems are used; this is common in auto manufacturing. Each part of the vehicle is mass produced, and its cost is calculated with process costing. However, specific cars have custom options, so each individual car costs the sum of the specific parts used.</para>
+</note>
+<note id="fs-idm169317648" class="think-through">
+<title>Direct or Indirect Material</title>
+<para id="fs-idm207233232">Around Again is a wooden frame manufacturer. Wood and fastener metals are typically added at the beginning of the process and are easily tracked as direct material. Sometimes, after inspection, the product needs to be reworked and additional pieces are added. Because the frames have already been through each department, the additional work is typically minor and often entails simply adding an additional fastener to keep the back of the frame intact. Other times, all the frame needs is additional glue for a corner piece.</para>
+<para id="fs-idm211755760">How does a company differentiate between direct and indirect material? Many direct material costs, as the wood in the frame, are easy to identify as direct costs because the material is identifiable in the final product. But not all readily identifiable material is a direct material cost.</para>
+<para id="fs-idm206867616">Technology makes it easy to track costs as small as one fastener or ounce of glue. However, if each fastener had to be requisitioned and each ounce of glue recorded, the product would take longer to make and the direct labor cost would be higher. So, while it is possible to track the cost of each individual product, the additional information may not be worth the additional expense. Managerial accountants work with management to decide which products should be accounted for as direct material and tracked individually, versus which should be considered indirect material and allocated to the departments through overhead application.</para>
+<para id="fs-idm214688176">Should Around Again consider the fasteners or glue added after inspection as direct material or indirect material?</para>
+</note>
+</section>
+<section id="fs-idm199506096" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm203357520" list-type="bulleted" bullet-style="bullet">
+<item>The three categories of costs incurred in producing an item are direct material, direct labor, and manufacturing overhead.</item>
+<item>Process costing is the system of accumulating costs within each department for large-volume, mass-produced units.</item>
+<item>Process costing often groups direct labor and manufacturing overhead as conversion costs.</item>
+<item>Costs under GAAP are categorized as period costs when they are not related to production and instead cover a time period.</item>
+<item>Selling and administrative costs are period costs related to the sales of products and management of the company and are not directly tied to a specific product.</item>
+<item>Process costing determines the cost per unit through the use of equivalent units, or the number of units that would have been produced if production was sequential instead of in batches.</item>
+</list>
+</section>
+<section id="fs-idm223405200" class="multiple-choice">
+<exercise id="fs-idm469131584">
+<problem id="fs-idm200536752">
+<para id="fs-idm196997280"><link class="lo-reference" document="m68129"/>Which of the following production characteristics is better suited for process costing and <emphasis effect="italics">not</emphasis> job order costing?</para>
+<list id="fs-idm185331648" list-type="enumerated" number-style="upper-alpha">
+<item>Each product batch is distinguishable from the prior batch.</item>
+<item>The costs are easily traced to a specific product.</item>
+<item>Costs are accumulated by department.</item>
+<item>The value of work in process is the direct material used, the direct labor incurred, and the overhead applied to the job in process.</item>
+</list>
+</problem>
+<solution id="fs-idm209109664">
+<para id="fs-idm199204704">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm205106176">
+<problem id="fs-idm199601424">
+<para id="fs-idm217279536"><link class="lo-reference" document="m68129"/>A process costing system is most likely used by which of the following?</para>
+<list id="fs-idm214782720" list-type="enumerated" number-style="upper-alpha">
+<item>airplane manufacturing</item>
+<item>a paper manufacturing company</item>
+<item>an accounting firm specializing in tax returns</item>
+<item>a hospital</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm214657104">
+<problem id="fs-idm222080976">
+<para id="fs-idm442703696"><link class="lo-reference" document="m68129"/>Which of the following is a prime cost?</para>
+<list id="fs-idm187816544" list-type="enumerated" number-style="upper-alpha">
+<item>direct labor</item>
+<item>work in process inventory</item>
+<item>administrative labor</item>
+<item>factory maintenance expenses</item>
+</list>
+</problem>
+<solution id="fs-idm210725328">
+<para id="fs-idm179403568">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm200869264">
+<problem id="fs-idm207778960">
+<para id="fs-idm199749440"><link class="lo-reference" document="m68129"/>Which of the following is a conversion cost?</para>
+<list id="fs-idm195436432" list-type="enumerated" number-style="upper-alpha">
+<item>raw materials</item>
+<item>direct labor</item>
+<item>sales commissions</item>
+<item>direct material used</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm225538080">
+<problem id="fs-idm221008816">
+<para id="fs-idm218556560"><link class="lo-reference" document="m68129"/>During production, how are the costs in process costing accumulated?</para>
+<list id="fs-idm215026992" list-type="enumerated" number-style="upper-alpha">
+<item>to cost of goods sold</item>
+<item>to each individual product</item>
+<item>to manufacturing overhead</item>
+<item>to each individual department</item>
+</list>
+</problem>
+<solution id="fs-idm209332624">
+<para id="fs-idm203452864">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm214252976" class="questions">
+<exercise id="fs-idm224242160">
+<problem id="fs-idm470564944">
+<para id="fs-idm181711024"><link class="lo-reference" document="m68129"/>Explain how process costing differs from job order costing.</para>
+</problem>
+<solution id="fs-idm479008064">
+<para id="fs-idm203658080">Answers will vary but should include the following:</para>
+<table id="fs-idm195315248" class="unnumbered" summary="No Summary">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="bottom" align="left">Area</entry>
+<entry valign="bottom" align="left">Process</entry>
+<entry valign="bottom" align="left">Job Order</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Types of jobs</entry>
+<entry valign="bottom" align="left">Identical</entry>
+<entry valign="bottom" align="left">Custom order</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Quantity within each job</entry>
+<entry valign="bottom" align="left">Large volume</entry>
+<entry valign="bottom" align="left">Small volume</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Cost accumulation</entry>
+<entry valign="bottom" align="left">In each department</entry>
+<entry valign="bottom" align="left">In each job</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</solution>
+</exercise>
+<exercise id="fs-idm195258832">
+<problem id="fs-idm199186400">
+<para id="fs-idm200871584"><link class="lo-reference" document="m68129"/>Would a pharmaceutical manufacturer use process or job order costing? Why?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm175108752">
+<problem id="fs-idm177321760">
+<para id="fs-idm216290832"><link class="lo-reference" document="m68129"/>Which costs are assigned using the weighted-average method?</para>
+</problem>
+<solution id="fs-idm203915040">
+<para id="fs-idm481436992">The weighted-average method assigns the beginning inventory and the costs added during the period. The weighted-average method does not differentiate between the beginning inventory and the units started in production. This is different from the FIFO method that accounts for the beginning inventory differently and separately from current period costs.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm214475952">
+<problem id="fs-idm203364624">
+<para id="fs-idm203534016"><link class="lo-reference" document="m68129"/>What is the primary purpose of process costing?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm169393616" class="exercise-set-a">
+<exercise id="fs-idm196580304">
+<problem id="fs-idm216289408">
+<para id="fs-idm177810928"><link class="lo-reference" document="m68129"/>How many units were started into production in a period if there were zero units of beginning work in process inventory, 1,100 units in ending work in process inventory, and 21,500 completed and transferred out units?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm177542992">
+<problem id="fs-idm210315504">
+<para id="fs-idm468518736"><link class="lo-reference" document="m68129"/>A company started a new product, and in the first month started 100,000 units. The ending work in process inventory was 20,000 units that were 100% complete with materials and 75% complete with conversion costs. There were 100,000 units to account for, and the equivalent units for materials was $6 per unit while the equivalent units for conversion was $8 per unit. What is the value of the inventory transferred out, using the weighted-average inventory method?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm223929856" class="problem-set-a">
+<exercise id="fs-idm208454800">
+<problem id="fs-idm177599776">
+<para id="fs-idm200750624"><link class="lo-reference" document="m68129"/>The following product costs are available for Haworth Company on the production of chairs: direct materials, $15,500; direct labor, $22,000; manufacturing overhead, $16,500; selling expenses, $6,900; and administrative expenses, $15,200.</para>
+<list id="fs-idm201153520" list-type="enumerated" number-style="upper-alpha">
+<item>What are the prime costs?</item>
+<item>What are the conversion costs?</item>
+<item>What is the total product cost?</item>
+<item>What is the total period cost?</item>
+<item>If 7,750 equivalent units are produced, what is the equivalent material cost per unit?</item>
+<item>If 22,000 equivalent units are produced, what is the equivalent conversion cost per unit?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm199372624">
+<problem id="fs-idm200566544">
+<para id="fs-idm213074416"><link class="lo-reference" document="m68129"/>The following product costs are available for Arrez Company on the production of DVD cases: direct materials, $1,450; direct labor, $15.50; manufacturing overhead, applied at 150% of direct labor cost; selling expenses, $1,550; and administrative expenses, $950. The direct labor hours worked for the month are 90 hours.</para>
+<list id="fs-idm198181440" list-type="enumerated" number-style="upper-alpha">
+<item>What are the prime costs?</item>
+<item>What are the conversion costs?</item>
+<item>What is the total product cost?</item>
+<item>What is the total period cost?</item>
+<item>If 1,450 equivalent units are produced, what is the equivalent material cost per unit?</item>
+<item>What is the equivalent conversion cost per unit?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm213038144" class="thought-provokers">
+<exercise id="fs-idm177844896">
+<problem id="fs-idm214680832">
+<para id="fs-idm225955088"><link class="lo-reference" document="m68129"/>How would process costing exist in a service industry?</para>
+</problem>
+</exercise>
+</section>
+  </content>
+<glossary>
+<definition id="fs-idm214195744">
+<term>conversion cost</term>
+<meaning id="fs-idm201154800">total of labor and overhead for a product; the costs that “convert” the direct material into the finished product</meaning>
+</definition>
+<definition id="fs-idm197573776">
+<term>equivalent units</term>
+<meaning id="fs-idm174992640">number of units that would have been produced if the units were produced sequentially and in their entirety in a particular time period</meaning>
+</definition>
+<definition id="fs-idm218603856">
+<term>expense recognition principle</term>
+<meaning id="fs-idm210125152">(also, matching principle) matches expenses with associated revenues in the period in which the revenues were generated</meaning>
+</definition>
+<definition id="fs-idm221017088">
+<term>manufacturing costs</term>
+<meaning id="fs-idm215013584">(also, product costs) total of all costs expended in the manufacturing process; generally consists of direct material, direct labor, and manufacturing overhead</meaning>
+</definition>
+<definition id="fs-idm200713264">
+<term>period costs</term>
+<meaning id="fs-idm216362768">typically related to a particular time period instead of attached to the production of an asset; treated as an expense in the period incurred (examples include many sales and administrative expenses)</meaning>
+</definition>
+<definition id="fs-idm201811040">
+<term>prime costs</term>
+<meaning id="fs-idm197167984">direct material expenses and direct labor costs</meaning>
+</definition>
+<definition id="fs-idm214312480">
+<term>process costing</term>
+<meaning id="fs-idm199066752">costing system used when a standardized process is used to manufacture identical products and the direct material, direct labor, and manufacturing overhead cannot be traced to a specific unit</meaning>
+</definition>
+<definition id="fs-idm219763776">
+<term>product costs</term>
+<meaning id="fs-idm205392256">all expenses required to manufacture the product: direct materials, direct labor, and manufacturing overhead</meaning>
+</definition>
+<definition id="fs-idm219877312">
+<term>selling and administrative (S&amp;A) expenses</term>
+<meaning id="fs-idm195354896">period costs not directly assigned to the items produced or services provided; include costs of departments not directly associated with manufacturing but necessary to operate the business</meaning>
+</definition>
+</glossary>
+</document>

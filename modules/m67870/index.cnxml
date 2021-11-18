@@ -1,0 +1,553 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Describe and Explain the Purpose of Special Journals and Their Importance to Stakeholders</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67870</md:content-id>
+  <md:title>Describe and Explain the Purpose of Special Journals and Their Importance to Stakeholders</md:title>
+  <md:abstract/>
+  <md:uuid>ae5ef84f-4ed0-418d-9ee1-b39de3b217fd</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm359891248">The larger the business, the greater the likelihood that that business will have a large volume of transactions that need to be recorded in and processed by the company’s accounting information system. You’ve learned that each transaction is recorded in the general journal, which is a chronological listing of transactions. In other words, transactions are recorded into the general journal as they occur. While this is correct accounting methodology, it also can create a cumbersome general journal with which to work and may make finding specific pieces of information very challenging. For example, assume customer John Smith charged an item for $100 on June 1. In the general journal, the company would record the following.</para>
+<media id="fs-idm808383776" alt="Journal entry, dated June 1. Debit, Accounts Receivable: John Smith, 100. Credit, Sales, 100. Explanation: “To record sale on account to customer.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_02_GenJor_img.jpg"/>
+</media>
+<para id="fs-idm392555936">This journal entry would be followed by a journal entry for every other transaction the company had for the remainder of the period. Suppose, on June 27, Mr. Smith asked, “How much do I owe?” To answer this question, the company would need to review all of the pages of the general journal for nearly an entire month to find all of the sales transactions relating to Mr. Smith. And if Mr. Smith said, “I thought I paid part of that two weeks ago,” the company would have to go through the general journal to find all payment entries for Mr. Smith. Imagine if there were 1,000 similar credit sales transactions for the month, each one would be written in the general journal in a similar fashion, and all other transactions, such as the paying of bills, or the buying of inventory, would also be recorded, in chronological order, in the general journal. Thus, recording all transactions to the general journal makes it difficult to find the particular tidbits of information that are needed for one of our customers, Mr. Smith. The use of special journal and subsidiary ledgers can make the accounting information system more effective and allow for certain types of information to be obtained more easily.</para>
+<note id="fs-idm409221728" class="your-turn">
+<title>Using General Ledger (Control) Accounts</title>
+<para id="fs-idm374502496">Here is the information from the accounts payable subsidiary ledger:</para>
+<media id="fs-idm374298080" alt="Accounts Payable Subsidiary Ledger. Six Columns, labeled left to right: Date, Item, Reference, Debit, Credit, Balance. E. Presley, Ltd. Account, AP Number 34. Line One: December 1; Beginning Balance; Blank; Blank; Blank; 3,512. Line Two: December 31; Cash Disbursements; 144; 2,150; Blank; 1,362. M. Jackson, Inc. Account, AP Number 71. Line One: December 1; Beginning Balance; Blank; Blank; Blank; 1,879. Line Two: December 31; Purchases Journal; Blank; Blank; 2,589; 4,468. Madonna, Inc. Account, AP Number 171. Line One: December 1; Beginning Balance; Blank; Blank; Blank; 3,467. Line Two: December 31; Purchases Journal; Blank; Blank; 3,450; 6,917. Line Three: December 31; Purchases Journal; Blank; Blank: 1,500; 8,417. Line Four: December 31; General Journal, Return; 119; 250; Blank; 8,167.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_02_YT03a_img.png"/>
+</media>
+<para id="fs-idm686069248">What should the total be in the Accounts Payable Control Total?</para>
+<para id="fs-idm414799520">Here is the information from the accounts receivable subsidiary ledger.</para>
+<media id="fs-idm398078544" alt="Accounts Receivable Subsidiary Ledger. Six Columns, labeled left to right: Date, Item, Reference, Debit, Credit, Balance. M. Jordan, Inc. Account, Number 102045. Line One: December 1; Beginning Balance; Blank; Blank; Blank; 2,500. Line Two: December 4; Sales Journal; 27; 2,750; Blank; 5,250. Line Three: December 10; Cash Receipts; 24; Blank; 3,000; 2,250. R. Federer, Ltd. Account, Number 460708. Line One: December 1; Beginning Balance; Blank; Blank; Blank; 2,670. Line Two: December 1; Cash Receipts; 24; Blank; 2,670; 0. T. Woods, Inc. Account, Number 564300. Line One: December 1; Beginning Balance; Blank; Blank; Blank; 2,140. Line Two: December 17; Sales Journal; 27; 600; Blank; 2,740. Line Three: December 15; Cash Receipts; 24; Blank: 1,240; 1,500. S. Williams, Inc. Account, Number 42005. Line One: December 1, Beginning Balance; Blank; Blank; Blank; 7,160. Line Two: December 3; Sales Journal; 27; 1,800; Blank; 8,960. Line Three: December 8; General Journal; 119; Blank; 800; 8,160.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_02_YT03b_img.png"/>
+</media>
+<para id="fs-idm392710864">What should the total be in the Accounts Receivable Control Total?</para>
+<para id="fs-idm413505904"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm389725520">Accounts Payable Control Total is: 1,362 + 4,468 + 8,167 = 13,997</para>
+<para id="fs-idm416398416">Accounts Receivable Control Total is: 2,250 + 0 + 1,500 + 8,160 = 11,910</para>
+</note>
+<section id="fs-idm353152688">
+<title>Special Journals</title>
+<para id="fs-idm418170800">Instead of having just one general journal, companies group transactions of the same kind together and record them in <term>special journals</term> rather than in the general journal. This makes it easier and more efficient to find a specific type of transaction and speeds up the process of posting these transactions. In each special journal, all transactions are totaled at the end of the month, and these totals are posted to the general ledger. In addition, instead of one person entering all of the transactions in all of the journals, companies often assign a given special journal’s entries to one person. The relationship between the special journals, the general journal, and the general ledger can be seen in <link target-id="OSX_Acct_F07_02_LedgJourn"/>.</para>
+<figure id="OSX_Acct_F07_02_LedgJourn" class="scaled-down">
+<media id="fs-idm401429424" alt="Central circle labeled General Ledger surrounded by five boxes with arrows pointing to the General Ledger. The five boxed are labeled, clockwise from lower left: Sales Journal, Cash Receipts Journal, Cash Disbursements Journal, Purchases Journal, General Journal.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_02_LedgJourn.jpg"/>
+</media>
+<caption>Special and General. Transaction summaries form the special journals, and all transactions in the general journal are posted to the general ledger. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm647623152">Most companies have four special journals, but there can be more depending on the business needs. The four main special journals are the <term>sales journal</term>, <term>purchases journal</term>, <term>cash disbursements journal</term>, and <term>cash receipts journal</term>. These special journals were designed because some journal entries occur repeatedly. For example, selling goods for cash is always a debit to Cash and a credit to Sales recorded in the cash receipts journal. Likewise, we would record a sale of goods on credit in the sales journal, as a debit to accounts receivable and a credit to sales. Companies using a perpetual inventory system also record a second entry for a sale with a debit to cost of goods sold and a credit to inventory. You can see sample entries in <link target-id="OSX_Acct_F07_02_SJourn"/>.</para>
+<figure id="OSX_Acct_F07_02_SJourn">
+<media id="fs-idm412120320" alt="Sales Journal, page 10. Six columns, labeled left to right: Date, Account, Invoice Number, Reference, Debt Accounts Receivable and Credit Sales, Debit Cost of Goods Sold and Credit Merchandise Inventory. Line One, left to right: February 21, 2019; Jack Customer; 715; Blank; $5,200; $3,800. Line Two, left to right: February 23, 2019; Susan Carol; 716; Blank; $10,600; $8,400.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_02_SJourn.jpg"/>
+</media>
+<caption>Sales Journal. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm686010848">Note there is a column to enter the date the transaction took place; a column to indicate the customer to whom the transaction pertains; an invoice number that should match the number on the invoice given (in paper or electronically) to the customer; a reference box that indicates the transaction has been posted to the customer’s account and can include something as simple as a check mark or a code that links the transaction to other journals and ledgers; and the last two columns that indicate the accounts and amounts debited and credited.</para>
+<para id="fs-idm366841248">Purchases of inventory on credit would be recorded in the purchases journal (<link target-id="OSX_Acct_F07_02_PJourn"/>) with a debit to Merchandise Inventory and a credit to Accounts Payable.</para>
+<figure id="OSX_Acct_F07_02_PJourn">
+<media id="fs-idm351429824" alt="Purchases Journal, page 36. Six columns, labeled left to right: Date, Account, Invoice Number, Reference, Merchandise Inventory Debit, Accounts Payable Credit. Line One: February 14, 2019; Irving’s Inventory; 1542; Blank; $35,000; $35,000. Line Two: February 27, 2019; Greta’s Goods; 612; Blank; $14,700; $14,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_02_PJourn.jpg"/>
+</media>
+<caption>Purchases Journal. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm395004208">Paying bills is recorded in the cash disbursements journal (<link target-id="OSX_Acct_F07_02_CDJourn"/>) and is always a debit to Accounts Payable (or another payable or expense) and a credit to Cash.</para>
+<figure id="OSX_Acct_F07_02_CDJourn">
+<media id="fs-idm393133344" alt="Cash Disbursements Journal, Page 100. Six columns, labeled left to right: Date, Account, Invoice Number, Reference, Accounts Payable (or other account) Debit, Cash Credit. Line One: February 7, 2019; Mumford, Inc.; 1100; Blank; $15,000; $15,000. Line Two: February 18, 2019; Ballyho, Company; 716; Blank; $21,200; $21,200.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_02_CDJourn.jpg"/>
+</media>
+<caption>Cash Disbursements Journal. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm393648432">The receipt of cash from the sale of goods, as payment on accounts receivable or from other transactions, is recorded in a cash receipts journal (<link target-id="OSX_Acct_F07_02_CRJourn"/>) with a debit to cash and a credit to the source of the cash, whether that is from sales revenue, payment on an account receivable, or some other account.</para>
+<figure id="OSX_Acct_F07_02_CRJourn">
+<media id="fs-idm686164688" alt="Cash Receipts Journal. Six Columns, labeled left to right: Date, Account, Invoice Number, Reference, Cash Debit, Accounts Receivable, Sales, or other accounts Credit. Line One: February 8, 2019; Connie Customer; 450. Blank; $300; $300. Line Two: February 27, 2019; Billy May; 602; Blank; $1,000; $1,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_02_CRJourn.jpg"/>
+</media>
+<caption>Cash Receipts Journal. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm404923552"><link target-id="fs-idm414178656"/> summarizes the typical transactions in the special journals previously illustrated.</para>
+<table id="fs-idm414178656" class="top-titled" summary="No Summary">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c4">Types and Purposes of Special Journals</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Journal Name</entry>
+<entry valign="top" align="center">Journal Purpose</entry>
+<entry valign="top" align="center">Account(s) Debited</entry>
+<entry valign="top" align="center">Account(s) Credited</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Sales Journal</entry>
+<entry valign="top" align="left">Sales on credit</entry>
+<entry valign="top" align="left">Accounts Receivable, Cost of Goods Sold</entry>
+<entry valign="top" align="left">Sales, Inventory</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Purchases Journal</entry>
+<entry valign="top" align="left">Purchases on credit</entry>
+<entry valign="top" align="left">Inventory</entry>
+<entry valign="top" align="left">Accounts Payable</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Cash Disbursements Journal</entry>
+<entry valign="top" align="left">Paying cash</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Could be:</emphasis><newline/>Accounts Payable, or other accounts</entry>
+<entry valign="top" align="left">Cash</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Cash Receipts Journal</entry>
+<entry valign="top" align="left">Receiving cash</entry>
+<entry valign="top" align="left">Cash</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Could be:</emphasis><newline/>Sales, Accounts Receivable, or other accounts</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">General Journal</entry>
+<entry valign="top" align="left">Any transaction not covered previously; adjusting and closing entries</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Could be:</emphasis><newline/>Depreciation Expense</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Could be:</emphasis><newline/>Accumulated Depreciation</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm417422752">How will you remember all of this? Remember, “Cash Is King,” so we consider cash transactions first. If you receive cash, regardless of the source of the transaction, and even if it is only a part of the transaction, it goes in the <term class="no-emphasis">cash receipts journal</term>. For example, if the company made a sale for $1,000 and the customer gave $300 in cash and promised to pay the remaining balance in the future, the entire transaction would go into the cash receipts journal, because some cash was received, even if it was only part of a transaction. You could not split this journal entry between two journals, because each transaction’s debits must equal the credits or else your journal totals will not balance at the end of the month. You might consider splitting this transaction into two separate transactions and considering it a cash sale for $300 and a sale on account for $700, but that would also be inappropriate. Although the balances in the general ledger accounts would technically be correct if you did that, this is not the right approach. Good internal control dictates that this is a single transaction, associated with one invoice number on a given date, and should be recorded in its entirety in a single journal, which in this case is the cash receipts journal. If any cash is received, even if it is only a part of the transaction, the entire transaction is entered in the cash receipts journal. For this example, the transaction entered in the cash receipts journal would have a debit to cash for $300, a debit to Accounts Receivable for $700, and a credit to Sales for $1,000.</para>
+<para id="fs-idm680145824">If you pay cash (usually by writing a check), for any reason, even if it is only a part of the transaction, the entire transaction is recorded in the <term class="no-emphasis">cash disbursements journal</term>. For example, if the company purchased a building for $500,000 and gave a check for $100,000 as a down payment, the entire transaction would be recorded in the cash disbursements journal as a credit to cash for $100,000, a credit to mortgage payable for $400,000, and a debit to buildings for $500,000.</para>
+<para id="fs-idm409062672">If the transaction does not involve cash, it will be recorded in one of the other special journals. If it is a credit sale (also known as a sale on account), it is recorded in the sales journal. If it is a credit purchase (also known as a purchase on account), it is recorded in the purchases journal. If it is none of the above, it is recorded in the general journal.</para>
+<note id="fs-idm417574480" class="continuing-application">
+<title>Accounting Information Systems</title>
+<para id="fs-idm397864544">Let’s consider what <emphasis class="colored-text">Gearhead Outfitters</emphasis>’ accounting information system might look like. What information will company management find important? Likewise, what information might external users of <emphasis class="colored-text">Gearhead’s</emphasis> financial reports need? Do regulatory requirements dictate what <emphasis class="colored-text">Gearhead</emphasis> needs to track in its accounting system?</para>
+<para id="fs-idm399307712"><emphasis class="colored-text">Gearhead</emphasis> will want to know its financial position, results of operations, and cash flows. Such data will help management make decisions about the company. Likewise, external users want this data (balance sheet, income statement, and statement of cash flows) to make decisions such as whether or not to extend credit to <emphasis class="colored-text">Gearhead</emphasis>.</para>
+<para id="fs-idm393767792">To keep accurate records, company operations must be considered. For example, inventory is purchased, sales are made, customers are billed, cash is collected, employees work and need to be paid, and other expenses are incurred. All of these operations involve different recording processes. Inventory will require a purchases journal. Sales will require a sales journal, cash receipts journal, and accounts receivable subsidiary ledger (discussed later) journal. Payroll and other disbursements will require their own journals to accurately track transactions.</para>
+<para id="fs-idm410080448">Such journals allow a company to record accounting information and generate financial statements. The data also provides management with the information needed to make sound business decisions. For example, subsidiary ledgers, such as the accounts receivable ledger, provide data about the aging and collectability of receivables. Thus, the proper design, implementation, and maintenance of the accounting information system are vital to a company’s sustainability.</para>
+<para id="fs-idm397688768">What other questions can be answered through the analysis of information gathered by the accounting information system? Think in terms of the timing of inventory orders and cash flow needs. Is there nonfinancial information to extract from the accounting system? An accounting information system should provide the information needed for a business to meet its goals.</para>
+</note>
+</section>
+<section id="fs-idm402302880">
+<title>Subsidiary Ledgers</title>
+<para id="fs-idm409270400">In addition to the four special journals, there are two special ledgers, the accounts receivable subsidiary ledger and the accounts payable subsidiary ledger. The <term>accounts receivable subsidiary ledger</term> gives details about each person who owes the company money, as shown in <link target-id="OSX_Acct_F07_02_ARSub"/>. Each colored block represents an individual’s account and shows only the amount that person owes the company. Notice that the subsidiary ledger provides the date of the transaction and a reference column to link the transaction to the same information posted in one of the special journals (or general journal if special journals are not used)—this reference is usually a code that references the special journal such as SJ for the sales special journal, as well as the amounts owed in the debit column and the payments made in the credit column. The amounts owed by all of the individuals, as indicated in the subsidiary ledger, are added together to form the <term>accounts receivable control</term> total, and this should equal the Accounts Receivable balance reported in the general ledger as shown in <link target-id="OSX_Acct_F07_02_ARControl"/>. Key points about the accounts receivable subsidiary ledger are:</para>
+<list id="fs-idm414715680" list-type="bulleted" bullet-style="bullet">
+<item>Accounts Receivable in the general ledger is the total of all of the individual account totals that are listed in the accounts receivable subsidiary ledger.</item>
+<item>All of the amounts owed to the company in the accounts receivable subsidiary ledger must equal the amounts in the accounts receivable general ledger account.</item>
+</list>
+<figure id="OSX_Acct_F07_02_ARSub">
+<media id="fs-idm389044880" alt="Five columns, labeled left to right: Date, Reference, Debit, Credit, Balance. Smith Account. Line One: February 1; Blank; $100; Blank: $100. Line Two: February 9; Blank; $300; Blank; $400. Jones Account. Line One: February 2; Blank; $200; Blank; $200. Line Two: February 8; Blank; $300; Blank; $500. Lee Account. Line One: February 1; Blank; $300; Blank; $300. Line Two: February 4; Blank; Blank; $200; $100.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_02_ARSub.jpg"/>
+</media>
+<caption>Accounts Receivable Subsidiary Ledger. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<figure id="OSX_Acct_F07_02_ARControl">
+<media id="fs-idm674021264" alt="Comparing Accounts Receivable Subsidiary Ledger to Accounts Receivable Control Account in General Ledger. Smith Balance, $400, plus Jones Balance, $500, plus Lee Balance, $100, equals Accounts Receivable Balance, $1,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_02_ARControl.jpg"/>
+</media>
+<caption>Accounts Receivable. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm388292128" class="ethical-considerations">
+<title>Subsidiary Ledger Fraud<footnote id="fs-idm388647056">Joseph R. Dervaes. “Accounts Receivable Fraud, Part Five: Other Accounting Manipulations.” <emphasis effect="italics">Fraud Magazine</emphasis>. July/August, 2004. http://www.fraud-magazine.com/article.aspx?id=4294967822</footnote></title>
+<para id="fs-idm674091872">Subsidiary ledgers have to balance and agree with the general ledger. Accountants using QuickBooks and other accounting systems may not have to perform this step, because in these systems the subsidiary ledger updates the general ledger automatically. However, a dishonest person might manipulate accounting records by recording a smaller amount of cash receipts in the control account than is recorded on the subsidiary ledger cards. The ethical accountant must be vigilant to ensure that the ledgers remain balanced and that proper internal controls are in place to ensure the soundness of the accounting system.</para>
+</note>
+<para id="fs-idm406402400">The <term>accounts payable subsidiary ledger</term> holds the details about all of the amounts a company owes to people and/or companies. In the accounts payable subsidiary ledger, each vendor (the person or company from whom you purchased inventory or other items) has an account that shows the details of all transactions. Similar to the accounts receivable subsidiary ledger, the purchases subsidiary journal indicates the date on which a transaction took place; a reference column used in the same manner as previously described for accounts receivable subsidiary ledgers; and finally, the subsidiary ledger shows the amount charged or the amount paid. Following are the transactions for ABC Inc. and XYZ Inc. The final balance indicated on each subsidiary purchases journal shows the amount the company owes ABC and XYZ.</para>
+<media id="fs-idm399358928" alt="Accounts Payable Subsidiary Ledger. Six columns, labeled left to right: Date, Reference, Item, Debit, Credit, Balance. ABC, Inc. Account. Line One: January 1; Blank; Purchase; Blank; $200; $200. Line Two: January 15; Blank; Payment; $75; Blank; $125. Line Three: January 20; Blank; Purchase; Blank; $50; $175. XYZ, Inc. Account. Line One: January 3; Blank; Purchase; Blank; $100; $100. Line Two: January 15; Blank; Payment; $20; Blank; $80. Line Three: January 20; Blank; Purchase; Blank; $50; $130.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_02_APSL_img.jpg"/>
+</media>
+<para id="fs-idm397220320">If the two amounts are added together, the company owes $305 in total to the two companies. The $305 is the amount that will show in the Accounts Payable general ledger account.</para>
+<note id="fs-idm406719792" class="your-turn">
+<title>Using the Accounts Payable Subsidiary Ledger</title>
+<para id="fs-idm410904736">Find the balance in each account in the accounts payable subsidiary ledger that follows. Note that each vendor account has a unique account number or AP No.</para>
+<media id="fs-idm409085984" alt="Accounts Payable Subsidiary Ledger. Six Columns, labeled left to right: Date, Item, Reference, Debit, Credit, Balance. Elizabeth I, Inc. Account, AP Number 734. Line One: December 1; Beginning Balance; Blank; Blank; Blank; 3,134. Line Two: December 15; Cash Disbursements; 124; 2,150; Blank; ?. Line Three: December 16; Purchases Journal; 76; Blank: 3,112; ?. Line Four: December 29; Cash Disbursements; 125; 1,250; Blank; ?. F. Nightingale, Inc. Account, AP Number 731. Line One: December 1; Beginning Balance; Blank; Blank; Blank; 3,446. Line Two: December 9; Purchases Journal; 76; Blank; 2,589; ?. Line Three: December 15; Purchases Journal; 77; Blank: 1,234; ?. L. M. Alcott, Inc. Account, AP Number 671. Line One: December 1; Beginning Balance; Blank; Blank; Blank; 3,467. Line Two: December 15; Purchases Journal; 77; Blank; 3,450; ?. Line Three: December 28; Purchases Journal; 77; Blank: 1,500; ?. Line Four: December 31; General Journal, Return; 127; 250; Blank; ?.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_02_YT02_img.png"/>
+</media>
+<para id="fs-idm371549600"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm374403856" alt="Accounts Payable Subsidiary Ledger. Six Columns, labeled left to right: Date, Item, Reference, Debit, Credit, Balance. Elizabeth I, Inc. Account, AP Number 734. Line One: December 1; Beginning Balance; Blank; Blank; Blank; 3,134. Line Two: December 15; Cash Disbursements; 124; 2,150; Blank; 984. Line Three: December 16; Purchases Journal; 76; Blank: 3,112; 4,096. Line Four: December 29; Cash Disbursements; 125; 1,250; Blank; 2,846. F. Nightingale, Inc. Account, AP Number 731. Line One: December 1; Beginning Balance; Blank; Blank; Blank; 3,446. Line Two: December 9; Purchases Journal; 76; Blank; 2,589; 6,035. Line Three: December 15; Purchases Journal; 77; Blank: 1,234; 7,269. L. M. Alcott, Inc. Account, AP Number 671. Line One: December 1; Beginning Balance; Blank; Blank; Blank; 3,467. Line Two: December 15; Purchases Journal; 77; Blank; 3,450; 6,917. Line Three: December 28; Purchases Journal; 77; Blank: 1,500; 8,417. Line Four: December 31; General Journal, Return; 127; 250; Blank; 8,167.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_02_YT02Sn_img.png"/>
+</media>
+</note>
+</section>
+<section id="fs-idm644685008" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm400886688" list-type="bulleted" bullet-style="bullet">
+<item>We use special journals to keep track of similar types of transactions.</item>
+<item>We use special journals to save time because the same types of transactions occur over and over.</item>
+<item>To decide which special journal to use, first ask, “Is cash involved?” If the answer is “Yes,” then use either the cash receipts or cash disbursements journal.</item>
+<item>The cash receipts journal always debits cash but can credit almost anything (primarily sales, Accounts Receivable, or a new loan from the bank).</item>
+<item>The cash disbursements journal always credits cash but can debit almost anything (Accounts Payable, Notes Payable, sales returns and allowances, telephone expense, etc.).</item>
+<item>The sales journal always debits Accounts Receivable and always credits Sales. If the company uses a perpetual inventory method, it also debits cost of goods sold and credits inventory.</item>
+<item>The purchases journal always debits Purchases (if using the periodic inventory method) or Inventory (if using the perpetual inventory method) and credits Accounts Payable.</item>
+<item>We post the monthly balance from each of the special journals to the general ledger at the end of the month.</item>
+<item>We post from all journals to the subsidiary ledgers daily.</item>
+<item>We use the general journal for transactions that do not fit anywhere else—generally, for adjusting and closing entries, and can be for sales returns and/or purchase returns.</item>
+<item>The accounts receivable subsidiary ledger contains all of the details about individual accounts.</item>
+<item>The total of the accounts receivable subsidiary ledger must equal the total in the Accounts Receivable general ledger account.</item>
+<item>The accounts payable subsidiary ledger contains all of the details about individual accounts payable accounts.</item>
+<item>The total of the accounts payable subsidiary ledger must equal the total in the Accounts Payable general ledger account.</item>
+</list>
+</section>
+<section id="fs-idm408445504" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm407849040">
+<problem id="fs-idm393956112">
+<para id="fs-idm367476464"><link class="lo-reference" document="m67870"/>An unhappy customer just returned $50 of the items he purchased yesterday when he charged the goods to the company’s store credit card. Which special journal would the company use to record this transaction?</para>
+<list id="fs-idm407985760" list-type="enumerated" number-style="upper-alpha">
+<item>sales journal</item>
+<item>purchases journal</item>
+<item>cash receipts journal</item>
+<item>cash disbursements journal</item>
+<item>general journal</item>
+</list>
+</problem>
+<solution id="fs-idm394442880">
+<para id="fs-idm416122064">E</para>
+</solution>
+</exercise>
+<exercise id="fs-idm412262432">
+<problem id="fs-idm389066048">
+<para id="fs-idm397454896"><link class="lo-reference" document="m67870"/>A customer just charged $150 of merchandise on the company’s own charge card. Which special journal would the company use to record this transaction?</para>
+<list id="fs-idm403088608" list-type="enumerated" number-style="upper-alpha">
+<item>sales journal</item>
+<item>purchases journal</item>
+<item>cash receipts journal</item>
+<item>cash disbursements journal</item>
+<item>general journal</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm360992944">
+<problem id="fs-idm651825424">
+<para id="fs-idm399668448"><link class="lo-reference" document="m67870"/>A customer just charged $150 of merchandise using <emphasis class="colored-text">MasterCard</emphasis>. Which special journal would the company use to record this transaction?</para>
+<list id="fs-idm410689472" list-type="enumerated" number-style="upper-alpha">
+<item>sales journal</item>
+<item>purchases journal</item>
+<item>cash receipts journal</item>
+<item>cash disbursements journal</item>
+<item>general journal</item>
+</list>
+</problem>
+<solution id="fs-idm409256048">
+<para id="fs-idm410847088">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm390175056">
+<problem id="fs-idm388235696">
+<para id="fs-idm405106240"><link class="lo-reference" document="m67870"/>The company just took a physical count of inventory and found $75 worth of inventory was unaccounted for. It was either stolen or damaged. Which journal would the company use to record the correction of the error in inventory?</para>
+<list id="fs-idm373322464" list-type="enumerated" number-style="upper-alpha">
+<item>sales journal</item>
+<item>purchases journal</item>
+<item>cash receipts journal</item>
+<item>cash disbursements journal</item>
+<item>general journal</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm395397136">
+<problem id="fs-idm674297728">
+<para id="fs-idm394237072"><link class="lo-reference" document="m67870"/>Your company paid rent of $1,000 for the month with check number 1245. Which journal would the company use to record this?</para>
+<list id="fs-idm412296944" list-type="enumerated" number-style="upper-alpha">
+<item>sales journal</item>
+<item>purchases journal</item>
+<item>cash receipts journal</item>
+<item>cash disbursements journal</item>
+<item>general journal</item>
+</list>
+</problem>
+<solution id="fs-idm397369712">
+<para id="fs-idm400801280">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm373039264">
+<problem id="fs-idm376001840">
+<para id="fs-idm401408176"><link class="lo-reference" document="m67870"/>On January 1, Incredible Infants sold goods to Babies Inc. for $1,540, terms 30 days, and received payment on January 18. Which journal would the company use to record this transaction on the 18th?</para>
+<list id="fs-idm417378112" list-type="enumerated" number-style="upper-alpha">
+<item>sales journal</item>
+<item>purchases journal</item>
+<item>cash receipts journal</item>
+<item>cash disbursements journal</item>
+<item>general journal</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm407987328">
+<problem id="fs-idm805829776">
+<para id="fs-idm399606480"><link class="lo-reference" document="m67870"/>Received a check for $72 from a customer, Mr. White. Mr. White owed you $124. Which journal would the company use to record this transaction?</para>
+<list id="fs-idm404773024" list-type="enumerated" number-style="upper-alpha">
+<item>sales journal</item>
+<item>purchases journal</item>
+<item>cash receipts journal</item>
+<item>cash disbursements journal</item>
+<item>general journal</item>
+</list>
+</problem>
+<solution id="fs-idm417542944">
+<para id="fs-idm806473056">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm398054224">
+<problem id="fs-idm382066720">
+<para id="fs-idm408402976"><link class="lo-reference" document="m67870"/>You returned damaged goods you had previously purchased from C.C. Rogers Inc. and received a credit memo for $250. Which journal would your company use to record this transaction?</para>
+<list id="fs-idm393447632" list-type="enumerated" number-style="upper-alpha">
+<item>sales journal</item>
+<item>purchases journal</item>
+<item>cash receipts journal</item>
+<item>cash disbursements journal</item>
+<item>general journal</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm393648864">
+<problem id="fs-idm359796240">
+<para id="fs-idm403114656"><link class="lo-reference" document="m67870"/>Sold goods for $650 cash. Which journal would the company use to record this transaction?</para>
+<list id="fs-idm394388624" list-type="enumerated" number-style="upper-alpha">
+<item>sales journal</item>
+<item>purchases journal</item>
+<item>cash receipts journal</item>
+<item>cash disbursements journal</item>
+<item>general journal</item>
+</list>
+</problem>
+<solution id="fs-idm392235584">
+<para id="fs-idm393293824">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm410462640">
+<problem id="fs-idm375882096">
+<para id="fs-idm664396112"><link class="lo-reference" document="m67870"/>Sandren &amp; Co. purchased inventory on credit from Acto Supply Co. for $4,000. Sandren &amp; Co. would record this transaction in the ________.</para>
+<list id="fs-idm410670224" list-type="enumerated" number-style="upper-alpha">
+<item>general journal</item>
+<item>cash receipts journal</item>
+<item>cash disbursements journal</item>
+<item>purchases journal</item>
+<item>sales journal</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm392152080" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm399636832">
+<problem id="fs-idm406288000">
+<para id="fs-idm376040192"><link class="lo-reference" document="m67870"/>Match the special journal you would use to record the following transactions. Select from the following:</para>
+<table id="fs-idm410756288" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">A. cash receipts journal</entry>
+<entry valign="top" align="left">i. Sold inventory for cash</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">B. cash disbursements journal</entry>
+<entry valign="top" align="left">ii. Sold inventory on account</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C. sales journal</entry>
+<entry valign="top" align="left">iii. Received cash a week after selling items on credit</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">D. purchases journal</entry>
+<entry valign="top" align="left">iv. Paid cash to purchase inventory</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">E. general journal</entry>
+<entry valign="top" align="left">v. Paid a cash dividend to shareholders</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">vi. Sold shares of stock for cash</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">vii. Bought equipment for cash</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">viii. Recorded an adjusting entry for supplies</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">ix. Paid for a purchase of inventory on account within the discount period</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">x. Paid for a purchase of inventory on account after the discount period has passed</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm410219376">
+<problem id="fs-idm354190784">
+<para id="fs-idm390367744"><link class="lo-reference" document="m67870"/>For each of the transactions, state which special journal (sales journal, cash receipts journal, cash disbursements journal, purchases journal, or general journal) and which subsidiary ledger (Accounts Receivable, Accounts Payable, or neither) would be used in recording the transaction.</para>
+<list id="fs-idm394114624" list-type="enumerated" number-style="upper-alpha">
+<item>Paid utility bill</item>
+<item>Sold inventory on account</item>
+<item>Received but did not pay phone bill</item>
+<item>Bought inventory on account</item>
+<item>Borrowed money from a bank</item>
+<item>Sold old office furniture for cash</item>
+<item>Recorded depreciation</item>
+<item>Accrued payroll at the end of the accounting period</item>
+<item>Sold inventory for cash</item>
+<item>Paid interest on bank loan</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm393270272" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm393136784">
+<problem id="fs-idm390210704">
+<para id="fs-idm394039328"><link class="lo-reference" document="m67870"/>Match the special journal you would use to record the following transactions.</para>
+<table id="fs-idm352717248" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">A. Cash Receipts Journal</entry>
+<entry valign="top" align="left">i. Took out a loan from the bank</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">B. Cash Disbursements Journal</entry>
+<entry valign="top" align="left">ii. Paid employee wages</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C. Sales Journal</entry>
+<entry valign="top" align="left">iii. Paid income taxes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">D. Purchases Journal</entry>
+<entry valign="top" align="left">iv. Sold goods with credit terms 1/10, 2/30, n/60</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">E. General Journal</entry>
+<entry valign="top" align="left">v. Purchased inventory with credit terms n/90</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">vi. Sold inventory for cash</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">vii. Paid the phone bill</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">viii. Purchased stock for cash</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">ix. Recorded depreciation on the factory equipment</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">x. Returned defective goods purchased on credit to the supplier. The company had not yet paid for them.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm807479616">
+<problem id="fs-idm402111264">
+<para id="fs-idm667131008"><link class="lo-reference" document="m67870"/>For each of the following transactions, state which special journal (Sales Journal, Cash Receipts Journal, Cash Disbursements Journal, Purchases Journal, or General Journal) and which subsidiary ledger (Accounts Receivable, Accounts Payable, neither) would be used in recording the transaction.</para>
+<list id="fs-idm406488400" list-type="enumerated" number-style="upper-alpha">
+<item>Sold inventory for cash</item>
+<item>Issued common stock for cash</item>
+<item>Received and paid utility bill</item>
+<item>Bought office equipment on account</item>
+<item>Accrued interest on a loan at the end of the accounting period</item>
+<item>Paid a loan payment</item>
+<item>Bought inventory on account</item>
+<item>Paid employees</item>
+<item>Sold inventory on account</item>
+<item>Paid monthly insurance bill</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm395816208" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm397388752"><problem id="fs-idm644051696">
+<para id="fs-idm402019424"><link class="lo-reference" document="m67870"/>On June 30, Oscar Inc.’s bookkeeper is preparing to close the books for the month. The accounts receivable control total shows a balance of $2,820.76, but the accounts receivable subsidiary ledger shows total account balances of $2,220.76. The accounts receivable subsidiary ledger is shown here. Can you help find the mistake?</para>
+<media id="fs-idm636775728" alt="Accounts Receivable Subsidiary Ledger. Six Columns, labeled left to right: Date, Item, Reference, Debit, Credit, Balance. Amazoon Account, AR Number 246. Line One: Blank; Beginning Balance; Blank; Blank; Blank; 1,200.50. Line Two: April 5; Payment; CR 175; Blank; 1,200.50; 0.00. Cadberry Account, AR Number 357. Line One: Blank; Beginning Balance; Blank; Blank; Blank; 877.30. Line Two: April 8; Invoice 210; SJ 123; 300; Blank; 1,177.30. Hewlit Pickard Account, AR Number 468. Line One: Blank; Beginning Balance; Blank; Blank; Blank; 172.99. Line Two: April 28; Invoice 211; SJ 123; 100; Blank; 272.99. Neatflicks, Inc. Account, AR Number 579. Line One: Blank, Beginning Balance; Blank; Blank; Blank; 1,570.47. Line Two: April 6; Payment; CR 175; Blank; 500; 1,070.47. Line Three: April 22; Invoice 212; CJ 123; Blank; 300; 770.47.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_02_PA01_img.jpg"/>
+</media>
+</problem>
+</exercise></section>
+<section id="fs-idm673824016" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm404869344">
+<problem id="fs-idm673910880">
+<para id="fs-idm816079152"><link class="lo-reference" document="m67870"/>On June 30, Isner Inc.’s bookkeeper is preparing to close the books for the month. The accounts receivable control total shows a balance of $550, but the accounts receivable subsidiary ledger shows total account balances of $850. The accounts receivable subsidiary ledger is shown here. Can you help find the mistake?</para>
+<media id="fs-idm395882560" alt="Accounts Receivable Subsidiary Ledger. Six Columns, labeled left to right: Date, Item, Reference, Debit, Credit, Balance. Apple Account, Number 1103. Line One: June 1; Beginning Balance; Blank; 150; Blank; 150. Line Two: June 12; Check Received; CR 122; 150; Blank; 300. Orange Account, Number 1107. Line One: June 15; Invoice 234; SJ 24; 200; Blank; 200. Pear Account, Number 1110. Line One: June 20; Invoice 235; SJ 24; 350; Blank; 350. Banana Account, Number 1115. Line One: Blank, Beginning Balance; Blank; 2,661; Blank; 2,661. Line Two: June 18; Check Received; CR 122; Blank; 2,661; 0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_02_PB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm390267520" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm366698176">
+<problem id="fs-idm397758816">
+<para id="fs-idm406700880"><link class="lo-reference" document="m67870"/>Why must the Accounts Receivable account in the general ledger match the totals of all the subsidiary Accounts Receivable accounts?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm402378320">
+<problem id="fs-idm659260016">
+<para id="fs-idm806569088"><link class="lo-reference" document="m67870"/>Why would a company use a subsidiary ledger for its Accounts Receivable?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm402873104">
+<problem id="fs-idm646366720">
+<para id="fs-idm664973920"><link class="lo-reference" document="m67870"/>If a customer owed your company $100 on the first day of the month, then purchased $200 of goods on credit on the fifth and paid you $50 on fifteenth, the customer’s ending balance for the month would show a (debit or credit) of how much?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm397238256">
+<term>accounts payable subsidiary ledger</term>
+<meaning id="fs-idm819528000">special ledger that contains information about all vendors and the amounts we owe them; the total of all accounts in the accounts payable subsidiary ledger <emphasis effect="italics">must</emphasis> equal the total of accounts payable control account in the general ledger</meaning>
+</definition>
+<definition id="fs-idm684703040">
+<term>accounts receivable control</term>
+<meaning id="fs-idm388215200">accounts receivable account in the general ledger</meaning>
+</definition>
+<definition id="fs-idm372605296">
+<term>accounts receivable subsidiary ledger</term>
+<meaning id="fs-idm673776576">special ledger that contains information about all customers and the amounts they owe; the total of all accounts in the accounts receivable subsidiary ledger <emphasis effect="italics">must</emphasis> equal the total of accounts receivable control account in the general ledger</meaning>
+</definition>
+<definition id="fs-idm371456128">
+<term>cash disbursements journal</term>
+<meaning id="fs-idm393119728">special journal that is used to record outflows of cash; every time cash leaves the business, usually when we issue a check, we record in this journal</meaning>
+</definition>
+<definition id="fs-idm391623984">
+<term>cash receipts journal</term>
+<meaning id="fs-idm392328064">special journal that is used to record inflows of cash; every time we receive checks and currency from customers and others, we record these cash receipts in this journal</meaning>
+</definition>
+<definition id="fs-idm397299696">
+<term>purchases journal</term>
+<meaning id="fs-idm642111488">special journal that is used to record purchases of merchandise inventory on credit; it always debits the merchandise inventory account (if using the perpetual inventory method) or the Purchases account (if using the periodic method)</meaning>
+</definition>
+<definition id="fs-idm635445024">
+<term>sales journal</term>
+<meaning id="fs-idm393366928">special journal that is used to record all sales on credit; it always debits accounts receivable and credits sales, and if the company uses the perpetual inventory method it also debits cost of goods sold and credits merchandise inventory</meaning>
+</definition>
+<definition id="fs-idm353338560">
+<term>special journal</term>
+<meaning id="fs-idm390230944">book of original entry that is used to record transactions of a similar type in addition to the general journal</meaning>
+</definition>
+</glossary>
+</document>

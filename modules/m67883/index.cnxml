@@ -1,0 +1,376 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Determine the Efficiency of Receivables Management Using Financial Ratios</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67883</md:content-id>
+  <md:title>Determine the Efficiency of Receivables Management Using Financial Ratios</md:title>
+  <md:abstract/>
+  <md:uuid>b3937ffe-92f7-40de-8f64-3141a61d6153</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm182252016">You received an unexpected tax refund this year and want to invest the money in a profitable and growing company. After conducting research, you determine that it is important for a company to collect on outstanding debt quickly, while showing a willingness to offer customers credit options to increase sales opportunities, among other things. You are new to investing, so where do you begin?</para>
+<para id="fs-idm164011696">Stakeholders, such as investors, lenders, and management, look to financial statement data to make informed decisions about a company’s financial position. They will look at each statement—as well as ratio analysis—for trends, industry comparisons, and past performance to help make financing determinations. Because you are reviewing companies for quick debt collection, as well as credit extension to boost sales, you would consider receivables ratios to guide your decision. <link document="m67884">Discuss the Role of Accounting for Receivables in Earnings Management</link> will explain and demonstrate two popular ratios—the accounts receivable turnover ratio and the number of days’ sales in receivables ratio—used to evaluate a company’s receivables experiences.</para>
+<para id="fs-idm185224976">It is important to remember, however, that for a comprehensive evaluation of a company’s true potential as an investment, you need to consider other types of ratios, in addition to the receivables ratios. For example, you might want to look at the company’s profitability, solvency, and liquidity performances using ratios. (See <link document="m68108">Appendix A</link> for more information on ratios.)</para>
+<figure id="Figure_F09_03_Stock" class="scaled-down">
+<media id="fs-idm183570880" alt="Picture of a laptop with a screen showing a chart of stock prices over time.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_Stock.jpg"/>
+</media>
+<caption>Which Company Is the Best Investment? Receivables ratios can help make this determination. (credit: “Black Laptop Computer Showing Stock Graph” by “Negative Space”/Pexels, CC0)</caption>
+</figure>
+<section id="fs-idm181963184">
+<title>Basic Functions of the Receivables Ratios</title>
+<para id="fs-idm203222672">Receivables ratios show company performance in relation to current debt collection, as well as credit policy effect on sales growth. One receivables ratio is called the <term>accounts receivable turnover ratio</term>. This ratio determines how many times (i.e., how often) accounts receivable are collected during an operating period and converted to cash (see <link target-id="Figure_F09_03_Stock"/>). A higher number of times indicates that receivables are collected quickly. This quick cash collection may be viewed as a positive occurrence, because liquidity improves, and the company may reinvest in its business sooner when the value of the dollar has more buying power (time value of money). The higher number of times may also be a negative occurrence, signaling that credit extension terms are too tight, and it may exclude qualified consumers from purchasing. Excluding these customers means that they may take their business to a competitor, thus reducing potential sales.</para>
+<para id="fs-idm189048272">In contrast, a lower number of times indicates that receivables are collected at a slower rate. A slower collection rate could signal that lending terms are too lenient; management might consider tightening lending opportunities and more aggressively pursuing outstanding debt. The lower turnover also shows that the company has cash tied up in receivable longer, thus hindering its ability to reinvest this cash in other current projects. The lower turnover rate may signal a high level of bad debt accounts. The determination of a high or low turnover rate really depends on the standards of the company’s industry.</para>
+<para id="fs-idm177307792">Another receivables ratio one must consider is the <term>number of days’ sales in receivables ratio</term>. This ratio is similar to accounts receivable turnover in that it shows the expected days it will take to convert accounts receivable into cash. The reflected outcome is in number of days, rather than in number of times.</para>
+<para id="fs-idm205570240">Companies often have outstanding debt that requires scheduled payments. If it takes longer for a company to collect on outstanding receivables, this means it may not be able to meet its current obligations. It helps to know the number of days it takes to go through the accounts receivable collection cycle so a company can plan its debt repayments; this receivables ratio also signals how efficient its collection procedures are. As with the accounts receivable turnover ratio, there are positive and negative elements with a smaller and larger amount of days; in general, the fewer number of collection days on accounts receivable, the better.</para>
+<para id="fs-idm205656400">To illustrate the use of these ratios to make financial decisions, let’s use Billie’s Watercraft Warehouse (BWW) as the example. Included are the comparative income statement (<link target-id="Figure_F09_03_ISComp"/>) and the comparative balance sheet (<link target-id="Figure_F09_03_BSComp"/>) for BWW, followed by competitor ratio information, for the years 2016, 2017, and 2018 as shown in <link target-id="fs-idm195873760"/>.</para>
+<figure id="Figure_F09_03_ISComp" class="scaled-down">
+<media id="fs-idm220398896" alt="2018, 2017, and 2016, respectively: Net Credit Sales $450,000, 400,000, 375,000; Cost of Goods Sold 700,000, 65,000, 62,000; Gross Margin 380,000, 335,000, 313,000; Expenses 100,000, 110,000, 95,000; Net Income (Loss) 280,000, 225,000, 218,000. ">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_ISComp.jpg"/>
+</media>
+<caption>Comparative Income Statements for Billie’s Watercraft Warehouse for the Years 2016, 2017, and 2018. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<figure id="Figure_F09_03_BSComp" class="scaled-down">
+<media id="fs-idm161674928" alt="2018, 2017, 2016, respectively: Assets: Cash $120,000, 100,000, 85,000; Accounts Receivable 85,000, 90,000, 70,000; Notes Receivable 20,500, 15,200, 18,450; Inventory 60,400, 55,000, 47,600; Equipment 31,000, 35,000, 28,000; Total Assets: 316,900, 295,200, 249,050; Liabilities: Unearned revenue $5,000, 14,500, 4,200; Accounts Payable 10,000, 15,600, 9,500; Notes Payable 9,500, 13,700, 7,250; Equity: Common Stock 12,400, 26,400, 10,100; Retained Earnings 280,000, 225,000, 218,000; Total Liabilities &amp; Equity: 316,900, 295,200, 249,050.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_BSComp.jpg"/>
+</media>
+<caption>Comparative Income Statements for Billie’s Watercraft Warehouse for the Years 2016, 2017, and 2018. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<table id="fs-idm195873760" class="top-titled" summary="No Summary">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c3">Comparison of Ratios: Industry Competitor to BWW</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Year</entry>
+<entry valign="top" align="left">Accounts Receivable Turnover Ratio</entry>
+<entry valign="top" align="left">Number of Days’ Sales in Receivables Ratio</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">2016</entry>
+<entry valign="top" align="center">4.89 times</entry>
+<entry valign="top" align="center">80 days</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">2017</entry>
+<entry valign="top" align="center">4.92 times</entry>
+<entry valign="top" align="center">79.23 days</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">2018</entry>
+<entry valign="top" align="center">5.25 times</entry>
+<entry valign="top" align="center">76.44 days</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Industry Competitor Ratios for the years 2016, 2017, and 2018.</caption>
+</table>
+<note id="fs-idm180129296" class="your-turn">
+<title>The Investor</title>
+<para id="fs-idm169929328">You are an investor looking to contribute financially to either Company A or Company B. The following select financial information follows.</para>
+<media id="fs-idm199968288" class="scaled-down" alt="Company A and Company B, respectively: Beginning Accounts Receivable $50,000, 60,000; Ending Accounts Receivable 80,000, 90,000; Net Credit Sales 550,000, 460,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_YT01_img.png"/>
+</media>
+<para id="fs-idm163363440">Based on the information provided:</para>
+<list id="fs-idm163719504" list-type="bulleted" bullet-style="bullet">
+<item>Compute the accounts receivable turnover ratio</item>
+<item>Compute the number of days’ sales in receivables ratio for both Company A and Company B (round all answers to two decimal places)</item>
+<item>Interpret the outcomes, stating which company you would invest in and why</item>
+</list>
+<para id="fs-idm190180240"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm169563328">Company A: ART = 8.46 times, Days’ Sales = 43.14 days, Company B: ART = 6.13 times, Days’ Sales = 59.54 days. Upon initial review of this limited information, Company A seems to be the better choice, since their turnover ratio is higher and the collection time is lower with 43.14 days. One might want more information on trends for each company with these ratios and a comparison to others in the same industry. More information is needed before making an informed decision.</para>
+</note>
+</section>
+<section id="fs-idm188911456">
+<title>Accounts Receivable Turnover Ratio</title>
+<para id="fs-idm210862640">The ratio to determine <term class="no-emphasis">accounts receivable</term> turnover is as follows.</para>
+<media id="fs-idm200809776" class="scaled-down" alt="Net Credit Sales / Average Accounts Receivable,">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_Eq01_img.jpg"/>
+</media>
+<media id="fs-idm189956880" alt="Average Accounts receivable equals (Beginning Accounts Receivable plus Ending Accounts Receivable) divided by 2.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_Eq02_img.jpg"/>
+</media>
+<para id="fs-idm185804080">Net credit sales are sales made on credit only; cash sales are not included because they do not produce receivables. However, many companies do not report credit sales separate from cash sales, so “net sales” may be substituted for “net credit sales” in this case. Beginning and ending accounts receivable refer to the beginning and ending balances in accounts receivable for the period. The beginning accounts receivable balance is the same figure as the ending accounts receivable balance from the prior period.</para>
+<para id="fs-idm190447168">Use this formula to compute BWW’s accounts receivable turnover for 2017 and 2018.</para>
+<para id="fs-idm174501216">The accounts receivable turnover ratio for 2017 is 5 × ($400,000/$80,000). Net credit sales for 2017 are $400,000, so</para>
+<equation id="fs-idm200974160" class="unnumbered"><label/><m:math>
+<m:mtable columnalign="left">
+<m:mtr/>
+<m:mtr/>
+<m:mtr>
+<m:mtd>
+<m:mtext>Average accounts receivable</m:mtext><m:mo>=</m:mo><m:mfrac>
+<m:mrow>
+<m:mo stretchy="false">(</m:mo><m:mtext>$</m:mtext><m:mn>70,000</m:mn><m:mo>+</m:mo><m:mtext>$</m:mtext><m:mn>90,000</m:mn><m:mo stretchy="false">)</m:mo></m:mrow>
+<m:mn>2</m:mn>
+</m:mfrac>
+<m:mo>=</m:mo><m:mtext>$</m:mtext><m:mn>80,000</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mrow/>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</equation>
+<para id="fs-idm201239344">The accounts receivable turnover ratio for 2018 is 5.14 times (rounded to two decimal places). Net credit sales for 2018 are $450,000, so</para>
+<equation id="fs-idm204271936" class="unnumbered"><label/><m:math>
+<m:mtable columnalign="left">
+<m:mtr/>
+<m:mtr/>
+<m:mtr>
+<m:mtd>
+<m:mtext>Average accounts receivable</m:mtext><m:mo>=</m:mo><m:mfrac>
+<m:mrow>
+<m:mo stretchy="false">(</m:mo><m:mtext>$</m:mtext><m:mn>90,000</m:mn><m:mo>+</m:mo><m:mtext>$</m:mtext><m:mn>85,000</m:mn><m:mo stretchy="false">)</m:mo></m:mrow>
+<m:mn>2</m:mn>
+</m:mfrac>
+<m:mo>=</m:mo><m:mtext>$</m:mtext><m:mn>87,500</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mrow/>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</equation>
+<para id="fs-idm170510848">The outcome for 2017 means that the company turns over receivables (converts receivables into cash) 5 times during the year. The outcome for 2018 shows that BWW converts cash at a quicker rate of 5.14 times. There is a trend increase from 2017 to 2018. BWW sells various watercraft. These products tend to have a higher sales price, making a customer more likely to pay with credit. This can also increase the length of debt repayment. Comparing to another company in the industry, BWW’s turnover rate is standard. To increase the turnover rate, BWW can consider extending credit to more customers who the company has determined will pay on a quicker basis or schedule, or BWW can more aggressively pursue the outstanding debt from current customers.</para>
+</section>
+<section id="fs-idm186308144">
+<title>Number of Days’ Sales in Receivables Ratio</title>
+<para id="fs-idm203456832">The ratio to determine number of days’ sales in receivables is as follows.</para>
+<media id="fs-idm178388672" class="scaled-down-30" alt="365 divided by Accounts Receivable Turnover Ratio.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_Eq03_img.jpg"/>
+</media>
+<para id="fs-idm207436832">The numerator is 365, the number of days in the year. Because the accounts receivable turnover ratio determines an average accounts receivable figure, the outcome for the days’ sales in receivables is also an average number. Using this formula, compute BWW’s number of days’ sales in receivables ratio for 2017 and 2018.</para>
+<para id="fs-idm209401136">The ratio for 2017 is 73 days (365/5), and for 2018 is 71.01 days (365/5.14), rounded. This means it takes 73 days in 2017 and 71.01 days in 2018 to complete the collection cycle, which is a decrease from 2017 to 2018. A downward trend is a positive for the company, and BWW outperforms the competition slightly. This is good because BWW can use the cash toward other business expenditures, or the downward trend could signal that the company needs to loosen credit terms or more aggressively collect outstanding accounts.</para>
+<para id="fs-idm215944752">Looking at both ratios, BWW seems well positioned within the industry, and a potential investor or lender may be more apt to contribute financially to the organization with this continued positive trend.</para>
+<note id="fs-idm201147136" class="link-to-learning">
+<para id="fs-idm196014512"><emphasis class="colored-text">American Superconductor Corporation</emphasis> specializes in the production and service of energy-efficient wind turbine systems, as well as energy grid construction solutions. On the company’s 2018–2019 financial statements, the accounts receivable turnover ratio is approximately 6.32 times, and the number of day’s sales in receivables ratio is approximately 58 days. This <link url="https://openstax.org/l/50AMSCfinan2017">site providing American Superconductor Corporation’s current financial statements</link> is available for review.</para>
+</note>
+</section>
+<section id="fs-idm182569376" class="section-summary">
+<title>Summary</title>
+<list id="fs-idm177193744" list-type="bulleted" bullet-style="bullet">
+<item>Receivable ratios are best used to determine quick debt collection and lending practices. An investor, lender, or management may use these ratios—in conjunction with financial statement review, past performance, industry standards, and trends—to make an informed financial decision.</item>
+<item>The accounts receivable turnover ratio shows how many times receivables are collected during a period and converted to cash. The ratio is found by taking net credit sales and dividing by average accounts receivable for the period.</item>
+<item>The number of days’ sales in receivables ratio shows the expected number of days it will take to convert accounts receivable into cash. The ratio is found by taking 365 days and dividing by the accounts receivable turnover ratio.</item>
+</list>
+</section>
+<section id="fs-idm225894816" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm219197184">
+<problem id="fs-idm227029840">
+<para id="fs-idm210152400"><link class="lo-reference" document="m67883"/>Which of the following best represents a positive product of a lower number of days’ sales in receivables ratio?</para>
+<list id="fs-idm190305088" list-type="enumerated" number-style="upper-alpha">
+<item>collection of receivables is quick, and cash can be used for other business expenditures</item>
+<item>collection of receivables is slow, keeping cash secured to receivables</item>
+<item>credit extension is lenient</item>
+<item>the lender only lends to the top 10% of potential creditors</item>
+</list>
+</problem>
+<solution id="fs-idm203164256">
+<para id="fs-idm187937040">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm183387664">
+<problem id="fs-idm189716640">
+<para id="fs-idm207903024"><link class="lo-reference" document="m67883"/>South Rims has an accounts receivable balance at the end of 2018 of $357,470. The net credit sales for the year are $769,346. The balance at the end of 2017 was $325,300. What is the accounts receivable turnover rate for 2018 (rounded to two decimal places)?</para>
+<list id="fs-idm163178592" list-type="enumerated" number-style="upper-alpha">
+<item>2.02 times</item>
+<item>2.25 times</item>
+<item>2.15 times</item>
+<item>1.13 times</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm185529840">
+<problem id="fs-idm161539840">
+<para id="fs-idm170540560"><link class="lo-reference" document="m67883"/>What information can best be elicited from a receivable ratio?</para>
+<list id="fs-idm187727168" list-type="enumerated" number-style="upper-alpha">
+<item>company performance with current debt collection</item>
+<item>credit extension effect on cash sales</item>
+<item>likelihood of future customer bankruptcy filings</item>
+<item>an increase in future credit sales to current customers</item>
+</list>
+</problem>
+<solution id="fs-idm201840816">
+<para id="fs-idm210312352">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm216562752">
+<problem id="fs-idm208880112">
+<para id="fs-idm216965504"><link class="lo-reference" document="m67883"/>Ancient Grains Unlimited has an accounts receivable turnover ratio of 3.34 times. The net credit sales for the year are $567,920. What is the days’ sales in receivables ratio for 2018 (rounded to the nearest whole number)?</para>
+<list id="fs-idm208980960" list-type="enumerated" number-style="upper-alpha">
+<item>190 days</item>
+<item>109 days</item>
+<item>110 days</item>
+<item>101 days</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm185732992" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm185094400">
+<problem id="fs-idm185935248">
+<para id="fs-idm208498608"><link class="lo-reference" document="m67883"/>What are some possible negative signals when the product of the accounts receivable turnover ratio is lower (i.e., fewer times)?</para>
+</problem>
+<solution id="fs-idm213726720">
+<para id="fs-idm203576816">The receivables cycle takes a while to convert into cash, which means that cash is tied up and cannot be used for other business investments. This could also mean that the company has to borrow money from a lender to meet its cash flow demands, or that credit extensions are too tight, and good credit candidates are lost to competitors.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm202781584">
+<problem id="fs-idm214451232">
+<para id="fs-idm215267312"><link class="lo-reference" document="m67883"/>Berry Farms has an accounts receivable balance at the end of 2018 of $425,650. The net credit sales for the year are $924,123. The balance at the end of 2017 was $378,550. What is the number of days’ sales in receivables ratio for 2018 (round all answers to two decimal places)?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm222192464">
+<problem id="fs-idm209705808">
+<para id="fs-idm227464464"><link class="lo-reference" document="m67883"/>What are the two most common receivables ratios, and what do these ratios tell a stakeholder about the company?</para>
+</problem>
+<solution id="fs-idm212686240">
+<para id="fs-idm209424912">Accounts receivable turnover ratio and number of days’ sales in receivables ratio; these ratios can tell a stakeholder how credit extension policies affect sales, and how quickly current debt is collected</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm212751104" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm220376624">
+<problem id="fs-idm202032560">
+<para id="fs-idm210057776"><link class="lo-reference" document="m67883"/>Using the following select financial statement information from Black Water Industries, compute the accounts receivable turnover ratios for 2018 and 2019 (round answers to two decimal places). What do the outcomes tell a potential investor about Black Water Industries?</para>
+<media id="fs-idm220439616" class="scaled-down" alt="Year, Net Credit Sales, and Ending Accounts Receivable, respectively: 2017, $685,430, 330,250; 2018, 700,290, 360,450; 2019, 768,500, 401,650.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_EA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm188082240">
+<problem id="fs-idm203202576">
+<para id="fs-idm184862624"><link class="lo-reference" document="m67883"/>Using the following select financial statement information from Black Water Industries, compute the number of days’ sales in receivables ratios for 2018 and 2019 (round answers to two decimal places). What do the outcomes tell a potential investor about Black Water Industries?</para>
+<media id="fs-idm227436752" class="scaled-down" alt="Year, Net Credit Sales, and Ending Accounts Receivable, respectively: 2017, $685,430, 330,250; 2018, 700,290, 360,450; 2019, 768,500, 401,650.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_EA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm214466688">
+<problem id="fs-idm211135248">
+<para id="fs-idm214490576"><link class="lo-reference" document="m67883"/>Millennial Manufacturing has net credit sales for 2018 in the amount of $1,433,630, beginning accounts receivable balance of $585,900, and an ending accounts receivable balance of $621,450. Compute the accounts receivable turnover ratio and the number of days’ sales in receivables ratio for 2018 (round answers to two decimal places). What do the outcomes tell a potential investor about Millennial Manufacturing if industry average is 2.6 times and number of day’s sales ratio is 180 days?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm223395728" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm222428864">
+<problem id="fs-idm183167744">
+<para id="fs-idm221077104"><link class="lo-reference" document="m67883"/>Using the following select financial statement information from Mover Supply Depot, compute the accounts receivable turnover ratios for 2018 and 2019 (round answers to two decimal places). What do the outcomes tell a potential investor about Mover Supply Depot if the industry average is 4 times?</para>
+<media id="fs-idm221834528" class="scaled-down" alt="Year, Net Credit Sales, and Ending Accounts Receivable, respectively: 2017, $1,230,680, 321,500; 2018, 1,477,440, 345,700; 2019, 1,724,400, 326,600.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_EB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm223742768">
+<problem id="fs-idm212803120">
+<para id="fs-idm211266272"><link class="lo-reference" document="m67883"/> Using the following select financial statement information from Mover Supply Depot, compute the number of days’ sales in receivables ratios for 2018 and 2019 (round answers to two decimal places). What do the outcomes tell a potential investor about Mover Supply Depot if the competition collects in approximately 65 days?</para>
+<media id="fs-idm209085328" class="scaled-down" alt="Year, Net Credit Sales, and Ending Accounts Receivable, respectively: 2017, $1,230,680, 321,500; 2018, 1,477,440, 345,700; 2019, 1,724,400, 326,600.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_EB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm225183040">
+<problem id="fs-idm225920544">
+<para id="fs-idm199923760"><link class="lo-reference" document="m67883"/>Starlight Enterprises has net credit sales for 2019 in the amount of $2,600,325, beginning accounts receivable balance of $844,260, and an ending accounts receivable balance of $604,930. Compute the accounts receivable turnover ratio and the number of days’ sales in receivables ratio for 2019 (round answers to two decimal places). What do the outcomes tell a potential investor about Starlight Enterprises if the industry average is 2.09 times and the number of days’ sales ratio is 175 days?</para></problem>
+</exercise>
+</section>
+<section id="fs-idm294606672" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm201114976">
+<problem id="fs-idm219735856">
+<para id="fs-idm187226624"><link class="lo-reference" document="m67883"/>Review the select information for Bean Superstore and Legumes Plus (industry competitors), and then complete the following.</para>
+<list id="fs-idm200808736" list-type="enumerated" number-style="upper-alpha">
+<item>Compute the accounts receivable turnover ratios for each company for 2018 and 2019.</item>
+<item>Compute the number of days’ sales in receivables ratios for each company for 2018 and 2019.</item>
+<item>Determine which company is the better investment and why. Round answers to two decimal places.</item>
+</list>
+<media id="fs-idm227533920" class="scaled-down" alt="Bean Superstore 2019, 2018, 2017 and Legumes Plus 2019, 2018, and 2017, respectively: Assets: Cash $345,600, 330,460, 300,000 – 407,000, 386,450, 356,367; Accounts Receivable, 67,000, 62,000, 59,000 – 85,430, 82,670, 70,230; Inventory, 145,830, 178,011, 155,205 – 128,080, 40,036, 52,142; Equipment 100,465, 101,202, 103,085 – 182,006, 23,400, 111,701; Total Assets 658,895, 671,673, 617,290 – 802,516, 532,556, 599,440; Liabilities: Salaries Payable 90,200, 88,563, 84,209 – 95,100, 91,455, 89,467; Accounts Payable 70,000, 71,670, 69,331 – 62,430, 86,331, 87,197; Notes Payable 41,000, 50,650, 58,250 – 63,222, 67,880, 68,312; Equity: Common Stock 22,695, 20,990, 19,100 – 25,464, 22,090, 22,188; Retained Earnings 435,000, 439,800, 386,400 – 556,300, 264,800, 332,276; Total Liabilities and Equity 658,895, 671,673, 617,290 – 802,516, 532,556, 599,440.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_PA01a_img.jpg"/>
+</media>
+<media id="fs-idm181307792" class="scaled-down" alt="Bean Superstore 2019, 2018, 2017 and Legumes Plus 2019, 2018, and 2017, respectively: Assets: Cash $345,600, 330,460, 300,000 – 407,000, 386,450, 356,367; Accounts Receivable, 67,000, 62,000, 59,000 – 85,430, 82,670, 70,230; Inventory, 145,830, 178,011, 155,205 – 128,080, 40,036, 52,142; Equipment 100,465, 101,202, 103,085 – 182,006, 23,400, 111,701; Total Assets 658,895, 671,673, 617,290 – 802,516, 532,556, 599,440; Liabilities: Salaries Payable 90,200, 88,563, 84,209 – 95,100, 91,455, 89,467; Accounts Payable 70,000, 71,670, 69,331 – 62,430, 86,331, 87,197; Notes Payable 41,000, 50,650, 58,250 – 63,222, 67,880, 68,312; Equity: Common Stock 22,695, 20,990, 19,100 – 25,464, 22,090, 22,188; Retained Earnings 435,000, 439,800, 386,400 – 556,300, 264,800, 332,276; Total Liabilities and Equity 658,895, 671,673, 617,290 – 802,516, 532,556, 599,440.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_PA01b_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm204195328">
+<problem id="fs-idm224321664">
+<para id="fs-idm210038144"><link class="lo-reference" document="m67883"/>The following select financial statement information from Candid Photography.</para>
+<media id="fs-idm181410816" class="scaled-down" alt="Year, Net Credit Sales, and Ending Accounts Receivable, respectively: 2017, $2,988,000, 1,290,450; 2018, 3,750,860, 1,345,600; 2019, 4,000,350, 1,546,550.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_PA02_img.jpg"/>
+</media>
+<para id="fs-idm212828496">Compute the accounts receivable turnover ratios and the number of days’ sales in receivables ratios for 2018 and 2019 (round answers to two decimal places). What do the outcomes tell a potential investor about Candid Photography if industry average for accounts receivable turnover ratio is 3 times and days’ sales in receivables ratio is 150 days?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm217005328" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm226910656">
+<problem id="fs-idm210692944">
+<para id="fs-idm209708528"><link class="lo-reference" document="m67883"/>Review the select information for Liquor Plaza and Beer Buddies (industry competitors) and complete the following.</para>
+<list id="fs-idm202020992" list-type="enumerated" number-style="upper-alpha">
+<item>Compute the accounts receivable turnover ratios for each company for 2018 and 2019.</item>
+<item>Compute the number of day’s sales in receivables ratios for each company for 2018 and 2019.</item>
+<item>Determine which company is the better investment and why. Round answers to two decimal places.</item>
+</list>
+<media id="fs-idm209061888" alt="Liquor Plaza 2019, 2018, 2017 and Beer Buddies 2019, 2018, and 2017, respectively: Assets: Cash $552,932, 544,307, 520,000 – 384,140, 322,620, 300,466; Accounts Receivable, 300,050, 298,450, 287,650 – 365,500, 356,000, 324,400; Inventory, 190,704, 209,726, 60,301 – 96,440, 72,555, 284,428; Equipment 201,101, 230,334, 84,281 – 106,412, 55,891, 302,780; Total Assets 1,244,787, 1,282,817, 952,232 – 952,492, 807,066, 1,212,074; Liabilities: Salaries Payable 200,801, 188,632, 184,210 – 232,100, 212,120, 202,655; Accounts Payable 107,657, 113,828, 115,222 – 99,464, 101,360, 111,111; Notes Payable 95,464, 98,272, 100,460 – 88,521, 92,208, 94,885; Equity: Common Stock 67,435, 64,955, 62,800 – 50,000, 50,000, 50,000; Retained Earnings 773,430, 817,130, 489,540 – 482,407, 351,378, 735,423; Total Liabilities and Equity 1,244,787, 1,282,817, 952,232 – 952,492, 807,066, 1,212,074.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_PB01a_img.jpg"/>
+</media>
+<media id="fs-idm208924544" alt="Liquor Plaza 2019, 2018, 2017 and Beer Buddies 2019, 2018, and 2017, respectively: Net Credit Sales 2,675,430, 2,310,000, 1,967,820 – 2,200,770, 2,020,570, 2,154,480; COGS 1,400,000, 999,870, 989,950 – 1,268,000, 1,243,530, 1,000,650; Gross Margin 1,275,430, 1,310,130, 977,870 – 932,770, 777,040, 1,153,830; Expenses 502,000, 493,000, 488,330 – 450,363, 425,662, 400,407; Net Income (Loss) 773,430, 817,130, 489,540 – 482,407, 351,378, 753,423.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_PB01b_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm219751536">
+<problem id="fs-idm210856880">
+<para id="fs-idm210166464"><link class="lo-reference" document="m67883"/>The following select financial statement information from Vortex Computing.</para>
+<media id="fs-idm200083888" class="scaled-down" alt="Year, Net Credit Sales, and Ending Accounts Receivable, respectively: 2017, $1,557,200, 398,000; 2018, 1,755,310, 444,400; 2019, 1,965,170, 500,780.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_03_PB02_img.jpg"/>
+</media>
+<para id="fs-idm222232496">Compute the accounts receivable turnover ratios and the number of days’ sales in receivables ratios for 2018 and 2019 (round answers to two decimal places). What do the outcomes tell a potential investor about Vortex Computing if industry average for accounts receivable turnover ratio is 4 times and days’ sales in receivables ratio is 85 days?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm180158464" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm176307152">
+<problem id="fs-idm201157808">
+<para id="fs-idm210864320"><link class="lo-reference" document="m67883"/>You are considering a $100,000 investment in one of two publicly traded companies in the same industry. Review the last three annual financial statements (same fiscal year) for two publicly traded companies in the same industry. Based on the information obtained, complete the following.</para>
+<list id="fs-idm223486752" list-type="enumerated" number-style="upper-alpha">
+<item>Compute the accounts receivable turnover ratio (round all answers to two decimal places).</item>
+<item>Compute the number of days’ sales in receivables ratio for both companies for the two most current years (round all answers to two decimal places).</item>
+<item>Describe and interpret the outcomes, stating which company you would invest in and why.</item>
+<item>What information is missing that could help you make a more informed decision?</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm216021952">
+<term>accounts receivable turnover ratio</term>
+<meaning id="fs-idm208545136">how many times accounts receivable is collected during an operating period and converted to cash</meaning>
+</definition>
+<definition id="fs-idm210346256">
+<term>number of days’ sales in receivables</term>
+<meaning id="fs-idm224463264">expected days it will take to convert accounts receivable into cash</meaning>
+</definition>
+</glossary>
+</document>

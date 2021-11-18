@@ -1,0 +1,349 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Describe and Identify Cost Drivers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68136</md:content-id>
+  <md:title>Describe and Identify Cost Drivers</md:title>
+  <md:abstract/>
+  <md:uuid>bcd55718-79ac-45d7-a2a7-7ff5ca25d933</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm392725376">As you’ve learned, the most common bases for predetermined overhead are direct labor hours, direct labor dollars, or machine hours. Each of these costs is considered a <term>cost driver</term> because of the causal relationship between the base and the related costs: As the cost driver’s usage increases, the cost of overhead increases as well. <link target-id="fs-idm404431872"/> shows various costs and potential cost drivers.</para>
+<table id="fs-idm404431872" class="top-titled" summary="Assessment information">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Common Manufacturing Expenses and Potential Cost Drivers</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Common Expenses</entry>
+<entry valign="bottom" align="left">Potential Cost Drivers</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">
+<list id="fs-idm407067696" list-type="bulleted" bullet-style="bullet">
+<item>Customer Service</item>
+<item>Cleaning Equipment Costs</item>
+<item>Marketing Expenses</item>
+<item>Office Supplies</item>
+<item>Green Floral Tape (indirect material)</item>
+<item>Website Maintenance Expense</item>
+</list>
+</entry>
+<entry valign="bottom" align="left">
+<list id="fs-idm398879600" list-type="bulleted" bullet-style="bullet">
+<item>Number of product returns from customers</item>
+<item>Number of square feet</item>
+<item>Number of customer contacts</item>
+<item>Number of employees</item>
+<item>Number of customer orders</item>
+<item>Number of customer online orders</item>
+</list>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm404971760">The more accurately a company can determine the cost drivers for its products, the more accurate the costing information will be, which in turn allows management to make better use of the cost data in making decisions. As technology changes, however, the mix between materials, labor, and overhead changes. Often, improved technology means less waste of material and fewer direct labor hours, but possibly more overhead. For example, technology has changed the way pharmaceuticals are manufactured. Advancing technology allows for the now smaller labor force to be more productive than a larger labor force from earlier years. While the labor cost has changed, this decrease may only be temporary as a labor force with higher costs and different skills is often needed. Additionally, an increase in technology often raises overhead costs. How accurate, then, is the company’s product cost information if it has become more efficient in its production process? Should the company still be using a predetermined overhead application rate based on direct labor hours or machine hours? A detailed analysis of the cost drivers will answer these questions.</para>
+<para id="fs-idm405987664">Another benefit of looking at cost drivers is that doing so allows a company to analyze all costs. A company can differentiate among costs that drive overhead and have value, those that do not drive overhead but still add value, and those that may or may not drive the overhead but do not add any value. For example, a furniture manufacturer produces and sells wooden tables in various colors. The painting process involves a white base coat, a color coat, and a clear protective top coat. The three coats are applied in a sealed room using a spraying process followed by an ultraviolet drying process. The depreciation on the spraying machines and the ultraviolet bulbs used in the painting process are overhead costs. These costs drive or increase overhead, and they add value to the product by increasing the quality. Costs associated with repainting or fixing any blemishes are overhead costs that are necessary to sell the product but would not be considered value-added costs. The goal is to eliminate as many of the non-value-added costs as possible and subsequently reduce overhead costs.</para>
+<section id="fs-idm399787568">
+<title>Cost Drivers and Overhead</title>
+<para id="fs-idm388473216">In today’s production environment, there are many activities within the production process that can contribute to the cost of the product, but determining the cost drivers may be complicated because some of those activities may change over time. Additionally, the appropriate level of assigning cost drivers needs to be determined. In some cases, overhead costs such as inspection increase with each unit inspected, and the costs need to be allocated on a per-unit level. In other cases, the overhead costs, such as machine setup costs, are incurred each time a batch of products is manufactured and need to be allocated at the batch level.</para>
+<para id="fs-idm406149664">For example, the labor hours for the staff taking, fulfilling, and inspecting orders may increase as the number of orders increases, driving up the overhead. Furthermore, the costs of taking orders or of quality inspections can vary per product and may not be captured properly. Technology improvements, including switching to automated processes for production, may decrease the labor hours of the production staff, driving the labor-related overhead downward but potentially increasing other overhead expenses. These activities—order taking, fulfillment, and quality inspections—are potential cost drivers associated with production, and they each drive the overhead at varying rates.</para>
+<note id="fs-idm385501072" class="think-through">
+<title>Identifying Cost Drivers</title>
+<para id="fs-idm397747840">Cost drivers vary widely among companies.</para>
+<list id="fs-idm401883248" list-type="enumerated" number-style="arabic">
+<item>After costs are accumulated into cost pools, what information would help management select the appropriate cost driver?</item>
+<item>Name an appropriate cost driver for each of the following cost pools:
+<list id="fs-idm388822464" list-type="enumerated" number-style="upper-alpha">
+<item>Plant cleaning and maintenance</item>
+<item>Factory supervision</item>
+<item>Machine maintenance</item>
+<item>Machine setups</item>
+</list></item></list>
+</note>
+</section>
+<section id="fs-idm392666560">
+<title>Identify Cost Drivers</title>
+<para id="fs-idm398505168">How does a company determine its cost drivers for indirect materials, indirect labor, and other overhead costs? To begin the determination of appropriate cost drivers, an accountant analyzes the activities in the product production process that contribute to the cost of that product. An activity is any action that consumes company resources, such as taking orders for a product, setting up machines to produce the product, inspecting the product, and providing customer support before and through the order process. For example, Musicality’s direct costs can be traced to the products, but there are indirect costs associated with using various types of material for each product. While the Orchestra product has more intricate materials and labor, it has fewer costs associated with requisitioning and conveying materials to the production line than the other products have. Additionally, examining the inspection costs indicates the Orchestra product is a simple product to inspect, so random quality inspections are sufficient. But individual inspections for both the Solo and Band products are critical, and the overhead related to inspection costs should be based on the number of inspections.</para>
+<para id="fs-idm404932320">As you can imagine, the unique aspects of the production process for each product affect the overhead cost of each product. However, these costs may not be allocated to the products appropriately when overhead is applied using a predetermined rate based on one activity. While Solo, Band, and Orchestra might appear to be different only in quality, they are actually very different from each other when it comes to manufacturing overhead costs.</para>
+<para id="fs-idm384007040">Whether the products produced require significantly different overhead resources or not, the company benefits from understanding what its cost drivers are. The more efficiently each product’s activities are tracked, the more actual cost drivers are discovered, and the more accurately overhead can be assigned to each product.</para>
+<note id="fs-idm389879008" class="concepts-practice">
+<title>Cost Drivers for Small Businesses</title>
+<para id="fs-idm398521312">The value of analyzing cost drivers can be used in budgeting beyond allocating overhead to products. <emphasis class="colored-text">American Express</emphasis> has forums designed to help small businesses be successful. Knowing the cost drivers for your business can help with budgeting. American Express states that all business activities are related to five main cost drivers:<footnote id="fs-idm398629184">American Express. “5 Cost Drivers to Help You Make Accurate Expense Projections.” June 23, 2011. https://www.americanexpress.com/us/small-business/openforum/articles/5-cost-drivers-to-help-you-make-accurate-expense-projections/</footnote></para>
+<list id="fs-idm394179264" list-type="bulleted" bullet-style="bullet">
+<item>Employee head count is often the driver for office supply expense.</item>
+<item>Salesperson head count is often the driver for auto and other employee travel expense.</item>
+<item>The number of leads required to reach the target sales goal is often the driver for advertising, public relations, social media, search engine optimization expense, and other expenses associated with generating leads.</item>
+<item>Sales and all related variable expenses are often the driver for commissions, bad debt, insurance expense, and so on.</item>
+<item>Fixed costs, such as postage, web hosting fees, business licenses, and banking fees, are often overlooked as cost drivers.</item>
+</list>
+</note>
+</section>
+<section id="fs-idm388627680" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm408328448" list-type="bulleted" bullet-style="bullet">
+<item>Overhead costs are analyzed and grouped based on similar activity bases. A cost driver, such as inspections, machine setups, or order taking, is selected for each cost grouping.</item>
+<item>Analysis of cost drivers allows for better selection of true overhead cost drivers and more appropriate allocation of overhead.</item>
+</list>
+</section>
+<section id="fs-idm388185392" class="multiple-choice">
+<exercise id="fs-idm398700768">
+<problem id="fs-idm385373584">
+<para id="fs-idm385199488"><link class="lo-reference" document="m68136"/>Which is <emphasis effect="italics">not</emphasis> a step in analyzing the cost driver for manufacturing overhead?</para>
+<list id="fs-idm389477280" list-type="enumerated" number-style="upper-alpha">
+<item>identify the cost</item>
+<item>identify non-value-added costs</item>
+<item>analyze the effect on manufacturing overhead</item>
+<item>identify the correlation between the potential driver and manufacturing overhead</item>
+</list>
+</problem>
+<solution id="fs-idm395913296">
+<para id="fs-idm409689904">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm406179312">
+<problem id="fs-idm385077632">
+<para id="fs-idm390036512"><link class="lo-reference" document="m68136"/>Overhead costs are assigned to each product based on ________.</para>
+<list id="fs-idm403274576" list-type="enumerated" number-style="upper-alpha">
+<item>the proportion of that product’s use of the cost driver</item>
+<item>a predetermined overhead rate for a single cost driver</item>
+<item>price of the product</item>
+<item>machine hours per product</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm407654720" class="questions">
+<exercise id="fs-idm385823296">
+<problem id="fs-idm389071840">
+<para id="fs-idm397932752"><link class="lo-reference" document="m68135"/><link class="lo-reference" document="m68137"/>When is an activity-based costing system better than a traditional allocation system?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm386985744">
+<problem id="fs-idm387992400">
+<para id="fs-idm384356896"><link class="lo-reference" document="m68136"/>What is the advantage of labeling activities as value added or nonvalue added?</para>
+</problem>
+<solution id="fs-idm384097712">
+<para id="fs-idm392891168">Non-value-added costs can often be eliminated since they are rarely essential, and identifying them helps managers reduce their costs.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm392632480">
+<problem id="fs-idm386903232">
+<para id="fs-idm392687120"><link class="lo-reference" document="m68136"/>What conditions are necessary to designate an activity as a cost driver?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm400256624">
+<problem id="fs-idm394280768">
+<para id="fs-idm397567904"><link class="lo-reference" document="m68136"/>For each cost pool, identify an appropriate cost driver.</para>
+<list id="fs-idm389465088" list-type="enumerated" number-style="upper-alpha">
+<item>order department</item>
+<item>accounts receivable processing</item>
+<item>catering</item>
+<item>raw material inventory</item>
+</list>
+</problem>
+<solution id="fs-idm399722320">
+<para id="fs-idm388356544">Answers may vary but should be similar to the following: A. number of orders; B. number of customers; C. number of meals; D. number of material requisitions received.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm397221136" class="exercise-set-a">
+<exercise id="fs-idm387931728">
+<problem id="fs-idm403882736">
+<para id="fs-idm392492592"><link class="lo-reference" document="m68136"/>Identify appropriate cost drivers for these cost pools:</para>
+<list id="fs-idm388282240" list-type="enumerated" number-style="upper-alpha">
+<item>setup cost pools</item>
+<item>assembly cost pool</item>
+<item>supervising cost pool</item>
+<item>testing cost pool</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm392896768">
+<problem id="fs-idm392390176">
+<para id="fs-idm383853088"><link class="lo-reference" document="m68136"/>Match the activity with the most appropriate cost driver.</para>
+<table id="fs-idm398051840" class="top-titled" summary="Assessment information">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Activities and Cost Drivers</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Activity</entry>
+<entry valign="bottom" align="left">Cost Driver</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Fringe benefits</entry>
+<entry valign="bottom" align="left">Square feet</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Electricity</entry>
+<entry valign="bottom" align="left">Direct labor hours</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Depreciation</entry>
+<entry valign="bottom" align="left">Machine hours</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Machine maintenance</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Heat and air conditioning</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm386833680" class="exercise-set-b">
+<exercise id="fs-idm397696624">
+<problem id="fs-idm404447072">
+<para id="fs-idm397750352"><link class="lo-reference" document="m68136"/>Identify appropriate cost drivers for these cost pools:</para>
+<list id="fs-idm383643648" list-type="enumerated" number-style="upper-alpha">
+<item>material cost pool</item>
+<item>machine cost pool</item>
+<item>painting cost pool</item>
+<item>maintenance cost pool</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm398028576">
+<problem id="fs-idm385965216">
+<para id="fs-idm388582560"><link class="lo-reference" document="m68136"/>Match the activity with the most appropriate cost driver.</para>
+<table id="fs-idm399724864" class="top-titled" summary="Assessment information">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Activities and Cost Drivers</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Activity</entry>
+<entry valign="bottom" align="left">Cost Driver</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Factory maintenance</entry>
+<entry valign="bottom" align="left">Number of setups</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Payroll tax</entry>
+<entry valign="bottom" align="left">Number of employees</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Rent</entry>
+<entry valign="bottom" align="left">Square feet</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Machine setups</entry>
+<entry valign="bottom" align="left">Direct labor hours</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Factory supervision</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm396627632" class="problem-set-a">
+<exercise id="fs-idm411673584">
+<problem id="fs-idm407151760">
+<para id="fs-idm406744240"><link class="lo-reference" document="m68136"/>A local picnic table manufacturer has budgeted these overhead costs:</para>
+<media id="fs-idm407733904" class="scaled-down-30" alt="Purchasing $70,000, Handling materials 33,333, Machine setups 70,500, Inspections 25,500, and Utilities 45,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_02_PA01a_img.jpg"/>
+</media>
+<para id="fs-idm403944240">They are considering adapting ABC costing and have estimated the cost drivers for each pool as shown:</para>
+<media id="fs-idm405112624" class="scaled-down-30" alt="Cost Drivers are: Orders, Material moves, Machine setups, Number of inspections, and Square feet. Activities are, respectively: 700, 1,334, 15,000, 5,000, 180,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_02_PA01b_img.jpg"/>
+</media>
+<para id="fs-idm407953616">Recent success has yielded an order for 1,000 tables. Assume direct labor costs per hour of $20. Determine how much the job would cost given the following activities:</para>
+<media id="fs-idm388047568" class="scaled-down" alt="Order (units) 1,000; Direct materials 112,700; Machine hours 15,200; Direct labor hours 5,300; Number of purchase orders 60; Number of material moves 800; Number of machine setups 100; Number of inspections 450; Number of square feet occupied 8,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_02_PA01c_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm378632816">
+<problem id="fs-idm403796224">
+<para id="fs-idm386061184"><link class="lo-reference" document="m68136"/>Explain how each activity in this list can be associated with the corresponding unit or batch level provided.</para>
+<list id="fs-idm409821456" list-type="enumerated" number-style="upper-alpha">
+<item>Assembling products: unit level</item>
+<item>Issuing raw materials: batch level</item>
+<item>Machine setup: batch level</item>
+<item>Inspection: unit level</item>
+<item>Loading the labeling machine: batch level</item>
+<item>Equipment maintenance: batch level</item>
+<item>Printing a banner: unit level</item>
+<item>Moving material: batch level</item>
+<item>Ordering a part: batch level</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm405079840" class="problem-set-b">
+<exercise id="fs-idm390603264">
+<problem id="fs-idm389602304">
+<para id="fs-idm397218800"><link class="lo-reference" document="m68136"/>A local picnic table manufacturer has budgeted the following overhead costs:</para>
+<media id="fs-idm410728832" class="scaled-down" alt="Estimated Overhead for the following: Purchasing $80,000; Handling materials 45,00; Machine setups 55,000; Assembly 60,000; Utilities 90,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_02_PB01a_img.jpg"/>
+</media>
+<para id="fs-idm388629856">They are considering adapting ABC costing and have estimated the cost drivers for each pool as shown:</para>
+<media id="fs-idm392548016" class="scaled-down" alt="Cost Drivers are: Orders, Material moves, Machine setups, Number of parts, and Square feet. Activities are, respectively: 10,000, 1,500, 5,000, 5,000, and 60,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_02_PB01b_img.jpg"/>
+</media>
+<para id="fs-idm388295632">Recent success has yielded an order for 1,500 tables. Determine how much the job would cost given the following activities, and assuming an hourly rate for direct labor of $25 per hour:</para>
+<media id="fs-idm386838800" class="scaled-down" alt="Activity for the following: Order (units) 1,500; Direct materials 75,900; Machine hours 3,310; Direct labor hours 4,590; Number of purchase orders 70; Number of material moves 750; Number of machine setups 85;  Number of parts 290; Number of square feet occupied 3,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_02_PB01c_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm379715504">
+<problem id="fs-idm379715248">
+<para id="fs-idm379714992"><link class="lo-reference" document="m68136"/>Explain how each activity in this list can be associated with the corresponding unit or batch level provided.</para>
+<list id="fs-idm379713872" list-type="enumerated" number-style="upper-alpha">
+<item>Assembling products: batch level</item>
+<item>Issuing raw materials: unit level</item>
+<item>Machine setup: unit level</item>
+<item>Inspection: batch level</item>
+<item>Loading the labeling machine: unit level</item>
+<item>Equipment maintenance: unit level</item>
+<item>Printing a banner: batch level</item>
+<item>Moving material: unit level</item>
+<item>Ordering a part: unit level</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm379708832" class="thought-provokers">
+<exercise id="fs-idm385845408">
+<problem id="fs-idm405098816">
+<para id="fs-idm385287568"><link class="lo-reference" document="m68136"/>College Cases sells cases for electronic devices such as phones, computers, and tablets. These cases have college logos or mascots on them and can be customized by adding such things as the customer’s name, initials, sport, or fraternity letters. The company buys the cases in various colors and then uses laser technology to do the customization of the letters and to add school names, logos, mascots, and so on. What are potential activity-based costing pools for College Cases, and what would be appropriate cost drivers?</para>
+</problem>
+</exercise>
+</section>
+  </content>
+<glossary>
+<definition id="fs-idm407957984">
+<term>cost driver</term>
+<meaning id="fs-idm402860672">activity that is the reason for the increase or decrease of another cost; examples include labor hours incurred, labor costs paid, amounts of materials used in production, units produced, or any other activity that has a cause-and-effect relationship with incurred costs</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,469 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Appendix: Complete a Comprehensive Accounting Cycle for a Business</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67859</md:content-id>
+  <md:title>Appendix: Complete a Comprehensive Accounting Cycle for a Business</md:title>
+  <md:abstract/>
+  <md:uuid>902ccbf1-4818-4793-9e75-99239d58f96a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm357393488">We have gone through the entire accounting cycle for Printing Plus with the steps spread over three chapters. Let’s go through the complete accounting cycle for another company here. The full accounting cycle diagram is presented in <link target-id="OSX_Acct_F05_04_AcctCycle"/>.</para>
+<figure id="OSX_Acct_F05_04_AcctCycle">
+<media id="fs-idm357509344" alt="A large circle labeled, in the center, The Accounting Cycle. The large circle consists of 10 smaller circles with arrows pointing from one smaller circle to the next one. The smaller circles are labeled, in clockwise order: 1 Identify and Analyze Transactions; 2 Record Transactions to Journal; 3 Post Journal Information to Ledger; 4 Prepare Unadjusted Trial Balance; 5 Adjusting Entries; 6 Prepare Adjusted Trial Balance; 7 Prepare Financial Statements; 8 Closing Entries; 9 Prepare Post-Closing Trial Balance; 10 Reversing Entries (optional).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_AcctCycle.jpg"/>
+</media>
+<caption>The Accounting Cycle. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm627324592">We next take a look at a comprehensive example that works through the entire accounting cycle for Clip’em Cliff. Clifford Girard retired from the US Marine Corps after 20 years of active duty. Cliff decides it would be fun to become a barber and open his own shop called “Clip’em Cliff.” He will run the barber shop out of his home for the first couple of months while he identifies a new location for his shop.</para>
+<para id="fs-idm360240096">Since his Marines career included several years of logistics, he is also going to operate a consulting practice where he will help budding barbers create a barbering practice. He will charge a flat fee or a per hour charge. His consulting practice will be recognized as service revenue and will provide additional revenue while he develops his barbering practice.</para>
+<para id="fs-idm364527584">He obtains a barber’s license after the required training and is ready to open his shop on August 1. <link target-id="fs-idm365857120"/> shows his transactions from the first month of business.</para>
+<table id="fs-idm365857120" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c2">Transactions for August</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Date</entry>
+<entry valign="top" align="left">Transaction</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Aug. 1</entry>
+<entry valign="top" align="left">Cliff issues $70,000 shares of common stock for cash.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 3</entry>
+<entry valign="top" align="left">Cliff purchases barbering equipment for $45,000; $37,500 was paid immediately with cash, and the remaining $7,500 was billed to Cliff with payment due in 30 days. He decided to buy used equipment, because he was not sure if he truly wanted to run a barber shop. He assumed that he will replace the used equipment with new equipment within a couple of years.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 6</entry>
+<entry valign="top" align="left">Cliff purchases supplies for $300 cash.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 10</entry>
+<entry valign="top" align="left">Cliff provides $4,000 in services to a customer who asks to be billed for the services.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 13</entry>
+<entry valign="top" align="left">Cliff pays a $75 utility bill with cash.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 14</entry>
+<entry valign="top" align="left">Cliff receives $3,200 cash in advance from a customer for services not yet rendered.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 16</entry>
+<entry valign="top" align="left">Cliff distributed $150 cash in dividends to stockholders.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 17</entry>
+<entry valign="top" align="left">Cliff receives $5,200 cash from a customer for services rendered.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 19</entry>
+<entry valign="top" align="left">Cliff paid $2,000 toward the outstanding liability from the August 3 transaction.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 22</entry>
+<entry valign="top" align="left">Cliff paid $4,600 cash in salaries expense to employees.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 28</entry>
+<entry valign="top" align="left">The customer from the August 10 transaction pays $1,500 cash toward Cliff’s account.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm337875520"><emphasis effect="bold">Transaction 1:</emphasis> On August 1, 2019, Cliff issues $70,000 shares of common stock for cash.</para>
+<para id="fs-idm605434384"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm315411312" list-type="bulleted" bullet-style="bullet">
+<item>Clip’em Cliff now has more cash. Cash is an asset, which is increasing on the debit side.</item>
+<item>When the company issues stock, this yields a higher common stock figure than before issuance. The common stock account is increasing on the credit side.</item>
+</list>
+<media id="fs-idm367103712" alt="Journal entry for August 1, 2019 debiting Cash and crediting Common Stock for 70,000. Explanation: “To recognize issuance of common stock.” Assets equals Liabilities plus Stockholders’ Equity. Assets go up 70,000 equals Liabilities don’t change plus Equity goes up 70,000. 70,000 equals 0 plus 70,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournFS01_img.jpg"/>
+</media>
+<para id="fs-idm355359568"><emphasis effect="bold">Transaction 2:</emphasis> On August 3, 2019, Cliff purchases barbering equipment for $45,000; $37,500 was paid immediately with cash, and the remaining $7,500 was billed to Cliff with payment due in 30 days.</para>
+<para id="fs-idm306314128"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm363620720" list-type="bulleted" bullet-style="bullet">
+<item>Clip’em Cliff now has more equipment than before. Equipment is an asset, which is increasing on the debit side for $45,000.</item>
+<item>Cash is used to pay for $37,500. Cash is an asset, decreasing on the credit side.</item>
+<item>Cliff asked to be billed, which means he did not pay cash immediately for $7,500 of the equipment. Accounts Payable is used to signal this short-term liability. Accounts payable is increasing on the credit side.</item>
+</list>
+<media id="fs-idm370537104" alt="Journal entry for August 3, 2019 debiting Equipment for 45,000 and crediting Cash for 37,500 and Accounts Payable for 7,500. Explanation: “To recognize purchase of equipment.” Assets equal Liabilities plus Stockholders’ Equity. Assets go up 45,000 and go down 37,500 equals Liabilities go up 7,500 plus Equity doesn’t change. 7,500 equals 7,500 plus 0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournFS02_img.jpg"/>
+</media>
+<para id="fs-idm315002976"><emphasis effect="bold">Transaction 3:</emphasis> On August 6, 2019, Cliff purchases supplies for $300 cash.</para>
+<para id="fs-idm362011344"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm315412976" list-type="bulleted" bullet-style="bullet">
+<item>Clip’em Cliff now has less cash. Cash is an asset, which is decreasing on the credit side.</item>
+<item>Supplies, an asset account, is increasing on the debit side.</item>
+</list>
+<media id="fs-idm365512224" alt="Journal entry for August 6, 2019 debiting Supplies and crediting Cash for 300. Explanation: “To recognize supplies purchase.” Assets equals Liabilities plus Stockholders’ Equity. Assets go up 300 and go down 300 equals Liabilities don’t change plus Equity doesn’t change. 0 equals 0 plus 0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournFS03_img.jpg"/>
+</media>
+<para id="fs-idm357376896"><emphasis effect="bold">Transaction 4:</emphasis> On August 10, 2019, provides $4,000 in services to a customer who asks to be billed for the services.</para>
+<para id="fs-idm322734736"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm359942352" list-type="bulleted" bullet-style="bullet">
+<item>Clip’em Cliff provided service, thus earning revenue. Revenue impacts equity, and increases on the credit side.</item>
+<item>The customer did not pay immediately for the service and owes Cliff payment. This is an Accounts Receivable for Cliff. Accounts Receivable is an asset that is increasing on the debit side.</item>
+</list>
+<media id="fs-idm362475600" alt="Journal entry for August 10, 2019 debiting Accounts Receivable and crediting Service Revenue for 4,000. Explanation: “To recognize revenue earned, customer purchased on account.” Assets equals Liabilities plus Stockholders’ Equity. Assets go up 4,000 equals Liabilities don’t change plus Equity goes up 4,000. 4,000 equals 0 plus 4,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournFS04_img.jpg"/>
+</media>
+<para id="fs-idm318964848"><emphasis effect="bold">Transaction 5:</emphasis> On August 13, 2019, Cliff pays a $75 utility bill with cash.</para>
+<para id="fs-idm314714784"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm366836528" list-type="bulleted" bullet-style="bullet">
+<item>Clip’em Cliff now has less cash than before. Cash is an asset that is decreasing on the credit side.</item>
+<item>Utility payments are billed expenses. Utility Expense negatively impacts equity, and increases on the debit side.</item>
+</list>
+<media id="fs-idm364986000" alt="Journal entry for August 13, 2019 debiting Utilities Expense and crediting Cash for 75. Explanation: “To recognize payment of utility bill.” Assets equals Liabilities plus Stockholders’ Equity Assets go down 75 equals Liabilities don’t change plus Equity goes down 75. Minus 75 equals 0 plus (minus 75).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournFS05_img.jpg"/>
+</media>
+<para id="fs-idm319284848"><emphasis effect="bold">Transaction 6:</emphasis> On August 14, 2019, Cliff receives $3,200 cash in advance from a customer for services to be rendered.</para>
+<para id="fs-idm333756896"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm339341936" list-type="bulleted" bullet-style="bullet">
+<item>Clip’em Cliff now has more cash. Cash is an asset, which is increasing on the debit side.</item>
+<item>The customer has not yet received services but already paid the company. This means the company owes the customer the service. This creates a liability to the customer, and revenue cannot yet be recognized. Unearned Revenue is the liability account, which is increasing on the credit side.</item>
+</list>
+<media id="fs-idm360012032" alt="Journal entry for August 14, 2019 debiting Cash 3,200 and crediting Unearned Revenue for 3,200. Explanation: “To recognize customer’s advanced payment.” Assets equals Liabilities plus Stockholders’ Equity. Assets go up 3,200 equals Liabilities go up 3,200 plus Equity doesn’t change. 3,200 equals 3,200 plus 0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournFS06_img.jpg"/>
+</media>
+<para id="fs-idm319346464"><emphasis effect="bold">Transaction 7:</emphasis> On August 16, 2019, Cliff distributed $150 cash in dividends to stockholders.</para>
+<para id="fs-idm332524896"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm314743552" list-type="bulleted" bullet-style="bullet">
+<item>Clip’em Cliff now has less cash. Cash is an asset, which is decreasing on the credit side.</item>
+<item>When the company pays out dividends, this decreases equity and increases the dividends account. Dividends increases on the debit side.</item>
+</list>
+<media id="fs-idm319131664" alt="Journal entry for August 16, 2019 debiting Dividends and crediting Cash for 150. Explanation: “To recognize distribution of dividends.” Assets equals Liabilities plus Stockholders’ Equity. Assets go down 150 equals Liabilities don’t change plus Equity goes down 150. Minus 150 equals 0 plus (minus 150).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournFS07_img.jpg"/>
+</media>
+<para id="fs-idm345754416"><emphasis effect="bold">Transaction 8:</emphasis> On August 17, 2019, Cliff receives $5,200 cash from a customer for services rendered.</para>
+<para id="fs-idm319118736"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm347113840" list-type="bulleted" bullet-style="bullet">
+<item>Clip’em Cliff now has more cash than before. Cash is an asset, which is increasing on the debit side.</item>
+<item>Service was provided, which means revenue can be recognized. Service Revenue increases equity. Service Revenue is increasing on the credit side.</item>
+</list>
+<media id="fs-idm364918624" alt="Journal entry for August 17, 2019 debiting Cash and crediting Service Revenue for 5,200. Explanation: “To recognize revenue earned.” Assets equals Liabilities plus Stockholders’ Equity. Assets go up 5,200 equals Liabilities don’t change plus Equity goes up 5,200. 5,200 equals 0 plus 5,200.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournFS08_img.jpg"/>
+</media>
+<para id="fs-idm361372576"><emphasis effect="bold">Transaction 9:</emphasis> On August 19, 2019, Cliff paid $2,000 toward the outstanding liability from the August 3 transaction.</para>
+<para id="fs-idm315954224"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm372934352" list-type="bulleted" bullet-style="bullet">
+<item>Clip’em Cliff now has less cash. Cash is an asset, which is decreasing on the credit side.</item>
+<item>Accounts Payable is a liability account, decreasing on the debit side.</item>
+</list>
+<media id="fs-idm366357472" alt="Journal entry for August 19, 2019 debiting Accounts Payable and crediting Cash for 2,000. Explanation: “To recognize partial payment of liability.” Assets equals Liabilities plus Stockholders’ Equity. Assets go down 2,000 equals Liabilities go down 2,000 plus Equity doesn’t change. Minus 2,000 equals minus 2,000 plus 0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournFS09_img.jpg"/>
+</media>
+<para id="fs-idm325701696"><emphasis effect="bold">Transaction 10:</emphasis> On August 22, 2019, Cliff paid $4,600 cash in salaries expense to employees.</para>
+<para id="fs-idm358695456"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm366152752" list-type="bulleted" bullet-style="bullet">
+<item>Clip’em Cliff now has less cash. Cash is an asset, which is decreasing on the credit side.</item>
+<item>When the company pays salaries, this is an expense to the business. Salaries Expense reduces equity by increasing on the debit side.</item>
+</list>
+<media id="fs-idm348850960" alt="Journal entry for August 22, 2019 debiting Salaries Expense and crediting Cash for 4,600. Explanation: “To recognize employee salary payment.” Assets equals Liabilities plus Stockholders’ Equity. Assets go down 4,600 equals Liabilities don’t change plus Equity goes down 4,600. Minus 4,600 equals 0 plus (minus 4,600).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournFS10_img.jpg"/>
+</media>
+<para id="fs-idm370721264"><emphasis effect="bold">Transaction 11:</emphasis> On August 28, 2019, the customer from the August 10 transaction pays $1,500 cash toward Cliff’s account.</para>
+<para id="fs-idm361039728"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm319124128" list-type="bulleted" bullet-style="bullet">
+<item>The customer made a partial payment on their outstanding account. This reduces Accounts Receivable. Accounts Receivable is an asset account decreasing on the credit side.</item>
+<item>Cash is an asset, increasing on the debit side.</item>
+</list>
+<media id="fs-idm368382048" alt="Journal entry for August 28, 2019 debiting Cash and crediting Accounts Receivable for 1,500. Explanation: “To recognize customer partial payment.” Assets equals Liabilities plus Stockholders’ Equity. Assets go up 1,500 and go down 1,500 equals Liabilities don’t change plus Equity doesn’t change. 0 equals 0 plus 0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournFS11_img.jpg"/>
+</media>
+<para id="fs-idm362026288">The complete journal for August is presented in <link target-id="OSX_Acct_F05_04_JournSum"/>.</para>
+<figure id="OSX_Acct_F05_04_JournSum" class="scaled-down">
+<media id="fs-idm631993888" alt="Journal entries. August 1, 2019 debit Cash and credit Common Stock for 70,000. August 3, 2019 debit Equipment for 45,000 and credit Cash for 37,500 and Accounts Payable for 7,500. August 6, 2019 debit Supplies and credit Cash for 300. August 10, 2019 debit Accounts Receivable and credit Service Revenue for 4,000. August 13, 2019 debit Utilities Expense and credit Cash for 75. August 14, 2019 debit Cash 3,200 and credit Unearned Revenue for 3,200. August 16, 2019 debit Dividends and credit Cash for 150. August 17, 2019 debit Cash and credit Service Revenue for 5,200. August 19, 2019 debit Accounts Payable and credit Cash for 2,000. August 22, 2019 debit Salaries Expense and credit Cash for 4,600. August 28, 2019 debit Cash and credit Accounts Receivable for 1,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournSum.jpg"/>
+</media>
+<caption>Journal Entries for August. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm366902496">Once all journal entries have been created, the next step in the accounting cycle is to post journal information to the ledger. The ledger is visually represented by T-accounts. Cliff will go through each transaction and transfer the account information into the debit or credit side of that ledger account. Any account that has more than one transaction needs to have a final balance calculated. This happens by taking the difference between the debits and credits in an account.</para>
+<para id="fs-idm365261200">Clip’em Cliff’s ledger represented by T-accounts is presented in <link target-id="OSX_Acct_F05_04_TAcctSum"/>.</para>
+<figure id="OSX_Acct_F05_04_TAcctSum">
+<media id="fs-idm364391136" alt="Cash has an August 1 debit entry of 70,000, an August 3 credit entry of 37,500, an August 6 credit entry of 300, an v 13 credit entry of 75, a August 14 debit entry of 3,200, an August 16 credit entry of 150, an August 17 debit entry of 5,200, an August 19 credit entry of 2,000, an August 22 credit entry of 4,600, and an August 28 debit entry of 1,500, leaving a debit balance of 35,275. Accounts Receivable has an August 10 debit entry of 4,000, an August 28 credit entry of 1,500, and a debit balance of 2,500. Supplies has an August 6 debit entry of 300 and a debit balance of 300. Equipment has an August 3 debit entry of 45,000 and a debit balance of 45,000. Accounts Payable has an August 3 credit entry of 7,500, an August 19 debit entry of 2,000 and a credit balance of 5,500. Unearned Revenue has a credit August 14 entry of 3,200 and a credit balance of 3,200 Common Stock has an August 1 credit entry of 70,000 and a credit balance of 70,000. Dividends has an August 16 debit entry of 150, and a debit balance of 150. Service Revenue account has 2 entries on the credit side: August 10 4,000, and Aug 17 5,200. The total on the credit side is then 9,200. Salaries Expense has an August 22 debit side entry for 4,600 and a debit side balance of 4,600. Utilities Expense has an August 13 debit side entry for 75, and a debit side balance of 75.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_TAcctSum.jpg"/>
+</media>
+<caption>T-Accounts for August. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm348841904">You will notice that the sum of the asset account balances in Cliff’s ledger equals the sum of the liability and equity account balances at $83,075. The final debit or credit balance in each account is transferred to the unadjusted trial balance in the corresponding debit or credit column as illustrated in <link target-id="OSX_Acct_F05_04_CeCATB1"/>.</para>
+<figure id="OSX_Acct_F05_04_CeCATB1">
+<media id="fs-idm364647424" alt="Clip’em Cliff, Unadjusted Trial Balance, August 31, 2019. Cash 35,275 debit. Accounts receivable 2,500 debit. Supplies 300 debit. Equipment 45,000 debit. Accounts Payable 5,500 credit. Unearned Revenue 3,200 credit. Common Stock 70,000 credit. Dividends 150 debit. Service Revenue 9,200 credit. Salaries Expense 4,600 debit. Utility Expense 75 debit. Total debits and credits are each 87,900. The ledger pages for Service Revenue and Salaries Expense are showing their balances being put into the Unadjusted Trial Balance as an example for all the balances.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_CeCATB1.jpg"/>
+</media>
+<caption>Unadjusted Trial Balance for Clip’em Cliff. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm364719232">Once all of the account balances are transferred to the correct columns, each column is totaled. The total in the debit column must match the total in the credit column to remain balanced. The unadjusted trial balance for Clip’em Cliff appears in <link target-id="OSX_Acct_F05_04_CeCATB2"/>.</para>
+<figure id="OSX_Acct_F05_04_CeCATB2" class="scaled-down">
+<media id="fs-idm619749584" alt="Clip’em Cliff, Unadjusted Trial Balance, August 31, 2019. Cash 35,275 debit. Accounts receivable 2,500 debit. Supplies 300 debit. Equipment 45,000 debit. Accounts Payable 5,500 credit. Unearned Revenue 3,200 credit. Common Stock 70,000 credit. Dividends 150 debit. Service Revenue 9,200 credit. Salaries Expense 4,600 debit. Utility Expense 75 debit. Total debits and credits are each 87,900.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_CeCATB2.jpg"/>
+</media>
+<caption>Unadjusted Trial Balance for Clip’em Cliff. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm359796032">The unadjusted trial balance shows a debit and credit balance of $87,900. Remember, the unadjusted trial balance is prepared before any period-end adjustments are made.</para>
+<para id="fs-idm365214288">On August 31, Cliff has the transactions shown in <link target-id="fs-idm359464544"/> requiring adjustment.</para>
+<table id="fs-idm359464544" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c2">August 31 Transactions</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Date</entry>
+<entry valign="top" align="left">Transaction</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Aug. 31</entry>
+<entry valign="top" align="left">Cliff took an inventory of supplies and discovered that $250 of supplies remain unused at the end of the month.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 31</entry>
+<entry valign="top" align="left">The equipment purchased on August 3 depreciated $2,500 during the month of August.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 31</entry>
+<entry valign="top" align="left">Clip’em Cliff performed $1,100 of services during August for the customer from the August 14 transaction.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 31</entry>
+<entry valign="top" align="left">Reviewing the company bank statement, Clip’em Cliff discovers $350 of interest earned during the month of August that was previously uncollected and unrecorded. As a new customer for the bank, the interest was paid by a bank that offered an above-market-average interest rate.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aug. 31</entry>
+<entry valign="top" align="left">Unpaid and previously unrecorded income taxes for the month are $3,400. The tax payment was to cover his federal quarterly estimated income taxes. He lives in a state that does not have an individual income tax</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm362482080"><emphasis effect="bold">Adjusting Transaction 1:</emphasis> Cliff took an inventory of supplies and discovered that $250 of supplies remain unused at the end of the month.</para>
+<para id="fs-idm317630336"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm366298640" list-type="bulleted" bullet-style="bullet">
+<item>$250 of supplies remain at the end of August. The company began the month with $300 worth of supplies. Therefore, $50 of supplies were used during the month and must be recorded (300 – 250). Supplies is an asset that is decreasing (credit).</item>
+<item>Supplies is a type of prepaid expense, that when used, becomes an expense. Supplies Expense would increase (debit) for the $50 of supplies used during August.</item>
+</list>
+<media id="fs-idm356883808" alt="Adjusting Journal entry for August 31, 2019 debiting Supplies Expense and crediting Supplies for 50. Explanation: “To recognize supplies usage for August.” Assets equals Liabilities plus Stockholders’ Equity. Assets go down 50 equals Liabilities don’t change plus Equity goes down 50. Minus 50 equals 0 plus (minus 50)">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournFS12_img.jpg"/>
+</media>
+<para id="fs-idm357175840"><emphasis effect="bold">Adjusting Transaction 2:</emphasis> The equipment purchased on August 3 depreciated $2,500 during the month of August.</para>
+<para id="fs-idm348859728"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm364639936" list-type="bulleted" bullet-style="bullet">
+<item>Equipment cost of $2,500 was allocated during August. This depreciation will affect the Accumulated Depreciation–Equipment account and the Depreciation Expense–Equipment account. While we are not doing depreciation calculations here, you will come across more complex calculations, such as depreciation in <link document="m67894">Long-Term Assets</link>.</item>
+<item>Accumulated Depreciation–Equipment is a contra asset account (contrary to Equipment) and increases (credit) for $2,500.</item>
+<item>Depreciation Expense–Equipment is an expense account that is increasing (debit) for $2,500.</item>
+</list>
+<media id="fs-idm348881696" alt="Adjusting Journal entry for August 31, 2019 debiting Depreciation Expense: Equipment and crediting Accumulated Depreciation: Equipment for 2,500. Explanation: “To recognize equipment depreciation for August.” Assets equals Liabilities plus Stockholders’ Equity. Assets go down 2,500 equals Liabilities don’t change plus Equity goes down 2,500. Minus 2,500 equals 0 plus (minus 2,500).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournFS13_img.jpg"/>
+</media>
+<para id="fs-idm356701920"><emphasis effect="bold">Adjusting Transaction 3:</emphasis> Clip’em Cliff performed $1,100 of services during August for the customer from the August 14 transaction.</para>
+<para id="fs-idm363954128"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm356735248" list-type="bulleted" bullet-style="bullet">
+<item>The customer from the August 14 transaction gave the company $3,200 in advanced payment for services. By the end of August the company had earned $1,100 of the advanced payment. This means that the company still has yet to provide $2,100 in services to that customer.</item>
+<item>Since some of the unearned revenue is now earned, Unearned Revenue would decrease. Unearned Revenue is a liability account and decreases on the debit side.</item>
+<item>The company can now recognize the $1,100 as earned revenue. Service Revenue increases (credit) for $1,100.</item>
+</list>
+<media id="fs-idm359950400" alt="Adjusting journal entry for August 31, 2019 debiting Unearned Revenue and crediting Service Revenue for 1,100. Explanation: “To recognize revenue earned from August 14 transaction.” Assets equals Liabilities plus Stockholders’ Equity. Assets don’t change equals Liabilities go down 1,100 plus Equity goes up 1,100. 0 equals minus 1,100 plus 1,100.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournFS14_img.jpg"/>
+</media>
+<para id="fs-idm361905104"><emphasis effect="bold">Adjusting Transaction 4:</emphasis> Reviewing the company bank statement, Clip’em Cliff identifies $350 of interest earned during the month of August that was previously unrecorded.</para>
+<para id="fs-idm314750320"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm314901504" list-type="bulleted" bullet-style="bullet">
+<item>Interest is revenue for the company on money kept in a money market account at the bank. The company only sees the bank statement at the end of the month and needs to record as received interest revenue reflected on the bank statement.</item>
+<item>Interest Revenue is a revenue account that increases (credit) for $350.</item>
+<item>Since Clip’em Cliff has yet to collect this interest revenue, it is considered a receivable. Interest Receivable increases (debit) for $350.</item>
+</list>
+<media id="fs-idm574828784" alt="Adjusting journal entry for August 31, 2019 debiting Interest Receivable and crediting Interest Revenue for 350. Explanation: “To recognize interest revenue earned but not yet collected.” Assets equals Liabilities plus Stockholders’ Equity. Assets go up 350 equals Liabilities don’t change plus Equity goes up 350. 350 equals 0 plus 350.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournFS15_img.jpg"/>
+</media>
+<para id="fs-idm574797552"><emphasis effect="bold">Adjusting Transaction 5:</emphasis> Unpaid and previously unrecorded income taxes for the month are $3,400.</para>
+<para id="fs-idm361071552"><emphasis effect="bold">Analysis:</emphasis></para>
+<list id="fs-idm627320832" list-type="bulleted" bullet-style="bullet">
+<item>Income taxes are an expense to the business that accumulate during the period but are only paid at predetermined times throughout the year. This period did not require payment but did accumulate income tax.</item>
+<item>Income Tax Expense is an expense account that negatively affects equity. Income Tax Expense increases on the debit side.</item>
+<item>The company owes the tax money but has not yet paid, signaling a liability. Income Tax Payable is a liability that is increasing on the credit side.</item>
+</list>
+<media id="fs-idm327745616" alt="Adjusting journal entry for August 31, 2019 debiting Income Tax Expense and crediting Income Tax Payable for 3,400. Explanation: “To recognize taxes incurred but not yet paid.” Assets equals Liabilities plus Stockholders’ Equity. Assets don’t change equals Liabilities go up 3,400 plus Equity goes down 3,400. 0 equals 3,400 plus (minus 3,400).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournFS16_img.jpg"/>
+</media>
+<para id="fs-idm631220336">The summary of adjusting journal entries for Clip’em Cliff is presented in <link target-id="OSX_Acct_F05_04_JournSum2"/>.</para>
+<figure id="OSX_Acct_F05_04_JournSum2">
+<media id="fs-idm632108944" alt="Journal entries: August 31, 2019 debit Supplies Expense, credit Supplies 50. August 31, 2019 debit Depreciation Expense: Equipment, credit Accumulated Depreciation: Equipment 2,500. August 31, 2019 debit Unearned Revenue, credit Service revenue 1,100. August 31, 2019 debit Interest Receivable, credit Interest revenue 350. August 31, 2019 debit Income Tax Expense, credit Income Tax Payable 3,400.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_JournSum2.jpg"/>
+</media>
+<caption>Adjusting Journal Entries for Clip’em Cliff. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm365560928">Now that all of the adjusting entries are journalized, they must be posted to the ledger. Posting adjusting entries is the same process as posting the general journal entries. Each journalized account figure will transfer to the corresponding ledger account on either the debit or credit side as illustrated in <link target-id="OSX_Acct_F05_04_Ledger1"/>.</para>
+<figure id="OSX_Acct_F05_04_Ledger1">
+<media id="fs-idm368346976" alt="Journal entry August 31, 2019 debit Supplies Expense, credit Supplies 50. There is an arrow from the debit 50 to the page from the Supplies Expense ledger account where that debit is shown on the debit side. There is an arrow from the credit 50 to the page from the Supplies ledger account where that credit is shown on the credit side (along with the August 6 debit of 300, resulting in a new balance of 250.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_Ledger1.jpg"/>
+</media>
+<caption>Posting Ledger Entries for Clip’em Cliff. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm641062304">We would normally use a general ledger, but for illustrative purposes, we are using T-accounts to represent the ledgers. The T-accounts after the adjusting entries are posted are presented in <link target-id="OSX_Acct_F05_04_TAcctSum2"/>.</para>
+<figure id="OSX_Acct_F05_04_TAcctSum2">
+<media id="fs-idm314665824" alt="T-Accounts. Cash has an August 1 debit entry of 70,000, an August 3 credit entry of 37,500, an August 6 credit entry of 300, an August 13 credit entry of 75, a August 14 debit entry of 3,200, an August 16 credit entry of 150, an August 17 debit entry of 5,200, an August 19 credit entry of 2,000, an August 22 credit entry of 4,600, and an August 28 debit entry of 1,500, leaving a debit balance of 35,275. Accounts Receivable has an August 10 debit entry of 4,000, an August 28 credit entry of 1,500, and a debit balance of 2,500. Interest Receivable has an August 31 debit entry of 350 and a debit balance of 350. Supplies has an August 6 debit entry of 300, and August 31 credit entry of 50 and a debit balance of 250. Equipment has an August 3 debit entry of 45,000 and a debit balance of 45,000. Accumulated Depreciation has an August 31 credit entry of 2,500 and a credit balance of 2,500 Accounts Payable has an August 3 credit entry of 7,500, an August 19 debit entry of 2,000 and a credit balance of 5,500. Unearned Revenue has a credit August 14 entry of 3,200, an August 31 debit entry of 1,100 and a credit balance of 2,100. Income Tax Payable has an August 31 credit entry for 3,400 and a credit balance of 3,400. Common Stock has an August 1 credit entry of 70,000 and a credit balance of 70,000. Dividends has an August 16 debit entry of 150, and a debit balance of 150. Service Revenue account has 3 entries on the credit side: August 10 4,000, August 17 5,200, and August 31 of 1,100. The total on the credit side is then 10,300. Salaries Expense has an August 22 debit side entry for 4,600 and a debit side balance of 4,600. Utilities Expense has an August 13 debit side entry for 75, and a debit side balance of 75. Supplies Expense has a debit entry on August 31 of 50 and a debit balance of 50. Depreciation Expense: Equipment has a debit entry on August 31 of 2,500 and a debit balance of 2,500. Income Tax Expense has a debit entry on August 31 of 3,400 and a debit balance of 3,400.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_TAcctSum2.jpg"/>
+</media>
+<caption>Ledger Entries (in T-Accounts) for Clip’em Cliff. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm322535536">You will notice that the sum of the asset account balances equals the sum of the liability and equity account balances at $80,875. The final debit or credit balance in each account is transferred to the adjusted trial balance, the same way the general ledger transferred to the unadjusted trial balance.</para>
+<para id="fs-idm364447120">The next step in the cycle is to prepare the adjusted trial balance. Clip’em Cliff’s adjusted trial balance is shown in <link target-id="OSX_Acct_F05_04_CeCATB3"/>.</para>
+<figure id="OSX_Acct_F05_04_CeCATB3">
+<media id="fs-idm365087344" alt="Clip’em Cliff, Unadjusted Trial Balance, August 31, 2019. Cash 35,275 debit. Accounts receivable 2,500 debit. Interest receivable 350 debit. Supplies 250 debit. Equipment 45,000 debit. Accumulated Depreciation: Equipment 2,500 credit. Accounts Payable 5,500 credit. Unearned Revenue 2,100 credit. Income Tax Payable 3,400 credit. Common Stock 70,000 credit. Dividends 150 debit. Interest Revenue 350 credit. Service Revenue 10,300 credit. Supplies Expense 50 debit. Depreciation Expense: Equipment 2,500 debit. Income Tax Expense 3,400 debit. Salaries Expense 4,600 debit. Utility Expense 75 debit. Total debits and credits are each 94,150.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_CeCATB3.jpg"/>
+</media>
+<caption>Adjusted Trial Balance for Clip’em Cliff. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm363749120">The adjusted trial balance shows a debit and credit balance of $94,150. Once the adjusted trial balance is prepared, Cliff can prepare his financial statements (step 7 in the cycle). We only prepare the income statement, statement of retained earnings, and the balance sheet. The statement of cash flows is discussed in detail in <link document="m67928">Statement of Cash Flows</link>.</para>
+<para id="fs-idm364063152">To prepare your financial statements, you want to work with your adjusted trial balance.</para>
+<para id="fs-idm605043392">Remember, revenues and expenses go on an income statement. Dividends, net income (loss), and retained earnings balances go on the statement of retained earnings. On a balance sheet you find assets, contra assets, liabilities, and stockholders’ equity accounts.</para>
+<para id="fs-idm355237168">The income statement for Clip’em Cliff is shown in <link target-id="OSX_Acct_F05_04_CeCIS"/>.</para>
+<figure id="OSX_Acct_F05_04_CeCIS" class="scaled-down">
+<media id="fs-idm359469808" alt="Clip’em Cliff, Income Statement, For the Month Ended August 31, 2019. Revenues: Interest revenue $350, Service Revenue 10,300. Total Revenues $10,650. Expenses: Supplies Expense 50, Depreciation Expense: Equipment 2,500, Salaries Expense 4,600, Utilities Expense 75, Income Tax Expense 3,400. Total Expenses 10,625. Net Income $25.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_CeCIS.jpg"/>
+</media>
+<caption>Income Statement for Clip’em Cliff. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm359339904">Note that expenses were only $25 less than revenues. For the first month of operations, Cliff welcomes any income. Cliff will want to increase income in the next period to show growth for investors and lenders.</para>
+<para id="fs-idm314530688">Next, Cliff prepares the following statement of retained earnings (<link target-id="OSX_Acct_F05_04_CeCSRE"/>).</para>
+<figure id="OSX_Acct_F05_04_CeCSRE" class="scaled-down">
+<media id="fs-idm368320992" alt="Clip’em Cliff, Statement of Retained Earnings, For the Month Ended August 31, 2019. Beginning Retained earnings (August 1) $0, Net Income 25 less Dividends 150 equals Ending Retained Earnings (August 31) (125).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_CeCSRE.jpg"/>
+</media>
+<caption>Statement of Retained Earnings for Clip’em Cliff. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm361340048">The beginning retained earnings balance is zero because Cliff just began operations and does not have a balance to carry over to a future period. The ending retained earnings balance is –$125. You probably never want to have a negative value on your retained earnings statement, but this situation is not totally unusual for an organization in its initial operations. Cliff will want to improve this outcome going forward. It might make sense for Cliff to not pay dividends until he increases his net income.</para>
+<para id="fs-idm371996432">Cliff then prepares the balance sheet for Clip’em Cliff as shown in <link target-id="OSX_Acct_F05_04_CeCBS"/>.</para>
+<figure id="OSX_Acct_F05_04_CeCBS" class="scaled-down">
+<media id="fs-idm327788352" alt="Clip’em Cliff, Balance Sheet, For the Month Ended August 31, 2019. Assets: Cash $35,275, Accounts receivable 2,500, Interest Receivable 350, Supplies 250, Equipment 45,000 less Accumulated Depreciation: Equipment equals 42,500. Total Assets are $80,875. Liabilities: Accounts Payable 5,500, Income Tax Payable 3,400, Unearned revenue 2,100. Total Liabilities 11,000. Stockholders’ Equity: Common Stock 70,000, Ending Retained Earnings (125), Total Stockholders’ equity 69,875. Total Liabilities and Stockholders’ equity 80,875.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_CeCBS.jpg"/>
+</media>
+<caption>Balance Sheet for Clip’em Cliff. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm365878592">The balance sheet shows total assets of $80,875, which equals total liabilities and equity. Now that the financial statements are complete, Cliff will go to the next step in the accounting cycle, preparing and posting closing entries. To do this, Cliff needs his adjusted trial balance information.</para>
+<para id="fs-idm364911872">Cliff will only close temporary accounts, which include revenues, expenses, income summary, and dividends. The first entry closes revenue accounts to income summary. To close revenues, Cliff will debit revenue accounts and credit income summary.</para>
+<media id="fs-idm366246448" alt="Journal entry for August 31, 2019 debiting Service Revenue 10,300, and Interest Revenue 350, and crediting Income Summary 10,650. Explanation: “To close revenue accounts to Income Summary.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_Journ01_img.jpg"/>
+</media>
+<para id="fs-idm356996368">The second entry closes expense accounts to income summary. To close expenses, Cliff will credit expense accounts and debit income summary.</para>
+<media id="fs-idm343644064" alt="Journal entry for August 31, 2019 debiting Income Summary for 10,625 and crediting the following: Supplies Expense 50, Depreciation Expense: Equipment 2,500, Income Tax Expense 3,400, Salaries Expense 4,600, Utility Expense 75. Explanation: “To close expense accounts to Income Summary.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_Journ02_img.jpg"/>
+</media>
+<para id="fs-idm344631136">The third entry closes income summary to retained earnings. To find the balance, take the difference between the income summary amount in the first and second entries (10,650 – 10,625). To close income summary, Cliff would debit Income Summary and credit Retained Earnings.</para>
+<media id="fs-idm356030128" alt="Journal entry for August 31, 2019 debiting Income Summary and crediting Retained Earnings each for 25. Explanation: “To close Income Summary to Retained Earnings.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_Journ03_img.jpg"/>
+</media>
+<para id="fs-idm365941264">The fourth closing entry closes dividends to retained earnings. To close dividends, Cliff will credit Dividends, and debit Retained Earnings.</para>
+<media id="fs-idm359420112" alt="Journal entry for August 31, 2019 debiting Retained earnings and crediting Dividends each for 150. Explanation: “To close Dividends to Retained Earnings.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_Journ04_img.jpg"/>
+</media>
+<para id="fs-idm632307584">Once all of the closing entries are journalized, Cliff will post this information to the ledger. The closed accounts with their final balances, as well as Retained Earnings, are presented in <link target-id="OSX_Acct_F05_04_TAcctSum4"/>.</para>
+<figure id="OSX_Acct_F05_04_TAcctSum4">
+<media id="fs-idm625179328" alt="T-Accounts. Dividends has an August 16 debit entry of 150, an August 31 credit closing entry of 150 and a debit balance of 0. Service Revenue account has 3 entries on the credit side: August 10 4,000, August 17 5,200, and August 31 of 1,100. It has a debit closing entry on August 31 of 10,300. The total on the credit side is then 0. Interest revenue has an August 31 credit entry of 350, an August 31 debit closing entry of 350, leaving a credit balance of 0. Salaries Expense has an August 22 debit side entry for 4,600, a credit side closing entry on August 31 for 4,600, and a debit side balance of 0. Utilities Expense has a August 13 debit side entry for 75, an August 31 closing credit entry of 75, and a debit side balance of 0. Supplies Expense has a debit entry on August 31 of 50, a closing credit entry of 50 on August 31, and a debit balance of 0. Depreciation Expense: Equipment has a debit entry on August 31 of 2,500, a credit side closing entry on August 31 for 2,500 and a debit balance of 0. Income Tax Expense has a debit entry on August 31 of 3,400, a closing credit entry of 3,400 on August 31, and a debit balance of 0. Income Summary has a credit closing entry #1, for 10,650, a debit closing entry #2 for 10,625, leaving a 25 credit balance, a debit closing entry #3 for 25, leaving an ending balance of 0. Retained Earnings has a credit closing entry #3 for 25, a debit closing entry #4 for 150, leaving a balance of 125.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_TAcctSum4.jpg"/>
+</media>
+<caption>Closed Accounts with Final Balances for Clip’em Cliff. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm330757888">Now that the temporary accounts are closed, they are ready for accumulation in the next period.</para>
+<para id="fs-idm357095792">The last step for the month of August is step 9, preparing the post-closing trial balance. The post-closing trial balance should only contain permanent account information. No temporary accounts should appear on this trial balance. Clip’em Cliff’s post-closing trial balance is presented in <link target-id="OSX_Acct_F05_04_CeCPCTB"/>.</para>
+<figure id="OSX_Acct_F05_04_CeCPCTB" class="scaled-down">
+<media id="fs-idm364087552" alt="Clip’em Cliff, Post-Closing Trial Balance, August 31, 2019. Cash 35,275 debit. Accounts receivable 2,500 debit. Interest receivable 350 debit. Supplies 250 debit. Equipment 45,000 debit. Accumulated Depreciation: Equipment 2,500 credit. Accounts Payable 5,500 credit. Unearned Revenue 2,100 credit. Income Tax Payable 3,400 credit. Common Stock 70,000 credit. Retained Earnings 125 debit. Total debits and total credits are both 83,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_CeCPCTB.jpg"/>
+</media>
+<caption>Post-Closing Trial Balance for Clip’em Cliff. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm361190896">At this point, Cliff has completed the accounting cycle for August. He is now ready to begin the process again for September, and future periods.</para>
+<note id="fs-idm361362672" class="concepts-practice">
+<title>Reversing Entries</title>
+<para id="fs-idm363747104">One step in the accounting cycle that we did not cover is reversing entries. Reversing entries can be made at the beginning of a new period to certain accruals. The company will reverse adjusting entries made in the prior period to the revenue and expense accruals.</para>
+<para id="fs-idm356995424">It can be difficult to keep track of accruals from prior periods, as support documentation may not be readily available in current or future periods. This requires an accountant to remember when these accruals came from. By reversing these accruals, there is a reduced risk for counting revenues and expenses twice. The support documentation received in the current or future period for an accrual will be easier to match to prior revenues and expenses with the reversal.</para>
+</note>
+<note id="fs-idm355911248" class="link-to-learning">
+<para id="fs-idm355954880">As we have learned, the current ratio shows how well a company can cover short-term debt with short-term assets. Look through the <link url="https://openstax.org/l/50Target2017Bal">balance sheet in the 2017 Annual Report for <emphasis class="colored-text">Target</emphasis></link> and calculate the current ratio. What does the outcome mean for <emphasis class="colored-text">Target</emphasis>?</para>
+</note>
+<note id="fs-idm359922064" class="think-through">
+<title>Using Liquidity Ratios to Evaluate Financial Performance</title>
+<para id="fs-idm353928112">You own a landscaping business that has just begun operations. You made several expensive equipment purchases in your first month to get your business started. These purchases very much reduced your cash-on-hand, and in turn your liquidity suffered in the following months with a low working capital and current ratio.</para>
+<para id="fs-idm362405456">Your business is now in its eighth month of operation, and while you are starting to see a growth in sales, you are not seeing a significant change in your working capital or current ratio from the low numbers in your early months. What could you attribute to this stagnancy in liquidity? Is there anything you can do as a business owner to better these liquidity measurements? What will happen if you cannot change your liquidity or it gets worse?</para>
+</note>
+<section id="fs-idm315227072" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm370651984" list-type="bulleted" bullet-style="bullet"><item>The comprehensive accounting cycle is the process in which transactions are recorded in the accounting records and are ultimately reflected in the ending period balances on the financial statements.</item>
+<item>Comprehensive accounting cycle for a business: A service business is taken through the comprehensive accounting cycle, starting with the formation of the entity, recording all necessary journal entries for its transactions, making all required adjusting and closing journal entries, and culminating in the preparation of all requisite financial statements.</item>
+</list></section>
+<section id="fs-idm357459472" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm342996768">
+<problem id="fs-idm366870656">
+<para id="fs-idm362344576"><link class="lo-reference" document="m67859"/>Describe the progression of the three trial balances that a company would have during the period, and explain the difference between the three.</para>
+</problem>
+<solution id="fs-idm308962656">
+<para id="fs-idm632344992">(1) First is the Unadjusted Trial Balance, which summarizes the account balances of all accounts in the ledger, <emphasis effect="italics">before period-end adjustments</emphasis>. (2) Next, the Adjusted Trial Balance summarizes the account balances of all accounts in the ledger, <emphasis effect="italics">after adjusting entries</emphasis> have been posted. (3) Finally, the Post-Closing Trial Balance summarizes the account balances of all accounts in the ledger, <emphasis effect="italics">after closing entries</emphasis> have been posted.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm627258160" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm366295056">
+<problem id="fs-idm368376544">
+<para id="fs-idm322599168"><link class="lo-reference" document="m67859"/>From the following Company R adjusted trial balance, prepare the following:</para>
+<list id="fs-idm356708688" list-type="enumerated" number-style="upper-alpha">
+<item>Income Statement</item>
+<item>Retained Earnings Statement</item>
+<item>Balance Sheet (simple—unclassified)</item>
+<item>Closing journal entries</item>
+<item>Post-Closing Trial Balance</item>
+</list>
+<media id="fs-idm324320512" class="scaled-down" alt="Adjusted Trial Balance. Cash 44,000 debit. Accounts receivable 13,800 debit. Prepaid insurance 6,400 debit. Land 16,000 debit. Accounts payable 14,900 credit. Salaries payable 4,500 credit. Common stock 31,000 credit. Retained earnings 10,200 credit. Dividends 12,000 debit. Service Revenue 86,000 credit. Insurance expense 7,600 debit. Salaries expense 32,000 debit. Miscellaneous expense 14,800 debit. Total debits and total credits 146,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_PA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm343032352">
+<problem id="fs-idm359826864">
+<para id="fs-idm357503744"><link class="lo-reference" document="m67859"/>From the following Company T adjusted trial balance, prepare the following:</para>
+<list id="fs-idm353190016" list-type="enumerated" number-style="upper-alpha">
+<item>Income Statement</item>
+<item>Retained Earnings Statement</item>
+<item>Balance Sheet (simple—unclassified)</item>
+<item>Closing journal entries</item>
+<item>Post-Closing Trial Balance</item>
+</list>
+<media id="fs-idm359639264" class="scaled-down" alt="Adjusted Trial Balance. Cash 24,000 debit. Accounts receivable 14,900 debit. Prepaid insurance 5,300 debit. Land 13,500 debit. Accounts payable 12,400 credit. Salaries payable 1,500 credit. Common stock 34,000 credit. Retained earnings 10,200 credit. Dividends 5,000 debit. Service Revenue 56,300 credit. Insurance expense 7,900 debit. Salaries expense 39,000 debit. Miscellaneous expense 4,800 debit. Total debits and total credits 114,400.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_PA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm323163200" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm362262528">
+<problem id="fs-idm356726880">
+<para id="fs-idm315610912"><link class="lo-reference" document="m67859"/>From the following Company S adjusted trial balance, prepare the following:</para>
+<list id="fs-idm632322880" list-type="enumerated" number-style="upper-alpha">
+<item>Income Statement</item>
+<item>Retained Earnings Statement</item>
+<item>Balance Sheet (simple—unclassified)</item>
+<item>Closing journal entries</item>
+<item>Post-Closing Trial Balance</item>
+</list>
+<media id="fs-idm314534976" class="scaled-down" alt="Adjusted Trial Balance. Cash 55,200 debit. Accounts receivable 30,200 debit. Prepaid insurance 6,000 debit. Land 30,000 debit. Accounts payable 14,300 credit. Salaries payable 6,100 credit. Common stock 26,000 credit. Retained earnings 38,900 credit. Dividends 16,500 debit. Service Revenue 211,850 credit. Insurance expense 24,000 debit. Salaries expense 128,350 debit. Miscellaneous expense 6,900 debit. Total debits and total credits 297,150.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F05_04_PB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+   </content>
+</document>

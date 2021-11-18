@@ -1,0 +1,501 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Define and Describe the Components of an Accounting Information System</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67869</md:content-id>
+  <md:title>Define and Describe the Components of an Accounting Information System</md:title>
+  <md:abstract/>
+  <md:uuid>4365b4d1-2ef3-4f19-88bb-1e6bb786e558</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm216466928">Today, when we refer to an <term>accounting information system (AIS)</term>, we usually mean a computerized accounting system, because computers and computer software that help us process accounting transactions have become relatively inexpensive. The benefits of using a computerized accounting system outweigh the costs of purchasing one, and almost all companies, even very small ones, can afford to and do use a computerized accounting system. That is not to say that paper-based or manual accounting systems and processes have disappeared. Most businesses have some form of both noncomputerized and computerized systems. <emphasis class="colored-text">QuickBooks</emphasis> is an example of a relatively inexpensive accounting software application that is popular with small and medium-sized businesses.</para>
+<section id="fs-idm233494896">
+<title>Manual and Computerized Accounting Information Systems</title>
+<para id="fs-idm216842224">Interestingly, the term <emphasis effect="italics">accounting information system</emphasis> predates computers. Technically, an AIS is a system or set of processes for collecting data about accounting transactions; recording, organizing, and summarizing the data; and culminating with the preparation of financial statements and other reports for internal and external users. These systems or processes can exist as a series of paper ledgers, computer databases, or some combination of the two. Examples of external users include banks that might lend the company money, investors, and the Securities and Exchange Commission (SEC), which requires that publicly traded companies submit audited financial statements. Since business enterprises needed to produce financial statements long before computers existed, they used manual accounting systems to gather the data needed. <term>Data</term> is the term for parts of accounting transactions that constitute the input to an AIS. You have examined many forms of data in this course, for example, the cash received upon the sale of an item is one data point, the reduction of the inventory account related to that specific sold item is another data point, and both the revenue and the cost of goods sold would be additional data points associated with that single transaction of a sale. These data points are summarized and aggregated (in other words “processed”) into more meaningful and useful numbers that appear in the financial statements, and all this data is typically referred to as financial information. A company that may have used a manual AIS years ago likely uses a computerized AIS today. It is important to remember that a computerized accounting system does not change <emphasis effect="italics">what</emphasis> we do with accounting transactions, it only changes <emphasis effect="italics">how</emphasis> we do it, and how we can present the information to different users.</para>
+<para id="fs-idm233958176">Let’s consider the example of a company that came into existence before we had computers, the department store <emphasis class="colored-text">Macy’s</emphasis>, which currently operates stores in nearly all fifty US states. <emphasis class="colored-text">Macy’s</emphasis> began as a small, fancy dry goods store that opened in New York City in 1858, became a department store, R.H. Macy &amp; Co., in 1877 using the same red star logo it still uses today. We can assume that even one hundred years ago, <emphasis class="colored-text">Macy’s</emphasis> needed to perform the same tasks it does today:</para>
+<list id="fs-idm499556624" list-type="bulleted" bullet-style="bullet">
+<item>purchase merchandise inventory to sell to customers;</item>
+<item>record returns of some of the inventory;</item>
+<item>record sales made to customers at the sales price;</item>
+<item>record the cost of the goods sold at the amount Macy’s paid to purchase them;</item>
+<item>record payments from customers;</item>
+<item>record returns from customers;</item>
+<item>purchase other kinds of items needed for operations, like office supplies and fixed assets;</item>
+<item>pay for prior purchases;</item>
+<item>pay for rent, utilities, and other services;</item>
+<item>pay employees;</item>
+<item>enter all of these transactions;</item>
+<item>post all transactions;</item>
+<item>record adjusting journal entries;</item>
+<item>record closing journal entries;</item>
+<item>keep track of its receivables, payables, and inventory; and</item>
+<item>produce financial statements for internal and external users as well as other reports useful to managers in assessing various performance measures needed to evaluate the success of the company.</item>
+</list>
+<para id="fs-idm759599424">As you might imagine, doing all this without computers is quite different than performing these tasks with the aid of computers. In a manual system, each business transaction is recorded, in the form of a journal entry in the general journal or one of the four common other special journals described in <link document="m67870">Describe and Explain the Purpose of Special Journals and Their Importance to Stakeholders</link>, using pen and paper. Journal entries are then posted to a general ledger; balances would be computed by hand or with an adding machine/calculator for each general ledger account; a trial balance is prepared; adjusting journal entries are prepared; and finally financial statements prepared, all manually.</para>
+<note id="fs-idm201349200" class="concepts-practice">
+<title>Modernization of Accounting Systems</title>
+<para id="fs-idm233146704">In 1955, in one of the earliest uses of a true computer to facilitate accounting tasks, <emphasis class="colored-text">General Electric Company</emphasis> used a UNIVAC computer to process its payroll. Initially it took the computer forty hours just to process payroll for one pay period. The first modern era spreadsheet software for personal computers, VisiCalc, became available in 1978. Thus, between these time periods there were minor improvements to the use of computerized accounting tools, but it was not until the mid-1980s that comprehensive computerized accounting programs became widely used. Thus, prior to the mid-1980s, much accounting was done manually or using a variety of less-advanced computer systems in conjunction with manual systems. Imagine the number of bookkeepers it would take to record the transactions of many companies. For example, on the first day of business at <emphasis class="colored-text">Macy’s</emphasis> in 1858, the store had revenues of $11.06.<footnote id="fs-idm474882864">Fraser Sherman. “The History of Computerized Accounting.” Career Trend. January 14, 2019. https://careertrend.com/about-6328213-history-computerized-accounting.html</footnote> The actual accounting ledger used to record those sales is shown in <link target-id="OSX_Acct_F07_01_MacyLedger"/>, which seems quite simple. Today <emphasis class="colored-text">Macy’s</emphasis> has over $24 billion in sales revenue—can you imagine accounting for all of those transactions (along with all expenses) by hand?</para>
+<figure id="OSX_Acct_F07_01_MacyLedger" class="scaled-down">
+<media id="fs-idm204008672" alt="Photograph of an accounting journal from 1858.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_01_MacyLedger.png"/>
+</media>
+<caption>Macy’s Accounting Ledger. Accounting ledger showing the transactions for Macy’s first day. Total revenues were $11.06 or a little over $340 in today’s dollars. (credit: used with permission of Macy’s Corporation)</caption>
+</figure>
+<para id="fs-idm187303936">Today, <emphasis class="colored-text">Macy’s</emphasis> and other large and small companies perform the same accounting tasks using computer hardware (computers, printers, and keyboards), and software. For example, cashiers can enter transactions into a computer using a keyboard, scanner, or touch screen. The screen displays the data entered or fields available for data entry. As an example, most retail stores have a <term>point-of-sale system (POS)</term> that enters the sale by scanning the item at the <term>point of sale</term>, meaning at the time the transaction is made. This system records the sale and at the same time updates inventory by reducing it based on the number of items purchased.</para>
+</note>
+<para id="fs-idm216256096">Later in the section on how to <link document="m67872">Prepare a Subsidiary Ledger</link>, you will be provided with a series of transactions for a small business and you will be asked to first enter the transactions manually into the appropriate journal, post the information from the journals to the general ledger, prepare trial balances, adjusting and closing entries, and manually produce financial statements just as <emphasis class="colored-text">Macy’s</emphasis> or any other business would have done prior to the use of various computer technologies. You will then perform the same tasks using QuickBooks, a popular accounting software program used by many small and medium-sized businesses. A company as large as <emphasis class="colored-text">Macy’s</emphasis> has stores in locations all over the country and a large volume of transactions, so it is more likely to use a software package designed to meet the needs of a very large business. This is often referred to as an <term class="no-emphasis">enterprise resource planning (ERP)</term> system which stands for enterprise resource planning (ERP) system. An ERP system integrates all of the company’s computerized systems including accounting systems and nonaccounting systems. That is, large companies have various accounting subsystems such as the revenue system (sales/accounts receivable/cash receipts), the expenditure system (purchasing/accounts payable/cash disbursements), the production system, the payroll system, and the general ledger system. Nonaccounting systems might include research and development, marketing, and human resources, which, while not an integral part of the accounting system, in a large companywide ERP system are integrated with the accounting modules. Examples of popular ERP software systems are PeopleSoft and SAP.</para>
+<para id="fs-idm221154656">Like many businesses today, <emphasis class="colored-text">Macy’s</emphasis> also maintains a company website and engages in e-commerce by offering the sale of many company products online. Accounting software companies like QuickBooks and larger software vendors have upgraded the ways in which they can provide AIS software to meet these needs. For example, a small local retail shoe store can purchase QuickBooks software provided on an electronic storage device such as a CD and upload it to be stored on the hard drive of the company’s computers, or the store can purchase a “cloud” version. The cloud version provides the shoe store purchasing the software with access to the QuickBooks software online via a user ID and password with no need to load the software on the store’s computers. QuickBooks updates the software when new versions are released and stores the company’s accounting data in the cloud. <term>Cloud computing</term> refers to using the internet to access software and information storage facilities provided by companies rather than, or in addition to, storing this data on the company’s computer hard drive or in paper form. An advantage of cloud computing is that company employees can access the software and enter transactions from any device with an internet connection at any location. The company pays a monthly fee for access to updated software, which can be less costly than buying software stored on individual computers. Potential disadvantages include security concerns because an outside company is storing company programs and data, and if the hosting company experiences technical difficulties, companies paying for these services may temporarily be unable to access their own data or conduct business. Nevertheless, cloud services are increasingly popular.</para>
+<para id="fs-idm217983952">Here, we illustrate the concepts and practices of an AIS using Intuit QuickBooks, a popular and widely used AIS.</para>
+<para id="fs-idm500227200">While a company typically selects an AIS to suit its specific needs, all systems should have components capable of:</para>
+<list id="fs-idm501473920" list-type="bulleted" bullet-style="bullet">
+<item>inputting/entering data (e.g., entering a sale to a customer);</item>
+<item>storing data;</item>
+<item>processing data and computing additional amounts related to transactions (e.g., computing sales tax on the sale, as well as shipping costs and insurance fees; computing an employee’s pay by multiplying hours worked by hourly pay rate; processing inventory changes from both inventory purchases and inventory sales and data from any other transaction that occurs in the business);</item>
+<item>aggregating/summarizing data (e.g., computing total sales for the year);</item>
+<item>presenting data (e.g., producing a balance sheet and other financial statements and reports for the year); and</item>
+<item>storing data (such as the customer’s name, address, shipping address, and credit limit).</item>
+</list>
+<para id="fs-idm762486992">AISs, whether computerized or manual, generally involve three stages: input, processing, and output. We enter raw data into our system at the input stage and try to correct any errors prior to going on to the next stage of processing the data. We ultimately produce “output,” which is in the form of useful information.</para>
+</section>
+<section id="fs-idm457043968">
+<title>Inputting/Entering Data</title>
+<para id="fs-idm220542080">A <term>source document</term> is the original document that provides evidence that a transaction occurred. If you hire a company to paint your house, it will most likely provide a document showing how much you owe. That is the company’s sales document and your invoice. When you pay, your check or digital transaction record is also a source document for the company that provided the service, in this case, the home painter.</para>
+<para id="fs-idm466066816">Assume you go into the university bookstore to purchase a school sweatshirt, and it is sold out. You then fill out a document ordering a size medium sweatshirt in blue. The form you fill out is a purchase order to you, and it is a sales order to the university bookstore. It is also a source document that provides evidence that you have ordered the sweatshirt. Assume the bookstore does not ask you to pay in advance because it is not sure it will be able to obtain the sweatshirt for you. At that point, no sale has been made, and you owe no money to the bookstore. A few days later, the bookstore manages to acquire the sweatshirt you ordered and sends you an email notifying you of this. When you return to the bookstore, you are presented with the sweatshirt and an invoice (also known as a bill) that you must pay in order to take your sweatshirt home. This invoice/bill is also a source document. It provides evidence of the sale and your obligation to pay that amount. Let’s look at an example.</para>
+<para id="fs-idm482079472"><link target-id="OSX_Acct_F07_01_Invoic"/> is a source document—an invoice (bill) from <emphasis class="colored-text">Symmetry Mold Design</emphasis> for mold design services. Note the terms (agreements about payments) are listed at the top and how the company calculates those outcomes at the bottom.</para>
+<figure id="OSX_Acct_F07_01_Invoic"><media id="fs-idm476404944" alt="An example of an Invoice sent to a customer for items the customer purchased.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_01_Invoic.jpg"/>
+</media>
+
+<caption>Invoice from <emphasis class="colored-text">Symmetry Mold Design</emphasis> showing payment terms. (credit: modification of "Invoice" by James Ceszyk/Flickr, CC B 4.0)</caption></figure><para id="fs-idm495220896">Some companies send paper bills in the mail, often asking the recipient to tear off part of the bill and return it with the payment. This tear-off portion is a <term>turn-around document</term> and helps ensure that the payment is applied to the correct customer account and invoice. Generally, this document began as printed output, an invoice, from the billing part of the AIS. When the customer tears off a part of it and returns it in the envelope with a check to the company, it has now been “turned around” and will be used as an input source document, called a remittance advice. A <term class="no-emphasis">remittance advice</term> is a document that customers send along with checks and informs the recipient as to which invoice the customer is paying for. <link target-id="OSX_Acct_F07_01_Bill"/> is an example of a turn-around document.</para>
+<figure id="OSX_Acct_F07_01_Bill">
+<media id="fs-idm216701408" alt="An example of the payment slip that customers return to a company with their payment.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_01_Bill.jpg"/>
+</media>
+<caption>Turn-Around Document from Kohl’s. The use of automation (bar codes) saves time and ensures accuracy since a machine can read the address, the account number, and even the amount on the check. (credit: modification of “Bill” by Kerry Ceszyk/Flickr, CC BY 4.0)</caption>
+</figure>
+<para id="fs-idm497033248">Both manual and computerized accounting systems utilized source documents. E-commerce systems have some additional source documents related to online transactions. Source documents help to establish an <term>audit trail</term>, which is a trail of evidence documenting the history of a specific transaction starting from its inception/source document and showing all the steps it went through until its final disposition. The trail of source documents and other records (the audit trail) makes it easier to investigate errors or questions by customers, vendors, employees, and others. For example, when a customer places an order by phone, by mail, or online, the sales order becomes the source document. If the customer does not receive the product ordered, the company can locate the original order, see if a picking ticket was generated (a picking ticket tells warehouse employees what inventory items the customer ordered, that now need to be picked off the shelf), locate the shipping documents, which provide evidence that the product was given to the shipper, and check for customer signature confirming receipt of goods. The trail of documents and entries in journals and ledgers and their electronic equivalent generated by this transaction provides evidence of all the steps that took place along the way. This makes it easy for anyone to verify or investigate, and perhaps find the weak links, where the process may have broken down. It allows the company to identify the reason why the customer never received the goods ordered. Maybe the order was never shipped because the company was out of stock of this specific product, maybe it was shipped and left at the customer’s doorstep with no signature requested, or maybe the order was shipped to the wrong customer or to an incorrect address. An audit trail will help company personnel investigate any of these common issues. It should also help them identify weaknesses in their processes and precipitate improvements.</para>
+<para id="fs-idm229518096">Businesses need a way to input data from the source document such as a sales invoice or purchase order. This was previously done with pen and paper and is currently done by keying it in on a computer keyboard; scanning, with a scanner such as one that reads MICR (magnetic ink character recognition) symbols (found on bank checks) or POS system scanners at cash registers that scan product bar codes/UPC symbols; or receiving it by e-transmission (or electronic funds transfer [EFT]). Input often involves the use of hardware such as scanners, keypads, keyboards, touch screens, or fingerprint readers called biometric devices. Once data has been input, it must be processed in order to be useful.</para>
+</section>
+<section id="fs-idm769883440">
+<title>Processing Data</title>
+<para id="fs-idm771976560">Companies need the accounting system to process the data that has been entered and transform it into useful information. In manual accounting systems, employees process all transaction data by journalizing, posting, and creating financial reports using paper. However, as technology has advanced, it became easier to keep records by using computers with software programs specifically developed for accounting transactions. Computers are good at repetition and calculations, both of which are involved in accounting, and computers can perform these calculations and analyses more quickly, and with fewer errors, thus making them a very effective tool for accounting from both an input and an output standpoint.</para>
+<note id="fs-idm225256144" class="link-to-learning">
+<para id="fs-idm237862832">See <link url="https://openstax.org/l/50AcctSW">a list of popular bookkeeping software</link> packages. With this information, potential options for sample accounting software options can be evaluated.</para>
+</note>
+</section>
+<section id="fs-idm209605040">
+<title>Output: Presenting Information</title>
+<para id="fs-idm462799104">An AIS should provide a way to present system output (printed page, screen image, e-transmission). Any accounting software application such as that used by large companies (an ERP system) or one used by smaller businesses (QuickBooks) can easily print financial statements and other documents as well as display them on the screen.</para>
+<para id="fs-idm236116720">Some financial information must be provided to other sources such as banks or government agencies, and though in past decades everything was presented and submitted on paper, today, most of this information is submitted electronically, and AISs help facilitate having the information in the necessary electronic format. Many banks require electronic data, and the Internal Revenue System (IRS) accepts your information as a digital transmission instead of a paper form. In 2017, 92 percent of all taxpayers who filed their own taxes did so electronically.<footnote id="fs-idm208468800">Income Tax Return Statistics. eFile. May 2018. https://www.efile.com/efile-tax-return-direct-deposit-statistics/</footnote> Most corporations choose to file their taxes electronically, and those with assets over $10 million are required to file electronically with the IRS.<footnote id="fs-idm211095760">Income Tax Return Statistics. eFile. May 2018. https://www.efile.com/efile-tax-return-direct-deposit-statistics/</footnote> Since May 5, 1996, all publicly traded companies are required to submit their filings, such as financial statements and stock offerings, to the SEC electronically.<footnote id="fs-idm765286720">There is a hardship exemption for companies that cannot file their documents electronically. See U.S. Securities and Exchange Commission. Important Information about EDGAR. February 16, 2010. https://www.sec.gov/edgar/aboutedgar.htm</footnote> The SEC places all the data into an electronic database known as the <term class="no-emphasis">Electronic Data Gathering, Analysis, and Retrieval System (EDGAR)</term>. This database allows anyone to search the database for financial and other information about any publicly traded company. Thus, AISs facilitate not only internal access to financial information, but the sharing of that information externally as needed or required. Just as the EDGAR system used by the SEC stores data for retrieval, an AIS must provide a way to store and retrieve data.</para>
+</section>
+<section id="fs-idm495780176">
+<title>Storing Data</title>
+<para id="fs-idm458239168">Data can be stored by an AIS in paper, digital, or cloud formats. Before computers were widely used, financial data was stored on paper, like the journal and ledger shown in <link target-id="OSX_Acct_F07_01_PaperJnl"/>.</para>
+<figure id="OSX_Acct_F07_01_PaperJnl" class="scaled-down">
+<media id="fs-idm177094416" alt="Examples of accounting books of record.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_01_PaperJnl.jpg"/>
+</media>
+<caption>Data Storage. (a) General journal and (b) general ledger. (credit a: modification of “Entry in Barent Roseboom’s ledger detailing transactions with John Fluno in 1764” by National Park Service, Public Domain; credit b: modification of “Print Order Book, Holmes McDougall” by Edinburgh City of Print/Flickr, CC BY 2.0)</caption>
+</figure>
+<para id="fs-idm196721184">As technology has evolved, so have storage systems—from floppy disks to CDs, thumb drives, and the cloud. The hard drive on your computer is a data storage device, as is an external hard drive you can purchase. Data that is stored must have the ability to be retrieved when needed. As you can see from <link target-id="OSX_Acct_F07_01_InfoSystem"/>, stored data comes from and/or flows through the three main functions of an AIS (input, processes, and output) with the end result being the use of the data in forms needed for decision-making, such as financial statements. Access to the ability to input data, manage processes, or retrieve data requires adequate controls to prevent fraud or unauthorized access and requires the implementation of data security measures. <link target-id="OSX_Acct_F07_01_InfoSystem"/> illustrates the key functions performed by an AIS.</para>
+<figure id="OSX_Acct_F07_01_InfoSystem">
+<media id="fs-idm202290512" alt="Three process boxes with arrows points from one to the other, labeled left to right: Input, Processing, Output. To the upper left is a Source Document icon with an arrow pointing to the Input box. To the upper right is a Data Storage icon with arrows pointing to all three process boxes.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_01_InfoSystem.jpg"/>
+</media>
+<caption>Accounting Information System. The four key functions performed by an accounting information system. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm237370208" class="your-turn">
+<title>The Steps in an Accounting Information System</title>
+<para id="fs-idm211555952">The three steps of an <term class="no-emphasis">accounting information system</term> are input, processing, and output. Data is the raw ingredient used in these processes. Some of the data may be obtained from a source document, and other data is obtained from the database where it had previously been stored. When the data has been processed, the final result is usually information. Information is more useful than data. Take, for example, another process that a bakery might use to bake chocolate chip cookies. While computers might not necessarily need to be involved, we begin the process by assembling a bunch of raw ingredients such as eggs, sugar, flour, chocolate chips, and oil, in a large bowl. Taking a spoonful of what is in the bowl at the time is not very pleasing to the taste buds or “useful” to someone craving a chocolate chip cookie. We process the raw ingredients by mixing them well and turning them into dough, cutting them into shapes, baking them, and glazing them. Similarly, raw data about a single sale contained on the sales invoice, such as customer name, date of sale, and amount of sale, is individually not very useful to a financial statement user such as an investor. However, by processing the data related to the sale, making sure it is correct by checking that the number of items ordered were in stock and actually shipped, aggregating it with other sales for the period, and producing an income statement containing the sales for the period is substantially more useful than the individual pieces of data relating to a single sale.</para>
+<para id="fs-idm771936400">Can you give an example of each of the three steps, as well as a source document that might be used in the input stage and stored data that might be used in the input and processing stages, first for a grocery store, and then a medical office?</para>
+<para id="fs-idm193474224"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm221820832"><emphasis effect="italics">Grocery store:</emphasis></para>
+<list id="fs-idm754564560" list-type="bulleted" bullet-style="bullet">
+<item>Source Document: This would include a check to be deposited; totals from each cash register, including total cash; an invoice for produce; an application for employment by a potential new employee; time card information; a W-4 form (employment information); and so on.</item>
+<item>Input: This includes entering the data from the source document on the computer keyboard, electronically scanning the bar code of each product purchased at the grocery store (at checkout counter and to receive goods from vendor off the truck), maybe fingerprinting at the time clock, or keying in a price on the register.</item>
+<item>Processing: A cash register processes (accumulates and totals) different categories of items (coupons, checks, and charges) by the user; inventory can be tracked by RFID (radio-frequency identification); and software programs can process information gathered by individual cash registers as well as employee information.</item>
+<item>Output: Data that has been processed can be viewed on a computer screen, printed as a hard copy (paper output), or sent as electronic output from the cash register to the computer (can be done wirelessly or with a cable).</item>
+<item>Storage: Data can be stored in the company database on its computer hard drive or as cloud storage. Hopefully the store is also paying for safe backup storage offsite (in case of fire at the store or hackers attempting to obtain information), generally accessed through the internet and stored in “the cloud.” Otherwise, storage can be on paper printouts, the computer hard drive, disks, or external drives. The data that is stored may be retrieved and used at the input, processing, and output stages.</item>
+</list>
+<para id="fs-idm204034528"><emphasis effect="italics">Doctor’s office:</emphasis></para>
+<list id="fs-idm463147872" list-type="bulleted" bullet-style="bullet">
+<item>Source Document: This includes a check to be deposited from the patient; the patient’s insurance information on file; a doctor’s record of the diagnosis and procedures performed on the patient, to be submitted to the insurance company; and an invoice for medical supplies.</item>
+<item>Input: Data from the source document, for example, containing the diagnosis and a treatment plan, would be entered on the computer keyboard.</item>
+<item>Processing: The system might retrieve the treatment codes corresponding to every procedure the doctor performed, so it contains the appropriate information for the insurance company.</item>
+<item>Output: The treatment form is printed and then mailed to the insurance company for payment.</item>
+<item>Storage: The diagnosis and treatment plan are stored on the computer database for retrieval on the next visit for this patient. The form to be sent to the insurance company is also stored electronically so there can be follow-up until the payment from the insurance company is received. Also note that during processing, the system had to retrieve the treatment codes from a file of all of the codes that was stored in the database.</item>
+</list>
+</note>
+<note id="fs-idm479136592" class="your-turn">
+<title>The Accounting Information System (AIS)</title>
+<para id="fs-idm202888240">What are some of the types of information the accounting information system should be able to provide to the owners, managers, and employees of business, at the end of the day, or week, or month, which they in turn may need to provide to other external users?</para>
+<para id="fs-idm197061008"><emphasis effect="bold">Solution</emphasis></para>
+<list id="fs-idm218082816" list-type="bulleted" bullet-style="bullet">
+<item>Information for internal purposes will include total sales and how much it cost to generate the sales. Also considered is how much inventory is on hand so a decision can be made as to whether or not to order more inventory.</item>
+<item>The company will need to record all of the economic events of the business in order to find total sales, cost of goods sold, expenses, and net income, as well as the number of hours employees worked, the employee’s social security number, and how much the company promised to pay the employee per hour.</item>
+<item>Information for external users, such as the IRS or state and local government agencies, would include income tax returns and sales and payroll tax forms. The business owners and managers will need all sales and expenses, sales tax collected, and employees’ earnings.</item>
+<item>In other words, the company needs an AIS.</item>
+</list>
+</note>
+<para id="fs-idm221699744">While an AIS has the primary functions of input, processing, output, and storage, each company or system will decide on the exact steps and processes under each of these broad functions. We know that data is used to create the types of information needed by users to make decisions. One way in which a retail organization may obtain, input, process, and store data related to a sales transaction is through a <term class="no-emphasis">point-of-sale system (POS)</term>. When a customer is ready to buy an item, the cashier scans the product being purchased, the price is retrieved from the price file, the sale is recorded, and inventory is updated. Most POS systems include a scanner, a computer screen, or a tablet with a touch screen. Customer payments are stored in the cash drawer. For noncash sales, credit card readers allow customers to insert, swipe, or tap their cards to pay (which also helps prevent keyboard input errors and keeps the information safer).</para>
+<note id="fs-idm215043680" class="ethical-considerations">
+<title>Ethical Standards in Retail Stores</title>
+<para id="fs-idm204368800">Professional sales employees operate the POS systems. There is an ethical code for sales professionals created by the Association of Professional Sales to help sales professionals maintain good judgment.<footnote id="fs-idm232551808">Association of Professional Sales. “APS Sales Code of Conduct.” n.d. https://www.associationofprofessionalsales.com/professional-development/sales-code-conduct-aps-ethical-professional/aps-sales-code-conduct/</footnote> The organization sets forth standards such as the following:</para>
+<list id="fs-idm193618192" list-type="bulleted" bullet-style="bullet">
+<item>Maintain the highest standards of integrity in all business relationships.</item>
+<item>Provide our customers with a buying experience in which we “do the right thing and thereby help get the right results.”</item>
+<item>Promote and protect good sales practices.</item>
+<item>Always act in line with my organization’s codes and within the law.</item>
+</list>
+<para id="fs-idm209885312">Accountants can assist sales professionals in creating an ethical environment. The ethical environment will permit the users of accounting data to make solid business decisions and to better operate a company.</para>
+</note>
+<para id="fs-idm222357168">However, the POS is just part of the AIS. As each sale is entered into the register, other data is collected, recorded, and processed by the AIS and becomes information. Data about each sale is recorded in the information system: what was sold, how much it cost, the sales price, and any sales tax. It also records the time of day, the clerk, and anything else the company programmed the cash register to record. When all the sales for the day are totaled, it provides information in the form of organized and processed data with meaning to the company. A business might want to see which hour of the day resulted in the most sales, or to know which product was the best seller. An AIS can provide this information.</para>
+<para id="fs-idm479333520">A system is created when processes work together to generate information for the business. The sales process accesses customers, accounts receivable, and inventory data and updates the appropriate files. The purchases process also accesses inventory and accounts payable and updates them, because most companies buy goods on credit. Since no two companies operate exactly the same way, you would expect each company to have a slightly different AIS. Some businesses do not have a cash register, but they will still have a Sales account. Some companies only have cash sales, so they would not have an Accounts Receivable account. Regardless of the type of business—retail, manufacturing, or service—an AIS is an important component of the business as it is this system that provides the information needed by internal and external decision-makers.</para>
+<note id="fs-idm200228896" class="concepts-practice">
+<title>Is This an Accounting Information System?</title>
+<para id="fs-idm479657472">Do you think your average food truck proprietor has an accounting information system?</para>
+<figure id="OSX_Acct_F07_01_FoodTruck" class="scaled-down">
+<media id="fs-idm209793568" alt="Photograph of people purchasing food from a food truck.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_01_FoodTruck.png"/>
+</media>
+<caption>Food Truck. (credit: modification of “Food Trucks” by Daniel Lobo/Flickr, Public Domain)</caption>
+</figure>
+<para id="fs-idm466262416">Food trucks will have some type of accounting information system whether paper based or electronic. One common method of creating an accounting information system in this type of business environment is to use an app, such as Square Point of Sale (<emphasis class="colored-text">Square Inc.</emphasis>). The Square Point of Sale (POS) software system keeps track of the sales. With this type of system, a food truck will likely have a Square Stand (a tablet-based POS), a cash drawer, and printers. The information input into the Square Stand is stored on Square servers using the cloud (online storage space offered by different companies and products) and is accessible by the company via an online dashboard. This system allows the handling of both cash sales and credit card sales. These components—the Square Point of Sale software, the Square Stand, cash drawer, and the printers—make up part of the accounting information system for a food truck.</para>
+</note>
+<note id="fs-idm193194912" class="ifrs-connection">
+<title>Accounting Information Systems in an International Business Environment</title>
+<para id="fs-idm479995232">All companies, regardless of whether they are domestic or international, will have an accounting information system with the features described in this chapter. It would be easy to assume that the accounting information systems created by public companies in the United States are created based on US generally accepted accounting principles (GAAP). This implies that these companies design their processes and controls so that in addition to meeting the reporting and monitoring goals of the company, the system also collects, measures, and reports the information that is required under US GAAP. But is this true? What about companies that have subsidiaries or a portion of their operations in another country? Do purely international companies use accounting information systems similar to their US counterparts?</para>
+<para id="fs-idm466343984">As previously indicated, all companies will create some sort of accounting information system. <emphasis class="colored-text">General Electric (GE)</emphasis>, as a US-based manufacturer, uses an accounting information system that allows it to record, collect, produce, and analyze the operations of its various businesses. Since <emphasis class="colored-text">GE</emphasis> is a US corporation, headquartered in Boston, Massachusetts, its accounting information system is designed around the rules set out by US GAAP. <emphasis class="colored-text">Fiat Chrysler Automobiles (FCA)</emphasis> is headquartered in the United Kingdom, and it designs its accounting information system to produce financials under International Financial Reporting Standards (IFRS). On the surface, it looks as though each company will create an information system based on the accounting rules in its own home country. However, it is not quite that simple. Today, companies take advantage of the ability to borrow money across borders. The lenders often require the financial statements of the borrower to be presented using the accounting rules required by the lender’s country. For example, if <emphasis class="colored-text">GE</emphasis> wanted to borrow money from the <emphasis class="colored-text">Royal Bank of Scotland</emphasis>, it would likely have to present its financial statements based on IFRS rules. Similarly, if <emphasis class="colored-text">FCA</emphasis> wanted to borrow from <emphasis class="colored-text">Citibank</emphasis>, it would need its financial statements in US GAAP form.</para>
+<para id="fs-idm229217616">Borrowing is not the only reason a company may need to present financial statements based on a different set of accounting principles. As of 2017, <emphasis class="colored-text">GE</emphasis> had over 130 subsidiaries, and these businesses were located across 130 countries. A subsidiary is a business over which the parent company has decision-making control, usually indicated by an ownership interest of more than 50 percent. Many of these <emphasis class="colored-text">GE</emphasis> subsidiaries established their accounting information systems based on the accepted accounting principles in the countries in which they were located, as required in order to be in compliance with local regulations such as for local taxes. Thus, <emphasis class="colored-text">GE</emphasis> must convert the financial information obtained from the subsidiary’s accounting information system, often based on IFRS, to US GAAP in order to consolidate the transactions and operations of all of the subsidiaries with those of the parent company to create one set of financial statements.</para>
+<para id="fs-idm221704336">We have basically become a two GAAP world—IFRS and US GAAP—and many companies will find it necessary to have accounting information systems that can handle both sets of rules due to the global nature of business and the global nature of raising money through borrowing and issuing stock. This may seem crazy, to have two systems, but a little over ten years ago there were more than seventy different GAAP. Today, since many countries now use IFRS, the quality and consistency of financial reporting have improved. As a result, the cost associated with having accounting information systems that can combine many different sets of accounting rules has decreased.</para>
+</note>
+</section>
+<section id="fs-idm499993408" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm209488080" list-type="bulleted" bullet-style="bullet">
+<item>An accounting information system is a set of business processes that record transactions using journals and ledgers (a paper-based system) or computer files (using a computerized system) to keep track of a company’s money and other assets.</item>
+<item>The key steps in an accounting information system are input, processing, and output.
+<list id="fs-idm234830800" list-type="bulleted" bullet-style="bullet">
+<item>Input: This is any way to record the transaction.</item>
+<item>Processing: This is a method of combining similar kinds of information (like adding all cash sales together to get a total that is separate from all credit sales; and then adding everything to find total sales).</item>
+<item>Output: Any way used to display the results of the processing is output.</item>
+<item>Source document: This is a record that a transaction has taken place; it is often used at the input stage.</item>
+<item>Storage: This is any method used to save the results generated by the system. Data that is stored is retrieved and used in the input, processing, or output stage. Additional data and information are also stored during these processes.</item>
+</list></item>
+</list>
+</section>
+<section id="fs-idm495154496" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm458596784">
+<problem id="fs-idm202262592">
+<para id="fs-idm466146464"><link class="lo-reference" document="m67869"/>So far, computer systems cannot yet ________.</para>
+<list id="fs-idm219621696" list-type="enumerated" number-style="upper-alpha">
+<item>receive data and instructions from input devices such as a scanner.</item>
+<item>decide how to record a business transaction.</item>
+<item>communicate with other computers electronically.</item>
+<item>recognize that you made a mistake entering $100 when you meant to enter $101.</item>
+</list>
+</problem>
+<solution id="fs-idm474566656">
+<para id="fs-idm191901392">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm209030288">
+<problem id="fs-idm460475008">
+<para id="fs-idm232769584"><link class="lo-reference" document="m67869"/>Any device used to provide the results of processing data is a(n) ________ device.</para>
+<list id="fs-idm210626880" list-type="enumerated" number-style="upper-alpha">
+<item>sources</item>
+<item>input</item>
+<item>output</item>
+<item>storage</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm176579696">
+<problem id="fs-idm441178128">
+<para id="fs-idm220274464"><link class="lo-reference" document="m67869"/>Source documents ________.</para>
+<list id="fs-idm213411312" list-type="enumerated" number-style="upper-alpha">
+<item>are input devices</item>
+<item>are output devices</item>
+<item>do not have to be on paper</item>
+<item>cannot be electronic files</item>
+</list>
+</problem>
+<solution id="fs-idm226160736">
+<para id="fs-idm216427712">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm465768128">
+<problem id="fs-idm216376272">
+<para id="fs-idm460599696"><link class="lo-reference" document="m67869"/>All of the following can provide source data <emphasis effect="italics">except</emphasis> ________.</para>
+<list id="fs-idm213480800" list-type="enumerated" number-style="upper-alpha">
+<item>a scanning device at the grocery store</item>
+<item>a utility bill received in the mail</item>
+<item>a bar code reader</item>
+<item>software to process the source data</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm196998080">
+<problem id="fs-idm198749232">
+<para id="fs-idm220363952"><link class="lo-reference" document="m67869"/>A document that asks you to return an identifying part of it with your payment is a(n) ________.</para>
+<list id="fs-idm233002288" list-type="enumerated" number-style="upper-alpha">
+<item>source document</item>
+<item>cloud document</item>
+<item>point-of-sale document</item>
+<item>turn-around document</item>
+</list>
+</problem>
+<solution id="fs-idm460503376">
+<para id="fs-idm178853648">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm236075968">
+<problem id="fs-idm202938448">
+<para id="fs-idm191860640"><link class="lo-reference" document="m67869"/>Which of the following is <emphasis effect="italics">false</emphasis> about accounting information systems?</para>
+<list id="fs-idm479055120" list-type="enumerated" number-style="upper-alpha">
+<item>They provide reports that people analyze.</item>
+<item>They prevent errors and stop employees from stealing inventory.</item>
+<item>They are designed to gather data about the company’s transactions.</item>
+<item>They consist of processes that involve input of data from source documents, processing, output, and storage.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm233957936" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm214295792">
+<problem id="fs-idm236337568">
+<para id="fs-idm474748816"><link class="lo-reference" document="m67869"/>Why does a student need to understand how to use a manual, paper-based accounting information system since everyone uses computerized systems?</para>
+</problem>
+<solution id="fs-idm209118000">
+<para id="fs-idm210681856">A computerized accounting information system performs the same steps in the accounting cycle as a manual accounting system. Therefore, understanding how a manual system works helps us understand what a computerized system does. We cannot take a computer apart and show how the accounting information fits together, but we can show the different pieces in a paper-based system. We want an accounting information system to be more than just a black box.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm220484144">
+<problem id="fs-idm458234176">
+<para id="fs-idm213351472"><link class="lo-reference" document="m67869"/>Provide an example of how paper-based accounting information systems are different from computerized systems.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm202292176">
+<problem id="fs-idm225608800">
+<para id="fs-idm757461168"><link class="lo-reference" document="m67869"/>Why are scanners better than keyboards?</para>
+</problem>
+<solution id="fs-idm495104672">
+<para id="fs-idm207748224">Scanners can input data faster and typically would produce fewer input errors.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm199985968">
+<problem id="fs-idm230085712">
+<para id="fs-idm192846560"><link class="lo-reference" document="m67869"/>Why are there so many different accounting information system software packages?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm211971328">
+<problem id="fs-idm218565600">
+<para id="fs-idm212783376"><link class="lo-reference" document="m67869"/>Which area of accounting needs a computerized accounting information system the most—payroll, tax, or preparing financial statements?</para>
+</problem>
+<solution id="fs-idm770438224">
+<para id="fs-idm210668560">All of these areas need an accounting information system. Keeping up with all of the data for an entire year without it would be difficult. Some companies have their own accounting information to process all of their transactions except for payroll. They sometimes use a payroll processing company that specializes in processing payroll transactions for many companies. However, that payroll company also uses computers.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm238425984">
+<problem id="fs-idm220694432">
+<para id="fs-idm193329776"><link class="lo-reference" document="m67869"/>The American Institute of Certified Public Accountants (AICPA) has stated that accountants will need to have an even better understanding of computer systems in the future. Why do you think computer skills will be more important?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm213193664" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm220453920">
+<problem id="fs-idm474829392">
+<para id="fs-idm210018832"><link class="lo-reference" document="m67869"/>For each of the following, indicate if the statement reflects an input component, output component, or storage component of an accounting information system.</para>
+<list id="fs-idm209275744" list-type="enumerated" number-style="upper-alpha">
+<item>A credit card scanner at a grocery store.</item>
+<item>A purchase order for 1,000 bottles of windshield washing fluid to be used as inventory by an auto parts store.</item>
+<item>A report of patients who missed appointments at a doctor’s office.</item>
+<item>A list of the day’s cash and credit sales.</item>
+<item>Electronic files containing a list of current customers.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm236335040">
+<problem id="fs-idm769890368">
+<para id="fs-idm210072576"><link class="lo-reference" document="m67869"/>All of the following information pertains to Green’s Grocery. Match each of the following parts of Green’s accounting information system in the left-hand column with the appropriate item(s) from the right-hand column. You may use items in the right-hand column more than once or not at all. There may be several answers for each item in the left-hand column.</para>
+<table id="fs-idm195520112" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">A. Source document</entry>
+<entry valign="top" align="left">i. Check written for office supplies</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">B. Output device</entry>
+<entry valign="top" align="left">ii. Invoice from a supplier of inventory</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C. Input device</entry>
+<entry valign="top" align="left">iii. Payroll check</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">D. Data and information storage</entry>
+<entry valign="top" align="left">iv. Time card</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">E. Information processing</entry>
+<entry valign="top" align="left">v. Computer software</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">vi. Keyboard</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">vii. Grocery store bar code scanner</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">viii. Printer</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">ix. Flash drive</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">x. Hard drive</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">xi. The cloud</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">xii. Computer screen</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm196829952" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm233825616">
+<problem id="fs-idm179630928">
+<para id="fs-idm193433424"><link class="lo-reference" document="m67869"/>For each of the following, indicate if the statement reflects an input component, output component, or storage component of the accounting information system for a bank.</para>
+<list id="fs-idm465738240" list-type="enumerated" number-style="upper-alpha">
+<item>Online customer check ordering system.</item>
+<item>Approved loan applications.</item>
+<item>Report of customers with savings accounts over $5,000.</item>
+<item>Desktop hard drive on computer used by bank president’s administrative assistant.</item>
+<item>List of the amount of money withdrawn from all of the bank’s ATMs on a given day.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm237726480">
+<problem id="fs-idm468057360">
+<para id="fs-idm237159888"><link class="lo-reference" document="m67869"/>The following information pertains to Crossroads Consulting, Inc. Match each of the following parts of Crossroad’s accounting information system in the left-hand column with the appropriate item(s) from the right-hand column. You may use items in the right-hand column more than once or not at all. There may be several answers for each item in the left-hand column. You may choose items in the right-hand column more than once.</para>
+<table id="fs-idm479356592" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">A. Source document</entry>
+<entry valign="top" align="left">i. Sales invoice from cleaning company</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">B. Output device</entry>
+<entry valign="top" align="left">ii. Printed check to be mailed to phone company</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C. Input device</entry>
+<entry valign="top" align="left">iii. Dropbox (online storage)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">D. Data and information storage</entry>
+<entry valign="top" align="left">iv. Voice-to-text software</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">E. Information processing</entry>
+<entry valign="top" align="left">v. QuickBooks Accounting Software</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">vi. Keyboard</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">vii. Printer</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">viii. Bar code scanner</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">ix. Computer screen</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">x. Flash drive</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">xi. Text scanner</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">xii. Computing interest on a loan</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm226657008">
+<term>accounting information system (AIS)</term>
+<meaning id="fs-idm186357488">set of business processes that record transactions using journals and ledgers (for paper systems) and computer files (for computerized systems) to keep track of a company’s transactions, process the data associated with these transactions, and produce output useful for internal and external decision-making and analysis</meaning>
+</definition>
+<definition id="fs-idm462736208">
+<term>audit trail</term>
+<meaning id="fs-idm223610992">step-by-step trail of evidence documenting the history of a transaction from its inception and all the steps it went through until its completion</meaning>
+</definition>
+<definition id="fs-idm204396368">
+<term>cloud computing</term>
+<meaning id="fs-idm215416848">using the internet to access software and information storage facilities provided by companies (there is usually a charge) rather than, or in addition to, storing this data on the company’s computer hard drive or in paper form</meaning>
+</definition>
+<definition id="fs-idm236070272">
+<term>data</term>
+<meaning id="fs-idm460557264">parts of accounting transactions that constitute the input to an accounting information system</meaning>
+</definition>
+<definition id="fs-idm229231632">
+<term>data/information storage</term>
+<meaning id="fs-idm495175872">way to save data and information; can be on paper, computer hard drive, or through the internet to save in the cloud</meaning>
+</definition>
+<definition id="fs-idm496950624">
+<term>point of sale</term>
+<meaning id="fs-idm479044656">point of time when a sales transaction occurs</meaning>
+</definition>
+<definition id="fs-idm229646496">
+<term>point-of-sale system (POS)</term>
+<meaning id="fs-idm458667920">computerized system to record and process a sale immediately when it occurs, usually by scanning the product bar code</meaning>
+</definition>
+<definition id="fs-idm232633584">
+<term>source document</term>
+<meaning id="fs-idm196918512">paper document or electronic record that provides evidence that a transaction has occurred and includes details about the transaction</meaning>
+</definition>
+<definition id="fs-idm215647168">
+<term>turn-around document</term>
+<meaning id="fs-idm193345248">paper document that starts off as an output document from one part of the accounting information system (billing sends bill to customer), that becomes input to another part of the accounting information system upon completion of the next phase of the process (accounts receivable receives payment made on bill)</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,462 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Compare and Contrast Variable and Absorption Costing</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68139</md:content-id>
+  <md:title>Compare and Contrast Variable and Absorption Costing</md:title>
+  <md:abstract/>
+  <md:uuid>4c67d7f3-07b2-4b96-97c2-51c8b6a49a10</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm355489328">ABC costing assigns a proportion of overhead costs on the basis of the activities under the presumption that the activities drive the overhead costs. As such, ABC costing converts the indirect costs into product costs. There are also cost systems with a different approach. Instead of focusing on the overhead costs incurred by the product unit, these methods focus on assigning the fixed overhead costs to inventory.</para>
+<para id="fs-idm387403168">There are two major methods in manufacturing firms for valuing work in process and finished goods inventory for financial accounting purposes: variable costing and absorption costing. <term>Variable costing</term>, also called <emphasis effect="italics">direct costing</emphasis> or <emphasis effect="italics">marginal costing</emphasis>, is a method in which all variable costs (direct material, direct labor, and variable overhead) are assigned to a product and fixed overhead costs are expensed in the period incurred. Under variable costing, fixed overhead is not included in the value of inventory. In contrast, <term>absorption costing</term>, also called <emphasis effect="italics">full costing</emphasis>, is a method that applies all direct costs, fixed overhead, and variable manufacturing overhead to the cost of the product. The value of inventory under absorption costing includes direct material, direct labor, and all overhead.</para>
+<para id="fs-idm384934496">The difference in the methods is that management will prefer one method over the other for internal decision-making purposes. The other main difference is that only the absorption method is in accordance with <term class="no-emphasis">GAAP</term>.</para>
+<section id="fs-idm387860304">
+<title>Variable Costing Versus Absorption Costing Methods</title>
+<para id="fs-idm400804192">The difference between the absorption and variable costing methods centers on the treatment of fixed manufacturing overhead costs. Absorption costing “absorbs” all of the costs used in manufacturing and includes fixed manufacturing overhead as product costs. Absorption costing is in accordance with GAAP, because the product cost includes fixed overhead. Variable costing considers the variable overhead costs and does not consider fixed overhead as part of a product’s cost. It is not in accordance with GAAP, because fixed overhead is treated as a period cost and is not included in the cost of the product.</para>
+<note id="fs-idm385583184" class="concepts-practice">
+<title>Absorbing Costs through Overproduction</title>
+<para id="fs-idm386444416">While companies use absorption costing for their financial statements, many also use variable costing for decision-making. The Big Three auto companies made decisions based on absorption costing, and the result was the manufacturing of more vehicles than the market demanded. Why? With absorption costing, the fixed overhead costs, such as marketing, were allocated to inventory, and the larger the inventory, the lower was the unit cost of that overhead. For example, if a fixed cost of $1,000 is allocated to 500 units, the cost is $2 per unit. But if there are 2,000 units, the per-unit cost is $0.50. While this was not the only reason for manufacturing too many cars, it kept the period costs hidden among the manufacturing costs. Using variable costing would have kept the costs separate and led to different decisions.</para>
+</note>
+<section id="fs-idm392161808">
+<title>Deferred Costs</title>
+<para id="fs-idm387746704">Absorption costing considers all fixed overhead as part of a product’s cost and assigns it to the product. This treatment means that as inventories increase and are possibly carried over from the year of production to actual sales of the units in the next year, the company allocates a portion of the fixed manufacturing overhead costs from the current period to future periods.</para>
+<para id="fs-idm393017264">Carrying over inventories and overhead costs is reflected in the ending inventory balances at the end of the production period, which become the beginning inventory balances at the start of the next period. It is anticipated that the units that were carried over will be sold in the next period. If the units are not sold, the costs will continue to be included in the costs of producing the units until they are sold. Finally, at the point of sale, whenever it happens, these deferred production costs, such as fixed overhead, become part of the costs of goods sold and flow through to the income statement in the period of the sale. This treatment is based on the <term>expense recognition principle</term>, which is one of the cornerstones of accrual accounting and is why the absorption method follows GAAP. The principle states that expenses should be recognized in the period in which revenues are incurred. Including fixed overhead as a cost of the product ensures the fixed overhead is expensed (as part of cost of goods sold) when the sale is reported.</para>
+<para id="fs-idm358564240">For example, assume a new company has fixed overhead of $12,000 and manufactures 10,000 units. Direct materials cost is $3 per unit, direct labor is $15 per unit, and the variable manufacturing overhead is $7 per unit. Under absorption costing, the amount of fixed overhead in each unit is $1.20 ($12,000/10,000 units); variable costing does not include any fixed overhead as part of the cost of the product. <link target-id="OSX_Acct_M06_05_ABvsVA"/> shows the cost to produce the 10,000 units using absorption and variable costing.</para>
+<figure id="OSX_Acct_M06_05_ABvsVA" class="scaled-down">
+<media id="fs-idm394078848" alt="Absorption and Variable, respectively. Materials ($3 per unit) $30,000, $30,000. Labor ($15 per unit) 150,000, 150,000. Variable Overhead ($7 per unit) 70,000, 70,000. Fixed Overhead ($1.20 per unit) 12,000. Total Finished Goods Inventory $262,000, $250,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_ABvsVA.jpg"/>
+</media>
+<caption>Finished Goods Inventory under Absorption and Variable Costing. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm407646160">Assume each unit is sold for $33 each, so sales are $330,000 for the year. If the entire finished goods inventory is sold, the income is the same for both the absorption and variable cost methods. The difference is that the absorption cost method includes fixed overhead as part of the cost of goods sold, while the variable cost method includes it as an administrative cost, as shown in <link target-id="OSX_Acct_M06_05_AllSold"/>. When the entire inventory is sold, the total fixed cost is expensed as the cost of goods sold under the absorption method or it is expensed as an administrative cost under the variable method; net income is the same under both methods.</para>
+<figure id="OSX_Acct_M06_05_AllSold" class="scaled-down">
+<media id="fs-idm385467552" alt="Absorption and Variable, respectively. Sales $330,000, $330,000. Less Cost of Goods Sold 262,000, 250,000. Equals Gross Profit 68,000, 80,000. Less Fixed Overhead 0, 12,000. Equals Net Income $68,000, $68,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_AllSold.jpg"/>
+</media>
+<caption>Income Statement When the Entire Inventory Is Sold. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm411915264">Now assume that 8,000 units are sold and 2,000 are still in finished goods inventory at the end of the year. The cost of the fixed overhead expensed on the income statement as cost of goods sold is $9,600 ($1.20/unit × 8,000 units), and the fixed overhead cost remaining in finished goods inventory is $2,400 ($1.20/unit × 2,000 units). The amount of the fixed overhead paid by the company is not totally expensed, because the number of units in ending inventory has increased. Eventually, the fixed overhead cost will be expensed when the inventory is sold in the next period. <link target-id="OSX_Acct_M06_05_PartialSale"/> shows the cost to produce the 8,000 units of inventory that became cost of goods sold and the 2,000 units that remain in ending inventory.</para>
+<figure id="OSX_Acct_M06_05_PartialSale" class="scaled-down">
+<media id="fs-idm385377504" alt="Absorption and Variable, respectively. Cost of Goods Sold: Materials $24,000, $24,000; Labor 120,000, 120,000; Variable Overhead 56,000, 56,000; Fixed Overhead 9,600. Cost of Goods Sold $209,600, $200,000. Ending Inventory: Materials $6,000, $6,000; Labor 30,000, 30,000; Variable Overhead 14,000, 14,000; Fixed Overhead 2,400. Ending Inventory $52,400, $50,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_PartialSale.jpg"/>
+</media>
+<caption>Cost of Goods Sold and Ending Inventory with the Absorption and Variable Costing Methods. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm406149664">If the 8,000 units are sold for $33 each, the difference between absorption costing and variable costing is a timing difference. Under absorption costing, the 2,000 units in ending inventory include the $1.20 per unit share, or $2,400 of fixed cost. That cost will be expensed when the inventory is sold and accounts for the difference in net income under absorption and variable costing, as shown in <link target-id="OSX_Acct_M06_05_NI_PartialSale"/>.</para>
+<figure id="OSX_Acct_M06_05_NI_PartialSale" class="scaled-down">
+<media id="fs-idm379160688" alt="Absorption and Variable, respectively. Sales $264,000, $264,000. Less Cost of Goods Sold 209,600, 200,000. Equals Gross Profit of 54,400, 64,000. Less Fixed Overhead of 0, 12,000. Equals Net Income of $54,400, $52,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_NI_PartialSale.jpg"/>
+</media>
+<caption>Net Income under Absorption and Variable Costing When Ending Inventory Remains. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm402818512">Under variable costing, the fixed overhead is not considered a product cost and would not be assigned to ending inventory. The fixed overhead would have been expensed on the income statement as a period cost.</para>
+</section>
+<section id="fs-idm398130048">
+<title>Inventory Differences</title>
+<para id="fs-idm397421616">Because absorption costing defers costs, the ending inventory figure differs from that calculated using the variable costing method. As shown in <link target-id="OSX_Acct_M06_05_PartialSale"/>, the inventory figure under absorption costing considers both variable and fixed manufacturing costs, whereas under variable costing, it only includes the variable manufacturing costs.</para>
+</section>
+<section id="fs-idm379223328">
+<title>Suitability for Cost-Volume-Profit Analysis</title>
+<para id="fs-idm379732144">Using the absorption costing method on the income statement does not easily provide data for cost-volume-profit (CVP) computations. In the previous example, the fixed overhead cost per unit is $1.20 based on an activity of 10,000 units. If the company estimated 12,000 units, the fixed overhead cost per unit would decrease to $1 per unit. This calculation is possible, but it must be done multiple times each time the volume of activity changes in order to provide accurate data, as CVP analysis makes no distinction between variable costing and absorption costing income statements.</para>
+<note id="fs-idm389802352" class="your-turn">
+<title>Comparing Variable and Absorption Methods</title>
+<para id="fs-idm398778576">A company expects to manufacture 7,000 units. Its direct material costs are $10 per unit, direct labor is $9 per unit, and variable overhead is $3 per unit. The fixed overhead is estimated at $49,000. How much would each unit cost under both the variable method and the absorption method?</para>
+<para id="fs-idm355490256"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm384344896">The variable cost per unit is $22 (the total of direct material, direct labor, and variable overhead). The absorption cost per unit is the variable cost ($22) plus the per-unit cost of $7 ($49,000/7,000 units) for the fixed overhead, for a total of $29.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm379170336">
+<title>Advantages and Disadvantages of the Variable Costing Method</title>
+<para id="fs-idm409882368">Variable costing only includes the product costs that vary with output, which typically include direct material, direct labor, and variable manufacturing overhead. Fixed overhead is not considered a product cost under variable costing. Fixed manufacturing overhead is still expensed on the income statement, but it is treated as a period cost charged against revenue for each period. It does not include a portion of fixed overhead costs that remains in inventory and is not expensed, as in absorption costing.</para>
+<para id="fs-idm384421232">If absorption costing is the method acceptable for financial reporting under GAAP, why would management prefer variable costing? Advocates of variable costing argue that the definition of fixed costs holds, and fixed manufacturing overhead costs will be incurred regardless of whether anything is actually produced. They also argue that fixed manufacturing overhead costs are true period expenses and have no future service potential, since incurring them now has no effect on whether these costs will have to be incurred again in the future.</para>
+<para id="fs-idm358578800">Advantages of the variable approach are:</para>
+<list id="fs-idm384420976" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">More useful for CVP analysis</emphasis>. Variable costing statements provide data that are immediately useful for CVP analysis because fixed and variable overhead are separate items. Computations from financial statements prepared with absorption costing need computations to break out the fixed and variable costs from the product costs.</item>
+<item><emphasis effect="bold">Income is not affected by changes in production volume</emphasis>. Fixed overhead is treated as a period cost and does not vary as the volume of inventory changes. This results in income increasing in proportion to sales, which may not happen under absorption costing. Under absorption costing, the fixed overhead assigned to a cost changes as the volume changes. Therefore, the reported net income changes with production, since fixed costs are spread across the changing number of units. This can distort the income picture and may even result in income moving in an opposite direction from sales.</item>
+<item><emphasis effect="bold">Understandability</emphasis>. Managers may find it easier to understand variable costing reports because overhead changes with the cost driver.</item>
+<item><emphasis effect="bold">Fixed costs are more visible</emphasis>. Variable costing emphasizes the impact fixed costs have on income. The total amount of fixed costs for the period is reported after gross profit. This emphasizes the direct impact fixed costs have on net income, whereas in absorption costing, fixed costs are included as product costs and thus are part of cost of goods sold, which is a determinant of gross profit.</item>
+<item><emphasis effect="bold">Margins are less distorted</emphasis>. Gross margins are not distorted by the allocation of common fixed costs. This facilitates appraisal of the profitability of products, customers, and business segments. <term>Common fixed costs</term>, sometimes called allocated fixed costs, are costs of the organization that are shared by the various revenue-generating components of the business, such as divisions. Examples of these costs include the chief executive officer (CEO) salary and corporate headquarter costs, such as rent and insurance. These overhead costs are typically allocated to various components of the organization, such as divisions or production facilities. This is necessary, because these costs are needed for doing business but are generated by a part of the company that does not directly generate revenues to offset these costs. The company’s revenues are generated by the goods that are produced and sold by the various divisions of the company.</item>
+<item><emphasis effect="bold">Control is facilitated</emphasis>. Variable costing considers only variable production costs and facilitates the use of control mechanisms such as flexible budgets that are based on differing levels of production and therefore designed around variable costs, since fixed costs do not change within a relevant range of production.</item>
+<item><emphasis effect="bold">Incremental analysis is more straightforward</emphasis>. Variable cost corresponds closely with the current out-of-pocket expenditure necessary to manufacture goods and can therefore be used more readily in incremental analysis.</item>
+</list>
+<para id="fs-idm407313536">While the variable cost method helps management make decisions, especially when the number of units in ending inventory fluctuates, there are some disadvantages:</para>
+<list id="fs-idm411102144" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Financial reporting</emphasis>. The variable cost method is not acceptable for financial reporting under GAAP. GAAP requires expenses to be recognized in the same period as the related revenue, and the variable method expenses fixed overhead as a period cost regardless of how much inventory remains.</item>
+<item><emphasis effect="bold">Tax reporting</emphasis>. Tax laws in the United States and many other countries do not allow variable costing and require absorption costing.</item>
+</list>
+</section>
+<section id="fs-idm360459120">
+<title>Advantages and Disadvantages of the Absorption Costing Method</title>
+<para id="fs-idm388111504">Under the absorption costing method, all costs of production, whether fixed or variable, are considered product costs. This means that absorption costing allocates a portion of fixed manufacturing overhead to each product.</para>
+<para id="fs-idm392672432">Advocates of absorption costing argue that fixed manufacturing overhead costs are essential to the production process and are an actual cost of the product. They further argue that costs should be categorized by function rather than by behavior, and these costs must be included as a product cost regardless of whether the cost is fixed or variable.</para>
+<para id="fs-idm358656848">The advantages of absorption costing include:</para>
+<list id="fs-idm358656464" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Product cost</emphasis>. Absorption costing includes fixed overhead as part of the inventory cost, and it is expensed as cost of goods sold when inventory is sold. This represents a more complete list of costs involved in producing a product.</item>
+<item><emphasis effect="bold">Financial reporting</emphasis>. Absorption costing is the acceptable reporting method under GAAP.</item>
+<item><emphasis effect="bold">Tax reporting</emphasis>. Absorption costing is the method required for tax preparation in the United States and many other countries.</item>
+</list>
+<para id="fs-idm395836720">While financial and tax reporting are the main advantages of absorption costing, there is one distinct disadvantage:</para>
+<list id="fs-idm392642864" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Difficulty in understanding</emphasis>. The absorption costing method does not list the incremental fixed overhead costs and is more difficult to understand and analyze as compared to variable costing.</item>
+</list>
+<note id="fs-idm355688512" class="ethical-considerations">
+<title>Cost Accounting for Ethical Business Managers</title>
+<para id="fs-idm402004208">An ethical and evenhanded approach to providing clear and informative financial information regarding costing is the goal of the ethical accountant. Ethical business managers understand the benefits of using the appropriate costing systems and methods. The accountant’s entire business organization needs to understand that the costing system is created to provide efficiency in assisting in making business decisions. Determining the appropriate costing system and the type of information to be provided to management goes beyond providing just accounting information. The costing system should provide the organization’s management with factual and true financial information regarding the organization’s operations and the performance of the organization. Unethical business managers can game the costing system by unfairly or unscrupulously influencing the outcome of the costing system’s reports.</para>
+</note>
+</section>
+<section id="fs-idm395695248">
+<title>Comparing the Operating Income Statements for Both Methods Assuming No Ending Inventory in the First Year, and the Existence of Ending Inventory in the Second Year</title>
+<para id="fs-idm403463776">In order to understand how to prepare income statements using both methods, consider a scenario in which a company has no ending inventory in the first year but does have ending inventory in the second year. Outdoor Nation, a manufacturer of residential, tabletop propane heaters, wants to determine whether absorption costing or variable costing is better for internal decision-making. It manufactures 5,000 units annually and sells them for $15 per unit. The total of direct material, direct labor, and variable overhead is $5 per unit with an additional $1 in variable sales cost paid when the units are sold. Additionally, fixed overhead is $15,000 per year, and fixed sales and administrative expenses are $21,000 per year.</para>
+<para id="fs-idm365158224">Production is estimated to hold steady at 5,000 units per year, while sales estimates are projected to be 5,000 units in year 1; 4,000 units in year 2; and 6,000 in year 3.</para>
+<para id="fs-idm390907376">Under absorption costing, the ending inventory costs include all manufacturing costs, including overhead. If fixed overhead is $15,000 per year and 5,000 units are manufactured each year, the fixed overhead per unit is $3:</para>
+<equation id="fs-idm397737280" class="unnumbered"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>$15,000</m:mn></m:mrow><m:mrow><m:mn>5,000</m:mn><m:mspace width="0.2em"/><m:mtext>units</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$3</m:mn><m:mspace width="0.2em"/><m:mtext>per unit</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm394181504">The projected income statement using absorption costing is shown in <link target-id="OSX_Acct_M06_05_OutdoorAbs"/>:</para>
+<figure id="OSX_Acct_M06_05_OutdoorAbs">
+<media id="fs-idm387424352" alt="Year 1, Year 2, and Year 3, respectively. Sales $75,000, $60,000, $90,000. Less Cost of Goods Sold: Beginning Inventory, 0, 0, 8,000. Plus Cost of Goods Manufactured: Direct Material, Labor and Overhead (5,000 units x $5 per unit), 25,000, 25,000, 25,000. Plus Fixed Manufacturing Overhead 15,000, 15,000, 15,000. Equals Cost of Goods Available for Sale, 40,000, 40,000, 48,000. Less Ending Inventory, 0, 8,000, 0. Equals Cost of Goods Sold, 40,000, 32,000, 48,000. Equals Gross Margin 35,000, 28,000, 42,000. Less Sales and Administrative Expenses: Fixed Sales and Admin Expenses 21,000, 21,000, 21,000 and Variable Sales and Admin Expenses 5,000, 4,000, 6,000. Equals Net Income $9,000, $3,000, $15,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_OutdoorAbs.jpg"/>
+</media>
+<caption>Outdoor Nation’s Income Statement Using Absorption Costing. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm356827056">In variable costing, the fixed overhead is not included in the cost of goods sold even if it relates to manufacturing. As a result, the net income under variable costing differs from absorption costing by the same amount as inventory differential. The projected income under variable costing is shown in <link target-id="OSX_Acct_M06_05_OutdoorVar"/>:</para>
+<figure id="OSX_Acct_M06_05_OutdoorVar">
+<media id="fs-idm407083552" alt="Year 1, Year 2, and Year 3 respectively. Sales $75,000, $60,000, $90,000. Less Variable Expenses: Beginning Inventory 0, 0, 5,000. Plus Variable Manufacturing Overhead 25,000, 25,000, 25,000. Equals Cost of Goods Available for Sale 25,000, 25,000, 30,000. Less Ending Inventory 0, 5,000, 0. Equals Variable Cost to Manufacturing 25,000, 20,000, 30,000. Variable Selling and Administrative Expenses 5,000, 4,000, 6,000. Equals Cost of Goods Sold 30,000, 24,000, 36,000. Contribution Margin 45,000, 36,000, 54,000. Less Fixed Expenses: Fixed Overhead Expenses 15,000, 15,000, 15,000 and Fixed Slaes and Admin Expenses 21,000, 21,000, 21,000. Equals Net Income $9,000, $0, $18,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_OutdoorVar.jpg"/>
+</media>
+<caption>Outdoor Nation’s Income Statement Using Variable Costing. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm369851904">The difference between the methods is attributable to the fixed overhead. Therefore, the methods can be reconciled with each other, as shown in <link target-id="OSX_Acct_M06_05_OutdoorRec"/>.</para>
+<figure id="OSX_Acct_M06_05_OutdoorRec">
+<media id="fs-idm385823296" alt="Reconciliation for Year 1, Year 2, and Year 3, respectively. Income Under Variable Costing, $9,000, $0, $18,000. Plus Fixed Manufacturing Overhead in Ending Inventory 0, 3,000, 0. Minus Fixed Manufacturing Overhead in Beginning Inventory 0, 0, 3,000. Equals Income Under Absorption $9,000, $3,000, $15,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_OutdoorRec.jpg"/>
+</media>
+<caption>Outdoor Nation’s Reconciliation of Net Incomes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm369861808">Each method results in different amounts for net income when the inventory amounts change. More specifically, the effects on income are:</para>
+<list id="fs-idm395685472" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Sales and Production equal.</emphasis> When a company sells the same quantity of products produced during the period, the resulting net income will be identical whether absorption costing or variable costing is used. When sales equals production, all manufacturing costs are accounted for in net income, and none of the costs are waiting in finished goods inventory to be recognized in a future period. Remember, with absorption costing, all manufacturing costs are added to the cost of the product during the work in process phase; thus, as the goods are sold, all costs have been accounted for. With variable costing, only the variable costs or production are added to the cost of the product during the work in process phase, and the fixed costs are expensed in the period in which they are incurred. Thus, in the example where sales and production are equal, all costs have been accounted for since all of the produced inventory has moved through cost of goods sold. This means that net income under absorption costing would be the same as net income under variable costing.</item>
+<item><emphasis effect="bold">Sales less than Production</emphasis>. When a company produces more than it sells, net income will be less under variable costing than under absorption costing. In this scenario, there will be a buildup, or an increase, in inventory from the beginning of the period to the end of the period. Under variable costing, fixed manufacturing costs are still in the finished goods inventory account. But under absorption costing, those fixed costs have been expensed during the current production period and thus have reduced net income.</item>
+<item><emphasis effect="bold">Sales greater than Production.</emphasis> When a company sells more than it produces during the current period, this indicates it is selling goods produced in a prior period. This will result in net income under variable costing being greater than under absorption costing. With absorption costing, all manufacturing costs are captured in the finished goods inventory account, and as those goods are sold, those costs become expenses. Selling items that were produced in a prior period defers the recognition of the costs of those products until the future period in which they are sold. Variable costing results in all of the variable costs associated with the sold products being in the current period net income, but only the current period fixed expenses would be included in the current period net income. The fixed expenses associated with the items produced in a prior period were recognized in the period in which they were incurred, not the period in which the products are sold. This results in fewer expenses and therefore greater income with the variable cost method.</item>
+<item><emphasis effect="bold">Effect of differences in Sales and Production Long Term.</emphasis> The differences between net income generated under absorption costing and variable costing will be almost zero over the long run, as all costs associated with the production of goods will eventually be recognized in net income. The use of absorption versus variable costing creates more of a timing issue for the recognition of fixed expenses, and this is why net income would vary from period to period under the two methods but in the long run would not. In addition, absorption costing does allow for manipulation of income by managers through overproduction. Increasing production at year-end results in a higher net income than if the additional goods had not been produced, since increasing the number of units decreases the fixed cost per unit. Under absorption costing, these fixed costs follow the units produced and do not become a part of cost of goods sold until they are sold. Instead, a portion of the fixed costs is in the inventory accounts. Why would a manager want to manipulate income by overproducing? If the manager’s annual bonus or other compensation is linked to net income, then the manager may be motivated to overproduce in order to increase the potential for or the amount of a bonus. If the level of sales remain constant while manipulating the production level, such an action would increase the company’s expenses (including the amount of bonus) while not increasing its revenue. Barring any other justification for the increase in production, such an action by the manager would typically be considered an ethical violation, since the manager’s actions would be in the manager’s best interests, but contrary to the best interests of the company.</item>
+</list>
+<note id="fs-idm397949376" class="link-to-learning">
+<para id="fs-idm403879520">Absorption costing is not as well understood as variable costing because of its financial statement limitations. But understanding how it can help management make decisions is very important. See the <link url="https://openstax.org/l/50Absorption">Strategic CFO forum on <emphasis effect="italics">Absorption Cost Accounting</emphasis> that helps managers understand its uses</link> to learn more.</para>
+</note>
+</section>
+<section id="fs-idm389044416" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm385808352" list-type="bulleted" bullet-style="bullet">
+<item>Absorption costing assigns all manufacturing costs to products, whereas variable costing only assigns variable costs to the products.</item>
+<item>Income statements from both methods can be reconciled by starting with the net income or loss using variable costing and adding the amount of fixed costs included in ending inventory and subtracting the fixed costs included in beginning inventory.</item>
+<item>Variable costing is not considered GAAP compliant but lends itself to cost-volume-profit analysis.</item>
+</list>
+</section>
+<section id="fs-idm392554272" class="multiple-choice">
+<exercise id="fs-idm388453376">
+<problem id="fs-idm383947136">
+<para id="fs-idm391001088"><link class="lo-reference" document="m68139"/>Absorption costing is also referred to as:</para>
+<list id="fs-idm397286240" list-type="enumerated" number-style="upper-alpha">
+<item>direct costing</item>
+<item>marginal costing</item>
+<item>full costing</item>
+<item>variable costing</item>
+</list>
+</problem>
+<solution id="fs-idm392141248">
+<para id="fs-idm390477792">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm405079840">
+<problem id="fs-idm403374544">
+<para id="fs-idm398844112"><link class="lo-reference" document="m68139"/>Under variable costing, a unit of product includes which costs?</para>
+<list id="fs-idm400633888" list-type="enumerated" number-style="upper-alpha">
+<item>direct material, direct labor, and manufacturing overhead</item>
+<item>direct material, direct labor, and variable manufacturing overhead</item>
+<item>direct material, direct labor, and fixed manufacturing overhead</item>
+<item>direct material, direct labor, and all variable manufacturing overhead</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm388912496">
+<problem id="fs-idm385055248">
+<para id="fs-idm409906160"><link class="lo-reference" document="m68139"/>Under absorption costing, a unit of product includes which costs?</para>
+<list id="fs-idm390789424" list-type="enumerated" number-style="upper-alpha">
+<item>direct material, direct labor, and manufacturing overhead</item>
+<item>direct material, direct labor, and variable manufacturing overhead</item>
+<item>direct material, direct labor, and fixed manufacturing overhead</item>
+<item>direct material, direct labor, and all variable manufacturing overhead</item>
+</list>
+</problem>
+<solution id="fs-idm392585600">
+<para id="fs-idm387101040">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm385510432">
+<problem id="fs-idm396688976">
+<para id="fs-idm392228000"><link class="lo-reference" document="m68139"/>A downside to absorption costing is:</para>
+<list id="fs-idm385904576" list-type="enumerated" number-style="upper-alpha">
+<item>not including fixed manufacturing overhead in the cost of the product</item>
+<item>that it is not really useful for managerial decisions</item>
+<item>that it is not allowable under GAAP</item>
+<item>that it is not well designed for cost-volume-profit analysis</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm384849808">
+<problem id="fs-idm389465088">
+<para id="fs-idm379721216"><link class="lo-reference" document="m68139"/>When the number of units in ending inventory increases through the year, which of the following is true?</para>
+<list id="fs-idm358652864" list-type="enumerated" number-style="upper-alpha">
+<item>Net income is the same for variable and absorption costing.</item>
+<item>Net income is higher for variable costing than for absorption costing.</item>
+<item>Net income is higher for absorption costing than for variable costing.</item>
+<item>There is no relationship between net income and the costing method.</item>
+</list>
+</problem>
+<solution id="fs-idm387924080">
+<para id="fs-idm406974032">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm389125680">
+<problem id="fs-idm389064336">
+<para id="fs-idm390684816"><link class="lo-reference" document="m68139"/>Product costs under variable costing are typically:</para>
+<list id="fs-idm411057024" list-type="enumerated" number-style="upper-alpha">
+<item>higher than under absorption costing</item>
+<item>lower than under absorption costing</item>
+<item>the same as with absorption costing</item>
+<item>higher than absorption costing when inventory increases</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm401956944" class="questions">
+<exercise id="fs-idm386462144">
+<problem id="fs-idm390169792">
+<para id="fs-idm392911872"><link class="lo-reference" document="m68139"/>What is the primary difference between variable costing and absorption costing?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm373773584">
+<problem id="fs-idm390061248">
+<para id="fs-idm408192736"><link class="lo-reference" document="m68139"/>Why would managers prefer variable costing over absorption costing?</para>
+</problem>
+<solution id="fs-idm387757712">
+<para id="fs-idm397840288">While variable costing is not acceptable for financial reporting purposes, some managers prefer variable costing because they believe fixed costs are period costs and do not change during the period. Variable costing separates variable and fixed manufacturing overhead, and using only variable costs allows them to make decisions based on the more reliable variations in unit costs.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm356776288">
+<problem id="fs-idm387028976">
+<para id="fs-idm386903232"><link class="lo-reference" document="m68139"/>Why is absorption costing the method allowable for GAAP?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm405647248">
+<problem id="fs-idm388201824">
+<para id="fs-idm402825152"><link class="lo-reference" document="m68139"/>Can a company gather information for both variable and absorption costing systems?</para>
+</problem>
+<solution id="fs-idm411387104">
+<para id="fs-idm409357632">Yes, as long as the system computes the amount of fixed manufacturing overhead per unit. The total amount can be expensed under variable costing and assigned to overhead produced during absorption costing. This will allow a portion to be included in ending inventory for absorption costing and not included for variable costing.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm358543184" class="exercise-set-a">
+<exercise id="fs-idm389935488">
+<problem id="fs-idm409672144">
+<para id="fs-idm392570608"><link class="lo-reference" document="m68139"/>Cool Pool has these costs associated with production of 20,000 units of accessory products: direct materials, $70; direct labor, $110; variable manufacturing overhead, $45; total fixed manufacturing overhead, $800,000. What is the cost per unit under both the variable and absorption methods?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm356832656">
+<problem id="fs-idm356832400">
+<para id="fs-idm409750192"><link class="lo-reference" document="m68139"/>Using this information from Planters, Inc., what is the cost per unit under both variable and absorption costing?</para>
+<media id="fs-idm385077632" class="scaled-down" alt="Production 10,000 units. Direct materials $240. Direct labor 280. Variable manufacturing overhead 100. Fixed manufacturing overhead 1,200,000">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_EA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm400323952" class="exercise-set-b">
+<exercise id="fs-idm392373024">
+<problem id="fs-idm406922736">
+<para id="fs-idm396252880"><link class="lo-reference" document="m68139"/>Crafts 4 All has these costs associated with production of 12,000 units of accessory products: direct materials, $19; direct labor, $30; variable manufacturing overhead, $15; total fixed manufacturing overhead, $450,000. What is the cost per unit under both the variable and absorption methods?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm358630528">
+<problem id="fs-idm358630272">
+<para id="fs-idm400220112"><link class="lo-reference" document="m68139"/>Using this information from Outdoor Grills, what is the cost per unit under both variable and absorption costing?</para>
+<media id="fs-idm385907152" class="scaled-down" alt="Production 90,000. Direct materials $110. Direct labor 150. Variable manufacturing overhead 75. Fixed manufacturing overhead 2,700,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_EB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm390987760" class="problem-set-a">
+<exercise id="fs-idm384957840">
+<problem id="fs-idm389079584">
+<para id="fs-idm410105680"><link class="lo-reference" document="m68139"/>Grainger Company produces only one product and sells that product for $100 per unit. Cost information for the product is:</para>
+<table id="fs-idm407681616" class="unnumbered" summary="Assessment information">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Direct Material</entry>
+<entry valign="bottom" align="left">$15 per Unit</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Direct Labor</entry>
+<entry valign="bottom" align="left">$25 per Unit</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Variable Overhead</entry>
+<entry valign="bottom" align="left">$5 per Unit</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Fixed Overhead</entry>
+<entry valign="bottom" align="left">$34,000</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm390296288">Selling expenses are $4 per unit and are all variable. Administrative expenses of $20,000 are all fixed. Grainger produced 5,000 units; sold 4,000; and had no beginning inventory.</para>
+<list id="fs-idm392766576" list-type="enumerated" number-style="upper-alpha">
+<item>Compute net income under
+<list id="fs-idm402829808" list-type="enumerated" number-style="lower-roman">
+<item>absorption costing</item>
+<item>variable costing</item>
+</list></item>
+<item>Reconcile the difference between the income under absorption and variable costing.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm392351280">
+<problem id="fs-idm389541280">
+<para id="fs-idm410877600"><link class="lo-reference" document="m68139"/>Summarized data for Walrus Co. for its first year of operations are:</para>
+<media id="fs-idm404410864" alt="Sales $5,000,000. Production costs (120,000 units): Direct material 1,800,000, Direct labor 1,500,000. Manufacturing overhead: variable 900,000, fixed 300,000. Selling and administrative expenses: variable 260,000, fixed 440,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_PA04_img.jpg"/>
+</media>
+<list id="fs-idm384221136" list-type="enumerated" number-style="upper-alpha">
+<item>Prepare an income statement under absorption costing</item>
+<item>Prepare an income statement under variable costing</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm411892224">
+<problem id="fs-idm388785104">
+<para id="fs-idm398133216"><link class="lo-reference" document="m68139"/>Happy Trails has this information for its manufacturing:</para>
+<media id="fs-idm385088208" class="scaled-down" alt="Direct Materials $15; Direct labor $15; Variable manufacturing overhead $3; Fixed manufacturing overhead $25; Units produced 27,000; Units sold 19,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_PA01a_img.jpg"/>
+</media>
+<para id="fs-idm396800672">Its income statement under absorption costing is:</para>
+<media id="fs-idm388192960" class="scaled-down" alt="Sales $1,900,500. Less Cost of Goods Sold: Beginning Inventory 0 plus Cost of Goods Manufactured 1,566,000 equals Cost of Goods Available for Sale 1,566,000 less Ending Inventory 464,000 equals Cost of Goods Sold 1,102,000. Equals Gross Profit 798,500. Less Sales and Admin Expenses: Variable 133,000 and Fixed 300,000, Total Sales and Admin Expenses 433,000. Equals Net Operating Income $365,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_PA01b_img.jpg"/>
+</media>
+<para id="fs-idm396339056">Prepare an income statement with variable costing and a reconciliation statement between both methods.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm356951488">
+<problem id="fs-idm401295424">
+<para id="fs-idm401749104"><link class="lo-reference" document="m68139"/>Appliance Apps has the following costs associated with its production and sale of devices that allow appliances to receive commands from cell phones.</para>
+<media id="fs-idm404917408" class="scaled-down" alt="Beginning inventory 0. Units produced 25,000. Units sold 20,000. Selling price per unit $145. Variable sales and administration expenses $5. Fixed sales and administration expenses $975,000. Direct material cost per unit $25. Direct labor cost per unit $11. Variable manufacturing overhead cost per unit $3. Fixed manufacturing Overhead cost per month $980,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_PA02_img.jpg"/>
+</media>
+<para id="fs-idm397612048">Prepare an income statement under both the absorption and variable costing methods along with a reconciliation between the two statements.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm389528624">
+<problem id="fs-idm390327472">
+<para id="fs-idm402150160"><link class="lo-reference" document="m68139"/>This information was collected for the first year of manufacturing for Appliance Apps:</para>
+<media id="fs-idm403219104" class="scaled-down" alt="Direct materials per unit $2.50; Direct labor per unit $1.50; Variable manufacturing overhead per unit $0.25; Variable selling and administration expenses $1.75; Units produced 40,000; Units sold 35,000; Sales price $12; Fixed manufacturing expenses $140,000; Fixed selling and administration expenses $20,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_PA03_img.jpg"/>
+</media>
+<para id="fs-idm388653056">Prepare an income statement under variable costing, and prepare a reconciliation to the income under the absorption method.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm392717504" class="problem-set-b">
+<exercise id="fs-idm397460960">
+<problem id="fs-idm409448496">
+<para id="fs-idm396627632"><link class="lo-reference" document="m68139"/>Submarine Company produces only one product and sells that product for $150 per unit. Cost information for the product is as follows:</para>
+<media id="fs-idm400212624" class="scaled-down-30" alt="Direct material $40 per unit. Direct labor $50 per unit. Variable overhead $10 per unit. Fixed overhead $40,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_PB04_img.jpg"/>
+</media>
+<para id="fs-idm388832656">Selling expenses are $2 per unit and are all variable. Administrative expenses of $15,000 are all fixed, Submarine produced 2,000 units and sold 1,800. Grainger had no beginning inventory.</para>
+<list id="fs-idm397703328" list-type="enumerated" number-style="upper-alpha">
+<item>Compute net income under
+<list id="fs-idm406068384" list-type="enumerated" number-style="lower-roman">
+<item>absorption costing</item>
+<item>variable costing</item>
+</list></item>
+<item>Reconcile the difference between the income under absorption and variable costing.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm369118832">
+<problem id="fs-idm399771312">
+<para id="fs-idm388282240"><link class="lo-reference" document="m68139"/>Summarized data for Backdraft Co. for its first year of operations are as follows:</para>
+<media id="fs-idm396890912" class="scaled-down" alt="Sales (90,000 units) $3,500,000. Production costs (100,000 units): Direct material 1,100,000, Direct labor 400,000. Manufacturing overhead: variable 200,000, fixed 100,000. Selling and administrative expenses: variable 80,000, fixed 50,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_PB05_img.jpg"/>
+</media>
+<list id="fs-idm388582560" list-type="enumerated" number-style="upper-alpha">
+<item>Prepare an income statement under absorption costing</item>
+<item>Prepare an income statement under variable costing</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm360270800">
+<problem id="fs-idm384841040">
+<para id="fs-idm410074208"><link class="lo-reference" document="m68139"/>Trail Outfitters has this information for its manufacturing:</para>
+<media id="fs-idm366304176" class="scaled-down" alt="Direct materials $15; Direct labor $15; Variable manufacturing overhead $3; Fixed manufacturing overhead $25; Units produced 30,000; Units sold 38,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_PB01a_img.jpg"/>
+</media>
+<para id="fs-idm411832784">Its income statement under absorption costing is as follows:</para>
+<media id="fs-idm382945328" class="scaled-down" alt="Sales $3,200,000. Less Cost of Goods Sold: Beginning Inventory 464,000 plus Cost of Goods Manufactured 1,740,000 equals Cost of Goods Available for Sale 2,204,000 less Ending Inventory 0 equals Cost of Goods Sold 2,204,000. Equals Gross Profit 996,000. Less Sales and Admin Expenses: Variable 266,000 and Fixed 300,000, Total Sales and Admin Expenses 566,000. Equals Net Operating Income $430,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_PB01b_img.jpg"/>
+</media>
+<para id="fs-idm402849920">Prepare an income statement with variable costing and a reconciliation statement between both methods.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm384434864">
+<problem id="fs-idm387900416">
+<para id="fs-idm385007536"><link class="lo-reference" document="m68139"/>Wifi Apps has these costs associated with its production and sale of devices that allow visual communications between cell phones:</para>
+<media id="fs-idm389373056" class="scaled-down" alt="Beginning inventory $0. Units produced 33,000. Units sold 23,000. Selling price per unit $170. Variable sales and administration expenses $4. Fixed sales and administration expenses $895,000. Direct material cost per unit $23. Direct labor cost per Unit $15. Variable manufacturing overhead cost per unit $4. Fixed manufacturing overhead cost per month $858,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_PB02_img.jpg"/>
+</media>
+<para id="fs-idm390786208">Prepare an income statement under both the absorption and variable costing methods along with a reconciliation between the two statements.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm375427376">
+<problem id="fs-idm386889776">
+<para id="fs-idm384392272"><link class="lo-reference" document="m68139"/>This information was collected for the first year of manufacturing for Wifi Apps:</para>
+<media id="fs-idm393003744" class="scaled-down" alt="Direct materials per unit $1.75; Direct labor per unit $3.50; Variable manufacturing overhead per Unit $0.55; Variable Selling and administration expenses $1.25; Units produced 50,000; Units sold 40,000; Sales price $13; Fixed manufacturing expenses $120,000; Fixed selling and administration expenses $35,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_05_PB03_img.jpg"/>
+</media>
+<para id="fs-idm365157168">Prepare an income statement under variable costing and prepare a reconciliation to the income under the absorption method.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm383969424" class="thought-provokers">
+<exercise id="fs-idm355667408">
+<problem id="fs-idm382506096">
+<para id="fs-idm360462720"><link class="lo-reference" document="m68139"/>In designing a bonus structure to reward your production managers, one of the options is to reward the managers based on reaching annual income targets. What are the differences between a reward system for a company that uses absorption costing and one for a company that uses variable costing?</para>
+</problem>
+</exercise>
+</section>
+  </content>
+<glossary>
+<definition id="fs-idm389975408">
+<term>absorption costing</term>
+<meaning id="fs-idm385320752">(also, full costing) system of accounting where all costs are treated as product costs regardless of whether they are variable or fixed</meaning>
+</definition>
+<definition id="fs-idm390872080">
+<term>common fixed costs</term>
+<meaning id="fs-idm388810320">expenses that are shared among all divisions or production units and include such costs as the CEO salary and corporate headquarter costs</meaning>
+</definition>
+<definition id="fs-idm390522768">
+<term>expense recognition principle</term>
+<meaning id="fs-idm373770352">(also, matching principle) matches expenses with associated revenues in the period in which the revenues were generated </meaning>
+</definition>
+<definition id="fs-idm391002640">
+<term>variable costing</term>
+<meaning id="fs-idm355486816">(also, <emphasis effect="italics">direct costing</emphasis> or <emphasis effect="italics">marginal costing</emphasis>) system of accounting where only variable costs are treated as product costs</meaning>
+</definition>
+</glossary>
+</document>

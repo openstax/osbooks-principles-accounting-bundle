@@ -1,0 +1,274 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Use Information from the Statement of Cash Flows to Prepare Ratios to Assess Liquidity and Solvency</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67934</md:content-id>
+  <md:title>Use Information from the Statement of Cash Flows to Prepare Ratios to Assess Liquidity and Solvency</md:title>
+  <md:abstract/>
+  <md:uuid>f8f42618-0a71-441a-bba3-5f03678012be</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm388874448">Cash flow ratio analysis allows financial statement users to see the company’s liquidity position from a clearer perspective. The ratios presented in this section focus on <term>free cash flow</term>, calculated as operating cash, reduced by expected capital expenditures and by cash dividends payments. The free cash flow value is thus an adaptation of cash flow from operating activities. The result obtained in the initial free cash flow calculation is then used to calculate the <term>free cash flow to sales ratio</term>, which is the ratio of free cash flow to sales revenue, and the <term>free cash flow to assets ratio</term>, which is the ratio of free cash flow to total assets. These three tools give indicators about the company’s flexibility and agility, which equates to their ability to seize opportunities in the future, as they arise.</para>
+<note id="fs-idm392718528" class="ethical-considerations">
+<title>Cash Flow Analysis</title>
+<para id="fs-idm368499488">Cash is required to pay the bills. All businesses need to have a clear picture of available cash so they can plan and pay their bills. The statement of cash flows allows investors direct insight into the actual activity on the company’s cash balances. Mark A. Siegel wrote in <emphasis effect="italics">The CPA Journal</emphasis> that “as Wall Street analysts have lost faith in earnings-based metrics in the wake of Enron, WorldCom, and others, many have gravitated toward the cash flow statement. Companies are regularly evaluated on the basis of free cash flow yield and other measures of cash generation.”<footnote id="fs-idm357246864">Marc A. Siegel. “Accounting Shenanigans on the Cash Flow Statement.” <emphasis effect="italics">CPA Journal</emphasis>. March 2006. http://archives.cpajournal.com/2006/306/essentials/p38.htm</footnote> The operating cash flow ratio, and the cash flow margin ratio, and the other cash flow–related metrics discussed allow an investor and other users of the financial statements to analyze financial statement data to see a company’s ability to pay for current debt and assess its operational cash flow to function as a going concern.<footnote id="fs-idm382171584">Steven D. Jones. “Why Cash Flow Matters in Evaluating a Company.” <emphasis effect="italics">The Wall Street Journal</emphasis>. August 11, 2016. https://www.wsj.com/articles/SB997466275287616386. Miriam Gottfried. “Spoiler Alert for Netflix: Debt and Cash Flow Matter.” <emphasis effect="italics">The Wall Street Journal</emphasis>. April 17, 2017. https://www.wsj.com/articles/spoiler-alert-for-netflix-debt-and-cash-flow-matter-1492468397</footnote> This helps investors and other users of the financial statements ensure the veracity of a company’s financial statements and its ability to pay its bills.</para>
+</note>
+<section id="fs-idm384518864">
+<title>Free Cash Flow</title>
+<para id="fs-idm388764464">Free cash flow calculations start with cash flows from operating activities, reduced by planned capital expenditures and planned cash dividend payments. In the example case demonstrated, free cash flow would be as follows:</para>
+<para id="fs-idm395525728">Free cash flow calculation:</para>
+<media id="fs-idm385577168" class="scaled-down" alt="Cash flow from operating $13,840 minus cash planned for capital expenditures of (40,000) minus cash dividends of (440) equals free cash flow of (26,600).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_06_Free_img.jpg"/>
+</media>
+<para id="fs-idm403561104">The absence of free cash flow is an indicator of severe liquidity concern for Propensity Company and could be an early indicator that the company may not be able to continue operations. This could also be a one-time occurrence, in a year where a large capital investment was planned, to be financed with resources from the company’s capital reserves from previous years’ profits. In such a case, the negative free cash flow would not be an issue of concern.</para>
+<note id="fs-idm410701104" class="link-to-learning">
+<para id="fs-idm347892528">This <link url="https://openstax.org/l/50FreeCashFlow">article by Investopedia presents information about how to use free cash flow</link> to evaluate strengths of various businesses:</para>
+</note>
+</section>
+<section id="fs-idm385582976">
+<title>Cash Flows to Sales</title>
+<para id="fs-idm383794416">The cash flows to sales ratio is computed by dividing free cash flow by sales revenue. In the Propensity Company case, free cash flow had a negative outcome, so the calculation would not be useful in this case.</para>
+</section>
+<section id="fs-idm387395328">
+<title>Cash Flows to Assets</title>
+<para id="fs-idm393806112">The cash flows to assets ratio is computed by dividing free cash flow by total assets. Again, when the free cash flow had a negative outcome, as it did in the Propensity Company example scenario, the calculation would not be useful</para>
+<note id="fs-idm378518304" class="concepts-practice">
+<title>Lehman Brothers: Would You Have Invested?</title>
+<para id="fs-idm377817712">Between 2005 and 2007, <emphasis class="colored-text">Lehman Brothers</emphasis> (an investment bank) increased its net income from $3.1 billion to $4.1 billion. It received nearly $42 billion interest and dividends on its investments, a primary part of its business model, in 2007 alone. It also had $7.2 billion available in cash at the end of 2007. Would you be interested in investing in <emphasis class="colored-text">Lehman Brothers</emphasis>? However, <emphasis class="colored-text">Lehman Brothers</emphasis> went bankrupt in September 2008; it was the biggest corporate bankruptcy in history. Could investors have known?</para>
+<para id="fs-idm388585744">A clue would be its free cash ratio. Assuming that you would expect <emphasis class="colored-text">Lehman Brothers</emphasis>’ actual capital expenditures and dividend payments from 2007 be expected in 2008, Lehman’s free cash ratio would be calculated as, in millions:</para>
+<media id="fs-idm396335600" class="scaled-down" alt="Cash flows from operating activities of ($45,595) minus cash planned for capital expenditures of (1,931) minus cash dividends of (418) equals free cash flow of (47,944).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_06_CIP01_img.jpg"/>
+</media>
+<para id="fs-idm381033520"><emphasis class="colored-text">Lehman Brothers</emphasis> invested heavily in securities created from subprime mortgages. When the subprime mortgage market collapsed in 2008, <emphasis class="colored-text">Lehman Brothers</emphasis> was not able to generate enough cash to stay in business. The large negative free cash flow gave warning that <emphasis class="colored-text">Lehman Brothers</emphasis> was a risky investment.</para>
+</note>
+<note id="fs-idm397990064" class="ifrs-connection">
+<title>Statement of Cash Flows</title>
+<para id="fs-idm394032304">In every type of business across the globe, it is important to understand the business’s cash position. Analyzing cash inflows and outflows, current cash flow, and cash flow trends, and predicting future cash flows all importantly inform decision-making. The US Securities and Exchange Commission (SEC) requires the statement of cash flows as the mechanism that allows users to better assess a company’s cash position. US <term class="no-emphasis">generally accepted accounting principles (GAAP)</term> and <term class="no-emphasis">International Financial Reporting Standards (IFRS)</term> set forth rules regarding the composition and presentation of the statement of cash flows.</para>
+<list id="fs-idm380591904" list-type="bulleted" bullet-style="bullet">
+<item>Method: Both GAAP and IFRS recommend and encourage the direct method of preparing the statement of cash flows but allow the indirect method. Under US GAAP, if the direct method is used, a reconciliation between net income and operating income must also be presented. This reconciliation is not required under IFRS.</item>
+<item>Presentation: The three categories—Cash Flows from Operating Activities, Cash Flows from Investing Activities, and Cash Flows from Financing Activities—are required under both US GAAP and IFRS. US GAAP requires the presentation of only one year of information, while IFRS requires two years of data.</item>
+<item>Categorizing Transactions: IFRS is more flexible in where to present certain cash flow transactions than is US GAAP. This flexibility occurs around interest, dividends, and taxes. As shown in <link target-id="fs-idm396388736"/>, US GAAP is more rigid in reporting.</item>
+</list>
+<table id="fs-idm396388736" summary="No Summary" class="top-titled">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">Comparing GAAP and IFRS</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="center">US GAAP</entry>
+<entry valign="top" align="center">IFRS</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Interest paid</entry>
+<entry valign="top" align="left">Operating</entry>
+<entry valign="top" align="left">Operating or financing</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Interest received</entry>
+<entry valign="top" align="left">Operating</entry>
+<entry valign="top" align="left">Operating or investing</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dividends paid</entry>
+<entry valign="top" align="left">Financing</entry>
+<entry valign="top" align="left">Operating or financing</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dividends received</entry>
+<entry valign="top" align="left">Operating</entry>
+<entry valign="top" align="left">Operating or investing</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Taxes</entry>
+<entry valign="top" align="left">Operating</entry>
+<entry valign="top" align="left">Usually operating but option to dissect tax into operating and financing components</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm379219008">Understanding the impact of these potential differences is important. The statement of cash flows is used not only to evaluate from where a company receives and spends its cash, but also to predict future cash flows. The flexibility of these reporting items in the statement of cash flows can result in decreased comparability between similar companies using different reporting methods. For example, Free Cash Flow (Operating Cash Flows less Capital Expenditures), will have different results if interest and dividends are classified in sections other than operating activities.</para>
+<para id="fs-idm382151616">Let’s consider an example: World-Wide Co. is headquartered in London and currently reports under US GAAP because it is traded on the New York Stock Exchange (NYSE). World-Wide is considering switching to reporting under IFRS to make the company more comparable to its competitors, since most of them use IFRS. World-Wide has the following information in the operating activities section of its most recent statement of cash flows.</para>
+<media id="fs-idm388499824" class="scaled-down" alt="Cash flows from operating activities $2,500,000, including cash interest payments of 200,000, cash interest received of 90,000, taxes paid of 125,000, and cash dividends received of 50,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_06_CFOp_img.jpg"/>
+</media>
+<para id="fs-idm389635248">World-Wide had $1,000,000 in capital expenditures during the year, and they paid dividends of $80,000 to shareholders.</para>
+<para id="fs-idm395796192">Based on this information, World-Wide’s Free Cash Flow would be as follows:</para>
+<media id="fs-idm405926992" class="scaled-down" alt="Free cash flow equals cash from operating activities minus capital expenditures.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_06_FCFEq_img.jpg"/>
+</media>
+<para id="fs-idm390467920">or</para>
+<para id="fs-idm406729376"><emphasis class="centered-text">$2,500,000 − $1,000,000 = $1,500,000</emphasis></para>
+<para id="fs-idm386779008">If World-Wide switches to IFRS reporting, it has determined that its cash interest payments would be classified as financing activities because the payments are related to long-term debt. The interest received is from a short-term receivable and thus will remain classified as an operating activity, but the dividends received are from a long-term investment and will be reclassified to an investing activity. And, $60,000 of the taxes have been identified as being associated with tax consequences of an investing opportunity and therefore will be reclassified as an investing activity. With these reclassifications, the free cash flow of World-Wide would be as follows:</para>
+<para id="fs-idm400818832"><emphasis class="centered-text">FCF = ($2,500,000 + $200,000 − $50,000 + $60,000) − 1,000,000 = $1,710,000</emphasis></para>
+<para id="fs-idm383177216">The take-away from this example is that the flexibility afforded by IFRS can have an impact on comparability between companies.</para>
+<para id="fs-idm410939008">These, and other differences, between US GAAP and IFRS arise because of the more rules-based nature of the standards put forth by FASB versus the more principles-based rules set forth by IASB. The IASB, in creating IFRS standards, follows a substance-over-form viewpoint that allows firms more flexibility in assessing the intent of transactions. Anytime more judgement is allowed and/or utilized, there must be adequate disclosure to explain the chosen reporting methodology.</para>
+</note>
+</section>
+<section id="fs-idm255129952" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm376238752" list-type="bulleted" bullet-style="bullet">
+<item>Free cash flow relates to the amount of expected cash from operations which is left over after planned capital expenditures and dividends are paid.</item>
+<item>The cash flow to assets ratio correlates the company’s free cash flow to its total asset value.</item>
+<item>The cash flow to sales ratio considers free cash flow in relation to the company’s sales revenue.</item>
+</list>
+</section>
+<section id="fs-idm382708496" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm381045296">
+<problem id="fs-idm400753408">
+<para id="fs-idm376509824"><link class="lo-reference" document="m67934"/>Which of the following is a stronger indicator of cash flow flexibility?</para>
+<list id="fs-idm397716464" list-type="enumerated" number-style="upper-alpha">
+<item>cash flow from operating activities</item>
+<item>cash flow to sales ratio</item>
+<item>free cash flow</item>
+<item>all three indicate comparable degrees of flexibility</item>
+</list>
+</problem>
+<solution id="fs-idm408510560">
+<para id="fs-idm410867840">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm406714608" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm395702640">
+<problem id="fs-idm407744704">
+<para id="fs-idm405992688"><link class="lo-reference" document="m67934"/>What insight does the calculation of free cash flow provide about the company’s cash flow position?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm410798576" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm393772512">
+<problem id="fs-idm405171888">
+<para id="fs-idm410011760"><link class="lo-reference" document="m67934"/>Use the following excerpts from Kirsten Company’s Statement of Cash Flows and other financial records to determine the company’s free cash flow.</para>
+<media id="fs-idm376549120" class="scaled-down" alt="Statement of cash flows: Cash flow from operating activities $135,000 minus cash flows from investing activities of (50,000) plus cash flows from financing activities of 65,000. From other records: Cash capital expenditures 75,000 and cash dividends paid 15,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_06_EA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm391843632">
+<problem id="fs-idm382189360">
+<para id="fs-idm396070768"><link class="lo-reference" document="m67934"/>Use the following excerpts from Franklin Company’s statement of cash flows and other financial records to determine the company’s free cash flow for 2018 and 2017.</para>
+<media id="fs-idm402895456" alt="Cash flows from operating activities 2018: $222,000; 2017: $200,000; cash flows from investing activities 2018: (33,000); 2017: (35,000); cash flows from financing activities 2018: 66,000; 2017: 60,000. Capital expenditures were 50 percent of investing activities, both years and cash dividends paid were $15,000, both years.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_06_EA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm369250368">
+<problem id="fs-idm375502784">
+<para id="fs-idm395084768"><link class="lo-reference" document="m67934"/>The following are excerpts from Hamburg Company’s statement of cash flows and other financial records.</para>
+<media id="fs-idm382595104" alt="Statement of cash flows: Cash flow from operating activities $100,000; cash flows from investing activities (50,000); cash flows from financing activities (25,000). From other records: Cash capital expenditure costs 20,000; cash dividend payments 22,500; sales revenue 221,000; and total assets 302,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_06_EA03_img.jpg"/>
+</media>
+<para id="fs-idm397660560">Compute the following for the company:</para>
+<list id="fs-idm409472176" list-type="enumerated" number-style="upper-alpha">
+<item>free cash flow</item>
+<item>cash flows to sales ratio</item>
+<item>cash flows to assets ratio</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm409443424" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm409464736">
+<problem id="fs-idm390181152">
+<para id="fs-idm400750656"><link class="lo-reference" document="m67934"/>Use the following excerpts from Indira Company’s Statement of Cash Flows and other financial records to determine the company’s free cash flow.</para>
+<media id="fs-idm370012320" class="scaled-down" alt="Statement of cash flows: Cash flow from operating activities $98,700; cash flows from investing activities 125,000; cash flows from financing activities (16,500). From other records: Cash capital expenditures 40,000 and cash dividends paid 12,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_06_EB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm381443968">
+<problem id="fs-idm402158112">
+<para id="fs-idm408542112"><link class="lo-reference" document="m67934"/>Use the following excerpts from Bolognese Company’s statement of cash flows and other financial records to determine the company’s free cash flow for 2018 and 2017.</para>
+<media id="fs-idm338318752" alt="Cash flows from operating activities, cash flows from investing activities, cash flows from financing activities 2018, respectively: $121,000, (56,000), (12,000). Cash flows from operating activities, cash flows from investing activities, cash flows from financing activities 2017, respectively: $114,000, (40,000), (15,000). Capital expenditures were 40% of investing activities, both years. Cash dividends paid were $20,000, both years.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_06_EB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm406325632">
+<problem id="fs-idm380809632">
+<para id="fs-idm406813232"><link class="lo-reference" document="m67934"/>The following shows excerpts from Camole Company’s statement of cash flows and other financial records.</para>
+<media id="fs-idm370015168" class="scaled-down" alt="From statement of cash flows: Cash flows from operating activities 225,000. Cash flows from investing activities (75,000). Cash flows from financing activities 61,500. From other records: Capital expenditure costs 144,000. Cash dividends payments 36,000. Sales revenues 642,000. Total assets 450,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_06_EB03_img.jpg"/>
+</media>
+<para id="fs-idm395623888">Compute the following for the company:</para>
+<list id="fs-idm403366944" list-type="enumerated" number-style="upper-alpha">
+<item>free cash flow</item>
+<item>cash flows to sales ratio</item>
+<item>cash flows to assets ratio</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm381215248" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm386618832">
+<problem id="fs-idm385589600">
+<para id="fs-idm379672864"><link class="lo-reference" document="m67934"/>The following shows excerpts from financial information relating to Aspen Company and Bergamot Company.</para>
+<media id="fs-idm379384944" class="scaled-down" alt="Aspen Company Net Cash Flows from Operating Activities $320,000. Total Assets 450,400. Net Income 300,000. Sales Revenue 463,500. Capital Expenditures 120,750. Dividend Payments 25,000. Bergamot Company Net Cash Flows from operating activities $486,900. Total Assets 625,000. Net Income 550,200. Sales Revenue 875,000. Capital Expenditures 250,000. Dividend Payments 65,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_06_PA01_img.jpg"/>
+</media>
+<para id="fs-idm381386096">Compute the following for both companies. Compare your results.</para>
+<list id="fs-idm383813168" list-type="enumerated" number-style="upper-alpha">
+<item>free cash flow</item>
+<item>cash flows to sales ratio</item>
+<item>cash flows to assets ratio</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm397998128" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm388436416">
+<problem id="fs-idm378586912">
+<para id="fs-idm361850064"><link class="lo-reference" document="m67934"/>The following shows excerpts from financial information relating to Stanwell Company and Thodes Company.</para>
+<media id="fs-idm391716656" alt="Stanwell Company Net Cash Flows from Operating Activities $138,000. Total Assets 272,000. Net Income 35,000. Sales Revenue 385,000. Capital Expenditures 28,000. Dividend Payments 17,000. Thodes Company Net Cash Flows from Operating Activities $115,000. Total Assets 350,000. Net Income 32,000. Sales Revenue 250,000. Capital Expenditures 60,000. Dividend Payments 13,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_06_PB01_img.jpg"/>
+</media>
+<para id="fs-idm392362960">Compute the following for both companies. Compare your results.</para>
+<list id="fs-idm389473152" list-type="enumerated" number-style="upper-alpha">
+<item>free cash flow</item>
+<item>cash flows to sales ratio</item>
+<item>cash flows to assets ratio</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm372938768" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm405004096">
+<problem id="fs-idm403470736">
+<para id="fs-idm376120528"><link class="lo-reference" document="m67934"/>If you had $100,000 available for investing, which of these companies would you choose to invest with? Support your answer with analysis of free cash flow, based on the data provided, and include in your decision whatever other reasoning you chose to utilize.</para>
+<media id="fs-idm382237392" class="scaled-down" alt="Aswan Company From Statement of Cash Flows: Cash flow from operating activities 88,000. Cash flows from investing activities (30,000). Cash flows from financing activities 58,000. From other records: Capital expenditure costs 30,000. Cash dividends payments 32,000. Sales revenue 326,000. Net income 65,000. Total assets 150,000. Merrick Company From Statement of Cash Flows: Cash flow from operating activities 146,500. Cash flows from investing activities (50,000). Cash flows from financing activities (24,750). From other records: Capital expenditure costs 50,000. Cash dividends payments 52,000. Sales revenue 542,000. Net income 160,500. Total assets 350,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_06_TP01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm380962800">
+<term>free cash flow to assets ratio</term>
+<meaning id="fs-idm375539728">ratio of free cash flow to total assets</meaning>
+</definition>
+<definition id="fs-idm391808720">
+<term>free cash flow</term>
+<meaning id="fs-idm380545360">operating cash, reduced by expected capital expenditures and by cash dividends payments</meaning>
+</definition>
+<definition id="fs-idm377782192">
+<term>free cash flow to sales ratio</term>
+<meaning id="fs-idm394248720">ratio of free cash flow to sales revenue</meaning>
+</definition>
+</glossary>
+</document>

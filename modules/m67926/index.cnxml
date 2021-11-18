@@ -1,0 +1,235 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Discuss and Record Entries for the Dissolution of a Partnership</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67926</md:content-id>
+  <md:title>Discuss and Record Entries for the Dissolution of a Partnership</md:title>
+  <md:abstract/>
+  <md:uuid>14823edd-2646-4f92-b643-fd931ed2f440</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm529277760">Partnerships dissolve. Sometime the decision is made to close the business. Sometimes there is a bankruptcy. Partner negligence, retirement, death, poor cash flow, and change in business practices are just some of the reasons for closing down.</para>
+<note id="fs-idm271955920" class="ethical-considerations">
+<title>Ethical Partnership Dissolution</title>
+<para id="fs-idm275027088">In most dissolutions of a partnership, the business partners need to decide what will happen to the partnership itself. A partnership may be dissolved, but that may not end business operations. If the partnership’s business operations are to continue, the partnership must decide what to do with its customers or clients, particularly those primarily served by a partner leaving the business. An ethical partnership will notify its customers and clients of the change and whether and how the partnership is going to continue as a business under a new partnership agreement. Partners who are unable to agree on how to notify their customers and clients should look to the Uniform Partnership Act, Article 8, which outlines the general obligations and duties of partners when a partnership is dissolved.</para>
+<para id="fs-idm277936224">A partner’s duties and obligation upon dissolution describe what the departing partner owes to the partnership and the other partners in duties of loyalty and care, which are the basic fiduciary duties of a partner prior to dissolution, as outlined in Section 409 of the Uniform Partnership Act. The one change upon dissolution is that “each partner’s duty not to compete ends when the partnership dissolves.” The Act states that “the dissolution of a partnership is the change in the relation of the partners caused by any partner ceasing to be associated in the carrying on as distinguished from the winding up of the business.”<footnote id="fs-idm272296512">Uniform Law Commission. <emphasis effect="italics">Uniform Partnership Act</emphasis> (1997) (Last Amended 2013). https://www.uniformlaws.org/viewdocument/final-act-with-comments-118?CommunityKey=52456941-7883-47a5-91b6-d2f086d0bb44&amp;tab=librarydocuments</footnote> This may not terminate the partnership’s business operations, but the partner’s obligations under the dissolved partnership agreement will end, regardless of how the remaining partners create a new partnership.</para>
+<para id="fs-idm237822848">The departure or removal of a partner or partners and the resulting creation of a new partnership may be tricky, because all original partners owe each other the duty of fairness and loyalty until the dissolution has been completed. All the partners, departing or otherwise, are required to behave in a fashion that does not hurt business operations and avoid putting their individual interests ahead of the interests of the soon-to-be-dissolved partnership. Once the partnership has been dissolved, the departing partners no longer have an obligation to their old business partners.</para>
+</note>
+<section id="fs-idm282112304">
+<title>Fundamentals of Partnership Dissolution</title>
+<para id="fs-idm283736384">The <term>liquidation</term> or <term class="no-emphasis">dissolution</term> process for partnerships is similar to the liquidation process for corporations. Over a period of time, the partnership’s non-cash assets are converted to cash, creditors are paid to the extent possible, and remaining funds, if any, are distributed to the partners. Partnership liquidations differ from corporate liquidations in some respects, however:</para>
+<list id="fs-idm271941840" list-type="enumerated" number-style="arabic">
+<item>General partners, as you may recall, have unlimited liability. Any general partner may be asked to contribute additional funds to the partnership if its assets are insufficient to satisfy creditors’ claims.</item>
+<item>If a general partner does not make good on his or her deficit capital balance, the remaining partners must absorb that deficit balance. Absorption of the partner’s deficit balance gives the absorbing partner legal recourse against the deficit partner.</item>
+</list>
+</section>
+<section id="fs-idm277405904">
+<title>Recording the Dissolution Process</title>
+<para id="fs-idm277329664">As discussed above, the liquidation or dissolution of a partnership is synonymous with closing the business. This may occur due to mutual partner agreement to sell the business, the death of a partner, or bankruptcy. Before proceeding with liquidation, the partnership should complete the accounting cycle for its final operational period. This will require closing the books with only balance sheet accounts remaining. Once that process has been completed, four steps remain in the accounting for the liquidation, each requiring an accounting entry. They are:</para>
+<list id="fs-idm272479216" list-type="bulleted" bullet-style="bullet">
+<item>Step 1: Sell noncash assets for cash and recognize a gain or loss on <term>realization</term>. Realization is the sale of noncash assets for cash.</item>
+<item>Step 2: Allocate the gain or loss from realization to the partners based on their income ratios.</item>
+<item>Step 3: Pay partnership liabilities in cash.</item>
+<item>Step 4: Distribute any remaining cash to the partners on the basis of their capital balances.</item>
+</list>
+<para id="fs-idm237734896">These steps must be performed in sequence. Partnerships must pay creditors prior to distributing funds to partners. At liquidation, some partners may have a deficiency in their capital accounts, or a debit balance.</para>
+<para id="fs-idm277041616">Let’s consider an example. Football Partnership is liquidated; its balance sheet after closing the books is shown in <link target-id="OSX_Acct_F15_05_FBBS"/>.</para>
+<figure id="OSX_Acct_F15_05_FBBS" class="scaled-down">
+<media id="fs-idm239186080" alt="Football Partnership, Balance Sheet, For the Month Ended December 31, 2019. Assets: Cash $5,000; Accounts Receivable 10,000; Inventory 22,000; Equipment 30,000; Less Accumulated Depreciation (5,000); Total Assets $62,000. Liabilities and Partner Capital: Notes Payable $15,000; Accounts Payable 15,000; Raven, Capital 15,000; Brown, Capital 10,000; Eagle, Capital 7,000; Total Liabilities and Partner Capital $62,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F15_05_FBBS.jpg"/>
+</media>
+<caption>Balance Sheet for Football Partnership. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm266539744">The partners of Football Partnership agree to liquidate the partnership on the following terms:</para>
+<list id="fs-idm274200912" list-type="enumerated" number-style="arabic">
+<item>All the partnership assets will be sold to Hockey Partnership for $60,000 cash.</item>
+<item>The partnership will satisfy the liabilities.</item>
+<item>The income ratio will be 3:2:1 to partners Raven, Brown, and Eagle respectively. (Another way of saying this is 3/6:2/6:1/6.)</item>
+<item>The remaining cash will be distributed to the partners based on their capital account basis.</item>
+</list>
+<para id="fs-idm275196752">The journal entry to record the sale of assets to Hockey Partnership (Step 1) is as shown:</para>
+<media id="fs-idm280040032" alt="Journal entry dated January 1, 2020. Debit Cash 60,000; Accumulated Depreciation 5,000; Credit Accounts receivable 10,000; Inventory 22,000; Equipment 30,000; Gain on Realization 3,000. Explanation: “To record the sale of assets to Hockey Partnership.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F15_05_Journ01_img.jpg"/>
+</media>
+<para id="fs-idm278412016">The journal entry to allocate the gain on realization among the partners’ capital accounts in the income ratio of 3:2:1 to Raven, Brown, and Eagle, respectively (Step 2), is as shown:</para>
+<media id="fs-idm270399472" class="scaled-down" alt="Journal entry dated January 1, 2020. Debit Gain on realization, 3,000. Credit Raven, Capital (three-sixth times $3,000), 1,500; Brown, Capital (two-sixth times $3,000), 1,000; Eagle, Capital (one-sixth times $3,000), 500. Explanation: “To allocate gain on realization among partner capital accounts.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F15_05_Journ03_img.jpg"/>
+</media>
+<para id="fs-idm270485264">The journal entry for Football Partnership to pay off the liabilities (Step 3) is as shown:</para>
+<media id="fs-idm271901184" alt="Journal entry dated January 1, 2020. Debit Notes payable 15,000; Accounts payable 15,000. Credit Cash 30,000. Explanation: “To record payment of liabilities.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F15_05_Journ02_img.jpg"/>
+</media>
+<para id="fs-idm277142736">The journal entry to distribute the remaining cash to the partners based on their capital account basis (Step 4) is as shown:</para>
+<media id="fs-idm247439488" alt="Journal entry dated January 1, 2020. Debit Raven, Capital 16,500; Brown, Capital 11,000; Eagle, Capital 7,500. Credit Cash, 35,000. Explanation: “To distribute remaining cash to the partners based on their capital account balances.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F15_05_Journ04_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm275041824" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm270967904" list-type="bulleted" bullet-style="bullet">
+<item>There are times, such as following bankruptcy, death, or retirement, when a partnership ceases operation.</item>
+<item>The following four accounting steps must be taken, in order, to dissolve a partnership: sell noncash assets; allocate any gain or loss on the sale based on the income-sharing ratio in the partnership agreement; pay off liabilities; distribute any remaining cash to partners based on their capital account balances.</item>
+</list>
+</section>
+<section id="fs-idm247936432" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm278353056">
+<problem id="fs-idm272824144">
+<para id="fs-idm274508176"><link class="lo-reference" document="m67926"/>When a partnership dissolves, the first step in the dissolution process is to ________.</para>
+<list id="fs-idm272942352" list-type="enumerated" number-style="upper-alpha">
+<item>allocate the gain or loss on sale based on income sharing ratio</item>
+<item>pay off liabilities</item>
+<item>sell noncash assets</item>
+<item>divide the remaining cash among the partners</item>
+</list>
+</problem>
+<solution id="fs-idm531198832">
+<para id="fs-idm262329424">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm274075888">
+<problem id="fs-idm269717232">
+<para id="fs-idm269146416"><link class="lo-reference" document="m67926"/>When a partnership dissolves, the last step in the dissolution process is to ________.</para>
+<list id="fs-idm278739280" list-type="enumerated" number-style="upper-alpha">
+<item>allocate the gain or loss on sale based on income sharing ratio</item>
+<item>pay off liabilities</item>
+<item>sell noncash assets</item>
+<item>divide the remaining cash among the partners</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm273838272">
+<problem id="fs-idm284101600">
+<para id="fs-idm269672336"><link class="lo-reference" document="m67926"/>Prior to proceeding with the liquidation, the partnership should ________.</para>
+<list id="fs-idm271999728" list-type="enumerated" number-style="upper-alpha">
+<item>prepare adjusting entries without closing</item>
+<item>complete the accounting cycle for final operational period</item>
+<item>prepare only closing entries</item>
+<item>complete financial statements only</item>
+</list>
+</problem>
+<solution id="fs-idm262368432">
+<para id="fs-idm281732032">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm273744160" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm247981264">
+<problem id="fs-idm268400624">
+<para id="fs-idm238030016"><link class="lo-reference" document="m67926"/>Why do partnerships dissolve?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm278745808">
+<problem id="fs-idm272634704">
+<para id="fs-idm273478128"><link class="lo-reference" document="m67926"/>What are the four steps involved in liquidating a partnership?</para>
+</problem>
+<solution id="fs-idm271847872">
+<para id="fs-idm270956944">1. sell noncash assets, 2. allocate any gain or loss, 3. fulfill liabilities, and 4. distribute remaining cash</para>
+</solution>
+</exercise>
+<exercise id="fs-idm268845792">
+<problem id="fs-idm274370928">
+<para id="fs-idm277673136"><link class="lo-reference" document="m67926"/>When a partner withdraws from the firm, which accounts are affected?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm282831296">
+<problem id="fs-idm280920656">
+<para id="fs-idm271943456"><link class="lo-reference" document="m67926"/>What is the first step in a partnership liquidation (termination and sale of assets)?</para>
+</problem>
+<solution id="fs-idm270298688">
+<para id="fs-idm272208992">Sell non-cash assets</para>
+</solution>
+</exercise>
+<exercise id="fs-idm273489456">
+<problem id="fs-idm273712480">
+<para id="fs-idm273366048"><link class="lo-reference" document="m67926"/>When a partnership liquidates, do partners get paid first or do creditors get paid first?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm278784752">
+<problem id="fs-idm269566432">
+<para id="fs-idm271705312"><link class="lo-reference" document="m67926"/>Coffee Partners decides to close due to the increased competition from the national chains. If after liquidating the noncash assets there is not enough cash to cover accounts payable, what happens?</para>
+</problem>
+<solution id="fs-idm272103840">
+<para id="fs-idm272755632">The general partners would be expected to make the vendors whole.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm271977616" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm276658352">
+<problem id="fs-idm271458016">
+<para id="fs-idm274562832"><link class="lo-reference" document="m67926"/>Cheese Partners has decided to close the store. At the date of closing, Cheese Partners had the following account balances:</para>
+<media id="fs-idm283646704" class="scaled-down-30" alt="Capital $9,000; Cash $6,000; Inventory $15,000; Store fixtures $10,000; Accounts payable $22,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F15_05_EA01_img.jpg"/>
+</media>
+<para id="fs-idm262382048">A competitor agrees to buy the inventory and store fixtures for $20,000. Prepare the journal entries detailing the liquidation, assuming that partners Colette and Swarma are sharing profits on a 50:50 basis:</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm274791488" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm269095584">
+<problem id="fs-idm247767664">
+<para id="fs-idm266568128"><link class="lo-reference" document="m67926"/>When a partnership is liquidated, any gains or losses realized by the sale of noncash assets are allocated to the partners based on their income sharing ratio. Why?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm270787392" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm271684736">
+<problem id="fs-idm282565472">
+<para id="fs-idm238017072"><link class="lo-reference" document="m67926"/>Match each of the following descriptions with the appropriate term related to partnership accounting.</para>
+<table id="fs-idm276664032" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">A. Each and every partner can enter into contracts on behalf of the partnership</entry>
+<entry valign="top" align="left">i. liquidation</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">B. The business ceases operations.</entry>
+<entry valign="top" align="left">ii. capital deficiency</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C. How partners share in income and loss</entry>
+<entry valign="top" align="left">iii. admission of a new partner</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">D. Adding a new partner by contributing cash</entry>
+<entry valign="top" align="left">iv. mutual agency</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">E. A partner account with a debit balance</entry>
+<entry valign="top" align="left">v. income sharing ratio</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm269651616" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm268445792">
+<problem id="fs-idm271633392">
+<para id="fs-idm277923440"><link class="lo-reference" document="m67926"/>A partnership is thriving. The three partners get along well; they complement each other’s skill sets and enjoy each other’s company. One of the partners, Melinda, begins to behave differently. She begins coming to work late or not at all. On several occasions she is spotted leaving the hotel next door in the afternoon. The other partners are concerned about the change in her behavior. They confront her and Melinda denies that anything is different. She points out that her work is still getting done and that she wants a little more flexibility in her hours. The other partners are not convinced and decide to terminate the partnership agreement. Can the other partners break the agreement? What considerations must the partners take into account?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm276679056">
+<term>liquidation</term>
+<meaning id="fs-idm269712544">(also, dissolution) process of selling off non-cash assets</meaning>
+</definition>
+<definition id="fs-idm278769024">
+<term>realization</term>
+<meaning id="fs-idm270927824">the sale of noncash assets for cash</meaning>
+</definition>
+</glossary>
+</document>

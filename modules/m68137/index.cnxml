@@ -1,0 +1,566 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Calculate Activity-Based Product Costs</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68137</md:content-id>
+  <md:title>Calculate Activity-Based Product Costs</md:title>
+  <md:abstract/>
+  <md:uuid>5aa838c5-9c86-4ad7-b30c-518690a9d8f7</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm358863600">As technology changes the ratio between direct labor and overhead, more overhead costs are linked to drivers other than direct labor and machine hours. This shift in costs gives companies the opportunity to stop using the traditional single predetermined overhead rate applied to all units of production and instead use an overhead allocation approach based on the actual activities that drive overhead. Making this change allows management to obtain more accurate product cost information, which leads to more informed decisions. <term>Activity-based costing</term> (ABC) is the process that assigns overhead to products based on the various activities that drive overhead costs.</para>
+<section id="fs-idm364959360">
+<title>Historical Perspective on Determination of Manufacturing Overhead Allocation</title>
+<para id="fs-idm364861264">All products consist of material, labor, and overhead, and the major cost components have historically been materials and labor. Manufacturing overhead was not a large cost of the product, so an overhead allocation method based on labor or machine hours was logical. For example, as shown in <link target-id="OSX_Acct_M06_01_X01" document="m68135"/>, Musicality determined the direct costs and direct labor for their three products: Solo, Band, and Orchestra. Under the traditional method of costing, the predetermined overhead rate of $2 per direct labor hour was computed by dividing the estimated overhead by the estimated direct labor hours. Based on the number of direct labor hours and the number of units produced for each product, the overhead per product is shown in <link target-id="OSX_Acct_M06_01_X02" document="m68135"/>.</para>
+<para id="fs-idm362338560">As technology costs decreased and production methods became more efficient, overhead costs changed and became a much larger component of product costs. For many companies, and in many cases, overhead costs are now significantly larger than labor costs. For example, in the last few years, many industries have increased technology, and the amount of overhead has doubled.<footnote id="fs-idm371622560">Mary Ellen Biery. “A Sure-Fire Way to Boost the Bottom Line.” <emphasis effect="italics">Forbes</emphasis>. January 12, 2014. https://www.forbes.com/sites/sageworks/2014/01/12/control-overhead-compare-industry-data/#47a9ea69d068</footnote> Technology has changed the manufacturing labor force, and therefore, the type and cost of labor associated with those jobs have changed. In addition, technology has made it easier to track the various activities and their related overhead costs.</para>
+<media id="fs-idm362563984" alt="Many manufacturing companies use MRP (material requirements planning) or ERP (enterprise resource planning) systems. MRP helps management organize the planning, scheduling, and tracking of materials while ERP systems help plan, organize, and track the materials as well as the accounting, marketing, supply chain, and other management functions.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_MRP_img.jpg"/>
+</media>
+<para id="fs-idm360892736">Costs can be gathered on a unit level, batch level, product level, or factory level. The idea behind these various levels is that at each level, there are additional costs that are encountered, so a company must decide at which level or levels it is best for the company to accumulate costs. A <term>unit-level cost</term> is incurred each time a unit of product is produced and includes costs such as materials and labor. A <term>batch-level cost</term> is incurred every time a batch of items is manufactured, for example, costs associated with purchasing and receiving materials. A <term>product-level cost</term> is incurred each time a product is produced and includes costs such as engineering costs, testing costs, or quality control costs. A <term>factory-level cost</term> is incurred because products are being produced and includes costs such as the plant supervisor’s salary and rent on the factory building. By definition, indirect labor is not traced to individual products. However, it is possible to track some indirect labor to several jobs or batches. A similar amount of information can be derived for indirect material. An example of an indirect material in some manufacturing processes is cleaning solution. For example, one type of cleaning solution is used in the manufacturing of pop sockets. It is not practical to measure every ounce of cleaning solution used in the manufacture of an individual pop socket; rather, it makes sense to allocate to a particular batch of pop sockets the cost of the cleaning solution needed to make that batch. Likewise, a manufacturer of frozen french fries uses a different type of solution to clean potatoes prior to making the french fries and would allocate the cost of the solution based on how much is used to make each batch of fries.</para>
+</section>
+<section id="fs-idm371606160">
+<title>Establishing an Activity-Based Costing System</title>
+<para id="fs-idm374536176">ABC is a five-stage process that allocates overhead more precisely than traditional allocation does by applying it to the products that use those activities. ABC works best in complex processes where the expenses are not driven by a single cost driver. Instead, several cost drivers are used as the overhead costs are analyzed and grouped into activities, and each activity is allocated based on each group’s cost driver. The five stages of the ABC process are:</para>
+<list id="fs-idm372372176" list-type="enumerated" number-style="arabic">
+<item>Identify the activities performed in the organization</item>
+<item>Determine activity cost pools</item>
+<item>Calculate activity rates for each cost pool</item>
+<item>Allocate activity rates to products (or services)</item>
+<item>Calculate unit product costs</item>
+</list>
+<para id="fs-idm363316800">The first step is to identify activities needed for production. An activity is an action or process involved in the production of inventory. There can be many activities that consume resources, and management will need to narrow down the activities to those that have the biggest impact on overhead costs. Examples of these activities include:</para>
+<list id="fs-idm359302432" list-type="bulleted" bullet-style="bullet">
+<item>Taking orders</item>
+<item>Setting up machines</item>
+<item>Purchasing material</item>
+<item>Assembling products</item>
+<item>Inspecting products</item>
+<item>Providing customer service</item>
+</list>
+<para id="fs-idm373227072">The second step is assigning overhead costs to the identified activities. In this step, overhead costs are assigned to each of the activities to become a cost pool. A <term>cost pool</term> is a list of costs incurred when related activities are performed. <link target-id="fs-idm377843088"/> illustrates the various cost pools along with their activities and related costs.</para>
+<table id="fs-idm377843088" class="top-titled" summary="Assessment information"><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Cost Pools and Their Activities and Related Costs</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Cost Pool</entry>
+<entry valign="bottom" align="left">Activities and Related Costs</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Production</entry>
+
+<entry><list id="eip-idm494126304"><item>Indirect labor setting up machines</item>
+<item>Indirect labor cost of accepting and verifying orders</item>
+<item>Machine maintenance costs</item>
+<item>Costs to operate the machine: utilities, insurance, etc.</item></list></entry>
+</row>
+
+<row valign="top">
+<entry valign="top" align="left">Purchasing material</entry>
+
+<entry><list id="eip-idm949874208"><item>Preparing purchase requisitions for the material</item>
+<item>Cost to move material from receiving department into production</item>
+<item>Depreciation of equipment used to move material</item></list></entry>
+</row>
+
+<row valign="top">
+<entry valign="top" align="left">Inspect products</entry>
+<entry><list id="eip-idm677959632"><item>Inspection supervisor costs</item>
+<item>Cost to move product to and from the inspection area</item></list></entry>
+</row>
+
+<row valign="top">
+<entry>Assemble products</entry>
+<entry><list id="eip-idm526891840"><item>Cost of assembly machine</item>
+<item>Cost of label machine</item>
+<item>Cost of labels</item></list></entry>
+</row>
+
+<row valign="top">
+<entry>Technological production</entry>
+<entry><list id="eip-idm611269232"><item>Website maintenance</item>
+<item>Depreciation of computers</item></list></entry>
+</row>
+</tbody>
+</tgroup>
+</table><para id="fs-idm357754512">For example, the production cost pool consists of costs such as indirect labor for those accepting the order, verifying the customer has credit to pay for the order, maintenance and depreciation on the machines used to produce the orders, and utilities and rent for operating the machines. <link target-id="OSX_Acct_M06_03_CostPools"/> illustrates how the costs in each pool are allocated to each product in a different proportion.</para>
+<figure id="OSX_Acct_M06_03_CostPools">
+<media id="fs-idm368059312" alt="A picture of two jars of coins labeled “Product A” and “Product B.” Three uneven stacks of coins labeled “Customer order cost pool, Production order cost pool, and Inspection cost pool” are going into each of the jars with arrows labeled “Applied.” The contents of the jars are labeled “Total costs.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_CostPools.jpg"/>
+</media>
+<caption>Allocating Overhead by Cost Pool. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm356137152">Once the costs are grouped into similar cost pools, the activities in each pool are analyzed to determine which activity “drives” the costs in that pool, leading to the third step of ABC: identify the cost driver for each cost pool and estimate an annual level of activity for each cost driver. As you’ve learned, the cost driver is the specific activity that drives the costs in the cost pools. <link target-id="fs-idm357830224"/> shows some activities and cost drivers for those activities.</para>
+<table id="fs-idm357830224" class="top-titled" summary="Assessment information">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Activities and Their Common Cost Drivers</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Cost Pool</entry>
+<entry valign="bottom" align="left">Cost Driver</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Customer order</entry>
+<entry valign="bottom" align="left">Number of orders</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Production</entry>
+<entry valign="bottom" align="left">Machine setups</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Purchasing materials</entry>
+<entry valign="bottom" align="left">Purchase requisitions</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Assembling products</entry>
+<entry valign="bottom" align="left">Direct labor hours</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Inspecting products</entry>
+<entry valign="bottom" align="left">Inspection hours</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Customer service</entry>
+<entry valign="bottom" align="left">Number of contacts with customer</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm374591216">The fourth step is to compute the predetermined overhead rate for each of the cost drivers. This portion of the process is similar to finding the traditional predetermined overhead rate, where the overhead rate is divided by direct labor dollars, direct labor hours, or machine hours. Each cost driver will have its own overhead rate, which is why ABC is a more accurate method of allocating overhead.</para>
+<para id="fs-idm358388320">Finally, step five is to allocate the overhead costs to each product. The predetermined overhead rate found in step four is applied to the actual level of the cost driver used by each product. As with the traditional overhead allocation method, the actual overhead costs are accumulated in an account called manufacturing overhead and then applied to each of the products in this step.</para>
+<para id="fs-idm356634688">Notice that steps one through three represent the process of allocating overhead costs to activities, and steps four and five represent the process of allocating the overhead costs that have been assigned to activities to the products to which they pertain. Thus, the five steps of ABC involve two major processes: first, allocating overhead costs to the various activities to get a cost per activity, and then allocating the cost per activity to each product based on that product’s usage of the activities.</para>
+<para id="fs-idm356804912">Now that the steps involved have been detailed, let’s demonstrate the calculations using the Musicality example.</para>
+<note id="fs-idm370994144" class="your-turn">
+<title>Comparing Estimates to Actual Costs</title>
+<para id="fs-idm362693856">A company has determined that its estimated 500,000 machine hours is the optimal driver for its estimated $1,000,000 machine overhead cost pool. The $750,000 in the material overhead cost pool should be allocated using the estimated 15,000 material requisition requests. How much is over- or underapplied if there were actually 490,000 machine hours and 15,500 material requisitions that resulted in $950,000 in the machine overhead cost pool, and $780,000 in the material cost pool? What does this difference indicate?</para>
+<para id="fs-idm366885168"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm366884416">The predetermined overhead rate is $2 per machine hour ($1,000,000/500,000 machine hours) and $50 per material requisition ($750,000/15,000 requisitions). The actual and applied overhead can then be calculated to determine whether it is over- or underapplied:</para>
+<media id="fs-idm366884032" alt="Comparison of Actual and Applied Overhead for Machine Overhead and Material Overhead. Machine Overhead: $2 Rate per machine hour x 490,000 Actual machine hours = 980,000 Applied resulting in a $30,000 difference Overapplied. Material Overhead: $50 Rate per Requisition x 15,500 requisitions = 775,000 Applied, resulting in a $(5,000) difference Underapplied.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_YT01Sn_img.jpg"/>
+</media>
+<para id="fs-idm360596576">The difference is a combination of factors. There were fewer machine hours than estimated, but there was also less overhead than estimated. There were more requisitions than estimated, and there was also more overhead.</para>
+</note>
+</section>
+<section id="fs-idm358174112">
+<title>The Calculation of Product Costs Using the Activity-Based Costing Allocation Method</title>
+<para id="fs-idm358173472">Musicality is considering switching to an activity-based costing approach for determining overhead and has collected data to help them decide which overhead allocation method they should use. Performing the analysis requires these steps:</para>
+<list id="fs-idm358173088" list-type="enumerated" number-style="arabic">
+<item>Identify cost pools necessary to complete the product. Musicality determined its cost pools are:
+<list id="fs-idm367226688" list-type="bulleted" bullet-style="bullet">
+<item>Setting up machines</item>
+<item>Purchasing material</item>
+<item>Inspecting products</item>
+<item>Assembling products</item>
+<item>Technological production</item>
+</list></item>
+<item>Assign overhead cost to the cost pools. Musicality has estimated the overhead for each cost pool to be:<newline/>
+<media id="fs-idm379471776" class="scaled-down" alt="Estimated Overhead Costs for each Activity are: Setting up Machines $200,000; Purchasing Material 500,000; Inspecting Products 300,000; Assembling Products 600,000; Technological Production 900,000; Total $2,500,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_MEtOH_img.jpg"/>
+</media></item>
+<item>Identify the cost driver for each activity, and estimate an annual activity for each driver. Musicality determined the driver and estimated activity for each product to be the following:<newline/>
+<media id="fs-idm378225760" alt="Expected Cost Driver Activities for Solo, Band, Orchestra, and Total, respectively. Machine Setups: 2,000, 1,500, 1,500, 5,000. Number of Purchase Requisitions: 5,000, 4,000, 1,000, 10,000. Inspection Hours: 10,000, 9,000, 1,000, 20,000 Number of Parts Requiring Labor: 15,000, 3,000, 12,000, 30,000 Machine Hours: 80,000, 60,000, 10,000, 150,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_MOHperCD_img.jpg"/>
+</media></item>
+<item>Compute the predetermined overhead for each cost driver. Musicality determined this predetermined overhead rate for each driver:<newline/>
+<media id="fs-idm356948992" alt="Activity, Cost Driver, Estimated Overhead Costs, Total Activity, and ABC Rate per Activity, respectively, for each activity is: Setting Up Machines, Machine setups, $200,000, 5,000, $40. Purchasing Material, Number of purchase requisitions, 500,000, 10,000, 50. Inspecting Products, Inspection hours, 300,000, 20,000, 15. Assembling Products, Number of parts requiring labor, 600,000, 30,000, 20. Technological Production, Machine hours, 900,000, 150,000, 6. Total Estimated Overhead Costs are $2,500,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_MABRat_img.jpg"/>
+</media></item>
+<item>Allocate overhead costs to products. Assuming Musicality’s activities were as estimated, the amount allocated to each product is:<newline/>
+<media id="fs-idm358144320" alt="Expected Cost Driver Activities for Solo, Band, Orchestra, and Total, respectively. Machine Setups: $80,000, $60,000, $60,000, $200,000. Inspection Hours: 150,000, 135,000, 15,000, 300,000. Number of Purchase Requisitions: 250,000, 200,000, 50,000, 500,000. Number of Parts Requiring Labor: 300,000, 60,000, 240,000, 600,000. Machine Hours: 480,000, 360,000, 60,000, 900,000. Total Overhead: $1,260,000, $815,000, $425,000, $2,500,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_MACprD_img.jpg"/>
+</media></item>
+</list>
+<para id="fs-idm362511472">Now that Musicality has applied overhead to each product, they can calculate the <term class="no-emphasis">cost per unit</term>. Management can review its sales price and make necessary decisions regarding its products. The overhead cost per unit is the overhead for each product divided by the number of units of each product:</para>
+<media id="fs-idm362510464" alt="Overhead per Unit calculations for Solo, Band, Orchestra, and Total, respectively. Total Overhead: $1,260,000, $815,000, $425,000, $2,500,000. Divided by Number Units: 140,000, 100,000, 250,000, 490,000. Equals Overhead per Unit: $9.00, $8.15, $1.70.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_MOHpU_img.jpg"/>
+</media>
+<para id="fs-idm362509104">The overhead per unit can be added to the unit cost for direct material and direct labor to compute the total product cost per unit:</para>
+<media id="fs-idm362508576" class="scaled-down" alt="Calculation of Cost per Unit via ABC for Solo, Band, and Orchestra, respectively. Direct Materials per Unit: $3.50, $6.00, $11.70. Plus Direct Labor per Unit: 10.00, 2.75, 4.30. Plus Overhead per Unit: 9.00, 8.15, 1.70. Equals Cost per Unit via ABC: $22.50, $16.90, $17.70.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_MABCP_img.jpg"/>
+</media>
+<para id="fs-idm368165568">The sales price was set after management reviewed the product cost with traditional allocation along with other factors such as competition and product demand. The current sales price, cost of each product using ABC, and the resulting gross profit are shown in <link target-id="OSX_Acct_M06_03_MGPbyABC"/>.</para>
+<figure id="OSX_Acct_M06_03_MGPbyABC">
+<media id="fs-idm368301392" class="scaled-down" alt="Calculation of Gross Profit per unit for Solo, Band, and Orchestra, respectively. Sales Price: $20, 25, 30. Less Cost per Unit (ABC): 22.50, 16.90, 17.70. Equals Gross Profit (loss) per Unit: $(2.50), $8.10, $12.30.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_MGPbyABC.jpg"/>
+</media>
+<caption>Solo's Sales Price, ABC Costing, and Gross Profit. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm370979584">The loss on each sale of the Solo product was not discovered until the company did the calculations for the ABC method, because the sales of the other products were strong enough for the company to retain a total gross profit.</para>
+<para id="fs-idm375868672">Additionally, the more accurate gross profit for each product calculated using ABC is shown in <link target-id="OSX_Acct_M06_03_MGPProfABC"/>:</para>
+<figure id="OSX_Acct_M06_03_MGPProfABC">
+<media id="fs-idm365191936" alt="Calculation of Total Gross Profit for Solo, Band, Orchestra, and Total, respectively. Number of Units Sold: 150,000, 110,000, 200,000, 460,000. ABC Costing Sales: $3,000,000, $2,750,000, $6,000,000, $11,750,000. Less Cost of Goods Sold: 3,375,000, 1,859,000, 3,540,000, 8,744,000. Equals Gross Profit (loss): $(375,000), $891,000, $2,460,000, $2,976,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_MGPProfABC.jpg"/>
+</media>
+<caption>Solo's Gross Profit by Product. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm366888560">The calculations Musicality did in order to switch to ABC revealed that the Solo product was generating a loss for every unit sold. Knowing this information will allow Musicality to consider whether they should make changes to generate a profit from the Solo product, such as increase the selling price or carefully analyze the costs to identify potential cost reductions. Musicality could also decide to continue selling Solo at a loss, because the other products are generating enough profit for the company to absorb the Solo product loss and still be profitable. Why would a company continue to sell a product that is generating a loss? Sometimes these products are ones for which the company is well known or that draw customers into the store. For example, companies will sometimes offer extreme sales, such as on Black Friday, to attract customers in the hope that the customers will purchase other products. This information shows how valuable ABC can be in many situations for providing a more accurate picture than traditional allocation.</para>
+</section>
+<section id="fs-idm364632144">
+<title>The Service Industries and Their Use of the Activity-Based Costing Allocation Method</title>
+<para id="fs-idm370263376">ABC costing was developed to help management understand manufacturing costs and how they can be better managed. However, the service industry can apply the same principles to improve its cost management. Direct material and direct labor costs range from nonexistent to minimal in the service industry, which makes the overhead application even more important. The number and types of cost pools may be completely different in the service industry as compared to the manufacturing industry. For example, the health-care industry may have different overhead costs and cost drivers for the treatment of illnesses than they have for injuries. Some of the overhead related to monitoring a patient’s health status may overlap, but most of the overhead related to diagnosis and treatment differ from each other.</para>
+<note id="fs-idm360596064" class="link-to-learning">
+<para id="fs-idm360595568">Activity-based costing is not restricted to manufacturing. Service industries also have cost drivers and can benefit from analyzing what drives their costs. See this <link url="https://openstax.org/l/50ABC">report on activity-based costing at <emphasis class="colored-text">UPS</emphasis></link> for an example.</para>
+</note>
+</section>
+<section id="fs-idm360593632" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm360592752" list-type="bulleted" bullet-style="bullet">
+<item>Costs can be traced to the unit level or batch level.</item>
+<item>There are five steps in the ABC process:
+<list id="fs-idm367379216" list-type="bulleted" bullet-style="bullet">
+<item>identify activities needed for production</item>
+<item>assign overhead expenses</item>
+<item>assign a cost driver for each expense</item>
+<item>determine a predetermined overhead rate</item>
+<item>allocate overhead to each product</item>
+</list></item></list>
+</section>
+<section id="fs-idm368192848" class="multiple-choice">
+<exercise id="fs-idm368188848">
+<problem id="fs-idm378325792">
+<para id="fs-idm374617104"><link class="lo-reference" document="m68137"/>Which of the following is a reason a company would implement activity-based costing?</para>
+<list id="fs-idm370399488" list-type="enumerated" number-style="upper-alpha">
+<item>The cost of record keeping is high.</item>
+<item>The additional data obtained through traditional allocation are not worth the cost.</item>
+<item>They want to improve the data on which decisions are made.</item>
+<item>A company only has one cost driver.</item>
+</list>
+</problem>
+<solution id="fs-idm376876112">
+<para id="fs-idm379620816">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm369491648">
+<problem id="fs-idm375608976">
+<para id="fs-idm365026864"><link class="lo-reference" document="m68137"/>Which is the correct formula for computing the overhead rate?</para>
+<list id="fs-idm367096400" list-type="enumerated" number-style="upper-alpha">
+<item>estimated use of the cost driver for production/estimated overhead for the activity</item>
+<item>estimated overhead for the product/estimated use of the cost driver for the activity</item>
+<item>estimated use of the cost driver for production/estimated overhead for the activity</item>
+<item>estimated overhead for the activity/estimated use of the cost driver for the activity</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm367060128">
+<problem id="fs-idm368341536">
+<para id="fs-idm378053856"><link class="lo-reference" document="m68137"/>A company anticipates the cost to heat the building will be $21,000. Product A takes up 500 square feet of space, while Product B takes up 200 square feet. The activity rate per product using activity-based costing would be which of the following?</para>
+<list id="fs-idm378220128" list-type="enumerated" number-style="upper-alpha">
+<item>$30/square foot</item>
+<item>$4.20/square foot</item>
+<item>$11/square foot</item>
+<item>$15.20/square foot</item>
+</list>
+</problem>
+<solution id="fs-idm362204880">
+<para id="fs-idm375600336">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm360469920">
+<problem id="fs-idm375408128">
+<para id="fs-idm359778240"><link class="lo-reference" document="m68137"/>A company calculated the predetermined overhead based on an estimated overhead of $70,000, and the activity for the cost driver was estimated as 2,500 hours. If product A utilized 1,350 hours and product B utilized 1,100 hours, what was the total amount of overhead assigned to the products?</para>
+<list id="fs-idm357802496" list-type="enumerated" number-style="upper-alpha">
+<item>$35,000</item>
+<item>$30,800</item>
+<item>$37,800</item>
+<item>$68,600</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm357799072">
+<problem id="fs-idm357798816">
+<para id="fs-idm357798560"><link class="lo-reference" document="m68137"/>Which is <emphasis effect="italics">not</emphasis> a step in activity-based costing?</para>
+<list id="fs-idm357796944" list-type="enumerated" number-style="upper-alpha">
+<item>identify the activities performed by the organization</item>
+<item>identify the cost driver(s) associated with each activity</item>
+<item>compute a cost rate per production</item>
+<item>assign costs to products by multiplying the cost driver rate by the volume of the cost driver units consumed by the product</item>
+</list>
+</problem>
+<solution id="fs-idm357742864">
+<para id="fs-idm367163376">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm367668256">
+<problem id="fs-idm356786336">
+<para id="fs-idm368255920"><link class="lo-reference" document="m68137"/>What is the proper order of tasks in an ABC system?</para>
+<list id="fs-idm365401856" list-type="enumerated" number-style="upper-alpha">
+<item>identify the cost drivers, assign the costs to the products, calculate the overhead application rate for each cost pool, identify the cost pools</item>
+<item>assign the costs to the products, identify the cost drivers, calculate the overhead application rate for each cost pool, identify the cost pools</item>
+<item>identify the cost drivers, identify the cost pools, calculate the overhead application rate for each cost pool, assign the costs to the products</item>
+<item>identify the cost pools, identify the cost drivers, calculate the overhead application rate for each cost pool, assign the costs to the products</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm356761712">
+<problem id="fs-idm368413616">
+<para id="fs-idm361961904"><link class="lo-reference" document="m68137"/>Which is not a task typically associated with ABC systems?</para>
+<list id="fs-idm360283088" list-type="enumerated" number-style="upper-alpha">
+<item>calculating the overhead application rate for each cost pool</item>
+<item>applying a single cost rate</item>
+<item>identifying a cost driver</item>
+<item>more correctly allocating overhead costs</item>
+</list>
+</problem>
+<solution id="fs-idm360601632">
+<para id="fs-idm374518432">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm364549488" class="questions">
+<exercise id="fs-idm370430896">
+<problem id="fs-idm364929696">
+<para id="fs-idm372547792"><link class="lo-reference" document="m68137"/>How is the primary focus of activity-based costing different from that of traditional allocation?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm367513088">
+<problem id="fs-idm365288512">
+<para id="fs-idm370900496"><link class="lo-reference" document="m68137"/>What are the primary differences between traditional and activity-based costing?</para>
+</problem>
+<solution id="fs-idm373211488">
+<para id="fs-idm356831904">Activity-based costing has multiple cost drivers and focuses on the overhead-related activities performed during manufacturing. Traditional allocation has a single unit-level base for allocating overhead and focuses on the units of production.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm374555024">
+<problem id="fs-idm371480432">
+<para id="fs-idm360388960"><link class="lo-reference" document="m68137"/>How are service companies similar or different from manufacturing companies in using ABC costing?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm360224832">
+<problem id="fs-idm360224576">
+<para id="fs-idm360224320"><link class="lo-reference" document="m68137"/>How are costs allocated in an ABC system?</para>
+</problem>
+<solution id="fs-idm360223424">
+<para id="fs-idm360223168">Estimated overhead costs are first allocated to activity cost pools. Then, an allocation rate is determined based on the estimated usage of the cost driver for that pool. Then the costs are allocated to each product based on that product’s cost driver usage.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm357715648" class="exercise-set-a">
+<exercise id="fs-idm371487600">
+<problem id="fs-idm374530304">
+<para id="fs-idm356736304"><link class="lo-reference" document="m68137"/>Rex Industries has two products. They manufactured 12,539 units of product A and 8,254 units of product B. The data are:</para>
+<media id="fs-idm378197536" class="scaled-down" alt="Activity in Cost Pool, Estimated Overhead, Product A, and Product B, respectively. Cost Pool 1. $45,900, 1,000, 500. Cost Pool 2. 67,300, 200, 800. Cost Pool 3. 25,200, 600, 5,400.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_EA01_img.jpg"/>
+</media>
+<para id="fs-idm358440416">What is the activity rate for each cost pool?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm358458832">
+<problem id="fs-idm371491696">
+<para id="fs-idm362140912"><link class="lo-reference" document="m68137"/>Rex Industries has identified three different activities as cost drivers: machine setups, machine hours, and inspections. The overhead and estimated usage are:</para>
+<media id="fs-idm368488880" class="scaled-down" alt="Activity, Overhead per Activity, and Annual Usage, respectively. Machine setups, $155,000, 4,000. Machine hours, 352,800, 14,112. Inspections, 120,750, 3,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_EA02_img.jpg"/>
+</media>
+<para id="fs-idm362506064">Compute the overhead rate for each activity.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm375368912">
+<problem id="fs-idm356784032">
+<para id="fs-idm375645152"><link class="lo-reference" document="m68137"/>Custom’s makes two types of hats: polyester (poly) and silk. There are two cost pools: setup, with an estimated $100,000 in overhead, and inspection, with $25,000 in overhead. Poly is estimated to have 750,000 setups and 170,000 inspections, while silk has 250,000 setups and 80,000 inspections. How much overhead is applied to each product?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm360221312">
+<problem id="fs-idm360221056">
+<para id="fs-idm360220800"><link class="lo-reference" document="m68137"/>Custom’s has three cost pools and an associated cost driver to allocate the costs to the product. The cost pools, cost driver, estimated overhead, and estimated activity for the cost pool are:</para>
+<media id="fs-idm360219584" alt="Cost Pool, Cost Driver, Estimated Activity per Driver, and Estimated Overhead, respectively. Material, Material requisitions, 14,000, $52,500. Machining, Machine hours, 186,400, 363,500. Inspection, Number of inspections, 10,000, 75,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_EA04_img.jpg"/>
+</media>
+<para id="fs-idm372626752">What is the predetermined overhead rate for each activity?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm368448496">
+<problem id="fs-idm367049376">
+<para id="fs-idm374481392"><link class="lo-reference" document="m68137"/>Potterii sells its products to large box stores and recently added a retail line of products to sell directly to consumers. These estimates are to be used in determining the overhead allocation rate for ABC:</para>
+<media id="fs-idm371625680" alt="Cost Pool, Cost Driver, Estimated Overhead, Wholesale, and Retail, respectively. Ordering, Number of orders, $120,000, 180,000, 60,000. Machine Setups, Number of setups, 85,000, 200,000, 140,000. Inspections, Number of inspections, 75,000, 60,000, 15,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_EA05_img.jpg"/>
+</media>
+<para id="fs-idm373174272">What would be the predetermined rate for each cost pool?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm359333504">
+<problem id="fs-idm371503984">
+<para id="fs-idm360605056"><link class="lo-reference" document="m68137"/>Assign each of the following expenses to either the machine setup cost pool or the factory cost pool:</para>
+<list id="fs-idm367152272" list-type="enumerated" number-style="upper-alpha">
+<item>indirect materials</item>
+<item>factory insurance</item>
+<item>machine depreciation</item>
+<item>machine setup (indirect labor)</item>
+<item>machine setup (indirect material)</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm356147392" class="exercise-set-b">
+<exercise id="fs-idm376832848">
+<problem id="fs-idm375465312">
+<para id="fs-idm363237040"><link class="lo-reference" document="m68137"/>Rocks Industries has two products. They manufactured 12,539 units of product A and 8,254 units of product B. The data are:</para>
+<media id="fs-idm360848160" class="scaled-down" alt="Activity in Cost Pool, Estimated Overhead, Product A, and Product B, respectively. Cost Pool 1. $32,400, 1,500, 3,000. Cost Pool 2. 54,900, 1,700, 1,300. Cost Pool 3. 51,380, 1,390, 1,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_EB01_img.jpg"/>
+</media>
+<para id="fs-idm375351392">What is the activity rate for each cost pool?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm377154832">
+<problem id="fs-idm357951152">
+<para id="fs-idm358793680"><link class="lo-reference" document="m68137"/>Rocks Industries has identified three different activities as cost drivers: machine setups, machine hours, and inspections. The overhead and estimated usage are:</para>
+<media id="fs-idm365364320" class="scaled-down" alt="Activity, Overhead per Activity, and Annal Usage, respectively. Machine Setups, $75,000, 6,000. Machine Hours, $85,002, 5,484. Inspections, 70,000, 20,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_EB02_img.jpg"/>
+</media>
+<para id="fs-idm358492976">Compute the overhead rate for each activity.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm364660608">
+<problem id="fs-idm368053120">
+<para id="fs-idm381020288"><link class="lo-reference" document="m68137"/>Frenchy’s makes two types of scarves: polyester (poly) and silk. There are two cost pools: setup, with an estimated $120,000 in overhead, and inspection, with $30,000 in overhead. Poly is estimated to have 800,000 setups and 450,000 inspections, while silk has 400,000 setups and 150,000 inspections. How much overhead is applied to each product?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm362864304">
+<problem id="fs-idm362864048">
+<para id="fs-idm362863792"><link class="lo-reference" document="m68137"/>Frenchy’s has three cost pools and an associated cost driver to allocate the costs to the product. The cost pools, cost driver, estimated overhead, and estimated activity for the cost pool are:</para>
+<media id="fs-idm362862576" alt="Cost Pool, Cost Driver, Estimated Activity per Driver, and Estimated Overhead, respectively. Material, Material requisitions, 250,000, $105,000. Machining, Machine hours, 360,750, 432,900. Inspection, Number of inspections, 25,000, 15,750.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_EB04_img.jpg"/>
+</media>
+<para id="fs-idm362861504">What is the predetermined overhead rate for each activity?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm362860864">
+<problem id="fs-idm362860608">
+<para id="fs-idm362860352"><link class="lo-reference" document="m68137"/>Carboni recently added a carbon line in addition to its aluminum line. The following are estimates to be used in determining the overhead allocation rate for ABC.</para>
+<media id="fs-idm362859408" alt="Cost Pool, Cost Driver, Estimated Overhead, Carbon, and Aluminum, respectively. Material Handling, Material requisitions, $45,000, 120,000, 60,000. Machine Setups, Number of setups, 55,000, 80,000, 30,000. Assembly, Number of parts, 25,000, 35,000, 15,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_EB05_img.jpg"/>
+</media>
+<para id="fs-idm362858336">What would be the predetermined rate for each cost pool?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm367280832">
+<problem id="fs-idm364661648">
+<para id="fs-idm372341840"><link class="lo-reference" document="m68137"/>Assign each of the following expenses to either the machine cost pool or the factory cost pool:</para>
+<list id="fs-idm369109632" list-type="enumerated" number-style="upper-alpha">
+<item>property taxes</item>
+<item>heat and air-conditioning</item>
+<item>electricity, machines</item>
+<item>plant depreciation</item>
+<item>electricity, plant</item>
+<item>machine maintenance wages</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm368975520" class="problem-set-a">
+<exercise id="fs-idm358494928">
+<problem id="fs-idm360876688">
+<para id="fs-idm357909408"><link class="lo-reference" document="m68137"/>Medical Tape makes two products: Generic and Label. It estimates it will produce 423,694 units of Generic and 652,200 of Label, and the overhead for each of its cost pools is as follows:</para>
+<media id="fs-idm368982064" class="scaled-down-30" alt="Cost Pool and Estimated Overhead are: Material receipts 133,000; Machine setups 300,000; Assembly 700,000; Inspection 250,000; Total 1,383,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_PA01a_img.jpg"/>
+</media>
+<para id="fs-idm364585552">It has also estimated the activities for each cost driver as follows:</para>
+<media id="fs-idm368435296" class="scaled-down-30" alt="Driver, Generic and Label, respectively. Inspections, 400, 600. Requisitions, 450, 950. Parts, 300, 400. Setups, 250, 350.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_PA01b_img.jpg"/>
+</media>
+<para id="fs-idm363325520">How much is the overhead allocated to each unit of Generic and Label?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm373189264">
+<problem id="fs-idm371510624">
+<para id="fs-idm366941904"><link class="lo-reference" document="m68137"/>Box Springs, Inc., makes two sizes of box springs: twin and double. The direct material for the twin is $25 per unit and $40 is used in direct labor, while the direct material for the double is $40 per unit, and the labor cost is $50 per unit. Box Springs estimates it will make 5,000 twins and 9,000 doubles in the next year. It estimates the overhead for each cost pool and cost driver activities as follows:</para>
+<media id="fs-idm356932208" alt="Activity Cost Pools, Driver, Estimated Overhead, Use per Twin, Use per Double, respectively. Framing, Square feet of pine, 210,000, 5,000, 2,000. Padding, Square feet of quilting, 220,000, 120,000, 100,000. Filling, Square feet of filling, 320,000, 500,000, 300,000. Labeling, Number of boxes, 240,000, 800,000, 400,000. Inspection, Number of inspections, 170,000, 12,000, 5,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_PA02_img.jpg"/>
+</media>
+<para id="fs-idm356930736">How much does each unit cost to manufacture?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm356930096">
+<problem id="fs-idm356929840">
+<para id="fs-idm356929584"><link class="lo-reference" document="m68137"/>Please use the information from <link target-id="fs-idm373189264" document="m68137">this problem</link> for these calculations. After grouping cost pools and estimating overhead and activities, Box Springs determined these rates:</para><media id="fs-idm356927984" class="scaled-down-30" alt="Purchasing (per order) $55. Utilities (per square foot) 3. Machine setups (per machine hour) 8. Supervision (per direct labor hour) 5.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_PA03a_img.jpg"/>
+</media>
+<para id="fs-idm356926640">It estimates there will be five orders in the next year, and those jobs will involve:</para>
+<media id="fs-idm356926256" class="scaled-down-30" alt="Orders 5. Square feet 200. Machine hours 50. Direct labor hours 35. Direct materials 1,500. Direct labor rate $25.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_PA03b_img.jpg"/>
+</media>
+<para id="fs-idm381009872">What is the total cost of the jobs?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm365301152" class="problem-set-b">
+<exercise id="fs-idm368037904">
+<problem id="fs-idm373375936">
+<para id="fs-idm359954960"><link class="lo-reference" document="m68137"/>Wrappers Tape makes two products: Simple and Removable. It estimates it will produce 369,991 units of Simple and 146,100 of Removable, and the overhead for each of its cost pools is as follows:</para>
+<media id="fs-idm358161760" class="scaled-down" alt="Cost Pools and Estimated Overhead are: Material receipts $249,975; Machine setups 150,000; Assembly 450,000; Machine maintenance 175,000; Total $1,024,975.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_PB01a_img.jpg"/>
+</media>
+<para id="fs-idm363170896">It has also estimated the activities for each cost driver as follows:</para>
+<media id="fs-idm362142912" class="scaled-down" alt="Driver, Simple, and Removable, respectively. Machine hours, 2,000, 1,500. Requisitions, 300, 450. Parts, 100, 200. Setups, 150, 50.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_PB01b_img.jpg"/>
+</media>
+<para id="fs-idm379125888">How much is the overhead allocated to each unit of Simple and Removable?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm379263488">
+<problem id="fs-idm379989696">
+<para id="fs-idm379353968"><link class="lo-reference" document="m68137"/>Box Springs, Inc., makes two sizes of box springs: queen and king. The direct material for the queen is $35 per unit and $55 is used in direct labor, while the direct material for the king is $55 per unit, and the labor cost is $70 per unit. Box Springs estimates it will make 4,300 queens and 3,000 kings in the next year. It estimates the overhead for each cost pool and cost driver activities as follows:</para>
+<media id="fs-idm360733712" alt="Activity Cost Pools, Driver, Estimated Overhead, Use per Queen, Use per King, respectively. Framing, Square feet of pine, $150,000, 4,500, 3,000. Padding, Square feet of quilting, 156,000, 80,000, 40,000. Filling, Square feet of filling, 210,000, 150,000, 60,000. Labeling, Number of boxes, 190,000, 38,000, 38,000. Inspection, Number of inspections, 180,000, 120,000, 60,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_PB02_img.jpg"/>
+</media>
+<para id="fs-idm360732240">How much does each unit cost to manufacture?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm360731600">
+<problem id="fs-idm360731344">
+<para id="fs-idm360731088"><link class="lo-reference" document="m68137"/>Please use the information from <link target-id="fs-idm379263488" document="m68137">this problem</link> for these calculations. After grouping cost pools and estimating overhead and activities, Box Springs determined these rates:</para><media id="fs-idm360729488" class="scaled-down-30" alt="Purchasing $21. Utilities 15. Machine setups 10. Supervision 3.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_PB03a_img.jpg"/>
+</media>
+<para id="fs-idm360728288">Box Springs estimates there will be four orders in the next year, and those jobs will involve:</para>
+<media id="fs-idm360727904" class="scaled-down-30" alt="Orders 4. Square feet 150. Machine hours 60. Direct labor hours 25. Direct materials 900. Direct labor rate 35">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M06_03_PB03b_img.jpg"/>
+</media>
+<para id="fs-idm377466112">What is the total cost of the jobs?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm379057968" class="thought-provokers">
+<exercise id="fs-idm379327712">
+<problem id="fs-idm381533456">
+<para id="fs-idm379356592"><link class="lo-reference" document="m68137"/>How would a service industry apply activity-based costing?</para>
+</problem>
+</exercise>
+</section>
+  </content>
+<glossary>
+<definition id="fs-idm358170464">
+<term>activity-based costing</term>
+<meaning id="fs-idm358169824">process of assigning overhead to products based on the cost driver for each activity cost pool</meaning>
+</definition>
+<definition id="fs-idm358169312">
+<term>batch-level cost</term>
+<meaning id="fs-idm358168640">one that is incurred when a group (or batch) of items is produced</meaning>
+</definition>
+<definition id="fs-idm358168128">
+<term>cost pool</term>
+<meaning id="fs-idm358167488">accumulation of costs that are incurred during the production of the activities included in the activity cost pool</meaning>
+</definition>
+<definition id="fs-idm358166848">
+<term>factory-level cost</term>
+<meaning id="fs-idm358166176">one that is incurred when production occurs, such as production supervisor salary</meaning>
+</definition>
+<definition id="fs-idm358165664">
+<term>product-level cost</term>
+<meaning id="fs-idm358164992">one that occurs as support of the product, such as engineering</meaning>
+</definition>
+<definition id="fs-idm358164480">
+<term>unit-level cost</term>
+<meaning id="fs-idm378464224">one that is incurred for each unit produced</meaning>
+</definition>
+</glossary>
+</document>

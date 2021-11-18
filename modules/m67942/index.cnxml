@@ -1,0 +1,396 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Define Managerial Accounting and Identify the Three Primary Responsibilities of Management</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67942</md:content-id>
+  <md:title>Define Managerial Accounting and Identify the Three Primary Responsibilities of Management</md:title>
+  <md:abstract/>
+  <md:uuid>ded7691c-5680-46e3-9f92-e5e72961e2d4</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm357818384">Financial accounting process provides a useful level of detail for external users, such as investors and creditors, but it does not provide enough detailed information for the types of decisions made in the day-to-day operation of the business or for the types of decisions that guide the company long term. <term>Managerial accounting</term> is the process that allows decision makers to set and evaluate business goals by determining what information they need to make a particular decision and how to analyze and communicate this information. Let’s explore the role of managerial accounting in several different organizations and at different levels of the organization, and then examine the primary responsibilities of management.</para>
+<para id="fs-idm365246096">Three friends who are recent graduates from business school, Alex, Hana, and Gillian, have each just begun their first postgraduation jobs. They meet for lunch and discuss what each of their jobs entails. Alex has taken a position as a market analyst for a Fortune 500 company that operates in the shipping industry. Her first assignment is to suggest and evaluate ways the company can increase the revenue from shipping contracts by 10 percent for the year. Before tackling this project, she has a number of questions. What is the purpose of this analysis? What type of information does she need? Where would she find this information? Can she get it from a basic income statement and balance sheet? How will she know if her suggestions for pricing are creating more shipping contracts and helping to meet the company’s goal? She begins with an analysis of the company’s top fifty customers, including the prices they pay, discounts offered, discounts applied, frequency of shipments, and so on, to determine if there are price adjustments that need to be made to attract those customers to use the company’s shipping services more frequently.</para>
+<para id="fs-idm370293584">Hana has a position in the human resources department of a pharmaceutical company and is asked to research and analyze a new trend in compensation in which employers are forgoing raises to employees and are instead giving large bonuses for meeting certain goals. Her task is to ascertain if this new idea would be appropriate for her company. Her questions are similar to Alex’s. What information does she need? Where would she find this information? How would she determine the impact of this type of change on the business? If implemented, what information would she need to assess the success of the plan?</para>
+<para id="fs-idm374536176">Gillian is working in the supply chain area of a major manufacturer that produces the various mirrors found on cars and trucks. Her first assignment is to determine whether it is more cost effective and efficient for her company to make or purchase a bracket used in the assembly of the mirrors. Her questions are also similar to her friends’ questions. Why is the company considering this decision? What information does she need? Where would she find this information? Would choosing the option with the lowest cost be the correct choice?</para>
+<para id="fs-idm365292432">The women are surprised by how similar their questions are despite how different their jobs are. They each are assigned tasks that require them to use various forms of information from many different sources to answer an important question for their respective companies. <link target-id="fs-idm358253376"/> provides possible answers to each of the questions posed in these scenarios.</para>
+<table id="fs-idm358253376" class="top-titled" summary="Assessment information">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Managerial Accounting and Various Business Roles</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="center">Questions</entry>
+<entry valign="top" align="center">Possible Answers</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="center" namest="c1" nameend="c2"><emphasis effect="bold">Alex, Marketing Analyst</emphasis></entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">What is the purpose of this analysis?</entry>
+<entry valign="bottom" align="left">To determine a better way to price their services</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">What type of information does she need?</entry>
+<entry valign="bottom" align="left">Financial and nonfinancial information, such as the number of contracts per client</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Where would she find this information?</entry>
+<entry valign="bottom" align="left">Financial statements, customer contracts, competitor information, and customer surveys</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Can she get it from a basic income statement and balance sheet?</entry>
+<entry valign="bottom" align="left">No, she would need to use many other sources of information</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">How will she know if her suggestions for pricing are creating more shipping contracts and helping to meet the company’s goal?</entry>
+<entry valign="bottom" align="left">By using a means to evaluate the success, such as by comparing the number of contracts received from each company before the new pricing structure with the number received after the pricing change of contracts</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold">Hana, Human Resources</emphasis></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">What information does she need?</entry>
+<entry valign="top" align="left">Financial and nonfinancial information, such as how other companies have implemented this idea, including the amount of the bonus and the types of measures on which the bonus was measured</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Where would she find this information?</entry>
+<entry valign="top" align="left">Mostly from internal company sources, such as employee performance records, but also from industry and competitor sources</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">How would she determine the impact of this type of change on the business?</entry>
+<entry valign="top" align="left">Perform surveys to determine the effect of the bonus method on employee morale and employee turnover; she could determine the effect on gross revenue of annual bonuses versus annual raises</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">If implemented, what information would she need to assess the success of the plan?</entry>
+<entry valign="top" align="left">Measuring employee turnover; evaluating employee satisfaction after the change; assessing whether the performance measures being used to determine the bonus were measures that truly impacted the company in a positive manner</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold">Gillian, Supply Chain</emphasis></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Why is the company considering this decision?</entry>
+<entry valign="top" align="left">Management likely wants to minimize costs, and this particular part is one they believe may be more cost effective to buy than to make</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">What information does she need?</entry>
+<entry valign="top" align="left">She needs the cost to buy the part as well as all the costs that would be incurred to make the part; whether her company has the ability (capacity) to make the part; the quality of the part if they buy it compared to if they make it; the ability of a supplier of the part to deliver on time</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Where would she find this information?</entry>
+<entry valign="top" align="left">She would find the information from internal records about production costs, from cost details provided by the external producer, and from industry reports on the quality of production from the external supplier</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Would choosing the option with the lowest cost be the correct choice?</entry>
+<entry valign="top" align="left">The lowest-cost option may not be the best choice if the quality is subpar, if the part is not delivered in a timely manner and thus throws off or slows production, or if the use of a purchased part will affect the relationship between the company and the car manufacturer to whom the mirror is ultimately sold</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm368444528">The questions the women have and the answers they require show that there are many types of information that a company needs to make business decisions. Although none of these individuals is given the title of manager, they need information to help provide management with the information necessary to make decisions to move the company forward with its strategic plan. The scenarios of the three women are not unique. These types of questions occur every day in businesses across the world.</para>
+<para id="fs-idm364149792">Some decisions will be more clearly appropriate for higher-level management. For example, Lynx Boating Company produces three different lines of boats (sport boats, pontoon boats, and large cruisers). All three boat lines are profitable, but the pontoon boat line seems to be less profitable than the other two types of boats. Management may want to consider abandoning the pontoon line and using that additional capacity to produce one of the other more profitable lines. They would need detailed financial information in order to make such a decision.</para>
+<note id="fs-idm357752064" class="link-to-learning">
+<para id="fs-idm360936528">This <link url="https://openstax.org/l/50Manufacturing">short video goes inside a manufacturing process</link> to show you how machines, people, planning, implementation, efficiency, and costs interact to arrive at a finished product.</para>
+</note>
+<para id="fs-idm370444000">Service organizations also face decisions that require more detailed information than is available in financial accounting statements. A company’s financial statements aggregate information for the company as a whole, but for most managerial decisions, information must be gathered in a timely manner at a product, customer, or division level. For example, the management of City Hospital is considering the purchase of four new magnetic resonance imaging (MRI) machines that scan three times faster than their current machines and thus would allow the hospital’s imaging department to evaluate eight additional patients each day. Each machine costs $425,000 and will last five years before needing to be replaced. Would this be a wise investment for City Hospital? Hospital management would need the appropriate information to assess the alternatives in order to make this decision. Throughout your study of managerial accounting, you will learn about the types of information needed to make these decisions, as well as techniques for analyzing this information. First, it is important to understand the various roles managers play in the organization in order to understand the types of information and the level of detail that are needed. Most of the job responsibilities of a manager fit into one of three categories: planning, controlling, or evaluating.</para>
+<para id="fs-idm370525024">The model in <link target-id="OSX_Acct_M01_01_MissionSt"/> sums up the three primary responsibilities of management and the managerial accountant’s role in the process. As you can see from the model, the function of accomplishing an entity’s mission statement is a circular, ongoing process.</para>
+<figure id="OSX_Acct_M01_01_MissionSt" class="scaled-down-30">
+<media id="fs-idm375858320" alt="This image shows a center circle labeled Mission Statement. Three smaller, connected circles are shown around the outside of the center circle. Clockwise from the top, they are labeled Planning, Evaluating, and Controlling.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M01_01_MissionSt.jpg"/>
+</media>
+<caption>The Process of Adhering to the Mission Statement. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<section id="fs-idm376096288">
+<title>Planning</title>
+<para id="fs-idm360948224">One of the first items on a new company’s agenda is the creation of a <term>mission statement</term>. A mission statement is a short statement of a company’s purpose and focus. This statement should be broad enough that it will encompass future growth and changes of the company. <link target-id="fs-idm376388736"/> contains the mission statement of three different types of companies: a manufacturer, an e-commerce company, and a service company.</para>
+<table id="fs-idm376388736" class="top-titled" summary="Assessment information">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Sample Mission Statements</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Company</entry>
+<entry valign="top" align="center">Mission Statement</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><emphasis class="colored-text">Dow Chemical</emphasis></entry>
+<entry valign="top" align="left">“To passionately create innovation for our stakeholders at the intersection of chemistry, biology, and physics.”<footnote id="fs-idm356853008">“Mission and Vision.” DOW. https://www.dow.com/en-us/about-dow/our-company/mission-and-vision</footnote></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis class="colored-text">Starbucks</emphasis></entry>
+<entry valign="top" align="left">“To inspire and nurture the human spirit—one person, one cup, and one neighborhood at a time.”<footnote id="fs-idm366660224">“Our Starbucks Mission Statement.” Starbucks. https://www.starbucks.com/about-us/company-information/mission-statement</footnote></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis class="colored-text">Google</emphasis></entry>
+<entry valign="top" align="left">“Our mission is to organize the world’s information and make it universally accessible and useful.”<footnote id="fs-idm364141248">“About.” Google. https://www.google.com/about/</footnote></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm381174832">Once the mission of the company has been determined, the company can begin the process of setting <term>goals</term>, or what the company expects to accomplish over time, and <term>objectives</term>, or the targets that need to be met in order to meet the company’s goals. This is known as <term>planning</term>. Planning occurs at all levels of an organization and can cover various periods of time. One type of planning, called <term>strategic planning</term>, involves setting priorities and determining how to allocate corporate resources to help an organization accomplish both short-term and long-term goals. For example, one hotel may want to be the low-price, no-frills, clean alternative, while another may decide to be the superior quality, high-price luxury hotel with many amenities. Obviously, to be successful, either of these businesses must determine the goals necessary to meet their particular strategy.</para>
+<para id="fs-idm373659472">Typically, a strategic plan will span any number of years an organization chooses (three, five, seven, or even ten years), and often companies will have multiple strategic plans, such as one for three years, one for five years, and one for ten years. Given the time length involved in many plans, the organization also needs to factor in the potential effects of changes in their senior executive leadership and the composition of the board of directors.</para>
+<para id="fs-idm374430704">What types of objectives are part of a strategic plan? Strategic objectives should be diverse and will vary from company to company and from industry to industry, but some general goals can include maximizing market share, increasing short-term profits, increasing innovation, offering the best value for the cost, maintaining commitment to community programs, and exceeding environmental protection mandates.</para>
+<para id="fs-idm362770192">From a managerial accounting perspective, planning involves determining steps or actions to meet the strategic or other goals of the company. For example, Daryn’s Dairy, a major producer of organic dairy products in the Midwest, has made increasing the market share of its products one of its strategic goals. However, to be truly effective, the goals need to be defined specifically. For example, the goals might be stated in terms of percentage growth, both annually and in terms of the number of markets addressed in their growth projections.</para>
+<para id="fs-idm370373568">Also, Daryn’s planning process would include the steps the company plans to use to implement to increase market share. These plans may include current-year plans, five-year plans, and ten-year plans.</para>
+<para id="fs-idm366469504">The current-year plan may be to sell the company’s products in 10 percent more stores in the states in which it currently operates. The five-year plan may be to sell the products internationally in three countries, and the ten-year plan may be to acquire their chief competitor and, thus, their customers. Each of these plans will require outlining specific steps to reach these goals and communicating those steps to the employees who will carry out or have an impact on reaching these goals and implementing these plans.</para>
+<para id="fs-idm373323472">Planning can involve financial and nonfinancial processes and measures. One planning tool discussed in <link document="m68063">Budgeting</link> is the budgeting process, which requires management to assess the resources—for example, time, money, and number and type of employees needed—to meet current-year objectives. Budgeting often includes both financial data, such as worker pay rates, and nonfinancial data, such as the number of customers an employee can serve in a given time period.</para>
+<para id="fs-idm373038656">A retail company can plan for the expected sales volume, a hospital can plan for the number of x-rays they expect to administer, a law firm can plan the hours expected for the various types of legal services they perform, a manufacturing firm can plan for the level of quality expected in each item produced, and a utility company can plan for the level of air pollutants that are acceptable. Notice that in each of these examples, the aspect of the business that is being planned and evaluated is a qualitative (nonfinancial) factor or characteristic. In your study of managerial accounting, you will learn about many situations in which both financial and nonfinancial data or information are equally relevant. However, the qualitative aspects are typically not quantified in dollars but evaluated using some other standards, such as customers served or students advised.</para>
+<para id="fs-idm326572624">While these functions are initially stated in qualitative terms, most of these items would at some point be translated into a dollar value or dollar effect. In each of these examples, the managerial accounting function would help to determine the variables that would help appropriately measure the desired goal as well as plan how to quantify these measures. However, measures are only useful if tracked and used to determine their effectiveness. This is known as the control function of management.</para>
+</section>
+<section id="fs-idm365532784">
+<title>Controlling</title>
+<para id="fs-idm365532144">To measure whether plans are meeting objectives or goals, management must put in place ways to assess success or lack of success. <term>Controlling</term> involves the monitoring of the planning objectives that were put into place. For example, if you have a retail store and you have a plan to minimize shoplifting, you can implement a control, such as antitheft tags that trigger an alarm when someone removes them from the store. You could also install in the ceilings cameras that provide a different view of customers shopping and therefore may catch a thief more easily or clearly. The antitheft tags and cameras serve as your controls against shoplifting.</para>
+<para id="fs-idm365530704">Managerial accounting is a useful tool in the management control function. Managerial accounting helps determine the appropriate controls for measuring the success of a plan. There are many types of controls that a company can use. Some controls can be in the form of financial measures, such as the ratio for inventory turnover, which is a measure of inventory control and is defined as Cost of Goods Sold ÷ Average Inventory, or in the form of a performance measure, such as decreasing production costs by 10 percent to help guide or control the decisions made by managers. Other controls can be physical controls, such as fingerprint identification or password protection. Essentially, the controlling function in management involves helping to coordinate the day-to-day activities of a business so that these activities lead to meeting corporate goals.</para>
+<para id="fs-idm358005952">Without controls, it is very unlikely a plan would be successful, and it would be difficult to know if your plan was a success. Consider the plan by Daryn’s Dairy to increase market share. The plan for the first year was to increase market share by selling the company’s products in 10 percent more stores in the states in which the company already operates. How will the company implement this plan? The implementation, or carrying out, of the plan will require the company to put controls in place to measure which new stores are successfully selling the company’s products, which products are being sold the most, what the sales volume and dollar value of the new stores are, and whether the sales in these new stores are affecting the volume of sales in current stores. Without this information, the company would not know if the plan is reaching the desired result of increased market share.</para>
+<para id="fs-idm375539520">The control function helps to determine the courses of action that are taken in the implementation of a plan by helping to define and administer the steps of the plan. Essentially, the control function facilitates coordination of the plan within the organization. It is through the system of controls that the actual results of decisions made in implementing a plan can be identified and measured. Managerial accounting not only helps to determine and design control measures, it also assists by providing performance reports and control reports that focus on variances between the planned objective performance and the actual performance. Control is achieved through effective feedback, or information that is used to assess a process. Feedback allows management to evaluate the results, determine whether progress is being made, or determine whether corrective measures need to be taken. This evaluation is in the next management function.</para>
+</section>
+<section id="fs-idm350547440">
+<title>Evaluating</title>
+<para id="fs-idm350546800">Managers must ultimately determine whether the company has met the goals set in the planning phase. <term>Evaluating</term>, also called <emphasis effect="italics">assessing</emphasis> or <emphasis effect="italics">analyzing</emphasis>, involves comparing actual results against expected results, and it can occur at the product, department, division, and company levels. When there are deviations from the stated objectives, managers must decide what modifications are needed.</para>
+<para id="fs-idm360535504">The controls that were put into place to coordinate the implementation of a particular company plan must be evaluated so that success can be measured, or corrective action can be taken. Consider Daryn’s Dairy’s one-year plan to increase market share by selling products in 10 percent more stores in the states in which the company currently operates. Suppose one of the controls put into place is to measure the sales in the current stores to determine if selling the company’s products in new stores is adding new sales or merely moving sales from existing stores. This control measure, same-store sales, must be evaluated to determine the effect of the decision to expand the selling of products within the state. This control measure will be evaluated by comparing sales in the current year in those stores to sales from the prior year in those same stores. The results of this evaluation will help guide management in their decision to move forward with their plan, to modify the plan, or to scrap the plan.</para>
+<para id="fs-idm356941312">As discussed previously, not all evaluations will involve quantitative or financial measures. In expanding market share, the company wants to maintain or improve its reputation with customers and does not want the planned increased availability or easier access to their products to decrease customer perceptions of the products or the company. They could use customer surveys to evaluate the perceived effect on the company’s reputation as a result of implementing this one-year plan. However, there are many ways that companies can evaluate various controls. In addition to the financial gauges, organizations are now measuring efficiencies, customer development, employee retention, and sustainability.</para>
+<para id="fs-idm360317968">Managers spend their time in various stages of planning, controlling, and evaluating. Generally, higher-level managers spend more time on planning, whereas lower-level managers spend more time on evaluating. At any level, managers work closely with the managerial accounting team to help in each of these stages. Managerial accountants help determine whether plans are measurable, what controls should be implemented to carry out a plan, and what are the proper means of evaluation of those controls. This would include the type of feedback necessary for management to assess the results of their plans and actions. Management accountants generate the reports and information needed to assess the results of the various evaluations, and they help interpret the results.</para>
+<para id="fs-idm360969296">To put this in context, think about how you will spend your weekend. First, you are the manager of your own time. You must plan based on your workload and on how much time you will spend studying, exercising, sleeping, and meeting with friends. You then control how your plan is implemented by setting self-imposed or possibly group meeting–imposed deadlines, and last, you evaluate how well you carried out your plan by gathering more data—such as grades on assignments, personal fulfillment, and number of hours of sleep—to determine if you met your plans (goals). Not planning, controlling, and evaluating often results in less-than-desirable outcomes, such as late assignments, too little sleep, or bad grades. In this scenario, you did not need a separate managerial accountant to help you with these functions, because you could manage planning, controlling, and evaluating on your own. However, in the business world, most businesses will have both managers and managerial accountants. <link target-id="fs-idm368571168"/> illustrates some examples.</para>
+<table id="fs-idm368571168" class="top-titled" summary="Assessment information">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Relating Managerial Accounting Functions to Various Business Majors</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="center">Sales</entry>
+<entry valign="bottom" align="center">Human Resources</entry>
+<entry valign="bottom" align="center">Logistics</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Planning</entry>
+<entry valign="top" align="left">What are our expected sales for each product in each geographic region?<newline/>How much should be budgeted for salaries and commissions for our salespeople?</entry>
+<entry valign="top" align="left">How much should we budget for salary and wage increases for the year?<newline/>How much should we plan to spend on safety and training for the year?</entry>
+<entry valign="top" align="left">Should we invest in radio-frequency identification (RFID) processors to enable computer tracking of inventory?<newline/>How much raw material should be ordered and delivered to ensure timely delivery of our finished products to our customers?</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Controlling</entry>
+<entry valign="top" align="left">Are we meeting expected sales growth in each region?<newline/>Are each of the salespeople meeting their sales projections?</entry>
+<entry valign="top" align="left">Is our projected budget for wages and salaries sufficient?<newline/>Are we meeting our safety and training goals?</entry>
+<entry valign="top" align="left">Are our products being delivered to our customers in a timely manner, and at what cost?<newline/>Are we dealing with stock-outs in inventory? If so, what is that costing us?</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Evaluating</entry>
+<entry valign="top" align="left">How do our actual sales compare to our forecasted or budgeted sales?<newline/>What sales promotions are our competitors offering, and what effect is it having on our market share?</entry>
+<entry valign="top" align="left">Would it be cheaper to hire temporary employees to get through our “busy” season or to pay our current employees for overtime?</entry>
+<entry valign="top" align="left">What are the cost differences in starting our own delivery service versus continuing to use other carriers?<newline/>Should we outsource the manufacturing of a component part or continue to make it ourselves? What are the price differences?</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-idm378418176" class="your-turn">
+<title>Evaluating On-Campus versus Off-Campus Living</title>
+<para id="fs-idm364566288">The principal purpose of managerial accounting is to deliver information useful for management decision-making. Many of the techniques used in managerial accounting are useful for decisions in your everyday life. In choosing whether to live on campus or off campus, how might you use planning, controlling, and evaluating in your decision-making process? What types of financial and nonfinancial information might you need?</para>
+<para id="fs-idm378584576"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm374362944">Planning:</para>
+<list id="fs-idm378156336" list-type="bulleted" bullet-style="bullet">
+<item>Creating a list of financial and nonfinancial goals to be accomplished in your next year in college</item>
+<item>Determining how much each alternative will cost, including utilities, food, and transportation, and creating a budget</item>
+</list>
+<para id="fs-idm380944384">Controlling:</para>
+<list id="fs-idm372366896" list-type="bulleted" bullet-style="bullet">
+<item>Using an expense recording app to monitor your expenses</item>
+<item>Monitoring the effectiveness of your study time as reflected in your grades</item>
+<item>Monitoring your physical health to measure if your living arrangements are conducive to staying healthy</item>
+</list>
+<para id="fs-idm360539152">Evaluating:</para>
+<list id="fs-idm375416624" list-type="bulleted" bullet-style="bullet">
+<item>Assessing the effectiveness of your living arrangements by measuring your grades, bank account, and general happiness</item>
+</list>
+<para id="fs-idm367379216">Financial:</para>
+<list id="fs-idm362733760" list-type="bulleted" bullet-style="bullet">
+<item>Cost of staying in dorm versus the cost of an apartment or house</item>
+<item>Estimate of differences in other costs, such as utilities, food, and additional transportation</item>
+</list>
+<para id="fs-idm356728928">Nonfinancial:</para>
+<list id="fs-idm382049568" list-type="bulleted" bullet-style="bullet">
+<item>Convenience of location of dorm versus apartment or house</item>
+<item>Quality of living experience including number of roommates, ability to have own room, study environment differences</item>
+<item>Length of rental term of dorm versus apartment or house</item>
+<item>Where you plan to live in the summer, what you plan to do during that time</item>
+</list>
+</note>
+<note id="fs-idm366753104" class="think-through">
+<title>US Small Business Administration</title>
+<para id="fs-idm363005024">Many students who study managerial accounting will work for a small business, and some may even own a small business. In order to operate a small business, you need an understanding of managerial accounting, among other skills. The US Small Business Administration is an agency within the federal government that has the sole purpose of supporting small businesses. You can find a plethora of information on their website, https://www.sba.gov/.</para>
+<list id="fs-idm326638640" list-type="enumerated" number-style="arabic">
+<item>What are some of the steps in creating a small business?</item>
+<item>What are the top ten reasons given for a business failure?</item>
+<item>How could an understanding of managerial accounting help a small business owner?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm368985952" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm357929152" list-type="bulleted" bullet-style="bullet">
+<item>The purpose of managerial accounting is to supply financial and nonfinancial information to the organization’s management and other internal decision makers.</item>
+<item>Most of the job responsibilities of a manager fit into one of three categories: planning, controlling, and evaluating.</item>
+<item>Planning involves setting goals and forming the plans to achieve those goals.</item>
+<item>Controlling involves the day-to-day activities. Its purpose is to help in planning functions and to facilitate coordination within the organization.</item>
+<item>Evaluation determines whether plans are being followed and whether progress is being made as planned toward the fulfillment of organizational goals and objectives. It also involves taking corrective measures in case of deviations identified in the course of action.</item>
+</list>
+</section>
+<section id="fs-idm360965472" class="multiple-choice">
+<exercise id="fs-idm360965088">
+<problem id="fs-idm360964832">
+<para id="fs-idm360964576"><link class="lo-reference" document="m67942"/>The managers of an organization are responsible for performing several broad functions. They are ________.</para>
+<list id="fs-idm373260528" list-type="enumerated" number-style="upper-alpha">
+<item>planning, controlling, and selling</item>
+<item>directing, controlling, and evaluating</item>
+<item>planning, evaluating, and manufacturing</item>
+<item>planning, controlling, and evaluating</item>
+</list>
+</problem>
+<solution id="fs-idm368424800">
+<para id="fs-idm372384224">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm322662688">
+<problem id="fs-idm365050736">
+<para id="fs-idm372569936"><link class="lo-reference" document="m67942"/>Management accountants help the management of an organization in their planning function through ________.</para>
+<list id="fs-idm357731664" list-type="enumerated" number-style="upper-alpha">
+<item>monitoring anti-theft systems</item>
+<item>strategic planning</item>
+<item>evaluating costs</item>
+<item>analyzing profits</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm362028432">
+<problem id="fs-idm364670912">
+<para id="fs-idm326626560"><link class="lo-reference" document="m67942"/>Which of the following is a primary aspect of the evaluating function within an organization?</para>
+<list id="fs-idm370518144" list-type="enumerated" number-style="upper-alpha">
+<item>comparing actual results against expected results for products, departments, divisions, or the company as a whole</item>
+<item>reviewing only the quantitative or financial results of the company</item>
+<item>setting goals</item>
+<item>putting controls in place for the upcoming year</item>
+</list>
+</problem>
+<solution id="fs-idm364724896">
+<para id="fs-idm380799296">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm368069840">
+<problem id="fs-idm375841840">
+<para id="fs-idm381007888"><link class="lo-reference" document="m67942"/>During the control function, the measurements taken of the performance must be accurate enough to see ________.</para>
+<list id="fs-idm375645152" list-type="enumerated" number-style="upper-alpha">
+<item>only positive results</item>
+<item>deviations and variances</item>
+<item>the primary focus</item>
+<item>only the negative results</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm374518432">
+<problem id="fs-idm365609824">
+<para id="fs-idm368448496"><link class="lo-reference" document="m67942"/>Which of the following is <emphasis effect="bold">false</emphasis> regarding strategic planning?</para>
+<list id="fs-idm368075152" list-type="enumerated" number-style="upper-alpha">
+<item>It is the sole responsibility of supervisors.</item>
+<item>It will span many years.</item>
+<item>It should include both short-term and long-term goals.</item>
+<item>Strategic objectives will be diverse and vary from company to company.</item>
+</list>
+</problem>
+<solution id="fs-idm367368832">
+<para id="fs-idm372338848">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm358035104" class="questions">
+<exercise id="fs-idm365373408">
+<problem id="fs-idm358380048">
+<para id="fs-idm359453104"><link class="lo-reference" document="m67942"/>Carlita believes an important part of the planning process for managers is being sure to position the company to achieve its goals. She thinks that positioning is an extensive concept and can depend on the right information and that managerial accountants assist in positioning the company. Is she correct? Explain.</para>
+</problem>
+<solution id="fs-idm322609184">
+<para id="fs-idm322608928">Answers will vary but should include that cost analysis, branding, pricing, and competition all fall under positioning, and this information comes from the managerial accounting staff. It is used to plan for future processes.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm322608288">
+<problem id="fs-idm322608032">
+<para id="fs-idm322607776"><link class="lo-reference" document="m67942"/>What are some activities and tasks a manager might perform when engaging in the controlling function of management responsibilities?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm359347824">
+<problem id="fs-idm364889808">
+<para id="fs-idm367209584"><link class="lo-reference" document="m67942"/>If there are deviations from the stated goals and objectives, what steps can managers take to get back on track? Provide at least two specific examples.</para>
+</problem>
+<solution id="fs-idm358571888">
+<para id="fs-idm374093136">Answers will vary but should include the following: Managers must determine what modifications and changes need to be made to operations to get back on track to meet the stated goals and objectives. Managers need to decide if stated goals and objectives should continue to be pursued as they are, or if they should be modified or completely scrapped. Examples may include revising inventory controls to include antitheft tags that trigger an alarm when inventory is moved from an approved location in order to reduce inventory losses; installing more cameras in more strategic locations to further reduce theft from shoplifting; revising the financial metrics such as ratios or other performance measurements to provide more meaningful and timely insight to help determine how to get back on track; investigating why market share has not changed as expected by talking to the sales force and analyzing market data; evaluating same-store sales to understand how to expand sales in accordance with goals and objectives; and investigating why a production process has experienced a bottleneck and how to relieve the pressure in that specific area, such as making sure appropriate raw materials are available in a timely manner to avoid machine shutdowns waiting on materials to arrive.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm367286064">
+<problem id="fs-idm359649824">
+<para id="fs-idm366659968"><link class="lo-reference" document="m67942"/>Explain how managerial accountants help managers plan, control, and evaluate.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm322602752" class="thought-provokers">
+<exercise id="fs-idm322602368">
+<problem id="fs-idm322602112">
+<para id="fs-idm322601856"><link class="lo-reference" document="m67942"/><link target-id="fs-idm368571168"/> shows how different areas within the business world use the information from managerial accountants. Think of the ways that the events coordinator for the <emphasis class="colored-text">United Way</emphasis> (a nonprofit charitable organization) would use each area (planning, controlling, and evaluation).</para>
+</problem>
+</exercise>
+<exercise id="fs-idm322599840">
+<problem id="fs-idm322599584">
+<para id="fs-idm322599328"><link class="lo-reference" document="m67942"/>There are individuals who are under the impression that managerial accounting provides services mainly for manufacturing organizations. Are they correct? Explain.</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm372480976">
+<term>controlling</term>
+<meaning id="fs-idm370556208">monitoring of the planning objectives that were put into place</meaning>
+</definition>
+<definition id="fs-idm372352560">
+<term>evaluating</term>
+<meaning id="fs-idm366612592">comparing actual results against the planned results</meaning>
+</definition>
+<definition id="fs-idm360604928">
+<term>goal</term>
+<meaning id="fs-idm356147520">what a company expects to accomplish over time</meaning>
+</definition>
+<definition id="fs-idm359704864">
+<term>managerial accounting</term>
+<meaning id="fs-idm364843216">process that allows decision makers to set and evaluate business goals by determining what information they need to make a particular decision and how to analyze and communicate this information</meaning>
+</definition>
+<definition id="fs-idm375547552">
+<term>mission statement</term>
+<meaning id="fs-idm356708640">short statement of a company’s purpose and focus</meaning>
+</definition>
+<definition id="fs-idm372367984">
+<term>objective</term>
+<meaning id="fs-idm359729040">target that needs to be met in order to meet company goals</meaning>
+</definition>
+<definition id="fs-idm375465184">
+<term>planning</term>
+<meaning id="fs-idm362558400">process of setting goals and objectives</meaning>
+</definition>
+<definition id="fs-idm358208032">
+<term>strategic planning</term>
+<meaning id="fs-idm348715056">setting priorities and determining how to allocate corporate resources to help an organization accomplish short-term and long-term goals</meaning>
+</definition>
+</glossary>
+</document>

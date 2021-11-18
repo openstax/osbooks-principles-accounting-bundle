@@ -1,0 +1,215 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Evaluate and Determine Whether to Sell or Process Further</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68085</md:content-id>
+  <md:title>Evaluate and Determine Whether to Sell or Process Further</md:title>
+  <md:abstract/>
+  <md:uuid>7cddbaee-893e-4dda-98e1-cd643e83542b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm245444992">One major decision a company has to make is to determine the point at which to sell their product—in other words, when it is no longer cost effective to continue processing the product before sale. For example, in refining oil, the refined oil can be sold at various stages of the refining process. The point at which some products are removed from production and sold while others receive additional processing is known as the <term>split-off point</term>. As you have learned, the relevant revenues and costs must be evaluated in order to make the best decision for the company.</para>
+<para id="fs-idm242249040">In making the decision, a company must consider the <term>joint costs</term>, or those costs that have been shared by products up to the split-off point. In some manufacturing processes, several end products are produced from a single raw material input. For example, once milk has been processed it can be sold as milk or it can be processed further into cheese, yogurt, cream, or ice cream. The costs of processing the milk to the stage at which it can be sold or processed further are the joint costs. These costs are allocated among all the products that are sold at the split off point as well as those products that are processed further. Ice cream has the basic costs of the milk plus the costs of processing it further into ice cream.</para>
+<para id="fs-idm212628352">As another example, suppose a company that makes leather jackets realizes it has a reasonable amount of unused leather from the cutting of the patterns for the jackets. Typically, this scrap leather is sold, but the company is beginning to consider using the scrap to make leather belts. How would the company allocate the costs incurred from processing and preparing the leather before cutting it if they decide to make both the jackets and the belts? Would it be financially beneficial to process the scrap leather further into belts?</para>
+<section id="fs-idm237785632">
+<title>Fundamentals of the Decision to Sell or Process Further</title>
+<para id="fs-idm245458192">When facing the choice of selling or processing further, the company must determine the revenues that would be received if the product is sold at the split-off point versus the net revenues that would be received if the product is processed further. This requires knowing the additional costs of further processing. In general, if the differential revenue from further processing is greater than the differential costs, then it will be profitable to process a joint product after the split-off point. Any costs incurred prior to the split-off point are irrelevant to the decision to process further as those are sunk costs; only future costs are relevant costs.</para>
+<para id="fs-idm238582480">Even though joint product costs are common costs, they are routinely allocated to the joint products. A potential reason for this treatment is the GAAP (generally accepted accounting principles) requirement that all production costs must be inventoried.</para>
+<para id="fs-idm237308160">Be aware that some complexities can arise when allocating joint product costs. The first issue is that joint production costs can be allocated based on varying production and sales characteristics or assumptions. For example, a physical measurement method, a relative sales value method at the point of split-off, and a net realizable value method based on additional processing after the split-off point can all be used to allocate joint production costs.</para>
+<para id="fs-idm238223264">A second complexity is that eliminating the production of one or more joint products will not always enable the company to reduce joint production costs. Because of the mechanics of the common cost allocation process, such an action will only work if reductions are made in all of the joint products collectively. If only some of the joint products are eliminated, the remaining joint product or products would absorb all of the joint product costs.</para>
+<para id="fs-idm232934080">An example of this last issue might help clarify the point. Assume that you have a lumber production company that cuts trees, prepares board lumber for housing and furniture, and also prepares sawdust and wood scraps that is used in the production of particle board. Assume that in a given year the company experienced $1,100,000 in joint costs. Using one of the three previously mentioned cost allocation methods, the company allocated $1,000,000 in joint costs to the production of board lumber and $100,000 to the production of wood scraps and sawdust.</para>
+<para id="fs-idm238594272">Assume that in the next year it also experienced $1,100,000 in joint costs. However, in that year, the company lost its buyer of wood scraps and sawdust, so it had to give both of them away, without generating any revenue. In this case, the company would still realize $1,100,000 in joint costs. However, the entire amount would be allocated to the production of the board lumber. The only way to reduce the joint costs is to realize joint costs of less than $1,000,000.</para>
+<note id="fs-idm235233664" class="your-turn">
+<title>Luxury Leathers</title>
+<para id="fs-idm240892544">Luxury Leathers, Inc., produces various leather accessories, such as belts and wallets. In the process of cutting out the leather pieces for each product, 400,000 pounds of scrap leather is produced. Luxury has been selling this leather scrap to Sammy’s Scrap Procurement for $2.25 per pound. Luxury has an employee suggestion box and one of the suggestions was to use most of the scrap to make leather watch bands. The management of Luxury is interested in this idea as the machines necessary to produce the watch bands are the same as the ones used in making belts and would merely need reprogramming for the cutting and stitching processes on the watch bands. The process to attach the buckle would be the same for the watch bands as it was for the belts, thus this would require no additional worker training. Luxury would have additional costs for new packaging and for the supply and insertion of the pins that connect the band to the watch. The total variable cost to produce the watch band would be $2.85. Fixed costs would increase by $85,000 per year for the lease of the packaging equipment, and Luxury estimates it could produce and sell 100,000 watch bands per year. Finished watch bands could be sold for $15.00 each. Should Luxury continue to sell the scrap leather or should Luxury process the scrap into watch bands to sell?</para>
+<para id="fs-idm239669824"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm237421344" alt="Sell at Split-Off: Selling price per lb of scrap $2.25 less Variable costs to sell of $0 equals Contribution margin of $2.25 times Units sold of 400,000 pounds for a Total contribution margin and Effect on operating income of $900,000. Process Further: Selling price per watch band $15.00 less Variable costs to sell of $2.85 equals Contribution margin of $12.15 times 100,000 Units sold for a Total contribution margin of $1,215,000 less Additional fixed costs of $85,000 equals Effect on operating income of $1,130,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_05_YT01Sn_img.jpg"/>
+</media>
+<para id="fs-idm239751984">Luxury should process the leather scrap further into watch bands. Not only does the act of processing the scrap further result in an increase in operating income, it offers Luxury another product line that may draw customers to its other products.</para>
+</note>
+</section>
+<section id="fs-idm236832736">
+<title>Sample Data</title>
+<para id="fs-idm237315440">Ainsley’s Apples grows organic apples and sells them to national grocery chains, local grocers, and markets. Ainsley purchased a machine for $450,000 that sorts the apples by size. The largest apples are sold as loose apples to the various stores, the medium sized apples are bagged and sold to the grocers in their bagged state, and the smallest apples are sold to deep discounters or to a local manufacturing plant that processes the apples into applesauce. Ainsley is considering keeping the small apples and processing them into apple juice that would be sold under Ainsley’s own label to local grocers. The small apples currently sell to the deep discounters and local manufacturers for $1.10 per dozen. The variable cost to prepare the small apples for sale, including transporting the apples, is $0.30 per dozen. Ainsley can sell each gallon of organic apple juice for $3.50 per gallon. It takes two dozen small apples to make one gallon of apple juice. The cost to produce the organic apple juice will be $0.60 variable cost per gallon plus $200,000 fixed costs for the one-year lease of the equipment needed to make and bottle the juice. Ainsley normally harvests and sells 2,400,000 small apples per year. Should Ainsley continue to sell the small apples to local grocers and the applesauce manufacturer or should Ainsley process the apples further into organic apple juice?</para>
+</section>
+<section id="fs-idm232987344">
+<title>Calculations of Sample Data</title>
+<para id="fs-idm235253168">In order to decide whether or not to process the small apples or to process them further into applesauce, Ainsley conducts an analysis of the relevant revenues and costs for the two alternatives: sell at split-off or process further into applesauce.</para>
+<media id="fs-idm239477232" alt="Sell at Split-Off: Selling price per dozen $1.10 less Variable costs to sell $0.30 equals Contribution margin $0.80 times 200,000* Units sold equals Total contribution margin and Effect on operating income of $160,000. Process Further: $3.50 Selling price per gallon less Variable costs to sell $0.60 equals Contribution margin $2.90 times 100,000** Units sold equals Total contribution margin of $290,000 less Additional fixed costs $200,000 equals Effect on operating income of $90,000. *2,400,000 divided by 12 equals 200,000 dozen. **200,000 dozen divided by 2 dozen per gallon equals 100,000 gallons.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_05_Ains_img.jpg"/>
+</media>
+<para id="fs-idm237890384">Ainsley should continue to sell the apples at split-off rather than process them further, as selling them generates a $160,000 increase in operating income compared to only $90,000 if she processes the apples further.</para>
+</section>
+<section id="fs-idm232896240">
+<title>Final Analysis of the Decision</title>
+<para id="fs-idm241683056">When making the decision to sell or process further, the company also must consider that processing a product further may create a new successful market or it may undercut sales of already existing products. For example, a furniture manufacturer that sells unfinished furniture may lose sales of the unfinished pieces if it decides to stain some pieces and sell them as finished products.</para>
+<note id="fs-idm241837616" class="think-through">
+<title>Disposing of Coffee Grounds</title>
+<para id="fs-idm211825344">Return to <link document="m68080">Why It Matters</link> in this chapter. With the knowledge you have gained thus far, answer these questions:</para>
+<list id="fs-idm238351456" list-type="enumerated" number-style="arabic">
+<item>From your perspective, what are the alternatives for the used coffee grounds?</item>
+<item>For the alternatives listed in question 1, what information do you need to evaluate between the alternatives?</item>
+<item>What type of analysis would you do to choose between alternatives?</item>
+<item>What qualitative factors might influence your decision regarding which alternative to select?</item>
+<item>Do you think the quantitative and qualitative components both will lead you to the same decision? Why or why not?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm233659184" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm233684080" list-type="bulleted" bullet-style="bullet">
+<item>Deciding to do more work on a product to develop it into a new product is a choice between alternatives.</item>
+<item>Choosing whether to sell a product as is or to process it further involves comparing the selling price without further processing (at split-off) to the net price (selling price less additional processing costs) that would be obtained if the product were processed further.</item>
+<item>An important consideration in these types of decisions is the realization that the costs incurred up to the split-off point are irrelevant to the decision.</item>
+</list>
+</section>
+<section id="fs-idm222530208" class="multiple-choice">
+<exercise id="fs-idm220674624">
+<problem id="fs-idm236331536">
+<para id="fs-idm249779536"><link class="lo-reference" document="m68085"/>Mallory’s Video Supply has changed its focus tremendously and as a result has dropped the selling price of DVD players from $45 to $38. Some units in the work-in-process inventory have costs of $30 per unit associated with them, but Mallory can only sell these units in their current state for $22 each. Otherwise, it will cost Mallory $11 per unit to rework these units so that they can be sold for $38 each. How much is the financial impact if the units are processed further?</para>
+<list id="fs-idm213035680" list-type="enumerated" number-style="upper-alpha">
+<item>$5 per unit profit</item>
+<item>$16 per unit profit</item>
+<item>$3 per unit loss</item>
+<item>$12 per unit loss</item>
+</list>
+</problem>
+<solution id="fs-idm220677920">
+<para id="fs-idm232885552">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm238465600" class="questions">
+<exercise id="fs-idm242473184">
+<problem id="fs-idm217905616">
+<para id="fs-idm217576496"><link class="lo-reference" document="m68085"/>What is of key importance for a company whose products can be processed further?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm247790192">
+<problem id="fs-idm237025040">
+<para id="fs-idm234232176"><link class="lo-reference" document="m68085"/>What is a general rule to remember with respect to a sell-or-process-further environment, and what costs are irrelevant to the decision?</para>
+</problem>
+<solution id="fs-idm217720208">
+<para id="fs-idm246756128">In general, if the differential revenue from processing further is greater than the differential costs, then it will be profitable to process a joint product after the split-off point. Any costs incurred prior to the split-off point are irrelevant to the decision to process further, as those are sunk costs, and only future costs are relevant costs. Joint product costs are common costs that are incurred simultaneously to produce a variety of end products. Even though they are common costs, they are routinely allocated to the joint products.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm217471840" class="exercise-set-a">
+<exercise id="fs-idm212717904">
+<problem id="fs-idm210806592">
+<para id="fs-idm229978160"><link class="lo-reference" document="m68085"/>Underground Food Store has 4,000 pounds of raw beef nearing its expiration date. Each pound has a cost of $4.50. The beef could be sold “as is” for $3.00 per pound to the dog food processing plant, or roasted and sold in the deli. The cost of roasting the beef will be $2.80 per pound, and each pound could be sold for $6.50. What should be done with the beef, and why?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm236988928">
+<problem id="fs-idm234394688">
+<para id="fs-idm255052496"><link class="lo-reference" document="m68085"/>Ralston Dairy gathered this data about the two products that it produces:</para>
+<media id="fs-idm241740176" alt="Product, Current Sales Value, Estimated Added Processing Costs, and Sales Value if Processed Further, respectively: Frozen yogurt $8,000, $2,000, $11,000. Ice cream $12,000, $7,000, $18,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_05_EA02_img.jpg"/>
+</media>
+<para id="fs-idm235809456">Which of the products should be processed further?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm239624624" class="exercise-set-b">
+<exercise id="fs-idm235439968">
+<problem id="fs-idm237518032">
+<para id="fs-idm234404576"><link class="lo-reference" document="m68085"/>Beretti’s Food Mart has 6,000 pounds of raw pork nearing its expiration date. Each pound has a cost of $5.50. The pork could be sold “as is” for $2.50 per pound to the dog food processing plant, or it could be made into custom Italian sausage and sold in the meat department. The cost of the sausage making is $3.00 per pound and each pound could be sold for $7.50. What should be done with the pork and why?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm234259696">
+<problem id="fs-idm241753456">
+<para id="fs-idm233929152"><link class="lo-reference" document="m68085"/>Balcom Dairy gathered this data about the two products that it produces:</para>
+<media id="fs-idm210720288" alt="Product, Current Sales Value, Estimated Added Processing Costs, and Sales Value if Processed Further, respectively: Cream $9,000, $3,000, $14,000. Milk $14,000, $9,000, $20,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_05_EB02_img.jpg"/>
+</media>
+<para id="fs-idm238875344">Which of the products should be processed further?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm252318352" class="problem-set-a">
+<exercise id="fs-idm234169024">
+<problem id="fs-idm217742144">
+<para id="fs-idm232875968"><link class="lo-reference" document="m68085"/>Calcion Industries produces two joint products, Y and Z. Prior to the split-off point, the company incurred costs of $36,000. Product Y weighs 25 pounds and product Z weighs 75 pounds. Product Y sells for $150 per pound and product Z sells for $125 per pound. Based on a physical measure of output, allocate joint costs to products Y and Z.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm234527888">
+<problem id="fs-idm239389040">
+<para id="fs-idm210807184"><link class="lo-reference" document="m68085"/>Quality Clothing, Inc., produces skorts and jumper uniforms for school children. In the process of cutting out the cloth pieces for each product, a certain amount of scrap cloth is produced. Quality has been selling this cloth scrap to Jorge’s Scrap Warehouse for $3.25 per pound. Last year, the company sold 40,000 lb. of scrap, which would be enough to make 10,000 teddy bears that the management of Quality is now interested in producing. Their processes would need some reprogramming, particularly in the cutting and stitching processes, but it would require no additional worker training. However, new packaging would be needed. The total variable cost to produce the teddy bears $3.85. Fixed costs would increase by $95,000 per year for the lease of the packaging equipment and Quality estimates it could produce and sell 10,000 teddy bears per year. Finished teddy bears could be sold for $18.00 each. Should Quality continue to sell the scrap cloth or should Quality process the scrap into teddy bears to sell?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm229779680" class="problem-set-b">
+<exercise id="fs-idm245936656">
+<problem id="fs-idm239098544">
+<para id="fs-idm229991936"><link class="lo-reference" document="m68085"/>Strawberry Sweet Company makes a variety of jams and jellies. During June, 55,000 gallons of strawberry mash was processed at a joint cost of $40,000. This produced 42,000 gallons of preserve-grade mix and 4,000 gallons of strawberry juice for jelly. The juice could be processed further into energy drinks, and the preserve mix could be processed further into ice cream flavoring. Information on these items is shown:</para>
+<media id="fs-idm237845296" alt="Product, Sales Value at Split-off Point, Estimated Further Processing Costs, and Sales Value after Processing, respectively: Preserve mix $104,500, $8,000, $125,000. Juice for jelly $50,500, $40,000, $70,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_05_PB01_img.jpg"/>
+</media>
+<list id="fs-idm233686544" list-type="enumerated" number-style="upper-alpha">
+<item>Assume that the joint cost is allocated to the products based on the physical quantity of output of each product. How much joint cost should be assigned to each product?</item>
+<item>How much joint cost should be assigned to each product if the relative sales value allocation method is used?</item>
+<item>Which products should be processed further?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm241617200">
+<problem id="fs-idm234449472">
+<para id="fs-idm241038864"><link class="lo-reference" document="m68085"/>Laramie Industries produces two joint products, H and C. Prior to the split-off point, the company incurred costs of $66,000. Product H weighs 44 pounds and product C weighs 66 pounds. Product H sells for $250 per pound and product C sells for $295 per pound.</para>
+<para id="fs-idm246104576">Based on a physical measure of output, allocate joint costs to products H and C.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm238714032">
+<problem id="fs-idm234225248">
+<para id="fs-idm253867664"><link class="lo-reference" document="m68085"/>Jamboree Outfitters, Inc., produces pocket knives and fillet knives for outdoor sporting. In the process of making the knives, some irregularities occur and no further work is performed on the blades. Jamboree has been selling these irregular blades to scrap dealers for $5.00 per pound. Last year, the company sold 50,000 lbs. of scrap. The company found that <emphasis class="colored-text">Amazon</emphasis> will buy the irregular knives for $12 each provided Jamboree finishes producing the knives into sellable form and also assuming there are enough irregular blades to make 50,000 completed knives. Jamboree’s processes would not need reprogramming, particularly in the shaping and sharpening processes. However, this would require one additional worker, and new packaging would be needed. The total variable cost to produce the irregulars is $4.85. Fixed costs would increase by $175,000 per year for the lease of the packaging equipment and the new worker. Jamboree estimates it could produce and sell 50,000 knives per year. Should Jamboree continue to sell the scrap blades or should Jamboree process the irregulars to sell to <emphasis class="colored-text">Amazon</emphasis>?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm238777008">
+<problem id="fs-idm232512224">
+<para id="fs-idm236142912"><link class="lo-reference" document="m68085"/>Daisy Hernandez sells girls christening dresses through the online store, <emphasis class="colored-text">Etsy</emphasis>. Her customers have asked if she has necklaces that could be included with the dress. Daisy found white glossy ceramic hearts from another <emphasis class="colored-text">Etsy</emphasis> vendor for $20. Daisy has the talent and already has a fully depreciated kiln to make these hearts.</para>
+<list id="fs-idm213865600" list-type="enumerated" number-style="upper-alpha">
+<item>Using the provided quantitative cost data to make the heart, should Daisy buy from her fellow <emphasis class="colored-text">Etsy</emphasis> vendor or make it herself?<newline/>
+<media id="fs-idm237212192" class="scaled-down-30" alt="Direct materials $3, Direct labor $5, Variable overhead $2, Fixed overhead $7.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_05_PB04_img.jpg"/>
+</media></item>
+<item>What qualitative factors would be included in your decision.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm238339872">
+<problem id="fs-idm238368768">
+<para id="fs-idm252956512"><link class="lo-reference" document="m68085"/>Dr. Detail is a mobile car wash. The price for a standard wash is $35 and takes half an hour. Each worker is paid $20/hr, uses $5 of materials and $0.50 per mile to use their own vehicle to travel from job to job. The average job is 5 miles.</para>
+<para id="fs-idm246079120">Ernest Kuhn’s son got sick in the car, and Ernest Kuhn has asked Dr. Detail to detail his car instead of doing a simple wash and vacuum.</para>
+<list id="fs-idm236144480" list-type="enumerated" number-style="upper-alpha">
+<item>Determine the differential income if $100 was charged to detail the car. Each car detail will take 2 hours. The materials used by the worker is three times that of a standard car wash.</item>
+<item>If the price is raised to $150, what is the differential income change?</item>
+<item>Keeping the price at $150, if the worker rate per hour would increase to $20/hr how would the differential income change? Prepare an Excel spreadsheet.</item>
+<item>What other issues would you need to consider?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm236626400" class="thought-provokers">
+<exercise id="fs-idm241393216">
+<problem id="fs-idm241547808">
+<para id="fs-idm242783552"><link class="lo-reference" document="m68085"/>Brindi’s Babysitting Center currently rents a 1200 sq foot facility for her 20-child facility. Her business has gotten five stars on <emphasis class="colored-text">Yelp</emphasis>, which has prompted more applications. She has to make a decision between expanding her operations to an 1,800 sq foot facility or staying in the current facility. Shown is the cost data of the options:</para>
+<media id="fs-idm235993792" alt="Expand and Stay, respectively: Children served 30, 20; Annual rent $1,500, $1,000; Utilities $500, $300; Food and materials $2,100, $1,400; Direct labor $6,000, $4,000; Moving cost $5,000, $?.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_05_TP_img.jpg"/>
+</media>
+<para id="fs-idm241418320">What is the differential cost of the two alternatives: A) move to a larger facility or B) stay in current facility?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm245685888">
+<term>joint costs</term>
+<meaning id="fs-idm233225536">costs that have been shared by products up to the split-off point</meaning>
+</definition>
+<definition id="fs-idm238733552">
+<term>split-off point</term>
+<meaning id="fs-idm238650448">point at which some products are removed from production and sold while others receive additional processing</meaning>
+</definition>
+</glossary>
+</document>

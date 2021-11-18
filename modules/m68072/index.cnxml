@@ -1,0 +1,370 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Compute and Evaluate Labor Variances</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68072</md:content-id>
+  <md:title>Compute and Evaluate Labor Variances</md:title>
+  <md:abstract/>
+  <md:uuid>de2cf29d-cce9-4b3a-b82f-9537d7bdda54</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm199422512">In addition to evaluating materials usage, companies must assess how efficiently and effectively they are using labor in the production of their products. Direct labor is a cost associated with workers working directly in the production process. The company must look at both the quantity of hours used and the rate of the labor and compare outcomes to standard costs. Determining efficiency and effectiveness of labor leads to individual labor variances. A company can compute these labor variances and make informed decisions about labor operations based on these differences.</para>
+<section id="fs-idm432119568">
+<title>Fundamentals of Direct Labor Variances</title>
+<para id="fs-idm452049120">The <term>direct labor variance</term> measures how efficiently the company uses labor as well as how effective it is at pricing labor. There are two components to a labor variance, the direct labor rate variance and the direct labor time variance.</para>
+<section id="fs-idm177989376">
+<title>Direct Labor Rate Variance</title>
+<para id="fs-idm443991936">The <term>direct labor rate variance</term> compares the actual rate per hour of direct labor to the standard rate per hour of labor for the hours worked. The direct labor rate variance is calculated using this formula:</para>
+<media id="fs-idm206821008" alt="Direct Labor Rate Variance equals (Actual Hours Worked times Actual Rate per Hour) minus (Actual Hours Worked times Standard Rate per Hour).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_EqDLRV01_img.jpg"/>
+</media>
+<para id="fs-idm174881584">Factoring out the actual hours worked from both components of the formula, it can be rewritten as</para>
+<media id="fs-idm174915072" class="scaled-down" alt="Direct Labor Rate Variance equals (Actual Rate per Hour minus Standard Rate per Hour) times Actual Hours Worked.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_EqDLRV02_img.jpg"/>
+</media>
+<para id="fs-idm439976272">With either of these formulas, the actual rate per hour refers to the actual rate of pay for workers to create one unit of product. The standard rate per hour is the expected rate of pay for workers to create one unit of product. The actual hours worked are the actual number of hours worked to create one unit of product. If there is no difference between the standard rate and the actual rate, the outcome will be zero, and no variance exists.</para>
+<para id="fs-idm159651280">If the actual rate of pay per hour is less than the standard rate of pay per hour, the variance will be a favorable variance. A favorable outcome means you paid workers less than anticipated. If, however, the actual rate of pay per hour is greater than the standard rate of pay per hour, the variance will be unfavorable. An unfavorable outcome means you paid workers more than anticipated.</para>
+<para id="fs-idm216238528">The actual rate can differ from the standard or expected rate because of supply and demand of the workers, increased labor costs due to economic changes or union contracts, or the ability to hire employees at a different skill level. Once the manufacturer makes the products, the labor costs will follow the goods through production, so the company should evaluate how the difference between what it expected to happen and what actually happened will affect all the goods produced using these particular labor rates.</para>
+<para id="fs-idm436901808">Let us again consider Connie’s Candy Company with respect to labor. Connie’s Candy establishes a standard rate per hour for labor of $8.00. Each box of candy is expected to require 0.10 hours of labor (6 minutes). Connie’s Candy found that the actual rate of pay per hour for labor was $7.50. They still actually required 0.10 hours of labor to make each box. The direct labor rate variance computes as:</para>
+<equation id="fs-idm491867376" class="unnumbered"><m:math><m:mrow><m:mtext>Direct Labor Rate Variance</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>$7.50</m:mn><m:mo>–</m:mo><m:mn>$8.00</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mtext>×</m:mtext><m:mspace width="0.2em"/><m:mn>0.10</m:mn><m:mspace width="0.2em"/><m:mtext>hours</m:mtext><m:mo>=</m:mo><m:mo>–</m:mo><m:mn>$0.05</m:mn><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>$0.05</m:mn><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mtext>Favorable</m:mtext><m:mo>)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm196515728">In this case, the actual rate per hour is $7.50, the standard rate per hour is $8.00, and the actual hour worked is 0.10 hours per box. This computes as a favorable outcome. This is a favorable outcome because the actual rate of pay was less than the standard rate of pay. As a result of this favorable outcome information, the company may consider continuing operations as they exist, or could change future budget projections to reflect higher profit margins, among other things.</para>
+<para id="fs-idm199682176">Let us take the same example except now the actual rate of pay per hour is $9.50. The direct labor rate variance computes as:</para>
+<equation id="fs-idm757842976" class="unnumbered"><m:math><m:mrow><m:mtext>Direct Labor Rate Variance</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>$9.50</m:mn><m:mo>–</m:mo><m:mn>$8.00</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mtext>×</m:mtext><m:mspace width="0.2em"/><m:mn>0.10</m:mn><m:mspace width="0.2em"/><m:mtext>hours</m:mtext><m:mo>=</m:mo><m:mn>$0.15</m:mn><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>$0.15</m:mn><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mtext>Unfavorable</m:mtext><m:mo>)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm208663232">In this case, the actual rate per hour is $9.50, the standard rate per hour is $8.00, and the actual hours worked per box are 0.10 hours. This computes as an unfavorable outcome. This is an unfavorable outcome because the actual rate per hour was more than the standard rate per hour. As a result of this unfavorable outcome information, the company may consider using cheaper labor, changing the production process to be more efficient, or increasing prices to cover labor costs.</para>
+<para id="fs-idm187835536">Another element this company and others must consider is a direct labor time variance.</para>
+</section>
+<section id="fs-idm453453760">
+<title>Direct Labor Time Variance</title>
+<para id="fs-idm171991200">The <term>direct labor time variance</term> compares the actual labor hours used to the standard labor hours that were expected to be used to make the actual units produced. The variance is calculated using this formula:</para>
+<media id="fs-idm464701856" alt="Direct Labor Time Variance equals (Actual Hours Worked x Standard rate per Hour) minus (Standard Hours times Standard Rate per Hour).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_EqDLTV01_img.jpg"/>
+</media>
+<para id="fs-idm447972880">Factoring out the standard rate per hour from both components of the formula, it can be rewritten as:</para>
+<media id="fs-idm220309872" alt="Direct Labor Time Variance equals (Actual Hours Worked minus Standard Hours Expected for the Units Produced) times Standard Rate per Hour.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_EqDLTV02_img.jpg"/>
+</media>
+<para id="fs-idm199322064">With either of these formulas, the actual hours worked refers to the actual number of hours used at the actual production output. The standard rate per hour is the expected hourly rate paid to workers. The standard hours are the expected number of hours used at the actual production output. If there is no difference between the actual hours worked and the standard hours, the outcome will be zero, and no variance exists.</para>
+<para id="fs-idm205740160">If the actual hours worked are less than the standard hours at the actual production output level, the variance will be a favorable variance. A favorable outcome means you used fewer hours than anticipated to make the actual number of production units. If, however, the actual hours worked are greater than the standard hours at the actual production output level, the variance will be unfavorable. An unfavorable outcome means you used more hours than anticipated to make the actual number of production units.</para>
+<para id="fs-idm179000864">The actual hours used can differ from the standard hours because of improved efficiencies in production, carelessness or inefficiencies in production, or poor estimation when creating the standard usage.</para>
+<para id="fs-idm203472880">Consider the previous example with Connie’s Candy Company. Connie’s Candy establishes a standard rate per hour for labor of $8.00. Each box of candy is expected to require 0.10 hours of labor (6 minutes). Connie’s Candy found that the actual hours worked per box were 0.05 hours (3 minutes). The actual rate per hour for labor remained at $8.00 to make each box. The direct labor time variance computes as:</para>
+<equation id="fs-idm214179440" class="unnumbered"><m:math><m:mrow><m:mtext>Direct Labor Time Variance</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0.05</m:mn><m:mo>–</m:mo><m:mn>0.10</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mtext>×</m:mtext><m:mspace width="0.2em"/><m:mn>$8.00</m:mn><m:mspace width="0.2em"/><m:mtext>per hour</m:mtext><m:mo>=</m:mo><m:mo>–</m:mo><m:mn>$0.40</m:mn><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>$0.40</m:mn><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mtext>Favorable</m:mtext><m:mo>)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm208384608">In this case, the actual hours worked are 0.05 per box, the standard hours are 0.10 per box, and the standard rate per hour is $8.00. This computes as a favorable outcome. This is a favorable outcome because the actual hours worked were less than the standard hours expected. As a result of this favorable outcome information, the company may consider continuing operations as they exist, or could change future budget projections to reflect higher profit margins, among other things.</para>
+<para id="fs-idm198379328">Let us take the same example except now the actual hours worked are 0.20 hours per box. The direct labor time variance computes as:</para>
+<equation id="fs-idm219964864" class="unnumbered"><m:math><m:mrow><m:mtext>Direct Labor Time Variance</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>$0.20</m:mn><m:mo>–</m:mo><m:mn>$0.10</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mtext>×</m:mtext><m:mspace width="0.2em"/><m:mn>$8.00</m:mn><m:mspace width="0.2em"/><m:mtext>per hour</m:mtext><m:mo>=</m:mo><m:mn>$0.80</m:mn><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>$0.80</m:mn><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mtext>Unfavorable</m:mtext><m:mo>)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm183959840">In this case, the actual hours worked per box are 0.20, the standard hours per box are 0.10, and the standard rate per hour is $8.00. This computes as an unfavorable outcome. This is an unfavorable outcome because the actual hours worked were more than the standard hours expected per box. As a result of this unfavorable outcome information, the company may consider retraining its workers, changing the production process to be more efficient, or increasing prices to cover labor costs.</para>
+<para id="fs-idm199566368">The combination of the two variances can produce one overall total direct labor cost variance.</para>
+<note id="fs-idm478693168" class="think-through">
+<title>Package Deliveries</title>
+<para id="fs-idm215530944"><emphasis class="colored-text">UPS</emphasis> drivers are evaluated on how many miles they drive and how quickly they deliver packages. The drivers are given the route and time they are expected to take, so they are expected to complete their route in a timely and efficient manner. They also work until all packages are delivered. A GPS tracking system tracks the trucks throughout the day. The system keeps track of how much they back up and if they take any left turns because right turns are much more time efficient.<footnote id="fs-idm222344960">Graham Kendall. “Why UPS Drivers Don’t Turn Left and Why You Shouldn’t Either.” <emphasis effect="italics">The Conversation</emphasis>. January 20, 2017. http://theconversation.com/why-ups-drivers-dont-turn-left-and-you-probably-shouldnt-either-71432</footnote> Tracking drivers like this does not leave them very much time to deal with customers. Customer service is a major part of the driver’s job. Can the driver service the customer and drive the route in the time and distance allotted? Which is more important: customer service or driving the route in a timely and efficient manner?</para>
+</note>
+<note id="fs-idm492047168" class="link-to-learning">
+<para id="fs-idm199767104">Watch this <link url="https://openstax.org/l/50DirLaborVar">video presenting an instructor walking through the steps involved in calculating direct labor variances</link> to learn more.</para>
+</note>
+</section>
+<section id="fs-idm215046064">
+<title>Total Direct Labor Variance</title>
+<para id="fs-idm205694464">When a company makes a product and compares the actual labor cost to the standard labor cost, the result is the <term>total direct labor variance</term>.</para>
+<media id="fs-idm203359248" class="scaled-down" alt="Total Direct Labor Variance minus (Actual Hours times Actual Rate) minus (Standard Hours times Standard Rate).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_EqTDLV01_img.jpg"/>
+</media>
+<para id="fs-idm200817248">If the outcome is unfavorable, the actual costs related to labor were more than the expected (standard) costs. If the outcome is favorable, the actual costs related to labor are less than the expected (standard) costs.</para>
+<para id="fs-idm201269280">The total direct labor variance is also found by combining the direct labor rate variance and the direct labor time variance. By showing the total direct labor variance as the sum of the two components, management can better analyze the two variances and enhance decision-making.</para>
+<para id="fs-idm205787984"><link target-id="OSX_Acct_M08_03_TreeTDLV01"/> shows the connection between the direct labor rate variance and direct labor time variance to total direct labor variance.</para>
+<figure id="OSX_Acct_M08_03_TreeTDLV01">
+<media id="fs-idm222520800" alt="There are three top row boxes. Two, Actual Hours (AH) times Actual Rate (AR) and Actual Hours (AH) times Standard Rate (SR) combine to point to a Second row box: Direct Labor Rate Variance. Two top row boxes: Actual Hours (AH) times Standard Rate (SR) and Standard Hours (SH) times Standard Rate (SR) combine to point to Second row box: Direct Labor Time Variance. Notice the middle top row box is used for both of the variances. Second row boxes: Direct Labor Rate Variance and Direct Labor Time Variance combine to point to bottom row box: Total Direct Labor Variance.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_TreeTDLV01_img.jpg"/>
+</media>
+<caption>Direct Labor Variance. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm215066592">For example, Connie’s Candy Company expects to pay a rate of $8.00 per hour for labor but actually pays $9.50 per hour. The company expected to use 0.10 hours of labor per box but actually used 0.20 hours per box. The total direct labor variance is computed as:</para>
+<equation id="fs-idm196297152" class="unnumbered"><m:math><m:mrow><m:mtext>Total Direct Labor Time Variance</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0.20</m:mn><m:mspace width="0.2em"/><m:mtext>hours</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>$9.50</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>–</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0.10</m:mn><m:mspace width="0.2em"/><m:mtext>hours</m:mtext><m:mspace width="0.2em"/><m:mtext>×</m:mtext><m:mspace width="0.2em"/><m:mn>$8.00</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>$1.90</m:mn><m:mo>–</m:mo><m:mn>$0.80</m:mn><m:mo>=</m:mo><m:mn>$1.10</m:mn><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mtext>Unfavorable</m:mtext><m:mo>)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm225974832">In this case, two elements are contributing to the unfavorable outcome. Connie’s Candy paid $1.50 per hour more for labor than expected and used 0.10 hours more than expected to make one box of candy. The same calculation is shown as follows using the outcomes of the direct labor rate and time variances.</para>
+<media id="fs-idm213059952" alt="There are three top row boxes. Two, Actual Hours (0.20) times Actual Rate ($9.50) and Actual Hours (0.20) times Standard Rate ($8.00) combine to point to a Second row box: Direct Labor Rate Variance $0.30 U. Two top row boxes: Actual Hours (0.20) times Standard Rate ($8.00) and Standard Hours (0.10) times Standard Rate ($8.00) combine to point to Second row box: Direct Labor Time Variance $0.80 U. Notice the middle top row box is used for both of the variances. Second row boxes: Direct Labor Rate Variance $0.30 U and Direct Labor Time Variance $0.80 U combine to point to bottom row box: Total Direct Labor Variance $1.10 U.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_TreeTDLV02_img.jpg"/>
+</media>
+<para id="fs-idm200729312">As with the interpretations for the labor rate and time variances, the company would review the individual components contributing to the overall unfavorable outcome for the total direct labor variance, and possibly make changes to production elements as a result.</para>
+<note id="fs-idm486586496" class="your-turn">
+<title>Sweet and Fresh Shampoo Labor</title>
+<para id="fs-idm218650064">Biglow Company makes a hair shampoo called Sweet and Fresh. Each bottle has a standard labor cost of 1.5 hours at $35.00 per hour. During May, Biglow manufactured 11,000 bottles. They used 16,000 hours at a cost of $565,600. Calculate the labor rate variance, labor time variance, and total labor variance.</para>
+<para id="fs-idm453789968"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm199558560" alt="There are three top row boxes. Two, Actual Hours (16,000) times Actual Rate ($35.35) and Actual Hours (16,000) times Standard Rate ($35.00) combine to point to a Second row box: Direct Labor Rate Variance $5,600 U. Two top row boxes: Actual Hours (16,000) times Standard Rate ($35.00) and Standard Hours (16,500) times Standard Rate ($35.00) combine to point to Second row box: Direct Labor Time Variance $17,500 F. Notice the middle top row box is used for both of the variances. Second row boxes: Direct Labor Rate Variance $5,650 U and Direct Labor Time Variance $17,500 F combine to point to bottom row box: Total Direct Labor Variance $11,900 U.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_YT01Sol_img.png"/>
+</media>
+</note>
+<note id="fs-idm205783408" class="concepts-practice">
+<title>Labor Costs in Service Industries</title>
+<para id="fs-idm218857968">In the service industry, labor is the main cost. Doctors, for example, have a time allotment for a physical exam and base their fee on the expected time. Insurance companies pay doctors according to a set schedule, so they set the labor standard. They pay a set rate for a physical exam, no matter how long it takes. If the exam takes longer than expected, the doctor is not compensated for that extra time. This would produce an unfavorable labor variance for the doctor. Doctors know the standard and try to schedule accordingly so a variance does not exist. If anything, they try to produce a favorable variance by seeing more patients in a quicker time frame to maximize their compensation potential.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm160351568" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm210195440" list-type="bulleted" bullet-style="bullet">
+<item>There are two labor variances: the direct labor rate variance and the direct labor time variance.</item>
+<item>The direct labor rate variance determines if the rate paid is greater than or less than the standard rate.</item>
+<item>The direct labor time variance determines if the actual hours used are greater than or less than the standards that should have been used.</item>
+</list>
+</section>
+<section id="fs-idm220399408" class="multiple-choice">
+<exercise id="fs-idm218951024">
+<problem id="fs-idm216820832">
+<para id="fs-idm197996368"><link class="lo-reference" document="m68072"/>What are some possible reasons for a labor rate variance?</para>
+<list id="fs-idm175164544" list-type="enumerated" number-style="upper-alpha">
+<item>hiring of less qualified workers</item>
+<item>an excess of material usage</item>
+<item>material price increase</item>
+<item>utilities usage change</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm196724784">
+<problem id="fs-idm217184160">
+<para id="fs-idm206853104"><link class="lo-reference" document="m68072"/>When is the labor rate variance unfavorable?</para>
+<list id="fs-idm203997488" list-type="enumerated" number-style="upper-alpha">
+<item>when the actual quantity used is greater than the standard quantity</item>
+<item>when the actual quantity used is less than the standard quantity</item>
+<item>when the actual price paid is greater than the standard price</item>
+<item>when the actual price is less than the standard price</item>
+</list>
+</problem>
+<solution id="fs-idm214545296">
+<para id="fs-idm219778720">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm215172752">
+<problem id="fs-idm215281232">
+<para id="fs-idm219832640"><link class="lo-reference" document="m68072"/>When is the labor rate variance favorable?</para>
+<list id="fs-idm179548224" list-type="enumerated" number-style="upper-alpha"><item>when the actual quantity used is greater than the standard quantity</item>
+<item>when the actual quantity used is less than the standard quantity</item>
+<item>when the actual price is greater than the standard price</item>
+<item>when the actual price is less than the standard price</item>
+</list></problem>
+</exercise>
+<exercise id="fs-idm203583696">
+<problem id="fs-idm218505408">
+<para id="fs-idm199092160"><link class="lo-reference" document="m68072"/>What are some possible reasons for a direct labor time variance?</para>
+<list id="fs-idm445119632" list-type="enumerated" number-style="upper-alpha">
+<item>utility usage decrease</item>
+<item>less qualified workers</item>
+<item>office supplies spending</item>
+<item>sales decline</item>
+</list>
+</problem>
+<solution id="fs-idm203795280">
+<para id="fs-idm214385600">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm222558064">
+<problem id="fs-idm186444112">
+<para id="fs-idm218894256"><link class="lo-reference" document="m68072"/>When is the direct labor time variance favorable?</para>
+<list id="fs-idm194896544" list-type="enumerated" number-style="upper-alpha">
+<item>when the actual quantity used is greater than the standard quantity</item>
+<item>when the actual quantity used is less than the standard quantity</item>
+<item>when the actual price paid is greater than the standard price</item>
+<item>when the actual price is less than the standard price</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm207751760">
+<problem id="fs-idm199895504">
+<para id="fs-idm213032704"><link class="lo-reference" document="m68072"/>When is the direct labor time variance unfavorable?</para>
+<list id="fs-idm175058048" list-type="enumerated" number-style="upper-alpha">
+<item>when the actual quantity used is greater than the standard quantity</item>
+<item>when the actual quantity used is less than the standard quantity</item>
+<item>when the actual price paid is greater than the standard price</item>
+<item>when the actual price is less than the standard price</item>
+</list>
+</problem>
+<solution id="fs-idm218769184">
+<para id="fs-idm210228416">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm209762880" class="questions">
+<exercise id="fs-idm221192400">
+<problem id="fs-idm214950192">
+<para id="fs-idm196544720"><link class="lo-reference" document="m68072"/>What is the direct labor rate variance?</para>
+</problem>
+<solution id="fs-idm215132976">
+<para id="fs-idm177872912">A direct labor rate variance is the actual rate paid being different from the standard rate.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm207781424">
+<problem id="fs-idm200558064">
+<para id="fs-idm215424176"><link class="lo-reference" document="m68072"/>What is the direct labor time variance?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm189578912">
+<problem id="fs-idm199601424">
+<para id="fs-idm210195936"><link class="lo-reference" document="m68072"/>What are some possible causes of a direct labor rate variance?</para>
+</problem>
+<solution id="fs-idm159508960">
+<para id="fs-idm214314480">Employees have a different level of experience than standards; the labor market is tighter or looser than expected; contract renegotiation.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm196267024">
+<problem id="fs-idm219258800">
+<para id="fs-idm194899952"><link class="lo-reference" document="m68072"/>What are some possible causes of a direct labor time variance?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm217302608">
+<problem id="fs-idm177484784">
+<para id="fs-idm176767872"><link class="lo-reference" document="m68072"/>How is the total direct labor variance calculated?</para>
+</problem>
+<solution id="fs-idm215909632">
+<para id="fs-idm162366000">Total direct labor variance = (Actual hours × Actual rate) – (Standard hours × Standard rate) or the total direct labor variance is also found by combining the direct labor rate variance and the direct labor time variance.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm198010864" class="exercise-set-a">
+<exercise id="fs-idm215877584">
+<problem id="fs-idm162706288">
+<para id="fs-idm210210896"><link class="lo-reference" document="m68072"/>Queen Industries uses a standard costing system in the manufacturing of its single product. It requires 2 hours of labor to produce 1 unit of final product. In February, Queen Industries produced 12,000 units. The standard cost for labor allowed for the output was $90,000, and there was an unfavorable direct labor time variance of $5,520.</para>
+<list id="fs-idm214237440" list-type="enumerated" number-style="upper-alpha">
+<item>What was the standard cost per hour?</item>
+<item>How many actual hours were worked?</item>
+<item>If the workers were paid $3.90 per hour, what was the direct labor rate variance?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm219428128">
+<problem id="fs-idm217212464">
+<para id="fs-idm195488272"><link class="lo-reference" document="m68072"/>Penny Company manufactures only one product and uses a standard cost system. The following information is from Penny’s records for May:</para>
+<media id="fs-idm221424480" class="scaled-down" alt="Direct labor rate variance $15,000 favorable. Direct labor time variance $25,000 unfavorable. Standard hours per unit produced 2.5. Standard rate per hour $25.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_EA02_img.jpg"/>
+</media>
+<para id="fs-idm177196752">During May, the company used 12.5% more hours than the standard allowed.</para>
+<list id="fs-idm207294672" list-type="enumerated" number-style="upper-alpha">
+<item>What were the total standard hours allowed for the units manufactured during the month?</item>
+<item>What were the actual hours worked?</item>
+<item>How many actual units were produced during May?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm199204704" class="exercise-set-b">
+<exercise id="fs-idm491931648">
+<problem id="fs-idm214631872">
+<para id="fs-idm205746896"><link class="lo-reference" document="m68072"/>Case made 24,500 units during June, using 32,000 direct labor hours. They expected to use 31,450 hours per the standard cost card. Their employees were paid $15.75 per hour for the month of June. The standard cost card uses $15.50 as the standard hourly rate.</para>
+<list id="fs-idm200680368" list-type="enumerated" number-style="upper-alpha">
+<item>Compute the direct labor rate and time variances for the month of June, and also calculate the total direct labor variance.</item>
+<item>If the standard rate per hour was $16.00, what would change?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm214523856">
+<problem id="fs-idm196507072">
+<para id="fs-idm208587424"><link class="lo-reference" document="m68072"/>Eagle Inc. uses a standard cost system. During the most recent period, the company manufactured 115,000 units. The standard cost sheet indicates that the standard direct labor cost per unit is $1.50. The performance report for the period includes an unfavorable direct labor rate variance of $3,700 and a favorable direct labor time variance of $10,275.<newline/>What was the total actual cost of direct labor incurred during the period?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm203494432" class="problem-set-a">
+<exercise id="fs-idm207342896">
+<problem id="fs-idm201226096">
+<para id="fs-idm222326272"><link class="lo-reference" document="m68072"/>Ellis Company’s labor information for September is as follows:</para>
+<media id="fs-idm221722016" alt="Direct labor hourly rate paid $32.00. Total standard direct labor hours for units produced 11,000. Direct labor ours worked 10,850. Direct labor rate variance $8,137.50 favorable.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_PA01_img.jpg"/>
+</media>
+<list id="fs-idm223191072" list-type="enumerated" number-style="upper-alpha">
+<item>Compute the standard direct labor rate per hour.</item>
+<item>Compute the direct labor time variance.</item>
+<item>Compute the standard direct labor rate if the direct labor rate variance was $2,712.50 (unfavorable).</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm211709024">
+<problem id="fs-idm199066496">
+<para id="fs-idm216492928"><link class="lo-reference" document="m68072"/>Breakaway Company’s labor information for May is as follows:</para>
+<media id="fs-idm198124320" class="scaled-down" alt="Actual direct labor hours worked 48,000. Standard direct labor hours allowed 47,400. Total payroll for direct labor $1,128,000. Direct labor time variance $13,800 unfavorable.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_PA02_img.jpg"/>
+</media>
+<list id="fs-idm216410576" list-type="enumerated" number-style="upper-alpha">
+<item>What is the actual direct labor rate per hour?</item>
+<item>What is the standard direct labor rate per hour?</item>
+<item>What was the total standard direct labor cost for May?</item>
+<item>What was the direct labor rate variance for May?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm212970384">
+<problem id="fs-idm198308432">
+<para id="fs-idm470564944"><link class="lo-reference" document="m68072"/>Power Co.’s labor information for June is as follows:</para>
+<media id="fs-idm491886544" class="scaled-down" alt="Direct labor hours worked 67,200. Standard direct labor hours for units manufactured 70,000. Unfavorable direct labor rate variance $23,520. Total payroll for direct labor $823,200.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_PA03_img.jpg"/>
+</media>
+<list id="fs-idm195486624" list-type="enumerated" number-style="upper-alpha">
+<item>What was the actual labor rate per hour?</item>
+<item>What was the standard labor rate per hour?</item>
+<item>What was the total standard labor cost for units produced in June?</item>
+<item>What was the direct labor time variance for June?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm205180752" class="problem-set-b">
+<exercise id="fs-idm216466592">
+<problem id="fs-idm221393440">
+<para id="fs-idm226237168"><link class="lo-reference" document="m68072"/>Marymount Company makes one product. In the month of April, it made 3,500 units. Workers were paid $32 per hour for labor, for a total of $718,848. The standard hours per unit are 6.4, and the standard labor wage rate is $38.40 per hour.</para>
+<list id="fs-idm219425792" list-type="enumerated" number-style="upper-alpha">
+<item>What are the actual hours worked?</item>
+<item>What are the standard hours for the units made?</item>
+<item>What is the direct labor rate variance for April?</item>
+<item>What is the direct labor time variance for April?</item>
+<item>What is the total direct labor variance for April?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm220690464">
+<problem id="fs-idm218915280">
+<para id="fs-idm200108176"><link class="lo-reference" document="m68072"/>Adam Inc.’s records for May include the following information:</para>
+<media id="fs-idm223987872" class="scaled-down" alt="Actual payroll $40,000. Actual hours worked 3,200. Labor rate variance $8,000 favorable. Labor time variance $4,800 unfavorable.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_PB02_img.jpg"/>
+</media>
+<list id="fs-idm494214224" list-type="enumerated" number-style="upper-alpha">
+<item>What are Adam’s standard labor hours for the units made?</item>
+<item>What is Adam’s total standard labor cost for the units made?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm199191328">
+<problem id="fs-idm198948736">
+<para id="fs-idm203195776"><link class="lo-reference" document="m68072"/>Ribco’s labor cost information for making its only product for March is as follows:</para>
+<media id="fs-idm201185984" class="scaled-down" alt="Standard hours per unit 1.25. Budgeted units or the period 12,000. Finished units for the period 10,000. Standard rate per hour $40. Actual labor costs incurred $414,000. Actual rate paid per hour $36.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_PB03_img.jpg"/>
+</media>
+<list id="fs-idm216189104" list-type="enumerated" number-style="upper-alpha">
+<item>What is the direct labor rate variance?</item>
+<item>What is the direct labor time variance?</item>
+<item>What is the total direct labor variance?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm214216576" class="thought-provokers">
+<exercise id="fs-idm197468192">
+<problem id="fs-idm201371104">
+<para id="fs-idm222487840"><link class="lo-reference" document="m68072"/>Is labor a true variable cost?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm214870784">
+<term>direct labor rate variance</term>
+<meaning id="fs-idm196489712">difference between the actual rate paid and the standard rate that should have been paid based on the actual hours worked</meaning>
+</definition>
+<definition id="fs-idm214662352">
+<term>direct labor time variance</term>
+<meaning id="fs-idm174045680">difference between the actual hours worked and the standard hours that should have been worked for the actual units produced</meaning>
+</definition>
+<definition id="fs-idm744121632">
+<term>direct labor variance</term>
+<meaning id="fs-idm183020096">measures how efficiently the company uses labor as well as how effective it is at pricing labor</meaning>
+</definition>
+<definition id="fs-idm189364832">
+<term>total direct labor variance</term>
+<meaning id="fs-idm197072400">actual labor costs compared to standard labor costs</meaning>
+</definition>
+</glossary>
+</document>

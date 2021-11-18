@@ -1,0 +1,565 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Describe Principles, Assumptions, and Concepts of Accounting and Their Relationship to Financial Statements</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67843</md:content-id>
+  <md:title>Describe Principles, Assumptions, and Concepts of Accounting and Their Relationship to Financial Statements</md:title>
+  <md:abstract/>
+  <md:uuid>d5d89a18-616d-4304-be26-fcaf7bcc64eb</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm366188960">If you want to start your own business, you need to maintain detailed and accurate records of business performance in order for you, your investors, and your lenders, to make informed decisions about the future of your company. Financial statements are created with this purpose in mind. A set of financial statements includes the income statement, statement of owner’s equity, balance sheet, and statement of cash flows. These statements are discussed in detail in <link document="m67837">Introduction to Financial Statements</link>. This chapter explains the relationship between financial statements and several steps in the accounting process. We go into much more detail in <link document="m67848">The Adjustment Process</link> and <link document="m67854">Completing the Accounting Cycle</link>.</para>
+<section id="fs-idm400676288">
+<title>Accounting Principles, Assumptions, and Concepts</title>
+<para id="fs-idm680082704">In <link document="m67837">Introduction to Financial Statements</link>, you learned that the <term class="no-emphasis">Financial Accounting Standards Board (FASB)</term> is an independent, nonprofit organization that sets the standards for financial accounting and reporting, including <term class="no-emphasis">generally accepted accounting principles (GAAP)</term>, for both public- and private-sector businesses in the United States.</para>
+<para id="fs-idm356946384">As you may also recall, <term class="no-emphasis">GAAP</term> are the concepts, standards, and rules that guide the preparation and presentation of financial statements. If US accounting rules are followed, the accounting rules are called US GAAP. International accounting rules are called <term class="no-emphasis">International Financial Reporting Standards (IFRS)</term>. Publicly traded companies (those that offer their shares for sale on exchanges in the United States) have the reporting of their financial operations regulated by the <term class="no-emphasis">Securities and Exchange Commission (SEC)</term>.</para>
+<para id="fs-idm684920576">You also learned that the SEC is an independent federal agency that is charged with protecting the interests of investors, regulating stock markets, and ensuring companies adhere to GAAP requirements. By having proper accounting standards such as US GAAP or IFRS, information presented publicly is considered comparable and reliable. As a result, financial statement users are more informed when making decisions. The SEC not only enforces the accounting rules but also delegates the process of setting standards for US GAAP to the FASB.</para>
+<para id="fs-idm635407024">Some companies that operate on a global scale may be able to report their financial statements using IFRS. The SEC regulates the financial reporting of companies selling their shares in the United States, whether US GAAP or IFRS are used. The basics of accounting discussed in this chapter are the same under either set of guidelines.</para>
+<note id="fs-idm358666272" class="ethical-considerations">
+<title>Auditing of Publicly Traded Companies</title>
+<para id="fs-idm403056000">When a publicly traded company in the United States issues its financial statements, the financial statements have been audited by a <term class="no-emphasis">Public Company Accounting Oversight Board (PCAOB)</term> approved auditor. The PCAOB is the organization that sets the auditing standards, after approval by the SEC. It is important to remember that auditing is not the same as accounting. The role of the Auditor is to examine and provide assurance that financial statements are reasonably stated under the rules of appropriate accounting principles. The auditor conducts the audit under a set of standards known as Generally Accepted Auditing Standards. The accounting department of a company and its auditors are employees of two different companies. The auditors of a company are required to be employed by a different company so that there is independence.</para>
+<para id="fs-idm673913680">The nonprofit Center for Audit Quality explains auditor independence: “Auditors’ independence from company management is essential for a successful audit because it enables them to approach the audit with the necessary professional skepticism.”<footnote id="fs-idm395166752">Center for Audit Quality. <emphasis effect="italics">Guide to Public Company Auditing</emphasis>. https://www.iasplus.com/en/binary/usa/aicpa/0905caqauditguide.pdf</footnote> The center goes on to identify a key practice to protect independence by which an external auditor reports not to a company’s management, which could make it more difficult to maintain independence, but to a company’s audit committee. The audit committee oversees the auditors’ work and monitors disagreements between management and the auditor about financial reporting. Internal auditors of a company are not the auditors that provide an opinion on the financial statements of a company. According to the Center for Audit Quality, “By law, public companies’ annual financial statements are audited each year by independent auditors—accountants who examine the data for conformity with U.S. Generally Accepted Accounting Principles (GAAP).”<footnote id="fs-idm411032176">Center for Audit Quality. <emphasis effect="italics">Guide to Public Company Auditing</emphasis>. https://www.iasplus.com/en/binary/usa/aicpa/0905caqauditguide.pdf</footnote> The opinion from the independent auditors regarding a publicly traded company is filed for public inspection, along with the financial statements of the publicly traded company.</para>
+</note>
+</section>
+<section id="fs-idm395969696">
+<title>The Conceptual Framework</title>
+<para id="fs-idm393435888">The FASB uses a <term>conceptual framework</term>, which is a set of concepts that guide financial reporting. These concepts can help ensure information is comparable and reliable to stakeholders. Guidance may be given on how to report transactions, measurement requirements, and application on financial statements, among other things.<footnote id="fs-idm374595264">Financial Accounting Standards Board. “The Conceptual Framework.” http://www.fasb.org/jsp/FASB/Page/BridgePage&amp;cid=1176168367774</footnote></para>
+<note id="fs-idm413346896" class="ifrs-connection">
+<title>GAAP, IFRS, and the Conceptual Framework</title>
+<para id="fs-idm392349296">The procedural part of accounting—recording transactions right through to creating financial statements—is a universal process. Businesses all around the world carry out this process as part of their normal operations. In carrying out these steps, the timing and rate at which transactions are recorded and subsequently reported in the financial statements are determined by the accepted accounting principles used by the company.</para>
+<para id="fs-idm393227216">As you learned in <link document="m67831">Role of Accounting in Society</link>, US-based companies will apply US GAAP as created by the FASB, and most international companies will apply IFRS as created by the International Accounting Standards Board (IASB). As illustrated in this chapter, the starting point for either FASB or IASB in creating accounting standards, or principles, is the conceptual framework. Both FASB and IASB cover the same topics in their frameworks, and the two frameworks are similar. The conceptual framework helps in the standard-setting process by creating the foundation on which those standards should be based. It can also help companies figure out how to record transactions for which there may not currently be an applicable standard. Though there are many similarities between the conceptual framework under US GAAP and IFRS, these similar foundations result in different standards and/or different interpretations.</para>
+<para id="fs-idm399608096">Once an accounting standard has been written for US GAAP, the FASB often offers clarification on how the standard should be applied. Businesses frequently ask for guidance for their particular industry. When the FASB creates accounting standards and any subsequent clarifications or guidance, it only has to consider the effects of those standards, clarifications, or guidance on US-based companies. This means that FASB has only one major legal system and government to consider. When offering interpretations or other guidance on application of standards, the FASB can utilize knowledge of the US-based legal and taxation systems to help guide their points of clarification and can even create interpretations for specific industries. This means that interpretation and guidance on US GAAP standards can often contain specific details and guidelines in order to help align the accounting process with legal matters and tax laws.</para>
+<para id="fs-idm402224640">In applying their conceptual framework to create standards, the IASB must consider that their standards are being used in 120 or more different countries, each with its own legal and judicial systems. Therefore, it is much more difficult for the IASB to provide as much detailed guidance once the standard has been written, because what might work in one country from a taxation or legal standpoint might not be appropriate in a different country. This means that IFRS interpretations and guidance have fewer detailed components for specific industries as compared to US GAAP guidance.</para>
+</note>
+<para id="fs-idm390074416">The conceptual framework sets the basis for accounting standards set by rule-making bodies that govern how the financial statements are prepared. Here are a few of the principles, assumptions, and concepts that provide guidance in developing GAAP.</para>
+<section id="fs-idm673661456">
+<title>Revenue Recognition Principle</title>
+<para id="fs-idm390457536">The <term>revenue recognition principle</term> directs a company to recognize revenue in the period in which it is earned; revenue is not considered earned until a product or service has been provided. This means the period of time in which you performed the service or gave the customer the product is the period in which revenue is recognized.</para>
+<para id="fs-idm684883040">There also does not have to be a correlation between when cash is collected and when revenue is recognized. A customer may not pay for the service on the day it was provided. Even though the customer has not yet paid cash, there is a reasonable expectation that the customer will pay in the future. Since the company has provided the service, it would recognize the revenue as earned, even though cash has yet to be collected.</para>
+<para id="fs-idm403080784">For example, Lynn Sanders owns a small printing company, Printing Plus. She completed a print job for a customer on August 10. The customer did not pay cash for the service at that time and was billed for the service, paying at a later date. When should Lynn recognize the revenue, on August 10 or at the later payment date? Lynn should record revenue as earned on August 10. She provided the service to the customer, and there is a reasonable expectation that the customer will pay at the later date.</para>
+</section>
+<section id="fs-idm639035024">
+<title>Expense Recognition (Matching) Principle</title>
+<para id="fs-idm393243712">The <term>expense recognition principle</term> (also referred to as the <term class="no-emphasis">matching principle</term>) states that we must match expenses with associated revenues in the period in which the revenues were earned. A mismatch in expenses and revenues could be an understated net income in one period with an overstated net income in another period. There would be no reliability in statements if expenses were recorded separately from the revenues generated.</para>
+<para id="fs-idm400663920">For example, if Lynn earned printing revenue in April, then any associated expenses to the revenue generation (such as paying an employee) should be recorded on the same income statement. The employee worked for Lynn in April, helping her earn revenue in April, so Lynn must match the expense with the revenue by showing both on the April income statement.</para>
+</section>
+<section id="fs-idm399655600">
+<title>Cost Principle</title>
+<para id="fs-idm371406560">The <term>cost principle</term>, also known as the <term class="no-emphasis">historical cost principle</term>, states that virtually everything the company owns or controls (<emphasis effect="italics">assets</emphasis>) must be recorded at its value at the date of acquisition. For most assets, this value is easy to determine as it is the price agreed to when buying the asset from the vendor. There are some exceptions to this rule, but always apply the cost principle unless FASB has specifically stated that a different valuation method should be used in a given circumstance.</para>
+<para id="fs-idm365510784">The primary exceptions to this historical cost treatment, at this time, are financial instruments, such as stocks and bonds, which might be recorded at their fair market value. This is called mark-to-market accounting or fair value accounting and is more advanced than the general basic concepts underlying the introduction to basic accounting concepts; therefore, it is addressed in more advanced accounting courses.</para>
+<para id="fs-idm409252656">Once an asset is recorded on the books, the value of that asset must remain at its historical cost, even if its value in the market changes. For example, Lynn Sanders purchases a piece of equipment for $40,000. She believes this is a bargain and perceives the value to be more at $60,000 in the current market. Even though Lynn feels the equipment is worth $60,000, she may only record the cost she paid for the equipment of $40,000.</para>
+</section>
+<section id="fs-idm412575664">
+<title>Full Disclosure Principle</title>
+<para id="fs-idm408883248">The <term>full disclosure principle</term> states that a business must report any business activities that could affect what is reported on the financial statements. These activities could be nonfinancial in nature or be supplemental details not readily available on the main financial statement. Some examples of this include any pending litigation, acquisition information, methods used to calculate certain figures, or stock options. These disclosures are usually recorded in footnotes on the statements, or in addenda to the statements.</para>
+</section>
+<section id="fs-idm685976048">
+<title>Separate Entity Concept</title>
+<para id="fs-idm413122352">The <term>separate entity concept</term> prescribes that a business may only report activities on financial statements that are specifically related to company operations, not those activities that affect the owner personally. This concept is called the separate entity concept because the business is considered an entity separate and apart from its owner(s).</para>
+<para id="fs-idm390507088">For example, Lynn Sanders purchases two cars; one is used for personal use only, and the other is used for business use only. According to the separate entity concept, Lynn may record the purchase of the car used by the company in the company’s accounting records, but not the car for personal use.</para>
+</section>
+<section id="fs-idm409235616">
+<title>Conservatism</title>
+<para id="fs-idm681511984">This concept is important when valuing a transaction for which the dollar value cannot be as clearly determined, as when using the cost principle. <term>Conservatism</term> states that if there is uncertainty in a potential financial estimate, a company should err on the side of caution and report the most conservative amount. This would mean that any uncertain or estimated expenses/losses should be recorded, but uncertain or estimated revenues/gains should not. This understates net income, therefore reducing profit. This gives stakeholders a more reliable view of the company’s financial position and does not overstate income.</para>
+</section>
+<section id="fs-idm389854608">
+<title>Monetary Measurement Concept</title>
+<para id="fs-idm390096944">In order to record a transaction, we need a system of <term>monetary measurement</term>, or a <emphasis effect="italics">monetary unit</emphasis> by which to value the transaction. In the United States, this monetary unit is the US dollar. Without a dollar amount, it would be impossible to record information in the financial records. It also would leave stakeholders unable to make financial decisions, because there is no comparability measurement between companies. This concept ignores any change in the purchasing power of the dollar due to inflation.</para>
+</section>
+<section id="fs-idm394368784">
+<title>Going Concern Assumption</title>
+<para id="fs-idm389022096">The <term>going concern assumption</term> assumes a business will continue to operate in the foreseeable future. A common time frame might be twelve months. However, one should presume the business is doing well enough to continue operations unless there is evidence to the contrary. For example, a business might have certain expenses that are paid off (or reduced) over several time periods. If the business will stay operational in the foreseeable future, the company can continue to recognize these long-term expenses over several time periods. Some red flags that a business may no longer be a going concern are defaults on loans or a sequence of losses.</para>
+</section>
+<section id="fs-idm398097376">
+<title>Time Period Assumption</title>
+<para id="fs-idm390960624">The <term>time period assumption</term> states that a company can present useful information in shorter time periods, such as years, quarters, or months. The information is broken into time frames to make comparisons and evaluations easier. The information will be timely and current and will give a meaningful picture of how the company is operating.</para>
+<para id="fs-idm407811520">For example, a school year is broken down into semesters or quarters. After each semester or quarter, your grade point average (GPA) is updated with new information on your performance in classes you completed. This gives you timely grading information with which to make decisions about your schooling.</para>
+<para id="fs-idm366746432">A potential or existing investor wants timely <emphasis effect="bold">i</emphasis>nformation by which to measure the performance of the company, and to help decide whether to invest. Because of the time period assumption, we need to be sure to recognize revenues and expenses in the proper period. This might mean allocating costs over more than one accounting or reporting period.</para>
+<para id="fs-idm393710688">The use of the principles, assumptions, and concepts in relation to the preparation of financial statements is better understood when looking at the full accounting cycle and its relation to the detailed process required to record business activities (<link target-id="OSX_Acct_F03_01_GAAPTree"/>).</para>
+<figure id="OSX_Acct_F03_01_GAAPTree">
+<media id="fs-idm393733024" alt="Hierarchical group of boxes representing the organizations that create generally accepted accounting principles (GAAP) and the principles, conventions, assumptions, and concepts that support GAAP. The top box is labeled SEC (enforces GAAP). The box below that is labeled FASB (sets GAAP). The box below that is labeled GAAP Accounting Standards. Below that are four boxes labeled left to right: Expense Recognition Principle; Full Disclosure Principle; Conservatism Convention; Going Concern Assumption. Below that are five boxes labeled left to right: Revenue Recognition Principle; Cost Principle; Separate Entity Concept; Monetary Measurement Concept; Time Period Assumption.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_01_GAAPTree.jpg"/>
+</media>
+<caption>GAAP Accounting Standards Connection Tree. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm401429424" class="concepts-practice">
+<title>Tax Cuts and Jobs Act</title>
+<para id="fs-idm397732832">In 2017, the US government enacted the Tax Cuts and Jobs Act. As a result, financial stakeholders needed to resolve several issues surrounding the standards from GAAP principles and the FASB. The issues were as follows: “Current Generally Accepted Accounting Principles (GAAP) requires that deferred tax liabilities and assets be adjusted for the effect of a change in tax laws or rates,” and “implementation issues related to the Tax Cuts and Jobs Act and income tax reporting.”<footnote id="fs-idm674128368">Financial Accounting Standards Board (FASB). “Accounting for the Tax Cuts and Jobs Act.” https://www.fasb.org/taxcutsjobsact#section_1</footnote></para>
+<para id="fs-idm406422800">In response, the FASB issued updated guidance on both issues. You can explore these revised guidelines at the FASB website (https://www.fasb.org/taxcutsjobsact#section_1).</para>
+</note>
+</section>
+</section>
+<section id="fs-idm398235568">
+<title>The Accounting Equation</title>
+<para id="fs-idm410545968"><link document="m67837">Introduction to Financial Statements</link> briefly discussed the accounting equation, which is important to the study of accounting because it shows what the organization owns and the sources of (or claims against) those resources. The <term class="no-emphasis">accounting equation</term> is expressed as follows:</para>
+<media id="fs-idm359825968" class="scaled-down" alt="Assets equal Liabilities plus Owner’s Equity.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_02_AcctEq_img.jpg"/>
+</media>
+<para id="fs-idm412986048">Recall that the accounting equation can be thought of from a “sources and claims” perspective; that is, the assets (items owned by the organization) were obtained by incurring liabilities or were provided by owners. Stated differently, everything a company owns must equal everything the company owes to creditors (lenders) and owners (individuals for sole proprietors or stockholders for companies or corporations).</para>
+<para id="fs-idm417562208">In our example in <link document="m67842">Why It Matters</link>, we used an individual owner, Mark Summers, for the Supreme Cleaners discussion to simplify our example. Individual owners are sole proprietors in legal terms. This distinction becomes significant in such areas as legal liability and tax compliance. For sole proprietors, the owner’s interest is labeled “owner’s equity.”</para>
+<para id="fs-idm390380048">In <link document="m67837">Introduction to Financial Statements</link>, we addressed the owner’s value in the firm as <emphasis effect="italics">capital</emphasis> or <emphasis effect="italics">owner’s equity</emphasis>. This assumed that the business is a sole proprietorship. However, for the rest of the text we switch the structure of the business to a corporation, and instead of owner’s equity, we begin using <emphasis effect="italics">stockholder’s equity</emphasis>, which includes account titles such as <emphasis effect="italics">common stock</emphasis> and <emphasis effect="italics">retained earnings</emphasis> to represent the owners’ interests. The primary reason for this distinction is that the typical company can have several to thousands of owners, and the financial statements for corporations require a greater amount of complexity.</para>
+<para id="fs-idm383638656">As you also learned in <link document="m67837">Introduction to Financial Statements</link>, the accounting equation represents the balance sheet and shows the relationship between assets, liabilities, and owners’ equity (for sole proprietorships/individuals) or common stock (for companies).</para>
+<para id="fs-idm391165504">You may recall from mathematics courses that an equation must always be in balance. Therefore, we must ensure that the two sides of the accounting equation are always equal. We explore the components of the accounting equation in more detail shortly. First, we need to examine several underlying concepts that form the foundation for the accounting equation: the double-entry accounting system, debits and credits, and the “normal” balance for each account that is part of a formal accounting system.</para>
+</section>
+<section id="fs-idm395956048">
+<title>Double-Entry Bookkeeping</title>
+<para id="fs-idm393838848">The basic components of even the simplest accounting system are <emphasis effect="italics">accounts</emphasis> and a <emphasis effect="italics">general ledger</emphasis>. An <term>account</term> is a record showing increases and decreases to assets, liabilities, and equity—the basic components found in the accounting equation. As you know from <link document="m67837">Introduction to Financial Statements</link>, each of these categories, in turn, includes many individual accounts, all of which a company maintains in its general ledger. A <term>general ledger</term> is a comprehensive listing of all of a company’s accounts with their individual balances.</para>
+<para id="fs-idm413356560">Accounting is based on what we call a <term>double-entry accounting system</term>, which requires the following:</para>
+<list id="fs-idm390009136" list-type="bulleted" bullet-style="bullet">
+<item>Each time we record a transaction, we must record a change in at least two different accounts. Having two or more accounts change will allow us to keep the accounting equation in balance.</item>
+<item>Not only will at least two accounts change, but there must also be at least one debit and one credit side impacted.</item>
+<item>The sum of the debits must equal the sum of the credits for each transaction.</item>
+</list>
+<para id="fs-idm390558224">In order for companies to record the myriad of transactions they have each year, there is a need for a simple but detailed system. Journals are useful tools to meet this need.</para>
+</section>
+<section id="fs-idm412293680">
+<title>Debits and Credits</title>
+<para id="fs-idm415246608">Each account can be represented visually by splitting the account into left and right sides as shown. This graphic representation of a general ledger account is known as a <term>T-account</term>. The concept of the T-account was briefly mentioned in <link document="m67837">Introduction to Financial Statements</link> and will be used later in this chapter to analyze transactions. A T-account is called a “T-account” because it looks like a “T,” as you can see with the T-account shown here.</para>
+<media id="fs-idm393127040" class="scaled-down-30" alt="A representation of a T-account. There is a horizontal line across the center, above which is the label Account Title (such as Cash or Accounts Payable). There is a short vertical line extending below the center of the horizontal line. The space to the left of the vertical line is labeled Debit. The space to the right of the vertical line is labeled Credit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_04_TAcct01_img.jpg"/>
+</media>
+<para id="fs-idm406728160">A <term>debit</term> records financial information on the left side of each account. A <term>credit</term> records financial information on the right side of an account. One side of each account will increase and the other side will decrease. The <term>ending account balance</term> is found by calculating the difference between debits and credits for each account. You will often see the terms <emphasis effect="italics">debit</emphasis> and <emphasis effect="italics">credit</emphasis> represented in shorthand, written as <emphasis effect="italics">DR</emphasis> or <emphasis effect="italics">dr</emphasis> and <emphasis effect="italics">CR</emphasis> or <emphasis effect="italics">cr</emphasis>, respectively. Depending on the account type, the sides that increase and decrease may vary. We can illustrate each account type and its corresponding debit and credit effects in the form of an <emphasis effect="italics">expanded accounting equation</emphasis>. You will learn more about the expanded accounting equation and use it to analyze transactions in <link document="m67844">Define and Describe the Expanded Accounting Equation and Its Relationship to Analyzing Transactions</link>.</para>
+<media id="fs-idm388778368" alt="A representation of the expanded accounting equation divided into an upper and lower section. The upper section reads, from left to right, Assets equal Liabilities plus Equity. Equity is above a long horizontal line below which is labeled, from left to right, Common Stock minus Dividends plus Revenues minus Expenses. The lower section contains six T-accounts that are arranged under the labels in the upper section. The top of each T-account is labeled Debit on the left side and Credit on the right side. The T-account below Assets is labeled Increase on the left and Decrease on the right. The T-account below Liabilities is labeled Decrease on the left and Increase on the right. The T-account below Common Stock is labeled Decrease on the left and Increase on the right. The T-account below Dividends is labeled Increase on the left and Decrease on the right. The T-account below Revenues is labeled Decrease on the left and Increase on the right. The T-account below Expenses is labeled Increase on the left and Decrease on the right.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_04_TAcct02_img.jpg"/>
+</media>
+<para id="fs-idm414138080">As we can see from this expanded accounting equation, Assets accounts increase on the debit side and decrease on the credit side. This is also true of Dividends and Expenses accounts. Liabilities increase on the credit side and decrease on the debit side. This is also true of Common Stock and Revenues accounts. This becomes easier to understand as you become familiar with the <emphasis effect="italics">normal balance</emphasis> of an account.</para>
+</section>
+<section id="fs-idm412980960">
+<title>Normal Balance of an Account</title>
+<para id="fs-idm407938864">The <term>normal balance</term> is the expected balance each account type maintains, which is the side that increases. As assets and expenses increase on the debit side, their normal balance is a debit. Dividends paid to shareholders also have a normal balance that is a debit entry. Since liabilities, equity (such as common stock), and revenues increase with a credit, their “normal” balance is a credit. <link target-id="fs-idm395510976"/> shows the normal balances and increases for each account type.</para>
+<table id="fs-idm395510976" class="top-titled" summary="No Summary">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c3">Account Normal Balances and Increases</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Type of account</entry>
+<entry valign="top" align="center">Increases with</entry>
+<entry valign="top" align="center">Normal balance</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Asset</entry>
+<entry valign="top" align="center">Debit</entry>
+<entry valign="top" align="center">Debit</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Liability</entry>
+<entry valign="top" align="center">Credit</entry>
+<entry valign="top" align="center">Credit</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Common Stock</entry>
+<entry valign="top" align="center">Credit</entry>
+<entry valign="top" align="center">Credit</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dividends</entry>
+<entry valign="top" align="center">Debit</entry>
+<entry valign="top" align="center">Debit</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Revenue</entry>
+<entry valign="top" align="center">Credit</entry>
+<entry valign="top" align="center">Credit</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Expense</entry>
+<entry valign="top" align="center">Debit</entry>
+<entry valign="top" align="center">Debit</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm374438208">When an account produces a balance that is contrary to what the expected normal balance of that account is, this account has an <term>abnormal balance</term>. Let’s consider the following example to better understand abnormal balances.</para>
+<para id="fs-idm417346288">Let’s say there were a credit of $4,000 and a debit of $6,000 in the Accounts Payable account. Since Accounts Payable increases on the credit side, one would expect a normal balance on the credit side. However, the difference between the two figures in this case would be a debit balance of $2,000, which is an abnormal balance. This situation could possibly occur with an overpayment to a supplier or an error in recording.</para>
+<note id="fs-idm415792688" class="concepts-practice">
+<title>Assets</title>
+<para id="fs-idm402385952">We define an asset to be a resource that a company owns that has an economic value. We also know that the employment activities performed by an employee of a company are considered an expense, in this case a salary expense. In baseball, and other sports around the world, players’ contracts are consistently categorized as assets that lose value over time (they are amortized).</para>
+<para id="fs-idm357001984">For example, the <emphasis class="colored-text">Texas Rangers</emphasis> list “Player rights contracts and signing bonuses-net” as an asset on its balance sheet. They decrease this asset’s value over time through a process called <emphasis effect="italics">amortization</emphasis>. For tax purposes, players’ contracts are treated akin to office equipment even though expenses for player salaries and bonuses have already been recorded. This can be a point of contention for some who argue that an owner does not assume the lost value of a player’s contract, the player does.<footnote id="fs-idm389097392">Tommy Craggs. “MLB Confidential, Part 3: Texas Rangers.” Deadspin. August 24, 2010. https://deadspin.com/5619951/mlb-confidential-part-3-texas-rangers</footnote></para>
+</note>
+</section>
+<section id="fs-idm416918768" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm399595936" list-type="bulleted" bullet-style="bullet">
+<item>The Financial Accounting Standards Board (FASB) is an independent, nonprofit organization that sets the standards for financial accounting and reporting standards for both public- and private-sector businesses in the United States, including generally accepted accounting principles (GAAP).</item>
+<item>GAAP are the concepts, standards, and rules that guide the preparation and presentation of financial statements.</item>
+<item>The Securities and Exchange Commission (SEC) is an independent federal agency that is charged with protecting the interests of investors, regulating stock markets, and ensuring companies adhere to GAAP requirements.</item>
+<item>The FASB uses a conceptual framework, which is a set of concepts that guide financial reporting.</item>
+<item>The revenue recognition principle requires companies to record revenue when it is earned. Revenue is earned when a product or service has been provided.</item>
+<item>The expense recognition principle requires that expenses incurred match with revenues earned in the same period. The expenses are associated with revenue generation.</item>
+<item>The cost principle records assets at their value at the date of acquisition. A company may not record what it estimates or thinks the value of the asset is, only what is verifiable. This verification is typically represented by an actual transaction.</item>
+<item>The full disclosure principle requires companies to relay any information to the public that may affect financials that are not readily available on the financial statements. This helps users of information make decisions that are more informed.</item>
+<item>The separate entity concept maintains that only business activities, and not the owner’s personal financials, may be reported on company financial statements.</item>
+<item>Conservatism prescribes that a company should record expenses or losses when there is an expectation of their existence but only recognize gains or revenue when there is assurance that they will be realized.</item>
+<item>Monetary measurement requires a monetary unit be used to report financial information, such as the US dollar. This makes information comparable.</item>
+<item>The going concern assumption assumes that a business will continue to operate in the foreseeable future. If there is a concern the business will not continue operating, this needs to be disclosed to management and other users of information.</item>
+<item>Time period assumption presents financial information in equal and short time frames, such as a month, quarter, or year.</item>
+<item>The accounting equation shows that assets must equal the sum of liabilities and equity. Transactions are analyzed with this equation to prepare for the next step in the accounting cycle.</item>
+</list>
+</section>
+<section id="fs-idm407216576" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm390991968">
+<problem id="fs-idm378483248">
+<para id="fs-idm646232688"><link class="lo-reference" document="m67843"/>That a business may only report activities on financial statements that are specifically related to company operations, not those activities that affect the owner personally, is known as which of the following?</para>
+<list id="fs-idm417349056" list-type="enumerated" number-style="upper-alpha">
+<item>separate entity concept</item>
+<item>monetary measurement concept</item>
+<item>going concern assumption</item>
+<item>time period assumption</item>
+</list>
+</problem>
+<solution id="fs-idm378476112">
+<para id="fs-idm403347696">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm401248816">
+<problem id="fs-idm417658752">
+<para id="fs-idm414519888"><link class="lo-reference" document="m67843"/>That companies can present useful information in shorter time periods such as years, quarters, or months is known as which of the following?</para>
+<list id="fs-idm410194336" list-type="enumerated" number-style="upper-alpha">
+<item>separate entity concept</item>
+<item>monetary measurement concept</item>
+<item>going concern assumption</item>
+<item>time period assumption</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm389746928">
+<problem id="fs-idm398110992">
+<para id="fs-idm375948720"><link class="lo-reference" document="m67843"/>The system of using a monetary unit, such as the US dollar, to value the transaction is known as which of the following?</para>
+<list id="fs-idm408291440" list-type="enumerated" number-style="upper-alpha">
+<item>separate entity concept</item>
+<item>monetary measurement concept</item>
+<item>going concern assumption</item>
+<item>time period assumption</item>
+</list>
+</problem>
+<solution id="fs-idm403029744">
+<para id="fs-idm410974192">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm395528320">
+<problem id="fs-idm394114624">
+<para id="fs-idm394346256"><link class="lo-reference" document="m67843"/>Which of the following terms is used when assuming a business will continue to operate in the foreseeable future?</para>
+<list id="fs-idm388930896" list-type="enumerated" number-style="upper-alpha">
+<item>separate entity concept</item>
+<item>monetary measurement concept</item>
+<item>going concern assumption</item>
+<item>time period assumption</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm414526720">
+<problem id="fs-idm398435056">
+<para id="fs-idm382081792"><link class="lo-reference" document="m67843"/>The independent, nonprofit organization that sets financial accounting and reporting standards for both public- and private-sector businesses that use generally accepted accounting principles (GAAP) in the United States is which of the following?</para>
+<list id="fs-idm410773712" list-type="enumerated" number-style="upper-alpha">
+<item>Financial Accounting Standards Board (FASB)</item>
+<item>generally accepted accounting principles (GAAP)</item>
+<item>Securities and Exchange Commission (SEC)</item>
+<item>conceptual framework</item>
+</list>
+</problem>
+<solution id="fs-idm391194864">
+<para id="fs-idm416099808">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm394109440">
+<problem id="fs-idm415900544">
+<para id="fs-idm373616544"><link class="lo-reference" document="m67843"/>The standards, procedures, and principles companies must follow when preparing their financial statements are known as which of the following?</para>
+<list id="fs-idm408896384" list-type="enumerated" number-style="upper-alpha">
+<item>Financial Accounting Standards Board (FASB)</item>
+<item>generally accepted accounting principles (GAAP)</item>
+<item>Securities and Exchange Commission (SEC)</item>
+<item>conceptual framework</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm397434832">
+<problem id="fs-idm374147088">
+<para id="fs-idm395529600"><link class="lo-reference" document="m67843"/>These are used by the FASB, and it is a set of concepts that guide financial reporting.</para>
+<list id="fs-idm410880320" list-type="enumerated" number-style="upper-alpha">
+<item>Financial Accounting Standards Board (FASB)</item>
+<item>generally accepted accounting principles (GAAP)</item>
+<item>Securities and Exchange Commission (SEC)</item>
+<item>conceptual framework</item>
+</list>
+</problem>
+<solution id="fs-idm399692928">
+<para id="fs-idm417574480">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm418290544">
+<problem id="fs-idm378478160">
+<para id="fs-idm395485888"><link class="lo-reference" document="m67843"/>This is the independent federal agency protecting the interests of investors, regulating stock markets, and ensuring companies adhere to GAAP requirements.</para>
+<list id="fs-idm388532128" list-type="enumerated" number-style="upper-alpha">
+<item>Financial Accounting Standards Board (FASB)</item>
+<item>generally accepted accounting principles (GAAP)</item>
+<item>Securities and Exchange Commission (SEC)</item>
+<item>conceptual framework</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm390266656">
+<problem id="fs-idm417402768">
+<para id="fs-idm400596272"><link class="lo-reference" document="m67843"/>Which of the following is the principle that a company must recognize revenue in the period in which it is earned; it is not considered earned until a product or service has been provided?</para>
+<list id="fs-idm398226080" list-type="enumerated" number-style="upper-alpha">
+<item>revenue recognition principle</item>
+<item>expense recognition (matching) principle</item>
+<item>cost principle</item>
+<item>full disclosure principle</item>
+</list>
+</problem>
+<solution id="fs-idm394270304">
+<para id="fs-idm403089776">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm416453040">
+<problem id="fs-idm388710960">
+<para id="fs-idm366648064"><link class="lo-reference" document="m67843"/>Which of the following is the principle that a business must report any business activities that could affect what is reported on the financial statements?</para>
+<list id="fs-idm383680112" list-type="enumerated" number-style="upper-alpha">
+<item>revenue recognition principle</item>
+<item>expense recognition (matching) principle</item>
+<item>cost principle</item>
+<item>full disclosure principle</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm406742592">
+<problem id="fs-idm412296944">
+<para id="fs-idm395445952"><link class="lo-reference" document="m67843"/>Also known as the historical cost principle, ________ states that everything the company owns or controls (assets) must be recorded at their value at the date of acquisition.</para>
+<list id="fs-idm410196192" list-type="enumerated" number-style="upper-alpha">
+<item>revenue recognition principle</item>
+<item>expense recognition (matching) principle</item>
+<item>cost principle</item>
+<item>full disclosure principle</item>
+</list>
+</problem>
+<solution id="fs-idm391092000">
+<para id="fs-idm413106880">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm385482560">
+<problem id="fs-idm374076016">
+<para id="fs-idm391854016"><link class="lo-reference" document="m67843"/>Which of the following principles matches expenses with associated revenues in the period in which the revenues were generated?</para>
+<list id="fs-idm392290864" list-type="enumerated" number-style="upper-alpha">
+<item>revenue recognition principle</item>
+<item>expense recognition (matching) principle</item>
+<item>cost principle</item>
+<item>full disclosure principle</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm416024928" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm395141472">
+<problem id="fs-idm394227552">
+<para id="fs-idm415286400"><link class="lo-reference" document="m67843"/>Explain what conservatism means, and give an example in your own words.</para>
+</problem>
+<solution id="fs-idm366766896">
+<para id="fs-idm393954256">Conservatism means that if there is uncertainty in a potential financial estimate, a company should err on the side of caution and report the most conservative amount. For the example, answers will vary. Sample answer: When I am budgeting for revenue in our household, I estimate what amount we will be paid, and I always round slightly down and with the expenses round up slightly so that there is a little leftover.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm396044480" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm398264512">
+<problem id="fs-idm393185824">
+<para id="fs-idm415977376"><link class="lo-reference" document="m67843"/>Match the correct term with its definition.</para>
+<table id="fs-idm388846592" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">A. cost principle</entry>
+<entry valign="top" align="left">i. if uncertainty in a potential financial estimate, a company should err on the side of caution and report the most conservative amount</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">B. full disclosure principle</entry>
+<entry valign="top" align="left">ii. also known as the historical cost principle, states that everything the company owns or controls (assets) must be recorded at their value at the date of acquisition</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C. separate entity concept</entry>
+<entry valign="top" align="left">iii. (also referred to as the matching principle) matches expenses with associated revenues in the period in which the revenues were generated</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">D. monetary measurement concept</entry>
+<entry valign="top" align="left">iv. business must report any business activities that could affect what is reported on the financial statements</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">E. conservatism</entry>
+<entry valign="top" align="left">v. system of using a monetary unit by which to value the transaction, such as the US dollar</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">F. revenue recognition principle</entry>
+<entry valign="top" align="left">vi. period of time in which you performed the service or gave the customer the product is the period in which revenue is recognized</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">G. expense recognition principle</entry>
+<entry valign="top" align="left">vii. business may only report activities on financial statements that are specifically related to company operations, not those activities that affect the owner personally</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm394045808" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm392445728">
+<problem id="fs-idm397948000">
+<para id="fs-idm372505744"><link class="lo-reference" document="m67843"/>Match the correct term with its definition.</para>
+<table id="fs-idm417513536" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">A. Financial Accounting Standards Board (FASB)</entry>
+<entry valign="top" align="left">i. used by the FASB, which is a set of concepts that guide financial reporting</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">B. generally accepted accounting principles (GAAP)</entry>
+<entry valign="top" align="left">ii. independent, nonprofit organization that sets financial accounting and reporting standards for both public- and private-sector businesses that use generally accepted accounting principles (GAAP) here in the United States</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C. Securities and Exchange Commission (SEC)</entry>
+<entry valign="top" align="left">iii. standards, procedures, and principles companies must follow when preparing their financial statements</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">D. conceptual framework</entry>
+<entry valign="top" align="left">iv. assumes a business will continue to operate in the foreseeable future</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">E. going concern assumption</entry>
+<entry valign="top" align="left">v. independent federal agency protecting the interests of investors, regulating stock markets, and ensuring companies adhere to GAAP requirements</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">F. time period assumption</entry>
+<entry valign="top" align="left">vi. companies can present useful information in shorter time periods such as years, quarters, or months</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm686111344" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm354188656">
+<problem id="fs-idm673552224">
+<para id="fs-idm376002416"><link class="lo-reference" document="m67843"/>For each of the following situations write the principle, assumption, or concept that justifies or explains what occurred.</para>
+<list id="fs-idm673905136" list-type="enumerated" number-style="upper-alpha">
+<item>A landscaper received a customer’s order and cash prepayment to install sod at a house that would not be ready for installation until March of next year. The owner should record the revenue from the customer order in March of next year, not in December of this year.</item>
+<item>A company divides its income statements into four quarters for the year.</item>
+<item>Land is purchased for $205,000 cash; the land is reported on the balance sheet of the purchaser at $205,000.</item>
+<item>Brandy’s Flower Shop is forecasting its balance sheet for the next five years.</item>
+<item>When preparing financials for a company, the owner makes sure that the expense transactions are kept separate from expenses of the other company that he owns.</item>
+<item>A company records the expenses incurred to generate the revenues reported.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm397420704" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm366615600">
+<problem id="fs-idm398106624">
+<para id="fs-idm382110096"><link class="lo-reference" document="m67843"/>Is it possible to be too conservative? Explain your answer.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm388747568">
+<problem id="fs-idm397620096">
+<para id="fs-idm365562928"><link class="lo-reference" document="m67843"/>Why is it important to learn all of this terminology when accounting is a quantitative subject?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm392367056">
+<term>abnormal balance</term>
+<meaning id="fs-idm402159264">account balance that is contrary to the expected normal balance of that account</meaning>
+</definition>
+<definition id="fs-idm394602480">
+<term>conceptual framework</term>
+<meaning id="fs-idm357299424">interrelated objectives and fundamentals of accounting principles for financial reporting</meaning>
+</definition>
+<definition id="fs-idm388689024">
+<term>conservatism</term>
+<meaning id="fs-idm397388752">concept that if there is uncertainty in a potential financial estimate, a company should err on the side of caution and report the most conservative amount</meaning>
+</definition>
+<definition id="fs-idm403309456">
+<term>cost principle</term>
+<meaning id="fs-idm404869344">everything the company owns or controls (assets) must be recorded at its value at the date of acquisition</meaning>
+</definition>
+<definition id="fs-idm357302992">
+<term>credit</term>
+<meaning id="fs-idm388664976">records financial information on the right side of an account</meaning>
+</definition>
+<definition id="fs-idm385208192">
+<term>debit</term>
+<meaning id="fs-idm393159200">records financial information on the left side of each account</meaning>
+</definition>
+<definition id="fs-idm389792864">
+<term>double-entry accounting system</term>
+<meaning id="fs-idm389856960">requires the sum of the debits to equal the sum of the credits for each transaction</meaning>
+</definition>
+<definition id="fs-idm392441408">
+<term>ending account balance</term>
+<meaning id="fs-idm352036112">difference between debits and credits for an account</meaning>
+</definition>
+<definition id="fs-idm367472512">
+<term>expense recognition principle</term>
+<meaning id="fs-idm395178560">(also, matching principle) matches expenses with associated revenues in the period in which the revenues were generated</meaning>
+</definition>
+<definition id="fs-idm399986816">
+<term>full disclosure principle</term>
+<meaning id="fs-idm364765008">business must report any business activities that could affect what is reported on the financial statements</meaning>
+</definition>
+<definition id="fs-idm389826720">
+<term>general ledger</term>
+<meaning id="fs-idm673877040">comprehensive listing of all of a company’s accounts with their individual balances</meaning>
+</definition>
+<definition id="fs-idm389790496">
+<term>going concern assumption</term>
+<meaning id="fs-idm393628496">absent any evidence to the contrary, assumption that a business will continue to operate in the indefinite future</meaning>
+</definition>
+<definition id="fs-idm397631248">
+<term>monetary measurement</term>
+<meaning id="fs-idm397872272">system of using a monetary unit by which to value the transaction, such as the US dollar</meaning>
+</definition>
+<definition id="fs-idm406488400">
+<term>normal balance</term>
+<meaning id="fs-idm391198176">expected balance each account type maintains, which is the side that increases</meaning>
+</definition>
+<definition id="fs-idm410375072">
+<term>revenue recognition principle</term>
+<meaning id="fs-idm402211984">principle stating that a company must recognize revenue in the period in which it is earned; it is not considered earned until a product or service has been provided</meaning>
+</definition>
+<definition id="fs-idm388244944">
+<term>separate entity concept</term>
+<meaning id="fs-idm406700880">business may only report activities on financial statements that are specifically related to company operations, not those activities that affect the owner personally</meaning>
+</definition>
+<definition id="fs-idm277796512">
+<term>stockholders‛ equity</term>
+<meaning id="fs-idm954622736">owner (stockholders‛) investments in the business and earnings</meaning>
+</definition>
+<definition id="fs-idm391227968">
+<term>T-account</term>
+<meaning id="fs-idm393122272">graphic representation of a general ledger account in which each account is visually split into left and right sides</meaning>
+</definition>
+<definition id="fs-idm686169296">
+<term>time period assumption</term>
+<meaning id="fs-idm414521904">companies can present useful information in shorter time periods such as years, quarters, or months</meaning>
+</definition>
+</glossary>
+</document>

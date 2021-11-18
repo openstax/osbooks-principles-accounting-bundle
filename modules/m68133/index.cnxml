@@ -1,0 +1,324 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Prepare Journal Entries for a Process Costing System</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68133</md:content-id>
+  <md:title>Prepare Journal Entries for a Process Costing System</md:title>
+  <md:abstract/>
+  <md:uuid>de7e730f-c5b1-4518-b92e-02369712505a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm519462656">Calculating the costs associated with the various processes within a process costing system is only a part of the accounting process. Journal entries are used to record and report the financial information relating to the transactions. The example that follows illustrates how the journal entries reflect the process costing system by recording the flow of goods and costs through the process costing environment.</para>
+<section id="fs-idm348749312">
+<title>Purchased Materials for Multiple Departments</title>
+<para id="fs-idm482799936">Each department within Rock City Percussion has a separate work in process inventory account. Raw materials totaling $33,500 were ordered prior to being requisitioned by each department: $25,000 for the shaping department and $8,500 for the packaging department. The July 1 journal entry to record the purchases on account is:</para>
+<media id="fs-idm519659488" alt="Journal entry for July 1 debiting Materials Inventory and crediting Accounts Payable for 33,500. Explanation: To record purchase of raw materials.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_05_Journal01_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm363960752">
+<title>Direct Materials Requisitioned by the Shaping and Packaging Departments and Indirect Material Used</title>
+<para id="fs-idm363777888">During July, the shaping department requisitioned $10,179 in direct material. Similar to job order costing, indirect material costs are accumulated in the manufacturing overhead account. The overhead costs are applied to each department based on a predetermined overhead rate. In the example, assume that there was an indirect material cost for water of $400 in July that will be recorded as manufacturing overhead. The journal entry to record the requisition and usage of direct materials and overhead is:</para>
+<media id="fs-idm366685856" alt="Journal entry for July 1 debiting Work in Process Inventory: Shaping Department 10,179 and Manufacturing Overhead 400, and crediting Materials Inventory 10,579. Explanation: To record direct and indirect material cost for July in the Shaping Department.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_05_Journal02_img.jpg"/>
+</media>
+<para id="fs-idm365564880">During July, the packaging department requisitioned $2,000 in direct material and overhead costs for indirect material totaled $300 for the month of July. The journal entry to record the requisition and usage of materials is:</para>
+<media id="fs-idm515718336" alt="Journal entry for July 1 debiting Work in Process Inventory: Packaging Department 2,000 and Manufacturing Overhead 300, and crediting Materials Inventory 2,300. Explanation: To record direct and indirect material cost for July in the Packaging Department.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_05_Journal03_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm367205808">
+<title>Direct Labor Paid by All Production Departments</title>
+<para id="fs-idm332842240">During July, the shaping department incurred $15,000 in direct labor costs and $600 in indirect labor. The journal entry to record the labor costs is:</para>
+<media id="fs-idm385268128" alt="Journal entry for July 1 debiting Work in Process Inventory: Shaping Department 15,000 and Manufacturing Overhead 600, and crediting Wages Payable 15,600. Explanation: To record direct and indirect labor for July in the Shaping Department.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_05_Journal04_img.jpg"/>
+</media>
+<para id="fs-idm365458624">During July, the packaging department incurred $13,000 of direct labor costs and indirect labor of $1,000. The journal entry to record the labor costs is:</para>
+<media id="fs-idm363933312" alt="Journal entry for July 1 debiting Work in Process Inventory: Packaging Department 13,000 and Manufacturing Overhead 1,000, and crediting Wages Payable 14,000. Explanation: To record direct and indirect labor for July in the Packaging Department.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_05_Journal05_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm367247808">
+<title>Applied Manufacturing Overhead to All Production Departments</title>
+<para id="fs-idm374230240">Manufacturing overhead includes indirect material, indirect labor, and other types of manufacturing overhead. It is difficult, if not impossible, to trace manufacturing overhead to a specific product, and yet, the total cost per unit needs to include overhead in order to make management decisions.</para>
+<para id="fs-idm363829712">Overhead costs are accumulated in a manufacturing overhead account and applied to each department on the basis of a predetermined overhead rate. Properly allocating overhead to each department depends on finding an activity that provides a fair basis for the allocation. It needs to be an activity common to each department and influential in driving the cost of manufacturing overhead. In traditional costing systems, the most common activities used are machine hours, direct labor in dollars, or direct labor in hours. If the number of machine hours can be related to the manufacturing overhead, the overhead can be applied to each department based on the machine hours. The formula for overhead allocation is:</para>
+<media id="fs-idm378773232" class="scaled-down" alt="Overhead Allocation equals Estimated Overhead Costs ($) divided by Expected Annual Activity (machine hours).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_05_EquatOH1_img.jpg"/>
+</media>
+<para id="fs-idm388170528">Rock City Percussion determined that machine hours is the appropriate base to use when allocating overhead. The estimated annual overhead cost is $340,000 per year. It was also estimated that the total machine hours will be 34,000 hours, so the allocation rate is computed as:</para>
+<media id="fs-idm362787712" class="scaled-down" alt="Estimated Overhead Costs ($340,000) divided by Expected Annual Activity (34,000) equals $10 per machine hour.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_05_EquatOH2_img.jpg"/>
+</media>
+<para id="fs-idm371714704">The shaping department used 700 machine hours, and with an overhead application rate of $10 per direct labor hour, the journal entry to record the overhead allocation is:</para>
+<media id="fs-idm356244288" alt="Journal entry for July 1 debiting Work in Process Inventory: Shaping Department, and crediting Manufacturing Overhead 7,000. Explanation: To record overhead applied to the Shaping Department.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_05_Journal06_img.jpg"/>
+</media>
+<para id="fs-idm350064352">The finishing department used 910 machine hours, and with an overhead application rate of $10 per direct labor hour, the journal entry to record the overhead allocation is:</para>
+<media id="fs-idm383381760" alt="Journal entry for July 1 debiting Work in Process Inventory: Finishing Department and crediting Manufacturing Overhead 9,100. Explanation: To record overhead applied to the Finishing Department.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_05_Journal07_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm386425664">
+<title>Transferred Costs of Finished Goods from the Shaping Department to the Packaging Department</title>
+<para id="fs-idm493703136">When the units are transferred from the shaping department to the packaging department, they are transferred at $3.97 per unit, as calculated previously. The amount transferred from the shaping department is the same amount listed on the production cost report in <link document="m68131" target-id="OSX_Acct_M05_03_ProdCost"/>. The journal entry is:</para>
+<media id="fs-idm483333744" alt="Journal entry for July 1 debiting Work in Process Inventory: Finishing Department, and crediting work in Process Inventory: Shaping Department 29,775. Explanation: To record the weighted-average method of the cost of goods transferred from the shaping department to the packaging department.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_05_Journal08_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm376221280">
+<title>Transferred Goods from the Packaging Department to Finished Goods</title>
+<para id="fs-idm379369776">The computation of inventory for the packaging department is shown in <link target-id="OSX_Acct_M05_05_ProdCost2"/>.</para>
+<figure id="OSX_Acct_M05_05_ProdCost2">
+<media id="fs-idm367295216" alt="Costs to account for: Beginning WIP materials 1,600, Beginning WIP Conversion 6,580 Direct Material $2,000, Direct Labor 13,000, Applied Overhead 9,100, Transferred In materials 8,775, Transferred in conversion 21,000 equals Total Costs to Account for $62,055 Units to account for: Beginning WIP 750, Units started into production 7,500, Total units to account for 8,250. Step 1: Units to Assign Costs: Completed and transferred out 6,500, Ending WIP 1,750, Total units to account for 8,250. Step 2: Computing Equivalent Units of Production (WIP completion 40%); Total units, 100 percent Materials Unit, 40 percent Conversion Units, respectively: Completed and transferred out 6,600, 6,500, 6,500; Ending WIP 1,750, 1,750, 700; Total units to account for 8,250, 8,250, 7,200. Step 3: Determining Cost per Equivalent Unit; Costs to account for: Beginning WIP $8,180, 1,600, 6,580; Incurred during the period $26,100, 2,000, 22,100; Transferred in $29,775, 8,775, 21,000; Total costs to account for 62,055, 12,375, 49,680 Equivalent units –, 8250, 7,200; Cost per equivalent unit for dep’t 8.40, 1.50, 6.90. Step 4: Allocating the Costs to Units Transferred to Finished Goods and Partially Completed Units; Transferred out costs (6,500 units times $1.50) plus (6,500 units times $6.90) equals 54,600; End. WIP: materials (1,750 times $1.50) equals $2,625; End. WIP: conversion (700 times $6.90) equals $4,830; End WIP total $2,625 plus 4,830 equals 7,455; Costs to account for $62,055.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_05_ProdCost2.jpg"/>
+</media>
+<caption>Inventory Computation for Packaging Department. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm385547808">The value of the inventory transferred to finished goods in the production cost report is the same as in the journal entry:</para>
+<media id="fs-idm377947440" alt="Journal entry for July 1 debiting Finished Goods Inventory and crediting Work in Process Inventory: Packaging Department for $54,600. Explanation: To transfer completed goods into Finished Goods.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_05_Journal10_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm388646832">
+<title>Recording the Cost of Goods Sold Out of the Finished Goods Inventory</title>
+<para id="fs-idm356146816">Each unit is a package of two drumsticks that cost $8.40 to make and sells for $24.99. There are two transactions when recording a sale. One entry is to transfer the inventory from finished goods inventory to cost of goods sold and is at the cost of the product. The second transaction is to record the sale at the sales price. The compound entry to record both transactions for the sale of 500 units on account is:</para>
+<media id="fs-idm380311264" alt="Journal entry July 1 debiting Cost of Goods Sold and crediting Finished Goods Inventory for $4,200. Explanation: To record the cost of sale of 500 units. Journal entry July 1 debiting Accounts Receivable and crediting Sales for 12,495. Explanation: To record the sale of 500 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_05_Journal11_img.jpg"/>
+</media>
+<note id="fs-idm364118496" class="link-to-learning">
+<para id="fs-idm384884352">The importance of properly recording the production process is illustrated in this <link url="https://openstax.org/l/50WorkInProcess">report on work in process inventory</link> from InventoryOps.com.</para>
+</note>
+</section>
+<section id="fs-idm372647056" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm370282448" list-type="bulleted" bullet-style="bullet">
+<item>Traditional journal entries show the purchase of material and the incurring of overhead costs.</item>
+<item>Each department records the transfer of material from the storeroom into production, its direct labor costs, the application of overhead, and the transfer of goods to the next department or finished goods.</item>
+<item>The value of the inventory transferred to the next department or to finished goods equals the amount listed as transferred on the production cost report.</item>
+</list>
+</section>
+<section id="fs-idm365423232" class="multiple-choice">
+<exercise id="fs-idm368815552">
+<problem id="fs-idm372593584">
+<para id="fs-idm325665264"><link class="lo-reference" document="m68133"/>The journal entry to record the $500 of work in process ending inventory that consists of $300 of direct materials, $50 of manufacturing overhead, and $150 of direct labor is which of the following?</para><list id="fs-idm370228656" list-type="enumerated" number-style="upper-alpha">
+<item><newline/><media id="fs-idm364343104" class="scaled-down" alt="Debit Work in Process Inventory, Credit Accounts Payable 500 (When added to the process).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_07_MC01_img.jpg"/>
+</media></item>
+<item><newline/><media id="fs-idm366407472" class="scaled-down" alt="Debit work in Process Inventory 500, credit Materials Inventory 300, Labor Payable 150, Manufacturing Overhead 50 (As incurred or applied).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_07_MC02_img.jpg"/>
+</media></item>
+<item><newline/><media id="fs-idm383902704" class="scaled-down" alt="Debit Cost of Goods Sold and debit Work in Process Inventory 500 (When transferred).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_07_MC03_img.jpg"/>
+</media></item>
+<item><newline/><media id="fs-idm363057360" class="scaled-down" alt="Debit Accounts Payable and credit Work in Process Inventory 500 (When added to the process).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_07_MC04_img.jpg"/>
+</media></item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm383545408">
+<problem id="fs-idm366776368">
+<para id="fs-idm374014032"><link class="lo-reference" document="m68133"/>Assigning indirect costs to departments is completed by ________.</para>
+<list id="fs-idm378161008" list-type="enumerated" number-style="upper-alpha">
+<item>applying the predetermined overhead rate</item>
+<item>debiting the manufacturing costs incurred</item>
+<item>applying the costs to manufacturing overhead</item>
+<item>applying the costs to work in process inventory</item>
+</list>
+</problem>
+<solution id="fs-idm379089904">
+<para id="fs-idm362401904">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm369029280">
+<problem id="fs-idm348548464">
+<para id="fs-idm366919056"><link class="lo-reference" document="m68133"/>In a process costing system, which account shows the overhead assigned to the department?</para>
+<list id="fs-idm348449792" list-type="enumerated" number-style="upper-alpha">
+<item>cost of goods sold</item>
+<item>finished goods inventory</item>
+<item>raw material inventory</item>
+<item>work in process inventory</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm374374912">
+<problem id="fs-idm384330976">
+<para id="fs-idm383652192"><link class="lo-reference" document="m68133"/>In a process cost system, factory depreciation expense incurred is debited to ________.</para>
+<list id="fs-idm369434032" list-type="enumerated" number-style="upper-alpha">
+<item>finished goods inventory</item>
+<item>work in process inventory</item>
+<item>manufacturing overhead</item>
+<item>cost of goods sold</item>
+</list>
+</problem>
+<solution id="fs-idm379214976">
+<para id="fs-idm368560544">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm373486688" class="questions">
+<exercise id="fs-idm385505824">
+<problem id="fs-idm385532080">
+<para id="fs-idm382679616"><link class="lo-reference" document="m68133"/>Match each term with its description.</para>
+<table id="fs-idm377298224" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">A. conversion costs</entry>
+<entry valign="top" align="left">i. total of direct material costs and direct labor costs</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">B. cost of goods sold</entry>
+<entry valign="top" align="left">ii. manufacturing costs of the items sold</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C. cost of production report</entry>
+<entry valign="top" align="left">iii. number of units produced if each unit was produced sequentially</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">D. cost per equivalent unit</entry>
+<entry valign="top" align="left">iv. total of direct labor costs, indirect labor costs, indirect material costs, and manufacturing overhead</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">E. equivalent units of production</entry>
+<entry valign="top" align="left">v. where costs in a process cost system are reported before being applied to the product</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">F. manufacturing department</entry>
+<entry valign="top" align="left">vi. detailed listing of the total costs of the product including the value of work in process</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">G. prime costs</entry>
+<entry valign="top" align="left">vii. cost of materials or conversion for a specific department during production</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H. transferred out costs</entry>
+<entry valign="top" align="left">viii. product of the total cost per unit and the number of units completed and transferred during the time period</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+<solution id="fs-idm356330944">
+<para id="fs-idm378726032">A. iv; B. ii; C. vi; D. vii; E. iii; F. v; G. i; H. viii.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm366638944">
+<problem id="fs-idm384396304">
+<para id="fs-idm388466768"><link class="lo-reference" document="m68133"/>How is manufacturing overhead handled in a process cost system?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm350231584">
+<problem id="fs-idm330161408">
+<para id="fs-idm378520080"><link class="lo-reference" document="m68133"/>How are predetermined overhead rates used in process costing?</para>
+</problem>
+<solution id="fs-idm385515200">
+<para id="fs-idm386921920">Prior to the new year, a company computes the estimates of the annual overhead per department divided by the estimated driver for that department. A driver is the measure that increases the cost of overhead and is commonly direct labor hours, direct labor cost, or machine hours. The result is the predetermined overhead rate. Costs are accumulated in an account called <emphasis effect="italics">manufacturing overhead</emphasis>. At the end of each period, the overhead is removed from the overhead account and applied to the department.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm368073248" class="exercise-set-a">
+<exercise id="fs-idm372456368">
+<problem id="fs-idm362877184">
+<para id="fs-idm388555392"><link class="lo-reference" document="m68133"/>Overhead is assigned to the manufacturing department at the rate of $10 per machine hour. There were 3,500 machine hours during October in the shaping department and 2,500 in the packaging department. Prepare the journal entry to apply overhead to the manufacturing departments.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm483838624">
+<problem id="fs-idm370315200">
+<para id="fs-idm380981664"><link class="lo-reference" document="m68133"/>Prepare the journal entry to record the factory wages of $28,000 incurred for a single production department assuming payment will be made in the next pay period.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm368440400">
+<problem id="fs-idm388527264">
+<para id="fs-idm370338368"><link class="lo-reference" document="m68133"/>Prepare the journal entry to record the transfer of 3,000 units from the packaging department to finished goods if the material cost per unit is $4 and the conversion cost per unit is $5.50.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm375457424">
+<problem id="fs-idm366340176">
+<para id="fs-idm344299728"><link class="lo-reference" document="m68133"/>Prepare the journal entry to record the sale of 2,000 units that cost $8 per unit and sold for $15 per unit.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm380446320" class="exercise-set-b">
+<exercise id="fs-idm372620176">
+<problem id="fs-idm366472704">
+<para id="fs-idm384500192"><link class="lo-reference" document="m68133"/>Overhead is assigned to the manufacturing department at the rate of $5 per machine hour. There were 3,000 machine hours used in the molding department. Prepare the journal entry to apply overhead to the manufacturing department.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm500094832">
+<problem id="fs-idm363064176">
+<para id="fs-idm483548960"><link class="lo-reference" document="m68133"/>Prepare the journal entry to record the factory wages of $25,000 incurred in the processing department and $15,000 incurred in the production department assuming payment will be made in the next pay period.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm380202832">
+<problem id="fs-idm370495968">
+<para id="fs-idm380624320"><link class="lo-reference" document="m68133"/>Prepare the journal entry to record the transfer of 3,500 units from the separation department to the mash department if the material cost per unit is $2 and the conversion cost per unit is $5.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm367211232">
+<problem id="fs-idm515556736">
+<para id="fs-idm362801104"><link class="lo-reference" document="m68133"/>Prepare the journal entry to record the sale of 700 units that cost $5 per unit and sold for $15 per unit.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm365466720" class="problem-set-a">
+<exercise id="fs-idm366932128">
+<problem id="fs-idm373664096">
+<para id="fs-idm523095968"><link class="lo-reference" document="m68133"/>Selected information from Skylar Studios shows the following:</para>
+<media id="fs-idm371673328" class="scaled-down" alt="Raw materials purchased $5,000, Direct materials $1,500, Direct labor $11,000, Factory depreciation $2,000, Total manufacturing overhead incurred $15,000, Machine hours per month 28,000, Unit cost for material $2, Unit cost of conversion $8, Number units transferred 15,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_05_PA01_img.jpg"/>
+</media>
+<para id="fs-idm370232720">Prepare journal entries to record the following:</para>
+<list id="fs-idm368546576" list-type="enumerated" number-style="upper-alpha">
+<item>raw material purchased</item>
+<item>direct labor incurred</item>
+<item>depreciation expense (hint: this is part of manufacturing overhead)</item>
+<item>raw materials used</item>
+<item>overhead applied on the basis of $0.50 per machine hour</item>
+<item>the transfer from department 1 to department 2</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm380126464">
+<problem id="fs-idm365622544">
+<para id="fs-idm364392928"><link class="lo-reference" document="m68133"/>Loanstar had 100 units in beginning inventory before starting 950 units and completing 800 units. The beginning work in process inventory consisted of $2,000 in materials and $5,000 in conversion costs before $8,500 of materials and $11,200 of conversion costs were added during the month. The ending WIP inventory was 100% complete with regard to materials and 40% complete with regard to conversion costs. Prepare the journal entry to record the transfer of inventory from the manufacturing department to the finished goods department.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm363964752" class="problem-set-b">
+<exercise id="fs-idm380474960">
+<problem id="fs-idm356256752">
+<para id="fs-idm370827072"><link class="lo-reference" document="m68133"/>Selected information from Hernandez Corporation shows the following:</para>
+<media id="fs-idm368502800" class="scaled-down" alt="Raw materials purchased $12,000, Direct materials $3,500, Direct labor $14,000, Factory depreciation $4,200, Total manufacturing overhead incurred $18,500, Machine hours per month 34,000, Unit cost for material $2.75, Unit cost of conversion $5.95, Number units transferred 16,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M05_05_PB03_img.jpg"/>
+</media>
+<para id="fs-idm385623504">Prepare journal entries to record the following:</para>
+<list id="fs-idm385965504" list-type="enumerated" number-style="upper-alpha">
+<item>raw material purchased</item>
+<item>direct labor incurred</item>
+<item>depreciation expense (hint: this is part of manufacturing overhead)</item>
+<item>raw materials used</item>
+<item>overhead applied on the basis of $0.50 per machine hour</item>
+<item>the transfer from department 1 to department 2</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm383750016">
+<problem id="fs-idm367480832">
+<para id="fs-idm366419328"><link class="lo-reference" document="m68133"/>Rexar had 1,000 units in beginning inventory before starting 9,500 units and completing 8,000 units. The beginning work in process inventory consisted of $5,000 in materials and $8,500 in conversion costs before $16,000 of materials and $18,500 of conversion costs were added during the month. The ending WIP inventory was 100% complete with regard to materials and 40% complete with regard to conversion costs. Prepare the journal entry to record the transfer of inventory from the manufacturing department to the finished goods department.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm363178352" class="thought-provokers">
+<exercise id="fs-idm381218656">
+<problem id="fs-idm385536896">
+<para id="fs-idm386869216"><link class="lo-reference" document="m68133"/>What is different between the journal entries for process costing and that of job order costing?</para>
+</problem>
+</exercise>
+</section>
+  </content>
+</document>

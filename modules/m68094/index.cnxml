@@ -1,0 +1,308 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Compare and Contrast Non-Time Value-Based Methods and Time Value-Based Methods in Capital Investment Decisions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68094</md:content-id>
+  <md:title>Compare and Contrast Non-Time Value-Based Methods and Time Value-Based Methods in Capital Investment Decisions</md:title>
+  <md:abstract/>
+  <md:uuid>11537665-7d68-4444-a8af-d32f88f8e98b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm743561408">When an investment opportunity is presented to a company, there are many financial and non-financial factors to consider. Using capital budgeting methods to narrow down the choices by removing unviable alternatives is an important process for any successful business. The four methods for capital budgeting analysis—payback period, accounting rate of return, net present value, and internal rate of return—all have their strengths and weaknesses, which are discussed as follows.</para>
+<section id="fs-idm174863792">
+<title>Summary of the Strengths and Weaknesses of the Non-Time Value-Based Capital Budgeting Methods</title>
+<para id="fs-idm478841136">Non-time value-based capital budgeting methods are best used in an initial screening process when there are many alternatives to choose from. Two such methods are payback method and accounting rate of return. Their strengths and weaknesses are discussed in <link target-id="fs-idm448038768"/> and <link target-id="fs-idm461032528"/>.</para>
+<para id="fs-idm174865184">The payback method determines the length of time needed to recoup an investment.</para>
+<table id="fs-idm448038768" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Payback Method</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Strengths</entry>
+<entry valign="top" align="center">Weaknesses</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">
+<list id="fs-idm449056384" list-type="bulleted" bullet-style="bullet">
+<item>Simple calculation</item>
+<item>Screens out many unviable alternatives quickly</item>
+<item>Removes high-risk investments from consideration</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list id="fs-idm170026096" list-type="bulleted" bullet-style="bullet">
+<item>Does not consider time value of money</item>
+<item>Profitability of an investment is ignored</item>
+<item>Cash flows beyond investment return are not considered</item>
+</list>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm464715488">Accounting rate of return measures incremental increases to net income. This method has several strengths and weaknesses that are similar to payback period but include a deeper evaluation of income.</para>
+<table id="fs-idm461032528" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Accounting Rate of Return</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Strengths</entry>
+<entry valign="top" align="center">Weaknesses</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">
+<list id="fs-idm196160816" list-type="bulleted" bullet-style="bullet">
+<item>Simple calculation</item>
+<item>Screens out many unviable options quickly</item>
+<item>Considers the impact on income rather than cash flows only (profitability)</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list id="fs-idm448213088" list-type="bulleted" bullet-style="bullet">
+<item>Does not consider the time value of money</item>
+<item>Return rates for the entire lifespan of the investment is not considered</item>
+<item>External factors, such as inflation, are ignored</item>
+<item>Return rates override the risk of investment</item>
+</list>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm214246256">Because of the limited information each of the non-time value-based methods give, they are typically used in conjunction with time value-based capital budgeting methods.</para>
+</section>
+<section id="fs-idm198548096">
+<title>Summary of the Strengths and Weaknesses of the Time Value-Based Capital Budgeting Methods</title>
+<para id="fs-idm208516080">Time value-based capital budgeting methods are best used after an initial screening process, when a company is choosing between few alternatives. They help determine the best of the alternatives that a company should pursue. Two such methods are net present value and internal rate of return. Their strengths and weaknesses are presented in <link target-id="fs-idm482613488"/> and <link target-id="fs-idm190341264"/>.</para>
+<para id="fs-idm216887824">Net present value converts future cash flow dollars into current values to determine if the initial investment is less than the future returns.</para>
+<table id="fs-idm482613488" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Net Present Value</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Strengths</entry>
+<entry valign="top" align="center">Weaknesses</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">
+<list id="fs-idm480893328" list-type="bulleted" bullet-style="bullet">
+<item>Considers the time value of money</item>
+<item>Acknowledges higher risk investments</item>
+<item>Comparable future earnings with today's value</item>
+<item>Allows for a selection of investment</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list id="fs-idm201210224" list-type="bulleted" bullet-style="bullet">
+<item>Requires a more difficult calculation than non-time value methods</item>
+<item>Required return rate is an estimate, thus any changes to this condition and the impact that has on earnings are unknown</item>
+<item>Difficult to compare alternatives that have varying investment amounts</item>
+</list>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm178865360">Internal rate of return looks at future cash flows as compared to an initial investment to find the rate of return on investment. The goal is to have an interest rate higher than the predetermined rate of return to consider investment.</para>
+<table id="fs-idm190341264" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Internal Rate of Return</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Strengths</entry>
+<entry valign="top" align="center">Weaknesses</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">
+<list id="fs-idm221125008" list-type="bulleted" bullet-style="bullet">
+<item>Considers the time value of money</item>
+<item>Easy to compare different-sized investments, removes dollar bias</item>
+<item>A predetermined rate of return is not required</item>
+<item>Allows for a selection of investment</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list id="fs-idm201486880" list-type="bulleted" bullet-style="bullet">
+<item>Does not acknowledge higher risk investments because the focus is on return rates</item>
+<item>More difficult calculation than non-time value methods, and outcome may be uncertain if not using a financial calculator or spreadsheet program</item>
+<item>If the time for return on investment is important, IRR will not place more importance on shorter-term investments</item>
+</list>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm225116928">After a time-value based capital budgeting method is analyzed, a company can be move toward a decision on an investment opportunity. This is of particular importance when resources are limited.</para>
+<para id="fs-idm215081872">Before discussing the mechanics of choosing the NPV versus the IRR method for decision-making, we first need to discuss one cardinal rule of using the NPV or IRR methods to evaluate time-sensitive investments or asset purchases: If a project or investment has a positive NPV, then it will, by definition, have an IRR that is above the interest rate used to calculate the NPV.</para>
+<para id="fs-idm159716608">For example, assume that a company is considering buying a piece of equipment. They determine that it will cost $30,000 and will save them $10,000 a year in expenses for five years. They have decided that the interest rate that they will choose to calculate the NPV and to evaluate the purchase IRR is 8%, predicated on current loan rates available. Based on this sample data, the NPV will be positive $9,927 ($39,927 PV for inflows and $30,000 PV for the outflows), and the IRR will be 19.86%. Since the calculations require at least an 8% return, the company would accept the project using either method. We will not spend additional time on the calculations at this point, since our purpose is to create numbers to analyze. If you want to duplicate the calculations, you can use a software program such as Excel or a financial calculator.</para>
+<note id="fs-idm183959840" class="concepts-practice">
+<title>Solar Energy as Capital Investment</title>
+<para id="fs-idm187816544">A recent capital investment decision that many company leaders need to make is whether or not to invest in solar energy. Solar energy is replacing fossil fuels as a power source, and it provides a low-cost energy, reducing overhead costs. The expensive up-front installation costs can deter some businesses from making the initial investment.</para>
+<para id="fs-idm159502368">Businesses must now choose between an expensive initial capital outlay and the long-term benefits of solar power. A capital investment such as this would require an initial screening and preference process to determine if the cost savings and future benefits are worth more today than the current capital expenditure. If it makes financial sense, they may look to invest in this increasingly popular energy source.</para>
+</note>
+<para id="fs-idm467612752">Now, we return to our comparison of the NPV and IRR methods. There are typically two situations that we want to consider. The first involves looking at projects that are not mutually exclusive, meaning we can consider more than one possibility. If a company is considering non-mutually exclusive opportunities, they will generally consider all options that have a positive NPV or an IRR that is above the target rate of interest as favorable options for an investment or asset purchase. In this situation, the NPV and IRR methods will provide the same accept-or-reject decision. If the company accepts a project or investment under the NPV calculation, then they will accept it under the IRR method. If they reject it under the NPV calculation, then they will also reject under the IRR method.</para>
+<para id="fs-idm453386496">The second situation involves mutually exclusive opportunities. For example, if a company has one computer system and is considering replacing it, they might look at seven options that have favorable NPVs and IRRs, even though they only need one computer system. In this case, they would choose only one of the seven possible options.</para>
+<para id="fs-idm214995024">In the case of mutually exclusive options, it is possible that the NPV method will select Option A while the IRR method might choose Option D. The primary reason for this difference is that the NPV method uses dollars and the IRR uses an interest rate. The two methods may select different options if the company has investments with major differences in costs in terms of dollars. While both will identify an investment or purchase that exceeds the required standards of a positive NPV or an interest rate above the target interest rate, they might lead the company to choose different positive options. When this occurs, the company needs to consider other conditions, such as qualitative factors, to make their decision. Future cost accounting or finance courses will cover this content in more detail.</para>
+</section>
+<section id="fs-idm460608800">
+<title>Final Comparison of the Four Capital Budgeting Options</title>
+<para id="fs-idm762205904">A company will be presented with many alternatives for investment. It is up to management to analyze each investment’s possibilities using capital budgeting methods. The company will want to first screen each possibility with the payback method and accounting rate of return. The payback method will show the company how long it will take to recoup their investment, while accounting rate of return gives them the profitability of the alternatives. This screening will typically get rid of non-viable options and allow the company to further consider a select few alternatives. A more detailed analysis is found in time-value methods, such as net present value and internal rate of return. Net present value converts future cash flows into today’s valuation for comparability purposes to see if an initial outlay of cash is worth future earnings. The internal rate of return determines the minimum expected return on a project given the present value of cash flow expectations and the initial investment. Analyzing these opportunities, with consideration given to time value of money, allows a company to make an informed decision on how to make large capital expenditures.</para>
+<note id="fs-idm212993088" class="ethical-considerations">
+<title>Barclays and the LIBOR Scandal</title>
+<para id="fs-idm200023328">As discussed in <link document="m68089" target-id="fs-idm363057360">Volkswagen Diesel Emissions Scandal</link>, when a company makes an unethical decision, it must adjust its budget for fines and lawsuits. In 2012, <emphasis class="colored-text">Barclays</emphasis>, a British financial services company, was caught illegally manipulating LIBOR interest rates. LIBOR sets the interest rate for many types of loans. As CNN reported, “LIBOR, which stands for London Interbank Offered Rate, is the rate at which banks lend to each other, and is used globally to price financial products, such as mortgages, worth hundreds of trillions of dollars.”<footnote id="fs-idm200756624">Charles Riley. “Remember the Libor Scandal? Well It's Coming Back to Haunt the Bank of England.” CNN. April 10, 2017. https://money.cnn.com/2017/04/10/investing/bank-of-england-libor-barclays/index.html</footnote></para>
+<para id="fs-idm177663120">While <emphasis class="colored-text">Volkswagen</emphasis> decided to cover the costs related to fines and lawsuits by reducing its capital budget for technology and research, <emphasis class="colored-text">Barclays</emphasis> took a different approach. The company chose to “cut or claw back of about 450 million pounds ($680 million) of pay from its staff” and from past pay packages “another 140 million pounds ($212 million).”<footnote id="fs-idm174078304">Steve Slater. “Barclays to Cut Pay by $890 Million over Scandals: Source.” Reuters. February 27, 2013. https://www.reuters.com/article/us-barclays-libor-pay/barclays-to-cut-pay-by-890-million-over-scandals-source-idUSBRE91Q0SD20130227</footnote> Instead of reducing other areas of its capital budget, <emphasis class="colored-text">Barclays</emphasis> decided to cover its fines and lawsuits by cutting employee compensation.</para>
+<para id="fs-idm199327264">The LIBOR scandal involved a number of international banks and rocked the international banking community. An independent review of <emphasis class="colored-text">Barclays</emphasis> reported that “if Barclays is to achieve a material improvement in its reputation, it will need to continue to make changes to its top levels of pay so as to reflect talent and contribution more realistically, and in ways that mean something to the general public.”<footnote id="fs-idm216818560">Anthony Salz. <emphasis effect="italics">Salz Review: An Independent Review of Barclays’ Business Practices.</emphasis> April 3, 2018. https://online.wsj.com/public/resources/documents/SalzReview04032013.pdf</footnote> Previously, as described by the company website, “Barclays has been a leader in innovation; funding the world’s ﬁrst industrial steam railway, naming the UK’s first female branch manager and introducing the world’s first ATM machine.”<footnote id="fs-idm203878192">“Our History.” Barclays. n.d. https://www.banking.barclaysus.com/our-history.html</footnote> The positive reputation <emphasis class="colored-text">Barclays</emphasis> built over 300 years was tarnished by just one scandal, and demonstrates the difficulty of calculating just how much unethical behavior will cost a company’s reputation.</para>
+</note>
+<note id="fs-idm177641776" class="link-to-learning">
+<para id="fs-idm201425408">A popular television show, <emphasis effect="italics">Shark Tank</emphasis>, explores the decision-making process investors use when considering ownership in a new business. Entrepreneurs will pitch their business concept and current position to the “sharks,” who will evaluate the business using capital budgeting methods, such as payback period and net present value, to decide whether or not to invest in the entrepreneur’s company. Learn more about <link url="https://openstax.org/l/50SharkTank"><emphasis effect="italics">Shark Tank</emphasis>’s concept and success stories</link> on the web.</para>
+</note>
+</section>
+<section id="fs-idm210428048" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm216340176" list-type="bulleted" bullet-style="bullet">
+<item>The payback method uses a simple calculation, removes unviable alternatives quickly, and considers investment risk. However, it disregards the time value of money, ignores profitability, and does not consider cash flows after recouping the investment.</item>
+<item>The accounting rate of return uses a simple calculation, considers profitability, and removes unviable options quickly. However, it disregards the time value of money, values return rates more than risk, and ignores external influential factors.</item>
+<item>Net present value considers the time value of money, ranks higher risk investments, and compares future earnings in today’s value. However, it cannot easily compare dissimilar investment opportunities, it uses a more difficult calculation, and it has limitations with the estimation of an expected rate of return.</item>
+<item>Internal rate of return considers the time value of money, removes the dollar bias, and leads a company to a decision, unlike non-time value methods. However, it has a bias toward return rates instead of higher risk investment consideration, it is a more difficult calculation, and it does not consider the time it will take to recoup an investment.</item>
+</list>
+</section>
+<section id="fs-idm214249552" class="multiple-choice">
+<exercise id="fs-idm205218496">
+<problem id="fs-idm219309888">
+<para id="fs-idm214407392"><link class="lo-reference" document="m68094"/>The IRR method assumes that cash flows are reinvested at ________.</para>
+<list id="fs-idm193805392" list-type="enumerated" number-style="upper-alpha">
+<item>the internal rate of return</item>
+<item>the company’s discount rate</item>
+<item>the lower of the company’s discount rate or internal rate of return</item>
+<item>an average of the internal rate of return and the discount rate</item>
+</list>
+</problem>
+<solution id="fs-idm159481248">
+<para id="fs-idm220281552">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm218769184">
+<problem id="fs-idm215956528">
+<para id="fs-idm467778656"><link class="lo-reference" document="m68094"/>When using the NPV method for a particular investment decision, if the present value of all cash inflows is greater than the present value of all cash outflows, then ________.</para>
+<list id="fs-idm203997488" list-type="enumerated" number-style="upper-alpha">
+<item>the discount rate used was too high</item>
+<item>the investment provides an actual rate of return greater than the discount rate</item>
+<item>the investment provides an actual rate of return equal to the discount rate</item>
+<item>the discount rate is too low</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm215496608" class="questions">
+<exercise id="fs-idm221192400">
+<problem id="fs-idm196586096">
+<para id="fs-idm222437920"><link class="lo-reference" document="m68094"/>A fellow student studying managerial accounting says, “The net present value (NPV) weighs early receipts of cash much more heavily than more distant receipts of cash.” Do you agree or disagree? Why?</para>
+</problem>
+<solution id="fs-idm196492064">
+<para id="fs-idm197101040">Answers will vary but should include something like the following: the NPV weighs the early receipt of cash more heavily because when the receipts come in earlier, the discount is closer to 100%; however, the interest rate also impact the NPV.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm207337296">
+<problem id="fs-idm222236032">
+<para id="fs-idm195372480"><link class="lo-reference" document="m68094"/>What are the strengths and weaknesses of NPV?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm200299280">
+<problem id="fs-idm437100976">
+<para id="fs-idm189424448"><link class="lo-reference" document="m68094"/>What are the strengths and weaknesses of IRR?</para>
+</problem>
+<solution id="fs-idm197085664">
+<para id="fs-idm203195776">Strengths: It considers the time value of money, removes the dollar bias, and allows for a company to make a decision, unlike non-time value methods. Weaknesses: It has a bias toward return rates instead of higher risk investment consideration, uses a more difficult calculation, and does not consider the time it will take to recoup an investment.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm165227568">
+<problem id="fs-idm196877280">
+<para id="fs-idm217686640"><link class="lo-reference" document="m68094"/>How does the size of the initial investment affect the internal rate of return on the net present value models?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm159664464" class="exercise-set-a">
+<exercise id="fs-idm210234800">
+<problem id="fs-idm492895728">
+<para id="fs-idm460981328"><link class="lo-reference" document="m68094"/>Towson Industries is considering an investment of $256,950 that is expected to generate returns of $90,000 per year for each of the next four years. What is the investment’s internal rate of return?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm213098640">
+<problem id="fs-idm196588816">
+<para id="fs-idm198998592"><link class="lo-reference" document="m68094"/>Cinemar Productions bought a piece of equipment for $55,898 that will last for 5 years. The equipment will generate net operating cash flows of $14,000 per year and will have no salvage value at the end of its life. What is the internal rate of return?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm216266640" class="exercise-set-b">
+<exercise id="fs-idm223877104">
+<problem id="fs-idm466557808">
+<para id="fs-idm225036624"><link class="lo-reference" document="m68094"/>Taos Productions bought a piece of equipment for $79,860 that will last for 5 years. The equipment will generate net operating cash flows of $20,000 per year and will have no salvage value at the end of its life. What is the internal rate of return?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm467614608" class="problem-set-a">
+<exercise id="fs-idm217541536">
+<problem id="fs-idm178819296">
+<para id="fs-idm189578912"><link class="lo-reference" document="m68094"/>The Ham and Egg Restaurant is considering an investment in a new oven that has a cost of $60,000, with annual net cash flows of $9,950 for 8 years. The required rate of return is 6%. Compute the net present value of this investment to determine whether or not you would recommend that Ham and Egg invest in this oven.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm183034144">
+<problem id="fs-idm207250576">
+<para id="fs-idm215367552"><link class="lo-reference" document="m68094"/>Gallant Sports is considering the purchase of a new rock-climbing facility. The company estimates that the construction will require an initial outlay of $350,000. Other cash flows are estimated as follows:</para>
+<media id="fs-idm218795200" class="scaled-down-30" alt="Year 1 ($60,000). Year 2 $140,000. Year 3 $210,000. Year 4 $130,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_05_PA02_img.jpg"/>
+</media>
+<para id="fs-idm218127824">Assuming the company limits its analysis to four years due to economic uncertainties, determine the net present value of the rock-climbing facility. Should the company develop the facility if the required rate of return is 6%?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm460764576" class="problem-set-b">
+<exercise id="fs-idm196267024">
+<problem id="fs-idm214560128">
+<para id="fs-idm492174512"><link class="lo-reference" document="m68094"/>Bouvier Restaurant is considering an investment in a grill that costs $140,000, and will produce annual net cash flows of $21,950 for 8 years. The required rate of return is 6%.</para>
+<para id="fs-idm203733968">Compute the net present value of this investment to determine whether Bouvier should invest in the grill.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm206762672" class="thought-provokers">
+<exercise id="fs-idm221077024">
+<problem id="fs-idm206867616">
+<para id="fs-idm169034880"><link class="lo-reference" document="m68094"/>Fenton, Inc., has established a new strategic plan that calls for new capital investment. The company has a 9.8% required rate of return and an 8.3% cost of capital. Fenton currently has a return of 10% on its other investments. The proposed new investments have equal annual cash inflows expected. Management used a screening procedure of calculating a payback period for potential investments and annual cash flows, and the IRR for the 7 possible investments are shown. Each investment has a 6-year expected useful life and no salvage value.</para>
+<media id="fs-idm216203712" alt="Payback Period, IRR, Investment Cost (respectively): Project A1, 4.2, 10.5%, $130,000; Project B2, 5.9, 5.1%, $67,000; Project C3, 5.0, 13.4%, $83,000; Project D4, 4.8, 7.4%, $61,000; Project E5, 3.2, 12.1%, $115,000; Project F6, 4.0, 9.9%, $65,000; Project G7, 6.3, 9.8%, $76,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_05_TP01_img.jpg"/>
+</media>
+<list id="fs-idm458980336" list-type="enumerated" number-style="upper-alpha">
+<item>Identify which project(s) is/are unacceptable and briefly state the conceptual justification as to why each of your choices is unacceptable.</item>
+<item>Assume Fenton has $330,000 available to spend. Which remaining projects should Fenton invest in and in what order?</item>
+<item>If Fenton was not limited to a spending amount, should they invest in all of the projects given the company is evaluated using return on investment?</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+</document>

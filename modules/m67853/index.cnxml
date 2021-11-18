@@ -1,0 +1,336 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Prepare Financial Statements Using the Adjusted Trial Balance</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67853</md:content-id>
+  <md:title>Prepare Financial Statements Using the Adjusted Trial Balance</md:title>
+  <md:abstract/>
+  <md:uuid>3cdd94c8-4566-43c4-af30-2570e551557a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm482123936">Once you have prepared the adjusted trial balance, you are ready to prepare the financial statements. Preparing financial statements is the seventh step in the accounting cycle. Remember that we have four <term class="no-emphasis">financial statements</term> to prepare: an income statement, a statement of retained earnings, a balance sheet, and the statement of cash flows. These financial statements were introduced in <link document="m67837">Introduction to Financial Statements</link> and <link document="m67928">Statement of Cash Flows</link> dedicates in-depth discussion to that statement.</para>
+<para id="fs-idm191831200">To prepare the financial statements, a company will look at the adjusted trial balance for account information. From this information, the company will begin constructing each of the statements, beginning with the income statement. <term class="no-emphasis">Income statement</term>s will include all revenue and expense accounts. The statement of retained earnings will include beginning retained earnings, any net income (loss) (found on the income statement), and dividends. The balance sheet is going to include assets, contra assets, liabilities, and stockholder equity accounts, including ending retained earnings and common stock.</para>
+<note id="fs-idm191883936" class="your-turn">
+<title>Magnificent Adjusted Trial Balance</title>
+<media id="fs-idm765057184" class="scaled-down" alt="Magnificent Landscaping Service, Adjusted Trial Balance, April 30, 2018. Debit accounts: Cash $2,950; Accounts Receivable 575; Office Supplies 40; Prepaid Insurance 240; Equipment 2,500; Dividends 1,000; Gas Expense 53; Advertising Expense 35; Depreciation Expense: Equipment 35; Supplies Expense 85; Salaries Expense 420, Total Debits $7,933. Credit accounts: Accumulated Depreciation: Equipment 35; Accounts Payable 28; Salaries Payable 420; Unearned Lawn Mowing Revenue 100; Common Stock 5,000; Lawn Mowing Revenue 2,350; Total Credits $7,933.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_YT01ATB_img.png"/>
+</media>
+<para id="fs-idm440316000">Go over the adjusted trial balance for Magnificent Landscaping Service. Identify which financial statement each account will go on: Balance Sheet, Statement of Retained Earnings, or Income Statement.</para><para id="fs-idm193349920"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm210048064">Balance Sheet: Cash, accounts receivable, office supplied, prepaid insurance, equipment, accumulated depreciation (equipment), accounts payable, salaries payable, unearned lawn mowing revenue, and common stock. Statement of Retained Earnings: Dividends. Income Statement: Lawn mowing revenue, gas expense, advertising expense, depreciation expense (equipment), supplies expense, and salaries expense.</para>
+</note>
+<section id="fs-idm461588400">
+<title>Income Statement</title>
+<para id="fs-idm501431760">An income statement shows the organization’s financial performance for a given period of time. When preparing an income statement, revenues will always come before expenses in the presentation. For Printing Plus, the following is its January 2019 Income Statement.</para>
+<media id="fs-idm237304416" class="scaled-down" alt="Printing Plus, Income Statement, For the Month Ended January 31, 2019. Revenues: Interest Revenue $140; Service Revenue 10,100; Total Revenues $10,240. Expenses: Supplies Expense 100; Depreciation Expense: Equipment 75; Salaries Expense 5,100; Utility Expense 300; Total Expenses 5,575. Net Income $4,665.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_IncStmt_img.jpg"/>
+</media>
+<para id="fs-idm215050688">Revenue and expense information is taken from the adjusted trial balance as follows:</para>
+<media id="fs-idm769772256" alt="Printing Plus, Income Statement, For the Month Ended January 31, 2019. Revenues: Interest Revenue $140; Service Revenue 10,100; Total Revenues $10,240. Expenses: Supplies Expense 100; Depreciation Expense: Equipment 75; Salaries Expense 5,100; Utility Expense 300; Total Expenses 5,575. Net Income $4,665. The Printing Plus Adjusted Trial Balance at January 31, 2019 is to the right of the Income Statement with lines connecting the Income Statement accounts from the Adjusted Trial Balance to the same accounts on the Income Statement. Printing Plus, Adjusted Trial Balance, January 31, 2019. Debit accounts: Cash $24,800; Accounts Receivable 1,200; Interest Receivable 140; Supplies 400; Equipment; 3,500; Dividends 100; Supplies Expense 100; Equipment 75; Salaries Expense 5,100; Utility Expense 300; Total Debit $35,715. Credit accounts; Equipment $75; Accounts Payable 500; Salaries Payable 1,500; Unearned Revenue 3,400; Common Stock 20,000; Interest Revenue 140; Service Revenue 10,100; Total Credit $35,715.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_ISATB_img.jpg"/>
+</media>
+<para id="fs-idm478832512">Total revenues are $10,240, while total expenses are $5,575. Total expenses are subtracted from total revenues to get a net income of $4,665. If total expenses were more than total revenues, Printing Plus would have a net loss rather than a net income. This net income figure is used to prepare the statement of retained earnings.</para>
+<note id="fs-idm230908976" class="concepts-practice">
+<title>The Importance of Accurate Financial Statements</title>
+<para id="fs-idm193271664">Financial statements give a glimpse into the operations of a company, and investors, lenders, owners, and others rely on the accuracy of this information when making future investing, lending, and growth decisions. When one of these statements is inaccurate, the financial implications are great.</para>
+<para id="fs-idm196801312">For example, <emphasis class="colored-text">Celadon Group</emphasis> misreported revenues over the span of three years and elevated earnings during those years. The total overreported income was approximately $200–$250 million. This gross misreporting misled investors and led to the removal of <emphasis class="colored-text">Celadon Group</emphasis> from the New York Stock Exchange. Not only did this negatively impact <emphasis class="colored-text">Celadon Group</emphasis>’s stock price and lead to criminal investigations, but investors and lenders were left to wonder what might happen to their investment.</para>
+<para id="fs-idm495080592">That is why it is so important to go through the detailed accounting process to reduce errors early on and hopefully prevent misinformation from reaching financial statements. The business must have strong internal controls and best practices to ensure the information is presented fairly.<footnote id="fs-idm479392752">James Jaillet. “Celadon under Criminal Investigation over Financial Statements.” <emphasis effect="italics">Commercial Carrier Journal</emphasis>. July 25, 2018. https://www.ccjdigital.com/200520-2/</footnote></para>
+</note>
+</section>
+<section id="fs-idm463170448">
+<title>Statement of Retained Earnings</title>
+<para id="fs-idm764441744">The <term class="no-emphasis">statement of retained earnings</term> (which is often a component of the statement of stockholders’ equity) shows how the equity (or value) of the organization has changed over a period of time. The statement of retained earnings is prepared second to determine the ending retained earnings balance for the period. The statement of retained earnings is prepared before the balance sheet because the ending retained earnings amount is a required element of the balance sheet. The following is the Statement of Retained Earnings for Printing Plus.</para>
+<media id="fs-idm212572672" class="scaled-down" alt="Printing Plus, Statement of Retained Earnings, For Month Ended January 31, 2019. Beginning Retained Earnings (January 1) $0. Plus Net Income 4,665. Minus Dividends (100). Ending Retained Earnings (January 31) $4,565.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_SRE_img.jpg"/>
+</media>
+<para id="fs-idm458316240">Net income information is taken from the income statement, and dividends information is taken from the adjusted trial balance as follows.</para>
+<media id="fs-idm219635552" alt="Printing Plus, Statement of Retained Earnings, For Month Ended January 31, 2019. Beginning Retained Earnings (January 1) $0. Plus Net Income 4,665. Minus Dividends (100). Ending Retained Earnings (January 31) $4,565. To the right of the Statement of Retained Earnings is the Printing Plus Income Statement with a line from Net Income to Net Income on the Statement of Retained Earnings. Below the Income Statement is the Printing Plus Adjusted Trial Balance with a line from Dividends to Dividends on the Statement of Retained Earnings. Printing Plus, Income Statement, For the Month Ended January 31, 2019. Revenues: Interest Revenue $140; Service Revenue 10,100; Total Revenues $10,240. Expenses: Supplies Expense 100; Depreciation Expense: Equipment 75; Salaries Expense 5,100; Utility Expense 300; Total Expenses 5,575. Net Income $4,665. Printing Plus, Adjusted Trial Balance, January 31, 2019. Debit accounts: Cash $24,800; Accounts Receivable 1,200; Interest Receivable 140; Supplies 400; Equipment; 3,500; Dividends 100; Supplies Expense 100; Equipment 75; Salaries Expense 5,100; Utility Expense 300; Total Debit $35,715. Credit accounts; Equipment $75; Accounts Payable 500; Salaries Payable 1,500; Unearned Revenue 3,400; Common Stock 20,000; Interest Revenue 140; Service Revenue 10,100; Total Credit $35,715.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_SREIS_img.jpg"/>
+</media>
+<para id="fs-idm229774832">The statement of retained earnings always leads with beginning retained earnings. Beginning retained earnings carry over from the previous period’s ending retained earnings balance. Since this is the first month of business for Printing Plus, there is no beginning retained earnings balance. Notice the net income of $4,665 from the income statement is carried over to the statement of retained earnings. Dividends are taken away from the sum of beginning retained earnings and net income to get the ending retained earnings balance of $4,565 for January. This ending retained earnings balance is transferred to the balance sheet.</para>
+<note id="fs-idm383704880" class="link-to-learning">
+<para id="fs-idm394796624">Concepts Statements give the Financial Accounting Standards Board (FASB) a guide to creating accounting principles and consider the limitations of financial statement reporting. See the <link url="https://openstax.org/l/50FASBConState">FASB’s “Concepts Statements” page</link> to learn more.</para>
+</note>
+</section>
+<section id="fs-idm214910528">
+<title>Balance Sheet</title>
+<para id="fs-idm479040240">The <term class="no-emphasis">balance sheet</term> is the third statement prepared after the statement of retained earnings and lists what the organization owns (<emphasis effect="italics">assets</emphasis>), what it owes (<emphasis effect="italics">liabilities</emphasis>), and what the shareholders control (<emphasis effect="italics">equity</emphasis>) on a specific date. Remember that the balance sheet represents the accounting equation, where assets equal liabilities plus stockholders’ equity. The following is the Balance Sheet for Printing Plus.</para>
+<media id="fs-idm218682656" alt="Printing Plus, Balance Sheet, January 31, 2019. Assets: Cash $24,800; Accounts Receivable 1,200; Interest Receivable 140; Supplies 400; Equipment 3,500; less Accumulated Depreciation: Equipment (75); Equipment (net) 3,425; Total Assets $29,965. Liabilities: Accounts Payable 500; Salaries Payable 1,500; Unearned Revenue 3,400; Total Liabilities 5,400. Stockholders’ Equity: Common Stock 20,000; Ending Retained Earnings 4,565; Total Stockholders’ Equity 24,565. Total Liabilities and Stockholders’ Equity $29,965.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_BalS01_img.jpg"/>
+</media>
+<para id="fs-idm230698400">Ending retained earnings information is taken from the statement of retained earnings, and asset, liability, and common stock information is taken from the adjusted trial balance as follows.</para>
+<media id="fs-idm192848848" alt="Printing Plus, Balance Sheet, January 31, 2019. Assets: Cash $24,800; Accounts Receivable 1,200; Interest Receivable 140; Supplies 400; Equipment 3,500; less Accumulated Depreciation: Equipment 75; Equipment (net) 3,425; Total Assets $29,965. Liabilities: Accounts Payable 500; Salaries Payable 1,500; Unearned Revenue 3,400; Total Liabilities 5,400. Stockholders’ Equity: Common Stock, 20,000; Ending Retained Earnings 4,565; Total Stockholders’ Equity 24,565. Total Liabilities and Stockholders’ Equity $29,965. To the right of the Balance Sheet is the Printing Plus Adjusted Trial Balance with lines point from the balance sheet accounts to the same accounts on the Balance Sheet. Below the Adjusted Trial Balance is the Printing Plus Statement of Retained Earnings with a line pointing from Ending Retained Earnings to the same account on the Balance Sheet. Printing Plus, Adjusted Trial Balance, January 31, 2019. Debit accounts: Cash $24,800; Accounts Receivable 1,200; Interest Receivable 140; Supplies 400; Equipment; 3,500; Dividends 100; Supplies Expense 100; Equipment 75; Salaries Expense 5,100; Utility Expense 300; Total Debit $35,715. Credit accounts; Equipment $75; Accounts Payable 500; Salaries Payable 1,500; Unearned Revenue 3,400; Common Stock 20,000; Interest Revenue 140; Service Revenue 10,100; Total Credit $35,715. Printing Plus, Statement of Retained Earnings, For Month Ended January 31, 2019. Beginning Retained Earnings (January 1) $0. Plus Net Income 4,665. Minus Dividends (100). Ending Retained Earnings (January 31) $4,565.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_BSATB_img.jpg"/>
+</media>
+<para id="fs-idm209005904">Looking at the asset section of the balance sheet, Accumulated Depreciation–Equipment is included as a contra asset account to equipment. The accumulated depreciation ($75) is taken away from the original cost of the equipment ($3,500) to show the book value of equipment ($3,425). The accounting equation is balanced, as shown on the balance sheet, because total assets equal $29,965 as do the total liabilities and stockholders’ equity.</para>
+<para id="fs-idm180589392">There is a worksheet approach a company may use to make sure end-of-period adjustments translate to the correct financial statements.</para>
+<note id="fs-idm461546160" class="ifrs-connection">
+<title>Financial Statements</title>
+<para id="fs-idm209880560">Both US-based companies and those headquartered in other countries produce the same primary financial statements—Income Statement, Balance Sheet, and Statement of Cash Flows. The presentation of these three primary financial statements is largely similar with respect to what should be reported under US GAAP and IFRS, but some interesting differences can arise, especially when presenting the Balance Sheet.</para>
+<para id="fs-idm211151632">While both US GAAP and IFRS require the same minimum elements that must be reported on the Income Statement, such as revenues, expenses, taxes, and net income, to name a few, publicly traded companies in the United States have further requirements placed by the SEC on the reporting of financial statements. For example, IFRS-based financial statements are only required to report the current period of information and the information for the prior period. US GAAP has no requirement for reporting prior periods, but the SEC requires that companies present one prior period for the Balance Sheet and three prior periods for the Income Statement. Under both IFRS and US GAAP, companies can report more than the minimum requirements.</para>
+<para id="fs-idm216810528">Presentation differences are most noticeable between the two forms of GAAP in the Balance Sheet. Under US GAAP there is no specific requirement on how accounts should be presented. However, the SEC requires that companies present their Balance Sheet information in liquidity order, which means current assets listed first with cash being the first account presented, as it is a company’s most liquid account. Liquidity refers to how easily an item can be converted to cash. IFRS requires that accounts be classified into current and noncurrent categories for both assets and liabilities, but no specific presentation format is required. Thus, for US companies, the first category always seen on a Balance Sheet is Current Assets, and the first account balance reported is cash. This is not always the case under IFRS. While many Balance Sheets of international companies will be presented in the same manner as those of a US company, the lack of a required format means that a company can present noncurrent assets first, followed by current assets. The accounts of a Balance Sheet using IFRS might appear as shown here.</para>
+<media id="fs-idm177105664" alt="International Company, Balance Sheet, December 31, 2020. Assets, Noncurrent Assets: Buildings $1,500,000; Equipment 800,000; Total Noncurrent Assets $2,300,000. Current Assets: Investments $100,000; Inventories 500,000; Accounts Receivable 400,000; Cash 200,000; Total Current Assets 1,200,000. Total Assets $3,500,000. Share Equity and Liabilities, Share Equity: Share Capital, $550,000; Retained Earnings 750,000; Total Share Equity $1,300,000. Long-term Liabilities: Pensions $875,000; Note Payable 325,000; Total Long-Term Liabilities 1,200,000. Current Liabilities: Short-term Note Payable $650,000; Accounts Payable 350,000; Total Current Liabilities 1,000,000. Total Share Equity and Liabilities $3,500,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_IFRS01_img.png"/>
+</media>
+<para id="fs-idm213777456">Review <link url="https://openstax.org/l/50StoraEnso2017">the annual report of Stora Enso</link> which is an international company that utilizes the illustrated format in presenting its Balance Sheet, also called the Statement of Financial Position. The Balance Sheet is found on page 31 of the report.</para>
+<para id="fs-idm200688912">Some of the biggest differences that occur on financial statements prepared under US GAAP versus IFRS relate primarily to measurement or timing issues: in other words, how a transaction is valued and when it is recorded.</para>
+</note>
+</section>
+<section id="fs-idm202499056">
+<title>Ten-Column Worksheets</title>
+<para id="fs-idm176693120">The <term>10-column worksheet</term> is an all-in-one spreadsheet showing the transition of account information from the trial balance through the financial statements. Accountants use the 10-column worksheet to help calculate end-of-period adjustments. Using a 10-column worksheet is an optional step companies may use in their accounting process.</para>
+<para id="fs-idm214078688">Here is a picture of a 10-column worksheet for Printing Plus.</para>
+<media id="fs-idm476559984" alt="Printing Plus, Ten-column Worksheet, For Month Ended January 2019. From left to right, columns are Account Name, Trial Balance, Adjustments, Adjusted Trial Balance, Income Statement, and Balance Sheet. Trial Balance columns. Accounts with debit balances: Cash 24,800; Accounts Receivable 1,200; Supplies 500; Equipment 3,500; Dividends 100; Salaries Expense 3,600; Utility Expense 300; Total Debits 34,000. Accounts with credit balances: Accounts Payable 500; Unearned Revenue 4,000; Common Stock 20,000; Service Revenue 9,500; Total Credits 34,000. Adjustment columns. Debit adjustments include: Interest Receivable 140; Unearned Revenue 600; Supplies Expense 100; Depreciation Expense: Equipment 75; Salaries Expense 1,500; Total debit adjustments 2,415. Credit adjustments include: Supplies 100; Accumulated Depreciation Equipment 75; Salaries Payable 1,500; Interest Revenue 140; Service Revenue 600; Total credit adjustments 2,415. Adjusted Trial Balance columns. Adjusted debit balances: Cash $24,800; Accounts Receivable 1,200; Interest Receivable 140; Supplies 400; Equipment 3,500; Dividends 100; Supplies Expense 100; Depreciation Expense Equipment 75; Salaries Expense 5,100; Utility Expense 300; Total Adjusted Debits $35,715. Adjusted credit balances: Accumulated Depreciation Equipment 75; Accounts Payable, 500; Salaries Payable 1,500; Unearned Revenue 3,400; Common Stock 20,000; Interest Revenue 140; Service Revenue 10,100; Total Adjusted Credits $35,715. Income Statement columns. Credit column: Interest Revenue 140; Service Revenue 10,100; Total Credit Column 10,240. Debit column: Supplies Expense 100; Depreciation Expense Equipment 75; Salaries Expense 5,100; Utility Expense 300; Sub-Total Debit Column 5,575; Net Income 4,665; Total Debit Column 10,240. Balance Sheet columns. Debit column: Cash $24,800; Accounts Receivable 1,200; Interest Receivable 140; Supplies 400; Equipment 3,500; Dividends 100; Total debit column 30,140. Credit column: Accumulated Depreciation Equipment 75; Accounts Payable 500; Salaries Payable 1,500; Unearned Revenue 3,400; Common Stock 20,000; Sub-total credit column 25,475; Net Income 4,665; Total credit column 30,140.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_PP10Col01_img.jpg"/>
+</media>
+<para id="fs-idm762329776">There are five sets of columns, each set having a column for debit and credit, for a total of 10 columns. The five column sets are the trial balance, adjustments, adjusted trial balance, income statement, and the balance sheet. After a company posts its day-to-day journal entries, it can begin transferring that information to the trial balance columns of the 10-column worksheet.</para>
+<media id="fs-idm212897744" class="scaled-down-30" alt="Excerpt from Printing Plus ten-column worksheet: Account Name column and Trial Balance column. Accounts with debit balances: Cash 24,800; Accounts Receivable 1,200; Supplies 500; Equipment 3,500; Dividends 100; Salaries Expense 3,600; Utility Expense 300; Total Debits 34,000. Accounts with credit balances: Accounts Payable 500; Unearned Revenue 4,000; Common Stock 20,000; Service Revenue 9,500; Total Credits, 34,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_PP10Col02_img.jpg"/>
+</media>
+<para id="fs-idm213610256">The trial balance information for Printing Plus is shown previously. Notice that the debit and credit columns both equal $34,000. If we go back and look at the trial balance for Printing Plus, we see that the trial balance shows debits and credits equal to $34,000.</para>
+<media id="fs-idm216593120" class="scaled-down" alt="Printing Plus, Unadjusted Trial Balance, January 31, 2019. Debit accounts: Cash $24,800; Accounts Receivable 1,200; Supplies 500; Equipment 3,500; Dividends 100; Salaries Expense 3,600; Utility Expense 300; Total Debits $34,000. Credit accounts: Accounts Payable 500; Unearned Revenue 4,000; Common Stock 20,000; Service Revenue 9,500; Total Credits $34,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_PP10Col03_img.jpg"/>
+</media>
+<para id="fs-idm223618928">Once the trial balance information is on the worksheet, the next step is to fill in the adjusting information from the posted adjusted journal entries.</para>
+<media id="fs-idm214417376" class="scaled-down" alt="Excerpt from Printing Plus ten-column worksheet, adding the Adjustments column. Debit adjustments include: Interest Receivable 140; Unearned Revenue 600; Supplies Expense 100; Depreciation Expense: Equipment 75; Salaries Expense 1,500; Total debit adjustments 2,415. Credit adjustments include: Supplies 100; Accumulated Depreciation: Equipment 75; Salaries Payable 1,500; Interest Revenue 140; Service Revenue 600; Total credit adjustments 2,415.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_PP10Col04_img.jpg"/>
+</media>
+<para id="fs-idm202942112">The adjustments total of $2,415 balances in the debit and credit columns.</para>
+<para id="fs-idm218176064">The next step is to record information in the adjusted trial balance columns.</para>
+<media id="fs-idm216595104" class="scaled-down" alt="Excerpt from Printing Plus ten-column worksheet, adding the Adjusted Trial Balance. Adjusted debit balances: Cash $24,800; Accounts Receivable 1,200; Interest Receivable 140; Supplies 400; Equipment 3,500; Dividends 100; Supplies Expense 100; Depreciation Expense: Equipment 75; Salaries Expense 5,100; Utility Expense 300; Total Adjusted Debits $35,715. Adjusted credit balances: Accumulated Depreciation Equipment 75; Accounts Payable 500; Salaries Payable 1,500; Unearned Revenue 3,400; Common Stock 20,000; Interest Revenue 140; Service Revenue 10,100; Total Adjusted Credits $35,715.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_PP10Col05_img.jpg"/>
+</media>
+<para id="fs-idm456152272">To get the numbers in these columns, you take the number in the trial balance column and add or subtract any number found in the adjustment column. For example, Cash shows an unadjusted balance of $24,800. There is no adjustment in the adjustment columns, so the Cash balance from the unadjusted balance column is transferred over to the adjusted trial balance columns at $24,800. Interest Receivable did not exist in the trial balance information, so the balance in the adjustment column of $140 is transferred over to the adjusted trial balance column.</para>
+<para id="fs-idm224988304">Unearned revenue had a credit balance of $4,000 in the trial balance column, and a debit adjustment of $600 in the adjustment column. Remember that adding debits and credits is like adding positive and negative numbers. This means the $600 debit is subtracted from the $4,000 credit to get a credit balance of $3,400 that is translated to the adjusted trial balance column.</para>
+<para id="fs-idm216583968">Service Revenue had a $9,500 credit balance in the trial balance column, and a $600 credit balance in the Adjustments column. To get the $10,100 credit balance in the adjusted trial balance column requires adding together both credits in the trial balance and adjustment columns (9,500 + 600). You will do the same process for all accounts. Once all accounts have balances in the adjusted trial balance columns, add the debits and credits to make sure they are equal. In the case of Printing Plus, the balances equal $35,715. If you check the adjusted trial balance for Printing Plus, you will see the same equal balance is present.</para>
+<media id="fs-idm199985376" class="scaled-down" alt="Printing Plus, Adjusted Trial Balance, January 31, 2019. Debit accounts: Cash $24,800; Accounts Receivable 1,200; Interest Receivable 140; Supplies 400; Equipment 3,500; Dividends 100; Supplies Expense 100; Depreciation Expense: Equipment 75; Salaries Expense 5,100; Utility Expense 300; Total Debits $35,715. Credit accounts: Accumulated Depreciation: Equipment 75; Accounts Payable 500; Salaries Payable 1,500; Unearned Revenue 3,400; Common Stock 20,000; Interest Revenue 140; Service Revenue 10,100; Total Credits $35,715.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_PP10Col06_img.jpg"/>
+</media>
+<para id="fs-idm203836800">Next you will take all of the figures in the adjusted trial balance columns and carry them over to <emphasis effect="italics">either</emphasis> the income statement columns or the balance sheet columns.</para>
+<note id="fs-idm462722656" class="your-turn">
+<title>Income Statement and Balance Sheet</title>
+<media id="fs-idm178531536" alt="Magnificent Landscaping Company, Worksheet, April 30, 2018. Trial Balance Columns. Debit entries: Cash $2,950; Accounts receivable 575; Office supplies, 85; Prepaid insurance 240; Equipment 2,540; Dividends 1,000; Gas expense 53; Advertising expense 35; Total debits $7,478. Credit entries: Accounts payable 28; Unearned lawn mowing revenue 200; Common stock 5,000; Lawn mowing revenue 2,250; Total credits $7,478. Adjustment Columns. Debit Adjustments: Unearned lawn mowing revenue (d) 100; Depreciation expense: equipment (a) 35; Supplies expense (b) 40 and (c) 45; Salaries expense (e) 420; Total debit adjustments 640. Credit adjustments: Office supplies (c) 45; Equipment (b) 40; Lawn mowing revenue (d) 100; Accumulated depreciation: equipment (a) 35; Salaries payable (e) 420; Total credit adjustments 640. Adjusted Trial Balance Columns. Debit entries: Cash $2,950; Accounts receivable 575; Office supplies 40; Prepaid insurance 240; Equipment 2,500; Dividends 1,000; Gas expense 53; Advertising expense 35; Depreciation expense: equipment 35; Supplies expense 85; Salaries expense 420, Total debits $7,933. Credit entries: Accumulated depreciation: equipment 35; Accounts payable 28; Salaries payable 420; Unearned lawn mowing revenue 100; Common stock 5,000; Lawn mowing revenue 2,350; Total credits $7,933. The Income Statement and Balance Sheet columns are blank.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_YT01_img.png"/>
+</media>
+<para id="fs-idm212717312">Take a couple of minutes and fill in the income statement and balance sheet columns. Total them when you are done. Do not panic when they do not balance. They will not balance at this time.</para>
+<para id="fs-idm219584784"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm195011536" alt="Magnificent Landscaping Company, Worksheet, April 30, 2018, adding the Income Statement and Balance Sheet columns. Income Statement Columns. Debit entries: Gas expense 53; Advertising expense 35; Depreciation expense: equipment 35; supplies expense 85; Salaries expense 420; Total debits: 628. Credit entries: Lawn mowing revenue 2,350; Total credits 2,350. Balance Sheet columns. Debit entries: Cash 2,950; Accounts receivable 575; Office supplies 40; Prepaid insurance 240; Equipment 2,500; Dividends 1,000; Total debits 7,305. Credit entries: Accounts payable 28; Unearned lawn mowing revenue 100; Common stock 5,000; Accumulated depreciation: equipment 35; Salaries payable 420; Total credits 5,583.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_YT01Sol_img.png"/>
+</media>
+</note>
+<para id="fs-idm476414016">Looking at the income statement columns, we see that all revenue and expense accounts are listed in either the debit or credit column. This is a reminder that the income statement itself does not organize information into debits and credits, but we do use this presentation on a 10-column worksheet.</para>
+<media id="fs-idm497031984" class="scaled-down" alt="Excerpt from Printing Plus worksheet, adding the Income Statement columns. Credit column: Interest Revenue 140; Service Revenue 10,100; Total Credit Column 10,240. Debit column: Supplies Expense 100; Depreciation Expense: Equipment 75; Salaries Expense 5,100; Utility Expense 300; Sub-Total Debit Column 5,575; Net Income 4,665; Total Debit Column 10,240.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_10Col07_img.png"/>
+</media>
+<para id="fs-idm478953328">You will notice that when debit and credit income statement columns are totaled, the balances are not the same. The debit balance equals $5,575, and the credit balance equals $10,240. Why do they not balance?</para>
+<para id="fs-idm203976864">If the debit and credit columns equal each other, it means the expenses equal the revenues. This would happen if a company broke even, meaning the company did not make or lose any money. If there is a difference between the two numbers, that difference is the amount of net income, or net loss, the company has earned.</para>
+<para id="fs-idm460486528">In the Printing Plus case, the credit side is the higher figure at $10,240. The credit side represents revenues. This means revenues exceed expenses, thus giving the company a net income. If the debit column were larger, this would mean the expenses were larger than revenues, leading to a net loss. You want to calculate the net income and enter it onto the worksheet. The $4,665 net income is found by taking the credit of $10,240 and subtracting the debit of $5,575. When entering net income, it should be written in the column with the lower total. In this instance, that would be the debit side. You then add together the $5,575 and $4,665 to get a total of $10,240. This balances the two columns for the income statement. If you review the income statement, you see that net income is in fact $4,665.</para>
+<media id="fs-idm764327616" class="scaled-down" alt="Printing Plus, Income Statement, For Month Ended January 31, 2019. Revenues: Interest Revenue $140; Service Revenue 10,100; Total Revenues $10,240. Expenses: Supplies Expense 100; Depreciation Expense: Equipment 75; Salaries Expense 5,100; Utility Expense 300; Total Expenses 5,575. Net Income $4,665.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_PP10Col08_img.jpg"/>
+</media>
+<media id="fs-idm234466224" alt="Printing Plus Worksheet, adding the Balance Sheet columns. Debit column: Cash $24,800; Accounts Receivable 1,200; Interest Receivable 140; Supplies, 400; Equipment 3,500; Dividends 100; Total debit column 30,140. Credit column: Accumulated Depreciation Equipment 75; Accounts Payable 500; Salaries Payable 1,500; Unearned Revenue 3,400; Common Stock 20,000; Sub-total credit column 25,475; Net Income 4,665; Total credit column 30,140.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_PP10Col09_img.png"/>
+</media>
+<para id="fs-idm497023888">We now consider the last two columns for the balance sheet. In these columns we record all asset, liability, and equity accounts.</para>
+<para id="fs-idm191872608">When adding the total debits and credits, you notice they do not balance. The debit column equals $30,140, and the credit column equals $25,475. How do we get the columns to balance?</para>
+<para id="fs-idm218607104">Treat the income statement and balance sheet columns like a double-entry accounting system, where if you have a debit on the income statement side, you must have a credit equaling the same amount on the credit side. In this case we added a debit of $4,665 to the income statement column. This means we must add a credit of $4,665 to the balance sheet column. Once we add the $4,665 to the credit side of the balance sheet column, the two columns equal $30,140.</para>
+<para id="fs-idm209351888">You may notice that dividends are included in our 10-column worksheet balance sheet columns even though this account is not included on a balance sheet. So why is it included here? There is actually a very good reason we put dividends in the balance sheet columns.</para>
+<para id="fs-idm208336448">When you prepare a balance sheet, you must first have the most updated retained earnings balance. To get that balance, you take the beginning retained earnings balance + net income – dividends. If you look at the worksheet for Printing Plus, you will notice there is no retained earnings account. That is because they just started business this month and have no beginning retained earnings balance.</para>
+<para id="fs-idm216947568">If you look in the balance sheet columns, we do have the new, up-to-date retained earnings, but it is spread out through two numbers. You have the dividends balance of $100 and net income of $4,665. If you combine these two individual numbers ($4,665 – $100), you will have your updated retained earnings balance of $4,565, as seen on the statement of retained earnings.</para>
+<media id="fs-idm211200880" class="scaled-down" alt="Printing Plus, Statement of Retained Earnings, For Month Ended January 31, 2019. Beginning Retained Earnings (January 1) $0; plus Net Income 4,665; minus Dividends (100); Ending Retained Earnings (January 31) $4,565.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_PP10Col10_img.jpg"/>
+</media>
+<para id="fs-idm211153808">You will not see a similarity between the 10-column worksheet and the balance sheet, because the 10-column worksheet is categorizing all accounts by the type of balance they have, debit or credit. This leads to a final balance of $30,140.</para>
+<para id="fs-idm217996064">The balance sheet is classifying the accounts by type of accounts, assets and contra assets, liabilities, and equity. This leads to a final balance of $29,965. Even though they are the same numbers in the accounts, the totals on the worksheet and the totals on the balance sheet will be different because of the different presentation methods.</para>
+<note id="fs-idm231941680" class="link-to-learning">
+<para id="fs-idm232688576">Publicly traded companies release their financial statements quarterly for open viewing by the general public, which can usually be viewed on their websites. One such company is Alphabet, Inc. (trade name Google). Take a look at <link url="https://openstax.org/l/50AlphaMar2018">Alphabet’s quarter ended March 31, 2018, financial statements</link> from the SEC Form 10-Q.</para>
+</note>
+<note id="fs-idm229595344" class="your-turn"><title>Frank’s Net Income and Loss</title><para id="fs-idm462605616">What amount of net income/loss does Frank have?</para>
+<media id="fs-idm176678400" alt="Frank Investment Advisers, Worksheet, December 31, 2016. Income Statement columns. Debit column: Insurance expense 3,000; Salaries expense 37,000, Supplies expense 1,000; Interest expense 4,000; Rent expense 8,000; Depreciation expense: equipment 2,800; total debit column 55,800. Credit column: Service revenue 55,100; total credit column 55,100. Balance Sheet columns. Debit column: Cash 28,000; Accounts receivable 46,000; Office supplies 4,000; Equipment 28,000; Dividends 20,000; total debit column 126,000. Credit column: Accumulated depreciation: equipment 16,800; Accounts payable 16,000; Salaries payable 2,000; Unearned revenue 1,900; Notes Payable (long term) 23,000; Common stock 15,000; Retained earnings 52,000; total credit column 126,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_YT02_img.png"/>
+</media>
+<para id="fs-idm462878784"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm225363536" class="scaled-down" alt="Frank Investment Advisers, Worksheet, December 31, 2016. Income Statement columns. Debit column: Insurance expense 3,000; Salaries expense 37,000, Supplies expense 1,000; Interest expense 4,000; Rent expense 8,000; Depreciation expense: equipment 2,800; total debit column 55,800. Credit column: Service revenue 55,100; subtotal credit column 55,100; Net Loss 700; Total 55,800. Balance Sheet columns. Debit column: Cash 28,000; Accounts receivable 46,000; Office supplies 4,000; Equipment 28,000; Dividends 20,000; subtotal debit column 126,000; net loss 700; total debit column $126,700. Credit column: Accumulated depreciation: equipment 16,800; Accounts payable 16,000; Salaries payable 2,000; Unearned revenue 1,900; Notes Payable (long term) 23,000; Common stock 15,000; Retained earnings 52,000; total credit column 126,700.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_YT02Sol_img.jpg"/>
+</media>
+</note><para id="fs-idm479412320">In <link document="m67854">Completing the Accounting Cycle</link>, we continue our discussion of the accounting cycle, completing the last steps of journalizing and posting closing entries and preparing a post-closing trial balance.</para>
+</section>
+<section id="fs-idm221677568" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm196325024" list-type="bulleted" bullet-style="bullet">
+<item>Income Statement: The income statement shows the net income or loss as a result of revenue and expense activities occurring in a period.</item>
+<item>Statement of Retained Earnings: The statement of retained earnings shows the effects of net income (loss) and dividends on the earnings the company maintains.</item>
+<item>Balance Sheet: The balance sheet visually represents the accounting equation, showing that assets balance with liabilities and equity.</item>
+<item>10-column worksheet: The 10-column worksheet organizes data from the trial balance all the way through the financial statements.</item>
+</list>
+</section>
+<section id="fs-idm482752560" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm236335040">
+<problem id="fs-idm234783072">
+<para id="fs-idm236764784"><link class="lo-reference" document="m67853"/>On which financial statement would the Supplies account appear?</para>
+<list id="fs-idm195726128" list-type="enumerated" number-style="upper-alpha">
+<item>Balance Sheet</item>
+<item>Income Statement</item>
+<item>Retained Earnings Statement</item>
+<item>Statement of Cash Flows</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm177021984">
+<problem id="fs-idm210406272">
+<para id="fs-idm208329120"><link class="lo-reference" document="m67853"/>On which financial statement would the Dividends account appear?</para>
+<list id="fs-idm200018880" list-type="enumerated" number-style="upper-alpha">
+<item>Balance Sheet</item>
+<item>Income Statement</item>
+<item>Retained Earnings Statement</item>
+<item>Statement of Cash Flows</item>
+</list>
+</problem>
+<solution id="fs-idm208726288">
+<para id="fs-idm186505120">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm212445184">
+<problem id="fs-idm209746976">
+<para id="fs-idm772032480"><link class="lo-reference" document="m67853"/>On which financial statement would the Accumulated Depreciation account appear?</para>
+<list id="fs-idm474926320" list-type="enumerated" number-style="upper-alpha">
+<item>Balance Sheet</item>
+<item>Income Statement</item>
+<item>Retained Earnings Statement</item>
+<item>Statement of Cash Flows</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm457036144">
+<problem id="fs-idm210229568">
+<para id="fs-idm458739136"><link class="lo-reference" document="m67853"/>On which two financial statements would the Retained Earnings account appear?</para>
+<list id="fs-idm219817376" list-type="enumerated" number-style="upper-alpha">
+<item>Balance Sheet</item>
+<item>Income Statement</item>
+<item>Retained Earnings Statement</item>
+<item>Statement of Cash Flows</item>
+</list>
+</problem>
+<solution id="fs-idm217974432">
+<para id="fs-idm220222928">A and C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm466272240" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm217035808">
+<problem id="fs-idm463262672">
+<para id="fs-idm460691024"><link class="lo-reference" document="m67853"/>Indicate on which financial statement the following accounts (from the adjusted trial balance) would appear: (A) Sales Revenue; (B) Unearned Rent Revenue; (C) Prepaid Advertising; (D) Advertising Expense; (E) Dividends; (F) Cash.</para>
+</problem>
+<solution id="fs-idm458687232">
+<para id="fs-idm191851888">(A) Income Statement; (B) Balance Sheet; (C) Balance Sheet; (D) Income Statement; (E) Retained Earnings Statement; (F) Balance Sheet</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm211005680" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm224666688">
+<problem id="fs-idm220336800">
+<para id="fs-idm225506432"><link class="lo-reference" document="m67853"/>From the following Company A adjusted trial balance, prepare simple financial statements, as follows:</para>
+<list id="fs-idm220362560" list-type="enumerated" number-style="upper-alpha">
+<item>Income Statement</item>
+<item>Retained Earnings Statement</item>
+<item>Balance Sheet</item>
+</list>
+<media id="fs-idm193357200" class="scaled-down" alt="Adjusted Trial Balance. Debit Accounts: Cash 42,000; Accounts Receivable 11,300; Prepaid Insurance 14,800; Administrative Expenses 42,800; Total Debits 110,900. Credit Accounts: Accounts Payable 10,900; Salaries Payable 14,000; Common Stock 25,000; Service Revenue 61,000; Total Credits 110,900.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_EA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm221811504" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm200297536">
+<problem id="fs-idm225499312">
+<para id="fs-idm202257776"><link class="lo-reference" document="m67853"/>From the following Company B adjusted trial balance, prepare simple financial statements, as follows:</para>
+<list id="fs-idm238296416" list-type="enumerated" number-style="upper-alpha">
+<item>Income Statement</item>
+<item>Retained Earnings Statement</item>
+<item>Balance Sheet</item>
+</list>
+<media id="fs-idm235077264" class="scaled-down" alt="Adjusted Trial Balance. Debit Accounts: Cash 77,800; Accounts Receivable 19,500; Supplies 7,650; Operating Expense 39,200; Total Debits 144,150. Credit Accounts: Accounts Payable 8,500; Taxes Payable 5,350; Common Stock 35,000; Fees Earned Revenue 95,300; Total Credits 144,150.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_EB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm176784768" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm496951456">
+<problem id="fs-idm474523328">
+<para id="fs-idm199991120"><link class="lo-reference" document="m67853"/>Using the following Company W information, prepare a Retained Earnings Statement.</para>
+<list id="fs-idm462882592" list-type="bulleted">
+<item>Retained earnings balance January 1, 2019, $43,500</item>
+<item>Net income for year 2019, $55,289</item>
+<item>Dividends declared and paid for year 2019, $18,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm213475984">
+<problem id="fs-idm225325584">
+<para id="fs-idm193247072"><link class="lo-reference" document="m67853"/>From the following Company Y adjusted trial balance, prepare simple financial statements, as follows:</para>
+<list id="fs-idm230980016" list-type="enumerated" number-style="upper-alpha">
+<item>Income Statement</item>
+<item>Retained Earnings Statement</item>
+<item>Balance Sheet</item>
+</list>
+<media id="fs-idm213006128" class="scaled-down" alt="Adjusted Trial Balance. Debit Accounts: Cash 32,000; Accounts Receivable 17,300; Prepaid Insurance 6,400; Land 10,000; Dividends 8,000; Insurance Expense 5,600; Salaries Expense 24,000; Miscellaneous Expense 22,800; Total Debits 126,100. Credit Accounts: Accounts Payable 10,900; Salaries Payable 6,000; Common Stock 31,000; Retained Earnings 4,200; Service Revenue 74,000; Total Credits 126,100.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_PA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm225336800" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm191746624">
+<problem id="fs-idm210436864">
+<para id="fs-idm211924464"><link class="lo-reference" document="m67853"/>Using the following Company X information, prepare a Retained Earnings Statement:</para>
+<list id="fs-idm236424816" list-type="bulleted">
+<item>Retained earnings balance January 1, 2019, $121,500</item>
+<item>Net income for year 2019, $145,800</item>
+<item>Dividends declared and paid for year 2019, $53,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm475009872">
+<problem id="fs-idm211442320">
+<para id="fs-idm186465040"><link class="lo-reference" document="m67853"/>From the following Company Z adjusted trial balance, prepare simple financial statements, as follows:</para>
+<list id="fs-idm187726880" list-type="enumerated" number-style="upper-alpha">
+<item>Income Statement</item>
+<item>Retained Earnings Statement</item>
+<item>Balance Sheet</item>
+</list>
+<media id="fs-idm232963584" class="scaled-down" alt="Adjusted Trial Balance. Debit Accounts: Cash 54,650; Accounts Receivable 28,750; Prepaid Insurance 8,000; Land 22,000; Dividends 36,000; Insurance Expense 32,000; Salaries Expense 126,500; Miscellaneous Expense 56,900; Total Debits 364,800. Credit Accounts: Accounts Payable 14,300; Salaries Payable 4,250; Common Stock 50,000; Retained Earnings 38,900; Service Revenue 257,350; Total Credits 364,800.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F04_05_PB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm479606736" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm210494272">
+<problem id="fs-idm500023376">
+<para id="fs-idm458692912"><link class="lo-reference" document="m67853"/>Search the SEC website (https://www.sec.gov/edgar/searchedgar/companysearch.html) and locate the latest Form 10-K for a company you would like to analyze. Submit a short memo:</para>
+<list id="fs-idm200748288" list-type="bulleted">
+<item>State the name and ticker symbol of the company you have chosen.</item>
+<item>Review the company’s end-of-period Balance Sheet, Income Statement, and Statement of Retained Earnings.</item>
+<item>Reconstruct an adjusted trial balance for the company, from the information presented in the three specified financial statements.</item>
+<item>Provide the web link to the company’s Form 10-K, to allow accurate verification of your answers.</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm460640256">
+<term>10-column worksheet</term>
+<meaning id="fs-idm213206656">all-in-one spreadsheet showing the transition of account information from the trial balance through the financial statements</meaning>
+</definition>
+</glossary>
+</document>

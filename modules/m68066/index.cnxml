@@ -1,0 +1,439 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Prepare Financial Budgets</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68066</md:content-id>
+  <md:title>Prepare Financial Budgets</md:title>
+  <md:abstract/>
+  <md:uuid>ea073852-dcf8-4988-8dad-c8f687d1fd91</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm306429488">Now that you have developed an understanding of operating budgets, let’s turn to the other primary component of the master budget: financial budgets. Preparing financial budgets involves examining the expectations for financing the operations of the business and planning for the cash needs of the organization. The budget helps estimate the source, amount, and timing of cash collection and cash payments as well as determine if and when additional financing is needed or debt can be paid.</para>
+<section id="fs-idm344209808">
+<title>Individual Financial Budgets</title>
+<para id="fs-idm629166592">Preparing a financial budget first requires preparing the capital asset budget, the cash budgets, and the budgeted balance sheet. The capital asset budget represents a significant investment in cash, and the amount is carried to the cash budget. Therefore, it needs to be prepared before the cash budget. If the cash will not be available, the capital asset budget can be adjusted and, again, carried to the cash budget.</para>
+<para id="fs-idm299603952">When the budgets are complete, the beginning and ending balance from the cash budget, changes in financing, and changes in equity are shown on the budgeted balance sheet.</para>
+<section id="fs-idm329377776">
+<title>Capital Asset Budget</title>
+<para id="fs-idm302727648">The <term>capital asset budget</term>, also called the <term class="no-emphasis">capital expenditure budget</term>, shows the company’s plans to invest in long-term assets. Some assets, such as computers, must be replaced every few years, while other assets, such as manufacturing equipment, are purchased very infrequently. Some assets can be purchased with cash, whereas others may require a loan. Budgeting for these types of expenditures requires long-range planning because the purchases affect cash flows in current and future periods and affect the income statement due to depreciation and interest expenses.</para>
+</section>
+<section id="fs-idm304933088">
+<title>Cash Budget</title>
+<para id="fs-idm318240560">The <term>cash budget</term> is the combined budget of all inflows and outflows of cash. It should be divided into the shortest time period possible, so management can be quickly made aware of potential problems resulting from fluctuations in cash flow. One goal of this budget is to anticipate the timing of cash inflows and outflows, which allows a company to try to avoid a decrease in the cash balance due to paying out more cash than it receives. In order to provide timely feedback and alert management to short-term cash needs, the cash flow budget is commonly geared toward monthly or quarterly figures. <link target-id="OSX_Acct_M07_03_MasterBudg"/> shows how the other budgets tie into the cash budget.</para>
+<figure id="OSX_Acct_M07_03_MasterBudg">
+<media id="fs-idm348592688" alt="Flow chart of the calculations for budgets. The Master Budget is at the top in purple. From it flow to lines to the Operating budget (all operating budgets are in yellow) and the Financial budget (all financial budgets are in blue). From the Operating Budget is a line going to the Sales budget (yellow). A green line goes from this Sales Budget to the Collections Budget (blue) to represent cash inflow. The Sales budget also has lines going to the D M, D L, and F O budgets (all yellow) which flow down to the Ending Inventory (yellow) and Payments (blue) Budgets. From the D M, D L, F O, and Ending Inventory Budgets flow lines to the C O G S Budget, which flows to the Income Statement Budget (all yellow). Also from the Sales Budget is a line going to the Selling &amp; A D M Budget (both yellow), which flows to the Payments Budget (blue). From the Sales and Selling and A D M Budgets there are lines going to the Income Statement (all yellow). From the Financial Budget a line goes to the Cash Budget. This has inflow from the Collections Budget (with the green line representing cash inflow) and outflow to the Payments Budget with a red line representing cash outflow). There are also lines from the Cash Budget going to the Capital Budget and the Balance Sheet Budget. All of these mentioned budgets are blue. The Balance sheet also has lines going to it from the Income Statement (yellow) and the Capital Budget (blue).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_MasterBudg.jpg"/>
+</media>
+<caption>Relationship between Budgets. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm354437552">Cash is so important to the operations of a company that, often, companies will arrange to have an emergency cash source, such as a <emphasis effect="italics">line of credit</emphasis>, to avoid defaulting on current payables due and also to protect against other unanticipated expenses, such as major repair costs on equipment. This line of credit would be similar in function to the <emphasis effect="italics">overdraft protection</emphasis> offered on many checking accounts.</para>
+<para id="fs-idm346991984">Because the cash budget accounts for every inflow and outflow of cash, it is broken down into smaller components. The <term>cash collections schedule</term> includes all of the cash inflow expected to be received from customer sales, whether those customers pay at the same rate or even if they pay at all. The cash collections schedule includes all the cash expected to be received and does not include the amount of the receivables estimated as uncollectible. The <term>cash payments schedule</term> plans the outflow or payments of all accounts payable, showing when cash will be used to pay for direct material purchases. Both the cash collections schedule and the cash payments schedule are included along with other cash transactions in a cash budget. The cash budget, then, combines the cash collection schedule, the cash payment schedule, and all other budgets that plan for the inflow or outflow of cash. When everything is combined into one budget, that budget shows if financing arrangements are needed to maintain balances or if excess cash is available to pay for additional liabilities or assets.</para>
+<para id="fs-idm344981024">The operating budgets all begin with the sales budget. The cash collections schedule does as well. Since purchases are made at varying times during the period and cash is received from customers at varying rates, data are needed to estimate how much will be collected in the month of sale, the month after the sale, two months after the sale, and so forth. Bad debts also need to be estimated, since that is cash that will not be collected.</para>
+<para id="fs-idm344971600">To illustrate, let’s return to Big Bad Bikes. They believe cash collections for the trainer sales will be similar to the collections from their bicycle sales, so they will use that pattern to budget cash collections for the trainers. In the quarter of sales, 65% of that quarter’s sales will be collected. In the quarter after the sale, 30% will be collected. This leaves 5% of the sales considered uncollectible. <link target-id="OSX_Acct_M07_03_CashColl"/> illustrates when each quarter’s sales will be collected. An estimate of the net realizable balance of Accounts Receivable can be reconciled by using information from the cash collections schedule:</para>
+<media id="fs-idm342639952" alt="Quarter 4: Beginning balance of Accounts Receivable (Q 3 sales of $112,500 times 35% plus Q 2 sales of 70,000 times 5% plus Q 1 sales of 70,000 times 5%) $46,375 plus Quarter 4 sales 187,500 less Quarter 3 cash receipts (65% of quarter 4 sales equals 121,875 and 30% of quarter 3 sales equals 33,750) 155,625 equals Quarter 4 ending balance in gross accounts receivable 78,250.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_CCSch_img.jpg"/>
+</media>
+<figure id="OSX_Acct_M07_03_CashColl" class="scaled-down">
+<media id="fs-idm353964304" alt="Percentage of Sales Collected: In quarter 1: 30 percent of prior year quarter 4 sales plus 65 percent of quarter 1 sales. In quarter 2: 30 percent of quarter 1 sales plus 65 percent of quarter 2 sales. In quarter 3: 30 percent of quarter 2 sales plus 65 percent of quarter 3 sales. In quarter 4: 30 percent of quarter 3 sales plus 65 percent of quarter 4 sales.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_CashColl.jpg"/>
+</media>
+<caption>Illustration of a Cash Collections Schedule. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm342874448">For example, in quarter 1 of year 2, 65% of the quarter 1 sales will be collected in cash, as well as 30% of the sales from quarter 4 of the prior year. There were no sales in quarter 4 of the prior year so 30% of zero sales shows the collections are $0. Using information from Big Bad Bikes sales budget, the cash collections from the sales are shown in <link target-id="OSX_Acct_M07_03_BBBCashCol"/>.</para>
+<figure id="OSX_Acct_M07_03_BBBCashCol">
+<media id="fs-idm348658560" alt="Big Bad Bikes, Cash Collections Schedule For the Year Ending December 31, 2019 Collections from: prior year Quarter 4 $0 sales, 0 quarter 1, 0 total; Quarter 1 $70,000 sales, $45,500 Q 1, 21,000 Q 2, 66,500 total; Quarter 2 70,000 sales, 45,500 Q 2, 21,000 Q 3, 66,500 total; Quarter 3 112,500 sales, 73,123 Q3, 33,750 Q4, 106,875 total; Quarter 4 187,500 sales, 121,875 Q 4, 121,875 total; Total collections on $440,000 sales, 45,500 Q 1, 66,500 Q 2, 94,125 Q 3, 155,625 Q 4, $361,750 total; Accounts receivable: 440,000 sales minus 361,750 collections equals $78,250.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_BBBCashCol.jpg"/>
+</media>
+<caption>Cash Collections Schedule for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm308041600">When the cash collections schedule is made for sales, management must account for other potential cash collections such as cash received from the sale of equipment or the issuance of stock. These are listed individually in the cash inflows portion of the cash budget.</para>
+<para id="fs-idm326726160">The cash payments schedule, on the other hand, shows when cash will be used to pay for Accounts Payable. One such example are direct material purchases, which originates from the direct materials budget. When the production budget is determined from the sales, management prepares the direct materials budget to determine when and how much material needs to be ordered. Orders for materials take place throughout the quarter, and payments for the purchases are made at different intervals from the orders. A schedule of cash payments is similar to the cash collections schedule, except that it accounts for the company’s purchases instead of the company’s sales. The information from the cash payments schedule feeds into the cash budget.</para>
+<para id="fs-idm325877728">Big Bad Bikes typically pays half of its purchases in the quarter of purchase. The remaining half is paid in the following quarter, so payments in the first quarter include payments for purchases made during the first quarter as well as half of the purchases for the preceding quarter. <link target-id="OSX_Acct_M07_03_CashPay"/> shows when each quarter’s purchases will be paid. Additionally, the balance of purchases in Accounts Payable can be reconciled by using information from the cash payment schedule as follows:</para>
+<media id="fs-idm307620912" alt="Quarter 4: Beginning balance of Accounts Payable $4,000* plus Quarter 4: Purchase of direct material 12,000 minus Quarter 4: Cash Payments 10,000 equals Quarter 4: Ending balance in Accounts Payable $6,000*; *Big Bad Bikes has a policy of paying 50 percent of purchases in the quarter of purchases, and the remaining 50 percent the month after the purchase. The beginning balance of accounts payable should be 50 percent of the prior quarter’s purchases.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_CPSch_img.jpg"/>
+</media>
+<figure id="OSX_Acct_M07_03_CashPay">
+<media id="fs-idm343863120" alt="Percentage of Cash Payments for Purchases. Prior year, Q 4 purchases: 50 percent Q 1; Quarter 1 purchases: 50 percent Q 1, 50 percent Q 2; Quarter 2 purchases: 50 percent Q 2, 50 percent Q 3; Quarter 3 purchases: 50 percent Q 3, 50 percent Q 4; Quarter 4 purchases: 50 percent Q 4.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_CashPay.jpg"/>
+</media>
+<caption>Cash Payment Schedule. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm352507840">The first quarter of the year plans cash payments from the prior quarter as well as the current quarter. Again, since the trainers are a new product, in this example, there are no purchases in the preceding quarter, and the payments are $0. <link target-id="OSX_Acct_M07_03_BBBCashPay"/>.</para>
+<figure id="OSX_Acct_M07_03_BBBCashPay">
+<media id="fs-idm352402112" alt="Big Bad Bikes, Cash Payments Schedule For the Year Ending December 31, 2019. Payments from: prior year Quarter 4 $0 purchases, 0 quarter 1, 0 total; Quarter 1 $6,120 purchases, $3,060 Q 1, 3,060 Q 2, 6,120 total; Quarter 2 5,120 purchases, 2,560 Q 2, 2,560 Q 3, 5,120 total; Quarter 3 8,000 purchases,4,000 Q 3, 4,000 Q 4, 8,000 total; Quarter 4 12,000 purchases, 6,000 Q 4, 6,000 total; Total payments on $31,240 purchases, 3,060 Q 1, 5,620 Q 2, 6,560 Q 3, 10,000 Q 4, $25,240 Total.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_BBBCashPay.jpg"/>
+</media>
+<caption>Cash Payments Schedule for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm354576352">While the cash payments schedule is made for purchases of material on account, there are other outflows of cash for the company, and management must estimate all other cash payments for the year. Typically, this includes the manufacturing overhead budget, the sales and administrative budget, the capital asset budget, and any other potential payments of cash. Since depreciation is an expense not requiring cash, the cash budget includes the amount from the budgets less depreciation. Cash payments are listed on the cash budget following cash receipts. <link target-id="OSX_Acct_M07_03_CashBudget"/> shows the major components of the cash budget.</para>
+<figure id="OSX_Acct_M07_03_CashBudget">
+<media id="fs-idm295096656" alt="General Overview of Cash Budget Components* Cash Receipts from Sales plus Other cash receipts (issuance of stock, borrowing money, receiving interest or dividends, from selling assets such as equipment, etc.) minus Cash Payments for Purchases or Production of Inventory minus Cash Payments for manufacturing expenses** minus Cash Payments for selling and administrative expenses ** minus Cash payments for capital asset purchases minus Other cash payments (paying interest, paying loan payments, etc.) equals Net Cash; *This is a general overview of the types of cash transactions that might appear in a cash budget and its representative of the components but not of a typical presentation of those components; **Note that depreciation, a non-cash expense, would be excluded from these expenses.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_CashBudget.jpg"/>
+</media>
+<caption>General Overview of Cash Budget Components. A cash budget will contain all the budgeted cash inflows and out flows from the sub-budgets as well as any cash items that might not appear on one of the sub-budgets. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm342195552">The cash budget totals the cash receipts and adds it to the beginning cash balance to determine the available cash. From the available cash, the cash payments are subtracted to compute the net cash excess or deficiency of cash for the quarter. This amount is the potential ending cash balance. Organizations typically require a minimum cash balance. If the potential ending cash balance does not meet the minimum amount, management must plan to acquire financing to reach that amount. If the potential ending cash balance exceeds the minimum cash balance, the excess amount may be used to pay any financing loans and interest.</para>
+<para id="fs-idm308023600">Big Bad Bikes has a minimum cash balance requirement of $10,000 and has a line of credit available for an interest rate of 19%. They also plan to issue additional capital stock for $5,000 in the first quarter, to pay taxes of $1,000 during each quarter, and to purchase a copier for $8,500 cash in the third quarter. The beginning cash balance for Big Bad Bikes is $13,000, which can be used to create the cash budget shown in <link target-id="OSX_Acct_M07_03_BBBCBudget"/>.</para>
+<figure id="OSX_Acct_M07_03_BBBCBudget">
+<media id="fs-idm335118672" alt="Big Bad Bikes, Cash Budget, For the Year Ending December 31, 2019, Quarter 1, Quarter 2, Quarter 3, Quarter 4, Total (respectively): Beginning cash balance, $13,000, 10,000, 10,000, 10,000, 13,000; Collections from customers (Cash Collection Schedule) 45,500, 66,500, 94,125, 155,625, 361,750; Issuing of stock 5,000 –, –, –, 5,000; Total cash collected during the period 50,500, 66,500, 94,125, 155,625, 366,750; Total available cash 63,500, 76,500, 104,125, 165,625, 379,750; Less disbursements: Direct materials (cash payment schedule) 3,060, 5,620, 6,560, 10,000, 25,240; Direct labor (direct labor budget) 19,500, 17,250, 27,000, 42,000, 105,750; Manufacturing overhead less depreciation (MFG OH Budget) 28,925, 28,588, 30,050, 32,300, 119,863; Selling and Administrative expenses less depreciation (Sales and Admin. Expenses Budget) 18,500, 18,500, 19,750, 22,250, 79,000; Income tax expense 1,000, 1,000, 1,000, 1,000, 4,000; Purchase of copier (Capital Assets Budget) –, –, 8,500, –, 8,500; Total disbursements 70,985, 70,958, 90,860, 107,550, 342,353; Excess (deficiency) of available cash (7,485), 5,542, 11,265, 58,075, 37,397; Financing: Add borrowing 17,485, 4,458, –, –, 21,943; Less repayments including interest –, –, (1,265), (21,632), (22,897).Ending cash balance, 10,000, 10,000, 10,000, 36,443, 36,443.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_BBBCBudget.jpg"/>
+</media>
+<caption>Cash Budget for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm348021104">
+<title>Budgeted Balance Sheet</title>
+<para id="fs-idm294946000">The cash budget shows how cash changes from the beginning of the year to the end of the year, and the ending cash balance is the amount shown on the budgeted balance sheet. The <term>budgeted balance sheet</term> is the estimated assets, liabilities, and equities that the company would have at the end of the year if their performance were to meet its expectations. <link target-id="fs-idm297137088"/> shows a list of the most common changes to the balance sheet and where the information is derived.</para>
+<table id="fs-idm297137088" class="top-titled" summary="alt text">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Common Changes in the Budgeted Balance Sheet</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Information Source</entry>
+<entry valign="top" align="center">Balance Sheet Change</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Cash balance</entry>
+<entry valign="top" align="left"> ending cash balance from the cash budget</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Accounts Receivable balance</entry>
+<entry valign="top" align="left"> uncollected receivables from the cash collections schedule</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Inventory</entry>
+<entry valign="top" align="left"> ending balance in inventory as shown from calculations to create the income statement</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Machinery &amp; Equipment</entry>
+<entry valign="top" align="left"> ending balance in the capital asset budget</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Accounts Payable</entry>
+<entry valign="top" align="left"> unpaid purchases from the cash payments schedule</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm352579792">Other balance sheet changes throughout the year are reflected in the income statement and statement of cash flows. For example, the beginning cash balance of Accounts Receivable plus the sales, less the cash collected results in the ending balance of Accounts Receivable. A similar formula is used to compute the ending balance in Accounts Payable. Other budgets and information such as the capital asset budget, depreciation, and financing loans are used as well.</para>
+<para id="fs-idm314950112">To explain how to use a budgeted balance sheet, let’s return to Big Bad Bikes. For simplicity, assume that they did not have accounts receivable or payable at the beginning of the year. They also incurred and paid back their financing during the year, so there is no ending debt. However, the cash budget shows cash inflows and outflows not related to sales or the purchase of materials. The company’s capital assets increased by $8,500 from the copier purchase, and their common stock increased by $5,000 from the additional issue as shown in <link target-id="OSX_Acct_M07_03_BBBBudgBal"/>.</para>
+<figure id="OSX_Acct_M07_03_BBBBudgBal"><media id="fs-idm316848416" alt="Big Bad Bikes, Budgeted Balance Sheet, December 31, 2019 Jan 1 and Dec. 31, respectively: Cash 13,000, 36,443; Accounts Receivable 0, 78250; Less allowance for doubtful accounts 0, (22,000); Inventory 0, 42,629; Machinery and equipment 15,000, 23,524; Accumulated Depreciation (2,000), (22,000); Total assets $26,000, $136,846; Accounts Payable 0, 6,000; Line of credit 0, 0; Common Stock 15,000, 20,000; Retained Earnings 11,000, 110,846; Total Liabilities and Owner’s Equity $26,000, $136,846.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_BBBBudgBal.jpg"/>
+</media>
+
+<caption>Budgeted Balance Sheet for Big Bad Bikes. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption></figure><para id="fs-idm333562176">Though there seem to be many budgets, they all fit together like a puzzle to create an overall picture of how a company expects the upcoming business year to look. <link target-id="OSX_Acct_M07_03_MasterBudg"/> detailed the components of the master budget, and can be used to summarize the budget process. All budgets begin with the sales budget. This budget estimates the number of units that need to be manufactured and precedes the production budget. The production budget (refer to <link document="m68064" target-id="OSX_Acct_M07_01_Operating"/>) provides the necessary information for the budgets needed to plan how many units will be produced. Knowing how many units need to be produced from the production budget, the direct materials budget, direct labor budget, and the manufacturing overhead budget are all prepared. The sales and administrative budget is a nonmanufacturing budget that relies on the sales estimates to pay commissions and other variable expenses. The sales and expenses estimated in all of these budgets are used to develop a budgeted income statement.</para>
+<para id="fs-idm295227648">The estimated sales information is used to prepare the cash collections schedule, and the direct materials budget is used to prepare the cash payment schedule. The cash receipts and cash payments budget are combined with the direct labor budget, the manufacturing overhead budget, the sales and administrative budget, and the capital assets budget to develop the cash budget. Finally, all the information is used to flow to the budgeted balance sheet.</para>
+<note id="fs-idm295226800" class="your-turn">
+<title>Creating a Master Budget</title>
+<para id="fs-idm352221984">Molly Malone is starting her own company in which she will produce and sell Molly’s Macaroons. Molly is trying to learn about the budget process as she puts her business plan together. Help Molly by explaining the optimal order for preparing the following budgets and schedules and why this is the optimal order.</para>
+<list id="fs-idm300696096" list-type="bulleted">
+<item>budgeted balance sheet</item>
+<item>budgeted income statement</item>
+<item>capital asset budget</item>
+<item>cash budget</item>
+<item>cash collections schedule</item>
+<item>cash payments schedule</item>
+<item>direct materials budget</item>
+<item>direct labor budget</item>
+<item>master budget</item>
+<item>manufacturing overhead</item>
+<item>production budget</item>
+<item>sales budget</item>
+<item>selling and administrative budget</item>
+</list>
+<para id="fs-idm348321248"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm344943456">A master budget always begins with the sales budget must be prepared first as this determines the number of units that will need to be produced. The next step would be to create the production budget, which helps determine the number of units that will need to be produced each period to meet sales goals. Once Molly knows how many units she will need to produce, she will need to budget the costs associated with those units, which will require her to create the direct materials budget, the direct labor budget and the manufacturing overhead budget. But Molly will have costs other than manufacturing costs so she will need to create a selling and administrative expenses budget. Molly will need to determine what are her capital asset needs and budget for those. Now that Molly has all her revenues budgeted and her costs budgeted, she can determine her budgeted cash inflows and outflows by putting together the cash schedules that lead to the cash budget. Molly will then need to create a cash collections schedule and a cash payments schedule and that information, along with the cash inflow and outflow information from her other budgets, will allow her to create her cash budget. Once Molly has completed her cash budget she will be able to put together her budgeted income statement and budgeted balance sheet.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm356964208" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm354436784" list-type="bulleted" bullet-style="bullet">
+<item>The financial budgets include the capital asset budget and the cash budget. The cash collections schedule and cash payments schedule are computed and combined with the other budgets to develop the cash budget.</item>
+<item>Information from the other budgets and the budgeted income statement are used to develop the budgeted balance sheet.</item>
+</list>
+</section>
+<section id="fs-idm350906224" class="multiple-choice">
+<exercise id="fs-idm354528256">
+<problem id="fs-idm360329472">
+<para id="fs-idm345560720"><link class="lo-reference" document="m68066"/>The cash budget is part of which category of budgets?</para>
+<list id="fs-idm358820848" list-type="enumerated" number-style="upper-alpha"><item>sales budget</item>
+<item>cash payments budget</item>
+<item>financial budget</item>
+<item>operating budget</item>
+</list></problem>
+<solution id="fs-idm343618400">
+<para id="fs-idm348360480">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm348117824">
+<problem id="fs-idm351979056">
+<para id="fs-idm360737024"><link class="lo-reference" document="m68066"/>Which is <emphasis effect="italics">not</emphasis> a section of the cash budget?</para>
+<list id="fs-idm349317856" list-type="enumerated" number-style="upper-alpha">
+<item>cash receipts</item>
+<item>cash disbursements</item>
+<item>allowance for uncollectible accounts</item>
+<item>financing needs</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm617181376">
+<problem id="fs-idm348335472">
+<para id="fs-idm335007488"><link class="lo-reference" document="m68066"/>Which budget is the starting point in preparing financial budgets?</para>
+<list id="fs-idm624841536" list-type="enumerated" number-style="upper-alpha">
+<item>the budgeted income statement</item>
+<item>the budgeted balance sheet</item>
+<item>the capital expense budget</item>
+<item>the cash receipts budget</item>
+</list>
+</problem>
+<solution id="fs-idm314949216">
+<para id="fs-idm347125808">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm348508704">
+<problem id="fs-idm356717552">
+<para id="fs-idm359936720"><link class="lo-reference" document="m68066"/>Which of the following includes only financial budgets?</para>
+<list id="fs-idm326585328" list-type="enumerated" number-style="upper-alpha">
+<item>capital asset budget, budgeted income statement, sales budget</item>
+<item>production budget, capital asset budget, budgeted balance sheet</item>
+<item>cash budget, budgeted balance sheet, capital asset budget</item>
+<item>budgeted income statement, direct material purchases budget, cash budget</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm359085856" class="questions">
+<exercise id="fs-idm352552432">
+<problem id="fs-idm360219088">
+<para id="fs-idm628963632"><link class="lo-reference" document="m68066"/>What is the process for developing a budgeted balance sheet?</para>
+</problem>
+<solution id="fs-idm346460048">
+<para id="fs-idm342944336">The budgeted income statement includes the estimated revenue and expenses for the company. Using historical data on cash collections helps plan when the cash will be received and is used to develop the cash collections schedule. The company applies its payment policies on its purchases and other items requiring cash expenditures. This creates the cash payments schedule. Information from the cash collections schedule, cash payments schedule, and the capital expense budget are combined to develop the cash budget. The information from the cash budget and the ending balance sheet from the preceding year are used to develop the budgeted balance sheet.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm351108160">
+<problem id="fs-idm350983264">
+<para id="fs-idm623269360"><link class="lo-reference" document="m68066"/>Which of the financial budgets is the most important? Why?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm359443072" class="exercise-set-a">
+<exercise id="fs-idm344215216">
+<problem id="fs-idm345318864">
+<para id="fs-idm352013888"><link class="lo-reference" document="m68066"/>Cash collections for Wax On Candles found that 60% of sales were collected in the month of the sale, 30% was collected the month after the sale, and 10% was collected the second month after the sale. Given the sales shown, how much cash will be collected in January and February?</para>
+<media id="fs-idm300188272" class="scaled-down" alt="November $25,000, December 35,000, January 20,000, February 25,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_EA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm348601008">
+<problem id="fs-idm299252416">
+<para id="fs-idm357999120"><link class="lo-reference" document="m68066"/>Nonna’s Re-Appliance Store collects 55% of its accounts receivable in the month of sale and 40% in the month after the sale. Given the following sales, how much cash will be collected in February?</para>
+<media id="fs-idm301736528" class="scaled-down-30" alt="December 2017 $20,000, January 2018 60,000, February 2018 70,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_EA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm346383424">
+<problem id="fs-idm344059088">
+<para id="fs-idm350576416"><link class="lo-reference" document="m68066"/>Dream Big Pillow Co. pays 65% of its purchases in the month of purchase, 30% the month after the purchase, and 5% in the second month following the purchase. It made the following purchases at the end of 2017 and the beginning of 2018:</para>
+<media id="fs-idm351057744" class="scaled-down" alt="November 2017 $60,000, December 2017 50,000, January 2018 35,000, February 2018 40,000, March 2018 45,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_EA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm358034960">
+<problem id="fs-idm345890048">
+<para id="fs-idm351218096"><link class="lo-reference" document="m68066"/>Desiccate purchases direct materials each month. Its payment history shows that 70% is paid in the month of purchase with the remaining balance paid the month after purchase. Prepare a cash payment schedule for March if in January through March, it purchased $35,000, $37,000, and $39,000, respectively.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm295744912">
+<problem id="fs-idm295744656">
+<para id="fs-idm295744400"><link class="lo-reference" document="m68066"/>What is the amount of budgeted cash payments if purchases are budgeted for $420,000 and the beginning and ending balances of accounts payable are $95,000 and $92,000, respectively?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm325797040">
+<problem id="fs-idm358090928">
+<para id="fs-idm356650528"><link class="lo-reference" document="m68066"/>Halifax Shoes has 30% of its sales in cash and the remainder on credit. Of the credit sales, 65% is collected in the month of sale, 25% is collected the month after the sale, and 5% is collected the second month after the sale. How much cash will be collected in August if sales are estimated as $75,000 in June, $65,000 in July, and $90,000 in August?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm304469552" class="exercise-set-b">
+<exercise id="fs-idm304469056">
+<problem id="fs-idm304468800">
+<para id="fs-idm352345712"><link class="lo-reference" document="m68066"/>Cash collections for Renew Lights found that 65% of sales were collected in the month of sale, 25% was collected the month after the sale, and 10% was collected the second month after the sale. Given the sales shown, how much cash will be collected in March and April?</para>
+<media id="fs-idm347168592" class="scaled-down" alt="January $90,000, February 120,000, March 75,000, April 85,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_EB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm356072176">
+<problem id="fs-idm347979808">
+<para id="fs-idm627490160"><link class="lo-reference" document="m68066"/>My Aunt’s Closet Store collects 60% of its accounts receivable in the month of sale and 35% in the month after the sale. Given the following sales, how much cash will be collected in March?</para>
+<media id="fs-idm319218080" class="scaled-down-30" alt="February 2018 $20,000, March 2018 60,000, April 2018 70,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_EB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm344873376">
+<problem id="fs-idm318231824">
+<para id="fs-idm344133408"><link class="lo-reference" document="m68066"/>Gear Up Co. pays 65% of its purchases in the month of purchase, 30% in the month after the purchase, and 5% in the second month following the purchase. What are the cash payments if it made the following purchases in 2018?</para>
+<media id="fs-idm350652192" class="scaled-down" alt="February 2018 $90,000, March 2018 92,000, April 2018 101,000, May 2018 98,000, June 2018 99,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_EB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm353950976">
+<problem id="fs-idm345736432">
+<para id="fs-idm342843680"><link class="lo-reference" document="m68066"/>Drainee purchases direct materials each month. Its payment history shows that 65% is paid in the month of purchase with the remaining balance paid the month after purchase. Prepare a cash payment schedule for January using this data: in December through February, it purchased $22,000, $25,000, and $23,000 respectively.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm616470272">
+<problem id="fs-idm616470016">
+<para id="fs-idm616469760"><link class="lo-reference" document="m68066"/>What is the amount of budgeted cash payments if purchases are budgeted for $190,500 and the beginning and ending balances of accounts payable are $21,000 and $25,000, respectively?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm356730304">
+<problem id="fs-idm343658752">
+<para id="fs-idm301439264"><link class="lo-reference" document="m68066"/>Earthie’s Shoes has 55% of its sales in cash and the remainder on credit. Of the credit sales, 70% is collected in the month of sale, 15% is collected the month after the sale, and 10% is collected the second month after the sale. How much cash will be collected in June if sales are estimated as $75,000 in April, $65,000 in May, and $90,000 in June?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm348142224" class="problem-set-a">
+<exercise id="fs-idm348141728">
+<problem id="fs-idm356852496">
+<para id="fs-idm358024784"><link class="lo-reference" document="m68066"/>Relevant data from the Poster Company’s operating budgets are:</para>
+<media id="fs-idm342178640" class="scaled-down" alt="Quarter 1 and Quarter 2 respectively: Sales $208,470, 211,539; Direct material purchases 115,295, 120,832; Direct labor 75,205, 73,299; Manufacturing overhead 25,300, 25,300; Selling and admin expenses 32,000, 32,500; Depreciation included in selling and admin 1,500, 1,000; Collections from customers 215,392, 240,155; Cash payments for purchases 114,295, 119,253.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_PA01_img.jpg"/>
+</media>
+<para id="fs-idm320351168">Additional data: Capital assets were sold in January for $10,000 and $4,500 in May. Dividends of $4,500 were paid in February. The beginning cash balance was $60,359 and a required minimum cash balance is $59,000. Use this information to prepare a cash budget for the first two quarters of the year</para>
+</problem>
+</exercise>
+<exercise id="fs-idm293775808">
+<problem id="fs-idm293775552">
+<para id="fs-idm293775296"><link class="lo-reference" document="m68066"/>Fill in the missing information from the following schedules:</para>
+<media id="fs-idm353560704" alt="Sales Budget, For the Year Ending December 31, 2018, Quarter 1, Quarter 2, Quarter 3, Quarter 4, Total (respectively): Expected sales (units) 7,500, 8,250, 8,750, 9.000, ?; Sales price per unit $45, 50, 50, 55; Total sales revenue $337,500, 412,500, 437,500, ?, ?">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_PA02a_img.jpg"/>
+</media>
+<media id="fs-idm344188208" alt="Production Budget For the Year Ending December 31, 2018, Quarter 1, Quarter 2, Quarter 3, Quarter 4, Q 1Year 2 (respectively): Expected Sales 7,500, 8,250, 8,750, 9,000, 8,000; plus Desired ending inventory 1,650, 1,750, 1,800, ?, 900; Total required units 9,150, 10,000, 10,550, 10,600, 8,900; minus Beginning Inventory 1,500, 1,650, 1,750, 1,800, 1,600; Equals required production 7,650, 8,350, 8800, ?, 7,300; Total ?">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_PA02b_img.jpg"/>
+</media>
+<media id="fs-idm342117936" alt="Direct Materials Budget, For the Year Ending December 31, 2018, Quarter 1, Quarter 2, Quarter 3, Quarter 4, Total (respectively): Units to be produced 7,650, 8,350, 8,800, 8,800, 33,600; Times Direct material per unit 2, 2, 2, 2, 2; Total pounds needed for production 15,300, 16,700, 17,600, 17,600, 67,200; Add: desired ending inventory 4,175, 4,400, 4,400, 3,650, 3,650; Total material required 19,475, 21,100, 22,000, 21,250, 70,850; Less: beginning inventory 0, 4,175, 4,400, 4,400, –; Pounds of direct material purchase requirements 19,475, 16,925, 17,600, 16,850, 70,850; Cost per pound $1.50, 1.50, 1.50, 1.50, 1.50; Total cost of direct material purchase $29,213, 25,388, 26,400, 25,275, 106,275; Total ? $106,275.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_PA02c_img.jpg"/>
+</media>
+<media id="fs-idm359981760" alt="Direct Labor Budget, For the Year Ending December 31, 2018, Quarter 1, Quarter 2, Quarter 3, Quarter 4, Total (respectively): Units to be produced 7,650, 8,350, 8,800, 8,800, 33,600; Direct labor hours per unit 0.75, 0.75, 0.75, 0.75, 0.75; Total required direct labor hours 5,738, 6,263, 6,600, 6,600, 25,200; Labor cost per hour $25, 25, 25, 25, 25; Total direct labor cost $143,438, 156,563, 165,000, 165,000, 630,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_PA02d_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm358545840">
+<problem id="fs-idm354540656">
+<para id="fs-idm359046512"><link class="lo-reference" document="m68066"/>Direct labor hours are estimated as 2,000 in Quarter 1; 2,100 in Quarter 2; 1,900 in Quarter 3; and 2,300 in Quarter 4. Prepare a manufacturing overhead budget using the information provided.</para>
+<media id="fs-idm351219776" alt="Indirect material per hour $1.00; Indirect labor per hour 1.25; Maintenance per hour 0.25; Utilities per hour 0.50; Supervisory salaries 17,000; Maintenance 5,000; Property taxes and insurance 6,000; Depreciation 3,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_PA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm333928288">
+<problem id="fs-idm348300464">
+<para id="fs-idm360296832"><link class="lo-reference" document="m68066"/>Fitbands’ estimated sales are:</para>
+<media id="fs-idm352431664" class="scaled-down-30" alt="October $131,982, November 195,723, December 249,283, January 124,298, February 124,284, March 124,373.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_PA04_img.jpg"/>
+</media>
+<para id="fs-idm348538304">What are the balances in accounts receivable for January, February, and March if 65% of sales is collected in the month of sale, 25% is collected the month after the sale, and 10% is second month after the sale?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm360615904">
+<problem id="fs-idm348617008">
+<para id="fs-idm354585424"><link class="lo-reference" document="m68066"/>Sports Socks has a policy of always paying within the discount period and each of its suppliers provides a discount of 2% if paid within 10 days of purchase. Because of the purchase policy, 85% of its payments are made in the month of purchase and 15% are made the following month. The direct materials budget provides for purchases of $129,582 in November, $294,872 in December, $239,582 in January, and $234,837 in February. What is the balance in accounts payable for January 31, and February 28?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm352536432" class="problem-set-b">
+<exercise id="fs-idm350920800">
+<problem id="fs-idm352373152">
+<para id="fs-idm355962000"><link class="lo-reference" document="m68066"/>Relevant data from the operating budget of The Framers are:</para>
+<media id="fs-idm350702752" class="scaled-down" alt="Quarter 1 and Quarter 2 respectively: Sales $33,948, 76,482; Direct material purchases 25,312, 26,423; Direct labor 29,948, 24,328; Manufacturing overhead 9,322, 10,299; Selling and admin expenses 19,283, 19,238; Depreciation included in selling and admin 950, 800; Collections 34,324, 76,938; Cash payments 29,349, 20,937; Cash received: other 8,000, 500; Dividend 0, 500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_PB01_img.jpg"/>
+</media>
+<para id="fs-idm303502496">Other data:</para>
+<list id="fs-idm167377104" list-type="bulleted">
+<item>Capital assets were sold in quarter 1 and $8,000 was collected in quarter 1 and $500 collected in quarter 2.</item>
+<item>Dividends of $500 will be paid in May</item>
+<item>The beginning cash balance was $50,000 and a required minimum cash balance is $10,000.</item>
+<item>Prepare a cash budget for the first two quarters of the year.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm343951248">
+<problem id="fs-idm354015568">
+<para id="fs-idm347111280"><link class="lo-reference" document="m68066"/>Fill in the missing information from the following schedules:</para>
+<media id="fs-idm343663232" alt="Sales Budget, For the Year Ending December 31, 2018, Quarter 1, Quarter 2, Quarter 3, Quarter 4, Total (respectively): Expected sales (units) 21,000, 26,250, 8,750, 9.000, 65,000; Sales price per unit $?, ?, ?, ?; Total sales revenue $315,000, ?, ?, ?, 975,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_PB02a_img.jpg"/>
+</media>
+<media id="fs-idm358087632" alt="Production Budget For the Year Ending December 31, 2018, Quarter 1, Quarter 2, Quarter 3, Quarter 4, Q 1Year 2 (respectively): Expected Sales 21,000, 26,250, 8,750, 9,000, 8,000; plus Desired ending inventory 5,250, ?, ?, 1,600, –; Total required units 26,250, 28,000, 10,550, 10,600, 8,000; minus Beginning Inventory 5,250, 5,250, 1,750, 1,800, 1,600; Equals required production ?, ?, ?, ?, 6,400; Total 61,350.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_PB02b_img.jpg"/>
+</media>
+<media id="fs-idm316932816" alt="Direct Materials Budget, For the Year Ending December 31, 2018, Quarter 1, Quarter 2, Quarter 3, Quarter 4, Total (respectively): Units to be produced ?, ?, ?, ?, 61,350; Times Direct material per unit 2, 2, 2, 2, 2; Total pounds needed for production 42,000, 45,500, 17,600, 17,600, 122,700; Add: desired ending inventory11,375, ?, ?, 3,200, 3,200; Total material required 53,375, 49,900, 22,000, 20,800, 125,900; Less: beginning inventory 0, 11,375, 4,400, 4,400, –; Pounds of direct material purchase requirements 53,375, 38,525, 17,600, 16,400, 125,900; Cost per pound $1.50, 1.50, 1.50, 1.50, 1.50; Total cost of direct material purchase $80,063, 57,788, 26,400, 24,600, 188,850; Total $188,850, 188,850.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_PB02c_img.jpg"/>
+</media>
+<media id="fs-idm311143312" alt="Direct Labor Budget, For the Year Ending December 31, 2018, Quarter 1, Quarter 2, Quarter 3, Quarter 4, Total (respectively): Units to be produced ?, ?, ?, ?, ?; Direct labor hours per unit 1, 1, 1, 1, 1; Total required direct labor hours 15,750, 17,063, 6,600, 6,600, 46,013; Labor cost per hour $25, ?, ?, ?, ?; Total direct labor cost $393,750, 426,563, 165,000, 165,000, 1,150,313.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_PB02d_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm352093872">
+<problem id="fs-idm358846608">
+<para id="fs-idm617607152"><link class="lo-reference" document="m68066"/>Mesa Aquatics, Inc. estimated direct labor hours as 1,900 in quarter 1, 2,000 in quarter 2, 2,200 in quarter 3, and 1,800 in quarter 4. a sales and administration budget using the information provided.</para>
+<media id="fs-idm354000528" alt="Indirect material per hour $1.00; Indirect labor per hour 1.25; Maintenance per hour 0.25; Utilities per hour 0.50; Supervisory salaries 17,000; Maintenance 5,000; Property taxes and insurance 6,000; Depreciation 3,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_PB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm353267088">
+<problem id="fs-idm343395376">
+<para id="fs-idm350549488"><link class="lo-reference" document="m68066"/>Amusement tickets estimated sales are:</para>
+<media id="fs-idm344826624" class="scaled-down-30" alt="January $231,837, February 231,937, March 381,274, April 212,947, May 282,172, June 281,836.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M07_03_PB04_img.jpg"/>
+</media>
+<para id="fs-idm346715296">What are the balances in accounts receivable for April, May, and June if 60% of sales are collected in the month of sale, 30% are collected the month after the sale, and 10% are collected the second month after the sale?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm345407136">
+<problem id="fs-idm343648736">
+<para id="fs-idm346470320"><link class="lo-reference" document="m68066"/>All Temps has a policy of always paying within the discount period, and each of its suppliers provides a discount of 2% if paid within 10 days of purchase. Because of the purchase policy, 80% of its payments are made in the month of purchase and 20% are made the following month. The direct materials budget provides for purchases of $23,812 in February, $23,127 in March, $21,836 in April, and $28,173 in May. What is the balance in accounts payable for April 30, and May 31?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm313174288">
+<term>budgeted balance sheet</term>
+<meaning id="fs-idm344003968">estimated assets, liabilities, and equities that the company would have at the end of the year if their performance were to meet its expectations</meaning>
+</definition>
+<definition id="fs-idm328215888">
+<term>capital asset budget</term>
+<meaning id="fs-idm351022160">budget showing the organization’s plans to invest in long-term assets</meaning>
+</definition>
+<definition id="fs-idm354019712">
+<term>cash budget</term>
+<meaning id="fs-idm353579024">combined budget of all cash inflows and outflows of the organization</meaning>
+</definition>
+<definition id="fs-idm346316528">
+<term>cash collections schedule</term>
+<meaning id="fs-idm353051424">schedule showing when cash will be received from customers</meaning>
+</definition>
+<definition id="fs-idm354201904">
+<term>cash payments schedule</term>
+<meaning id="fs-idm359832944">schedule showing when cash will be used to pay for direct material purchases</meaning>
+</definition>
+</glossary>
+</document>

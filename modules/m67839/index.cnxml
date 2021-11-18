@@ -1,0 +1,631 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Define, Explain, and Provide Examples of Current and Noncurrent Assets, Current and Noncurrent Liabilities, Equity, Revenues, and Expenses</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67839</md:content-id>
+  <md:title>Define, Explain, and Provide Examples of Current and Noncurrent Assets, Current and Noncurrent Liabilities, Equity, Revenues, and Expenses</md:title>
+  <md:abstract/>
+  <md:uuid>2effb0ec-9209-4f1a-99f6-3bfba3b0a160</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm407199040">In addition to what you’ve already learned about assets and liabilities, and their potential categories, there are a couple of other points to understand about assets. Plus, given the importance of these concepts, it helps to have an additional review of the material.</para>
+<para id="fs-idm389616352">To help clarify these points, we return to our coffee shop example and now think of the coffee shop’s assets—items the coffee shop owns or controls. Review the list of assets you created for the local coffee shop. Did you happen to notice many of the items on your list have one thing in common: the items will be used over a long period of time? In accounting, we classify assets based on whether or not the asset will be used or consumed within a certain period of time, generally one year. If the asset will be used or consumed in one year or less, we classify the asset as a <term>current asset</term>. If the asset will be used or consumed over more than one year, we classify the asset as a <term>noncurrent asset</term>.</para>
+<para id="fs-idm407058848">Another thing you might have recognized when reviewing your list of coffee shop assets is that all of the items were something you could touch or move, each of which is known as a tangible asset. However, as you also learned in <link document="m67838">Describe the Income Statement, Statement of Owner’s Equity, Balance Sheet, and Statement of Cash Flows, and How They Interrelate</link>, not all assets are tangible. An asset could be an intangible asset, meaning the item lacks physical substance—it cannot be touched or moved. Take a moment to think about your favorite type of shoe or a popular type of farm tractor. Would you be able to recognize the maker of that shoe or the tractor by simply seeing the logo? Chances are you would. These are examples of intangible assets, trademarks to be precise. A trademark has value to the organization that created (or purchased) the trademark, and the trademark is something the organization controls—others cannot use the trademark without permission.</para>
+<para id="fs-idm408859664">Similar to the accounting for assets, liabilities are classified based on the time frame in which the liabilities are expected to be settled. A liability that will be settled in one year or less (generally) is classified as a <term>current liability</term>, while a liability that is expected to be settled in more than one year is classified as a <term>noncurrent liability</term>.</para>
+<para id="fs-idm377870960">Examples of current assets include <term>accounts receivable</term>, which is the outstanding customer debt on a credit sale; <term>inventory</term>, which is the value of products to be sold or items to be converted into sellable products; and sometimes a <term>notes receivable</term>, which is the value of amounts loaned that will be received in the future with interest, assuming that it will be paid within a year.</para>
+<para id="fs-idm401864240">Examples of current liabilities include <term>accounts payable</term>, which is the value of goods or services purchased that will be paid for at a later date, and <term>notes payable</term>, which is the value of amounts borrowed (usually not inventory purchases) that will be paid in the future with interest.</para>
+<para id="fs-idm396229776">Examples of noncurrent assets include notes receivable (notice notes receivable can be either current or noncurrent), land, buildings, equipment, and vehicles. An example of a noncurrent liability is notes payable (notice notes payable can be either current or noncurrent).</para>
+<section id="fs-idm394651552">
+<title>Why Does Current versus Noncurrent Matter?</title>
+<para id="fs-idm389077616">At this point, let’s take a break and explore why the distinction between current and noncurrent assets and liabilities matters. It is a good question because, on the surface, it does not seem to be important to make such a distinction. After all, assets are things owned or controlled by the organization, and liabilities are amounts owed by the organization; listing those amounts in the financial statements provides valuable information to stakeholders. But we have to dig a little deeper and remind ourselves that stakeholders are using this information to make decisions. Providing the amounts of the assets and liabilities answers the “what” question for stakeholders (that is, it tells stakeholders the value of assets), but it does not answer the “when” question for stakeholders. For example, knowing that an organization has $1,000,000 worth of assets is valuable information, but knowing that $250,000 of those assets are current and will be used or consumed within one year is more valuable to stakeholders. Likewise, it is helpful to know the company owes $750,000 worth of liabilities, but knowing that $125,000 of those liabilities will be paid within one year is even more valuable. In short, the <emphasis effect="italics">timing</emphasis> of events is of particular interest to stakeholders.</para>
+<note id="fs-idm402116768" class="think-through">
+<title>Borrowing</title>
+<para id="fs-idm386257424">When money is borrowed by an individual or family from a bank or other lending institution, the loan is considered a personal or consumer loan. Typically, payments on these types of loans begin shortly after the funds are borrowed. Student loans are a special type of consumer borrowing that has a different structure for repayment of the debt. If you are not familiar with the special repayment arrangement for student loans, do a brief internet search to find out when student loan payments are expected to begin.</para>
+<para id="fs-idm389529200">Now, assume a college student has two loans—one for a car and one for a student loan. Assume the person gets the flu, misses a week of work at his campus job, and does not get paid for the absence. Which loan would the person be most concerned about paying? Why?</para>
+</note>
+</section>
+<section id="fs-idm393023088">
+<title>Equity and Legal Structure</title>
+<para id="fs-idm393887792">Recall that <term class="no-emphasis">equity</term> can also be referred to as net worth—the value of the organization. The concept of equity does not change depending on the legal structure of the business (sole proprietorship, partnership, and corporation). The terminology does, however, change slightly based on the type of entity. For example, investments by owners are considered “capital” transactions for sole proprietorships and partnerships but are considered “common stock” transactions for corporations. Likewise, distributions to owners are considered “drawing” transactions for sole proprietorships and partnerships but are considered “dividend” transactions for corporations.</para>
+<para id="fs-idm388824960">As another example, in sole proprietorships and partnerships, the final amount of net income or net loss for the business becomes “Owner(s), Capital.” In a corporation, net income or net loss for the business becomes <term>retained earnings</term>, which is the cumulative, undistributed net income or net loss, less dividends paid for the business since its inception.</para>
+<para id="fs-idm384357760">The essence of these transactions remains the same: organizations become <emphasis effect="italics">more</emphasis> valuable when owners make investments in the business and the businesses earn a profit (net income), and organizations become <emphasis effect="italics">less</emphasis> valuable when owners receive distributions (dividends) from the organization and the businesses incur a loss (net loss). Because accountants are providing information to stakeholders, it is important for accountants to fully understand the specific terminology associated with the various legal structures of organizations.</para>
+</section>
+<section id="fs-idm386799408">
+<title>The Accounting Equation</title>
+<para id="fs-idm390251072">Recall the simple example of a home loan discussed in <link document="m67838">Describe the Income Statement, Statement of Owner’s Equity, Balance Sheet, and Statement of Cash Flows, and How They Interrelate</link>. In that example, we assumed a family purchased a home valued at $200,000 and made a down payment of $25,000 while financing the remaining balance with a $175,000 bank loan. This example demonstrates one of the most important concepts in the study of accounting: the <term>accounting equation</term>, which is:</para>
+<media id="fs-idm370599040" class="scaled-down" alt="Assets equal Liabilities plus Owner’s Equity.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_02_AcctEq_img.jpg"/>
+</media>
+<para id="fs-idm402039360">In our example, the accounting equation would look like this:</para>
+<equation id="fs-idm270820480" class="unnumbered"><m:math><m:mrow><m:mn>$200,000</m:mn><m:mo>=</m:mo><m:mn>$175,000</m:mn><m:mo>+</m:mo><m:mn>$25,000</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm406167168">As you continue your accounting studies and you consider the different major types of business entities available (sole proprietorships, partnerships, and corporations), there is another important concept for you to remember. This concept is that no matter which of the entity options that you choose, the accounting process for all of them will be predicated on the accounting equation.</para>
+<para id="fs-idm389641792">It may be helpful to think of the accounting equation from a “sources and claims” perspective. Under this approach, the assets (items owned by the organization) were obtained by incurring liabilities or were provided by owners. Stated differently, every asset has a claim against it—by creditors and/or owners.</para>
+<note id="fs-idm380942656" class="your-turn">
+<title>The Accounting Equation</title>
+<para id="fs-idm410865968">On a sheet of paper, use three columns to create your own accounting equation. In the first column, list all of the things you own (assets). In the second column, list any amounts owed (liabilities). In the third column, using the accounting equation, calculate, you guessed it, the net amount of the asset (equity). When finished, total the columns to determine your net worth. Hint: do not forget to subtract the liability from the value of the asset.</para>
+<para id="fs-idm385431264">Here is something else to consider: is it possible to have negative equity? It sure is . . . ask any college student who has taken out loans. At first glance there is no asset directly associated with the amount of the loan. But is that, in fact, the case? You might ask yourself why make an investment in a college education—what is the benefit (asset) to going to college? The answer lies in the difference in lifetime earnings with a college degree versus without a college degree. This is influenced by many things, including the supply and demand of jobs and employees. It is also influenced by the earnings for the type of college degree pursued. (Where do you think accounting ranks?)</para>
+<para id="fs-idm378644960"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm381409216">Answers will vary but may include vehicles, clothing, electronics (include cell phones and computer/gaming systems, and sports equipment). They may also include money owed on these assets, most likely vehicles and perhaps cell phones. In the case of a student loan, there may be a liability with no corresponding asset (yet). Responses should be able to evaluate the benefit of investing in college is the wage differential between earnings with and without a college degree.</para>
+</note>
+<section id="fs-idm381179712">
+<title>Expanding the Accounting Equation</title>
+<para id="fs-idm382904544">Let’s continue our exploration of the accounting equation, focusing on the equity component, in particular. Recall that we defined equity as the net worth of an organization. It is helpful to also think of net worth as the <emphasis effect="italics">value</emphasis> of the organization. Recall, too, that <term class="no-emphasis">revenues</term> (inflows as a result of providing goods and services) <emphasis effect="italics">increase</emphasis> the value of the organization. So, every dollar of revenue an organization generates increases the overall value of the organization.</para>
+<para id="fs-idm395563120">Likewise, <term class="no-emphasis">expenses</term> (outflows as a result of generating revenue) <emphasis effect="italics">decrease</emphasis> the value of the organization. So, each dollar of expenses an organization incurs decreases the overall value of the organization. The same approach can be taken with the other elements of the financial statements:</para>
+<list id="fs-idm373408032" list-type="bulleted" bullet-style="bullet">
+<item>Gains <emphasis effect="italics">increase</emphasis> the value (equity) of the organization.</item>
+<item>Losses <emphasis effect="italics">decrease</emphasis> the value (equity) of the organization.</item>
+<item>Investments by owners <emphasis effect="italics">increase</emphasis> the value (equity) of the organization.</item>
+<item>Distributions to owners <emphasis effect="italics">decrease</emphasis> the value (equity) of the organization.</item>
+<item>Changes in assets and liabilities can <emphasis effect="italics">either</emphasis> increase or decrease the value (equity) of the organization depending on the net result of the transaction.</item>
+</list>
+<para id="fs-idm384526608">A graphical representation of this concept is shown in <link target-id="OSX_Acct_F02_02_GraphEqn"/>.</para>
+<figure id="OSX_Acct_F02_02_GraphEqn">
+<media id="fs-idm376107840" alt="Assets (both current and noncurrent) equal Liabilities (both current and noncurrent) plus Owner’s Equity. Each of these has a big “T” below it. The current and non current assets each have the big “T” with a plus sign on the left side under the top line and a minus sign on the right side under the top line. The current and noncurrent liabilities each have a big “T” with a minus sign on the left side under the top line and a plus sign on the right side under the top line. The Owner’s Equity has a large “T” with a minus sign on the left side with Distribution to Owners, Expenses, Losses, and Comprehensive Income showing as the reasons. There is a plus sign on the right side with Investments by Owners, Revenues, Gains, and Comprehensive Income as the reasons.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_02_GraphEqn.jpg"/>
+</media>
+<caption>Graphical Representation of the Accounting Equation. Both assets and liabilities are categorized as current and noncurrent. Also highlighted are the various activities that affect the equity (or net worth) of the business. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm379081408">The format of this illustration is also intended to introduce you to a concept you will learn more about in your study of accounting. Notice each account subcategory (Current Assets and Noncurrent Assets, for example) has an “increase” side and a “decrease” side. These are called T-accounts and will be used to analyze transactions, which is the beginning of the accounting process. See <link document="m67842">Analyzing and Recording Transactions</link> for a more comprehensive discussion of analyzing transactions and T-Accounts.</para>
+</section>
+<section id="fs-idm396390944">
+<title>Not All Transactions Affect Equity</title>
+<para id="fs-idm370168496">As you continue to develop your understanding of accounting, you will encounter many types of transactions involving different elements of the financial statements. The previous examples highlighted elements that change the equity of an organization. Not all transactions, however, ultimately impact equity. For example, the following do not impact the equity or net worth of the organization:<footnote id="fs-idm380255696">SFAC No. 6, p. 20.</footnote></para>
+<list id="fs-idm408510560" list-type="bulleted" bullet-style="bullet">
+<item>Exchanges of assets for assets</item>
+<item>Exchanges of liabilities for liabilities</item>
+<item>Acquisitions of assets by incurring liabilities</item>
+<item>Settlements of liabilities by transferring assets</item>
+</list>
+<para id="fs-idm409382544">It is important to understand the inseparable connection between the elements of the financial statements and the possible impact on organizational equity (value). We explore this connection in greater detail as we return to the financial statements.</para>
+</section>
+</section>
+<section id="fs-idm409595888" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm405722448" list-type="bulleted" bullet-style="bullet">
+<item>Assets and liabilities are categorized into current and noncurrent, based on when the item will be settled. Assets and liabilities that will be settled in one year or less are classified as current; otherwise, the items are classified as noncurrent.</item>
+<item>Assets are also categorized based on whether or not the asset has physical substance. Assets with physical substance are considered tangible assets, while intangible assets lack physical substance.</item>
+<item>The distinction between current and noncurrent assets and liabilities is important because it helps financial statement users assess the timing of the transactions.</item>
+<item>Three broad categories of legal business structures are sole proprietorship, partnership, and corporation, with each structure having advantages and disadvantages.</item>
+<item>The accounting equation is Assets = Liabilities + Owner’s Equity. It is important to the study of accounting because it shows what the organization owns and the sources of (or claims against) those resources.</item>
+<item>Owners’ equity can also be thought of as the net worth or value of the business. There are many factors that influence equity, including net income or net loss, investments by and distributions to owners, revenues, gains, losses, expenses, and comprehensive income.</item>
+</list>
+</section>
+<section id="fs-idm407145200" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm406688976">
+<problem id="fs-idm407325040">
+<para id="fs-idm410062544"><link class="lo-reference" document="m67838"/>Which of the following statements is true?</para><list id="fs-idm370936736" list-type="enumerated" number-style="upper-alpha">
+<item>Tangible assets lack physical substance.</item>
+<item>Tangible assets will be consumed in a year or less.</item>
+<item>Tangible assets have physical substance.</item>
+<item>Tangible assets will be consumed in over a year.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm369250368">
+<problem id="fs-idm409071360">
+<para id="fs-idm384326720"><link class="lo-reference" document="m67839"/>Owners have no personal liability under which legal business structure?</para>
+<list id="fs-idm377899760" list-type="enumerated" number-style="upper-alpha">
+<item>a corporation</item>
+<item>a partnership</item>
+<item>a sole proprietorship</item>
+<item>There is liability in every legal business structure.</item>
+</list>
+</problem>
+<solution id="fs-idm382281696">
+<para id="fs-idm394158176">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm369458480">
+<problem id="fs-idm377038944">
+<para id="fs-idm385159776"><link class="lo-reference" document="m67839"/>The accounting equation is expressed as ________.</para>
+<list id="fs-idm410939008" list-type="enumerated" number-style="upper-alpha">
+<item>Assets + Liabilities = Owner’s Equity</item>
+<item>Assets – Noncurrent Assets = Liabilities</item>
+<item>Assets = Liabilities + Investments by Owners</item>
+<item>Assets = Liabilities + Owner’s Equity</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm380967216">
+<problem id="fs-idm383243024">
+<para id="fs-idm393807744"><link class="lo-reference" document="m67839"/>Which of the following decreases owner’s equity?</para>
+<list id="fs-idm410135872" list-type="enumerated" number-style="upper-alpha">
+<item>investments by owners</item>
+<item>losses</item>
+<item>gains</item>
+<item>short-term loans</item>
+</list>
+</problem>
+<solution id="fs-idm405171888">
+<para id="fs-idm408058400">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm381340624">
+<problem id="fs-idm410248864">
+<para id="fs-idm375502784"><link class="lo-reference" document="m67839"/>Exchanges of assets for assets have what effect on equity?</para>
+<list id="fs-idm395606736" list-type="enumerated" number-style="upper-alpha"><item>increase equity</item>
+<item>no impact on equity</item>
+<item>decrease equity</item>
+<item>There is no relationship between assets and equity.</item>
+</list></problem>
+</exercise>
+<exercise id="fs-idm395691424">
+<problem id="fs-idm376233808">
+<para id="fs-idm402466096"><link class="lo-reference" document="m67839"/>All of the following increase owner’s equity <emphasis effect="italics">except</emphasis> for which one?</para>
+<list id="fs-idm410126144" list-type="enumerated" number-style="upper-alpha">
+<item>gains</item>
+<item>investments by owners</item>
+<item>revenues</item>
+<item>acquisitions of assets by incurring liabilities</item>
+</list>
+</problem>
+<solution id="fs-idm384195184">
+<para id="fs-idm382141744">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm381999760" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm396624688">
+<problem id="fs-idm383311376">
+<para id="fs-idm380372528"><link class="lo-reference" document="m67839"/>Explain the difference between current and noncurrent assets and liabilities. Why is this distinction important to stakeholders?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm383227632">
+<problem id="fs-idm403292992">
+<para id="fs-idm402949456"><link class="lo-reference" document="m67839"/>Identify/discuss one similarity and one difference between tangible and intangible assets.</para>
+</problem>
+<solution id="fs-idm404902528">
+<para id="fs-idm384652368">Both tangible and intangible assets have value to the company and can be bought, sold, or impaired; tangible assets have physical substance, while intangible assets do not.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm382158464">
+<problem id="fs-idm382558624">
+<para id="fs-idm385969056"><link class="lo-reference" document="m67839"/>Name the three types of legal business structure. Describe one advantage and one disadvantage of each.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm375100800">
+<problem id="fs-idm386166880">
+<para id="fs-idm389768672"><link class="lo-reference" document="m67839"/>What is the “accounting equation”? List two examples of business transactions, and explain how the accounting equation would be impacted by these transactions.</para>
+</problem>
+<solution id="fs-idm389139088">
+<para id="fs-idm406336032">Assets = Liabilities + Owner’s Equity. Answers will vary and should include a combination of revenues/gains (increases), expenses/losses (decreases), investments (increases), and distributions (decreases). It is important to understand the following transactions/exchanges will not change equity: an asset for an asset, liability for liability, asset acquisitions by incurring liabilities, and asset reductions to reduce liabilities.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm381501472" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm406694944">
+<problem id="fs-idm403282272">
+<para id="fs-idm403294640"><link class="lo-reference" document="m67839"/>For each of the following items, identify whether the item is considered current or noncurrent, and explain why.</para>
+<table id="fs-idm379377760" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c2"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Item</entry>
+<entry valign="bottom" align="center">Current or Noncurrent?</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Cash</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Inventory</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Machines</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Trademarks</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Accounts Payable</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Wages Payable</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Owner, Capital</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Accounts Receivable</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm382770160">
+<problem id="fs-idm376373920">
+<para id="fs-idm382518480"><link class="lo-reference" document="m67839"/>For the items listed below, indicate how the item affects equity (increase, decrease, or no impact.</para>
+<table id="fs-idm394063024" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c2"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Item</entry>
+<entry valign="bottom" align="center">Increase? Decrease? or No Impact?</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Expenses</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Assets</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Gains</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Liabilities</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Dividends</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm408634592">
+<problem id="fs-idm405045888">
+<para id="fs-idm387602864"><link class="lo-reference" document="m67839"/>Forest Company had the following transactions during the month of December. What is the December 31 cash balance?</para>
+<media id="fs-idm385123184" class="scaled-down-30" alt="Cash sales $3,250, Payments for inventory 1,760, Investments by owners 3,000, Supplies used 175, Cash withdrawals 260, Inventory received 2,500, Wages paid 2,390, Cash balance December 1, 4,250.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_02_EA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm388680544">
+<problem id="fs-idm403316160">
+<para id="fs-idm407293680"><link class="lo-reference" document="m67839"/>Here are facts for the Hudson Roofing Company for December.</para>
+<media id="fs-idm406158304" class="scaled-down" alt="Hudson Alexander, Capital December 1 $175,300, December Revenue 56,400, December Expenses 59,800.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_02_EA04_img.jpg"/>
+</media>
+<para id="fs-idm381236176">Assuming no investments or withdrawals, what is the ending balance in the owners’ capital account?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm403304864" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm403353344">
+<problem id="fs-idm407136448">
+<para id="fs-idm407128320"><link class="lo-reference" document="m67839"/>For each of the following items, identify whether the item is considered current or noncurrent, and explain why.</para>
+<table id="fs-idm386106384" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c2"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Item</entry>
+<entry valign="bottom" align="center">Current or Noncurrent?</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Inventory</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Buildings</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Accounts Receivable</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Cash</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Trademarks</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Accounts Payable</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Wages Payable</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Common Stock</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm407050448">
+<problem id="fs-idm377155360">
+<para id="fs-idm385271552"><link class="lo-reference" document="m67839"/>For the items listed below, indicate how the item affects equity (increase, decrease, or no impact).</para>
+<table id="fs-idm395186352" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c2"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Item</entry>
+<entry valign="bottom" align="center">Increase? Decrease? or No Impact?</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Revenues</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Gains</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Losses</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Drawings</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Investments</entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm395184064">
+<problem id="fs-idm395742416">
+<para id="fs-idm395446816"><link class="lo-reference" document="m67839"/>Gumbo Company had the following transactions during the month of December. What was the December 1 cash balance?</para>
+<media id="fs-idm402058208" class="scaled-down-30" alt="Dividends paid $221, Credit sales 149, Payments for equipment 1,496, Taxes paid 2,032, Common stock sold 2,550, Inventory received 2,125, Cash sales 2,763, Cash balance December 31 9,869.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_02_EB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm394978752">
+<problem id="fs-idm394125728">
+<para id="fs-idm377745056"><link class="lo-reference" document="m67839"/>Here are facts for Hailey’s Collision Service for January.</para>
+<media id="fs-idm376263760" class="scaled-down" alt="Hailey Shusher, Capital January 1 $61,355, January Revenue 23,240, January Expenses 20,930.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_02_EB04_img.jpg"/>
+</media>
+<para id="fs-idm396391968">Assuming no investments or withdrawals, what is the ending balance in the owners’ capital account?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm395218688" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm382542304">
+<problem id="fs-idm368612016">
+<para id="fs-idm383313984"><link class="lo-reference" document="m67839"/>For each of the following independent transactions, indicate whether there was an increase, a decrease, or no impact for each financial statement element.</para>
+<table id="fs-idm387035728" class="top-titled" summary="No Summary">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c4"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Transaction</entry>
+<entry valign="bottom" align="center">Assets</entry>
+<entry valign="bottom" align="center">Liabilities</entry>
+<entry valign="bottom" align="center">Owners’ Equity</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Paid cash for expenses</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Sold common stock for cash</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Owe vendor for purchase of asset</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Paid owners for dividends</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Paid vendor for amount previously owed</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm370377584">
+<problem id="fs-idm388185488">
+<para id="fs-idm397091312"><link class="lo-reference" document="m67839"/>Olivia’s Apple Orchard had the following transactions during the month of September, the first month in business.</para>
+<media id="fs-idm395264752" alt="Transaction, Amount, Asset equals Liability plus Owner’s Equity (respectively): Amount owed for land purchase $50,000, 50,000, 50,000, 0; Apple sales: cash, 3,000, ?, ?, ?; Apple sales: credit 6,000, ?, ?, ?; Collections of credit sales 4,000, ?, ?, ?; Cash purchase of equipment 10,000, ?, ?, ?; Owner investments 25,000, ?, ?, ?; Wages expenses paid 6,000, ?, ?, ?; Fuel expenses paid 400, ?, ?, ?; Amount owed for utility expense 1,000, ?, ?, ?; Current Totals: - , 50,000, 50,000, 0.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_02_PA02_img.jpg"/>
+</media>
+<para id="fs-idm401301696">Complete the chart to determine the ending balances. As an example, the first transaction has been completed. Note: Negative amounts should be indicated with minus signs (–) and unaffected should be noted as $0.</para>
+<para id="fs-idm377920688">(Hints: 1. each transaction will involve two financial statement elements; 2. the net impact of the transaction may be $0.)</para>
+</problem>
+</exercise>
+<exercise id="fs-idm384145360">
+<problem id="fs-idm395405632">
+<para id="fs-idm383045104"><link class="lo-reference" document="m67839"/>Using the information in <link document="m67839" target-id="fs-idm370377584"/>, determine the amount of revenue and expenses for Olivia’s Apple Orchard for the month of September.</para></problem>
+</exercise>
+</section>
+<section id="fs-idm380585984" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm370406576">
+<problem id="fs-idm387604176">
+<para id="fs-idm382359424"><link class="lo-reference" document="m67839"/>For each of the following independent transactions, indicate whether there was an increase, decrease, or no impact on each financial statement element.</para>
+<table id="fs-idm402517296" class="top-titled" summary="No Summary">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c4"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Transaction</entry>
+<entry valign="bottom" align="center">Assets</entry>
+<entry valign="bottom" align="center">Liabilities</entry>
+<entry valign="bottom" align="center">Owners’ Equity</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="bottom" align="left">Received cash for sale of asset (no gain or loss)</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Cash distribution to owner</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Cash sales</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Investment by owners</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Owe vendor for inventory purchase</entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm389793968">
+<problem id="fs-idm387059984">
+<para id="fs-idm385084544"><link class="lo-reference" document="m67839"/>Mateo’s Maple Syrup had the following transactions during the month of February, its first month in business.</para>
+<media id="fs-idm389692336" alt="Transaction, Amount, Asset equals Liability plus Owner’s Equity (respectively): Common stock sold, $3,000, 3,000, 0, 3,000; Amount owed for tax expense, 1,950, ?, ?, ?; Amount owed for insurance expense, 750, ?, ?, ?; Syrup sales: cash 13,000, ?, ?, ?; Syrup sales: credit 6,000, ?, ?, ? Dividends paid 40, ?, ?, ?; Collections of credit sales 1,700, ?, ?, ?; Cash purchase of supplies expenses 250, ?, ?, ?; Cash paid for amounts owed 1,600, ?, ?, ?; Utility expenses paid 400, ?, ?, ?; Taxes paid 600, ?, ?, ?; Current Totals: - , 3,000, 0, 3,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F02_02_PB02_img.jpg"/>
+</media>
+<para id="fs-idm392973744">Complete the chart to determine the ending balances. As an example, the first transaction has been completed. Note: negative amounts should be indicated with minus signs (–).</para>
+<para id="fs-idm382302704">(Hints: 1. each transaction will involve two financial statement elements; 2. the net impact of the transaction may be $0.)</para>
+</problem>
+</exercise>
+<exercise id="fs-idm382654272">
+<problem id="fs-idm394972672">
+<para id="fs-idm384419232"><link class="lo-reference" document="m67839"/>Using the information in <link document="m67839" target-id="fs-idm389793968"/>, determine the amount of revenue and expenses for Mateo’s Maple Syrup for the month of February.</para></problem>
+</exercise>
+</section>
+<section id="fs-idm392491040" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm385058544">
+<problem id="fs-idm386291024">
+<para id="fs-idm380443584"><link class="lo-reference" document="m67839"/>A trademark is an intangible asset that has value to a business. Assume that you are an accountant with the responsibility of valuing the trademark of a well-known company such as <emphasis class="colored-text">Nike</emphasis> or <emphasis class="colored-text">McDonald’s</emphasis>. What makes each of these companies unique and adds value? While the value of a trademark may not necessarily be recorded on the company’s balance sheet, discuss what factors you think would affect (increase or decrease) the value of the company’s trademark? Consider your answer through the perspective of various stakeholders.</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm395917744">
+<term>accounting equation</term>
+<meaning id="fs-idm391667712">assets = liabilities + owner’s equity</meaning>
+</definition>
+<definition id="fs-idm382792032">
+<term>accounts payable</term>
+<meaning id="fs-idm386850048">value of goods or services purchased that will be paid for at a later date</meaning>
+</definition>
+<definition id="fs-idm387184624">
+<term>accounts receivable</term>
+<meaning id="fs-idm383212864">outstanding customer debt on a credit sale, typically receivable within a short time period</meaning>
+</definition>
+<definition id="fs-idm385859040">
+<term>current asset</term>
+<meaning id="fs-idm410632832">asset that will be used or consumed in one year or less</meaning>
+</definition>
+<definition id="fs-idm408985136">
+<term>current liability</term>
+<meaning id="fs-idm393946624">debt or obligation due within one year or, in rare cases, a company’s standard operating cycle, whichever is greater</meaning>
+</definition>
+<definition id="fs-idm407229584">
+<term>inventory</term>
+<meaning id="fs-idm397682992">value of products to be sold or items to be converted into sellable products</meaning>
+</definition>
+<definition id="fs-idm395508448">
+<term>noncurrent asset</term>
+<meaning id="fs-idm408084176">asset that will be used or consumed over more than one year</meaning>
+</definition>
+<definition id="fs-idm375842048">
+<term>noncurrent liability</term>
+<meaning id="fs-idm385611888">liability that is expected to be settled in more than one year</meaning>
+</definition>
+<definition id="fs-idm373049200">
+<term>notes payable</term>
+<meaning id="fs-idm384627216">value of amounts borrowed that will be paid in the future with interest</meaning>
+</definition>
+<definition id="fs-idm391069344">
+<term>notes receivable</term>
+<meaning id="fs-idm375903280">value of amounts loaned that will be received in the future with interest</meaning>
+</definition>
+<definition id="fs-idm387047872">
+<term>retained earnings</term>
+<meaning id="fs-idm375513488">cumulative, undistributed net income or net loss for the business since its inception</meaning>
+</definition>
+</glossary>
+</document>

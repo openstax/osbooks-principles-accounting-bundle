@@ -1,0 +1,273 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Prepare Journal Entries to Record Short-Term Notes Payable</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67906</md:content-id>
+  <md:title>Prepare Journal Entries to Record Short-Term Notes Payable</md:title>
+  <md:abstract/>
+  <md:uuid>63f08918-fe77-4463-8593-ff649e98bf19</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm215609248">If you have ever taken out a payday loan, you may have experienced a situation where your living expenses temporarily exceeded your assets. You need enough money to cover your expenses until you get your next paycheck. Once you receive that paycheck, you can repay the lender the amount you borrowed, plus a little extra for the lender’s assistance.</para>
+<para id="fs-idm235549024">There is an ebb and flow to business that can sometimes produce this same situation, where business expenses temporarily exceed revenues. Even if a company finds itself in this situation, bills still need to be paid. The company may consider a short-term note payable to cover the difference.</para>
+<para id="fs-idm223309872">A <term>short-term note payable</term> is a debt created and due within a company’s operating period (less than a year). Some key characteristics of this written promise to pay (see <link target-id="OSX_Acct_F12_04_Promise"/>) include an established date for repayment, a specific payable amount, interest terms, and the possibility of debt resale to another party. A short-term note is classified as a current liability because it is wholly honored within a company’s operating period. This payable account would appear on the balance sheet under Current Liabilities.</para>
+<figure id="OSX_Acct_F12_04_Promise">
+<media id="fs-idm206535264" alt="The image shows an example of a Promissory Note. It states the following: I, (borrower) (insert name) agree and promise to pay the amount of (insert $ amount) to (lender) (insert name) for a value received at an annual interest rate of (insert percentage). First payment due date (30 days after date of this promissory note) (insert date). Final payment due date (120 days after date of this promissory note) (insert date). Witnessed by (insert name) Notary public: (insert seal). City (insert name of city) State (insert name of state) Date (insert date).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_04_Promise.jpg"/>
+</media>
+<caption>Short-Term Promissory Note. A promissory note includes terms of repayment, such as the date and interest rate. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm243772912">Debt sale to a third party is a possibility with any loan, which includes a short-term note payable. The terms of the agreement will state this resale possibility, and the new debt owner honors the agreement terms of the original parties. A lender may choose this option to collect cash quickly and reduce the overall outstanding debt.</para>
+<para id="fs-idm251810832">We now consider two short-term notes payable situations; one is created by a purchase, and the other is created by a loan.</para>
+<note id="fs-idm249950144" class="think-through">
+<title>Promissory Notes: Time to Issue More Debt?</title>
+<para id="fs-idm233306336">A common practice for government entities, particularly schools, is to issue short-term (<term class="no-emphasis">promissory</term>) notes to cover daily expenditures until revenues are received from tax collection, lottery funds, and other sources. School boards approve the note issuances, with repayments of principal and interest typically met within a few months.</para>
+<para id="fs-idm255402400">The goal is to fully cover all expenses until revenues are distributed from the state. However, revenues distributed fluctuate due to changes in collection expectations, and schools may not be able to cover their expenditures in the current period. This leads to a dilemma—whether or not to issue more short-term notes to cover the deficit.</para>
+<para id="fs-idm255214256">Short-term debt may be preferred over long-term debt when the entity does not want to devote resources to pay interest over an extended period of time. In many cases, the interest rate is lower than long-term debt, because the loan is considered less risky with the shorter payback period. This shorter payback period is also beneficial with amortization expenses; short-term debt typically does not amortize, unlike long-term debt.</para>
+<para id="fs-idm267974928">What would you do if you found your school in this situation? Would you issue more debt? Are there alternatives? What are some positives and negatives to the promissory note practice?</para>
+</note>
+<section id="fs-idm222259184">
+<title>Recording Short-Term Notes Payable Created by a Purchase</title>
+<para id="fs-idm207140480">A short-term notes payable created by a purchase typically occurs when a payment to a supplier does not occur within the established time frame. The supplier might require a new agreement that converts the overdue accounts payable into a short-term note payable (see <link target-id="OSX_Acct_F12_04_APtoSTNP"/>), with interest added. This gives the company more time to make good on outstanding debt and gives the supplier an incentive for delaying payment. Also, the creation of the note payable creates a stronger legal position for the owner of the note, since the note is a negotiable legal instrument that can be more easily enforced in court actions.</para>
+<figure id="OSX_Acct_F12_04_APtoSTNP" class="scaled-down-30">
+<media id="fs-idm246522768" alt="The figure shows two circles next to each other. The circle on the left has “Accounts Payable” written within it, the circle on the right has “Short-Term Notes Payable” written within it. There is one arrow pointing from the right to the left, and one pointing from the left to the right, between the circles.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_04_APtoSTNP.jpg"/>
+</media>
+<caption>Accounts Payable Conversion. Accounts Payable may be converted into a short-term notes payable, if there is a default on payment. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm257421488">To illustrate, let’s revisit Sierra Sports’ purchase of soccer equipment on August 1. Sierra Sports purchased $12,000 of soccer equipment from a supplier on credit. Credit terms were 2/10, n/30, invoice date August 1. Let’s assume that Sierra Sports was unable to make the payment due within 30 days. On August 31, the supplier renegotiates terms with Sierra and converts the accounts payable into a written note, requiring full payment in two months, beginning September 1. Interest is now included as part of the payment terms at an annual rate of 10%. The conversion entry from an account payable to a Short-Term Note Payable in Sierra’s journal is shown.</para>
+<media id="fs-idm247388032" alt="A journal entry is made on August 31 and shows a Debit to Accounts Payable for $12,000, and a credit to Short-Term Notes payable for $12,000, with the note “To record conversion of Accounts Payable to short-term note, terms two-month repayment, 10% interest.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_04_Conver_img.jpg"/>
+</media>
+<para id="fs-idm235912640">Accounts Payable decreases (debit) and Short-Term Notes Payable increases (credit) for the original amount owed of $12,000. When Sierra pays cash for the full amount due, including interest, on October 31, the following entry occurs.</para>
+<media id="fs-idm215557168" alt="A journal entry is made on October 31 and shows a Debit to Short-Term notes payable for $12,000, a debit to Interest expense for $200, and a credit to Cash for $12,200, with the note “To record payment for short-term note, with interest.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_04_STNP01_img.jpg"/>
+</media>
+<para id="fs-idm216017360">Since Sierra paid the full amount due, Short-Term Notes Payable decreases (debit) for the principal amount of the debt. Interest Expense increases (debit) for two months of interest accumulation. Interest Expense is found from our earlier equation, where Interest = Principal × Annual interest rate × Part of year ($12,000 × 10% × [2/12]), which is $200. Cash decreases (credit) for $12,200, which is the principal plus the interest due.</para>
+<para id="fs-idm259066160">The other short-term note scenario is created by a loan.</para>
+</section>
+<section id="fs-idm255691312">
+<title>Recording Short-Term Notes Payable Created by a Loan</title>
+<para id="fs-idm527910432">A short-term notes payable created by a loan transpires when a business incurs debt with a lender <link target-id="OSX_Acct_F12_04_Banker"/>. A business may choose this path when it does not have enough cash on hand to finance a capital expenditure immediately but does not need long-term financing. The business may also require an influx of cash to cover expenses temporarily. There is a written promise to pay the principal balance and interest due on or before a specific date. This payment period is within a company’s operating period (less than a year). Consider a short-term notes payable scenario for Sierra Sports.</para>
+<figure id="OSX_Acct_F12_04_Banker" class="scaled-down-30">
+<media id="fs-idm255013600" alt="A picture shows two people shaking hands across a table with papers and laptops on it.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_04_Banker.jpg"/>
+</media>
+<caption>Bank Loan. A short-term note can be created from a loan. (credit: “Business Paperwork Deal” by “rawpixel”/Pixabay, CC0)</caption>
+</figure>
+<para id="fs-idm247091488">Sierra Sports requires a new apparel printing machine after experiencing an increase in custom uniform orders. Sierra does not have enough cash on hand currently to pay for the machine, but the company does not need long-term financing. Sierra borrows $150,000 from the bank on October 1, with payment due within three months (December 31), at a 12% annual interest rate. The following entry occurs when Sierra initially takes out the loan.</para>
+<media id="fs-idm533499344" alt="A journal entry is made on October 1 and shows a Debit to Cash for $150,000, and a credit to Short-Term Notes payable for $150,000, with the note “To recognize short-term loan, 12 percent interest, payable in three months.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_04_STNP02_img.jpg"/>
+</media>
+<para id="fs-idm233277520">Cash increases (debit) as does Short-Term Notes Payable (credit) for the principal amount of the loan, which is $150,000. When Sierra pays in full on December 31, the following entry occurs.</para>
+<media id="fs-idm236520704" alt="A journal entry is made on December 31 and shows a Debit to Short-Term Notes payable for $150,000, a debit to Interest expense for $4,500, and a credit to Cash for $154,500, with the note “To record short-term loan, 12 percent interest, payable in three months.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F12_04_STNP03_img.jpg"/>
+</media>
+<para id="fs-idm249420752">Short-Term Notes Payable decreases (a debit) for the principal amount of the loan ($150,000). Interest Expense increases (a debit) for $4,500 (calculated as $150,000 principal × 12% annual interest rate × [3/12 months]). Cash decreases (a credit) for the principal amount plus interest due.</para>
+<note id="fs-idm533312336" class="link-to-learning">
+<para id="fs-idm235372432">Loan calculators can help businesses determine the amount they are able to borrow from a lender given certain factors, such as loan amount, terms, interest rate, and payback categorization (payback periodically or at the end of the loan, for example). A group of information technology professionals provides one such <link url="https://openstax.org/l/50LoanCalc">loan calculator with definitions and additional information and tools</link> to provide more information.</para>
+</note>
+</section>
+<section id="fs-idm261184976" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm250041168" list-type="bulleted" bullet-style="bullet">
+<item>Short-term notes payable is a debt created and due within a company’s operating period (less than a year). This debt includes a written promise to pay principal and interest.</item>
+<item>If a company does not pay for its purchases within a specified time frame, a supplier will convert the accounts payable into a short-term note payable with interest. When the company pays the amount owed, short-term notes payable and Cash will decrease, while interest expense increases.</item>
+<item>A company may borrow from a bank because it does not have enough cash on hand to pay for a capital expenditure or cover temporary expenses. The loan will consist of short-term repayment with interest, affecting short-term notes payable, cash, and interest expense.</item>
+</list>
+</section>
+<section id="fs-idm256453632" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm255462976">
+<problem id="fs-idm234383968">
+<para id="fs-idm264801888"><link class="lo-reference" document="m67906"/>Which of the following accounts are used when a short-term note payable with 5% interest is honored (paid)?</para>
+<list id="fs-idm261119248" list-type="enumerated" number-style="upper-alpha">
+<item>short-term notes payable, cash</item>
+<item>short-term notes payable, cash, interest expense</item>
+<item>interest expense, cash</item>
+<item>short-term notes payable, interest expense, interest payable</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm254941952">
+<problem id="fs-idm266922624">
+<para id="fs-idm249714544"><link class="lo-reference" document="m67906"/>Which of the following is not a characteristic of a short-term note payable?</para>
+<list id="fs-idm250037104" list-type="enumerated" number-style="upper-alpha">
+<item>Payment is due in less than a year.</item>
+<item>It bears interest.</item>
+<item>It can result from an accounts payable conversion.</item>
+<item>It is reported on the balance sheet under noncurrent liabilities.</item>
+</list>
+</problem>
+<solution id="fs-idm268066480">
+<para id="fs-idm250912624">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm269604288">
+<problem id="fs-idm261903696">
+<para id="fs-idm259327440"><link class="lo-reference" document="m67906"/>Sunlight Growers borrows $250,000 from a bank at a 4% annual interest rate. The loan is due in three months. At the end of the three months, the company pays the amount due in full. How much did the company remit to the bank?</para>
+<list id="fs-idm266819040" list-type="enumerated" number-style="upper-alpha">
+<item>$250,000</item>
+<item>$10,000</item>
+<item>$252,500</item>
+<item>$2,500</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm260110432">
+<problem id="fs-idm266053216">
+<para id="fs-idm252649568"><link class="lo-reference" document="m67906"/>Marathon Peanuts converts a $130,000 account payable into a short-term note payable, with an annual interest rate of 6%, and payable in four months. How much interest will Marathon Peanuts owe at the end of four months?</para>
+<list id="fs-idm249825008" list-type="enumerated" number-style="upper-alpha">
+<item>$2,600</item>
+<item>$7,800</item>
+<item>$137,800</item>
+<item>$132,600</item>
+</list>
+</problem>
+<solution id="fs-idm239247680">
+<para id="fs-idm234233984">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm252402400" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm247284576">
+<problem id="fs-idm253739968">
+<para id="fs-idm253261728"><link class="lo-reference" document="m67906"/>What is a key difference between a short-term note payable and a current portion of a noncurrent note payable?</para>
+</problem>
+<solution id="fs-idm238477216">
+<para id="fs-idm266379216">A short-term notes payable does not have any long-term characteristics and is meant to be paid in full within the company’s operating period (less than a year). The current portion of a noncurrent note payable is based off of a long-term debt but is only recognized as a current liability when a portion of the long-term note payable is due. The remainder stays a long-term liability.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm258945664">
+<problem id="fs-idm252612224">
+<para id="fs-idm251882704"><link class="lo-reference" document="m67906"/>What business circumstance could bring about a short-term note payable created from a purchase?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm246586832">
+<problem id="fs-idm234779840">
+<para id="fs-idm236841664"><link class="lo-reference" document="m67906"/>What business circumstance could produce a short-term notes payable created from a loan?</para>
+</problem>
+<solution id="fs-idm266506784">
+<para id="fs-idm249832832">A business borrows money from a bank, and the bank makes the note payable within a year, with interest. For example, this could come from a capital expenditure need or when expenses exceed revenues.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm209089520">
+<problem id="fs-idm248297968">
+<para id="fs-idm250760880"><link class="lo-reference" document="m67906"/>Jain Enterprises honors a short-term note payable. Principal on the note is $425,000, with an annual interest rate of 3.5%, due in 6 months. What journal entry is created when Jain honors the note?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm265084704" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm259191456">
+<problem id="fs-idm236799168">
+<para id="fs-idm251040176"><link class="lo-reference" document="m67906"/>Barkers Baked Goods purchases dog treats from a supplier on February 2 at a quantity of 6,000 treats at $1 per treat. Terms of the purchase are 2/10, n/30. Barkers pays half the amount due in cash on February 28 but cannot pay the remaining balance due in four days. The supplier renegotiates the terms on March 4 and allows Barkers to convert its purchase payment into a short-term note, with an annual interest rate of 6%, payable in 9 months.</para>
+<para id="fs-idm533380016">Show the entries for the initial purchase, the partial payment, and the conversion.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm255430752">
+<problem id="fs-idm240825088">
+<para id="fs-idm248092384"><link class="lo-reference" document="m67906"/>Use information from <link target-id="fs-idm259191456"/>. Compute the interest expense due when Barkers honors the note. Show the journal entry to recognize payment of the short-term note on December 4.</para></problem>
+</exercise>
+<exercise id="fs-idm268056800">
+<problem id="fs-idm250886784">
+<para id="fs-idm252943488"><link class="lo-reference" document="m67906"/>Scrimiger Paints wants to upgrade its machinery and on September 20 takes out a loan from the bank in the amount of $500,000. The terms of the loan are 2.9% annual interest rate and payable in 8 months. Interest is due in equal payments each month.</para>
+<para id="fs-idm213955584">Compute the interest expense due each month. Show the journal entry to recognize the interest payment on October 20, and the entry for payment of the short-term note and final interest payment on May 20. Round to the nearest cent if required.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm235341888" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm252615040">
+<problem id="fs-idm257447904">
+<para id="fs-idm267711408"><link class="lo-reference" document="m67906"/>Airplanes Unlimited purchases airplane parts from a supplier on March 19 at a quantity of 4,800 parts at $12.50 per part. Terms of the purchase are 3/10, n/30. Airplanes pays one-third of the amount due in cash on March 30 but cannot pay the remaining balance due. The supplier renegotiates the terms on April 18 and allows Airplanes to convert its purchase payment into a short-term note, with an annual interest rate of 9%, payable in six months.</para>
+<para id="fs-idm246624528">Show the entries for the initial purchase, the partial payment, and the conversion.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm247979184">
+<problem id="fs-idm259111232">
+<para id="fs-idm250258880"><link class="lo-reference" document="m67906"/>Use information from <link target-id="fs-idm252615040"/>. Compute the interest expense due when Airplanes Unlimited honors the note. Show the journal entry to recognize payment of the short-term note on October 18.</para></problem>
+</exercise>
+<exercise id="fs-idm209218112">
+<problem id="fs-idm248304496">
+<para id="fs-idm260498224"><link class="lo-reference" document="m67906"/>Whole Leaves wants to upgrade their equipment, and on January 24 the company takes out a loan from the bank in the amount of $310,000. The terms of the loan are 6.5% annual interest rate, payable in three months. Interest is due in equal payments each month.</para>
+<para id="fs-idm208562752">Compute the interest expense due each month. Show the journal entry to recognize the interest payment on February 24, and the entry for payment of the short-term note and final interest payment on April 24. Round to the nearest cent if required.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm203670336" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm264849152">
+<problem id="fs-idm248414512">
+<para id="fs-idm266280960"><link class="lo-reference" document="m67906"/>Serene Company purchases fountains for its inventory from Kirkland Inc. The following transactions take place during the current year.</para>
+<list id="fs-idm204350256" list-type="enumerated" number-style="upper-alpha">
+<item>On July 3, the company purchases thirty fountains for $1,200 per fountain, on credit. Terms of the purchase are 2/10, n/30, invoice dated July 3.</item>
+<item>On August 3, Serene does not pay the amount due and renegotiates with Kirkland. Kirkland agrees to convert the debt owed into a short-term note, with an 8% annual interest rate, payable in two months from August 3.</item>
+<item>On October 3, Serene Company pays its account in full.</item>
+</list>
+<para id="fs-idm235384208">Record the journal entries to recognize the initial purchase, the conversion, and the payment.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm263971824">
+<problem id="fs-idm262652912">
+<para id="fs-idm248398448"><link class="lo-reference" document="m67906"/>Mohammed LLC is a growing consulting firm. The following transactions take place during the current year.</para>
+<list id="fs-idm227615008" list-type="enumerated" number-style="upper-alpha">
+<item>On June 10, Mohammed borrows $270,000 from a bank to cover the initial cost of expansion. Terms of the loan are payment due in four months from June 10, and annual interest rate of 5%.</item>
+<item>On July 9, Mohammed borrows an additional $100,000 with payment due in four months from July 9, and an annual interest rate of 12%.</item>
+<item>Mohammed pays their accounts in full on October 10 for the June 10 loan, and on November 9 for the July 9 loan.</item>
+</list>
+<para id="fs-idm236647088">Record the journal entries to recognize the initial borrowings, and the two payments for Mohammed.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm260084208" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm263236080">
+<problem id="fs-idm266326352">
+<para id="fs-idm243820528"><link class="lo-reference" document="m67906"/>Air Compressors Inc. purchases compressor parts for its inventory from a supplier. The following transactions take place during the current year:</para>
+<list id="fs-idm267755904" list-type="enumerated" number-style="upper-alpha">
+<item>On April 5, the company purchases 400 parts for $8.30 per part, on credit. Terms of the purchase are 4/10, n/30, invoice dated April 5.</item>
+<item>On May 5, Air Compressors does not pay the amount due and renegotiates with the supplier. The supplier agrees to $400 cash immediately as partial payment on note payable due, converting the debt owed into a short-term note, with a 7% annual interest rate, payable in three months from May 5.</item>
+<item>On August 5, Air Compressors pays its account in full.</item>
+</list>
+<para id="fs-idm248623232">Record the journal entries to recognize the initial purchase, the conversion plus cash, and the payment.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm259171200">
+<problem id="fs-idm236319952">
+<para id="fs-idm215591856"><link class="lo-reference" document="m67906"/>Pickles R Us is a pickle farm located in the Northeast. The following transactions take place:</para>
+<list id="fs-idm236620784" list-type="enumerated" number-style="upper-alpha">
+<item>On November 6, Pickles borrows $820,000 from a bank to cover the initial cost of expansion. Terms of the loan are payment due in six months from November 6, and annual interest rate of 3%.</item>
+<item>On December 12, Pickles borrows an additional $200,000 with payment due in three months from December 12, and an annual interest rate of 10%.</item>
+<item>Pickles pays its accounts in full on March 12, for the December 12 loan, and on May 6 for the November 6 loan.</item>
+</list>
+<para id="fs-idm253826400">Record the journal entries to recognize the initial borrowings, and the two payments for Pickles.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm263928528" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm247136656">
+<problem id="fs-idm261990400">
+<para id="fs-idm259344624"><link class="lo-reference" document="m67906"/>You own a farm and grow seasonal products such as pumpkins, squash, and pine trees. Most of your business revenues are earned during the months of October to December. The rest of your year supports the growing process, where revenues are minimal and expenses are high. In order to cover the expenses from January to September, you consider borrowing a short-term note from a bank for $300,000.</para>
+<list id="fs-idm533360864" list-type="bulleted" bullet-style="bullet">
+<item>Research the lending practices of a local bank.</item>
+<item>Determine the interest rate charged for a $300,000 loan.</item>
+<item>What collateral does the bank require to secure the loan?</item>
+<item>Determine your overall payback amount if you were to repay the loan in less than one year. Choose either a payback with periodic payments or all at the end of the loan term, and compare the outcomes.</item>
+<item>After conducting your research, would you consider borrowing the money?</item>
+<item>What positive and negative outcomes accompany borrowing the money?</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm234966960">
+<term>short-term note payable</term>
+<meaning id="fs-idm255841712">debt created and due within a company’s operating period (less than a year)</meaning>
+</definition>
+</glossary>
+</document>

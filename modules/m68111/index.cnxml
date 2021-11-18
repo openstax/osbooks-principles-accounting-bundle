@@ -1,0 +1,544 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Estimate a Variable and Fixed Cost Equation and Predict Future Costs</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68111</md:content-id>
+  <md:title>Estimate a Variable and Fixed Cost Equation and Predict Future Costs</md:title>
+  <md:abstract/>
+  <md:uuid>c4501691-5216-4211-bd3f-24dcd02a9fa8</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm194354032">Sometimes, a business will need to use cost estimation techniques, particularly in the case of mixed costs, so that they can separate the fixed and variable components, since only the variable components change in the short run. Estimation is also useful for using current data to predict the effects of future changes in production on total costs. Three estimation techniques that can be used include the scatter graph, the high-low method, and regression analysis. Here we will demonstrate the scatter graph and the high-low methods (you will learn the regression analysis technique in advanced managerial accounting courses.</para>
+<section id="fs-idm211697536">
+<title>Functions of Cost Equations</title>
+<para id="fs-idm203283760">The <term class="no-emphasis">cost equation</term> is a linear equation that takes into consideration total fixed costs, the fixed component of mixed costs, and variable cost per unit. Cost equations can use past data to determine patterns of past costs that can then project future costs, or they can use estimated or expected future data to estimate future costs. Recall the mixed cost equation:</para>
+<media id="fs-idm195915216" class="scaled-down-30" alt="alt text">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_02_TotalCost_img.jpg"/>
+</media>
+<para id="fs-idm195265520">where <emphasis effect="italics">Y</emphasis> is the total mixed cost, <emphasis effect="italics">a</emphasis> is the fixed cost, <emphasis effect="italics">b</emphasis> is the variable cost per unit, and <emphasis effect="italics">x</emphasis> is the level of activity.</para>
+<para id="fs-idm202441680">Let’s take a more in-depth look at the cost equation by examining the costs incurred by Eagle Electronics in the manufacture of home security systems, as shown in <link target-id="fs-idm197093696"/>.</para>
+<table id="fs-idm197093696" class="top-titled" summary="Assessment information">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c3">Cost Information for Eagle Electronics</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Cost Incurred</entry>
+<entry valign="top" align="center">Fixed or Variable</entry>
+<entry valign="top" align="center">Cost</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Lease on manufacturing equipment</entry>
+<entry valign="top" align="left">Fixed</entry>
+<entry valign="top" align="left">$50,000 per year</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Supervisor salary</entry>
+<entry valign="top" align="left">Fixed</entry>
+<entry valign="top" align="left">$75,000 per year</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Direct materials</entry>
+<entry valign="top" align="left">Variable</entry>
+<entry valign="top" align="left">$50 per unit</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Direct labor</entry>
+<entry valign="top" align="left">Variable</entry>
+<entry valign="top" align="left">$20 per unit</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm221429408">By applying the cost equation, Eagle Electronics can predict its costs at any level of activity (<emphasis effect="italics">x</emphasis>) as follows:</para>
+<list id="fs-idm197629696" list-type="enumerated" number-style="arabic">
+<item>Determine total fixed costs: $50,000 + $75,000 = $125,000</item>
+<item>Determine variable costs per unit: $50 + $20 = $70</item>
+<item>Complete the cost equation: <emphasis effect="italics">Y</emphasis> = $125,000 + $70<emphasis effect="italics">x</emphasis></item>
+</list>
+<para id="fs-idm198523824">Using this equation, Eagle Electronics can now predict its total costs (<emphasis effect="italics">Y</emphasis>) for any given level of activity (<emphasis effect="italics">x</emphasis>), as in <link target-id="OSX_Acct_M02_03_EECost"/>:</para>
+<figure id="OSX_Acct_M02_03_EECost" class="scaled-down">
+<media id="fs-idm200372176" alt="Units Produced, Cost Equation, Total costs, respectively are: 5,000, Y=$125,000 + ($70 x 5,000), $475,000; 8,000, Y=$125,000 + ($70 x 8,000), $685,000; 12,000, Y=$125,000 + ($70 x 12,000), $965,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_EECost.jpg"/>
+</media>
+<caption>Total Cost Estimation for Various Production Levels. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm202263008">When using this approach, Eagle Electronics must be certain that it is only predicting costs for its relevant range. For example, if they must hire a second supervisor in order to produce 12,000 units, they must go back and adjust the total fixed costs used in the equation. Likewise, if variable costs per unit change, these must also be adjusted.</para>
+<para id="fs-idm182590800">This same approach can be used to predict costs for service and merchandising firms, as shown by examining the costs incurred by J&amp;L Accounting to prepare a corporate income tax return, shown in <link target-id="fs-idm203291200"/>.</para>
+<table id="fs-idm203291200" class="top-titled" summary="Assessment information">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c3">Cost Information for J&amp;L Accounting</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Cost Incurred</entry>
+<entry valign="top" align="center">Fixed or Variable</entry>
+<entry valign="top" align="center">Cost</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Building rent</entry>
+<entry valign="top" align="left">Fixed</entry>
+<entry valign="top" align="left">$1,000 per month</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Direct labor (for CPAs)</entry>
+<entry valign="top" align="left">Variable</entry>
+<entry valign="top" align="left">$250 per tax return</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Secretarial staff</entry>
+<entry valign="top" align="left">Fixed</entry>
+<entry valign="top" align="left">$2,000 per month</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Accounting clerks</entry>
+<entry valign="top" align="left">Variable</entry>
+<entry valign="top" align="left">$100 per return</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm215039888">J&amp;L wants to predict their total costs if they complete 25 corporate tax returns in the month of February.</para>
+<list id="fs-idm212329312" list-type="enumerated" number-style="arabic">
+<item>Determine total fixed costs: $1,000 + $2,000 = $3,000</item>
+<item>Determine variable costs per tax return: $250 + $100 = $350</item>
+<item>Complete the cost equation: <emphasis effect="italics">Y</emphasis> = $3,000 + $350<emphasis effect="italics">x</emphasis></item>
+</list>
+<para id="fs-idm204372016">Using this equation, J&amp;L can now predict its total costs (<emphasis effect="italics">Y</emphasis>) for the month of February when they anticipate preparing 25 corporate tax returns:</para>
+<equation id="fs-idm206222320" class="unnumbered"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mrow><m:mi>Y</m:mi><m:mo>=</m:mo><m:mtext>$</m:mtext><m:mn>3,000</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>$</m:mtext><m:mn>350</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>25</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mi>Y</m:mi><m:mo>=</m:mo><m:mtext>$</m:mtext><m:mn>3,000</m:mn><m:mo>+</m:mo><m:mtext>$</m:mtext><m:mn>8,750</m:mn></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mi>Y</m:mi><m:mo>=</m:mo><m:mtext>$</m:mtext><m:mn>11,750</m:mn></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
+<para id="fs-idm197786464">J&amp;L can now use this predicted total cost figure of $11,750 to make decisions regarding how much to charge clients or how much cash they need to cover expenses. Again, J&amp;L must be careful to try not to predict costs outside of the relevant range without adjusting the corresponding total cost components.</para>
+<para id="fs-idm194096256">J&amp;L can make predictions for their costs because they have the data they need, but what happens when a business wants to estimate total costs but has not collected data regarding per-unit costs? This is the case for the managers at the Beach Inn, a small hotel on the coast of South Carolina. They know what their costs were for June, but now they want to predict their costs for July. They have gathered the information in <link target-id="OSX_Acct_M02_03_BICost"/>.</para>
+<figure id="OSX_Acct_M02_03_BICost" class="scaled-down">
+<media id="fs-idm202560704" alt="Cost Incurred, Fixed or Variable, June Costs, respectively: Insurance, Fixed, $700; Loan payment, Fixed, 2,500; Front desk staff, Variable, 3,800; Cleaning staff, Variable, 2,500; Laundry service, Variable, 1,200.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_BICost.jpg"/>
+</media>
+<caption>Monthly Total Cost Detail for Beach Inn. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm202246288">In June, they had an occupancy of 75 nights. For the Beach Inn, occupancy (rooms rented) is the cost driver. Since they know what is driving their costs, they can determine their per-unit variable costs in order to forecast future costs:</para>
+<equation id="fs-idm222044672" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mfrac><m:mrow><m:mtext>Front Desk Staff</m:mtext></m:mrow><m:mrow><m:mtext>75 nights</m:mtext></m:mrow></m:mfrac></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mn>$3,800</m:mn></m:mrow><m:mrow><m:mn>75</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$50.67</m:mn><m:mspace width="0.2em"/><m:mtext>variable front desk staff costs per night</m:mtext></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd columnalign="right"><m:mfrac><m:mrow><m:mtext>Cleaning Staff</m:mtext></m:mrow><m:mrow><m:mtext>75 nights</m:mtext></m:mrow></m:mfrac></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mn>$2,500</m:mn></m:mrow><m:mrow><m:mn>75</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$33.33</m:mn><m:mspace width="0.2em"/><m:mtext>variable cleaning staff costs per night</m:mtext></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd columnalign="right"><m:mfrac><m:mrow><m:mtext>Laundry Service</m:mtext></m:mrow><m:mrow><m:mtext>75 nights</m:mtext></m:mrow></m:mfrac></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mn>$1,200</m:mn></m:mrow><m:mrow><m:mn>75</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$16.00</m:mn><m:mspace width="0.2em"/><m:mtext>variable laundry service costs per night</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm222399120">Now, the Beach Inn can apply the cost equation in order to forecast total costs for any number of nights, within the relevant range.</para>
+<list id="fs-idm195236896" list-type="enumerated" number-style="arabic">
+<item>Determine total fixed costs: $700 + $2,500 = $3,200</item>
+<item>Determine variable costs per night of occupancy: $50.67 + $33.33 + $16.00 = $100</item>
+<item>Complete the cost equation: <emphasis effect="italics">Y</emphasis> = $3,200 + $100<emphasis effect="italics">x</emphasis></item>
+</list>
+<para id="fs-idm217145904">Using this equation, the Beach Inn can now predict its total costs (<emphasis effect="italics">Y</emphasis>) for the month of July, when they anticipate an occupancy of 93 nights.</para>
+<equation id="fs-idm202721120" class="unnumbered"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mrow><m:mi>Y</m:mi><m:mo>=</m:mo><m:mtext>$</m:mtext><m:mn>3,200</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>$</m:mtext><m:mn>100</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>93</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mi>Y</m:mi><m:mo>=</m:mo><m:mtext>$</m:mtext><m:mn>3,200</m:mn><m:mo>+</m:mo><m:mtext>$</m:mtext><m:mn>9,300</m:mn></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mi>Y</m:mi><m:mo>=</m:mo><m:mtext>$</m:mtext><m:mn>12,500</m:mn></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
+<para id="fs-idm210620960">In all three examples, managers used cost data they have collected to forecast future costs at various activity levels.</para>
+<note id="fs-idm206282400" class="your-turn"><title>Waymaker Furniture</title><para id="fs-idm194037888">Waymaker Furniture has collected cost information from its production process and now wants to predict costs for various levels of activity. They plan to use the cost equation to formulate these predictions. Information gathered from March is presented in <link target-id="fs-idm218324112"/>.</para>
+<table id="fs-idm218324112" class="top-titled" summary="Assessment information">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c3">March Cost Information for Waymaker Furniture</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Cost Incurred</entry>
+<entry valign="top" align="center">Fixed or Variable</entry>
+<entry valign="top" align="center">March Cost</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Plant supervisor salary</entry>
+<entry valign="top" align="left">Fixed</entry>
+<entry valign="top" align="left">$12,000 per month</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Lumber (direct materials)</entry>
+<entry valign="top" align="left">Variable</entry>
+<entry valign="top" align="left">$75,000 total</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Production worker wages</entry>
+<entry valign="top" align="left">Variable</entry>
+<entry valign="top" align="left">$11.00 per hour</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Machine maintenance</entry>
+<entry valign="top" align="left">Variable</entry>
+<entry valign="top" align="left">$5.00 per unit produced</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Lease on factory</entry>
+<entry valign="top" align="left">Fixed</entry>
+<entry valign="top" align="left">$15,000 per month</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm213419744">In March, Waymaker produced 1,000 units and used 2,000 hours of production labor.</para>
+<para id="fs-idm194237120">Using this information and the cost equation, predict Waymaker’s total costs for the levels of production in <link target-id="fs-idm207221808"/>.</para>
+<table id="fs-idm207221808" class="top-titled" summary="Assessment information">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Waymaker’s Levels of Production</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Month</entry>
+<entry valign="top" align="center">Activity Level</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">April</entry>
+<entry valign="top" align="left">1,500 units</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">May</entry>
+<entry valign="top" align="left">2,000 units</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">June</entry>
+<entry valign="top" align="left">2,500 units</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm212793840"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm197985840">Total Fixed Cost = $12,000 + $15,000 = $27,000. Direct Materials per Unit = $75,000 / 1,000 Units = $75 per unit. Direct Labor per Hour = $11.00 x 2 hours per unit (2,000 hrs/1,000 units) = $22 per unit. Machine Maintenance = $5.00 per unit. Total Variable Cost per Unit = $75 + $22 + $5 = $102 per unit.</para>
+<media id="fs-idm210529696" alt="Month, Activity Level, VC per Unit, Total VC, Fixed Cost, Total Cost, respectively: April, 1,500 units, $102, $153,000, $27,000, $180,000; May, 2,000 units, $102, $204,000, $27,000, $231,000; April, 12,500 units, $102, $255,000, $27,000, $282,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_YTSn01_img.jpg"/>
+</media>
+</note></section>
+<section id="fs-idm195177568">
+<title>Demonstration of the Scatter Graph Method to Calculate Future Costs at Varying Activity Levels</title>
+<para id="fs-idm207335632">One of the assumptions that managers must make in order to use the cost equation is that the relationship between activity and costs is linear. In other words, costs rise in direct proportion to activity. A diagnostic tool that is used to verify this assumption is a scatter graph.</para>
+<para id="fs-idm194250416">A <term>scatter graph</term> shows plots of points that represent actual costs incurred for various levels of activity. Once the scatter graph is constructed, we draw a line (often referred to as a <emphasis effect="italics">trend line</emphasis>) that appears to best fit the pattern of dots. Because the trend line is somewhat subjective, the scatter graph is often used as a preliminary tool to explore the possibility that the relationship between cost and activity is generally a linear relationship. When interpreting a scatter graph, it is important to remember that different people would likely draw different lines, which would lead to different estimations of fixed and variable costs. No one person’s line and cost estimates would necessarily be right or wrong compared to another; they would just be different. After using a scatter graph to determine whether cost and activity have a linear relationship, managers often move on to more precise processes for cost estimation, such as the high-low method or least-squares regression analysis.</para>
+<para id="fs-idm197451824">To demonstrate how a company would use a scatter graph, let’s turn to the data for Regent Airlines, which operates a fleet of regional jets serving the northeast United States. The Federal Aviation Administration establishes guidelines for routine aircraft maintenance based upon the number of flight hours. As a result, Regent finds that its maintenance costs vary from month to month with the number of flight hours, as depicted in <link target-id="OSX_Acct_M02_03_RAir01"/>.</para>
+<figure id="OSX_Acct_M02_03_RAir01" class="scaled-down">
+<media id="fs-idm214565984" alt="Month, Activity Level: Flight Hours, Maintenance Costs, respectively: January, 21,000, $84,000; February 23,000, 90,000; March 14,000, 70,500; April 17,000, 75,000; May 10,000, 64,500; June 19,000, 78,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_RAir01.jpg"/>
+</media>
+<caption>Monthly Maintenance Cost and Activity Detail for Regent Airlines. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm201909216">When creating the scatter graph, each point will represent a pair of activity and cost values. Maintenance costs are plotted on the vertical axis (<emphasis effect="italics">Y</emphasis>), while flight hours are plotted on the horizontal axis (<emphasis effect="italics">X</emphasis>). For instance, one point will represent 21,000 hours and $84,000 in costs. The next point on the graph will represent 23,000 hours and $90,000 in costs, and so forth, until all of the pairs of data have been plotted. Finally, a trend line is added to the chart in order to assist managers in seeing if there is a positive, negative, or zero relationship between the activity level and cost. <link target-id="OSX_Acct_M02_03_RAir02"/> shows a scatter graph for Regent Airlines.</para>
+<figure id="OSX_Acct_M02_03_RAir02" class="scaled-down">
+<media id="fs-idm198875344" alt="A scatter graph showing Maintenance Costs on the y axis and Activity: Flight Hours on the x axis. Points graphed are 10,000 hours and $64,500 in costs, 14,000 hours and $70,500 in costs, 17,000 hours and $75,000 in costs, 19 hours and $78,000 in costs, 21,000 hours and $84,000 in costs, and 23,000 hours and $90,000 in costs. The line shows a definite relationship since it comes very close to all the points.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_RAir02.jpg"/>
+</media>
+<caption>Scatter Graph of Maintenance Costs for Regent Airline. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm196897408">In scatter graphs, cost is considered the dependent variable because cost <emphasis effect="italics">depends</emphasis> upon the level of activity. The activity is considered the independent variable since it is the cause of the variation in costs. Regent’s scatter graph shows a positive relationship between flight hours and maintenance costs because, as flight hours increase, maintenance costs also increase. This is referred to as a positive linear relationship or a linear cost behavior.</para>
+<para id="fs-idm203843728">Will all cost and activity relationships be linear? Only when there is a relationship between the activity and that particular cost. What if, instead, the cost of snow removal for the runways is plotted against flight hours? Suppose the snow removal costs are as listed in <link target-id="fs-idm194071536"/>.</para>
+<table id="fs-idm194071536" class="top-titled" summary="Assessment information">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c3">Snow Removal Costs</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Month</entry>
+<entry valign="top" align="center">Activity Level: Flight Hours</entry>
+<entry valign="top" align="center">Snow Removal Costs</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">January</entry>
+<entry valign="top" align="left">21,000</entry>
+<entry valign="top" align="left">$40,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">February</entry>
+<entry valign="top" align="left">23,000</entry>
+<entry valign="top" align="left">50,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">March</entry>
+<entry valign="top" align="left">14,000</entry>
+<entry valign="top" align="left">8,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">April</entry>
+<entry valign="top" align="left">17,000</entry>
+<entry valign="top" align="left">0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">May</entry>
+<entry valign="top" align="left">10,000</entry>
+<entry valign="top" align="left">0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">June</entry>
+<entry valign="top" align="left">19,000</entry>
+<entry valign="top" align="left">0</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<figure id="OSX_Acct_M02_03_RAir06">
+<media id="fs-idm206202976" alt="A scatter graph showing Snow Removal Costs on the y axis and Flight Hours by Month on the x axis. The points shown are 10,000 hours and $0 in costs, 14,000 hours and $8,000 in costs, 17,000 hours and $0 in costs, 19 hours and $0 in costs, 21,000 hours and $40,000 in costs, and 23,000 hours and $50,000 in costs.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_RAir06.jpg"/>
+</media>
+<caption>Scatter Graph of Snow Removal Costs for Regent Airlines. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm212737888">As you can see from the scatter graph, there is really not a linear relationship between how many flight hours are flown and the costs of snow removal. This makes sense as snow removal costs are linked to the amount of snow and the number of flights taking off and landing but not to how many hours the planes fly.</para>
+<para id="fs-idm197413856">Using a scatter graph to determine if this linear relationship exists is an essential first step in cost behavior analysis. If the scatter graph reveals a linear cost behavior, then managers can proceed with a more sophisticated analyses to separate mixed costs into their fixed and variable components. However, if this linear relationship is not present, then other methods of analysis are not appropriate. Let’s examine the cost data from Regent Airline using the high-low method.</para>
+</section>
+<section id="fs-idm198456640">
+<title>Demonstration of the High-Low Method to Calculate Future Costs at Varying Activity Levels</title>
+<para id="fs-idm202518880">As you’ve learned, the purpose of identifying costs is to control them, and managers regularly use past costs to predict future costs. Since we know that variable costs change with the level of activity, we can conclude that there is <emphasis effect="italics">usually</emphasis> a positive relationship between cost and activity: As one rises, so does the other. Ideally, this can be confirmed on a scatter graph. One of the simplest ways to analyze costs is to use the <term>high-low method</term>, a technique for separating the fixed and variable cost components of mixed costs. Using the highest and lowest levels of activity and their associated costs, we are able to estimate the variable cost components of mixed costs.</para>
+<para id="fs-idm195393600">Once we have established that there is linear cost behavior, we can equate variable costs with the slope of the line, expressed as the rise of the line over the run. The steeper the slope of the line, the faster costs rise in response to a change in activity. Recall from the scatter graph that costs are the dependent <emphasis effect="italics">Y</emphasis> variable and activity is the independent <emphasis effect="italics">X</emphasis> variable. By examining the change in <emphasis effect="italics">Y</emphasis> relative to the change in <emphasis effect="italics">X</emphasis>, we can predict cost:</para>
+<media id="fs-idm194257232" class="scaled-down" alt="Variable cost equals rise of the line divided by run of the line, equals Y subscript 2 minus Y subscript 1 divided by X subscript 2 minus X subscript 1.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_VarCost_img.jpg"/>
+</media>
+<para id="fs-idm204440928">where <emphasis effect="italics">Y</emphasis><sub>2</sub> is the total cost at the highest level of activity; <emphasis effect="italics">Y</emphasis><sub>1</sub> is the total cost at the lowest level of activity; <emphasis effect="italics">X</emphasis><sub>2</sub> is the number of units, labor hours, etc., at the highest level of activity; and <emphasis effect="italics">X</emphasis><sub>1</sub> is the number of units, labor hours, etc., at the lowest level of activity.</para>
+<para id="fs-idm199813776">Using the maintenance cost data from Regent Airlines shown in <link target-id="OSX_Acct_M02_03_RAir03"/>, we will examine how this method works in practice.</para>
+<figure id="OSX_Acct_M02_03_RAir03" class="scaled-down">
+<media id="fs-idm199884400" alt="Month, Activity Level: Flight Hours, Maintenance Costs, respectively: January, 21,000, $84,000; February 23,000, 90,000; March 14,000, 70,500; April 17,000, 75,000; May 10,000, 64,500; June 19,000, 78,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_RAir03.jpg"/>
+</media>
+<caption>Monthly Maintenance Cost and Activity Detail for Regent Airlines. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm200072880">The first step in analyzing mixed costs with the high-low method is to identify the periods with the highest and lowest levels of activity. In this case, it would be February and May, as shown in <link target-id="OSX_Acct_M02_03_RAir04"/>. We always choose the highest and lowest activity and the costs that correspond with those levels of activity, even if they are not the highest and lowest costs.</para>
+<figure id="OSX_Acct_M02_03_RAir04">
+<media id="fs-idm202515744" alt="Activity Level (Flight Hours), Cost (Maintenance Costs), respectively are: Highest level (February), 23,000, $90,000; Lowest level (May), 10,000, 64,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_RAir04.jpg"/>
+</media>
+<caption>High–Low Data Points for Regent Airlines Maintenance Costs. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm208137936">We are now able to estimate the variable costs by dividing the difference between the costs of the high and the low periods by the change in activity using this formula:</para>
+<media id="fs-idm201957920" alt="Variable cost equals change in cost divided by change in activity, equals cost at the high activity level minus cost at the low activity level divided by highest activity level minus lowest activity level.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_VarCost2_img.jpg"/>
+</media>
+<para id="fs-idm202830896">For Regent Airlines, this is:</para>
+<equation id="fs-idm199358784" class="unnumbered"><m:math><m:mrow><m:mtext>Variable Cost</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$90,000</m:mn><m:mo>–</m:mo><m:mn>$64,500</m:mn></m:mrow><m:mrow><m:mn>23,000</m:mn><m:mo>–</m:mo><m:mn>10,000</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$1.96</m:mn><m:mspace width="0.2em"/><m:mtext>per flight hour</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm199482000">Having determined that the variable cost per flight-hour is $1.96, we can now determine the amount of fixed costs. We can determine these fixed costs by taking the total costs at <emphasis effect="italics">either</emphasis> the high or the low level of activity and subtracting this variable component. You will recall that total cost = fixed costs + variable costs, so the fixed cost component for Regent Airlines can be isolated as shown:</para>
+<equation id="fs-idm212700256" class="unnumbered"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Fixed cost</m:mtext><m:mo>=</m:mo><m:mtext>total cost</m:mtext><m:mo>–</m:mo><m:mtext>variable cost</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Fixed cost</m:mtext><m:mo>=</m:mo><m:mn>$90,000</m:mn><m:mo>–</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>23,000</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>$1.96</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Fixed cost</m:mtext><m:mo>=</m:mo><m:mn>$44,920</m:mn></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
+<para id="fs-idm194227344">Notice that if we had chosen the other data point, the low cost and activity, we would still get the same fixed cost of $44,920 = [$64,500 – (10,000 × $1.96)].</para>
+<para id="fs-idm219793280">Now that we have isolated both the fixed and the variable components, we can express Regent Airlines’ cost of maintenance using the total cost equation:</para>
+<equation id="fs-idm216184768" class="unnumbered"><m:math><m:mrow><m:mi>Y</m:mi><m:mo>=</m:mo><m:mtext>$</m:mtext><m:mn>44,920</m:mn><m:mo>+</m:mo><m:mtext>$</m:mtext><m:mn>1.96</m:mn><m:mi>x</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm219426464">where <emphasis effect="italics">Y</emphasis> is total cost and <emphasis effect="italics">x</emphasis> is flight hours.</para>
+<para id="fs-idm209079904">Because we confirmed that the relationship between cost and activity at Regent exhibits linear cost behavior on the scatter graph, this equation allows managers at Regent Airlines to conclude that for every one unit increase in activity, there will be a corresponding rise in variable cost of $1.96. When put into practice, the managers at Regent Airlines can now predict their total costs at any level of activity, as shown in <link target-id="OSX_Acct_M02_03_RAir05"/>.</para>
+<figure id="OSX_Acct_M02_03_RAir05" class="scaled-down">
+<media id="fs-idm207197568" alt="Activity Level (Flight Hours), Fixed Costs, Variable Cost at $1.96 per hour, Total Costs, respectively: 10,000, $44,920, $19,600, $64,520; 20,000, $44,920, $39,200, $84,120; 30,000, $44,920, $58,800, $103,720; 40,000, $44,920, $78,400, $123,320.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_RAir05.jpg"/>
+</media>
+<caption>Predictions of Total Cost and Cost Components at Different Levels of Activity for Regent Airlines. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm222192256">Although managers frequently use this method, it is not the most accurate approach to predicting future costs because it is based on only two pieces of cost data: the highest and the lowest levels of activity. Actual costs can vary significantly from these estimates, especially when the high or low activity levels are not representative of the usual level of activity within the business. For a more accurate model, the least-squares regression method would be used to separate mixed costs into their fixed and variable components. The least-squares regression method is a statistical technique that may be used to estimate the total cost at the given level of activity based on past cost data. Least-squares regression minimizes the errors of trying to fit a line between the data points and thus fits the line more closely to all the data points.</para>
+<para id="fs-idm221139488">Understanding the various labels used for costs is the first step toward using costs to evaluate business decisions. You will learn more about these various labels and how they are applied in decision-making processes as you continue your study of managerial accounting in this course.</para>
+</section>
+<section id="fs-idm196356368" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm217132544" list-type="bulleted" bullet-style="bullet">
+<item>In order to make business decisions, managers can utilize past cost data to predict future costs employing three methods: scatter graphs, the high-low method, and least-squares regression analysis.</item>
+<item>Scatter graphs are used as a diagnostic tool to determine if the relationship between activity and cost is a linear relationship.</item>
+<item>Both the high-low method and the least-squares regression method separate mixed costs into their fixed and variable components to allow managers to predict future costs from historical costs.</item>
+</list>
+</section>
+<section id="fs-idm219861056" class="multiple-choice">
+<exercise id="fs-idm219733328">
+<problem id="fs-idm212848160">
+<para id="fs-idm219330176"><link class="lo-reference" document="m68111"/>The high-low method and least-squares regression are used by managers to ________.</para>
+<list id="fs-idm220805088" list-type="enumerated" number-style="upper-alpha">
+<item>decide whether to make or buy a component part</item>
+<item>minimize corporate tax liability</item>
+<item>maximize output</item>
+<item>estimate costs</item>
+</list>
+</problem>
+<solution id="fs-idm212338624">
+<para id="fs-idm202099840">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm209383360">
+<problem id="fs-idm221047056">
+<para id="fs-idm220381664"><link class="lo-reference" document="m68111"/>Which of the following methods of cost estimation relies on only two data points?</para>
+<list id="fs-idm222169504" list-type="enumerated" number-style="upper-alpha">
+<item>the high-low method</item>
+<item>account analysis</item>
+<item>least-squares regression</item>
+<item>SWOT analysis.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm213524336">
+<problem id="fs-idm194045072">
+<para id="fs-idm220355296"><link class="lo-reference" document="m68111"/>In the cost equation <emphasis effect="italics">Y</emphasis> = <emphasis effect="italics">a</emphasis> + <emphasis effect="italics">bx</emphasis>, <emphasis effect="italics">Y</emphasis> represents which of the following?</para>
+<list id="fs-idm202504832" list-type="enumerated" number-style="upper-alpha">
+<item>fixed costs</item>
+<item>variable costs</item>
+<item>total costs</item>
+<item>units of production</item>
+</list>
+</problem>
+<solution id="fs-idm202173168">
+<para id="fs-idm194084848">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm219708464">
+<problem id="fs-idm219706256">
+<para id="fs-idm216414000"><link class="lo-reference" document="m68111"/>A scatter graph is used to test the assumption that the relationship between cost and activity level is ________.</para>
+<list id="fs-idm219786080" list-type="enumerated" number-style="upper-alpha">
+<item>curvilinear</item>
+<item>cyclical</item>
+<item>unpredictable</item>
+<item>linear</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm220298528" class="questions">
+<exercise id="fs-idm220234016">
+<problem id="fs-idm219309168">
+<para id="fs-idm195169744"><link class="lo-reference" document="m68111"/>Explain how a scatter graph is used to identify and measure cost behavior.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm220331360">
+<problem id="fs-idm219712896">
+<para id="fs-idm220315200"><link class="lo-reference" document="m68111"/>Explain the components of the total cost equation and describe how each of the components can be used by management for decision-making.</para>
+</problem>
+<solution id="fs-idm220349824">
+<para id="fs-idm220344960">Answers will vary.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm203915680">
+<problem id="fs-idm219927888">
+<para id="fs-idm207358560"><link class="lo-reference" document="m68111"/>Explain how the high-low method is used for cost estimation. What, if any, are the limitations of this approach to cost estimation?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm219616896" class="exercise-set-a">
+<exercise id="fs-idm202133680">
+<problem id="fs-idm219299744">
+<para id="fs-idm219517840"><link class="lo-reference" document="m68111"/>The cost data for Evencoat Paint for the year 2019 is as follows:</para>
+<media id="fs-idm198602096" class="scaled-down" alt="Month, Gallons of Paint Produced, Equipment Maintenance Expenses, respectively: January, 110,000, $70,000; February, 68,000, 66,800; March, 71,000, 67,000; April, 77,000, 68,100; May, 95,000, 69,200; June, 101,000, 70,300; July, 125,000, 70,400; August, 95,000, 68,900; September, 95,000, 69,500; October, 89,000, 68,600; November, 128,000, 72,800; December, 122,000, 71,450.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_EA01_img.jpg"/>
+</media>
+<list id="fs-idm219596304" list-type="enumerated" number-style="upper-alpha">
+<item>Using the high-low method, express the company’s maintenance costs as an equation where <emphasis effect="italics">x</emphasis> represents the gallons of paint produced. Then estimate the fixed and variable costs.</item>
+<item>Predict the maintenance costs if 90,000 gallons of paint are produced.</item>
+<item>Predict the maintenance costs if 81,000 gallons of paint are produced.</item>
+<item>Using Excel, create a scatter graph of the cost data and explain the relationship between gallons of paint produced and equipment maintenance expenses.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm212825824">
+<problem id="fs-idm219395488">
+<para id="fs-idm219591600"><link class="lo-reference" document="m68111"/>This cost data from Hickory Furniture is for the year 2017.</para>
+<media id="fs-idm222150400" class="scaled-down" alt="Month, Number of Tables Produced, Factory Utility Expenses, respectively: January, 550, $2,063; February, 710, 2,663; March, 650, 2,438; April, 470, 1,823; May, 512, 1,920; June, 625, 2,344; July, 805, 3,019; August, 750, 2,813; September, 675, 2,531; October, 525, 1,969; November, 875, 3,281; December, 685, 2,569.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_EA02_img.jpg"/>
+</media>
+<list id="fs-idm207897344" list-type="enumerated" number-style="upper-alpha">
+<item>Using the high-low method, express the company’s utility costs as an equation where <emphasis effect="italics">X</emphasis> represents number of tables produced.</item>
+<item>Predict the utility costs if 800 tables are produced.</item>
+<item>Predict the utility costs if 600 tables are produced.</item>
+<item>Using Excel, create a scatter graph of the cost data and explain the relationship between number of tables produced and utility expenses.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm220313072">
+<problem id="fs-idm219579984">
+<para id="fs-idm219628256"><link class="lo-reference" document="m68111"/>Markson and Sons leases a copy machine with terms that include a fixed fee each month plus a charge for each copy made. Markson made 9,000 copies and paid a total of $480 in January. In April, they paid $320 for 5,000 copies. What is the variable cost per copy if Markson uses the high-low method to analyze costs?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm199260768">
+<problem id="fs-idm199260512">
+<para id="fs-idm219755872"><link class="lo-reference" document="m68111"/>Markson and Sons leases a copy machine with terms that include a fixed fee each month of $500 plus a charge for each copy made. The company uses the high-low method to analyze costs. If Markson paid $360 for 5,000 copies and $280 for 3,000 copies, how much would Markson pay if it made 7,500 copies?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm200648864" class="exercise-set-b">
+<exercise id="fs-idm219515216">
+<problem id="fs-idm219528336">
+<para id="fs-idm219530336"><link class="lo-reference" document="m68111"/>The cost data for BC Billing Solutions for the year 2020 is as follows:</para>
+<media id="fs-idm219542208" class="scaled-down" alt="Month, Invoices Processed, Overtime Wages, respectively: January, 10,000, $7,700; February, 8,000, 6,800; March, 1,000, 6,000; April, 7,000, 6,100; May, 5,000, 6,200; June, 10,000, 7,300; July, 12,000, 7,400; August, 9,000, 6,900; September, 5,000, 6,500; October, 9,000, 6,600; November, 8,000, 6,800; December, 12,000, 7,450.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_EB01_img.jpg"/>
+</media>
+<list id="fs-idm220183280" list-type="enumerated" number-style="upper-alpha">
+<item>Using the high-low method, express the company’s overtime wages as an equation where <emphasis effect="italics">x</emphasis> represents number of invoices processed. Assume BC has monthly fixed costs of $3,800.</item>
+<item>Predict the overtime wages if 9,000 invoices are processed.</item>
+<item>Predict the overtime wages if 6,500 invoices are processed.</item>
+<item>Using Excel, create a scatter graph of the cost data and explain the relationship between the number of invoices processed and overtime wage expense.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm220213536"><problem id="fs-idm219815024">
+<para id="fs-idm198074720"><link class="lo-reference" document="m68111"/>This cost data from Hickory Furniture is for the year 2017.</para>
+<media id="fs-idm219304608" class="scaled-down" alt="Month, Number of Chairs Produced, Factory Utility Expenses, respectively: January, 425, $1,659; February, 510, 1,964; March, 625, 2,406; April, 725, 2,791; May, 685, 2,637; June, 575, 2,214; July, 510, 1,964; August, 810, 3,119; September, 700, 2,695; October, 650, 2,503; November, 875, 3,369; December, 680, 2,618.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_EB02_img.jpg"/>
+</media>
+<list id="fs-idm196278336" list-type="enumerated" number-style="upper-alpha">
+<item>Using the high-low method, express the factory utility expenses as an equation where <emphasis effect="italics">x</emphasis> represents number of chairs produced.</item>
+<item>Predict the utility costs if 900 chairs are produced.</item>
+<item>Predict the utility costs if 750 chairs are produced.</item>
+<item>Using Excel, create a scatter graph of the cost data and explain the relationship between number of chairs processed and utility expenses.</item>
+</list>
+</problem>
+</exercise><exercise id="fs-idm219391072">
+<problem id="fs-idm220282432">
+<para id="fs-idm212279952"><link class="lo-reference" document="m68111"/>Able Transport operates a tour bus that they lease with terms that involve a fixed fee each month plus a charge for each mile driven. Able Transport drove the tour bus 4,000 miles and paid a total of $1,250 in March. In April, they paid $970 for 3,000 miles. What is the variable cost per mile if Able Transport uses the high-low method to analyze costs?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm202666512">
+<problem id="fs-idm202666256">
+<para id="fs-idm219465712"><link class="lo-reference" document="m68111"/>Able Transport operates a tour bus that they lease with terms that involve a fixed fee each month plus a charge for each mile driven. Able Transport drove the bus 7,000 miles and paid a total of $1,360 in June. In October, Able Transport paid $1,280 for the 5,000 miles driven. If Able Transport uses the high-low method to analyze costs, how much would Able Transport pay in December, if they drove 6,000 miles?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm199541008" class="problem-set-a">
+<exercise id="fs-idm211696176"><problem id="fs-idm219360048">
+<para id="fs-idm182483360"><link class="lo-reference" document="m68111"/>Carolina Yachts builds custom yachts in its production factory in South Carolina. Once complete, these yachts must be shipped to the dealership. They have collected this shipping cost data:</para>
+<media id="fs-idm219362272" class="scaled-down" alt="Month, Yachts Shipped, Shipping Cost, respectively: January, 6, $11,650; February, 4, 9,100; March, 3, 7,825; April, 8, 14,200; May, 2, 6,550; June, 7, 12,925; July, 5, 10,375.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_PA01_img.jpg"/>
+</media>
+<list id="fs-idm219371200" list-type="enumerated" number-style="upper-alpha">
+<item>Prepare a scatter graph of the shipping data. Plot cost on the vertical axis and yachts shipped on the horizontal axis. Is the relationship between shipping costs and unit shipped approximately linear? Draw a straight line through the scatter graph.</item>
+<item>Using the high-low method, create the cost formula for Carolina Yachts’ shipping costs.</item>
+<item>The least-squares regression method was used and the analysis resulted in this cost equation: <emphasis effect="italics">Y</emphasis> = 4,000 + 1,275<emphasis effect="italics">x</emphasis>. Comment on the accuracy of your high-low method estimation.</item>
+<item>What would you estimate shipping costs to be if Carolina Yachts shipped 10 yachts in a single month? Use the cost formula you obtained in part B. Comment on how accurately this is reflected by the scatter graph you constructed.</item>
+<item>What factors other than number of yachts shipped do you think could affect Carolina Yachts’ shipping expense? Explain.</item>
+</list>
+</problem>
+</exercise></section>
+<section id="fs-idm182558960" class="problem-set-b">
+<exercise id="fs-idm198055744"><problem id="fs-idm199106432">
+<para id="fs-idm219468048"><link class="lo-reference" document="m68111"/>Gadell Farms produces venison sausage that is distributed to grocery stores throughout the Southeast. They have collected this shipping cost data:</para>
+<media id="fs-idm219302512" class="scaled-down" alt="Month, Tons Produced, Packaging Cost, respectively: January, 6, $1,700; February, 4, 2,000; March, 3, 2,100; April, 8, 2,700; May, 2, 1,602; June, 7, 1,900; July, 5, 2,300.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_PB01_img.jpg"/>
+</media>
+<list id="fs-idm197813856" list-type="enumerated" number-style="upper-alpha">
+<item>Prepare a scatter graph of the shipping data. Plot cost on the vertical axis and tons produced on the horizontal axis. Is the relationship between packaging costs and tons produced approximately linear? Draw a straight line through the scatter graph.</item>
+<item>Using the high-low method, estimate the cost formula for Gadell Farms’ packaging costs.</item>
+<item>The least-squares regression method was used and the analysis resulted in this cost equation: <emphasis effect="italics">Y</emphasis> = 1650 + 78.57<emphasis effect="italics">x</emphasis>. Comment on the accuracy of your high-low method estimation.</item>
+<item>What would you estimate packaging costs to be if Gadell Farms shipped 10 tons in a single month? Use the cost formula you obtained in part B. Comment on how accurately this is reflected by the scatter graph you constructed.</item>
+<item>What factors other than number of tons produced do you think could affect Gadell Farm’s packaging expense? Explain.</item>
+</list>
+</problem>
+</exercise></section>
+   </content>
+<glossary>
+<definition id="fs-idm220245824">
+<term>high-low method</term>
+<meaning id="fs-idm222284112">technique for separating the fixed and variable cost components of mixed costs</meaning>
+</definition>
+<definition id="fs-idm222140672">
+<term>scatter graph</term>
+<meaning id="fs-idm219379200">plot of pairs of numerical data that represents actual costs incurred for various levels of activity, with one variable on each axis, used to determine whether there is a relationship between them</meaning>
+</definition>
+</glossary>
+</document>

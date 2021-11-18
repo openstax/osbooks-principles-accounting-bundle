@@ -1,0 +1,328 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Calculate the Cost of Goods Sold and Ending Inventory Using the Periodic Method</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67890</md:content-id>
+  <md:title>Calculate the Cost of Goods Sold and Ending Inventory Using the Periodic Method</md:title>
+  <md:abstract/>
+  <md:uuid>ba9077e5-2c74-4229-8a9e-e6bdc0512462</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm338464752">As you’ve learned, the periodic inventory system is updated at the end of the period to adjust inventory numbers to match the physical count and provide accurate merchandise inventory values for the balance sheet. The adjustment ensures that only the inventory costs that remain on hand are recorded, and the remainder of the goods available for sale are expensed on the income statement as cost of goods sold. Here we will demonstrate the mechanics used to calculate the ending inventory values using the four cost allocation methods and the periodic inventory system.</para>
+<section id="fs-idm340392880">
+<title>Information Relating to All Cost Allocation Methods, but Specific to Periodic Inventory Updating</title>
+<para id="fs-idm356966224">Let’s return to the example of The Spy Who Loves You Corporation to demonstrate the four cost allocation methods, assuming inventory is updated at the end of the period using the periodic system.</para>
+<section id="fs-idm351006688">
+<title>Cost Data for Calculations</title>
+<para id="fs-idm350529488"><emphasis effect="bold">Company</emphasis>: Spy Who Loves You Corporation</para>
+<para id="fs-idm359630544"><emphasis effect="bold">Product</emphasis>: Global Positioning System (GPS) Tracking Device</para>
+<para id="fs-idm349363472"><emphasis effect="bold">Description</emphasis>: This product is an economical real-time GPS tracking device, designed for individuals who wish to monitor others’ whereabouts. It is being marketed to parents of middle school and high school students as a safety measure. Parents benefit by being apprised of the child’s location, and the student benefits by not having to constantly check in with parents. Demand for the product has spiked during the current fiscal period, while supply is limited, causing the selling price to escalate rapidly. Note: For simplicity of demonstration, beginning inventory cost is assumed to be $21 per unit for all cost assumption methods.</para>
+<media id="fs-idm362424288" class="scaled-down" alt="Chart showing July 1 beginning inventory of 150 units costing $21, July 5 sale of 120 units for $36, July 10 purchase of 225 units for $27, July 15 sale of 180 units for $39, July 25 purchase of 210 units for $33, with July 31 ending inventory of 285 units.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_GPS_img.jpg"/>
+</media>
+</section>
+</section>
+<section id="fs-idm332259136">
+<title>Specific Identification</title>
+<para id="fs-idm345669392">The specific units assumed to be sold in this period are designated as follows, with the specific inventory distinction being associated with the lot numbers:</para>
+<list id="fs-idm357293712" list-type="bulleted">
+<item>Sold 120 units, all from Lot 1 (beginning inventory), costing $21 per unit</item>
+<item>Sold 180 units, 20 from Lot 1 (beginning inventory), costing $21 per unit; 160 from the Lot 2 (July 10 purchase), costing $27 per unit</item>
+</list>
+<para id="fs-idm359463456">The <term class="no-emphasis">specific identification</term> method of cost allocation directly tracks each of the units purchased and costs them out as they are actually sold. In this demonstration, assume that some sales were made by specifically tracked goods that are part of a lot, as previously stated for this method. So for The Spy Who Loves You, considering the entire period together, note that</para>
+<list id="fs-idm348442192" list-type="bulleted">
+<item>140 of the 150 units that were purchased for $21 were sold, leaving 10 of $21 units remaining</item>
+<item>160 of the 225 units that were purchased for $27 were sold, leaving 65 of the $27 units remaining</item>
+<item>none of the 210 units that were purchased for $33 were sold, leaving all 210 of the $33 units remaining</item>
+</list>
+<para id="fs-idm338636128">Ending inventory was made up of 10 units at $21 each, 65 units at $27 each, and 210 units at $33 each, for a total specific identification ending inventory value of $8,895. Subtracting this ending inventory from the $16,155 total of goods available for sale leaves $7,260 in cost of goods sold this period.</para>
+<section id="fs-idm357735568">
+<title>Calculations of Costs of Goods Sold, Ending Inventory, and Gross Margin, Specific Identification</title>
+<para id="fs-idm328179040">The specific identification costing assumption tracks inventory items individually, so that when they are sold, the exact cost of the item is used to offset the revenue from the sale. The cost of goods sold, inventory, and gross margin shown in <link target-id="OSX_Acct_F10_02_COGSSIM"/> were determined from the previously-stated data, particular to specific identification costing.</para>
+<figure id="OSX_Acct_F10_02_COGSSIM">
+<media id="fs-idm355052544" alt="Chart showing Cost of Goods Sold: Beginning Inventory $3,150 plus Purchases of 13,005 equals Goods Available of 16,155; minus Ending Inventory of 8,895 equals COGS 7,260. Chart showing cost value: 10 units at $21 equals $210, 65 units at $27 equals 1,755, 210 units at $33 equals 6,930, totaling $8,895.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_COGSSIM.jpg"/>
+</media>
+<caption>Specific Identification Costing Assumption Cost of Goods Sold and Cost Value. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm333172112">The gross margin, resulting from the specific identification periodic cost allocations of $7,260, is shown in <link target-id="OSX_Acct_F10_02_GrossMar01"/>.</para>
+<figure id="OSX_Acct_F10_02_GrossMar01" class="scaled-down-30">
+<media id="fs-idm346395664" alt="Chart showing Gross Margin calculation: Sales of $11,340 minus Cost of Goods Sold 7,260 equals Gross Margin 4,080.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_GrossMar01.jpg"/>
+</media>
+<caption>Specific Identification Periodic Cost Allocations Gross Margin. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm358061360">
+<title>Calculation for the Ending Inventory Adjustment under Periodic/Specific Identification Methods</title>
+<para id="fs-idm359906320">Merchandise inventory, before adjustment, had a balance of $3,150, which was the beginning inventory. Journal entries are not shown, but the following calculations provide the information that would be used in recording the necessary journal entries. The inventory at the end of the period should be $8,895, requiring an entry to increase merchandise inventory by $5,745. Cost of goods sold was calculated to be $7,260, which should be recorded as an expense. The credit entry to balance the adjustment is $13,005, which is the total amount that was recorded as purchases for the period. This entry distributes the balance in the purchases account between the inventory that was sold (cost of goods sold) and the amount of inventory that remains at period end (merchandise inventory).</para>
+</section>
+</section>
+<section id="fs-idm319738976">
+<title>First-in, First-out (FIFO)</title>
+<para id="fs-idm329329584">The <term class="no-emphasis">first-in, first-out method (FIFO)</term> of cost allocation assumes that the earliest units purchased are also the first units sold. For The Spy Who Loves You, considering the entire period, 300 of the 585 units available for the period were sold, and if the earliest acquisitions are considered sold first, then the units that remain under FIFO are those that were purchased last. Following that logic, ending inventory included 210 units purchased at $33 and 75 units purchased at $27 each, for a total FIFO periodic ending inventory value of $8,955. Subtracting this ending inventory from the $16,155 total of goods available for sale leaves $7,200 in cost of goods sold this period.</para>
+<media id="fs-idm354960944" alt="Chart calculating FIFO Periodic Ending Inventory Value: Units Sold (180 plus 120) equals 300 units. 150 units times $21 equals 3,150 plus 150 units times 27 equals 4,050, Total Sold equals 300 units with a Cost of Goods Sold of $7,200. Ending Inventory would be 210 units times $33 equals 6,930 plus 75 units times 27 equals 2,025, equals Ending Inventory Value of $8,955.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_FIFOPer_img.jpg"/>
+</media>
+<section id="fs-idm343423648">
+<title>Calculations of Costs of Goods Sold, Ending Inventory, and Gross Margin, First-in, First-out (FIFO)</title>
+<para id="fs-idm361783952">The FIFO costing assumption tracks inventory items based on segments or lots of goods that are tracked, in the order that they were acquired, so that when they are sold, the earliest acquired items are used to offset the revenue from the sale. The cost of goods sold, inventory, and gross margin shown in <link target-id="OSX_Acct_F10_02_COGSFIFO"/> were determined from the previously-stated data, particular to FIFO costing.</para>
+<figure id="OSX_Acct_F10_02_COGSFIFO">
+<media id="fs-idm343395376" alt="Chart showing Cost of Goods Sold: Beginning Inventory $3,150 plus Purchases of 13,005 equals Goods Available of 16,155; minus Ending Inventory of 8,955 equals Cost of Goods Sold 7,200. Chart showing cost value: 75 units at $27 equals $2,025, 210 units at $33 equals 6,930, totaling $8,955.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_COGSFIFO.jpg"/>
+</media>
+<caption>FIFO Costing Assumption Cost of Goods Sold and Cost Value. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm346231152">The gross margin, resulting from the FIFO periodic cost allocations of $7,200, is shown in <link target-id="OSX_Acct_F10_02_GrossMar02"/>.</para>
+<figure id="OSX_Acct_F10_02_GrossMar02" class="scaled-down-30">
+<media id="fs-idm346426448" alt="Chart showing Gross Margin calculation: Sales of $11,340 minus COGS 7,200 equals Gross Margin 4,140.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_GrossMar02.jpg"/>
+</media>
+<caption>FIFO Periodic Cost Allocations Gross Margin. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm349159744">
+<title>Calculations for Inventory Adjustment, Periodic/First-in, First-out (FIFO)</title>
+<para id="fs-idm342975088">Beginning merchandise inventory had a balance of $3,150 before adjustment. The inventory at period end should be $8,955, requiring an entry to increase merchandise inventory by $5,895. Journal entries are not shown, but the following calculations provide the information that would be used in recording the necessary journal entries. Cost of goods sold was calculated to be $7,200, which should be recorded as an expense. The credit entry to balance the adjustment is for $13,005, which is the total amount that was recorded as purchases for the period. This entry distributes the balance in the purchases account between the inventory that was sold (cost of goods sold) and the amount of inventory that remains at period end (merchandise inventory).</para>
+</section>
+</section>
+<section id="fs-idm361745408">
+<title>Last-in, First-out (LIFO)</title>
+<para id="fs-idm351436512">The <term class="no-emphasis">last-in, first-out method (LIFO)</term> of cost allocation assumes that the last units purchased are the first units sold. For The Spy Who Loves You, considering the entire period together, 300 of the 585 units available for the period were sold, and if the latest acquisitions are considered sold first, then the units that remain under LIFO are those that were purchased first. Following that logic, ending inventory included 150 units purchased at $21 and 135 units purchased at $27 each, for a total LIFO periodic ending inventory value of $6,795. Subtracting this ending inventory from the $16,155 total of goods available for sale leaves $9,360 in cost of goods sold this period.</para>
+<media id="fs-idm343016496" class="scaled-down" alt="Chart calculating LIFO Periodic Ending Inventory Value: Units Sold (210 plus 90) equals 300 units. 210 units times $33 equals 6,930 plus 90 units times 27 equals 2,430, Total Sold equals 300 units with a Cost of Goods Sold of $9,360. Ending Inventory would be 150 units times $21 equals 3,150 plus 135 units times 27 equals 3,645, equals Ending Inventory Value of $6,795.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_LIFOPer_img.jpg"/>
+</media>
+<para id="fs-idm338307536">It is important to note that these answers can differ when calculated using the perpetual method. When perpetual methodology is utilized, the cost of goods sold and ending inventory are calculated at the time of each sale rather than at the end of the month. For example, in this case, when the first sale of 150 units is made, inventory will be removed and cost computed as of that date from the beginning inventory. The differences in timing as to when cost of goods sold is calculated can alter the order that costs are sequenced.</para>
+<section id="fs-idm355021952">
+<title>Calculations of Costs of Goods Sold, Ending Inventory, and Gross Margin, Last-in, First-out (LIFO)</title>
+<para id="fs-idm352339616">The LIFO costing assumption tracks inventory items based on lots of goods that are tracked, in the order that they were acquired, so that when they are sold, the latest acquired items are used to offset the revenue from the sale. The following cost of goods sold, inventory, and gross margin were determined from the previously-stated data, particular to LIFO costing.</para>
+<figure id="OSX_Acct_F10_02_COGSLIFO">
+<media id="fs-idm330583840" alt="Chart showing Cost of Goods Sold: Beginning Inventory $3,150 plus Purchases of 13,005 equals Goods Available of 16,155; minus Ending Inventory of 6,795 equals Cost of Goods Sold 9,360. Chart showing cost value: 150 units at $21 equals $3,150, 135 units at $27 equals 3,645, totaling $6,795.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_COGSLIFO.jpg"/>
+</media>
+<caption>LIFO Costing Assumption Cost of Goods Sold and Cost Value. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm358312640">The gross margin, resulting from the LIFO periodic cost allocations of $9,360, is shown in <link target-id="OSX_Acct_F10_02_GrossMar03"/>.</para>
+<figure id="OSX_Acct_F10_02_GrossMar03" class="scaled-down-30">
+<media id="fs-idm342621456" alt="Chart showing Gross Margin calculation: Sales of $11,340 minus Cost of Goods Sold 9,360 equals Gross Margin 1,980.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_GrossMar03.jpg"/>
+</media>
+<caption>LIFO Periodic Cost Allocations Gross Margin. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm308795952">
+<title>Calculations for Inventory Adjustment, Periodic/Last-in, First-out (LIFO)</title>
+<para id="fs-idm357314816">Beginning merchandise inventory had a balance before adjustment of $3,150. The inventory at period end should be $6,795, requiring an entry to increase merchandise inventory by $3,645. Journal entries are not shown, but the following calculations provide the information that would be used in recording the necessary journal entries. Cost of goods sold was calculated to be $9,360, which should be recorded as an expense. The credit entry to balance the adjustment is for $13,005, which is the total amount that was recorded as purchases for the period. This entry distributes the balance in the purchases account between the inventory that was sold (cost of goods sold) and the amount of inventory that remains at period end (merchandise inventory).</para>
+</section>
+</section>
+<section id="fs-idm346107792">
+<title>Weighted-Average Cost (AVG)</title>
+<para id="fs-idm357969680">Weighted-average cost allocation requires computation of the average cost of all units in goods available for sale at the time the sale is made. For The Spy Who Loves You, considering the entire period, the weighted-average cost is computed by dividing total cost of goods available for sale ($16,155) by the total number of available units (585) to get the average cost of $27.62. Note that 285 of the 585 units available for sale during the period remained in inventory at period end. Following that logic, ending inventory included 285 units at an average cost of $27.62 for a total AVG periodic ending inventory value of $7,872. Subtracting this ending inventory from the $16,155 total of goods available for sale leaves $8,283 in cost of goods sold this period. It is important to note that final numbers can often differ by one or two cents due to rounding of the calculations. In this case, the cost comes to $27.6154 but rounds up to the stated cost of $27.62.</para>
+<section id="fs-idm351225968">
+<title>Calculations of Costs of Goods Sold, Ending Inventory, and Gross Margin, Weighted Average (AVG)</title>
+<para id="fs-idm343342272">The AVG costing assumption tracks inventory items based on lots of goods that are tracked but averages the cost of all units on hand every time an addition is made to inventory so that, when they are sold, the most recently averaged cost items are used to offset the revenue from the sale. The cost of goods sold, inventory, and gross margin shown in <link target-id="OSX_Acct_F10_02_COGSWAG"/> were determined from the previously-stated data, particular to AVG costing.</para>
+<figure id="OSX_Acct_F10_02_COGSWAG">
+<media id="fs-idm357362688" alt="Chart showing Cost of Goods Sold: Beginning Inventory $3,150 plus Purchases of 13,005 equals Goods Available of 16,155; minus Ending Inventory of 7,872 equals Cost of Goods Sold 8,283. Chart showing cost value: 285 units at $27.62 equals $7,872.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_COGSWAG.jpg"/>
+</media>
+<caption>AVG Costing Assumption Cost of Goods Sold and Cost Value. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm346347424"><link target-id="OSX_Acct_F10_02_GrossMar04"/> shows the gross margin resulting from the weighted-average periodic cost allocations of $8283.</para>
+<figure id="OSX_Acct_F10_02_GrossMar04" class="scaled-down-30">
+<media id="fs-idm342303376" alt="Chart showing Gross Margin calculation: Sales of $11,340 minus Cost of Goods Sold 8,283 equals Gross Margin 3,057.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_GrossMar04.jpg"/>
+</media>
+<caption>Weighted AVG Periodic Cost Allocations Gross Margin. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm358540144">
+<title>Journal Entries for Inventory Adjustment, Periodic/Weighted Average</title>
+<para id="fs-idm345843264">Beginning merchandise inventory had a balance before adjustment of $3,150. The inventory at period end should be $7,872, requiring an entry to increase merchandise inventory by $4,722. Journal entries are not shown, but the following calculations provide the information that would be used in recording the necessary journal entries. Cost of goods sold was calculated to be $8,283, which should be recorded as an expense. The credit entry to balance the adjustment is for $13,005, which is the total amount that was recorded as purchases for the period. This entry distributes the balance in the purchases account between the inventory that was sold (cost of goods sold) and the amount of inventory that remains at period end (merchandise inventory).</para>
+</section>
+</section>
+<section id="fs-idm350533600" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm342753184" list-type="bulleted" bullet-style="bullet">
+<item>The periodic inventory system updates inventory at the end of a fixed accounting period. During the accounting period, inventory records are not changed, and at the end of the period, inventory records are adjusted for what was sold and added during the period.</item>
+<item>Companies using the periodic and perpetual method for inventory updating choose between the basic four cost flow assumption methods, which are first-in, first-out (FIFO); last-in, first-out (LIFO); specific identification (SI); and weighted average (AVG).</item>
+<item>Periodic inventory systems are still used in practice, but the prevalence of their use has greatly diminished, with advances in technology and as prices for inventory management software have significantly decreased.</item>
+</list>
+</section>
+<section id="fs-idm358501472" class="multiple-choice">
+<exercise id="fs-idm361492912">
+<problem id="fs-idm346667376">
+<para id="fs-idm362113712"><link class="lo-reference" document="m67890"/>Which of these statements is false?</para>
+<list id="fs-idm344332576" list-type="enumerated" number-style="upper-alpha">
+<item>If cost of goods sold is incorrect, ending inventory is usually incorrect too.</item>
+<item>beginning inventory + purchases = cost of goods sold</item>
+<item>ending inventory + cost of goods sold = goods available for sale</item>
+<item>goods available for sale – beginning inventory = purchases</item>
+</list>
+</problem>
+<solution id="fs-idm356532496">
+<para id="fs-idm353341952">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm342876032" class="exercise-set-a">
+<exercise id="fs-idm350760560">
+<problem id="fs-idm329156400">
+<para id="fs-idm351150752"><link class="lo-reference" document="m67890"/>Complete the missing piece of information involving the changes in inventory, and their relationship to goods available for sale, for the two years shown:</para>
+<media id="fs-idm354832496" class="scaled-down" alt="Chart showing calculation of Cost of Goods Sold for 2021 and 2022 respectively: Beginning Inventory, Purchases, Goods Available for Sale, Ending Inventory, Cost of Goods Sold; 2021: $10,000, 25,000, 35,000, 7,000, ?; 2022: $7,000, 3,000, ?, ?, 8,500">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_EA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm361542672">
+<problem id="fs-idm356157632">
+<para id="fs-idm343232080"><link class="lo-reference" document="m67890"/>Akira Company had the following transactions for the month.</para>
+<media id="fs-idm357035760" class="scaled-down" alt="Chart showing Beginning Inventory of 150 units at $10 per unit, Purchase of March 31 of 160 units at $12 each, Purchase of October 15 of 130 units at $15 each, and ending inventory of 50 units at a cost of ? each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_EA02_img.jpg"/>
+</media>
+<para id="fs-idm352201200">Calculate the ending inventory dollar value for the period for each of the following cost allocation methods, using periodic inventory updating. Provide your calculations.</para>
+<list id="fs-idm313337376" list-type="enumerated" number-style="upper-alpha">
+<item>first-in, first-out (FIFO)</item>
+<item>last-in, first-out (LIFO)</item>
+<item>weighted average (AVG)</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm346262608">
+<problem id="fs-idm351455744">
+<para id="fs-idm345672400"><link class="lo-reference" document="m67890"/>Akira Company had the following transactions for the month.</para>
+<media id="fs-idm340782288" class="scaled-down" alt="Chart showing Beginning Inventory of 150 units at $1,500 per unit, Purchase of March 31 of 160 units at $1,920 each, Purchase of October 15 of 130 units at $1,950 each, Total Goods Available for Sale 440 units at $5,370 each, and ending inventory of 50 units at a cost of ? each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_EA03_img.jpg"/>
+</media>
+<para id="fs-idm351069728">Calculate the gross margin for the period for each of the following cost allocation methods, using periodic inventory updating. Assume that all units were sold for $25 each. Provide your calculations.</para>
+<list id="fs-idm360526688" list-type="enumerated" number-style="upper-alpha">
+<item>first-in, first-out (FIFO)</item>
+<item>last-in, first-out (LIFO)</item>
+<item>weighted average (AVG)</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm359241392">
+<problem id="fs-idm360037488">
+<para id="fs-idm346048608"><link class="lo-reference" document="m67890"/>Prepare journal entries to record the following transactions, assuming periodic inventory updating and first-in, first-out (FIFO) cost allocation.</para>
+<media id="fs-idm346028432" alt="Chart showing January 2 purchase of 300 units at $21 each, January 12 purchase of 200 units at $24 each, and January 16 sale of 220 units for $40 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_EA04_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm356649248" class="exercise-set-b">
+<exercise id="fs-idm350867824">
+<problem id="fs-idm345031616">
+<para id="fs-idm340697936"><link class="lo-reference" document="m67890"/>Complete the missing piece of information involving the changes in inventory, and their relationship to goods available for sale, for the two years shown.</para>
+<media id="fs-idm358020480" class="scaled-down" alt="Chart showing calculation of Cost of Goods Sold for 2021 and 2022 respectively: Beginning Inventory, Purchases, Goods Available for Sale, Ending Inventory, Cost of Goods Sold; 2021 ? , 700,000, 875,000, ?, 675,000; 2022 $200,000, ?, 388,500, 75,000, 313,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_EB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm340975856">
+<problem id="fs-idm319524768">
+<para id="fs-idm347358000"><link class="lo-reference" document="m67890"/>Bleistine Company had the following transactions for the month.</para>
+<media id="fs-idm313965504" class="scaled-down" alt="Chart showing Beginning Inventory of 880 units at $35 per unit, Purchase of June 1 of 750 units at $40 each, Purchase of November 1 of 800 units at $43 each, and ending inventory of 110 units at a cost of ? each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_EB02_img.jpg"/>
+</media>
+<para id="fs-idm359715328">Calculate the ending inventory dollar value for each of the following cost allocation methods, using periodic inventory updating. Provide your calculations.</para>
+<list id="fs-idm349647216" list-type="enumerated" number-style="upper-alpha">
+<item>first-in, first-out (FIFO)</item>
+<item>last-in, first-out (LIFO)</item>
+<item>weighted average (AVG)</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm342070544">
+<problem id="fs-idm342726640">
+<para id="fs-idm356856592"><link class="lo-reference" document="m67890"/>Bleistine Company had the following transactions for the month.</para>
+<media id="fs-idm344193184" class="scaled-down" alt="Chart showing Beginning Inventory of 880 units at $30,800 per unit, Purchase of June 1 of 750 units at $30,000 each, Purchase of November 1 of 800 units at $34,400 each, Total Goods Available for Sale $95,200, 2,430 units, and ending inventory of 110 units at a cost of ? each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_EB03_img.jpg"/>
+</media>
+<para id="fs-idm359975904">Calculate the gross margin for the period for each of the following cost allocation methods, using periodic inventory updating. Assume that all units were sold for $50 each. Provide your calculations.</para>
+<list id="fs-idm344192688" list-type="enumerated" number-style="upper-alpha">
+<item>first-in, first-out (FIFO)</item>
+<item>last-in, first-out (LIFO)</item>
+<item>weighted average (AVG)</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm348246528">
+<problem id="fs-idm354845952">
+<para id="fs-idm358189680"><link class="lo-reference" document="m67890"/>Prepare journal entries to record the following transactions, assuming periodic inventory updating and first-in, first-out (FIFO) cost allocation.</para>
+<media id="fs-idm355721584" alt="Chart showing November 19 purchase of 1,200 units at $6 each, November 22 purchase of 980 units at $5 each, and November 30 sale of 850 units for $10 each.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_EB04_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm359853664" class="problem-set-a">
+<exercise id="fs-idm344896544">
+<problem id="fs-idm357023152">
+<para id="fs-idm351886576"><link class="lo-reference" document="m67890"/>Trini Company had the following transactions for the month.</para>
+<media id="fs-idm355287264" alt="Chart showing Beginning Inventory 1,050 units at $22 each for a total of 23,100, May 31 purchase of 1,020 units at 23 for a total of 23,460, July 15 purchase of 1,300 units at 26 for a total of 33,800, November 1 purchase of 1,200 units at 27 for a total of 32,400, with a Total (Goods Available) of 4,570 units for a total of $112,760. Ending Inventory is 900 units at a cost per unit of ?.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_PA01_img.jpg"/>
+</media>
+<para id="fs-idm347236448">Calculate the ending inventory dollar value for each of the following cost allocation methods, using periodic inventory updating. Provide your calculations.</para>
+<list id="fs-idm345951792" list-type="enumerated" number-style="upper-alpha">
+<item>first-in, first-out (FIFO)</item>
+<item>last-in, first-out (LIFO)</item>
+<item>weighted average (AVG)</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm346516976">
+<problem id="fs-idm342739728">
+<para id="fs-idm345921744"><link class="lo-reference" document="m67890"/>Trini Company had the following transactions for the month.</para>
+<media id="fs-idm361767648" alt="Chart showing Beginning Inventory 1,050 units at $22 each for a total of 23,100, May 31 purchase of 1,020 units at 23 for a total of 23,460, July 15 purchase of 1,300 units at 26 for a total of 33,800, November 1 purchase of 1,200 units at 27 for a total of 32,400, with a Total (Goods Available) of 4,570 units for a total of $112,760. Ending Inventory is 900 units at a cost per unit of ?.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_PA02_img.jpg"/>
+</media>
+<para id="fs-idm350687664">Calculate the cost of goods sold dollar value for the period for each of the following cost allocation methods, using periodic inventory updating. Provide your calculations.</para>
+<list id="fs-idm350948864" list-type="enumerated" number-style="upper-alpha">
+<item>first-in, first-out (FIFO)</item>
+<item>last-in, first-out (LIFO)</item>
+<item>weighted average (AVG)</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm356672400" class="problem-set-b">
+<exercise id="fs-idm350479744">
+<problem id="fs-idm347285024">
+<para id="fs-idm350748656"><link class="lo-reference" document="m67890"/>DeForest Company had the following transactions for the month.</para>
+<media id="fs-idm338810400" alt="Chart showing Beginning Inventory 500 units at $40 each for a total of 20,000, April 30 purchase of 600 units at 45 for a total of 27,000, August 15 purchase of 650 units at 40 for a total of 26,000, December 10 purchase of 700 units at 35 for a total of 24,500, with a Total (Goods Available) of 2,450 units for a total of $97,500. Ending Inventory is 550 units at a cost per unit of ?.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_PB01_img.jpg"/>
+</media>
+<para id="fs-idm338647424">Calculate the ending inventory dollar value for the period for each of the following cost allocation methods, using periodic inventory updating. Provide your calculations.</para>
+<list id="fs-idm350472688" list-type="enumerated" number-style="upper-alpha">
+<item>first-in, first-out (FIFO)</item>
+<item>last-in, first-out (LIFO)</item>
+<item>weighted average (AVG)</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm349577472">
+<problem id="fs-idm349790032">
+<para id="fs-idm340414128"><link class="lo-reference" document="m67890"/>DeForest Company had the following transactions for the month.</para>
+<media id="fs-idm361157136" alt="Chart showing Beginning Inventory 500 units at $40 each for a total of 20,000, April 30 purchase of 600 units at 45 for a total of 27,000, August 15 purchase of 650 units at 40 for a total of 26,000, December 10 purchase of 700 units at 35 for a total of 24,500, with a Total (Goods Available) of 2,450 units for a total of $97,500. Ending Inventory is 550 units at a cost per unit of ?.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F10_02_PB02_img.jpg"/>
+</media>
+<para id="fs-idm349734192">Calculate the ending inventory dollar value for the period for each of the following cost allocation methods, using periodic inventory updating. Provide your calculations.</para>
+<list id="fs-idm361020576" list-type="enumerated" number-style="upper-alpha">
+<item>first-in, first-out (FIFO)</item>
+<item>last-in, first-out (LIFO)</item>
+<item>weighted average (AVG)</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm350702704" class="thought-provokers">
+<exercise id="fs-idm362453472">
+<problem id="fs-idm359784208">
+<para id="fs-idm361848864"><link class="lo-reference" document="m67890"/>Assume your company uses the periodic inventory costing method, and the inventory count left out an entire warehouse of goods that were in stock at the end of the year, with a cost value of $222,000. How will this affect your net income in the current year? How will it affect next year’s net income?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+</document>

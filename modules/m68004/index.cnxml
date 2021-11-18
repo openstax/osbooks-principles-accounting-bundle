@@ -1,0 +1,250 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Compute a Predetermined Overhead Rate and Apply Overhead to Production</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68004</md:content-id>
+  <md:title>Compute a Predetermined Overhead Rate and Apply Overhead to Production</md:title>
+  <md:abstract/>
+  <md:uuid>5c6732ba-435b-40de-b97e-3a6e0691b917</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm219253936">Job order cost systems maintain the actual direct materials and direct labor for each individual job. Since production consists of overhead—indirect materials, indirect labor, and other overhead—we need a methodology for applying that overhead. Unfortunately, the nature of indirect material, indirect labor, and other overhead expenses makes it impossible to determine the exact amount of overhead for each specific job. For example, how do you know the cost of electricity and heat for manufacturing one job? And, if you did, is it fair to say products manufactured in January are more expensive than the same product manufactured in March because of heat expense?</para>
+<section id="fs-idm226888432">
+<title>Fundamental Characteristics of the Overhead Determination Environment</title>
+<para id="fs-idm237441664">Added to these issues is the nature of establishing an <term class="no-emphasis">overhead rate</term>, which is often completed months before being applied to specific jobs. Establishing the overhead allocation rate first requires management to identify which expenses they consider manufacturing overhead and then to estimate the manufacturing overhead for the next year. Manufacturing overhead costs include all manufacturing costs except for direct materials and direct labor. Therefore, in order to estimate manufacturing overhead, management must estimate the future purchase prices of dozens, or sometimes hundreds, of individual components, such as utilities, raw materials, contract labor, or diesel fuel. Estimating overhead costs is difficult because many costs fluctuate significantly from when the overhead allocation rate is established to when its actual application occurs during the production process. You can envision the potential problems in creating an overhead allocation rate within these circumstances.</para>
+<para id="fs-idm207140672">Before demonstrating the calculation of a <term class="no-emphasis">predetermined overhead allocation rate</term>, let’s review the basic principles of revenue recognition and expense. In accounting, there are three ways to recognize expenses:</para>
+<list id="fs-idm242871408" list-type="enumerated" number-style="arabic"><item>Direct relationship between the expense and the associated revenue. This method is used for many costs, and the expense is recognized when a direct relationship exists. For example, sales commission expenses can be directly traced to product sales, and a commission expense is recorded when a sale is made.<newline/></item>
+<item>Systematic and rational allocation of expenses. This approach is used when costs exist and there is an expected benefit, even though the costs cannot be directly traced to the benefit. The assigning of expenses to a product or time period must be done in an objective and consistent manner. Examples of such expenses would include equipment rental for a factory or property insurance for the factory.<newline/>
+Both of these expenses (direct relationship and systematic and rational) are also examples of the types of expenses that compose manufacturing overhead. An example of the current revenue recognition principle is a company paying $4,800 a year for property insurance. Since production rates can vary month to month, most producers would allocate $400 each month for property insurance, and this cost would be incorporated into the total overhead costs anticipated when estimating a manufacturing overhead allocation rate.<newline/>
+The direct benefit is that the product will be sold and the revenue recognized. The overhead is associated but cannot be directly traced to an individual product, so the overhead expenses need to be assigned in a systematic and rational manner.<newline/></item>
+<item>Immediate recognition. This method is used when expenses exist but there is no direct expected benefit. In this case, the expense is recognized immediately. For example, research and development costs are necessary expenses but cannot be traced to a specific product, so they are expensed as incurred.</item>
+</list><para id="fs-idm215448240">The allocation of overhead to the cost of the product is also recognized in a systematic and rational manner. The expected overhead is estimated, and an allocation system is determined. The actual costs are accumulated in a manufacturing overhead account. The overhead is then applied to the cost of the product from the manufacturing overhead account. The overhead used in the allocation is an estimate due to the timing considerations already discussed.</para>
+<para id="fs-idm217930672">The application rate that will be used in a coming period, such as the next year, is often estimated months before the actual overhead costs are experienced. Often, the actual overhead costs experienced in the coming period are higher or lower than those budgeted when the estimated overhead rate or rates were determined. At this point, do not be concerned about the accuracy of the future financial statements that will be created using these estimated overhead allocation rates. You will learn in <link document="m68006">Determine and Disposed of Underapplied or Overapplied Overhead</link> how to adjust for the difference between the allocated amount and the actual amount.</para>
+<para id="fs-idm230735904">Despite improvements in technology and information flow, using the actual overhead to calculate the application rate is usually not possible because the actual overhead information is available too late for management to make decisions. Also, as you will learn, the results of the actual overhead costs, if they were available, could be misleading. Therefore, most manufacturing companies use predetermined overhead rates for these reasons:</para>
+<list id="fs-idm232152992" list-type="bulleted">
+<item>Overhead costs are not uniform throughout the year. An example is electricity costs that vary by weather and time of day.</item>
+<item>Some overhead costs are fixed, and the cost per unit varies with production. For example, rent may be $1,000 per month. If 500 units were made during one month, and 2,000 units were made the next month, the cost per unit would vary from $2 per unit to $0.50 per unit.</item>
+<item>The total number of units produced varies and is often known sooner than the cost of overhead. For example, a company may know it will have a contract to produce 100 custom units long before it knows the utility costs for the next year.</item>
+</list>
+<para id="fs-idm214696816">As previously described, a predetermined overhead rate is established prior to the beginning of the fiscal year and typically is not changed during the year. The predetermined rate is calculated as shown and is used to apply overhead costs to work in process:</para>
+<media id="fs-idm218325136" alt="Formula: Estimated (budgeted) Overhead Cost divided by Expected (budgeted) Level of Activity equals Predetermined Overhead Rate.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_04_Calc01_img.jpg"/>
+</media>
+<note id="fs-idm217415696" class="concepts-practice">
+<title>Overhead in the Movie Industry</title>
+<para id="fs-idm216623056">The movie industry uses job order costing, and studios need to allocate overhead to each movie. Their amount of allocated overhead is not publicly known because while publications share how much money a movie has produced in ticket sales, it is rare that the actual expenses are released to the public.</para>
+<para id="fs-idm225307696">It has been speculated that <emphasis effect="italics">Star Wars: The Force Awakens</emphasis> cost $201,000,000, with $30,000,000 considered overhead. Studios have estimated that the higher the movie expenses, the more studio overhead is required, and it has also been estimated that 10% of the total cost is assigned to studio overhead.</para>
+</note>
+</section>
+<section id="fs-idm244568416">
+<title>Determining Estimated Overhead Cost</title>
+<para id="fs-idm209788976">The estimated or budgeted overhead is the amount of overhead determined during the budgeting process and consists of manufacturing costs but, as you have learned, excludes direct materials and direct labor. Examples of manufacturing overhead costs include indirect materials, indirect labor, manufacturing utilities, and manufacturing equipment depreciation. Another way to view it is overhead costs are those production costs that are not categorized as direct materials or direct labor.</para>
+<section id="fs-idm219443280">
+<title>Selecting an Estimated Activity Base</title>
+<para id="fs-idm237237472">As you have learned, the overhead needs to be allocated to the manufactured product in a systematic and rational manner. This allocation process depends on the use of a cost driver, which drives the production activity’s cost. Examples can include labor hours incurred, labor costs paid, amounts of materials used in production, units produced, or any other activity that has a cause-and-effect relationship with incurred costs.</para>
+<para id="fs-idm216430976">Direct labor hours, direct labor dollars, or machine hours are often chosen as the allocation base because those costs are associated with each product, and as the activity increases, so does the manufacturing overhead. In other words, the products that involve more direct labor hours, direct labor dollars, or machine hours also increase utility expenses, supervisor time (and thus indirect labor), equipment usage and the related depreciation expense, and so forth.</para>
+<para id="fs-idm205862160">Traditionally, direct labor hours were used as the activity base, but technology continually decreases the amount of direct labor used in production, and machine hours or units produced have become more common activity bases. Management analyzes the costs and selects the activity as the <term>estimated activity base</term> because it drives the overhead costs of the unit.</para>
+</section>
+<section id="fs-idm232914928">
+<title>Computing a Predetermined Overhead Rate</title>
+<para id="fs-idm225203616">Dinosaur Vinyl uses the expenses from the prior two years to estimate the overhead for the upcoming year to be $250,000, as shown in <link target-id="OSX_Acct_M04_04_DVOHEst"/>.</para>
+<figure id="OSX_Acct_M04_04_DVOHEst" class="scaled-down">
+<media id="fs-idm234610464" alt="A two column table calculating the estimated annual overhead for Dinosaur Vinyl. Annual Estimate for Indirect Labor is $5,000, Indirect materials is 20,000, Utilities is 75,000, Depreciation is 90,000, Insurance is 35,000, and Interest Expense is 25,000, totaling $250,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_04_DVOHEst.jpg"/>
+</media>
+<caption>Dinosaur Vinyl’s Estimated Overhead. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm209601872">Dinosaur Vinyl also used its payroll records to estimate that it will spend $100,000 on direct labor. Using the predetermined overhead rate calculation, the overhead rate is $2.50 per direct labor dollar:</para>
+<media id="fs-idm231202208" alt="Formula: Estimated (budgeted) Overhead Cost ($250,000) divided by Expected (budgeted) Level of Activity ($100,000) equals $2.50 per Direct Labor Dollar.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_04_Calc02_img.jpg"/>
+</media>
+<para id="fs-idm222003376">Over the fiscal year, the actual costs are recorded as debits into the account called manufacturing overhead. When the overhead is applied to the jobs, the amount is first calculated using the application rate. If the total labor paid for the job is $66, the overhead applied to the job is $2.50 times that amount, or $165. The entry to record the overhead for Job MAC001 is:</para>
+<media id="fs-idm205963216" alt="A journal entry lists Work in Process Inventory with a debit of 165, Manufacturing Overhead with a credit of 165, and the note “To apply overhead to Job MAC001”.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_04_Journal01_img.jpg"/>
+</media>
+<para id="fs-idm226885376">That amount is added to the cost of the job, and the amount in the manufacturing overhead account is reduced by the same amount. At the end of the year, the amount of overhead estimated and applied should be close, although it is rare for the applied amount to exactly equal the actual overhead. For example, <link target-id="OSX_Acct_M04_04_DVEstActOH"/> shows the monthly costs, the annual actual cost, and the estimated overhead for Dinosaur Vinyl for the year. While the total amounts are close to each other, they are not exact.</para>
+<figure id="OSX_Acct_M04_04_DVEstActOH">
+<media id="fs-idm250750528" alt="A three column chart showing the Monthly Actual, the Annual Amount, and the Annual Estimate of the overhead. The rows are: Indirect labor 375, 4,500, and 5,000; Indirect materials 1,500, 18,000, and 20,000; Utilities 7,000, 84,000, and 75,000; Depreciation 7,500, 90,000, and 90,000; Insurance 2,917, 35,000, and 35,000; Interest Expense 2,083, 25,000, and 25,000. The totals of the columns are $21,000, $256,500, and $250,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_04_DVEstActOH.jpg"/>
+</media>
+<caption>Dinosaur Vinyl’s Actual and Estimated Overhead. While the total amounts are close to each other, they are not an exact match. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm223480480">
+<title>Calculating Manufacturing Overhead Cost for an Individual Job</title>
+<para id="fs-idm225202080"><link target-id="OSX_Acct_M04_04_DVEstActOH"/> shows the monthly manufacturing actual overhead recorded by Dinosaur Vinyl. As explained previously, the overhead is allocated to the individual jobs at the predetermined overhead rate of $2.50 per direct labor dollar when the jobs are complete. When Job MAC001 is completed, overhead is $165, computed as $2.50 times the $66 of direct labor, with the total job cost of $931, which includes $700 for direct materials, $66 for direct labor, and $165 for manufacturing overhead.</para>
+<note id="fs-idm220847536" class="link-to-learning">
+<para id="fs-idm231913680">Companies need to make certain the sales price is higher than the prime costs and the overhead costs. This can be a difficult task in industries in which overhead costs change. In some industries, the company has no control over the costs it must pay, like tire disposal fees. To ensure that the company is profitable, an additional cost is added and the price is modified as necessary. In this example, the <link url="https://openstax.org/l/50tireguarantee">guarantee offered by <emphasis class="colored-text">Discount Tire</emphasis></link> does not include the disposal fee in overhead and increases that fee as necessary.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm219505072" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm219405920" list-type="bulleted" bullet-style="bullet">
+<item>Expenses are recognized when they have a direct relationship with the associated revenue, when there is a systematic and rational method to allocate them, or immediately when there is no expected benefit.</item>
+<item>The estimated activity base is typically direct labor dollars or direct labor hours, and is based on an allocation base that increases or decreases as overhead increases or decreases.</item>
+<item>The predetermined overhead rate is the estimated overhead divided by the activity base.</item>
+</list>
+</section>
+<section id="fs-idm216610416" class="multiple-choice">
+<exercise id="fs-idm223681184">
+<problem id="fs-idm219036720">
+<para id="fs-idm241053088"><link class="lo-reference" document="m68004"/>Assigning indirect costs to specific jobs is completed by which of the following?</para>
+<list id="fs-idm221132256" list-type="enumerated" number-style="upper-alpha">
+<item>applying the costs to manufacturing overhead</item>
+<item>using the predetermined overhead rate</item>
+<item>using the manufacturing costs incurred</item>
+<item>applying the indirect labor to the work in process inventory</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm238066736">
+<problem id="fs-idm244524896">
+<para id="fs-idm225200368"><link class="lo-reference" document="m68004"/>In a job order cost system, which account shows the overhead used by the company?</para>
+<list id="fs-idm232489088" list-type="enumerated" number-style="upper-alpha">
+<item>work in process inventory</item>
+<item>finished goods inventory</item>
+<item>cost of goods sold</item>
+<item>manufacturing overhead</item>
+</list>
+</problem>
+<solution id="fs-idm383263904">
+<para id="fs-idm381013328">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm247079600" class="questions">
+<exercise id="fs-idm217541920">
+<problem id="fs-idm225352592">
+<para id="fs-idm242743360"><link class="lo-reference" document="m68004"/>How is the predetermined overhead rate determined?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm216674528">
+<problem id="fs-idm234982224">
+<para id="fs-idm225244336"><link class="lo-reference" document="m68004"/>How is the predetermined overhead rate applied?</para>
+</problem>
+<solution id="fs-idm382505312">
+<para id="fs-idm365675120">Management uses the activity considered to be the cost driver and multiplies that rate by the activity for each specific job. The result is the amount of overhead applied to that specific job.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm234609680" class="exercise-set-a">
+<exercise id="fs-idm228358912">
+<problem id="fs-idm245382000">
+<para id="fs-idm237999296"><link class="lo-reference" document="m68004"/>A company estimates its manufacturing overhead will be $750,000 for the next year. What is the predetermined overhead rate given the following independent allocation bases?</para>
+<list id="fs-idm250142576" list-type="enumerated" number-style="upper-alpha">
+<item>Budgeted direct labor hours: 60,000</item>
+<item>Budgeted direct labor expense: $1,500,000</item>
+<item>Estimated machine hours: 100,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm240280688">
+<problem id="fs-idm219274992">
+<para id="fs-idm233605936"><link class="lo-reference" document="m68004"/>Job order cost sheets show the following costs assigned to each job:</para>
+<media id="fs-idm250864528" class="scaled-down" alt="Chart showing the Direct Material and Direct Labor for Jobs 13, 14, and 15. Respectively, the dollar figures are: Job 13 7560 and 3760, Job 14 1525 and 3824, Job 15 3290 and 3796.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_04_EA02_img.jpg"/>
+</media>
+<para id="fs-idm227411808">The company assigns overhead at $1.25 for each direct labor dollar spent. What is the total cost for each of the jobs?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm223436496">
+<problem id="fs-idm223877680">
+<para id="fs-idm234587792"><link class="lo-reference" document="m68004"/>A new company started production. Job 10 was completed, and Job 20 remains in production. Here is the information from job cost sheets from their first and only jobs so far:</para>
+<media id="fs-idm227052592" alt="A chart for both Jobs 10 and 20 showing the production costs. Job 10’s costs are: Direct Materials $765, Direct Labor 75 hours for labor cost of 1574, Manufacturing Overhead 60, equaling a total cost of $2400. Job 20’s costs are: Direct Materials $145, Direct Labor 113 hours for labor cost of 2373, Manufacturing Overhead 90, equaling a total cost of $2608.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_04_EA03_img.jpg"/>
+</media>
+<para id="fs-idm237318928">Using the information provided,</para>
+<list id="fs-idm237254656" list-type="enumerated" number-style="upper-alpha">
+<item>What is the balance in work in process?</item>
+<item>What is the balance in the finished goods inventory?</item>
+<item>If manufacturing overhead is applied on the basis of direct labor hours, what is the predetermined overhead rate?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm242803760" class="exercise-set-b">
+<exercise id="fs-idm249439536">
+<problem id="fs-idm247808656">
+<para id="fs-idm240357168"><link class="lo-reference" document="m68004"/>A company estimates its manufacturing overhead will be $840,000 for the next year. What is the predetermined overhead rate given each of the following independent allocation bases?</para>
+<list id="fs-idm216561616" list-type="enumerated" number-style="upper-alpha">
+<item>Budgeted direct labor hours: 90,615</item>
+<item>Budgeted direct labor expense: $750,000</item>
+<item>Estimated machine hours: 150,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm215464192">
+<problem id="fs-idm245001936">
+<para id="fs-idm241235632"><link class="lo-reference" document="m68004"/>Job order cost sheets show the following costs assigned to each job:</para>
+<media id="fs-idm232949440" class="scaled-down" alt="Chart showing Direct Materials and Direct Labor for three jobs. Respectively, the dollar figures are: Job 131 3,485 and 2,353, Job 132 39,853 and 34,245, and Job 133 2,301 and 2,037. The total direct material is $45,639 and total direct labor is 38,635">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_04_EB02_img.jpg"/>
+</media>
+<para id="fs-idm246738352">The company assigns overhead at twice the direct labor cost. What is the total cost for each job?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm234512176">
+<problem id="fs-idm237324480">
+<para id="fs-idm229009536"><link class="lo-reference" document="m68004"/>A new company started production. Job 1 was completed, and Job 2 remains in production. Here is the information from the job cost sheets from their first and only jobs so far:</para>
+<media id="fs-idm220594944" alt="A chart for both Jobs 1 and 2 showing the production costs. Job 1’s costs are: Direct Materials $375, Direct Labor 231 hours for labor cost of 5,313, Manufacturing Overhead 4,620, equaling a total cost of $10,308. Job 2’s costs are: Direct Materials $405, Direct Labor 85 hours for labor cost of 1,955, Manufacturing Overhead 1,700, equaling a total cost of $4,060.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M04_04_EB03_img.jpg"/>
+</media>
+<para id="fs-idm231119440">Using the information provided,</para>
+<list id="fs-idm246834512" list-type="enumerated" number-style="upper-alpha">
+<item>What is the balance in work in process?</item>
+<item>What is the balance in finished goods inventory?</item>
+<item>If manufacturing overhead is applied on the basis of direct labor hours, what is the predetermined overhead rate?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm223419936" class="problem-set-a">
+<exercise id="fs-idm245460992">
+<problem id="fs-idm228839136">
+<para id="fs-idm247013664"><link class="lo-reference" document="m68004"/>York Company is a machine shop that estimated overhead will be $50,000, consisting of 5,000 hours of direct labor. The cost to make Job 0325 is $70 in aluminum and two hours of labor at $20 per hour. During the month, York incurs $50 in indirect material cost, $150 in administrative labor, $300 in utilities, and $250 in depreciation expense.</para>
+<list id="fs-idm237946768" list-type="enumerated" number-style="upper-alpha">
+<item>What is the predetermined overhead rate if direct labor hours are considered the cost driver?</item>
+<item>What is the cost of Job 0325?</item>
+<item>What is the overhead incurred during the month?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm232021264">
+<problem id="fs-idm244402896">
+<para id="fs-idm239392224"><link class="lo-reference" document="m68004"/>Pocono Cement Forms expects $900,000 in overhead during the next year. It does not know whether it should apply overhead on the basis of its anticipated direct labor hours of 60,000 or its expected machine hours of 30,000. Determine the product cost under each predetermined allocation rate if the last job incurred $1,550 in direct material cost, 90 direct labor hours, and 75 machine hours. Wages are paid at $16 per hour.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm237971152" class="problem-set-b">
+<exercise id="fs-idm240242160">
+<problem id="fs-idm225459712">
+<para id="fs-idm217156224"><link class="lo-reference" document="m68004"/>Rulers Company is a neon sign company that estimated overhead will be $60,000, consisting of 1,500 machine hours. The cost to make Job 416 is $95 in neon, 15 hours of labor at $13 per hour, and five machine hours. During the month, it incurs $95 in indirect material cost, $130 in administrative labor, $320 in utilities, and $350 in depreciation expense.</para>
+<list id="fs-idm209579568" list-type="enumerated" number-style="upper-alpha">
+<item>What is the predetermined overhead rate if machine hours are considered the cost driver?</item>
+<item>What is the cost of Job 416?</item>
+<item>What is the overhead incurred during the month?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm249738096">
+<problem id="fs-idm232970432">
+<para id="fs-idm243013360"><link class="lo-reference" document="m68004"/>Event Forms expects $120,000 in overhead during the next year. It doesn’t know whether it should apply overhead on the basis of its anticipated direct labor hours of 6,000 or its expected machine hours of 5,000. What would be the product cost under each predetermined allocation rate if the last job incurred $3,500 in direct material cost, 55 direct labor hours, and 55 machine hours? Wages are paid at $17 per hour.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm226003168" class="thought-provokers">
+<exercise id="fs-idm235429888">
+<problem id="fs-idm231192944">
+<para id="fs-idm227430496"><link class="lo-reference" document="m68004"/>If a job order cost system tracks the direct materials and direct labor, why doesn’t it track the actual overhead used for a specific job?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm223484576">
+<term>estimated activity base</term>
+<meaning id="fs-idm249674080">total amount of the activity for the year</meaning>
+</definition>
+</glossary>
+</document>

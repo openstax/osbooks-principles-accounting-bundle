@@ -1,0 +1,281 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Define the Purpose and Use of a Petty Cash Fund, and Prepare Petty Cash Journal Entries</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67877</md:content-id>
+  <md:title>Define the Purpose and Use of a Petty Cash Fund, and Prepare Petty Cash Journal Entries</md:title>
+  <md:abstract/>
+  <md:uuid>fc18d5b0-0dfd-44a4-92e6-f2c7ecd40f1b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm258448320">As we have discussed, one of the hardest assets to control within any organization is cash. One way to control cash is for an organization to require that all payments be made by check. However, there are situations in which it is not practical to use a check. For example, imagine that the Galaxy’s Best Yogurt runs out of milk one evening. It is not possible to operate without milk, and the normal shipment does not come from the supplier for another 48 hours. To maintain operations, it becomes necessary to go to the grocery store across the street and purchase three gallons of milk. It is not efficient for time and cost to write a check for this small purchase, so companies set up a <term>petty cash fund</term>, which is a predetermined amount of cash held on hand to be used to make payments for small day-to-day purchases. A petty cash fund is a type of <term>imprest account</term>, which means that it contains a fixed amount of cash that is replaced as it is spent in order to maintain a set balance.</para>
+<para id="fs-idm522492000">To maintain internal controls, managers can use a petty cash receipt (<link target-id="OSX_Acct_F08_04_PCVoucher"/>), which tracks the use of the cash and requires a signature from the manager.</para>
+<figure id="OSX_Acct_F08_04_PCVoucher">
+<media id="fs-idm490446128" alt="A blank petty cash receipt shows lines to fill in for Date; Approved by; Receipt number; and Received by at the top. Below is a table with blank rows that has columns for Description and Amount.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_04_PCVoucher.jpg"/>
+</media>
+<caption>Petty Cash Voucher. A petty cash voucher is an important internal control document to trace the use of cash within a petty cash fund. This voucher allows management to track the use of cash, the balance that should be within the account, and the person responsible for the approval of a payment from the account. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm271943456">As cash is spent from a petty cash fund, it is replaced with a receipt of the purchase. At all times, the balance in the petty cash box should be equal to the cash in the box plus the receipts showing purchases.</para>
+<para id="fs-idm257869456">For example, the Galaxy’s Best Yogurt maintains a petty cash box with a stated balance of $75 at all times. Upon review of the box, the balance is counted in the following way.</para>
+<media id="fs-idm225985200" class="scaled-down" alt="Cash in box $50; Receipt showing purchase of stamps from Postal Service 15; Receipt from Quick Market for the purchase of milk and bananas 10; Total balance in petty cash box 75.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_05_PCBox_img.jpg"/>
+</media>
+<para id="fs-idm951881472">Because there may not always be a manager with check signing privileges available to sign a check for unexpected expenses, a petty cash account allows employees to make small and necessary purchases to support the function of a business when it is not practical to go through the formal expense process. In all cases, the amount of the purchase using petty cash would be considered to not be material in nature. Recall that materiality means that the dollar amount in question would have a significant impact in financial results or influence investor decisions.</para>
+<section id="fs-idm522841808">
+<title>Demonstration of Typical Petty Cash Journal Entries</title>
+<para id="fs-idm518629072">Petty cash accounts are managed through a series of journal entries. Entries are needed to (1) establish the fund, (2) increase or decrease the balance of the fund (replenish the fund as cash is used), and (3) adjust for overages and shortages of cash. Consider the following example.</para>
+<para id="fs-idm517086896">The Galaxy’s Best Yogurt establishes a petty cash fund on July 1 by cashing a check for $75 from its checking account and placing cash in the petty cash box. At this point, the petty cash box has $75 to be used for small expenses with the authorization of the responsible manager. The journal entry to establish the petty cash fund would be as follows.</para>
+<media id="fs-idm518562272" alt="Journal entry dated July 1 debiting Petty Cash and Crediting Cash for 75 each. Explanation: “To record establishment of petty cash fund.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_05_Journal01_img.jpg"/>
+</media>
+<para id="fs-idm518782144">As this petty cash fund is established, the account titled “Petty Cash” is created; this is an asset on the balance sheet of many small businesses. In this case, the cash account, which includes checking accounts, is decreased, while the funds are moved to the petty cash account. One asset is increasing, while another asset is decreasing by the same account. Since the petty cash account is an imprest account, this balance will never change and will remain on the balance sheet at $75, unless management elects to change the petty cash balance.</para>
+<para id="fs-idm517504752">Throughout the month, several payments are made from the petty cash account of the Galaxy’s Best Yogurt. Assume the following activities.</para>
+<media id="fs-idm951267520" class="scaled-down" alt="Date, Transaction, Amount (respectively): July 10, Postage stamps are purchased, $30; July 15 Milk purchased, 10; July 25 Window cleaner purchased from Dollar Store, 5.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_05_PCAcct_img.jpg"/>
+</media>
+<para id="fs-idm277160976">At the end of July, in the petty cash box there should be a receipt for the postage stamp purchase, a receipt for the milk, a receipt for the window cleaner, and the remaining cash. The employee in charge of the petty cash box should sign each receipt when the purchase is made. The total amount of purchases from the receipts ($45), plus the remaining cash in the box should total $75. As the receipts are reviewed, the box must be replenished for what was spent during the month. The journal entry to replenish the petty cash account will be as follows.</para>
+<media id="fs-idm254847760" alt="Journal entry dated July 31 debiting Postage Expense for 30, Inventory for 10, and Miscellaneous Expense for 5, and crediting Cash for 45. Explanation: “To record replenishment of petty cash fund.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_05_Journal02_img.jpg"/>
+</media>
+<para id="fs-idm281882016">Typically, petty cash accounts are reimbursed at a fixed time period. Many small businesses will do this monthly, which ensures that the expenses are recognized within the proper accounting period. In the event that all of the cash in the account is used before the end of the established time period, it can be replenished in the same way at any time more cash is needed. If the petty cash account often needs to be replenished before the end of the accounting period, management may decide to increase the cash balance in the account. If, for example, management of the Galaxy’s Best Yogurt decides to increase the petty cash balance to $100 from the current balance of $75, the journal entry to do this on August 1 would be as follows.</para>
+<media id="fs-idm280812880" alt="Journal entry dated August 1 debiting Petty Cash and crediting Cash for 25 each. Explanation: “To increase balance of petty cash fund to $100.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_05_Journal03_img.jpg"/>
+</media>
+<para id="fs-idm277092784">If the management at a later date decides to decrease the balance in the petty cash account, the previous entry would be reversed, with cash being debited and petty cash being credited.</para>
+<para id="fs-idm227283504">Occasionally, errors may occur that affect the balance of the petty cash account. This may be the result of an employee not getting a receipt or getting back incorrect change from the store where the purchase was made. In this case, an expense is created that creates a <emphasis effect="italics">cash overage or shortage</emphasis>.</para>
+<para id="fs-idm278737424">Consider Galaxy’s expenses for July. During the month, $45 was spent on expenses. If the balance in the petty cash account is supposed to be $75, then the petty cash box should contain $45 in signed receipts and $30 in cash. Assume that when the box is counted, there are $45 in receipts and $25 in cash. In this case, the petty cash balance is $70, when it should be $75. This creates a $5 shortage that needs to be replaced from the checking account. The entry to record a cash shortage is as follows.</para>
+<media id="fs-idm270930016" alt="Journal entry dated July 30 debiting Cash Over and Short and crediting Cash for 5 each. Explanation: “To replenish petty cash balance for cash shortage during period.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_05_Journal04_img.jpg"/>
+</media>
+<para id="fs-idm267056448">When there is a shortage of cash, we record the shortage as a “debit” and this has the same effect as an expense. If we have an overage of cash, we record the overage as a credit, and this has the same impact as if we are recording revenue. If there were cash overage, the petty cash account would be debited and the cash over and short account would be credited. In this case, the expense balance decreases, and the year-end balance is the net balance from all overages and shortages during the year.</para>
+<para id="fs-idm226991024">If a petty cash account is consistently short, this may be a warning sign that there is not a proper control of the account, and management may want to consider additional controls to better monitor petty cash.</para>
+<note id="fs-idm268321520" class="think-through">
+<title>Cash versus Debit Card</title>
+<para id="fs-idm273478128">A petty cash system in some businesses may be replaced by use of a prepaid credit card (or debit card) on site. What would be the pros and cons of actually maintaining cash on premises for the petty cash system, versus a rechargeable debit card that employees may use for petty cash purposes? Which option would you select for your petty cash account if you were the owner of a small business?</para></note>
+<note id="fs-idm497786528" class="link-to-learning">
+<para id="fs-idm275550320">See this <link url="https://openstax.org/l/50IntConPetCash">article on tips for companies to establish and manage petty cash systems</link> to learn more.</para>
+</note>
+</section>
+<section id="fs-idm529181280" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm281923056" list-type="bulleted" bullet-style="bullet">
+<item>The purpose of a petty cash fund is to make payments for small amounts that are immaterial, such as postage, minor repairs, or day-to-day supplies.</item>
+<item>A petty cash account is an imprest account, so it is only debited when the fund is initially established or increased in amount. Transactions to replenish the account involve a debit to the expenses and a credit to the cash account (e.g., bank account).</item>
+</list>
+</section>
+<section id="fs-idm271633392" class="multiple-choice"><exercise id="fs-idm392990528">
+<problem id="fs-idm805712608">
+<para id="fs-idm374674736"><link class="lo-reference" document="m67877"/>What is the best way for owners of small businesses to maintain proper internal controls?</para>
+<list id="fs-idm669935056" list-type="enumerated" number-style="upper-alpha">
+<item>The owner must have enough knowledge of all aspects of the company and have controls in place to track all assets.</item>
+<item>Small businesses do not need to worry about internal controls.</item>
+<item>Small businesses should make one of their employees in charge of all aspects of the company, giving the owner the ability to run the company and generate sales.</item>
+<item>Only managers need to be concerned about internal controls.</item>
+</list>
+</problem>
+<solution id="fs-idm410073312">
+<para id="fs-idm394058208">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm684287760">
+<problem id="fs-idm393212192">
+<para id="fs-idm684259152"><link class="lo-reference" document="m67877"/>Which of the following is <emphasis effect="italics">not</emphasis> considered to be part of the internal control structure of a company?</para>
+<list id="fs-idm409290912" list-type="enumerated" number-style="upper-alpha">
+<item>Ensure that assets are kept secure.</item>
+<item>Monitor operations of the organization to ensure maximum efficiency.</item>
+<item>Publish accurate financial statements on a regular basis.</item>
+<item>Ensure assets are properly used.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm686164688">
+<problem id="fs-idm406373824">
+<para id="fs-idm805726528"><link class="lo-reference" document="m67877"/>There are several elements to internal controls. Which of the following would not address the issue of having cash transactions reported in the accounting records?</para>
+<list id="fs-idm397916656" list-type="enumerated" number-style="upper-alpha">
+<item>One employee would have access to the cash register.</item>
+<item>The cash drawer should be closed out, and cash and the sales register should be reconciled on a prenumbered form.</item>
+<item>Ask customers to report to a manager if they do not receive a sales receipt or invoice.</item>
+<item>The person behind the cash register should also be responsible for making price adjustments.</item>
+</list>
+</problem>
+<solution id="fs-idm418170800">
+<para id="fs-idm805891040">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm371406560">
+<problem id="fs-idm686010848">
+<para id="fs-idm417979952"><link class="lo-reference" document="m67877"/>A company is trying to set up proper internal controls for their accounts payable/inventory purchasing system. Currently the purchase order is generated by the same person who receives the inventory. Together the purchase order and the receiving ticket are sent to accounts payable for payment. What changes would you make to improve the internal control structure?</para>
+<list id="fs-idm393648432" list-type="enumerated" number-style="upper-alpha">
+<item>No changes would be made since the person paying the bills is different from the person ordering the inventory.</item>
+<item>The person in accounts payable should generate the purchase order.</item>
+<item>The person in accounts payable should generate the receiving ticket once the invoice from the supplier is received.</item>
+<item>The responsibilities of generating the purchase order and receiving the inventory should be separated among two different people.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm635347344">
+<problem id="fs-idm378434336">
+<para id="fs-idm644091824"><link class="lo-reference" document="m67877"/>There are three employees in the accounting department: payroll clerk, accounts payable clerk, and accounts receivable clerk. Which one of these employees should <emphasis effect="italics">not</emphasis> make the daily deposit?</para>
+<list id="fs-idm376002384" list-type="enumerated" number-style="upper-alpha">
+<item>payroll clerk</item>
+<item>account payable clerk</item>
+<item>accounts receivable clerk</item>
+<item>none of them</item>
+</list>
+</problem>
+<solution id="fs-idm685958752">
+<para id="fs-idm676347456">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm685975760">
+<problem id="fs-idm393322640">
+<para id="fs-idm809840000"><link class="lo-reference" document="m67877"/>Which one of the following documents is <emphasis effect="italics">not</emphasis> needed to process a payment to a vendor?</para>
+<list id="fs-idm351429824" list-type="enumerated" number-style="upper-alpha">
+<item>vendor invoice</item>
+<item>packing slip</item>
+<item>check request</item>
+<item>purchase order</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm372711712">
+<problem id="fs-idm674021264">
+<para id="fs-idm416876368"><link class="lo-reference" document="m67877"/>What is the advantage of using technology in the internal control system?</para>
+<list id="fs-idm391873360" list-type="enumerated" number-style="upper-alpha">
+<item>Passwords can be used to allow access by employees.</item>
+<item>Any cash received does not need to be reconciled because the computer tracks all transactions.</item>
+<item>Transactions are easily changed.</item>
+<item>Employees cannot steal because all cash transactions are recorded by the computer/cash register.</item>
+</list>
+</problem>
+<solution id="fs-idm410878432">
+<para id="fs-idm413042240">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm404730784">
+<problem id="fs-idm393633408">
+<para id="fs-idm406835088"><link class="lo-reference" document="m67877"/>Which of the following assets require the strongest of internal controls?</para>
+<list id="fs-idm366377056" list-type="enumerated" number-style="upper-alpha">
+<item>inventory</item>
+<item>credit cards</item>
+<item>computer equipment</item>
+<item>cash</item>
+</list>
+</problem>
+</exercise>
+
+
+
+
+</section><section id="fs-idm504174064" class="questions"><exercise id="fs-idm415860832">
+<problem id="fs-idm406780624">
+<para id="fs-idm402481024"><link class="lo-reference" document="m67877"/>Discuss the importance of a company having proper insurance and bonding its employees.</para>
+</problem>
+</exercise>
+
+
+
+
+</section><section id="fs-idm529433984" class="problem-set-b"><exercise id="fs-idm524825840">
+<problem id="fs-idm251591008">
+<para id="fs-idm519889728"><link class="lo-reference" document="m67877"/>On June 1 French company has decided to initiate a petty cash fund in the amount of $800. Prepare journal entries for the following transactions:</para>
+<list id="fs-idm277542480" list-type="enumerated" number-style="upper-alpha">
+<item>On June 5, the petty cash fund needed replenishment, and the following are the receipts: Auto Expense $37, Supplies $124, Postage Expense $270, Repairs and Maintenance Expense $168, Miscellaneous Expense $149. The cash on hand at this time was $48.</item>
+<item>On June 14, the petty cash fund needed replenishment, and the following are the receipts: Auto Expense $18, Supplies $175, Postage Expense $50, Repairs and Maintenance Expense $269, Miscellaneous Expense $59. The cash on hand at this time was $220.</item>
+<item>On June 23, the petty cash fund needed replenishment, and the following are the receipts: Auto Expense $251, Supplies $88, Postage Expense $63, Repairs and Maintenance Expense $182, Miscellaneous Expense $203. The cash on hand at this time was $20.</item>
+<item>On June 29, the company determined that the petty cash fund needed to be increased to $1,000.</item>
+<item>On June 30, the petty cash fund needed replenishment, as it was month end. The following are the receipts: Auto Expense $18, Supplies $175, Postage Expense $50, Repairs and Maintenance Expense $269, Miscellaneous Expense $59. The cash on hand at this time was $437.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm519001408">
+<problem id="fs-idm278318848">
+<para id="fs-idm262280624"><link class="lo-reference" document="m67877"/>On July 2 Kellie Company has decided to initiate a petty cash fund in the amount of $1,200. Prepare journal entries for the following transactions:</para>
+<list id="fs-idm242288224" list-type="enumerated" number-style="upper-alpha">
+<item>On July 5, the petty cash fund needed replenishment, and the following are the receipts: Auto Expense $125, Supplies $368, Postage Expense $325, Repairs and Maintenance Expense $99, Miscellaneous Expense $259. The cash on hand at this time was $38.</item>
+<item>On June 14, the petty cash fund needed replenishment, and the following are the receipts: Auto Expense $425, Supplies $95, Postage Expense $240, Repairs and Maintenance Expense $299, Miscellaneous Expense $77. The cash on hand at this time was $110.</item>
+<item>On June 23, the petty cash fund needed replenishment and the following are the receipts: Auto Expense $251, Supplies $188, Postage Expense $263, Repairs and Maintenance Expense $182, Miscellaneous Expense $203. The cash on hand at this time was $93.</item>
+<item>On June 29, the company determined that the petty cash fund needed to be decreased to $1,000.</item>
+<item>On June 30, the petty cash fund needed replenishment, as it was month end. The following are the receipts: Auto Expense $14, Supplies $75, Postage Expense $150, Repairs and Maintenance Expense $121, Miscellaneous Expense $39. The cash on hand at this time was $603.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm276954880">
+<problem id="fs-idm943186704">
+<para id="fs-idm282652112"><link class="lo-reference" document="m67877"/>Hajun Company started its business on May 1, 2019. The following transactions occurred during the month of May. Prepare the journal entries in the journal on Page 1.</para>
+<list id="fs-idm275398064" list-type="enumerated" number-style="upper-alpha">
+<item>The owners invested $5,000 from their personal account to the business account.</item>
+<item>Paid rent $400 with check #101.</item>
+<item>Initiated a petty cash fund $200 check #102.</item>
+<item>Received $400 cash for services rendered</item>
+<item>Purchased office supplies for $90 with check #103.</item>
+<item>Purchased computer equipment $1,000 , paid $350 with check #104 and will pay the remainder in 30 days.</item>
+<item>Received $500 cash for services rendered.</item>
+<item>Paid wages $250, check #105.</item>
+<item>Petty cash reimbursement office supplies $25, Maintenance Expense $125, Miscellaneous Expense $35. Cash on hand $18. Check #106.</item>
+<item>Increased Petty Cash by $50, check #107.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm272897520">
+<problem id="fs-idm268295648">
+<para id="fs-idm270519568"><link class="lo-reference" document="m67877"/>Prepare a trial balance using the journal entries in <link target-id="fs-idm276954880"/>.</para></problem>
+</exercise>
+<exercise id="fs-idm490491680">
+<problem id="fs-idm226950640">
+<para id="fs-idm270419344"><link class="lo-reference" document="m67877"/>Lavender Company started its business on April 1, 2019. The following are the transactions that happened during the month of April. Prepare the journal entries in the journal on Page 1.</para>
+<list id="fs-idm243166960" list-type="enumerated" number-style="upper-alpha">
+<item>The owners invested $7,500 from their personal account to the business account.</item>
+<item>Paid rent $600 with check #101.</item>
+<item>Initiated a petty cash fund $250 check #102.</item>
+<item>Received $350 cash for services rendered.</item>
+<item>Purchased office supplies for $125 with check #103.</item>
+<item>Purchased computer equipment $1,500, paid $500 with check #104, and will pay the remainder in 30 days.</item>
+<item>Received $750 cash for services rendered.</item>
+<item>Paid wages $375, check #105.</item>
+<item>Petty cash reimbursement Office Supplies $50, Maintenance Expense $80, Miscellaneous Expense $60. Cash on hand $8. Check #106.</item>
+<item>Increased Petty Cash by $70, check #107.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm275555696">
+<problem id="fs-idm511005040">
+<para id="fs-idm269199808"><link class="lo-reference" document="m67877"/>Prepare a trial balance for Lavender Company using the journal entries in <link target-id="fs-idm490491680"/>.</para></problem>
+</exercise>
+</section>
+<section id="fs-idm452529632" class="thought-provokers"><exercise id="fs-idm673658384">
+<problem id="fs-idm686075264">
+<para id="fs-idm395510976"><link class="lo-reference" document="m67875"/><link class="lo-reference" document="m67877"/>Visit a favorite eatery. Describe some of the internal controls that are implemented in the workplace. Discuss the good and effective internal controls and also discuss areas that need to be addressed where the eatery is vulnerable to losses.</para>
+</problem>
+</exercise>
+
+<exercise id="fs-idm686158512">
+<problem id="fs-idm820089024">
+<para id="fs-idm372989280"><link class="lo-reference" document="m67877"/>A manufacturing plant was finding a huge increase in the scrapping of raw materials. Its internal controls were reviewed, and the plant appeared to be strong; segregation of duties was in place. As the accountant was reconciling some inventory accounts, she found more than a normal amount of scrap tickets. The tickets were for scrapping the same inventory part, signed by the same person, and the scrap was sold to only one company. The inventory item was still being ordered, and only one supplier was used to purchase the parts. After further investigation by the accountant, the company buying the inventory and the company selling the inventory to the company had different names but shared the same address. Comment on what went wrong. What happened to the internal controls the company had in place?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm409019296">
+<problem id="fs-idm366594384">
+<para id="fs-idm413145152"><link class="lo-reference" document="m67877"/>The vice president of finance asks the accounts payable (AP) clerk to write a check in the name of the president for $10,000. He and the president will sign the check (two signatures needed on a check of this size). He further instructs the AP clerk not to disclose this check to her immediate supervisor. What should the AP clerk do? Should she prepare the check? Should she inform her immediate supervisor? Discuss with internal controls in mind.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm407938864">
+<problem id="fs-idm404800336">
+<para id="fs-idm654685520"><link class="lo-reference" document="m67877"/>Even though technology has improved the internal control structure of a company, a supervisor cannot depend totally on technology. Discuss other internal controls a supervisor needs to implement to ensure a strong structure.</para>
+</problem>
+</exercise>
+</section>   </content>
+<glossary>
+<definition id="fs-idm529413312">
+<term>petty cash fund</term>
+<meaning id="fs-idm275519200">amount of cash held on hand to be used to make payments for small day-to-day purchases</meaning>
+</definition>
+<definition id="fs-idm518525040">
+<term>imprest account</term>
+<meaning id="fs-idm267604544">account that is only debited when the account is established or the total ending balance is increased</meaning>
+</definition>
+</glossary>
+
+</document>

@@ -1,0 +1,616 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Explain How Notes Receivable and Accounts Receivable Differ</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67886</md:content-id>
+  <md:title>Explain How Notes Receivable and Accounts Receivable Differ</md:title>
+  <md:abstract/>
+  <md:uuid>9b408ae4-9085-47a8-86ab-18661d025686</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm181397136">So far, our discussion of receivables has focused solely on accounts receivable. Companies, however, can expand their business models to include more than one type of receivable. This receivable expansion allows a company to attract a more diverse clientele and increase asset potential to further grow the business.</para>
+<para id="fs-idm163302368">As you’ve learned, accounts receivable is typically a more informal arrangement between a company and customer that is resolved within a year and does not include interest payments. In contrast, <term>notes receivable</term> (an asset) is a more formal legal contract between the buyer and the company, which requires a specific payment amount at a predetermined future date. The length of contract is typically over a year, or beyond one operating cycle. There is also generally an interest requirement because the financial loan amount may be larger than accounts receivable, and the length of contract is possibly longer. A note can be requested or extended in exchange for products and services or in exchange for cash (usually in the case of a financial lender). Several characteristics of notes receivable further define the contract elements and scope of use.</para>
+<table id="fs-idm186507776" class="top-titled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Key Feature Comparison of Accounts Receivable and Notes Receivable</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Accounts Receivable</entry>
+<entry valign="top" align="center">Notes Receivable</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><list id="fs-idm190351424" list-type="bulleted" bullet-style="bullet">
+<item>An informal agreement between customer and company</item>
+<item>Receivable in less than one year or within a company’s operating cycle</item>
+<item>Does not include interest</item>
+</list></entry>
+<entry valign="top" align="left"><list id="fs-idm184639456" list-type="bulleted" bullet-style="bullet">
+<item>A legal contract with established payment terms</item>
+<item>Receivable beyond one year and outside of a company’s operating cycle</item>
+<item>Includes interest</item></list>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-idm184877408" class="think-through">
+<title>Dishonored Note</title>
+<para id="fs-idm184143840">You are the owner of a retail health food store and have several large companies with whom you do business. Many competitors in your industry are vying for your customers’ business. For each sale, you issue a notes receivable to the company, with an interest rate of 10% and a maturity date 18 months after the issue date. Each note has a minimum principal amount of $500,000.</para>
+<para id="fs-idm177117168">Let’s say one of these companies is unable to pay in the established timeframe and dishonors the note. What would you do? How does this dishonored note affect your company both financially and nonfinancially? If your customer wanted to renegotiate the terms of the agreement, would you agree? If so, what would be the terms?</para>
+</note>
+<section id="fs-idm184880336">
+<title>Characteristics of Notes Receivable</title>
+<para id="fs-idm181278992">Notes receivable have several defining characteristics that include principal, length of contract terms, and interest. The <term>principal</term> of a note is the initial loan amount, not including interest, requested by the customer. If a customer approaches a lender, requesting $2,000, this amount is the principal. The date on which the security agreement is initially established is the <term>issue date</term>. A note’s <term>maturity date</term> is the date at which the principal and interest become due and payable. The maturity date is established in the initial note contract. For example, when the previously mentioned customer requested the $2,000 loan on January 1, 2018, terms of repayment included a maturity date of 24 months. This means that the loan will mature in two years, and the principal and interest are due at that time. The following journal entries occur at the note’s established start date. The first entry shows a note receivable in exchange for a product or service, and the second entry illustrates the note from the point of view that a $2,000 loan was issued by a financial institution to a customer (borrower).</para>
+<media id="fs-idm201620032" alt="Journal Entry: January 1, 2018 debit Notes Receivable 2,000, credit Sales Revenue 2,000. Explanation: “To record sale in exchange for notes receivable.” Journal Entry: January 1, 2018 debit Notes Receivable 2,000, credit Cash 2,000. Explanation: “To record sale in exchange for a cash loan.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_Jorn01_img.jpg"/>
+</media>
+<para id="fs-idm210862640">Before realization of the maturity date, the note is accumulating interest revenue for the lender. <term>Interest</term> is a monetary incentive to the lender that justifies loan risk. An annual interest rate is established with the loan terms. The <term>interest rate</term> is the part of a loan charged to the borrower, expressed as an annual percentage of the outstanding loan amount. Interest is accrued daily, and this accumulation must be recorded periodically (each month for example). The Revenue Recognition Principle requires that the interest revenue accrued is recorded in the period when earned. Periodic interest accrued is recorded in Interest Revenue and Interest Receivable. To calculate interest, the company can use the following formulas. The following example uses months but the calculation could also be based on a 365-day year.</para>
+<media id="fs-idm185518880" class="scaled-down" alt="Formula: Interest equals Annual interest rate times loan principle times part of year where Part of year equals Number of accrued interest months divided by12 months.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_Eq01_img.jpg"/>
+</media>
+<para id="fs-idm201884336">Another common way to state the interest formula is Interest = Principal × Rate × Time. From the previous example, the company offered a $2,000 note with a maturity date of 24 months. The annual interest rate on the loan is 10%. Each period the company needs to record an entry for accumulated interest during the period. In this example, the first year’s interest revenue accumulation is computed as 10% × $2,000 × (12/12) = $200. The $200 is recognized in Interest Revenue and Interest Receivable.</para>
+<media id="fs-idm209188464" alt="Journal entry: December 31, 2018 debit Interest Receivable 200, credit Interest Revenue 200. Explanation: “To record interest accumulated after first 12 months.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_Jorn02_img.jpg"/>
+</media>
+<para id="fs-idm208945360">When interest is due at the end of the note (24 months), the company may record the collection of the loan principal and the accumulated interest. These transactions can be recorded as one entry or two. The first set of entries show collection of principal, followed by collection of the interest.</para>
+<media id="fs-idm214558528" alt="Journal entries: December 31, 2019 debit Cash 2,000, credit Notes Receivable 2,000. Explanation: “To record collection of note principle.” December 31, 2019 debit Cash 400, credit Interest Receivable 200, credit Interest Revenue 200. Explanation: “To record interest collection after 24-month term.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_Jorn03_img.jpg"/>
+</media>
+<para id="fs-idm188542000">Interest revenue from year one had already been recorded in 2018, but the interest revenue from 2019 is not recorded until the end of the note term. Thus, Interest Revenue is increasing (credit) by $200, the remaining revenue earned but not yet recognized. Interest Receivable decreasing (credit) reflects the 2018 interest owed from the customer that is paid to the company at the end of 2019. The second possibility is one entry recognizing principal and interest collection.</para>
+<media id="fs-idm207535360" alt="Journal entry: December 31, 2019 debit Cash 2,400, credit Notes Receivable 2,000, credit Interest Receivable 200, credit Interest Revenue 200. Explanation: “To record collection of principle and accumulated interest.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_Jorn04_img.jpg"/>
+</media>
+<para id="fs-idm201808208">If the note term does not exceed one accounting period, the entry showing note collection may not reflect interest receivable. For example, let’s say the company’s note maturity date was 12 months instead of 24 (payment in full occurs December 31, 2018). The entry to record collection of the principal and interest follows.</para>
+<media id="fs-idm175228624" alt="Journal entry: December 31, 2018 debit Cash 2,200, credit Notes Receivable 2,000, credit Interest Revenue 200. Explanation: “To record collection of principle and interest.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_Jorn05_img.jpg"/>
+</media>
+<para id="fs-idm174500768">The examples provided account for collection of the note in full on the maturity date, which is considered an honored note. But what if the customer does not pay within the specified contract length? This situation is considered a dishonored note. A lender will still pursue collection of the note but will not maintain a long-term receivable on its books. Instead, the lender will convert the notes receivable and interest due into an account receivable. Sometimes a company will classify and label the uncollected account as a Dishonored Note Receivable. Using our example, if the company was unable to collect the $2,000 from the customer at the 12-month maturity date, the following entry would occur.</para>
+<media id="fs-idm177772832" alt="Journal entry: December 31, 2018 debit Accounts Receivable 2,200, credit Notes Receivable 2,000, credit Interest Revenue 200. Explanation: “To record conversion of note to AR.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_Jorn06_img.jpg"/>
+</media>
+<para id="fs-idm184849392">If it is still unable to collect, the company may consider selling the receivable to a collection agency. When this occurs, the collection agency pays the company a fraction of the note’s value, and the company would write off any difference as a factoring (third-party debt collection) expense. Let’s say that our example company turned over the $2,200 accounts receivable to a collection agency on March 5, 2019 and received only $500 for its value. The difference between $2,200 and $500 of $1,700 is the factoring expense.</para>
+<media id="fs-idm169956288" alt="Journal entry: March 5, 2019 debit Cash 500, debit Factoring Expense 1,700, credit Accounts Receivable 2,200. Explanation: “To record sale of AR to third-party factor.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_Jorn07_img.jpg"/>
+</media>
+<para id="fs-idm209173088">Notes receivable can convert to accounts receivable, as illustrated, but accounts receivable can also convert to notes receivable. The transition from accounts receivable to notes receivable can occur when a customer misses a payment on a short-term credit line for products or services. In this case, the company could extend the payment period and require interest.</para>
+<para id="fs-idm203072768">For example, a company may have an outstanding account receivable in the amount of $1,000. The customer negotiates with the company on June 1 for a six-month note maturity date, 12% annual interest rate, and $250 cash up front. The company records the following entry at contract establishment.</para>
+<media id="fs-idm185804080" alt="Journal entry: June 1 debit Cash 250, debit Notes Receivable 750, credit Accounts Receivable 1,000. Explanation: “To record conversion of AR to NR.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_Jorn08_img.jpg"/>
+</media>
+<para id="fs-idm212889776">This examines a note from the lender’s perspective; see <link document="m67901">Current Liabilities</link> for an in-depth discussion on the customer’s liability with a note (payable).</para>
+</section>
+<section id="fs-idm201956976">
+<title>Illustrated Examples of Notes Receivable</title>
+<para id="fs-idm210220960">To illustrate notes receivable scenarios, let’s return to Billie’s Watercraft Warehouse (BWW) as the example. BWW has a customer, Waterways Corporation, that tends to have larger purchases that require an extended payment period. On January 1, 2018, Waterways purchased merchandise in the amount of $250,000. BWW agreed to lend the $250,000 purchase cost (sales price) to Waterways under the following conditions. First, BWW agrees to accept a note payable issued by Waterways. The conditions of the note are that the principal amount is $250,000, the maturity date on the note is 24 months, and the annual interest rate is 12%. On January 1, 2018, BWW records the following entry.</para>
+<media id="fs-idm170301280" alt="Journal entry: January 1, 2018 debit Notes Receivable: Waterways 250,000, credit Sales Revenue 250,000. Explanation: “To record sale in exchange for notes receivable 24 month maturity, 12 percent interest rate.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_Jorn09_img.jpg"/>
+</media>
+<para id="fs-idm181438112">Notes Receivable: Waterways increases (debit), and Sales Revenue increases (credit) for the principal amount of $250,000. On December 31, 2018, BWW records interest accumulated on the note for 12 months.</para>
+<media id="fs-idm184667696" alt="Journal entry: December 31, 2018 debit Interest Receivable 30,000, credit Interest Revenue 30,000. Explanation: “To record interest accumulated after first 12 months.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_Jorn10_img.jpg"/>
+</media>
+<para id="fs-idm210023504">Interest Receivable: Waterways increases (debit) as does Interest Revenue (credit) for 12 months of interest computed as $250,000 × 12% × (12/12). On December 31, 2019, Waterways Corporation honors the note; BWW records this collection as a single entry.</para>
+<media id="fs-idm200502992" alt="Journal entry: December 31, 2019 debit Cash 310,000, credit Notes Receivable: Waterways 250,000, credit Interest Receivable: Waterways 30,000, credit Interest Revenue 30,000. Explanation: “To record collection of principle and accumulated interest.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_Jorn11_img.jpg"/>
+</media>
+<para id="fs-idm219601968">Cash increases (debit) for the principal and interest total of $310,000, Notes Receivable: Waterways decreases (credit) for the principal amount of $250,000, Interest Receivable: Waterways decreases (credit) for the 2018 accumulated interest amount of $30,000, and Interest Revenue increases (credit) for the 2019 interest collection amount of $30,000.</para>
+<para id="fs-idm217987072">BWW does business with Sea Ferries Inc. BWW issued Sea Ferries a note in the amount of $100,000 on January 1, 2018, with a maturity date of six months, at a 10% annual interest rate. On July 2, BWW determined that Sea Ferries dishonored its note and recorded the following entry to convert this debt into accounts receivable.</para>
+<media id="fs-idm180953664" alt="Journal entry: June 2, 2018 debit Accounts Receivable: Sea Ferries 105,000, credit Notes Receivable: Sea Ferries 100,000, credit Interest Revenue 5,000. Explanation: “To record conversion of note to Accounts Receivable, dishonored note.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_Jorn12_img.jpg"/>
+</media>
+<para id="fs-idm219213504">Accounts Receivable: Sea Ferries increases (debit) for the principal note amount plus interest, Notes Receivable: Sea Ferries decreases (credit) for the principal amount due, and Interest Revenue increases (credit) for interest earned at maturity. Interest is computed as $100,000 × 10% × (6/12). On September 1, 2018, BWW determines that Sea Ferries’s account will be uncollectible and sells the balance to a collection agency for a total of $35,000.</para>
+<media id="fs-idm208678768" alt="Journal entry: September 1, 2018 debit Cash 35,000, debit Factoring Expense 70,000, credit Accounts Receivable 105,000. Explanation: “To record sale of Accounts Receivable to third-party factor.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_Jorn13_img.jpg"/>
+</media>
+<para id="fs-idm212714816">Cash increases (debit) for the agreed-upon discounted value of $35,000, Factoring Expense increases (debit) for the outstanding amount and the discounted sales price, and Accounts Receivable: Sea Ferries decreases (credit) for the original amount owed.</para>
+<para id="fs-idm185934400">Alliance Cruises is a customer of BWW with an outstanding accounts receivable balance of $50,000. Alliance is unable to pay in full on schedule, so it negotiates with BWW on March 1 to convert its accounts receivable into a notes receivable. BWW agrees to the following terms: six-month note maturity date, 18% annual interest rate, and $10,000 cash up front. BWW records the following entry at contract establishment.</para>
+<media id="fs-idm219047488" alt="Journal entry: March 1 debit Cash 10,000, debit Notes Receivable: Alliance 40,000, credit Accounts Receivable: Alliance 50,000. Explanation: “To record conversion of Accounts Receivable to Notes Receivable.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_Jorn14_img.jpg"/>
+</media>
+<para id="fs-idm183684176">Cash increases (debit) for the up-front collection of $10,000, Notes Receivable: Alliance increases (debit) for the principal amount on the note of $40,000, and Accounts Receivable: Alliance decreases (credit) for the original amount Alliance owed of $50,000.</para>
+<note id="fs-idm177587744" class="link-to-learning">
+<para id="fs-idm178082560">Another opportunity for a company to issue a notes receivable is when one business tries to acquire another. As part of an acquisition sale between <emphasis class="colored-text">MMA Capital Management LLC</emphasis> and <emphasis class="colored-text">Hunt Companies Inc.</emphasis>, MMA “provided financing for the purchase price in the form of a seven-year, note receivable from Hunt” with an interest rate of 5%, payable in quarterly installments. Read this <link url="https://openstax.org/l/50MMAHuntAcq">article on the terms of sale and the role of the notes receivable in the <emphasis class="colored-text">MMA</emphasis>/<emphasis class="colored-text">Hunt</emphasis> Acquisition</link> to learn more.</para>
+</note>
+</section>
+<section id="fs-idm178970320" class="section-summary">
+<title>Summary</title>
+<list id="fs-idm180879856" list-type="bulleted" bullet-style="bullet">
+<item>Accounts receivable is an informal agreement between customer and company, with collection occurring in less than a year, and no interest requirement. In contrast, notes receivable is a legal contract, with collection occurring typically over a year, and interest requirements.</item>
+<item>The terms of a note contract establish the principal collection amount, maturity date, and annual interest rate.</item>
+<item>Interest is computed as the principal amount multiplied by the part of the year, multiplied by the annual interest rate. The entry to record accumulated interest increases interest receivable and interest revenue.</item>
+<item>An honored note means collection occurred on time and in full. Recording an honored note includes an increase to cash and interest revenue, and a decrease to interest receivable and notes receivable.</item>
+<item>A dishonored note means collection did not occur on time or in full. In this case, a note and the accumulated interest would be converted to accounts receivable.</item>
+<item>When a company cannot collect on account, the company may consider selling the receivable to a collection agency. They will sell the receivable at a fraction of the value in order to apply resources elsewhere.</item>
+<item>If a customer cannot pay its accounts receivable on time, it may renegotiate terms that include a note and interest, thereby converting the accounts receivable to notes receivable. in this case, accounts receivable decreases, and notes receivable and cash increase.</item>
+</list>
+</section>
+<section id="fs-idm184699264" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm178755408">
+<problem id="fs-idm163329248">
+<para id="fs-idm183832656"><link class="lo-reference" document="m67886"/>Which of the following is true of a maturity date?</para>
+<list id="fs-idm199474592" list-type="enumerated" number-style="upper-alpha">
+<item>It must be calculated in days, not in months or years.</item>
+<item>It is the date when principal and interest on a note are to be repaid to the lender.</item>
+<item>It is the date of establishment of note terms between a lender and customer.</item>
+<item>It is not a characteristic of a note receivable.</item>
+</list>
+</problem>
+<solution id="fs-idm200974160">
+<para id="fs-idm218645296">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm189074112">
+<problem id="fs-idm170210176">
+<para id="fs-idm208824640"><link class="lo-reference" document="m67886"/>Mark Industries issues a note in the amount of $45,000 on August 1, 2018 in exchange for the sale of merchandise. Which of the following is the correct journal entry for this sale?</para>
+<list id="fs-idm213488832" list-type="enumerated" number-style="upper-alpha">
+<item>
+<media id="fs-idm209660128" alt="Debit Cash 45,000, credit Sales Revenue 45,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_MC02a_img.jpg"/>
+</media></item>
+<item>
+<media id="fs-idm203023360" alt="Debit Cash 45,000, credit Notes Receivable: Mark 45,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_MC02b_img.jpg"/>
+</media></item>
+<item>
+<media id="fs-idm210692944" alt="Debit Accounts Receivable: Mark 45,000, credit Sales Revenue 45,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_MC02c_img.jpg"/>
+</media></item>
+<item>
+<media id="fs-idm221271488" alt="Debit Notes Receivable: Mark 45,000, credit Sales Revenue 45,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F09_06_MC02d_img.jpg"/>
+</media></item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm183055440">
+<problem id="fs-idm212752464">
+<para id="fs-idm223212336"><link class="lo-reference" document="m67886"/>A customer takes out a loan of $130,000 on January 1, with a maturity date of 36 months, and an annual interest rate of 11%. If 6 months have passed since note establishment, what would be the recorded interest figure at that time?</para>
+<list id="fs-idm210102272" list-type="enumerated" number-style="upper-alpha">
+<item>$7,150</item>
+<item>$65,000</item>
+<item>$14,300</item>
+<item>$2,383</item>
+</list>
+</problem>
+<solution id="fs-idm219777200">
+<para id="fs-idm224178368">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm216510432">
+<problem id="fs-idm203253648">
+<para id="fs-idm211364032"><link class="lo-reference" document="m67886"/>A company collects an honored note with a maturity date of 24 months from establishment, a 10% interest rate, and an initial loan amount of $30,000. Which accounts are used to record collection of the honored note at maturity date?</para>
+<list id="fs-idm208899600" list-type="enumerated" number-style="upper-alpha">
+<item>Interest Revenue, Interest Expense, Cash</item>
+<item>Interest Receivable, Cash, Notes Receivable</item>
+<item>Interest Revenue, Interest Receivable, Cash, Notes Receivable</item>
+<item>Notes Receivable, Interest Revenue, Cash, Interest Expense</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm205580848">
+<problem id="fs-idm222403664">
+<para id="fs-idm209148688"><link class="lo-reference" document="m67886"/>Orion Rentals is unable to collect on a note worth $25,000 and has accumulated interest of $250. It convert this note and interest to accounts receivable. After some time, Orion is still unable to collect the debt and it decides to sell the converted note to a collection agency. The collection agency will pay only 20% of the value of accounts receivable to Orion. What is the amount of cash paid to Orion from the collection agency?</para>
+<list id="fs-idm221064000" list-type="enumerated" number-style="upper-alpha">
+<item>$5,000</item>
+<item>$5,050</item>
+<item>$20,000</item>
+<item>$19,950</item>
+</list>
+</problem>
+<solution id="fs-idm209077152">
+<para id="fs-idm224144224">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm223464240" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm208507440">
+<problem id="fs-idm210037488">
+<para id="fs-idm184563632"><link class="lo-reference" document="m67886"/>British Imports is unable to collect on a note worth $215,000 that has accumulated interest of $465. What is the journal entry to record the conversion of the note to accounts receivable?</para>
+</problem>
+<solution id="fs-idm182035504">
+<table id="fs-idm212362416" class="unnumbered unstyled" summary="No Summary">
+<label/><tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Accounts Receivable</entry>
+<entry valign="top" align="left">215,465</entry>
+<entry valign="top" align="right"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="right">Notes Receivable</entry>
+<entry valign="top" align="right"> </entry>
+<entry valign="top" align="right">215,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="right">Interest Revenue</entry>
+<entry valign="top" align="right"> </entry>
+<entry valign="top" align="right">465</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</solution>
+</exercise>
+<exercise id="fs-idm200977680">
+<problem id="fs-idm211523232">
+<para id="fs-idm208508800"><link class="lo-reference" document="m67886"/>Chemical Enterprises issues a note in the amount of $156,000 to a customer on January 1, 2018. Terms of the note show a maturity date of 36 months, and an annual interest rate of 8%. What is the accumulated interest entry if 9 months have passed since note establishment?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm203266832">
+<problem id="fs-idm227447136">
+<para id="fs-idm189988016"><link class="lo-reference" document="m67886"/>What is the principal of a note?</para>
+</problem>
+<solution id="fs-idm216033840">
+<para id="fs-idm226062112">The principal of a note is the initial borrowed amount, not including interest, requested by the customer.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm210121072">
+<problem id="fs-idm212736080">
+<para id="fs-idm212723152"><link class="lo-reference" document="m67886"/>A customer was unable to pay the accounts receivable on time in the amount of $34,000. The customer was able to negotiate with the company and transferred the accounts receivable into a note that includes interest, along with an up-front cash payment of $6,000. The note maturity date is 24 months with a 15% annual interest rate. What is the entry to recognize this transfer?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm185684096">
+<problem id="fs-idm186100624">
+<para id="fs-idm205660352"><link class="lo-reference" document="m67886"/>What are three differences between accounts receivable and notes receivable?</para>
+</problem>
+<solution id="fs-idm164029136">
+<para id="fs-idm184670512">Accounts receivable is an informal, short-term payment and usually no interest, whereas notes receivable is a legal contract, long-term payment, and usually has interest.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm184627280" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm183707472">
+<problem id="fs-idm196435168">
+<para id="fs-idm190065520"><link class="lo-reference" document="m67886"/>Arvan Patel is a customer of Bank’s Hardware Store. For Mr. Patel’s latest purchase on January 1, 2018, Bank’s Hardware issues a note with a principal amount of $480,000, 13% annual interest rate, and a 24-month maturity date on December 31, 2019. Record the journal entries for Bank’s Hardware Store for the following transactions.</para>
+<list id="fs-idm176412224" list-type="enumerated" number-style="upper-alpha">
+<item>Note issuance</item>
+<item>Subsequent interest entry on December 31, 2018</item>
+<item>Honored note entry at maturity on December 31, 2019.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm178303712">
+<problem id="fs-idm190223072">
+<para id="fs-idm167132544"><link class="lo-reference" document="m67886"/>Resin Milling issued a $390,500 note on January 1, 2018 to a customer in exchange for merchandise. The merchandise had a cost to Resin Milling of $170,000. The terms of the note are 24-month maturity date on December 31, 2019 at a 5% annual interest rate. The customer does not pay on its account and dishonors the note. Record the journal entries for Resin Milling for the following transactions.</para>
+<list id="fs-idm163304864" list-type="enumerated" number-style="upper-alpha">
+<item>Initial sale on January 1, 2018</item>
+<item>Dishonored note entry on January 1, 2020, assuming interest has not been recognized before note maturity</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm188884864">
+<problem id="fs-idm216021952">
+<para id="fs-idm199923760"><link class="lo-reference" document="m67886"/>Mystic Magic issued a $120,250 note on January 1, 2018 to a customer, Amy Arnold, in exchange for merchandise. Terms of the note are 9-month maturity date on October 1, 2018 at a 9.6% annual interest rate. Amy Arnold does not pay on her account and dishonors the note. On November 10, 2018, Mystic Magic decides to sell the dishonored note to a collection agency for 25% of its value. Record the journal entries for Mystic Magic for the following transactions.</para>
+<list id="fs-idm212803120" list-type="enumerated" number-style="upper-alpha">
+<item>Initial sale on January 1, 2018</item>
+<item>Dishonored note entry on October 1, 2018</item>
+<item>Receivable sale on November 10, 2018</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm186029568" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm203020560">
+<problem id="fs-idm211543376">
+<para id="fs-idm212461744"><link class="lo-reference" document="m67886"/>Anderson Air is a customer of Handler Cleaning Operations. For Anderson Air’s latest purchase on January 1, 2018, Handler Cleaning Operations issues a note with a principal amount of $1,255,000, 6% annual interest rate, and a 24-month maturity date on December 31, 2019. Record the journal entries for Handler Cleaning Operations for the following transactions.</para>
+<list id="fs-idm216638112" list-type="enumerated" number-style="upper-alpha">
+<item>Entry for note issuance</item>
+<item>Subsequent interest entry on December 31, 2018</item>
+<item>Honored note entry at maturity on December 31, 2019</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm188971408">
+<problem id="fs-idm214528496">
+<para id="fs-idm202577824"><link class="lo-reference" document="m67886"/>Rain T-Shirts issued a $440,600 note on January 1, 2018 to a customer, Larry Potts, in exchange for merchandise. The merchandise had a cost to Rain T-Shirts of $220,300. The terms of the note are 24-month maturity date on December 31, 2019 at a 4.5% annual interest rate. Larry Potts does not pay on his account and dishonors the note. Record journal entries for Rain T-Shirts for the following transactions.</para>
+<list id="fs-idm212710656" list-type="enumerated" number-style="upper-alpha">
+<item>Initial sale on January 1, 2018</item>
+<item>Dishonored note entry on January 1, 2020, assuming interest has not been recognized before note maturity</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm214638640">
+<problem id="fs-idm223486752">
+<para id="fs-idm227392080"><link class="lo-reference" document="m67886"/>Element Surfboards issued a $210,800 note on January 1, 2018 to a customer, Leona Marland, in exchange for merchandise. Terms of the note are 9-month maturity date on October 1, 2018 at a 10.2% annual interest rate. Leona Marland does not pay on her account and dishonors the note. On December 2, 2018, Element Surfboards decides to sell the dishonored note to a collection agency for 30% of its value. Record the journal entries for Element Surfboards for the following transactions.</para>
+<list id="fs-idm215976992" list-type="enumerated" number-style="upper-alpha">
+<item>Initial sale on January 1, 2018</item>
+<item>Dishonored note entry on October 1, 2018</item>
+<item>Receivable sale on December 2, 2018</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm221109824" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm208828144">
+<problem id="fs-idm213804464">
+<para id="fs-idm202398720"><link class="lo-reference" document="m67886"/>Record journal entries for the following transactions of Telesco Enterprises.</para>
+<table id="fs-idm214647024" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 1, 2018</entry>
+<entry valign="top" align="left">Issued a $330,700 note to customer Abe Willis as terms of a merchandise sale. The merchandise’s cost to Telesco is $120,900. Note contract terms included a 36-month maturity date, and a 4% annual interest rate.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2018</entry>
+<entry valign="top" align="left">Telesco records interest accumulated for 2018.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2019</entry>
+<entry valign="top" align="left">Telesco records interest accumulated for 2019.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2020</entry>
+<entry valign="top" align="left">Abe Willis honors the note and pays in full with cash.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm212383200">
+<problem id="fs-idm218384720">
+<para id="fs-idm221834528"><link class="lo-reference" document="m67886"/>Record journal entries for the following transactions of Wind Solutions.</para>
+<table id="fs-idm224384496" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 1, 2018</entry>
+<entry valign="top" align="left">Issued a $2,350,100 note to customer Solar Plex as terms of a merchandise sale. The merchandise’s cost to Wind Solutions is $1,002,650. Note contract terms included a 24-month maturity date, and a 2.1% annual interest rate.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2018</entry>
+<entry valign="top" align="left">Wind Solutions records interest accumulated for 2018.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2019</entry>
+<entry valign="top" align="left">Wind Solutions converts Solar Plex’s dishonored note into account receivable. This includes accumulated interest for the 24-month period.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mar. 8, 2020</entry>
+<entry valign="top" align="left">Wind Solutions sells the outstanding debt from Solar Plex to a collection agency at 25% of the accounts receivable value.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm219796720">
+<problem id="fs-idm178961472">
+<para id="fs-idm219832128"><link class="lo-reference" document="m67886"/>Record journal entries for the following transactions of Commissary Productions.</para>
+<table id="fs-idm209169488" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 1, 2018</entry>
+<entry valign="top" align="left">Issued a $425,530 note to customer June Solkowski as terms of a merchandise sale. The merchandise’s cost to Commissary is $231,700. Note contract terms included a 36-month maturity date, and a 5% annual interest rate.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2018</entry>
+<entry valign="top" align="left">Commissary records interest accumulated for 2018.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2019</entry>
+<entry valign="top" align="left">Commissary records interest accumulated for 2019.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2020</entry>
+<entry valign="top" align="left">June Stevens honors the note and pays in full with cash.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm185524368">
+<problem id="fs-idm219047008">
+<para id="fs-idm217912608"><link class="lo-reference" document="m67886"/>Record journal entries for the following transactions of Piano Wholesalers.</para>
+<table id="fs-idm201108368" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 1, 2018</entry>
+<entry valign="top" align="left">Issued a $1,235,650 note to customer Arrowstar as terms of a merchandise sale. The merchandise’s cost to Piano Wholesalers is $602,000. Note contract terms included a 24-month maturity date and a 3.4% annual interest rate.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2018</entry>
+<entry valign="top" align="left">Piano Wholesalers records interest accumulated for 2018.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2019</entry>
+<entry valign="top" align="left">Piano Wholesalers converts Arrowstar’s dishonored note into account receivable. This includes accumulated interest for the 24-month period.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Apr. 12, 2020</entry>
+<entry valign="top" align="left">Piano Wholesalers sells the outstanding debt from Arrowstar to a collection agency at 32% of the accounts receivable value.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm185643520" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm185800192">
+<problem id="fs-idm185240240">
+<para id="fs-idm161516880"><link class="lo-reference" document="m67886"/>Record journal entries for the following transactions of Noreen Turbines.</para>
+<table id="fs-idm222457888" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 1, 2018</entry>
+<entry valign="top" align="left">Issued a $1,800,500 note to customer Axel Premium Metal as terms of a merchandise sale. The merchandise’s cost to Noreen is $760,430. Note contract terms included a 36-month maturity date, and a 3.8% annual interest rate.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2018</entry>
+<entry valign="top" align="left">Noreen Turbines records interest accumulated for 2018.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2019</entry>
+<entry valign="top" align="left">Noreen Turbines records interest accumulated for 2019.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2020</entry>
+<entry valign="top" align="left">Axel Premium Metal honors the note and pays in full with cash.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm186325040">
+<problem id="fs-idm188554160">
+<para id="fs-idm181444432"><link class="lo-reference" document="m67886"/>Record journal entries for the following transactions of Mesa Construction.</para>
+<table id="fs-idm167137408" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 1, 2018</entry>
+<entry valign="top" align="left">Issued a $1,460,200 note to customer Miramar Industries as terms of a merchandise sale. The merchandise’s cost to Mesa Construction is $812,110. Note contract terms included a 24-month maturity date, and a 3.3% annual interest rate.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2018</entry>
+<entry valign="top" align="left">Mesa Construction records interest accumulated for 2018.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2019</entry>
+<entry valign="top" align="left">Mesa Construction converts Miramar Industries’ dishonored note into account receivable. This includes accumulated interest for the 24-month period.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Apr. 4, 2020</entry>
+<entry valign="top" align="left">Mesa Construction sells the outstanding debt from Miramar Industries to a collection agency at 40% of the accounts receivable value.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm179439040">
+<problem id="fs-idm293576544">
+<para id="fs-idm177179264"><link class="lo-reference" document="m67886"/>Record journal entries for the following transactions of Graphics &amp; Signs.</para>
+<table id="fs-idm183630144" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 1, 2018</entry>
+<entry valign="top" align="left">Issued a $248,400 note to customer Elliott Thompson as terms of a merchandise sale. The merchandise’s cost to Graphics &amp; Signs is $99,500. Note contract terms included a 36-month maturity date, and a 4.3% annual interest rate.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2018</entry>
+<entry valign="top" align="left">Graphics &amp; Signs records interest accumulated for 2018.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2019</entry>
+<entry valign="top" align="left">Graphics &amp; Signs records interest accumulated for 2019.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2020</entry>
+<entry valign="top" align="left">Elliott Thompson honors the note and pays in full with cash.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm179428240">
+<problem id="fs-idm218675744">
+<para id="fs-idm227942944"><link class="lo-reference" document="m67886"/>Record journal entries for the following transactions of Trout Masters.</para>
+<table id="fs-idm182019824" class="unnumbered unstyled" summary="Assessment data.">
+<label/><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Jan. 1, 2018</entry>
+<entry valign="top" align="left">Issued a $390,820 note to customer Fishing Warehouse as terms of a merchandise sale. The merchandise’s cost to Trout Masters is $155,770. Note contract terms included a 24-month maturity date, and a 3% annual interest rate.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2018</entry>
+<entry valign="top" align="left">Trout Masters records interest accumulated for 2018.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Dec. 31, 2019</entry>
+<entry valign="top" align="left">Trout Masters converts Fishing Warehouse’s dishonored note into account receivable. This includes accumulated interest for the 24-month period.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">May 6, 2020</entry>
+<entry valign="top" align="left">Trout Masters sells the outstanding debt from Fishing Warehouse to a collection agency at 40% of the accounts receivable value.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm223475408" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm185723680">
+<problem id="fs-idm202550352">
+<para id="fs-idm201190816"><link class="lo-reference" document="m67886"/>When a customer is delinquent on paying a notes receivable, your company has the option to continue to attempt collection or sell the debt to a collection agency. Research the benefits and challenges with each of these options and in a short essay, answer the following questions.</para>
+<list id="fs-idm225764240" list-type="enumerated" number-style="upper-alpha">
+<item>What are the benefits and challenges of continuing to attempt collection yourself?</item>
+<item>What are the benefits and challenges of selling debt to a collection agency?</item>
+<item>If you had a dishonored notes receivable, which option would you select and why?</item>
+<item>Would you weight certain benefits or challenges differently when making your selection? How?</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm201194560">
+<term>interest</term>
+<meaning id="fs-idm225283840">monetary incentive to the lender, which justifies loan risk; interest is paid to the lender by the borrower</meaning>
+</definition>
+<definition id="fs-idm209543168">
+<term>interest rate</term>
+<meaning id="fs-idm225523568">part of a loan charged to the borrower, expressed as an annual percentage of the outstanding loan amount</meaning>
+</definition>
+<definition id="fs-idm202531872">
+<term>issue date</term>
+<meaning id="fs-idm203803408">point at which the security agreement is initially established</meaning>
+</definition>
+<definition id="fs-idm226351328">
+<term>maturity date</term>
+<meaning id="fs-idm226295408">date a bond or note becomes due and payable</meaning>
+</definition>
+<definition id="fs-idm200952800">
+<term>note receivable</term>
+<meaning id="fs-idm203333920">formal legal contract between the buyer and the company, which requires a specific payment amount at a predetermined future date, usually includes interest, and is payable beyond a company’s operating cycle</meaning>
+</definition>
+<definition id="fs-idm227224368">
+<term>principal</term>
+<meaning id="fs-idm226244592">initial borrowed amount of a loan, not including interest; also, face value or maturity value of a bond (the amount to be paid at maturity)</meaning>
+</definition>
+</glossary>
+</document>

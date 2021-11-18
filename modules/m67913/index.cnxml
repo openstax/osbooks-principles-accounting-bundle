@@ -1,0 +1,521 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Explain the Pricing of Long-Term Liabilities</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67913</md:content-id>
+  <md:title>Explain the Pricing of Long-Term Liabilities</md:title>
+  <md:abstract/>
+  <md:uuid>921139a4-fd21-4470-95bc-6c3e430ebc55</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm806500640">Businesses have several ways to secure financing and, in practice, will use a combination of these methods to finance the business. As you’ve learned, net income does not necessarily mean cash. In some cases, in the long-run, profitable operations will provide businesses with sufficient cash to finance current operations and to invest in new opportunities. However, situations might arise where the cash flow generated is insufficient to cover future anticipated expenses or expansion, and the company might need to secure additional funding.</para>
+<para id="fs-idm403001936">If the extra amount needed is somewhat temporary or small, a short-term source, such as a loan, might be appropriate. Short-term (current) liabilities were covered in <link document="m67901">Current Liabilities</link>. When additional long-term funding needs arise, a business can choose to sell stock in the company (equity-based financing) or obtain a <term>long-term liability</term> (debt-based financing), such as a loan that is spread over a period longer than a year.</para>
+<section id="fs-idm391891984">
+<title>Types of Long-Term Funding</title>
+<para id="fs-idm395911008">If a company needs additional funding for a major expenditure, such as expansion, the source of funding would typically be repaid over several years, or in the case of equity-based financing, over an indefinite period of time. With equity-based financing, the company sells an interest in the company’s ownership by issuing shares of the company’s common stock. This financing option is equity financing, and it will be addressed in detail in <link document="m67916">Corporation Accounting</link>. Here, we will focus on two major long-term debt-based options: long-term loans and bonds.</para>
+<para id="fs-idm417470544">Debt as an option for financing is an important source of funding for businesses. If a company chooses a debt-based option, the business can borrow money on an intermediate (typically two to four years) or long-term (longer than four years) basis from lenders. In the case of bonds, the funds would be provided by investors. While loans and bonds are similar in that they borrow money on which the borrower will pay interest and eventually repay the lenders, they have some important differences. First, a company can raise funds by borrowing from an individual, bank, or other lender, while a bond is typically sold to numerous investors. When a company chooses a loan, the business signs what is known as a note, and a legal relationship called a <term>note payable</term> is created between the borrower and the lender. The document lists the conditions of the financial arrangement, a fixed predetermined interest rate (or, if the agreement allows, a variable interest rate), the amount borrowed, the borrowing costs to be charged, and the timing of the payments. In some cases, companies will secure an <term>interest-only loan</term>, which means that for the life of the loan the organization pays only the interest expense that has accrued and upon maturity repays the original amount that it borrowed and still owes. For individuals a student loan, car loan, or a mortgage can all be types of notes payable. For Olivia’s car purchase in <link document="m67912">Why It Matters</link>, a document such as a <term>promissory note</term> is typically created, representing a personal loan agreement between a lender and borrower. <link target-id="OSX_Acct_F13_00_Promissory"/> shows a sample promissory note that might be used for a simple, relatively intermediate-term loan. If we were considering a loan that would be repaid over a several-year period the document might be a little more complicated, although it would still have many of the same components of Olivia’s loan document.</para>
+<figure id="OSX_Acct_F13_00_Promissory">
+<media id="fs-idm381945328" alt="Picture of a Promissory note, formatted with the following information: Loan Agreement Effective Date: [D D / M M / Y Y Y Y]; Borrower; Lender; Address Line 1 (street address); Address Line 1 (street Address); Address Line 2 (city, state, zip code); Address Line 2 (city, state, zip code); Promise to pay: a certain amount in U.S. Dollars within a set number of months from today, in equal continuous monthly payments of a certain amount each on a certain day of each month, with beginning and ending dates. Borrower promises to pay the Lender the principal listed above plus interest at a certain APR%. Value Received for Properety is described. If this note is not paid in full upon date due, the borrower agrees to pay all reasonable cost for collection, including all attorney fees.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F13_00_Promissory.jpg"/>
+</media>
+<caption>Promissory Note. A personal loan agreement is a formal contract between a lender and borrower. The document lists the conditions of the loan, including the amount borrowed, the borrowing costs to be charged, and the timing of the payments. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm413020208">If debt instruments are created with a variable interest rate that can fluctuate up or down, depending upon predetermined factors, an inflation measurement must also be included in the documentation. The Federal Funds Rate, for example, is a commonly used tool for potential adjustments in interest rates. To keep our discussion simple, we will use a fixed interest rate in our subsequent calculations.</para>
+<para id="fs-idm410948768">Another difference between loans and bonds is that the note payable creates an obligation for the borrower to repay the lender on a specified date. To demonstrate the mechanics of a loan,with loans, a note payable is created for the borrower when the loan is initiated. This example assumes the loan will be paid in full by the maturity or due date. Typically, over the life of the loan, payments will be composed of both principal and interest components. The principal component paid typically reduces the amount that the borrower owes the lender. For example, assume that a company borrowed $10,000 from a lender under the following terms: a five-year life, an annual interest rate of 10%, and five annual payments at the end of the year.</para>
+<para id="fs-idm676341920">Under these terms, the annual payment would be $2,637.97. The first year’s payment would be allocated to an interest expense of $1,000, and the remaining amount of the payment would go to reduce the amount borrowed (principal) by $1,637.97. After the first year’s payment, the company would owe a remaining balance of $8,362.03 ($10,000 – $1637.97.) Additional detail on this type of calculation will be provided in <link document="m67914">Compute Amortization of Long-Term Liabilities Using the Effective-Interest Method</link>.</para>
+<para id="fs-idm402786976">Typical long-term loans have other characteristics. For example, most long-term notes are held by one entity, meaning one party provides all of the financing. If a company bought heavy-duty equipment from Caterpillar, it would be common for the seller of the equipment to also have a division that would provide the financing for the transaction. An additional characteristic of a long-term loan is that in many, if not most, situations, the initial creator of the loan will hold it and receive and process payments until it matures.</para>
+<para id="fs-idm673863648">Returning to the differences between long-term debt and bonds, another difference is that the process for issuing (selling) bonds can be very complicated, especially for companies that are subject to regulation. The bond issue must be approved by the appropriate regulatory agency, and then outside parties such as investment banks sell the bonds to, typically, a large audience of investors. It is not unusual for several months to pass between the time that the company’s board of directors approves the bond offering, gets regulatory approval, and then markets and issues the bonds. This additional time is often the reason that the market rate for similar bonds in the outside business environment is higher or lower than the stated interest rate that the company committed to pay when the bond process was first begun. This difference can lead to bonds being issued (sold) at a discount or premium.</para>
+<para id="fs-idm374651792">Finally, while loans can normally be paid off before they are due, in most cases bonds must be held by an owner until they mature. Because of this last characteristic, a bond,such as a thirty-year bond, might have several owners over its lifetime, while most long-term notes payable will only have one owner.</para>
+<note id="fs-idm401255200" class="ethical-considerations">
+<title>Bond Fraud</title>
+<para id="fs-idm410454288">The U.S. Department of the Treasury (DOT) defines historical bonds as “those bonds that were once valid obligations of American entities but are now worthless as securities and are quickly becoming a favorite tool of scam artists.”<footnote id="fs-idm682917968">U.S. Department of the Treasury. “Historical Bond Fraud.” September 21, 2012. https://www.treasury.gov/about/organizational-structure/ig/Pages/Scams/Historical-Bond-Fraud.aspx</footnote> The DOT also warns against scams selling non-existent “limited edition” U.S. Treasury securities. The scam involves approaching broker-dealers and banks to act as fiduciaries for transactions. Further, the DOT notes: “The proposal to sell these fictitious securities makes misrepresentations about the way marketable securities are bought and sold, and it also misrepresents the role that we play in the original sale and issuance of our securities.”<footnote id="fs-idm391391632">U.S. Department of the Treasury. “Examples of Known Phony Securities.” April 5, 2013. https://www.treasury.gov/about/organizational-structure/ig/Pages/Scams/Examples-of-Known-Phony-Securities.aspx</footnote> Many fraudulent attempts are made to sell such bonds.</para>
+<para id="fs-idm411522352">According to <emphasis effect="italics">Business Insider</emphasis>, in the commonest scam, a fake bearer bond is offered for sale for far less than its stated cover price. The difference in the cost and the cover price entices the victim to buy the bond. Again, from <emphasis effect="italics">Business Insider</emphasis>: “Another variation is a flavor of the ‘Nigerian prince’ scheme; the fraudster will ask for the victim’s help in depositing a recently obtained ‘fortune’ in bonds, promising the victim a cut in return.”<footnote id="fs-idm410983136">Lawrence Delavigne. “Fake Bearer Bonds Were Just the Beginning of Huge Wave of Bond-Fraud.” <emphasis effect="italics">Business Insider</emphasis>. October 12, 2009. https://www.businessinsider.com/bond-fraud-is-on-the-rise-2009-10</footnote></para>
+<para id="fs-idm394263200">A diligent accountant is both educated about the investments of their company or organization and is skeptical about any investment that looks too good to be true.</para>
+</note>
+<note id="fs-idm395252240" class="your-turn">
+<title>Current versus Long-Term Liabilities</title>
+<para id="fs-idm402097888">Below is a portion of the 2017 Balance Sheet of <emphasis class="colored-text">Emerson, Inc.</emphasis> (shown in millions of dollars).<footnote id="fs-idm401388528">Emerson. <emphasis effect="italics">2017 Annual Report</emphasis>. Emerson Electric Company. 2017. https://www.emerson.com/documents/corporate/2017emersonannualreport-en-2883292.pdf</footnote> There are several observations we can make from this information.</para>
+<media id="fs-idm409952128" class="scaled-down" alt="Portion of Emerson, Inc. balance sheet. For 2016 and 2017, respectively: Current liabilities, short-term borrowings and current maturities of long-term debt: $2,584, 862; Long-term debt: 4,501, 3,794.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F13_01_Balance_img.jpg"/>
+</media>
+<para id="fs-idm358552272">Notice the company lists separately the Current Liabilities (listed as “Short-term borrowings and current maturities of long-term debt”) and Long-term Liabilities (listed as “Long-term debt”). Also, under the “Current liabilities” heading, notice the “Short-term borrowings and current maturities of long-term debt” decreased significantly from 2016 to 2017. In 2016, Emerson held $2.584 billion in short-term borrowings and current maturities of long-term debt. This amount decreased by $1.722 billion in 2017, which is a 67% decrease. During the same timeframe, long-term debt decreased $257 million, going from $4.051 billion to $3.794 billion, which is a 6.3% decrease.</para>
+<para id="fs-idm412252064">Thinking about the primary purpose of accounting, why do you think accountants separate liabilities into current liabilities and long-term liabilities?</para>
+<para id="fs-idm357481840"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm397914208">The primary purpose of accounting is to provide stakeholders with financial information that is useful for decision making. It is important for stakeholders to understand how much cash will be required to satisfy liabilities within the next year (liquidity) as well as how much will be required to satisfy long-term liabilities (solvency). Stakeholders, especially lenders and owners, are concerned with both liquidity and solvency of the business.</para>
+</note>
+</section>
+<section id="fs-idm820468144">
+<title>Fundamentals of Bonds</title>
+<para id="fs-idm819477424">Now let us look at bonds in more depth. A <term>bond</term> is a type of financial instrument that a company issues directly to investors, bypassing banks or other lending institutions, with a promise to pay the investor a specified rate of interest over a specified period of time. When a company borrows money by selling bonds, it is said the company is “issuing” bonds. This means the company exchanges cash for a promise to repay the cash, along with interest, over a set period of time. As you’ve learned, bonds are formal legal documents that contain specific information related to the bond. In short, it is a legal contract—called a <term class="no-emphasis">bond certificate</term> (as shown in <link target-id="OSX_Acct_F13_01_Bond02"/>) or an indenture—between the issuer (the business borrowing the money) and the lender (the investor lending the money). Bonds are typically issued in relatively small denominations, such as $1,000 so they can be placed in the market and are accessible to a greater market of investors compared to notes. The <term>bond indenture</term> is a contract that lists the features of the bond, such as the amount of money that will be repaid in the future, called the <term>principal</term> (also called <term class="no-emphasis">face value</term> or maturity value); the <term>maturity date</term>, the day the bond holder will receive the principal amount; and the <term>stated interest rate</term>, which is the rate of interest the issuer agrees to pay the bondholder throughout the term of the bond.</para>
+<figure id="OSX_Acct_F13_01_Bond02">
+<media id="fs-idm385098640" alt="Picture of a Bond Certificate for ABC Company, listing the Issue date as July 1, 2018, Maturity Date as 2023, Principle Amount $1,000, and Stated Interest rate 5 percent.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F13_01_Bond02.jpg"/>
+</media>
+<caption>Bond Certificate. If you bought this $1,000 bond on July 1, 2018 and received this bond certificate, it had three important pieces of information: the maturity date (June 30, 2023, 5 years from the issue date when the company will pay back the $1,000; the principal amount ($1,000) which is the amount you will receive in 2023; and the stated annual interest rate (5%) which they will use to determine how much cash to send you each year (0.05 × $1,000 = $50 interest a year for 5 years). (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm401327920">For a typical bond, the issuer commits to paying a stated interest rate either once a year (annually) or twice a year (semiannually). It is important to understand that the stated rate will not go up or down over the life of the bond. This means the borrower will pay the same semiannual or annual interest payment on the same dates for the life of the bond. In other words, when an investor buys a typical bond, the investor will receive, in the future, two major cash flows: periodic interest payments paid either annually or semiannually based on the stated rate of the bond, and the maturity value, which is the total amount paid to the owner of the bond on the maturity date.</para>
+<note id="fs-idm364016880" class="link-to-learning">
+<para id="fs-idm361751536">The website for the <link url="https://openstax.org/l/50Kiva">nonprofit Kiva</link> allows you to lend money to people around the world. The borrower makes monthly payments to pay the loan back. The companies <link url="https://openstax.org/l/50Prosper">Prosper</link> and <link url="https://openstax.org/l/50LendingClub">LendingClub</link> let you borrow or lend money to people in the U.S. who then make monthly payments, with interest, to pay it back.</para>
+</note>
+<para id="fs-idm806690624">The process of preparing a bond issuance for sale and then selling on the primary market is lengthy, complex, and is usually performed by underwriters—finance professionals who specialize in issuing bonds and other financial instruments. Here, we will only examine transactions concerning issuance, interest payments, and the sale of existing bonds.</para>
+<para id="fs-idm394418000">There are two other important characteristics of bonds to discuss. First, for most companies, the total value of bonds issued can often range from hundreds of thousands to several million dollars. The primary reason for this is that bonds are typically used to help finance significant long-term projects or activities, such as the purchase of equipment, land, buildings, or another company.</para>
+<note id="fs-idm418233728" class="concepts-practice">
+<title>Apple Inc. Issues Bonds</title>
+<para id="fs-idm378434336">On May 11, 2017, <emphasis class="colored-text">Apple Inc.</emphasis> issued bonds to get cash. <emphasis class="colored-text">Apple Inc.</emphasis> submitted a form to the Securities and Exchange Commission (www.sec.gov) to announce their intentions.</para>
+<media id="fs-idm365576480" alt="Apple Bonds Issued May 11, 2017. Maturity, Interest Rate, Bond Amount (respectively): 2020, Floating rate (variable), $500,000,000.00; 2022, Floating rate (variable), $750,000,000.00; 2020, 1.80 percent fixed, $1,000,000,000.00; 2022, 2.30 percent fixed, $1,000,000,000.00; 2024, 2.85 percent fixed, $1,750,000,000.00; 2027, 3.20 percent fixed, $2,000,000,000.00; Total Bond Amount $7,000,000,000.00.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F13_01_AppleBonds_img.jpg"/>
+</media>
+<para id="fs-idm686225024">On May 3 of the same year, <emphasis class="colored-text">Apple Inc.</emphasis> had issued their 10-Q (quarterly report) that showed the following assets.</para>
+<media id="fs-idm673845872" alt="Apple Inc., Consensed Consolidated Balance Sheets (Unaudited) (In millions, except number of shares which are reflected in thousands and par value): Assets, April 1, 2017, September 24, 2016; Current assets: Cash and cash equivlents $15,157, $20,484.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F13_01_BalSheet01_img.jpg"/>
+</media>
+<para id="fs-idm686151264"><emphasis class="colored-text">Apple Inc.</emphasis> reported it had $15 billion dollars in cash and a total of $101 billion in Current Assets. Why did it need to issue bonds to raise $7 billion more?</para>
+<para id="fs-idm647623152">Analysts suggested that <emphasis class="colored-text">Apple</emphasis> would use the cash to pay shareholder dividends. Even though <emphasis class="colored-text">Apple</emphasis> reported billions of dollars in cash, most of the cash was in foreign countries because that was where the products had been sold. Tax laws vary by country, but if <emphasis class="colored-text">Apple</emphasis> transferred the cash to a US bank account, they would have to pay US income tax on it, at a tax rate as high as 39%. So, <emphasis class="colored-text">Apple</emphasis> was much better off borrowing and paying 3.2% interest, which is tax deductible, than bringing the cash to the US and paying a 39% income tax.</para>
+<para id="fs-idm394143648">However, it’s important to remember that in the United States, Congress can change tax laws at any time, so what was then current tax law when this transaction occurred could change in the future.</para>
+</note>
+<para id="fs-idm418213600">The second characteristic of bonds is that bonds are often sold to several investors instead of to one individual investor.</para>
+<para id="fs-idm398097376">When establishing the stated rate of interest the business will pay on a bond, bond underwriters consider many factors, including the interest rates on government treasury bonds (which are assumed to be risk-free), rates on comparable bond offerings, and firm-specific factors related to the business’s risk (including its ability to repay the bond). The more likely the possibility that a company will default on the bond, meaning they either miss an interest payment or do not return the maturity amount to the bond’s owner when it matures, the higher the interest rate is on the bond. It is important to understand that the stated rate will not change over the life of any one bond once it is issued. However, the stated rate on future new bonds may change as economic circumstances and the company’s financial position changes.</para>
+<para id="fs-idm397732224">Bonds themselves can have different characteristics. For example, a <term>debenture</term> is an unsecured bond issued based on the good name and reputation of the company. These companies are not pledging other assets to cover the amount in case they fail to pay the debt, or <term>default</term>. The opposite of a debenture is a <term>secured bond</term>, meaning the company is pledging a specific asset as collateral for the bond. With a secured bond, if the company goes under and cannot pay back the bond, the pledged asset would be sold, and the proceeds would be distributed to the bondholders.</para>
+<para id="fs-idm361114304">There are <term>term bonds</term>, or single-payment bonds, meaning the entire bond will be repaid all at once, rather than in a series of payments. And there are <term>serial bonds</term>, or bonds that will mature over a period of time and will be repaid in a series of payments.</para>
+<para id="fs-idm406665232">A <term>callable bond</term> (also known as a <term class="no-emphasis">redeemable bond</term>) is one that can be repurchased or “called” by the issuer of the bond. If a company sells callable bonds with an 8% interest rate and the interest rate the bank is offering subsequently drops to 5%, the company can borrow at that new rate of 5%, call the 8% bonds, and pay them off (even if the purchaser does not want to sell them back). In essence, the institution would be lowering its rate of interest to borrow money from 8% to 5% by calling the bond.</para>
+<para id="fs-idm394648256"><term>Putable bonds</term> give the bondholder the right to decide whether to sell it back early or keep it until it matures. It is essentially the opposite of a callable bond.</para>
+<para id="fs-idm409185120">A <term>convertible bond</term> can be converted to common stock in a one-way, one-time conversion. Under what conditions would it make sense to convert? Suppose the face-value interest rate of the bond is 8%. If the company is doing well this year, such that there is an expectation that shareholders will receive a significant dividend and the stock price will rise, the stock might appear to be more valuable than the return on the bond.</para>
+<note id="fs-idm805825968" class="think-through">
+<title>Callable versus Putable Bonds</title>
+<para id="fs-idm355933696">Which type of bond is better for the corporation issuing the bond: callable or putable?</para>
+</note>
+<note id="fs-idm355909520" class="ethical-considerations">
+<title>Junk Bonds</title>
+<para id="fs-idm414252976">Junk bonds, which are also called speculative or high-yield bonds, are a specific type of bond that can be attractive to certain investors. On one hand, junk bonds are attractive because the bonds pay a rate of interest that is significantly higher than the average market rate. On the other hand, the bonds are riskier because the issuing company is deemed to have a higher risk of defaulting on the bonds. If the economy or the company’s financial condition deteriorates, the company will be unable to repay the money borrowed. In short, junk bonds are deemed to be high risk, high reward investments.</para>
+<para id="fs-idm664830016">The development of the junk bond market, which occurred during the 1970s and 1980s, is attributed to Michael Milken, the so-called “junk bond king.” Milken amassed a large fortune by using junk bonds as a means of financing corporate mergers and acquisitions. It is estimated that during the 1980s, Milken earned between $200 million and $550 million per year.<footnote id="fs-idm399562512">James Chen. “Micheal Milken.” January 22, 2018. https://www.investopedia.com/terms/m/michaelmilken.asp</footnote> In 1990, however, Milken’s winning streak came to an end when, according to the <emphasis effect="italics">New York Times</emphasis>, he was indicted on “98 counts of racketeering, securities fraud, mail fraud and other crimes.”<footnote id="fs-idm376002384">Kurt Eichenwald. “Milken Set to Pay a $600 Million Fine in Wall St. Fraud.” April 21, 1990. https://www.nytimes.com/1990/04/21/business/milken-set-to-pay-a-600-million-fine-in-wall-st-fraud.html?pagewanted=all</footnote> He later pleaded guilty to six charges, resulting in a 10-year prison sentence, of which he served two, and was as also forced to pay over $600 million in fines and settlements.<footnote id="fs-idm410579664">Michael Buchanan. “November 21, 1990, Michael Milken Sentenced to 10 Years for Security Law Violations.” November 20, 2011. http://reasonabledoubt.org/criminallawblog/entry/november-21-1990-michael-milken-sentenced-to-10-years-for-security-law-violations-today-in-crime-history-1</footnote></para>
+<para id="fs-idm815882560">Today, Milken remains active in philanthropic activities and, as a cancer survivor, remains committed to medical research.</para>
+</note>
+<section id="fs-idm393817952">
+<title>Pricing Bonds</title>
+<para id="fs-idm684910192">Imagine a concert-goer who has an extra ticket for a good seat at a popular concert that is sold out. The concert-goer purchased the ticket from the box office at its face value of $100. Because the show is sold out, the ticket could be resold at a premium. But what happens if the concert-goer paid $100 for the ticket and the show is not popular and does not sell out? To convince someone to purchase the ticket from her instead of the box office, the concert-goer will need to sell the ticket at a discount. Bonds behave in the same way as this concert ticket.</para>
+<para id="fs-idm809782976">Bond quotes can be found in the financial sections of newspapers or on the Internet on many financial websites. Bonds are quoted as a percentage of the bond’s maturity value. The percentage is determined by dividing the current market (selling) price by the maturity value, and then multiplying the value by 100 to convert the decimal into a percentage. In the case of a $30,000 bond discounted to $27,591.94 because of an increase in the market rate of interest, the bond quote would be $27,591.24/$30,000 × 100, or 91.9708. Using another example, a quote of 88.50 would mean that the bonds in question are selling for 88.50% of the maturity value. If an investor were considering buying a bond with a $10,000 maturity value, the investor would pay 88.50% of the maturity value of $10,000, or $8,850.00. If the investor was considering bonds with a maturity value of $100,000, the price would be $88,500. If the quote were over 100, this would indicate that the market interest rate has decreased from its initial rate. For example, a quote of 123.45 indicates that the investor would pay $123,450 for a $100,000 bond.</para>
+<para id="fs-idm674128368"><link target-id="OSX_Acct_F13_01_Bond03"/> shows a bond issued on July 1, 2018. It is a promise to pay the holder of the bond $1,000 on June 30, 2023, and 5% of $1,000 every year. We will use this bond to explore how a company addresses interest rate changes when issuing bonds.</para>
+<figure id="OSX_Acct_F13_01_Bond03">
+<media id="fs-idm373983632" alt="Picture of a Bond Certificate for ABC Company, listing the Issue date as July 1, 2018, Maturity Date as 2023, Principle Amount/Face Value/Maturity Amount as $1,000, and Stated Interest rate 5 percent of $1,000 paid annually.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F13_01_Bond03.jpg"/>
+</media>
+<caption>Bond Certificate. A bond certificate shows the terms of the bond. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm394973856">On this bond certificate, we see the following:</para>
+<list id="fs-idm406384704" list-type="bulleted" bullet-style="bullet">
+<item>The $1,000 principal or maturity value.</item>
+<item>The interest rate printed on the face of the bond is the stated interest rate, the contract rate, the face rate, or the <term>coupon rate</term>. This rate is the interest rate used to calculate the interest payment on bonds.</item>
+</list>
+</section>
+<section id="fs-idm412517040">
+<title>Issuing Bonds When the Contract and Market Rates Are the Same</title>
+<para id="fs-idm394523888">If the stated rate and the market rate are both 5%, the bond will be issued at <term>part value</term>, which is the value assigned to stock in the company’s charter, typically set at a very small arbitrary amount, which serves as legal capital; in our example, the part value is $1,000. The purchaser will give the company $1,000 today and will receive $50 at the end of every year for 5 years. In 5 years, the purchaser will receive the maturity value of the $1,000. The bond’s quoted price is 100.00. That is, the bond will sell at 100% of the $1,000 face value, which means the seller of the bond will receive (and the investor will pay) $1,000.00. You will learn the calculations used to determine a bond’s quoted price later; here, we will provide the quoted price for any calculations.</para><note id="fs-idm374196432" class="link-to-learning">
+<para id="fs-idm418493584">The Securities and Exchange Commission website <link url="https://openstax.org/l/50SECBonds">Investor.gov provides an explanation of corporate bonds</link> to learn more.</para>
+</note>
+</section>
+<section id="fs-idm395956048">
+<title>Issuing Bonds at a Premium</title>
+<para id="fs-idm413644512">The stated interest rate is not the only rate affecting bonds. There is also the market interest rate, also called the effective interest rate or bond yield. The amount of money that borrowers receive on the date the bonds are issued is influenced by the terms stated on the bond indenture <emphasis effect="italics">and</emphasis> on the market interest rate, which is the rate of interest that investors can earn on similar investments. The market interest rate is influenced by many factors external to the business, such as the overall strength of the economy, the value of the U.S. dollar, and geopolitical factors.</para>
+<para id="fs-idm390251312">This <term>market interest rate</term> is the rate determined by supply and demand, the current overall economic conditions, and the credit worthiness of the borrower, among other factors. Suppose that, while a company has been busy during the long process of getting its bonds approved and issued (it might take several months), the interest rate changed because circumstances in the market changed. At this point, the company cannot change the rate used to market the bond issue. Instead, the company might have to sell the bonds at a price that will be the equivalent of having a different stated rate (one that is equivalent to a market rate based on the company’s financial characteristics at the time of the issuance (sale) of the bonds).</para>
+<para id="fs-idm358679328">If the company offers 5% (the bond rate used to market the bond issue) and the market rate prior to issuance drops to 4%, the bonds will be in high demand. The company is scheduled to pay a higher interest rate than everyone else, so it can issue them for more than face value, or at a premium. In this example, where the stated interest rate is higher than the market interest rate, let’s say the bond’s quoted price is 104.46. That is, the bond will sell at 104.46% of the $1,000 face value, which means the seller of the bond will receive and the investor will pay $1,044.60.</para>
+</section>
+<section id="fs-idm407684544">
+<title>Issuing Bonds at a Discount</title>
+<para id="fs-idm410245248">Now let’s consider a situation when the company’s bonds prior to issuance are scheduled to pay 5% and the market rate jumps to 7% at issuance. No one will want to buy the bonds at 5% when they can earn more interest elsewhere. The company will have to sell the $1,000 bond for less than $1,000, or at a discount. In this example, where the stated interest rate is lower than the market interest rate, the bond’s quoted price is 91.80. That is, the bond will sell at 91.80% of the $1,000 face value, which means the seller of the bond will receive (and the investor will pay) $918.00.</para>
+</section>
+<section id="fs-idm399606480">
+<title>Sale of Bonds before Maturity</title>
+<para id="fs-idm394200400">Let’s look at bonds from the perspective of the issuer and the investor. As we previously discussed, bonds are often classified as long-term liabilities because the money is borrowed for long periods of time, up to 30 years in some cases. This provides the business with the money necessary to fund long-term projects and investments in the business. Due to unanticipated circumstances, the investors, on the other hand, may not want to wait up to 30 years to receive the maturity value of the bond. While the investor will receive periodic interest payments while the bond is held, investors may want to receive the current market value prior to the maturity date. Therefore, from the investor’s perspective, one of the advantages of investing in bonds is that they are typically easy to sell in the secondary market should the investor need the money before the maturity date, which may be many years in the future. The <term>secondary market</term> is an organized market where previously issued stocks and bonds can be traded after they are issued.</para>
+<para id="fs-idm635506752">If a bond sells on the secondary market after it has been issued, the terms of the bond (a particular interest rate, at a determined timeframe, and a given maturity value) do not change. If an investor buys a bond after it is issued or sells it before it matures, there is the possibility that the investor will receive more or less for the bond than the amount the bond was originally sold for. This change in value may occur if the market interest rate differs from the stated interest rate.</para>
+<note id="fs-idm357515376" class="continuing-application">
+<title>Debt Considerations for Grocery Stores</title>
+<para id="fs-idm390574384">Every company faces internal decisions when it comes to borrowing funds for improvements and/or expansions. Consider the improvements your local grocery stores have made over the past couple of years. Just like any large retail business, if grocery stores don’t invest in each property by adding services, upgrading the storefront, or even making more energy efficient changes, the location can fall out of popularity.</para>
+<para id="fs-idm407987328">Such investments require large amounts of capital infusion. The primary available investment funds for privately-owned grocery chains are bank loans or owners’ capital. This limitation often restricts the expansions or upgrades such a company can do at any one time. Publicly-traded grocery chains can also borrow funds from a bank, but other options, like issuing bonds or more stock can also help fund development. Thus publicly-traded grocery chains have more options to fund improvements and can therefore expand their share of the market more easily, unlike their private smaller counterparts who must decide what improvement is the most critical.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm395890224">
+<title>Fundamentals of Interest Calculation</title>
+<para id="fs-idm392152080">Since interest is paid on long-term liabilities, we now need to examine the process of calculating interest. Interest can be calculated in several ways, some more common than others. For our purposes, we will explore interest calculations using the simple method and the compounded method. Regardless of the method involved, there are three components that we need when calculating interest:</para>
+<list id="fs-idm644040352" list-type="enumerated" number-style="arabic">
+<item>Amount of money borrowed (called the principal).</item>
+<item>Interest rate for the time frame of the loan. Note that interest rates are usually stated in annual terms (e.g., 8% per year). If the timeframe is excluded, an annual rate should be assumed. Pay particular attention to how often the interest is to be paid because this will affect the rate used in the calculation:<newline/>
+<media id="fs-idm389982000" class="scaled-down" alt="Interest Rate equals Annual rate divided by Payments per period.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F13_01_Interest1_img.jpg"/>
+</media><newline/>
+For example, if the rate on a bond is 6% per year but the interest is paid semi-annually, the rate used in the interest calculation should be 3% because the interest applies to a 6-month timeframe (6% ÷ 2). Similarly, if the rate on a bond is 8% per year but the interest is paid quarterly, the rate used in the interest calculation should be 2% (8% ÷ 4).</item>
+<item>Time period for which we are calculating the interest.</item>
+</list>
+<para id="fs-idm389861264">Let’s explore simple interest first. We use the following formula to calculate interest in dollars:</para>
+<media id="fs-idm417493472" class="scaled-down" alt="Interest in $ equals Principal times Interest Rate times Time.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F13_01_Interest2_img.jpg"/>
+</media>
+<para id="fs-idm388966192"><emphasis effect="italics">Principal</emphasis> is the amount of money invested or borrowed, <emphasis effect="italics">interest rate</emphasis> is the interest rate paid or earned, and <emphasis effect="italics">time</emphasis> is the length of time the principal is borrowed or invested. Consider a bank deposit of $100 that remains in the account for 3 years, earning 6% per year with the bank paying simple interest. In this calculation, the interest rate is 6% a year, paid once at the end of the year. Using the interest rate formula from above, the interest rate remains 6% (6% ÷ 1). Using 6% interest per year earned on a $100 principal provides the following results in the first three years (<link target-id="OSX_Acct_F13_01_Interest01"/>):</para>
+<list id="fs-idm820474496" list-type="bulleted" bullet-style="bullet">
+<item>Year 1: The $100 in the bank earns 6% interest, and at the end of the year, the bank pays $6.00 in interest, making the amount in the bank account $106 ($100 principal + $6 interest).</item>
+<item>Year 2: Assuming we do not withdraw the interest, the $106 in the bank earns 6% interest on the principal ($100), and at the end of the year, the bank pays $6 in interest, making the total amount $112.</item>
+<item>Year 3: Again, assuming we do not withdraw the interest, $112 in the bank earns 6% interest on the principal ($100), and at the end of the year, the bank pays $6 in interest, making the total amount $118.</item>
+</list>
+<figure id="OSX_Acct_F13_01_Interest01" class="scaled-down">
+<media id="fs-idm635432144" alt="Year 1, 2, 3 (respectively): Initial investment, $100, $100, $100; Annual interest rate 6 percent, 0.06, 0.06, 0.06; Interest earned, $6.00, $6.00, $6.00; Add amount to date, $100.00 $106.00, $112.00; Total cash $106.00, $112.00, $118.00.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F13_01_Interest01.jpg"/>
+</media>
+<caption>Simple Interest. Simple interest earns money only on the principal. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm417047024">With simple interest, the amount paid is always based on the principal, not on any interest earned.</para>
+<para id="fs-idm388665968">Another method commonly used for calculating interest involves compound interest. <term>Compound interest</term> means that the interest earned also earns interest. <link target-id="OSX_Acct_F13_01_Interest02"/> shows the same deposit with compounded interest.</para>
+<figure id="OSX_Acct_F13_01_Interest02" class="scaled-down"><media id="fs-idm382081792" alt="Year 1, 2, 3 (respectively): Initial investment, $100.00, $106.00, $112.36; Annual interest rate 6 percent, 0.06, 0.06, 0.06; Interest earned, $6.00, $6.36, $6.74; Add amount to date $100.00 $106.00, $112.36; Total cash $106.00, $112.36, $119.10.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F13_01_Interest02.jpg"/>
+</media>
+
+<caption>Compound Interest. Compound interest earns money on the principal plus interest earned in a previous period. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption></figure><para id="fs-idm806895904">In this case, investing $100 today in a bank that pays 6% per year for 3 years with compound interest will produce $119.10 at the end of the three years, instead of $118.00, which was earned with simple interest.</para>
+<para id="fs-idm410805616">At this point, we need to provide an assumption we make in this chapter. Since financial institutions typically cannot deal in fractions of a cent, in calculations such as the above, we will round the final answer to the nearest cent, if necessary. For example, the final cash total at the end of the third year in the above example would be $119.1016. However, we rounded the answer to the nearest cent for convenience. In the case of a car or home loan, the rounding can lead to a higher or lower adjustment in your final payment. For example, you might finance a car loan by borrowing $20,000 for 48 months with monthly payments of $469.70 for the first 47 months and $469.74 for the final payment.</para>
+<note id="fs-idm394114624" class="link-to-learning">
+<para id="fs-idm391081616">Go to the <link url="https://openstax.org/l/50SECSaveBond">Securities and Exchange Commission website for an explanation of US Savings Bonds</link> to learn more.</para>
+</note>
+</section>
+<section id="fs-idm414519888" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm383652784" list-type="bulleted" bullet-style="bullet">
+<item>Businesses can obtain financing (cash) through profitable operations, issuing (selling) debt, and by selling ownership (equity).</item>
+<item>Notes payable and bonds payable are specific types of debt that businesses issue in order to generate financial capital.</item>
+<item>Liabilities are categorized as either current or noncurrent based on when the liability will be settled relative to the operating period of the business.</item>
+<item>A bond indenture is a legal document containing the principal amount, maturity date, stated interest rate and other requirements of the bond issuer.</item>
+<item>Bonds can be issued under different structures and include different features.</item>
+<item>Periodic interest payments are based on the amount borrowed, the interest rate, and the time period for which interest is calculated.</item>
+<item>Bond selling prices are determined by the market interest rate at the time of the sale and the stated interest rate of the bond.</item>
+<item>Bonds can be sold at face value, at a premium, or at a discount.</item>
+</list>
+</section>
+<section id="fs-idm390405600" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm394270016">
+<problem id="fs-idm395501952">
+<para id="fs-idm391245264"><link class="lo-reference" document="m67913"/>An amortization table ________.</para>
+<list id="fs-idm390589296" list-type="enumerated" number-style="upper-alpha">
+<item>breaks each payment into the amount that goes toward interest and the amount that goes toward the principal</item>
+<item>is a special table used in a break room to make people feel equitable</item>
+<item>separates time value of money tables into present value and future value</item>
+<item>separates time value of money tables into single amounts and streams of cash</item>
+</list>
+</problem>
+<solution id="fs-idm382099328">
+<para id="fs-idm390306352">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm417557472">
+<problem id="fs-idm406329776">
+<para id="fs-idm398226080"><link class="lo-reference" document="m67913"/>A debenture is ________.</para>
+<list id="fs-idm395510976" list-type="enumerated" number-style="upper-alpha">
+<item>the interest paid on a bond</item>
+<item>a type of bond that can be sold back to the issuing company whenever the bondholder wishes</item>
+<item>a bond with only the company’s word that they will pay it back</item>
+<item>a bond with assets such as land to back their word that they will pay it back</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm393594832">
+<problem id="fs-idm414526720">
+<para id="fs-idm388697056"><link class="lo-reference" document="m67913"/>The principal of a bond is ________.</para>
+<list id="fs-idm684669552" list-type="enumerated" number-style="upper-alpha">
+<item>the person who sold the bond for the company</item>
+<item>the person who bought the bond</item>
+<item>the interest rate printed on the front of the bond</item>
+<item>the face amount of the bond that will be paid back at maturity</item>
+</list>
+</problem>
+<solution id="fs-idm394381312">
+<para id="fs-idm805829776">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm397551472">
+<problem id="fs-idm412490048">
+<para id="fs-idm410170768"><link class="lo-reference" document="m67913"/>A convertible bond can be converted into ________.</para>
+<list id="fs-idm412986048" list-type="enumerated" number-style="upper-alpha">
+<item>preferred stock</item>
+<item>common stock and then converted into preferred stock</item>
+<item>common stock of a different company</item>
+<item>common stock of the company</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm398054224">
+<problem id="fs-idm373322464">
+<para id="fs-idm397946928"><link class="lo-reference" document="m67913"/>On January 1, a company issued a 5-year $100,000 bond at 6%. Interest payments on the bond of $6,000 are to be made annually. If the company received proceeds of $112,300, how would the bond’s issuance be quoted?</para>
+<list id="fs-idm680141056" list-type="enumerated" number-style="upper-alpha">
+<item>1.123</item>
+<item>112.30</item>
+<item>0.890</item>
+<item>89.05</item>
+</list>
+</problem>
+<solution id="fs-idm395221456">
+<para id="fs-idm406835088">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm410457248">
+<problem id="fs-idm405177488">
+<para id="fs-idm410903824"><link class="lo-reference" document="m67913"/>On July 1, a company sells 8-year $250,000 bonds with a stated interest rate of 6%. If interest payments are paid annually, each interest payment will be ________.</para>
+<list id="fs-idm806610384" list-type="enumerated" number-style="upper-alpha">
+<item>$120,000</item>
+<item>$60,000</item>
+<item>$7,500</item>
+<item>$15,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm647620752">
+<problem id="fs-idm414840912">
+<para id="fs-idm390266656"><link class="lo-reference" document="m67913"/>On January 1 a company issues a $75,000 bond that pays interest semi-annually. The first interest payment of $1,875 is paid on July 1. What is the stated annual interest rate on the bond?</para>
+<list id="fs-idm397688768" list-type="enumerated" number-style="upper-alpha">
+<item>5.00%</item>
+<item>2.50%</item>
+<item>1.25%</item>
+<item>10.00%</item>
+</list>
+</problem>
+<solution id="fs-idm401366112">
+<para id="fs-idm390760896">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm397337360">
+<problem id="fs-idm417422752">
+<para id="fs-idm360016144"><link class="lo-reference" document="m67913"/>On October 1 a company sells a 3-year, $2,500,000 bond with an 8% stated interest rate. Interest is paid quarterly and the bond is sold at 89.35. On October 1 the company would collect ________.</para>
+<list id="fs-idm388235696" list-type="enumerated" number-style="upper-alpha">
+<item>$200,000</item>
+<item>$558,438</item>
+<item>$2,233,750</item>
+<item>$6,701,250</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm412331696">
+<problem id="fs-idm409256048">
+<para id="fs-idm390390096"><link class="lo-reference" document="m67913"/>On April 1 a company sells a 5-year, $60,000 bond with a 7% stated interest rate. The market interest on that day was also 7%. If interest is paid quarterly, the company makes interest payments of ________.</para>
+<list id="fs-idm686069248" list-type="enumerated" number-style="upper-alpha">
+<item>$1,050</item>
+<item>$3,150</item>
+<item>$4,200</item>
+<item>$5,250</item>
+</list>
+</problem>
+<solution id="fs-idm660246944">
+<para id="fs-idm415258704">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm416889808" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm374299936">
+<problem id="fs-idm390591440">
+<para id="fs-idm393225232"><link class="lo-reference" document="m67913"/>What is the difference between callable and putable bonds?</para>
+</problem>
+<solution id="fs-idm372988288">
+<para id="fs-idm391879392">Callable bonds can be bought back by the issuing company whenever they want to, but putable bonds can be cashed in by the holder whenever the holder wants to.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm404742864">
+<problem id="fs-idm399541296">
+<para id="fs-idm408896384"><link class="lo-reference" document="m67913"/>What is the difference between serial bonds and term bonds?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm373616544">
+<problem id="fs-idm673849104">
+<para id="fs-idm405095840"><link class="lo-reference" document="m67913"/>What is a junk bond?</para>
+</problem>
+<solution id="fs-idm820362896">
+<para id="fs-idm393579696">A junk bond is typically titled as a high-yield bond; it sounds less unfavorable than junk. Its rating is below what is typically expected for investment-grade bonds. Investors and speculators might buy these bonds because if they don’t default, the rate of return could be significantly higher than investment grade bonds. However, the possibility of the bonds defaulting and neither paying the interest nor principle at maturity is higher than with investment-grade bonds.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm412296944">
+<problem id="fs-idm409085984">
+<para id="fs-idm374004240"><link class="lo-reference" document="m67913"/>How are savings bonds different from a corporate bond?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm388239296">
+<problem id="fs-idm389797904">
+<para id="fs-idm372908576"><link class="lo-reference" document="m67913"/>What do you have to do to the interest rate and years of maturity if a bond pricing problem tells you that interest is compounded quarterly?</para>
+</problem>
+<solution id="fs-idm415957824">
+<para id="fs-idm372966320">In bond pricing problems, if the interest compounds more than one a year, divide the interest rate by the number of compounding periods per year, and multiply the number of years by the number of compounding periods per year. If it is paid quarterly, divide the interest rate by 4 and multiply the number of years by 4.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm357408240" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm394300928">
+<problem id="fs-idm404905696">
+<para id="fs-idm381999136"><link class="lo-reference" document="m67913"/>Halep Inc. borrowed $30,000 from Davis Bank and signed a 4-year note payable stating the interest rate was 4% compounded annually. Halep Inc. will make payments of $8,264.70 at the end of each year. Prepare an amortization table showing the principal and interest in each payment.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm409131200">
+<problem id="fs-idm393188928">
+<para id="fs-idm397726384"><link class="lo-reference" document="m67913"/>Beluga Inc. issued 10-year bonds with a face value of $100,000 and a stated rate of 3% when the market rate was 4%. Interest was paid annually. The bonds were sold at 87.5. What was the sales price of the bonds? Were they issued at a discount, a premium, or at par?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm366770256">
+<problem id="fs-idm404748944">
+<para id="fs-idm399353616"><link class="lo-reference" document="m67913"/>Krystian Inc. issued 10-year bonds with a face value of $100,000 and a stated rate of 4% when the market rate was 6%. Interest was paid semi-annually. Calculate and explain the timing of the cash flows the purchaser of the bonds (the investor) will receive throughout the bond term. Would an investor be willing to pay more or less than face value for this bond?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm403226288">
+<problem id="fs-idm674057184">
+<para id="fs-idm391100080"><link class="lo-reference" document="m67913"/>On January 1, 2018, Wawatosa Inc. issued 5-year bonds with a face value of $200,000 and a stated interest rate of 12% payable semi-annually on July 1 and January 1. The bonds were sold to yield 10%. Assuming the bonds were sold at 107.732, what is the selling price of the bonds? Were they issued at a discount or a premium?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm405106240" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm390367744">
+<problem id="fs-idm359796240">
+<para id="fs-idm401376576"><link class="lo-reference" document="m67913"/>Sharapovich Inc. borrowed $50,000 from Kerber Bank and signed a 5-year note payable stating the interest rate was 5% compounded annually. Sharapovich Inc. will make payments of $11,548.74 at the end of each year. Prepare an amortization table showing the principal and interest in each payment.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm397656816">
+<problem id="fs-idm402920000">
+<para id="fs-idm390356240"><link class="lo-reference" document="m67913"/>Waylan Sisters Inc. issued 3-year bonds with a par value of $100,000 and a 6% annual coupon when the market rate of interest was 5%. If the bonds sold at 102.438, how much cash did Williams Sisters Inc. receive from issuing the bonds?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm397895072">
+<problem id="fs-idm414138080">
+<para id="fs-idm396096256"><link class="lo-reference" document="m67913"/>Smashing Cantaloupes Inc. issued 5-year bonds with a par value of $35,000 and an 8% semi-annual coupon (payable June 30 and December 31) on January 1, 2018, when the market rate of interest was 10%. Were the bonds issued at a discount or premium? Assuming the bonds sold at 92.288, what was the sales price of the bonds?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm408873632">
+<problem id="fs-idm416099808">
+<para id="fs-idm394234720"><link class="lo-reference" document="m67913"/>Chung Inc. issued $50,000 of 3-year bonds on January 1, 2018, with a stated rate of 4% and a market rate of 4%. The bonds paid interest semi-annually on June 30 and Dec. 31. How much money did the company receive when the bonds were issued? The bonds would be quoted at what rate?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm366798400" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm408475424">
+<problem id="fs-idm413427360">
+<para id="fs-idm365903296"><link class="lo-reference" document="m67915"/>On January 1, 2018, King Inc. borrowed $150,000 and signed a 5-year, note payable with a 10% interest rate. Each annual payment is in the amount of $39,569 and payment is due each Dec. 31. What is the journal entry on Jan. 1 to record the cash received and on Dec. 31 to record the annual payment? (You will need to prepare the first row in the amortization table to determine the amounts.)</para>
+</problem>
+</exercise>
+<exercise id="fs-idm414498608">
+<problem id="fs-idm385121472">
+<para id="fs-idm638468736"><link class="lo-reference" document="m67913"/>On July 1, Somerset Inc. issued $200,000 of 10%, 10-year bonds when the market rate was 12%. The bonds paid interest semi-annually. Assuming the bonds sold at 58.55, what was the selling price of the bonds? Explain why the cash received from selling this bond is different from the $200,000 face value of the bond.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm402988928" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm395438832">
+<problem id="fs-idm414410880">
+<para id="fs-idm373027104"><link class="lo-reference" document="m67915"/>Sub-Cinema Inc. borrowed $10,000 on Jan. 1 and will repay the loan with 12 equal payments made at the end of the month for 12 months. The interest rate is 12% annually. If the monthly payments are $888.49, what is the journal entry to record the cash received on Jan. 1 and the first payment made on Jan. 31?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm416453040">
+<problem id="fs-idm400689392">
+<para id="fs-idm393814000"><link class="lo-reference" document="m67913"/>Charleston Inc. issued $200,000 bonds with a stated rate of 10%. The bonds had a 10-year maturity date. Interest is to be paid semi-annually and the market rate of interest is 8%. If the bonds sold at 113.55, what amount was received upon issuance?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm391701088" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm410403632">
+<problem id="fs-idm408898448">
+<para id="fs-idm393859488"><link class="lo-reference" document="m67913"/>It is somewhat difficult to find current quotes on corporate bonds, but one source is the Financial Industry Regulatory Authority. Using the link http://finra-markets.morningstar.com/BondCenter/Default.jsp, click on the “Search” tab. Make sure “Bond Type” is set to “Corporate” and enter “Nike” in the “Issuer Name” field and hit enter.</para>
+<para id="fs-idm409747024">Write a brief summary explaining the results, including an explanation of each of the fields. Assume that an investor purchases a $1,000 bond and interest payments are made semi-annually. Be sure to include the price the investor would pay for the bond.</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm378488768">
+<term>bond</term>
+<meaning id="fs-idm397495952">type of financial instrument that a company issues directly to investors, bypassing banks or other lending institutions, with a promise to pay the investor a specified rate of interest over a specified period of time</meaning>
+</definition>
+<definition id="fs-idm406288000">
+<term>bond indenture</term>
+<meaning id="fs-idm389025552">contract that lists the features of the bond, such as the principal, the maturity date, and the interest rate</meaning>
+</definition>
+<definition id="fs-idm414551232">
+<term>callable bond</term>
+<meaning id="fs-idm395476464">(also, redeemable bond) bond that can be repurchased or “called” by the issuer of the bond before its due date</meaning>
+</definition>
+<definition id="fs-idm393136784">
+<term>compound interest</term>
+<meaning id="fs-idm406850592">in a loan, when interest earned also earns interest</meaning>
+</definition>
+<definition id="fs-idm407972000">
+<term>convertible bond</term>
+<meaning id="fs-idm410462064">bond that can be converted into common stock at the option of the bond holder</meaning>
+</definition>
+<definition id="fs-idm398237136">
+<term>coupon rate</term>
+<meaning id="fs-idm416394016">(also, stated interest rate or face rate) interest rate printed on the certificate, used to determine the amount of interest paid to the holder of the bond</meaning>
+</definition>
+<definition id="fs-idm388305184">
+<term>debenture</term>
+<meaning id="fs-idm400850160">bond backed by the general credit worthiness of a company rather than specific assets</meaning>
+</definition>
+<definition id="fs-idm395329184">
+<term>default</term>
+<meaning id="fs-idm659258288">failure to pay a debt as promised</meaning>
+</definition>
+<definition id="fs-idm681509568">
+<term>interest-only loan</term>
+<meaning id="fs-idm355739536">type of loan that only requires regular interest payments with all the principal due at maturity</meaning>
+</definition>
+<definition id="fs-idm391764288">
+<term>long-term liability</term>
+<meaning id="fs-idm389837648">debt settled outside one year or one operating cycle, whichever is longer</meaning>
+</definition>
+<definition id="fs-idm415860832">
+<term>market interest rate</term>
+<meaning id="fs-idm409773888">(also, effective interest rate) rate determined by supply and demand and by the credit worthiness of the borrower</meaning>
+</definition>
+<definition id="fs-idm394212896">
+<term>maturity date</term>
+<meaning id="fs-idm410194336">date a bond or note becomes due and payable</meaning>
+</definition>
+<definition id="fs-idm417378112">
+<term>maturity value</term>
+<meaning id="fs-idm407713088">amount to be paid at the maturity date</meaning>
+</definition>
+<definition id="fs-idm410844080">
+<term>note payable</term>
+<meaning id="fs-idm402914176">legal document between a borrower and a lender specifying terms of a financial arrangement; in most situations, the debt is long-term</meaning>
+</definition>
+<definition id="fs-idm408920112">
+<term>par value</term>
+<meaning id="fs-idm406494848">value assigned to stock in the company’s charter, typically set at a very small arbitrary amount; serves as legal capital</meaning>
+</definition>
+<definition id="fs-idm819466848">
+<term>principal</term>
+<meaning id="fs-idm409716016">face value or maturity value of a bond (the amount to be paid at maturity); also, initial borrowed amount of a loan, not including interest</meaning>
+</definition>
+<definition id="fs-idm374308656">
+<term>promissory note</term>
+<meaning id="fs-idm673917552">represents a personal loan agreement that is a formal contract between a lender and borrower</meaning>
+</definition>
+<definition id="fs-idm365533152">
+<term>putable bond</term>
+<meaning id="fs-idm351408528">bond that give the bondholder the right to decide whether to sell it back early or keep it until it matures</meaning>
+</definition>
+<definition id="fs-idm639293904">
+<term>secondary market</term>
+<meaning id="fs-idm352529680">organized market where previously issued stocks and bonds can be traded after they are issued</meaning>
+</definition>
+<definition id="fs-idm636774096">
+<term>secured bond</term>
+<meaning id="fs-idm383724096">bond backed by specific assets as collateral for the bond</meaning>
+</definition>
+<definition id="fs-idm365904096">
+<term>serial bond</term>
+<meaning id="fs-idm375979360">bond that will mature over a period of time and will be repaid in a series of payments</meaning>
+</definition>
+<definition id="fs-idm374219808">
+<term>stated interest rate</term>
+<meaning id="fs-idm807467984">(also, contract interest rate) interest rate printed on the face of the bond that the issuer agrees to pay the bondholder throughout the term of the bond; also known as the <emphasis effect="italics">coupon rate</emphasis> and <emphasis effect="italics">face rate</emphasis></meaning>
+</definition>
+<definition id="fs-idm397341184">
+<term>term bond</term>
+<meaning id="fs-idm398259392">bond that will be repaid all at once, rather than in a series of payments</meaning>
+</definition>
+</glossary>
+</document>

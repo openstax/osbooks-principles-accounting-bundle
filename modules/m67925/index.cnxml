@@ -1,0 +1,224 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Prepare Journal Entries to Record the Admission and Withdrawal of a Partner</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67925</md:content-id>
+  <md:title>Prepare Journal Entries to Record the Admission and Withdrawal of a Partner</md:title>
+  <md:abstract/>
+  <md:uuid>b0c11bae-b72d-4d7c-a2ab-099312524ff9</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm213625952">So far we have demonstrated how to create a partnership, distribute the income or loss, and calculate income distributed at the end of the year after salaries have been paid. Acorn Lawn &amp; Hardscapes has been doing well, but what if the opportunity arises to add another partner to handle more business? Or what happens if one partner wants to leave the partnership or sell his or her interest to someone else? This section will discuss those situations.</para>
+<section id="fs-idm500397232">
+<title>Admission of New Partner</title>
+<para id="fs-idm195896704">There are two ways for a new partner to join a partnership. In both, a new partnership agreement should be drawn up because the existing partnership will come to an end.</para>
+<list id="fs-idm212312224" list-type="enumerated" number-style="arabic">
+<item>The new partner can invest cash or other assets into an existing partnership while the current partners remain in the partnership.</item>
+<item>The new partner can purchase all or part of the interest of a current partner, making payment directly to the partner and not to the partnership. If the new partner buys an existing partner’s entire interest, the existing partner leaves the partnership.</item>
+</list>
+<para id="fs-idm501431760">The new partner’s investment, share of ownership capital, and share of the net income or loss are all negotiated in the process of developing the new partnership agreement. Based on how a partner is admitted, oftentimes the admission can create a situation to be illustrated called a bonus to those in the partnership. A <term>bonus</term> is the difference between the value of a partner’s capital account and the cash payment made at the time of that partner’s or another partner’s withdrawal.</para>
+<section id="fs-idm215648704">
+<title>Admission of New Partner—No Bonus</title>
+<para id="fs-idm196835120">Whenever a new partner is admitted to the partnership, a new capital account must be opened for him or her. This will allow the partnership to reflect the new members of the partnership.</para>
+<para id="fs-idm217996816">The purchase of an existing partner’s ownership by a new partner is a personal transaction that involves the existing partner and the new partner without otherwise affecting the records of the partnership. Accounting for this method is very straightforward. The only changes that are recorded on the partnership’s books occur in the two partners’ capital accounts. The existing partner’s capital account is debited and, after being created, the new partner’s capital account is credited.</para>
+<para id="fs-idm195461904">To illustrate, Dale decides to sell his interest in Acorn Lawn &amp; Hardscapes to Remi. Since this is a personal transaction, the only entry Acorn needs to make is to record the transfer of partner interest from Dale to Remi on its books.</para>
+<media id="fs-idm215011520" alt="Journal entry dated January 1, 2021. Debit Dale, Capital 55,000. Credit Remi, Capital 55,000. Explanation: “To record transfer of partner interest.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F15_04_Journ01_img.jpg"/>
+</media>
+<para id="fs-idm210241456">No other entry needs to be made. Note that the entry is a paper transfer—it is to move the balance in the capital account. The amount paid by Remi to Dale does not affect this entry.</para>
+<para id="fs-idm231566016">If instead the new partner invests directly into the partnership, the change increases the assets of the partnership as well as the capital accounts. Suppose that, instead of buying Dale’s interest, Remi will join Dale and Ciara in the partnership. The following journal entry will be made to record the admission of Remi as a partner in Acorn Lawn &amp; Hardscapes.</para>
+<media id="fs-idm186182976" alt="Journal entry dated January 1, 2021. Debit Cash 55,000. Credit Remi, Capital 55,000. Explanation: “To record new partner investment.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F15_04_Journ02_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm229774832">
+<title>Admission of New Partner—Bonus to Old Partners</title>
+<para id="fs-idm214140288">A bonus to the old partners can come about when the new partner’s investment in the partnership creates an inequity in the capital of the new partnership, such as when a new partner’s capital account is not proportionate to that of a previous partner. Because a change in ownership of a partnership produces a new partnership agreement, a bonus may be used to record the change in the ownership capital to prevent inequities among the partners.</para>
+<para id="fs-idm213821088">A bonus to the old partner or partners increases (or credits) their capital balances. The amount of the increase depends on the income ratio before the new partner’s admission.</para>
+<para id="fs-idm216547840">As an illustration, Remi is a skilled machine operator who will aid Acorn Lawn &amp; Hardscapes in the building of larger projects. Assume the following information (<link target-id="OSX_Acct_F15_04_Bonus01"/>) for the partnership on the day Remi becomes a partner.</para>
+<figure id="OSX_Acct_F15_04_Bonus01">
+<media id="fs-idm210182784" alt="Total capital of Acorn Lawn &amp; Hardscapes $100,000. Investment by new partner, Remi 65,000. Total capital of new partnership 165,000. Remi’s capital credit (one-third of $165,000) 55,000. Total bonus to Dale and Ciara 10,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F15_04_Bonus01.jpg"/>
+</media>
+<caption>Breakdown of Allocation of Bonus to Old Partners. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm236540240">To allocate the $10,000 bonus to the old partners, Dale and Ciara, make the following calculations:</para>
+<equation id="fs-idm230698400" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mtext>Dale:</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>$</m:mtext><m:mn>10,000</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>50</m:mn><m:mtext>%</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mtext>$</m:mtext><m:mn>5,000</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mtext>Ciara:</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>$</m:mtext><m:mn>10,000</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>50</m:mn><m:mtext>%</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mtext>$</m:mtext><m:mn>5,000</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm210130144">The journal entry to record Remi’s admission to the partnership and the allocation of the bonus to Dale and Ciara is as shown.</para>
+<media id="fs-idm210575888" alt="Journal entry dated January 1, 2021. Debit Cash 65,000. Credit Dale, Capital 5,000; Ciara, Capital 5,000; Remi, Capital 55,000. Explanation: “To record bonus to old partners.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F15_04_Journ03_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm236546832">
+<title>Admission of New Partner—Bonus to New Partner</title>
+<para id="fs-idm201195792">When the new partner’s investment may be less than his or her capital credit, a bonus to the new partner may be considered. Sometimes the partnership is more interested in the skills the new partner possesses than in any assets brought to the business. For instance, the new partner may have expertise in a particular field that would be beneficial to the partnership, or the new partner may be famous and can draw attention to the partnership as a result. This frequently happens with restaurants; many are named after sports celebrity partners. A bonus to a newly admitted partner can also occur when the book values of assets currently on the partnership’s books have a higher value than their fair market values.</para>
+<para id="fs-idm216585040">A bonus to a new admitted partner decreases (or debits) the capital balances of the old partners. The amount of the decrease depends on the income ratio defined by the old partnership agreement in place before the new partner’s admission.</para>
+<para id="fs-idm216520144">In our landscaping business example, suppose Remi receives a bonus based on his skills as a machine operator. Assume the following information (<link target-id="OSX_Acct_F15_04_Bonus02"/>) for the partnership on the day he becomes a partner.</para>
+<figure id="OSX_Acct_F15_04_Bonus02" class="scaled-down">
+<media id="fs-idm236773296" alt="Total capital of Acorn Lawn &amp; Hardscapes $110,000. Investment by new partner, Remi 40,000. Total capital of new partnership 150,000. Remi’s capital credit (one-third of $150,000) 50,000. Total bonus to Remi 10,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F15_04_Bonus02.jpg"/>
+</media>
+<caption>Breakdown of Allocation of Bonus to New Partner. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm196751600">To allocate the $10,000 bonus that each of the old partners will contribute to the new partner, Remi, make the following calculations.</para>
+<equation id="fs-idm221267856" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mtext>Dale:</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>$10,000</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>50%</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>$5,000</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mtext>Ciara:</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>$10,000</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>50%</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>$5,000</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm235733472">The journal entry to record Remi’s admission and the payment of his bonus in the partnership records is as follows:</para>
+<media id="fs-idm220501808" alt="Journal entry dated January 1, 2021. Debit Cash 40,000; Dale, Capital 5,000; Ciara, Capital 5,000. Credit Remi, Capital 50,000. Explanation: “To record payment of bonus from old partners to new partner.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F15_04_Journ04_img.jpg"/>
+</media>
+</section>
+</section>
+<section id="fs-idm225388960">
+<title>Withdrawal of Partner</title>
+<para id="fs-idm213775088">Now, let’s explore the opposite situation—when a partner withdraws from a partnership. Partners may withdraw by selling their equity in the business, through retirement, or upon death. The withdrawal of a partner, just like the admission of a new partner, dissolves the partnership, and a new agreement must be reached. As with a new partner, only the economic effect of the change in ownership is reflected on the books.</para>
+<para id="fs-idm229083536">When existing partners buy out a retiring partner, the case is the opposite of admitting a new partner, but the transaction is similar. The existing partners use personal assets to acquire the withdrawing partner’s equity and, as a result, the partnership’s assets are not affected. The only effect in the partnership’s records is the change in capital accounts. For example, assume that, after much discussion, Dale is ready to retire. Each partner has capital account balances of $60,000. Ciara and Remi agree to pay Dale $30,000 each to close out his partnership account. To record the withdrawal of Dale from the partnership, the journal entry is as follows:</para>
+<media id="fs-idm234553824" alt="Journal entry dated January 1, 2021. Debit Dale, Capital 60,000. Credit Ciara, Capital 30,000; Remi Capital, 30,000. Explanation: “To record withdrawal of a partner.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F15_04_Journ05_img.jpg"/>
+</media>
+<para id="fs-idm202944752">Note that there is no change to the net assets of Acorn Lawn &amp; Hardscapes—only a change in the capital accounts. Ciara and Remi now have to create a new partnership agreement to reflect their new situation.</para>
+<section id="fs-idm229948144">
+<title>Partnership Buys Out Withdrawing Partner</title>
+<para id="fs-idm220426672">When a partnership buys out a withdrawing partner, the terms of the buy-out should follow the partnership agreement. Using partnership assets to pay for a withdrawing partner is the opposite of having a new partner invest in the partnership. In accounting for the withdrawal by payment from partnership assets, the partnership should consider the difference, if any, between the agreed-upon buy-out dollar amount and the balance in the withdrawing partner’s capital account. That difference is a bonus to the retiring partner.</para>
+<para id="fs-idm238542576">This situation occurs when:</para>
+<list id="fs-idm225435792" list-type="enumerated" number-style="arabic">
+<item>The partnership’s fair market value of assets exceeds the book value.</item>
+<item>Goodwill resulting from the partnership has not been accounted for.</item>
+<item>The remaining partners urgently want the withdrawing partner to exit or want to show their appreciation of the partner’s contributions.</item>
+</list>
+<para id="fs-idm214362000">The partnership debits (or reduces) the bonus from the remaining partners’ capital balances on the basis of their income ratio at the time of the buy-out. To illustrate, Acorn Lawn &amp; Hardscapes is appreciative of the hard work that Dale has put into its success and would like to pay him a bonus. Dale, Ciara, and Remi each have capital account balances of $60,000 at the time of Dale’s retirement. Acorn Lawn &amp; Hardscapes intends to pay Dale $80,000 for his interest. Ciara and Remi will do this as follows:</para>
+<list id="fs-idm209196736" list-type="enumerated" number-style="arabic">
+<item>Calculate the amount of the bonus. This is done by subtracting Dale’s capital account balance from the cash payment: ($80,000 – $60,000) = $20,000.</item>
+<item>Allocate the cost of the bonus to the remaining partners on the basis of their income ratio. This calculation comes to $10,000 each for Ciara and Remi ($20,000 × 50%).</item>
+</list>
+<para id="fs-idm220478896">The journal entry to record Dale’s retirement from the partnership and the bonus payment to reflect his withdrawal is as shown:</para>
+<media id="fs-idm211212608" alt="Journal entry dated January 1, 2021. Debit Dale, Capital 60,000; Ciara, Capital 10,000; Remi, Capital 10,000. Credit Cash 80,000. Explanation: “To record retirement of a partner with a bonus payment.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F15_04_Journ06_img.jpg"/>
+</media>
+<para id="fs-idm216851104">In some cases, the retiring partner may give a bonus to the remaining partners. This can happen when:</para>
+<list id="fs-idm216810528" list-type="enumerated" number-style="arabic">
+<item>Recorded assets are overvalued.</item>
+<item>The partnership is not performing well.</item>
+<item>The partner urgently wants to leave the partnership</item>
+</list>
+<para id="fs-idm214952544">In these cases, the cash paid by the partnership to the retiring partner is less than the balance in his or her capital account. As a result, the other partners receive a bonus to their capital accounts based on the income-sharing ratio established prior to the withdrawal.</para>
+<para id="fs-idm176976208">As an example, each of three partners of Acorn Lawn &amp; Hardscapes has a capital balance of $60,000. Dale has another opportunity and is eager to move on. He is willing to accept $50,000 cash in order to retire. The difference between this cash amount and Dale’s capital account is a bonus to the remaining partners. The bonus will be allocated to Ciara and Remi based on the income ratio at the time of Dale’s departure.</para>
+<para id="fs-idm209853632">The journal entry to record Dale’s withdrawal and the bonus to Ciara and Remi is as shown:</para>
+<media id="fs-idm235629680" alt="Journal entry dated January 1, 2021. Debit Dale, Capital 60,000. Credit Cash 50,000; Ciara, Capital 5,000; Remi, Capital 5,000. Explanation: “To record withdrawal of a partner and a bonus payment to remaining partners.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F15_04_Journ07_img.jpg"/>
+</media>
+<para id="fs-idm223184848">When a partner passes away, the partnership dissolves. Most partnership agreements have provisions for the surviving partners to continue operating the partnership. Typically, a valuation is performed at the date of death, and the remaining partners settle with the deceased partner’s estate either directly with cash or through distribution of the partnership’s assets.</para>
+</section>
+</section>
+<section id="fs-idm216809952" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm178531536" list-type="bulleted" bullet-style="bullet">
+<item>There are two different methods for admitting a new partner to a partnership—direct investment to the partnership (affects partnership assets) and transaction among partners (does not affect partnership assets).</item>
+<item>There are two different methods for a partner to withdraw from a partnership—direct payment from the partnership and direct payment from the partners.</item>
+</list>
+</section>
+<section id="fs-idm219731472" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm216815104">
+<problem id="fs-idm226134496">
+<para id="fs-idm214193888"><link class="lo-reference" document="m67925"/>Thandie and Marco are partners with capital balances of $60,000. They share profits and losses at 50% each. Chris contributes $30,000 to the partnership for a 1/3 share. What amount should the partnership record as a bonus to Chris?</para>
+<list id="fs-idm222114192" list-type="enumerated" number-style="upper-alpha">
+<item>$20,000</item>
+<item>$15,000</item>
+<item>$10.500</item>
+<item>$5,000</item>
+</list>
+</problem>
+<solution id="fs-idm216551104">
+<para id="fs-idm186399968">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm226747616">
+<problem id="fs-idm211361856">
+<para id="fs-idm222158176"><link class="lo-reference" document="m67925"/>Thandie and Marco are partners with capital balances of $60,000. They share profits and losses at 50%. Chris contributes $30,000 to the partnership for a 1/3 share. What amount should Thandie’s capital balance in the partnership be?</para>
+<list id="fs-idm237736320" list-type="enumerated" number-style="upper-alpha">
+<item>$60,000</item>
+<item>$50,000</item>
+<item>$45,000</item>
+<item>$30,000</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm237260336">
+<problem id="fs-idm229193440">
+<para id="fs-idm234750272"><link class="lo-reference" document="m67925"/>Thandie and Marco are partners with capital balances of $60,000. They share profits and losses at 50%. Chris contributes $90,000 to the partnership for a 1/3 share. What amount should the partnership record as an individual bonus to each of the old partners?</para>
+<list id="fs-idm235535056" list-type="enumerated" number-style="upper-alpha">
+<item>$10,000</item>
+<item>$7,000</item>
+<item>$3,000</item>
+<item>$20,000</item>
+</list>
+</problem>
+<solution id="fs-idm197384720">
+<para id="fs-idm223695008">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm195907712">
+<problem id="fs-idm186370096">
+<para id="fs-idm212434288"><link class="lo-reference" document="m67925"/>Thandie and Marco are partners with capital balances of $60,000. They share profits and losses at 50%. Chris contributes $60,000 to the partnership for a 1/3 share. What amount should the partnership record as an individual bonus to each of the old partners?</para>
+<list id="fs-idm200109168" list-type="enumerated" number-style="upper-alpha">
+<item>$10,000</item>
+<item>$7,000</item>
+<item>$0</item>
+<item>$5,000</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm218758256" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm210626880">
+<problem id="fs-idm216733664">
+<para id="fs-idm235717296"><link class="lo-reference" document="m67925"/>The partnership of Tasha and Bill shares profits and losses in a 50:50 ratio, and the partners have capital balances of $45,000 each. Prepare a schedule showing how the bonus should be divided if Ashanti joins the partnership with a $60,000 investment. The partner’s new agreement will share profit and loss in a 1:3 ratio.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm226316048" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm225325584">
+<problem id="fs-idm222143456">
+<para id="fs-idm236764784"><link class="lo-reference" document="m67925"/>The partnership of Michelle, Amal, and Maureen has done well. The three partners have shared profits and losses in a 1:3 ratio, with capital balances of $60,000 each. Maureen wants to retire and withdraw. Prepare a schedule showing how the cost should be divided if Amal and Michelle decide to pay Maureen $70,000 for retirement of her capital account and the new agreement will share profits and losses 50:50.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm233989376" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm213232928">
+<problem id="fs-idm176900752">
+<para id="fs-idm219786640"><link class="lo-reference" document="m67925"/>Arun and Margot want to admit Tammy as a third partner for their partnership. Their capital balances prior to Tammy’s admission are $50,000 each. Prepare a schedule showing how the bonus should be divided among the three, assuming the profit or loss agreement will be 1:3 once Tammy has been admitted and her contribution is:</para>
+<list id="fs-idm176903392" list-type="enumerated" number-style="upper-alpha">
+<item>$20,000</item>
+<item>$80,000</item>
+<item>$50,000.</item>
+</list>
+<para id="fs-idm226675072">In addition, show the resulting journal entries to each of the three partners’ capital accounts.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm236021072" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm499924400">
+<problem id="fs-idm221267024">
+<para id="fs-idm219625328"><link class="lo-reference" document="m67925"/>The partnership of Arun, Margot, and Tammy has been doing well. Arun wants to retire and move to another state for a once-in-a-lifetime opportunity. The partners’ capital balances prior to Arun’s retirement are $60,000 each. Prepare a schedule showing how Arun’s withdrawal should be divided assuming his buyout is:</para>
+<list id="fs-idm214463552" list-type="enumerated" number-style="upper-alpha">
+<item>$70,000</item>
+<item>$45,000</item>
+<item>$60,000.</item>
+</list>
+<para id="fs-idm211237840">In addition, show the resulting entries to the capital accounts of each of the three.</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm216565616">
+<term>bonus</term>
+<meaning id="fs-idm196381824">difference between the value of a partner’s capital account and the cash payment made at the time of that partner’s or another partner’s withdrawal</meaning>
+</definition>
+</glossary>
+</document>

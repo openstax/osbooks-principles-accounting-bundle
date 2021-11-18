@@ -1,0 +1,649 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Define the Purpose of a Bank Reconciliation, and Prepare a Bank Reconciliation and Its Associated Journal Entries</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67879</md:content-id>
+  <md:title>Define the Purpose of a Bank Reconciliation, and Prepare a Bank Reconciliation and Its Associated Journal Entries</md:title>
+  <md:abstract/>
+  <md:uuid>a3602b43-4590-4bae-8080-853f785de97c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm499556624">The bank is a very important partner to all businesses. Not only does the bank provide basic checking services, but they process credit card transactions, keep cash safe, and may finance loans when needed.</para>
+<para id="fs-idm211365808">Bank accounts for businesses can involve thousands of transactions per month. Due to the number of ongoing transactions, an organization’s book balance for its checking account rarely is the same as the balance that the bank records reflect for the entity at any given point. These timing differences are typically caused by the fact that there will be some transactions that the organization is aware of before the bank, or transactions the bank is aware of before the company.</para>
+<para id="fs-idm770481312">For example, if a company writes a check that has not cleared yet, the company would be aware of the transaction before the bank is. Similarly, the bank might have received funds on the company’s behalf and recorded them in the bank’s records for the company before the organization is aware of the deposit.</para>
+<para id="fs-idm474484112">With the large volume of transactions that impact a bank account, it becomes necessary to have an internal control system in place to assure that all cash transactions are properly recorded within the bank account, as well as on the ledger of the business. The <term>bank reconciliation</term> is the internal financial report that explains and documents any differences that may exist between the balance of a checking account as reflected by the bank’s records (bank balance) for a company and the company’s accounting records (company balance).</para>
+<para id="fs-idm764494784">The bank reconciliation is an internal document prepared by the company that owns the checking account. The transactions with timing differences are used to adjust and reconcile both the bank and company balances; after the bank reconciliation is prepared accurately, both the bank balance and the company balance will be the same amount.</para>
+<para id="fs-idm233050976">Note that the transactions the company is aware of have already been recorded (journalized) in its records. However, the transactions that the bank is aware of but the company is not must be journalized in the entity’s records.</para>
+<section id="fs-idm231599488">
+<title>Fundamentals of the Bank Reconciliation Procedure</title>
+<para id="fs-idm761064832">The balance on a bank statement can differ from company’s financial records due to one or more of the following circumstances:</para>
+<list id="fs-idm465589264" list-type="bulleted">
+<item>An <term>outstanding check</term>: a check that was written and deducted from the financial records of the company but has not been cashed by the recipient, so the amount has not been removed from the bank account.</item>
+<item>A <term>deposit in transit</term>: a deposit that was made by the business and recorded on its books but has not yet been recorded by the bank.</item>
+<item>Deductions for a <term>bank service fee</term>: fees often charged by banks each month for management of the bank account. These may be fixed maintenance fees, per-check fees, or a fee for a check that was written for an amount greater than the balance in the checking account, called a <term>nonsufficient funds (NSF) check</term>. These fees are deducted by the bank from the account but would not appear on the financial records.</item>
+<item>Errors initiated by either the client or the bank: for example, the client might record a check incorrectly in its records, for either a greater or lesser amount than was written. Also, the bank might report a check either with an incorrect balance or in the wrong client’s checking account.</item>
+<item>Additions such as interest or funds collected by the bank for the client: interest is added to the bank account as earned but is not reported on the financial records. These additions might also include funds collected by the bank for the client.</item>
+</list>
+</section>
+<section id="fs-idm215118000">
+<title>Demonstration of a Bank Reconciliation</title>
+<para id="fs-idm482187600">A bank reconciliation is structured to include the information shown in <link target-id="OSX_Acct_F08_05_BankRec"/>.</para>
+<figure id="OSX_Acct_F08_05_BankRec" class="scaled-down">
+<media id="fs-idm770433632" alt="Company Name, Bank Reconciliation, December 31, 2018; Bank Statement Balance at 12/31/18 $X X X; plus Deposits in transit X X X; minus Outstanding checks (X X X); Adjusted Bank Balance $X X X. Book Balance at 12/31/18 $X X X; plus Income not recorded on books X X X; plus Bank interest income X X X; minus Expenses not recorded on books (X X X); minus Bank account charges (X X X); Adjusted Book Balance $X X X.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_05_BankRec.jpg"/>
+</media>
+<caption>Bank Reconciliation. A bank reconciliation includes categories for adjustments to both the bank balance and the book balance. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm200688912">Assume the following circumstances for Feeter Plumbing Company, a small business located in Northern Ohio.</para>
+<list id="fs-idm497019808" list-type="enumerated" number-style="arabic">
+<item>After all posting is up to date, at the end of July 31, the book balance shows $32,760, and the bank statement balance shows $77,040.</item>
+<item>Check 5523 for $9,620 and 6547 for $10,000 are outstanding.</item>
+<item>Check 5386 for $2,000 is removed from the bank account correctly but is recorded on the accounting records for $1,760. This was in payment of dues. The effects of this transaction resulted in an error of $240 that must be deducted from the company’s book balance.</item>
+<item>The July 31 night deposit of $34,300 was delivered to the bank after hours. As a result, the deposit is not on the bank statement, but it is on the financial records.</item>
+<item>Upon review of the bank statement, an error is uncovered. A check is removed from the account from Feeter for $320 that should have been removed from the account of another customer of the bank.</item>
+<item>In the bank statement is a note stating that the bank collected $60,000 in charges (payments) from the credit card company as well as $1,800 in interest. This transaction is on the bank statement but not in the company’s financial records.</item>
+<item>The bank notified Feeter that a $2,200 check was returned unpaid from customer Berson due to insufficient funds in Berson’s account. This check return is reflected on the bank statement but not in the records of Feeter.</item>
+<item>Bank service charges for the month are $80. They have not been recorded on Feeter’s records.</item>
+</list>
+<para id="fs-idm220714688">Each item would be recorded on the bank reconciliation as follows:</para>
+<media id="fs-idm496413184" alt="Feeter Plumbing, Bank Reconciliation, July 21, 2018; Bank Statement Balance $77,040; Add: Deposit $34,300 and Bank error 320 minus 34,620, subtotal 111,660; Deduct: Outstanding checks numbered 5523 (9,620) and 6547 (10,000) minus (19,620); Adjusted Bank Balance $92,040; Book Balance $32,760; Add: Collection of account $60,000 and Interest earned 1,800 minus 61,800, subtotal $94,560; Deduct: N S F check (2,200), Recording error (240), and Service charge (80) minus (2,520). Adjusted Book Balance $92,040.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_05_BankRec_img.jpg"/>
+</media>
+<para id="fs-idm211139936">One important trait of the bank reconciliation is that it identifies transactions that have not been recorded by the company that are supposed to be recorded. Journal entries are required to adjust the book balance to the correct balance.</para>
+<para id="fs-idm209067200">In the case of Feeter, the first entry will record the collection of the note, as well as the interest collected.</para>
+<media id="fs-idm466595312" alt="Journal entry: Debit cash 61,000, credit Notes receivable 60,000 and Interest receivable 1,800. Explanation: “To recognize the note that was collected and charged interest expense.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_06_Journal01_img.jpg"/>
+</media>
+<para id="fs-idm203411248">The second entry required is to adjust the books for the check that was returned from Berson.</para>
+<media id="fs-idm474481376" alt="Journal entry: Debit Accounts Receivable and credit Cash each for 2,200. Explanation: “To adjust the account for the returned check for insufficient funds.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_06_Journal02_img.jpg"/>
+</media>
+<para id="fs-idm226315744">The third entry is to adjust the recording error for check 5386.</para>
+<media id="fs-idm221222208" alt="Journal entry: Debit Dues expense and credit Cash each for 240. Explanation: “To adjust for check that was not recorded properly.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_06_Journal03_img.jpg"/>
+</media>
+<para id="fs-idm217094368">The final entry is to record the bank service charges that are deducted by the bank but have not been recorded on the records.</para>
+<media id="fs-idm762418176" alt="Journal entry: Debit Bank Service Charges and credit Cash for 80 each. Explanation: “To record monthly bank service charges.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_06_Journal04_img.jpg"/>
+</media>
+<para id="fs-idm462707312">The previous entries are standard to ensure that the bank records are matching to the financial records. These entries are necessary to update Feeter‛s general ledger cash account to reflect the adjustments made by the bank.</para>
+<note id="fs-idm199985376" class="link-to-learning">
+<para id="fs-idm458316240">This <link url="https://openstax.org/l/50BankReconcil">practical article illustrates the key points of why a bank reconciliation is important</link> for both business and personal reasons.</para>
+</note>
+</section>
+<section id="fs-idm233507808" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm463155040" list-type="bulleted" bullet-style="bullet">
+<item>The bank reconciliation is an internal document that verifies the accuracy of records maintained by the depositor and the financial institution. The balance on the bank statement is adjusted for outstanding checks and uncleared deposits. The record balance is adjusted for service charges and interest earned.</item>
+<item>The bank reconciliation is an internal control document that ensures transactions to the bank account are properly recorded, and allows for verification of transactions.</item>
+</list>
+</section>
+<section id="fs-idm203672032" class="multiple-choice">
+<exercise id="fs-idm201336544">
+<problem id="fs-idm228438176">
+<para id="fs-idm225410336"><link class="lo-reference" document="m67879"/>Which of the following items are found on a book side of the bank reconciliation?</para>
+<list id="fs-idm215579488" list-type="enumerated" number-style="upper-alpha">
+<item>beginning bank balance</item>
+<item>outstanding checks</item>
+<item>interest income</item>
+<item>error made by bank</item>
+</list>
+</problem>
+<solution id="fs-idm193385168">
+<para id="fs-idm178716032">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm207969632">
+<problem id="fs-idm466612688">
+<para id="fs-idm211494160"><link class="lo-reference" document="m67879"/>Which of the following are found on the bank side of the bank reconciliation?</para>
+<list id="fs-idm770202832" list-type="enumerated" number-style="upper-alpha">
+<item>NSF check</item>
+<item>interest income</item>
+<item>wire transfer into client’s account</item>
+<item>deposit in transit</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm213821088" class="questions">
+<exercise id="fs-idm763822704">
+<problem id="fs-idm196219808">
+<para id="fs-idm201349200"><link class="lo-reference" document="m67879"/>What is the purpose of the bank reconciliation?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm235255680">
+<problem id="fs-idm212717312">
+<para id="fs-idm482328400"><link class="lo-reference" document="m67879"/>What should be done if differences are found between the bank statement and the book account?</para>
+</problem>
+<solution id="fs-idm212590848">
+<para id="fs-idm217966656">All differences must be researched, explained, and corrected. Differences pertaining to the bank must be reported. If fraud is suspected, a complete investigation must be performed.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm216573216" class="exercise-set-a">
+<exercise id="fs-idm770407904">
+<problem id="fs-idm186733440">
+<para id="fs-idm212897744"><link class="lo-reference" document="m67879"/>The bank reconciliation shows the following adjustments:</para>
+<list id="fs-idm495223776" list-type="bulleted">
+<item>Deposits in transit: $1,234</item>
+<item>Outstanding checks: $558</item>
+<item>Bank service charges: $50</item>
+<item>NSF checks: $250</item>
+</list>
+<para id="fs-idm221803648">Prepare the correcting journal entry.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm237339440">
+<problem id="fs-idm479136592">
+<para id="fs-idm221820832"><link class="lo-reference" document="m67879"/>The bank reconciliation shows the following adjustments:</para>
+<list id="fs-idm218575952" list-type="bulleted">
+<item>Deposits in transit: $852</item>
+<item>Notes receivable collected by bank: $1,000; interest: $20</item>
+<item>Outstanding checks: $569</item>
+<item>Error by bank: $300</item>
+<item>Bank charges: $30</item>
+</list>
+<para id="fs-idm235629680">Prepare the correcting journal entry.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm214078688">
+<problem id="fs-idm230006320">
+<para id="fs-idm220235248"><link class="lo-reference" document="m67879"/>Using the following information, prepare a bank reconciliation.</para>
+<list id="fs-idm193544592" list-type="bulleted">
+<item>Bank balance: $3,678</item>
+<item>Book balance: $2,547</item>
+<item>Deposits in transit: $321</item>
+<item>Outstanding checks: $108 and $334</item>
+<item>Bank charges: $25</item>
+<item>Notes receivable: $1,000; interest: $35</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm236089376">
+<problem id="fs-idm229774832">
+<para id="fs-idm479064480"><link class="lo-reference" document="m67879"/>Prepare the journal entry to reconcile the bank statement in <link target-id="fs-idm214078688"/>.</para></problem>
+</exercise>
+<exercise id="fs-idm193474224">
+<problem id="fs-idm212399360">
+<para id="fs-idm237862832"><link class="lo-reference" document="m67879"/>Using the following information, prepare a bank reconciliation.</para>
+<list id="fs-idm770513184" list-type="bulleted">
+<item>Bank balance: $4,587</item>
+<item>Book balance: $5,577</item>
+<item>Deposits in transit: $1,546</item>
+<item>Outstanding checks: $956</item>
+<item>Interest income: $56</item>
+<item>NSF check: $456</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm500157968">
+<problem id="fs-idm209853312">
+<para id="fs-idm460517152"><link class="lo-reference" document="m67879"/>Prepare the journal entry to reconcile the bank statement in <link target-id="fs-idm193474224"/>.</para></problem>
+</exercise>
+<exercise id="fs-idm228916832">
+<problem id="fs-idm466332144">
+<para id="fs-idm229941648"><link class="lo-reference" document="m67879"/>Using the following information, prepare a bank reconciliation.</para>
+<list id="fs-idm474814112" list-type="bulleted">
+<item>Bank balance: $6,988</item>
+<item>Book balance: $6,626</item>
+<item>Deposits in transit: $1,600</item>
+<item>Outstanding checks: $599 and $1,423</item>
+<item>Bank charges: $75</item>
+<item>Bank incorrectly charged the account $75. The bank will correct the error next month.</item>
+<item>Check number 2456 correctly cleared the bank in the amount of $234 but posted in the accounting records as $324. This check was expensed to Utilities Expense.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm209162544">
+<problem id="fs-idm232581440">
+<para id="fs-idm460649776"><link class="lo-reference" document="m67879"/>Prepare the journal entry to reconcile the bank statement in <link target-id="fs-idm228916832"/>.</para></problem>
+</exercise>
+</section>
+<section id="fs-idm193249760" class="exercise-set-b">
+<exercise id="fs-idm232472960">
+<problem id="fs-idm216721664">
+<para id="fs-idm220694432"><link class="lo-reference" document="m67879"/>The bank reconciliation shows the following adjustments.</para>
+<list id="fs-idm217014688" list-type="bulleted">
+<item>Deposits in transit: $526</item>
+<item>Outstanding checks: $328</item>
+<item>Bank charges: $55</item>
+<item>NSF checks: $69</item>
+</list>
+<para id="fs-idm186384832">Prepare the correcting journal entry.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm495111616">
+<problem id="fs-idm179014960">
+<para id="fs-idm178537856"><link class="lo-reference" document="m67879"/>The bank reconciliation shows the following adjustments.</para>
+<list id="fs-idm223748256" list-type="bulleted">
+<item>Deposits in transit: $1,698</item>
+<item>Notes receivable collected by bank: $2,500; interest: $145</item>
+<item>Outstanding checks: $987</item>
+<item>Error by bank: $436</item>
+<item>Bank charges: $70</item>
+</list>
+<para id="fs-idm201353056">Prepare the correcting journal entry.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm203714848">
+<problem id="fs-idm234658896">
+<para id="fs-idm213449104"><link class="lo-reference" document="m67879"/>Using the following information, prepare a bank reconciliation.</para>
+<list id="fs-idm764319648" list-type="bulleted">
+<item>Bank balance: $4,021</item>
+<item>Book balance: $2,928</item>
+<item>Deposits in transit: $1,111</item>
+<item>Outstanding checks: $679</item>
+<item>Bank charges: $35</item>
+<item>Notes receivable: $1,325; interest: $235</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm213411312">
+<problem id="fs-idm229268160">
+<para id="fs-idm195432608"><link class="lo-reference" document="m67879"/>Prepare the journal entry to reconcile the bank statement in <link target-id="fs-idm203714848"/>.</para></problem>
+</exercise>
+<exercise id="fs-idm480312848">
+<problem id="fs-idm222154304">
+<para id="fs-idm227907376"><link class="lo-reference" document="m67879"/>Using the following information, prepare a bank reconciliation.</para>
+<list id="fs-idm495159120" list-type="bulleted">
+<item>Bank balance: $7,651</item>
+<item>Book balance: $10,595</item>
+<item>Deposits in transit: $2,588</item>
+<item>Outstanding checks: $489</item>
+<item>Interest income: $121</item>
+<item>NSF check: $966</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm236770288">
+<problem id="fs-idm460566224">
+<para id="fs-idm193221456"><link class="lo-reference" document="m67879"/>Prepare the journal entry to reconcile the bank statement in <link target-id="fs-idm480312848"/>.</para></problem>
+</exercise>
+<exercise id="fs-idm209863360">
+<problem id="fs-idm211007456">
+<para id="fs-idm194120576"><link class="lo-reference" document="m67879"/>Using the following information, prepare a bank reconciliation.</para>
+<list id="fs-idm220695856" list-type="bulleted">
+<item>Bank balance: $12,565.</item>
+<item>Book balance: $13,744.</item>
+<item>Deposits in transit: $2,509.</item>
+<item>Outstanding checks: $1,777.</item>
+<item>Bank charges: $125.</item>
+<item>Bank incorrectly charged the account for $412. The bank will correct the error next month.</item>
+<item>Check number 1879 correctly cleared the bank in the amount of $562 but posted in the accounting records as $652. This check was expensed to Utilities Expense.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm229040448">
+<problem id="fs-idm479044656">
+<para id="fs-idm176977776"><link class="lo-reference" document="m67879"/>Prepare the journal entry to reconcile the bank statement in <link target-id="fs-idm209863360"/>.</para></problem>
+</exercise>
+</section>
+<section id="fs-idm196286528" class="problem-set-a">
+<exercise id="fs-idm195527872">
+<problem id="fs-idm226157440">
+<para id="fs-idm496859408"><link class="lo-reference" document="m67879"/>Identify where each of the following transactions would be found on the bank reconciliation.</para>
+<table id="fs-idm228099232" class="top-titled" summary="No Summary">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c5"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Transaction</entry>
+<entry valign="top" align="center">Increase to Bank Side</entry>
+<entry valign="top" align="center">Decrease to Bank Side</entry>
+<entry valign="top" align="center">Increase to Book Side</entry>
+<entry valign="top" align="center">Decrease to Book Side</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Outstanding check</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Interest income</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">NFS check</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Wire transfer by customer</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Deposit in transit</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Bank charges</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm207881536">
+<problem id="fs-idm479311216">
+<para id="fs-idm210388720"><link class="lo-reference" document="m67879"/>Which of the following transactions will require a journal entry? Indicate if it will be a debit or a credit and to what account the entry will be recorded.</para>
+<table id="fs-idm463241488" class="top-titled" summary="No Summary">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c5"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Transaction</entry>
+<entry valign="top" align="center">No Journal Entry Needed</entry>
+<entry valign="top" align="center">Journal Entry Needed</entry>
+<entry valign="top" align="center">Debit</entry>
+<entry valign="top" align="center">Credit</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Outstanding check</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Interest income</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">NFS check</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Wire transfer by customer</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Deposit in transit</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Bank charges</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm203571296">
+<problem id="fs-idm499993408">
+<para id="fs-idm231470928"><link class="lo-reference" document="m67879"/>Domingo Company received the following bank statement. Using <link document="m67878" target-id="fs-idm524824016"/>, prepare the bank reconciliation.</para><media id="fs-idm474906064" alt="Bank Statement: Beginning Balance $0; Deposits: A. $10,000, D. $1,000, Total $11,000; Checks numbered 101 $500, 102 $500, 103 $158, 106 $489 Bank service charges $100, Total reductions $1,747; Ending Balance $9,253.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_06_PA5_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm230890000">
+<problem id="fs-idm209679616">
+<para id="fs-idm495113248"><link class="lo-reference" document="m67879"/>Prepare the journal entry required to reconcile the book balance to the bank balance.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm195616368">
+<problem id="fs-idm236202528">
+<para id="fs-idm236337568"><link class="lo-reference" document="m67879"/>Inner Resources Company received the following bank statement. Using the information from <link document="m67878" target-id="fs-idm524446144"/> and <link document="m67878" target-id="fs-idm274766240"/>, prepare the bank reconciliation.</para><media id="fs-idm230845072" alt="Bank Statement: Beginning Balance $0; Deposits: A. 8,500, D. $1,200 Total $9,700; Checks numbered 101 $650, 102 $550, 103 $180, 106 $457; Bank service charges $100, Total reductions $1,937; Ending Balance $7,763.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_06_PA9_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm196913088">
+<problem id="fs-idm186370096">
+<para id="fs-idm211971328"><link class="lo-reference" document="m67879"/>Prepare the journal entry required to reconcile the book balance to the bank balance.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm202931824" class="problem-set-b">
+<exercise id="fs-idm220329136">
+<problem id="fs-idm195730832">
+<para id="fs-idm202938448"><link class="lo-reference" document="m67879"/>Identify where each of the following transactions would be found on the bank reconciliation.</para>
+<table id="fs-idm233172272" class="top-titled" summary="No Summary">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c5"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Transaction</entry>
+<entry valign="top" align="center">Increase to Bank Side</entry>
+<entry valign="top" align="center">Decrease to Bank Side</entry>
+<entry valign="top" align="center">Increase to Book Side</entry>
+<entry valign="top" align="center">Decrease to Book Side</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Overcharge by Bank (Error)</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Interest Income</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Automatic Loan Payment</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Wire Transfer by Customer</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Deposit in Transit</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Outstanding Check</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm204050688">
+<problem id="fs-idm219750800">
+<para id="fs-idm234760272"><link class="lo-reference" document="m67879"/>Which of the following transactions will require a journal entry? Indicate if it will be a debit or a credit, and to which account the entry will be recorded.</para>
+<table id="fs-idm222802864" class="top-titled" summary="No Summary">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c5"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Transaction</entry>
+<entry valign="top" align="center">No Journal Entry</entry>
+<entry valign="top" align="center">Journal Entry Needed</entry>
+<entry valign="top" align="center">Debit</entry>
+<entry valign="top" align="center">Credit</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Overcharge by Bank (Error)</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Interest Income</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Automatic Loan Payment</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Wire Transfer by Customer</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Deposit in Transit</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Outstanding Check</entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left"> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm215512688">
+<problem id="fs-idm233762352">
+<para id="fs-idm479328528"><link class="lo-reference" document="m67879"/>Hajun Company received the following bank statement. Using the information from <link document="m67878" target-id="fs-idm282652112"/> and <link document="m67878" target-id="fs-idm272897520"/>, prepare the bank reconciliation.</para><media id="fs-idm210373472" alt="Bank Statement: Beginning Balance $0; Deposits: A. $5,000, D. $400, Total $5,400; Checks numbered 101 $400, 102 $200, 103 $90, 106 $182; Bank service charges $75, Total reductions $947; Ending Balance $4,453.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_06_PB5_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm210411136">
+<problem id="fs-idm213420080">
+<para id="fs-idm229304640"><link class="lo-reference" document="m67879"/>Prepare the journal entry required to reconcile the book balance to the bank balance.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm186431072">
+<problem id="fs-idm216459104">
+<para id="fs-idm460623744"><link class="lo-reference" document="m67879"/>Lavender Company received the following bank statement. Using the information from <link document="m67878" target-id="fs-idm490491680"/> and <link document="m67878" target-id="fs-idm275555696"/>, prepare the bank reconciliation.</para><media id="fs-idm200748288" alt="Bank Statement: Beginning Balance $0; Deposits: A. $7,500, D. $350, Total $7,850; Checks numbered 101 $600, 102 $250, 103 $125, 106 $242; Bank service charges $90, Total reductions $1,307; Ending Balance $6,543.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F08_06_PB9_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm223266224">
+<problem id="fs-idm200201696">
+<para id="fs-idm226597568"><link class="lo-reference" document="m67879"/>Prepare the journal entry required to reconcile the book balance to the bank balance.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm191891136" class="thought-provokers">
+<exercise id="fs-idm216691696">
+<problem id="fs-idm213444576">
+<para id="fs-idm202816864"><link class="lo-reference" document="m67879"/>A bank reconciliation takes time and must balance. An employee was struggling in balancing the bank reconciliation. Her supervisor told her to “plug” (make an unsupported entry for) the difference, record to Miscellaneous Expense, and simply move on. Discuss the internal controls problem with this directive.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm238755152">
+<problem id="fs-idm200356304">
+<para id="fs-idm475027040"><link class="lo-reference" document="m67879"/>The bank reconciliation revealed that one deposit had cleared the bank two weeks after the date of the deposit. Should this be of concern? Why, or why not?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm466204160">
+<term>bank reconciliation</term>
+<meaning id="fs-idm479662688">internal financial report that explains and documents any differences that may exist between a balance within a checking account and the company’s records</meaning>
+</definition>
+<definition id="fs-idm460691024">
+<term>bank service fee</term>
+<meaning id="fs-idm496902864">fee often charged by a bank each month for management of the bank account</meaning>
+</definition>
+<definition id="fs-idm479335344">
+<term>deposit in transit</term>
+<meaning id="fs-idm215114432">deposit that was made by the business and recorded on its books but has not yet been recorded by the bank</meaning>
+</definition>
+<definition id="fs-idm495104416">
+<term>nonsufficient funds (NSF) check</term>
+<meaning id="fs-idm228464432">check written for an amount that is greater than the balance in the checking account</meaning>
+</definition>
+<definition id="fs-idm209199456">
+<term>outstanding check</term>
+<meaning id="fs-idm212926400">check that was written and deducted from the financial records of the company but has not been cashed by the recipient, so the amount has not been removed from the bank account</meaning>
+</definition>
+</glossary>
+</document>

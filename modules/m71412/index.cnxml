@@ -1,0 +1,355 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Compute and Evaluate Overhead Variances</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71412</md:content-id>
+  <md:title>Compute and Evaluate Overhead Variances</md:title>
+  <md:abstract/>
+  <md:uuid>1d10a825-5e7f-4652-808e-43ab0632c8a7</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm352319536">Recall that the standard cost of a product includes not only materials and labor but also variable and fixed overhead. It is likely that the amounts determined for standard overhead costs will differ from what actually occurs. This will lead to <term class="no-emphasis">overhead variances</term>.</para>
+<section id="fs-idm617222608">
+<title>Determination and Evaluation of Overhead Variance</title>
+<para id="fs-idm348328800">In a standard cost system, overhead is applied to the goods based on a standard overhead rate. This is similar to the predetermined overhead rate used previously. The standard overhead rate is calculated by dividing budgeted overhead at a given level of production (known as normal capacity) by the level of activity required for that particular level of production.</para>
+<media id="fs-idm325082176" class="scaled-down" alt="Standard Overhead Rate equals Budgeted Overhead Rate divided by Level of Activity.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_EqSOH01_img.jpg"/>
+</media>
+<para id="fs-idm348154320">Usually, the level of activity is either direct labor hours or direct labor cost, but it could be machine hours or units of production.</para>
+<section id="fs-idm320311728">
+<title>Creation of Flexible Overhead Budget</title>
+<para id="fs-idm350935808">To determine the overhead standard cost, companies prepare a <term>flexible budget</term> that gives estimated revenues and costs at varying levels of production. The standard overhead cost is usually expressed as the sum of its component parts, fixed and variable costs per unit. Note that at different levels of production, total fixed costs are the same, so the standard fixed cost per unit will change for each production level. However, the variable standard cost per unit is the same per unit for each level of production, but the total variable costs will change.</para>
+<para id="fs-idm356469680">We continue to use Connie’s Candy Company to illustrate. Suppose Connie’s Candy budgets capacity of production at 100% and determines expected overhead at this capacity. Connie’s Candy also wants to understand what overhead cost outcomes will be at 90% capacity and 110% capacity. The following information is the flexible budget Connie’s Candy prepared to show expected overhead at each capacity level.</para>
+<media id="fs-idm348370832" class="scaled-down" alt="Percent of capacity: 90 percent, 100 percent, 110 percent respectively. Direct labor hours 1,800, 2,000, 2,200. Units of output 900, 1,000, 1,100. Variable overhead $3,600, 4,000, 4,400. Fixed overhead $6,000, 6,000, 6,000. Total overhead $9,600, 10,000, 10,400. Normal capacity equals 100 percent and overhead is applied based on direct labor hours. Standard Overhead Rate equals $10,000 divided by 2,000 equals $5 per direct labor hour.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_Capacity_img.jpg"/>
+</media>
+<para id="fs-idm294595696">Units of output at 100% is 1,000 candy boxes (units). The standard overhead rate is the total budgeted overhead of $10,000 divided by the level of activity (direct labor hours) of 2,000 hours. Notice that fixed overhead remains constant at each of the production levels, but variable overhead changes based on unit output. If Connie’s Candy only produced at 90% capacity, for example, they should expect total overhead to be $9,600 and a standard overhead rate of $5.33 (rounded). If Connie’s Candy produced 2,200 units, they should expect total overhead to be $10,400 and a standard overhead rate of $4.73 (rounded). In addition to the total standard overhead rate, Connie’s Candy will want to know the variable overhead rates at each activity level.</para>
+<para id="fs-idm342663616">Using the flexible budget, we can determine the standard variable cost per unit at each level of production by taking the total expected variable overhead divided by the level of activity, which can still be direct labor hours or machine hours.</para>
+<media id="fs-idm318623424" class="scaled-down" alt="Variable Overhead Rate equals Budgeted Variable Overhead divided by Level of Activity.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_EqVOH01_img.jpg"/>
+</media>
+<para id="fs-idm348095968">Looking at Connie’s Candies, the following table shows the variable overhead rate at each of the production capacity levels.</para>
+<table id="fs-idm627977456" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Production Capacity</entry>
+<entry valign="top" align="center">Variable/Unit</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">90%</entry>
+<entry valign="top" align="left">$3,600/1,800 = $2</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">100%</entry>
+<entry valign="top" align="left">$4,000/2,000 = $2</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">110%</entry>
+<entry valign="top" align="left">$4,400/2,200 = $2</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm616486128">Sometimes these flexible budget figures and overhead rates differ from the actual results, which produces a variance.</para>
+</section>
+<section id="fs-idm334270720">
+<title>Determination of Variable Overhead Variances</title>
+<para id="fs-idm628814256">There are two components to variable overhead rates: the overhead application rate and the activity level against which that rate was applied. If we compare the actual variable overhead to the standard variable overhead, by analyzing the difference between actual overhead costs and the standard overhead for current production, it is difficult to determine if the variance is due to application rate differences or activity level differences. Thus, there are two variable overhead variances that will better provide these answers: the variable overhead rate variance and the variable overhead efficiency variance.</para>
+</section>
+<section id="fs-idm615255728">
+<title>Determination of Variable Overhead Rate Variance</title>
+<para id="fs-idm348074640">The <term>variable overhead rate variance</term>, also known as the spending variance, is the difference between the actual variable manufacturing overhead and the variable overhead that was expected given the number of hours worked. The variable overhead rate variance is calculated using this formula:</para>
+<media id="fs-idm358139216" alt="Variable Overhead Rate Variance equals (Actual Hours Worked times Actual Variable Overhead Rate per Hour) minus (Actual Hours Worked times Standard Variable Overhead Rate per Hour).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_EqVORV01_img.jpg"/>
+</media>
+<para id="fs-idm360701200">Factoring out actual hours worked, we can rewrite the formula as</para>
+<media id="fs-idm359264672" alt="Variable Overhead Rate Variance equals (Actual Variable Overhead Rate minus Standard Variable Overhead Rate) times Actual Hours Worked.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_EqVORV02_img.jpg"/>
+</media>
+<para id="fs-idm617181376">If the outcome is favorable (a negative outcome occurs in the calculation), this means the company spent less than what it had anticipated for variable overhead. If the outcome is unfavorable (a positive outcome occurs in the calculation), this means the company spent more than what it had anticipated for variable overhead.</para>
+<para id="fs-idm308018688">Connie’s Candy Company wants to determine if its variable overhead spending was more or less than anticipated. Connie’s Candy had this data available in the flexible budget:</para>
+<media id="fs-idm358820848" class="scaled-down-30" alt="Percent of capacity: 100 percent. Direct labor hours 2,000. Units of output 1,000. Variable overhead 4,000. Fixed overhead $6,000. Total overhead $10,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_Capacity02_img.jpg"/>
+</media>
+<para id="fs-idm617209200">Connie’s Candy also had this actual output information:</para>
+<media id="fs-idm595146112" class="scaled-down-30" alt="Percent of capacity: 100 percent. Direct labor hours 2,500. Units of output 1,000. Variable overhead 7,000. Fixed overhead $6,000. Total overhead $13,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_Capacity03_img.jpg"/>
+</media>
+<para id="fs-idm299777328">To determine the variable overhead rate variance, the standard variable overhead rate per hour and the actual variable overhead rate per hour must be determined. The standard variable overhead rate per hour is $2.00 ($4,000/2,000 hours), taken from the flexible budget at 100% capacity. The actual variable overhead rate is $2.80 ($7,000/2,500), taken from the actual results at 100% capacity. Therefore,</para>
+<equation id="fs-idm346430416" class="unnumbered"><m:math><m:mrow><m:mtext>Variable Overhead Rate Variance</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>$2.80</m:mn><m:mo>–</m:mo><m:mn>$2.00</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>2,500</m:mn><m:mo>=</m:mo><m:mn>$2,000</m:mn><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mtext>Unfavorable</m:mtext><m:mo>)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm347219216">This produces an unfavorable outcome. This could be for many reasons, and the production supervisor would need to determine where the variable cost difference is occurring to make production changes.</para>
+<para id="fs-idm595476896">Let us look at another example producing a favorable outcome. Connie’s Candy had this data available in the flexible budget:</para>
+<media id="fs-idm342619760" class="scaled-down-30" alt="Percent of capacity: 100 percent. Direct labor hours 2,000. Units of output 1,000. Variable overhead 4,000. Fixed overhead $6,000. Total overhead $10,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_Capacity04_img.jpg"/>
+</media>
+<para id="fs-idm344943168">Connie’s Candy also had this actual output information:</para>
+<media id="fs-idm345801488" class="scaled-down-30" alt="Percent of capacity: 100 percent. Direct labor hours 2,000. Units of output 1,000. Variable overhead 3,500. Fixed overhead $6,000. Total overhead $9,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_Capacity05_img.jpg"/>
+</media>
+<para id="fs-idm347645584">To determine the variable overhead rate variance, the standard variable overhead rate per hour and the actual variable overhead rate per hour must be determined. The standard variable overhead rate per hour is $2.00 ($4,000/2,000 hours), taken from the flexible budget at 100% capacity. The actual variable overhead rate is $1.75 ($3,500/2,000), taken from the actual results at 100% capacity. Therefore,</para>
+<equation id="fs-idm360737024" class="unnumbered"><m:math><m:mrow><m:mtext>Variable Overhead Rate Variance</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>$1.75</m:mn><m:mo>–</m:mo><m:mn>$2.00</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>$2,000</m:mn><m:mo>=</m:mo><m:mn>–$500</m:mn><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>$500</m:mn><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mtext>Favorable</m:mtext><m:mo>)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm354152384">This produces a favorable outcome. This could be for many reasons, and the production supervisor would need to determine where the variable cost difference is occurring to better understand the variable overhead reduction.</para>
+<para id="fs-idm344818352">Interpretation of the variable overhead rate variance is often difficult because the cost of one overhead item, such as indirect labor, could go up, but another overhead cost, such as indirect materials, could go down. Often, explanation of this variance will need clarification from the production supervisor. Another variable overhead variance to consider is the variable overhead efficiency variance.</para>
+</section>
+<section id="fs-idm360525392">
+<title>Determination of Variable Overhead Efficiency Variance</title>
+<para id="fs-idm354019712">The <term>variable overhead efficiency variance</term>, also known as the controllable variance, is driven by the difference between the actual hours worked and the standard hours expected for the units produced. This variance measures whether the allocation base was efficiently used. The variable overhead efficiency variance is calculated using this formula:</para>
+<media id="fs-idm345767648" alt="Variable Overhead Efficiency Variance equals Actual Hours Worked times Standard Variable Overhead Rate per Hour) minus (Standard Hours times Standard Variable Overhead rate per Hour).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_EqVOER01_img.jpg"/>
+</media>
+<para id="fs-idm350768048">Factoring out standard overhead rate, the formula can be written as</para>
+<media id="fs-idm294871408" alt="Variable Overhead Efficiency Variance equals Actual Labor Hours minus Standard Labor Hour) times Standard Overhead Rate.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_EqVEOV02_img.jpg"/>
+</media>
+<para id="fs-idm348153296">If the outcome is favorable (a negative outcome occurs in the calculation), this means the company was more efficient than what it had anticipated for variable overhead. If the outcome is unfavorable (a positive outcome occurs in the calculation), this means the company was less efficient than what it had anticipated for variable overhead.</para>
+<para id="fs-idm353365680">Connie’s Candy Company wants to determine if its variable overhead efficiency was more or less than anticipated. Connie’s Candy had the following data available in the flexible budget:</para>
+<media id="fs-idm353169440" class="scaled-down-30" alt="Percent of capacity: 100 percent. Direct labor hours 2,000. Units of output 1,000. Variable overhead 4,000. Fixed overhead $6,000. Total overhead $10,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_Capacity06_img.jpg"/>
+</media>
+<para id="fs-idm346999024">Connie’s Candy also had the following actual output information:</para>
+<media id="fs-idm356571184" class="scaled-down-30" alt="Percent of capacity: 100 percent. Direct labor hours 2,500. Units of output 1,000. Variable overhead 7,000. Fixed overhead $6,000. Total overhead $13,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_Capacity07_img.jpg"/>
+</media>
+<para id="fs-idm354018432">To determine the variable overhead efficiency variance, the actual hours worked and the standard hours worked at the production capacity of 100% must be determined. Actual hours worked are 2,500, and standard hours are 2,000. The standard variable overhead rate per hour is $2.00 ($4,000/2,000 hours), taken from the flexible budget at 100% capacity. Therefore,</para>
+<equation id="fs-idm350885520" class="unnumbered"><m:math><m:mrow><m:mtext>Variable Overhead Efficiency Variance</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2,500</m:mn><m:mo>–</m:mo><m:mn>2,000</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>$2.00</m:mn><m:mo>=</m:mo><m:mn>$1,000</m:mn><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mtext>Unfavorable</m:mtext><m:mo>)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm344517552">This produces an unfavorable outcome. This could be for many reasons, and the production supervisor would need to determine where the variable cost difference is occurring to make production changes.</para>
+<para id="fs-idm295143264">Let us look at another example producing a favorable outcome. Connie’s Candy had the following data available in the flexible budget:</para>
+<media id="fs-idm354308032" class="scaled-down-30" alt="Percent of capacity: 100 percent. Direct labor hours 2,000. Units of output 1,000. Variable overhead 4,000. Fixed overhead $6,000. Total overhead $10,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_Capacity08_img.jpg"/>
+</media>
+<para id="fs-idm348538304">Connie’s Candy also had the following actual output information:</para>
+<media id="fs-idm354176176" class="scaled-down-30" alt="Percent of capacity: 100 percent. Direct labor hours 1,800. Units of output 1,000. Variable overhead 3,500. Fixed overhead $6,000. Total overhead $9,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_Capacity09_img.jpg"/>
+</media>
+<para id="fs-idm359975008">To determine the variable overhead efficiency variance, the actual hours worked and the standard hours worked at the production capacity of 100% must be determined. Actual hours worked are 1,800, and standard hours are 2,000. The standard variable overhead rate per hour is $2.00 ($4,000/2,000 hours), taken from the flexible budget at 100% capacity. Therefore,</para>
+<equation id="fs-idm353583232" class="unnumbered"><m:math><m:mrow><m:mtext>Variable Overhead Efficiency Variance</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1,800</m:mn><m:mo>–</m:mo><m:mn>2,000</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>$2.00</m:mn><m:mo>=</m:mo><m:mn>–$400</m:mn><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>$400</m:mn><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mtext>Favorable</m:mtext><m:mo>)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm356456496">This produces a favorable outcome. This could be for many reasons, and the production supervisor would need to determine where the variable cost difference is occurring to better understand the variable overhead efficiency reduction.</para>
+<para id="fs-idm354278928">The <term>total variable overhead cost variance</term> is also found by combining the variable overhead rate variance and the variable overhead efficiency variance. By showing the total variable overhead cost variance as the sum of the two components, management can better analyze the two variances and enhance decision-making.</para>
+<para id="fs-idm318114224"><link target-id="OSX_Acct_M08_04_TreeTVOCV1"/> shows the connection between the variable overhead rate variance and variable overhead efficiency variance to total variable overhead cost variance.</para>
+<figure id="OSX_Acct_M08_04_TreeTVOCV1">
+<media id="fs-idm350555040" alt="There are three top row boxes. Two, Actual Hours (AH) times Actual Rate (AR) and Actual Hours (AH) times Standard Rate (SR) combine to point to a Second row box: Variable Overhead Rate Variance. Two top row boxes: Actual Hours (AH) times Standard Rate (SR) and Standard Hours (SH) times Standard Rate (SR) combine to point to Second row box: Variable Overhead Efficiency Variance. Notice the middle top row box is used for both of the variances. Second row boxes: Variable Overhead Rate Variance and Variable Overhead Efficiency Variance combine to point to bottom row box: Total Variable Overhead Cost Variance.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_TreeTVOCV1_img.jpg"/>
+</media>
+<caption>Variable Overheard Cost Variance. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm348705760">For example, Connie’s Candy Company had the following data available in the flexible budget:</para>
+<media id="fs-idm357794336" class="scaled-down-30" alt="Percent of capacity: 100 percent. Direct labor hours 2,000. Units of output 1,000. Variable overhead 4,000. Fixed overhead $6,000. Total overhead $10,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_Capacity10_img.jpg"/>
+</media>
+<para id="fs-idm348094080">Connie’s Candy also had the following actual output information:</para>
+<media id="fs-idm351070368" class="scaled-down-30" alt="Percent of capacity: 100 percent. Direct labor hours 1,800. Units of output 1,000. Variable overhead 3,500. Fixed overhead $6,000. Total overhead $9,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_Capacity11_img.jpg"/>
+</media>
+<para id="fs-idm346316528">The variable overhead rate variance is calculated as (1,800 × $1.94) – (1,800 × $2.00) = –$108, or $108 (favorable). The variable overhead efficiency variance is calculated as (1,800 × $2.00) – (2,000 × $2.00) = –$400, or $400 (favorable).</para>
+<para id="fs-idm360219088">The total variable overhead cost variance is computed as:</para>
+<equation id="fs-idm346495264" class="unnumbered"><m:math><m:mrow><m:mtext>Total Variable Overhead Cost Variance</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>–$108</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>–$400</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>–$508</m:mn><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>$508</m:mn><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mtext>Favorable</m:mtext><m:mo>)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm352196048">In this case, two elements are contributing to the favorable outcome. Connie’s Candy used fewer direct labor hours and less variable overhead to produce 1,000 candy boxes (units).</para>
+<para id="fs-idm352937968">The same calculation is shown as follows in diagram format.</para>
+<media id="fs-idm345407136" alt="There are three top row boxes. Two, Actual Hours (1,800) times Actual Rate ($1.94) and Actual Hours (1,800) times Standard Rate ($2.00) combine to point to a Second row box: Variable Overhead Rate Variance $108 Favorable. Two top row boxes: Actual Hours (1800) times Standard Rate ($2.00) and Standard Hours (2,000) times Standard Rate ($2.00) combine to point to Second row box: Variable Overhead Efficiency Variance $400 Favorable. Notice the middle top row box is used for both of the variances. Second row boxes: Variable Overhead Rate Variance $108 F and Variable Overhead Efficiency Variance $400 F combine to point to bottom row box: Total Variable Overhead Cost Variance $508 F.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_EqTDLV01_img.jpg"/>
+</media>
+<para id="fs-idm358014528">As with the interpretations for the variable overhead rate and efficiency variances, the company would review the individual components contributing to the overall favorable outcome for the total variable overhead cost variance, before making any decisions about production in the future. Other variances companies consider are fixed factory overhead variances.</para>
+</section>
+<section id="fs-idm350987520">
+<title>Fundamentals of Fixed Factory Overhead Variances</title>
+<para id="fs-idm342625744">The <term>fixed factory overhead variance</term> represents the difference between the actual fixed overhead and the applied fixed overhead. There are two fixed overhead variances. One variance determines if too much or too little was spent on fixed overhead. The other variance computes whether or not actual production was above or below the expected production level.</para>
+<note id="fs-idm350969488" class="your-turn">
+<title>Sweet and Fresh Shampoo Overhead</title>
+<para id="fs-idm356680400">Biglow Company makes a hair shampoo called Sweet and Fresh. They have the following flexible budget data:</para>
+<media id="fs-idm615030112" alt="For 90 percent, 100 percent, and 110 percent, respectively: Direct labor hours 14,000, 16,000, 18,000; Units of output 10,000, 10,000, 10,000; Direct labor $525,000, $346,500, $378,000; Variable overhead $315,000, $346,000, $378,000; Fixed overhead $45,500, $45,500, $45,500; Total $953,500, $1,044,300, $1,135,100.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_YT01_img.png"/>
+</media>
+<para id="fs-idm294722192">What is the standard variable overhead rate at 90%, 100%, and 110% capacity levels?</para>
+<para id="fs-idm628062832"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm352976992">90% = $315,000/14,000 = $22.50, 100% = $346,000/16,000 = $21.63 (rounded), 110% = $378,000/18,000 = $21.00.</para>
+</note>
+<note id="fs-idm625939056" class="think-through">
+<title>Purchasing Planes</title>
+<para id="fs-idm306793824">The XYZ Firm is bidding on a contract for a new plane for the military. As the management team is going over the bid, they come to the conclusion it is too high on a per-plane basis, but they cannot find any costs they feel can be reduced. The information from the military states they will purchase between 50 and 100 planes, but will more likely purchase 50 planes rather than 100 planes. XYZ’s bid is based on 50 planes. The controller suggests that they base their bid on 100 planes. This would spread the fixed costs over more planes and reduce the bid price. The lower bid price will increase substantially the chances of XYZ winning the bid. Should XYZ Firm keep the bid at 50 planes or increase its bid to 100 planes? What are the pros and cons to keeping the bid at 50 or increasing to 100 planes?</para>
+</note>
+</section>
+</section>
+<section id="fs-idm351108160" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm623269360" list-type="bulleted" bullet-style="bullet">
+<item>There are two sets of overhead variances: variable and fixed.</item>
+<item>The variable variances are caused by the overhead application rate and the activity level against which the rate was applied.</item>
+<item>The variable overhead rate variance is the difference between the actual variable manufacturing overhead and the variable overhead that was expected given the number of hours worked.</item>
+<item>The variable overhead efficiency variance is driven by the difference between the actual hours worked and the standard hours expected for the units produced.</item>
+<item>There are two fixed overhead variances. One is caused by spending too much or too little on fixed overhead. The other is caused by actual production being above or below the expected production level.</item>
+</list>
+</section>
+<section id="fs-idm354644416" class="multiple-choice">
+<exercise id="fs-idm346975424">
+<problem id="fs-idm352371584">
+<para id="fs-idm352436112"><link class="lo-reference" document="m71412"/>A flexible budget ________.</para>
+<list id="fs-idm333944080" list-type="enumerated" number-style="upper-alpha">
+<item>predicts estimated revenues and costs at varying levels of production</item>
+<item>gives actual figures for selling price</item>
+<item>gives actual figures for variable and fixed overhead</item>
+<item>is not used in overhead variance calculations</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm357993184">
+<problem id="fs-idm612205776">
+<para id="fs-idm358801968"><link class="lo-reference" document="m71412"/>The variable overhead rate variance is caused by the sum between which of the following?</para>
+<list id="fs-idm345386336" list-type="enumerated" number-style="upper-alpha">
+<item>actual and standard allocation base</item>
+<item>actual and standard overhead rates</item>
+<item>actual and budgeted units</item>
+<item>actual units and actual overhead rates</item>
+</list>
+</problem>
+<solution id="fs-idm348296960">
+<para id="fs-idm344437712">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm354623072">
+<problem id="fs-idm359761648">
+<para id="fs-idm351366192"><link class="lo-reference" document="m71412"/>The variable overhead efficiency variance is caused by the difference between which of the following?</para>
+<list id="fs-idm299515664" list-type="enumerated" number-style="upper-alpha">
+<item>actual and budgeted units</item>
+<item>actual and standard allocation base</item>
+<item>actual and standard overhead rates</item>
+<item>actual units and actual overhead rates</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm346925472">
+<problem id="fs-idm358580176">
+<para id="fs-idm357990800"><link class="lo-reference" document="m71412"/>The fixed factory overhead variance is caused by the difference between which of the following?</para>
+<list id="fs-idm359844384" list-type="enumerated" number-style="upper-alpha">
+<item>actual and standard allocation base</item>
+<item>actual and budgeted units</item>
+<item>actual fixed overhead and applied fixed overhead</item>
+<item>actual and standard overhead rates</item>
+</list>
+</problem>
+<solution id="fs-idm357720800">
+<para id="fs-idm357935264">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm342340048" class="questions">
+<exercise id="fs-idm354548064">
+<problem id="fs-idm343801584">
+<para id="fs-idm348080752"><link class="lo-reference" document="m71412"/>What causes the variable overhead rate variance?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm317732000">
+<problem id="fs-idm353941952">
+<para id="fs-idm613675696"><link class="lo-reference" document="m71412"/>What causes the variable overhead efficiency variance?</para>
+</problem>
+<solution id="fs-idm295731328">
+<para id="fs-idm301433568">The difference between the actual and standard amounts of the allocation base cause variable overhead efficiency variance.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm587100464">
+<problem id="fs-idm359197808">
+<para id="fs-idm314533792"><link class="lo-reference" document="m71412"/>What is the main difference between a flexible budget and a master budget?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm359388480" class="exercise-set-a">
+<exercise id="fs-idm351135744">
+<problem id="fs-idm352951136">
+<para id="fs-idm358797408"><link class="lo-reference" document="m71412"/>ThingOne Company has the following information available for the past year. They use machine hours to allocate overhead.</para>
+<media id="fs-idm592095808" class="scaled-down" alt="Actual total overhead $75,000. Actual fixed overhead $32,500. Actual machine hours 10,000. Standard hours for the units produced 9,500. Standard variable overhead rate $4.50.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_EA01_img.jpg"/>
+</media>
+<para id="fs-idm343632512">What is the variable overhead efficiency variance?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm357641616">
+<problem id="fs-idm353081632">
+<para id="fs-idm308032640"><link class="lo-reference" document="m71412"/>A manufacturer planned to use $78 of variable overhead per unit produced, but in the most recent period, it actually used $76 of variable overhead per unit produced. During this same period, the company planned to produce 500 units but actually produced 540 units. What is the variable overhead spending variance?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm300316352" class="exercise-set-b">
+<exercise id="fs-idm629149552">
+<problem id="fs-idm347175216">
+<para id="fs-idm320360752"><link class="lo-reference" document="m71412"/>A manufacturer planned to use $45 of variable overhead per unit produced, but in the most recent period, it actually used $47 of variable overhead per unit produced. During this same period, the company planned to produce 200 units but actually produced 220 units. What is the variable overhead spending variance?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm314793648">
+<problem id="fs-idm350882992">
+<para id="fs-idm348505824"><link class="lo-reference" document="m71412"/>Fitzgerald Company manufactures sewing machines, and they produced 2,500 this past month. The standard variable manufacturing overhead (MOH) rate used by the company is $6.75 per machine hour. Each sewing machine requires 13.5 machine hours. Actual machine hours used last month were 33,500, and the actual variable MOH rate last month was $7.00.</para>
+<para id="fs-idm613404176">Calculate the variable overhead rate variance and the variable overhead efficiency variance.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm314850880" class="problem-set-a">
+<exercise id="fs-idm359159424">
+<problem id="fs-idm354001728">
+<para id="fs-idm354407696"><link class="lo-reference" document="m71412"/>Prepare a flexible budget for overhead based on the following data:</para>
+<media id="fs-idm600681296" alt="Percent of capacity 90%, 100%, 110% respectively: Direct labor hours 3,600, 4,000, 4,400. Units of output 900, 1,000, 1,100. Variable overhead $3,600, 4,000,  4,400. Fixed overhead $6,000, 6,000, 6,000. Total overhead $9,600, 10,000, 10,400. Normal capacity = 100% and overhead is applied based on direct labor hours. Standard overhead rate = $10,000/4,000 = $2.50 per direct labor hour. Direct materials are $67.50 per unit. Direct labor is $23.50 per hour.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_PA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm299375968">
+<problem id="fs-idm295309200">
+<para id="fs-idm304927056"><link class="lo-reference" document="m71412"/>Reddy Corporation has collected the following data for the month of June:</para>
+<media id="fs-idm346984928" class="scaled-down" alt="Actual total factory overhead incurred $61,250. Budgeted fixed factory overhead costs $42,000. Activity level, in direct labor hours 15,000. Actual direct labor hours 18,000. Standard hours for output this period 17,000. Total factory overhead rate $4.35.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_PA02_img.jpg"/>
+</media>
+<para id="fs-idm343381952">What is the variable overhead efficiency variance?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm306783264">
+<problem id="fs-idm353446656">
+<para id="fs-idm326315936"><link class="lo-reference" document="m71412"/>ABC Inc. spent a total of $48,000 on factory overhead. Of this, $28,000 was fixed overhead. ABC Inc. had budgeted $27,000 for fixed overhead. Actual machine hours were 5,000. Standard hours for units made were 4,800. The standard variable overhead rate was $4.10. What is the variable overhead rate variance?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm349282672" class="thought-provokers">
+<exercise id="fs-idm613646944">
+<problem id="fs-idm333708544">
+<para id="fs-idm356745184"><link class="lo-reference" document="m71412"/>Why would managers use a flexible budget? What information does it provide that a regular budget does not?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm347001600">
+<problem id="fs-idm336560368">
+<para id="fs-idm343088848"><link class="lo-reference" document="m71412"/>Fill in the blanks in the following flexible budget:</para>
+<media id="fs-idm300297664" class="scaled-down" alt="Percent of Capacity: ?, 100%, ?. Direct labor hours 3,600, ?, ?. Units of output 1,800, 2,000, 2,200. Variable overhead ?, $8,000, ?. Fixed overhead ?, $10,000, ?. Total overhead ?, $18,000, ?">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_TP02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm349294624">
+<problem id="fs-idm352258544">
+<para id="fs-idm625959552"><link class="lo-reference" document="m71412"/>Before automation became more prevalent, overhead was often calculated  and allocated as a function of direct labor costs or direct labor hours. Why was this the case, and has this pattern changed?</para>
+</problem>
+</exercise>
+</section>
+  </content>
+<glossary>
+<definition id="fs-idm351300000">
+<term>fixed factory overhead variance</term>
+<meaning id="fs-idm360195776">difference between the actual fixed overhead and applied fixed overhead</meaning>
+</definition>
+<definition id="fs-idm358259984">
+<term>flexible budget</term>
+<meaning id="fs-idm300408592">measurement and prediction of estimated revenues and costs at varying levels of production</meaning>
+</definition>
+<definition id="fs-idm623463408">
+<term>total variable overhead cost variance</term>
+<meaning id="fs-idm356858704">total cost variance found by combining variable overhead rate variance and variable overhead efficiency variance</meaning>
+</definition>
+<definition id="fs-idm342639216">
+<term>variable overhead efficiency variance</term>
+<meaning id="fs-idm354223888">difference between the actual hours worked and the standard hours expected for the units produced</meaning>
+</definition>
+<definition id="fs-idm615216800">
+<term>variable overhead rate variance</term>
+<meaning id="fs-idm300752064">difference between the actual variable manufacturing overhead and the variable overhead that was expected given the number of hours worked</meaning>
+</definition>
+</glossary>
+</document>

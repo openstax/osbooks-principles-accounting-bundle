@@ -1,0 +1,387 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Compute and Evaluate Materials Variances</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68071</md:content-id>
+  <md:title>Compute and Evaluate Materials Variances</md:title>
+  <md:abstract/>
+  <md:uuid>3caf2a6e-e869-4cc1-b44e-8abfcefe5ace</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm470569648">As you’ve learned, direct materials are those materials used in the production of goods that are easily traceable and are a major component of the product. The amount of materials used and the price paid for those materials may differ from the standard costs determined at the beginning of a period. A company can compute these materials variances and, from these calculations, can interpret the results and decide how to address these differences.</para>
+<note id="fs-idm225455616" class="concepts-practice">
+<title>Buttering Popcorn</title>
+<para id="fs-idm208571824">In a movie theater, management uses standards to determine if the proper amount of butter is being used on the popcorn. They train the employees to put two tablespoons of butter on each bag of popcorn, so total butter usage is based on the number of bags of popcorn sold. Therefore, if the theater sells 300 bags of popcorn with two tablespoons of butter on each, the total amount of butter that should be used is 600 tablespoons. Management can then compare the predicted use of 600 tablespoons of butter to the actual amount used. If the actual usage of butter was less than 600, customers may not be happy, because they may feel that they did not get enough butter. If more than 600 tablespoons of butter were used, management would investigate to determine why. Some reasons why more butter was used than expected (unfavorable outcome) would be because of inexperienced workers pouring too much, or the standard was set too low, producing unrealistic expectations that do not satisfy customers.</para>
+</note>
+<section id="fs-idm453758624">
+<title>Fundamentals of Direct Materials Variances</title>
+<para id="fs-idm482586016">The direct materials variances measure how efficient the company is at using materials as well as how effective it is at using materials. There are two components to a <term>direct materials variance</term>, the direct materials price variance and the direct materials quantity variance, which both compare the actual price or amount used to the standard amount.</para>
+<section id="fs-idm432119568">
+<title>Direct Materials Price Variance</title>
+<para id="fs-idm458760944">The <term>direct materials price variance</term> compares the actual price per unit (pound or yard, for example) of the direct materials to the standard price per unit of direct materials. The formula for direct materials price variance is calculated as:</para>
+<media id="fs-idm159481248" alt="Direct Materials Price Variance equals (Actual Quantity Used times Actual Price Paid) minus (Actual Quantity Used times Standard Price).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_02_EqDMPV01_img.jpg"/>
+</media>
+<para id="fs-idm197016704">Factoring out actual quantity used from both components of the formula, it can be rewritten as:</para>
+<media id="fs-idm184296352" alt="Direct Materials Price Variance equals (Actual Price per Unit of Materials minus Standard Price per Unit of Materials) times Actual Quantity of Materials Used.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_02_EqDMPV02_img.jpg"/>
+</media>
+<para id="fs-idm457483968">With either of these formulas, the actual quantity purchased refers to the actual amount of materials bought during the period. The standard price is the expected price paid for materials per unit. The actual price paid is the actual amount paid for materials per unit. If there is no difference between the standard price and the actual price paid, the outcome will be zero, and no price variance exists.</para><para id="fs-idm468180176">If the actual price paid per unit of material is lower than the standard price per unit, the variance will be a favorable variance. A favorable outcome means you spent less on the purchase of materials than you anticipated. If, however, the actual price paid per unit of material is greater than the standard price per unit, the variance will be unfavorable. An unfavorable outcome means you spent more on the purchase of materials than you anticipated.</para>
+<para id="fs-idm491979520">The actual price can differ from the standard or expected price because of such factors as supply and demand of the material, increased labor costs to the supplier that are passed along to the customer, or improvements in technology that make the material cheaper. The producer must be aware that the difference between what it expects to happen and what actually happens will affect all of the goods produced using these particular materials. Therefore, the sooner management is aware of a problem, the sooner they can fix it. For that reason, the material price variance is computed at the time of purchase and not when the material is used in production.</para>
+<para id="fs-idm203404224">Let us consider an example. Connie’s Candy Company produces various types of candies that they sell to retailers. Connie’s Candy establishes a standard price for candy-making materials of $7.00 per pound. Each box of candy is expected to use 0.25 pounds of candy-making materials. Connie’s Candy found that the actual price of materials was $6.00 per pound. They purchased 20 pounds of materials and they still actually use 0.25 pounds of materials to make each box. The direct materials price variance computes as:</para><equation id="fs-idm469932752" class="unnumbered"><m:math><m:mrow><m:mtext>Direct Materials Price Variance</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>$6.00</m:mn><m:mo>–</m:mo><m:mn>$7.00</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>20</m:mn><m:mspace width="0.2em"/><m:mtext>lbs.</m:mtext><m:mo>=</m:mo><m:mn>$20</m:mn><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>$20</m:mn><m:mspace width="0.2em"/><m:mtext>(Favorable)</m:mtext></m:mrow></m:math></equation><para id="fs-idm161997136">In this case, the actual price per unit of materials is $6.00, the standard price per unit of materials is $7.00, and the actual quantity purchased is 20 pounds. This computes as a favorable outcome. This is a favorable outcome because the actual price for materials was less than the standard price. As a result of this favorable outcome information, the company may consider continuing operations as they exist, or could change future budget projections to reflect higher profit margins, among other things.</para><para id="fs-idm482613488">Let us take the same example except now the actual price for candy-making materials is $9.00 per pound. The direct materials price variance computes as:</para>
+<equation id="fs-idm195648704" class="unnumbered"><m:math><m:mrow><m:mtext>Direct Materials Price Variance</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>$9.00</m:mn><m:mo>–</m:mo><m:mn>$7.00</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>20</m:mn><m:mspace width="0.2em"/><m:mtext>lbs.</m:mtext><m:mo>=</m:mo><m:mn>$40</m:mn><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>$40</m:mn><m:mspace width="0.2em"/><m:mtext>(Unfavorable)</m:mtext></m:mrow></m:math></equation><para id="fs-idm159638736">In this case, the actual price per unit of materials is $9.00, the standard price per unit of materials is $7.00, and the actual quantity purchased is 20 pounds. This computes as an unfavorable outcome. This is an unfavorable outcome because the actual price for materials was more than the standard price. As a result of this unfavorable outcome information, the company may consider using cheaper materials, changing suppliers, or increasing prices to cover costs.</para><para id="fs-idm161849952">Another element this company and others must consider is a direct materials quantity variance.</para>
+<note id="fs-idm198380112" class="think-through">
+<title>Don’t “Skirt” the Issue</title>
+<para id="fs-idm195315248">You run a fabric store and order materials through a supplier. At the end of the month, you review your materials cost and discover that your direct materials price and quantity variances produced unfavorable results. What could be attributed to these unfavorable outcomes? How would these unfavorable outcomes impact the total direct materials variance?</para>
+</note>
+</section>
+<section id="fs-idm200909472">
+<title>Direct Materials Quantity Variance</title>
+<para id="fs-idm166094160">The <term>direct materials quantity variance</term> compares the actual quantity of materials used to the standard materials that were expected to be used to make the actual units produced. The variance is calculated using this formula:</para>
+<media id="fs-idm194530848" alt="Direct Materials Quantity Variance equals (Actual Quantity of Materials Used for Units Produced minus Standard Quantity of Materials Expected for the Units Produced) times Standard Price.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_02_EqDMQV01_img.jpg"/>
+</media>
+<para id="fs-idm174915072">Factoring out standard price from both components of the formula, it can be rewritten as:</para>
+<media id="fs-idm201037984" alt="Direct Materials Quantity Variance equals (Actual Quantity of Materials Used for Units Produced minus Standard Quantity of Materials Expected for the Units Produced) times Standard Price.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_02_EqDMQV02_img.jpg"/>
+</media>
+<para id="fs-idm197492608">With either of these formulas, the actual quantity used refers to the actual amount of materials used at the actual production output. The standard price is the expected price paid for materials per unit. The standard quantity is the expected amount of materials used at the actual production output. If there is no difference between the actual quantity used and the standard quantity, the outcome will be zero, and no variance exists.</para>
+<para id="fs-idm220309872">If the actual quantity of materials used is less than the standard quantity used at the actual production output level, the variance will be a favorable variance. A favorable outcome means you used fewer materials than anticipated, to make the actual number of production units. If, however, the actual quantity of materials used is greater than the standard quantity used at the actual production output level, the variance will be unfavorable. An unfavorable outcome means you used more materials than anticipated to make the actual number of production units.</para>
+<para id="fs-idm169146992">The actual quantity used can differ from the standard quantity because of improved efficiencies in production, carelessness or inefficiencies in production, or poor estimation when creating the standard usage.</para>
+<para id="fs-idm221125008">Consider the previous example with Connie’s Candy Company. Connie’s Candy established a standard price for candy-making materials of $7.00 per pound. Each box of candy is expected to use 0.25 pounds of candy-making materials. Connie’s Candy found that the actual quantity of candy-making materials used to produce one box of candy was 0.20 per pound. The direct materials quantity variance computes as:</para>
+<equation id="fs-idm743943664" class="unnumbered"><m:math><m:mrow><m:mtext>Direct Materials Quantity Variance</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0.20</m:mn><m:mspace width="0.2em"/><m:mtext>lb.</m:mtext><m:mo>–</m:mo><m:mn>0.25</m:mn><m:mspace width="0.2em"/><m:mtext>lb.</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>$7.00</m:mn><m:mo>=</m:mo><m:mn>–$0.35</m:mn><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>$0.35</m:mn><m:mspace width="0.2em"/><m:mtext>(Favorable)</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm218506960">In this case, the actual quantity of materials used is 0.20 pounds, the standard price per unit of materials is $7.00, and the standard quantity used is 0.25 pounds. This computes as a favorable outcome. This is a favorable outcome because the actual quantity of materials used was less than the standard quantity expected at the actual production output level. As a result of this favorable outcome information, the company may consider continuing operations as they exist, or could change future budget projections to reflect higher profit margins, among other things.</para>
+<para id="fs-idm197572080">Let us take the same example except now the actual quantity of candy-making materials used to produce one box of candy was 0.50 per pound. The direct materials quantity variance computes as:</para>
+<equation id="fs-idm169410080" class="unnumbered"><m:math><m:mrow><m:mtext>Direct Materials Quantity Variance</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0.50</m:mn><m:mspace width="0.2em"/><m:mtext>lb.</m:mtext><m:mo>–</m:mo><m:mn>0.25</m:mn><m:mspace width="0.2em"/><m:mtext>lb.</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>$7.00</m:mn><m:mo>=</m:mo><m:mn>$1.75</m:mn><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>$1.75</m:mn><m:mspace width="0.2em"/><m:mtext>(Unfavorable)</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm464426864">In this case, the actual quantity of materials used is 0.50 pounds, the standard price per unit of materials is $7.00, and the standard quantity used is 0.25 pounds. This computes as an unfavorable outcome. This is an unfavorable outcome because the actual quantity of materials used was more than the standard quantity expected at the actual production output level. As a result of this unfavorable outcome information, the company may consider retraining workers to reduce waste or change their production process to decrease materials needs per box.</para>
+<para id="fs-idm206889504">The combination of the two variances can produce one overall total direct materials cost variance.</para>
+<note id="fs-idm219907360" class="link-to-learning">
+<para id="fs-idm181710736">Watch this <link url="https://openstax.org/l/50Variances">video featuring a professor of accounting walking through the steps involved in calculating a material price variance and a material quantity variance</link> to learn more.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm219727584">
+<title>Total Direct Materials Cost Variance</title>
+<para id="fs-idm216421040">When a company makes a product and compares the actual materials cost to the standard materials cost, the result is the <term>total direct materials cost variance</term>.</para>
+<media id="fs-idm214312480" class="scaled-down" alt="Total Direct Material Variance equals (Actual Quantity times Actual Price) minus (Standard Quantity times Standard Price).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_02_EqTDMV01_img.jpg"/>
+</media>
+<para id="fs-idm198181440">An unfavorable outcome means the actual costs related to materials were more than the expected (standard) costs. If the outcome is a favorable outcome, this means the actual costs related to materials are less than the expected (standard) costs.</para>
+<para id="fs-idm758299728">The total direct materials cost variance is also found by combining the direct materials price variance and the direct materials quantity variance. By showing the total materials variance as the sum of the two components, management can better analyze the two variances and enhance decision-making.</para>
+<para id="fs-idm200855760"><link target-id="OSX_Acct_M08_02_TreeTDMV01"/> shows the connection between the direct materials price variance and direct materials quantity variance to total direct materials cost variance.</para>
+<figure id="OSX_Acct_M08_02_TreeTDMV01">
+<media id="fs-idm468159392" alt="There are three top row boxes. Two, Actual Quantity (AQ) times Actual Price (AP) and Actual Quantity (AQ) times Standard Price (SP) combine to point to a Second row box: Direct Material Price Variance. Two top row boxes: Actual Quantity (AQ) times Standard Price (SP) and Standard Quantity (SQ) times Standard Price (SP) combine to point to Second row box: Direct Materials Quantity Variance. Notice the middle top row box is used for both of the variances. Second row boxes: Direct Material Price Variance and Direct Materials Quantity Variance combine to point to bottom row box: Total Direct Material Variance.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_02_TreeTDMV01_img.jpg"/>
+</media>
+<caption>Direct Materials Variance. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm218927360">For example, Connie’s Candy Company expects to pay $7.00 per pound for candy-making materials but actually pays $9.00 per pound. The company expected to use 0.25 pounds of materials per box but actually used 0.50 per box. The total direct materials variance is computed as:</para>
+<equation id="fs-idm219934080" class="unnumbered"><m:math><m:mrow><m:mtext>Total Direct Materials Variance</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0.50</m:mn><m:mspace width="0.2em"/><m:mtext>lbs.</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>$9.00</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>–</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0.25</m:mn><m:mspace width="0.2em"/><m:mtext>lbs.</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>$7.00</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>$4.50</m:mn><m:mo>–</m:mo><m:mn>$1.75</m:mn><m:mo>=</m:mo><m:mn>$2.75</m:mn><m:mspace width="0.2em"/><m:mtext>(Unfavorable)</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm177598992">In this case, two elements contribute to the unfavorable outcome. Connie’s Candy paid $2.00 per pound more for materials than expected and used 0.25 pounds more of materials than expected to make one box of candy.</para>
+<para id="fs-idm217211968">The same calculation is shown using the outcomes of the direct materials price and quantity variances.</para>
+<media id="fs-idm216466592" alt="There are three top row boxes. Top row boxes: Actual Quantity (0.50) times Actual Price ($9.00) and Actual Quantity (0.50) times Standard Price ($7.00) combine to point to Second row box: Direct Material Price Variance $1.00 U. Top row boxes: Actual Quantity (.50) times Standard Price ($7.00) and Standard Quantity (0.25) times Standard Price ($7.00) combine to point to Second row box: Direct Materials Quantity Variance $1.75 U. Notice the middle top row box was used for both variances. The two second row boxes: Direct Material Price Variance $1.00 U and Direct Materials Quantity Variance $1.75 U combine to point to the one bottom row box: Total Direct Material Variance $2.75 U.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_02_TreeTDMV02_img.jpg"/>
+</media>
+<para id="fs-idm217580080">As with the interpretations for the materials price and quantity variances, the company would review the individual components contributing to the overall unfavorable outcome for the total direct materials variance, and possibly make changes to production elements as a result.</para>
+<note id="fs-idm197034576" class="your-turn">
+<title>Sweet and Fresh Shampoo Materials</title>
+<para id="fs-idm201942736">Biglow Company makes a hair shampoo called Sweet and Fresh. Each bottle has a standard material cost of 8 ounces at $0.85 per ounce. During May, Biglow manufactured 11,000 bottles. They bought 89,000 ounces of material at a cost of $74,760. All 89,000 ounces were used to make the 11,000 bottles. Calculate the material price variance and the material quantity variance.</para>
+<para id="fs-idm460514448"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm205106176">Actual price per pound: 74,760/89,000 = $0.84</para>
+<para id="fs-idm215106064">Material price variance: 89,000 × (0.84 − 0.85) = $890 favorable</para>
+<para id="fs-idm226243776">Material quantity variance: 0.85 × (89,000 – 88,000) = $850 unfavorable</para>
+<media id="fs-idm438179632" alt="There are three top row boxes. Top row boxes: Actual Quantity (89,000 ounces) times Actual Price ($0.84) and Actual Quantity (89,000 ounces) times Standard Price ($0.85) combine to point to Second row box: Direct Material Price Variance $890 Favorable. Top row boxes: Actual Quantity (89,000 ounces) times Standard Price ($0.85) and Standard Quantity (88,000 ounces) times Standard Price ($0.85) combine to point to Second row box: Direct Materials Quantity Variance $850 Unfavorable. Notice the middle top row box was used for both variances. The two second row boxes: Direct Material Price Variance $890 Favorable and Direct Materials Quantity Variance $850 Unfavorable combine to point to the one bottom row box: Total Direct Material Variance $40 Favorable.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_02_YTSol01_img.png"/>
+</media>
+</note>
+</section>
+<section id="fs-idm214560128" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm214930480" list-type="bulleted" bullet-style="bullet">
+<item>There are two components to material variances: the direct materials price variance and the direct materials quantity variance.</item>
+<item>The direct materials price variance is caused by paying too much or too little for material.</item>
+<item>The direct materials quantity variance is caused by using too much or too little material.</item>
+</list>
+</section>
+<section id="fs-idm223412240" class="multiple-choice">
+<exercise id="fs-idm214870784">
+<problem id="fs-idm451767792">
+<para id="fs-idm224085760"><link class="lo-reference" document="m68071"/>What are some possible reasons for a material price variance?</para>
+<list id="fs-idm491390336" list-type="enumerated" number-style="upper-alpha">
+<item>substandard material</item>
+<item>labor rate increases</item>
+<item>labor rate decreases</item>
+<item>labor efficiency</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm174768512">
+<problem id="fs-idm200611040">
+<para id="fs-idm186751520"><link class="lo-reference" document="m68071"/>When is the material price variance unfavorable?</para>
+<list id="fs-idm188112320" list-type="enumerated" number-style="upper-alpha">
+<item>when the actual quantity used is greater than the standard quantity</item>
+<item>when the actual quantity used is less than the standard quantity</item>
+<item>when the actual price paid is greater than the standard price</item>
+<item>when the actual price is less than the standard price</item>
+</list>
+</problem>
+<solution id="fs-idm196428528">
+<para id="fs-idm196568064">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm216470464">
+<problem id="fs-idm203422720">
+<para id="fs-idm215049072"><link class="lo-reference" document="m68071"/>When is the material price variance favorable?</para>
+<list id="fs-idm203177632" list-type="enumerated" number-style="upper-alpha">
+<item>when the actual quantity used is greater than the standard quantity</item>
+<item>when the actual quantity used is less than the standard quantity</item>
+<item>when the actual price paid is greater than the standard price</item>
+<item>when the actual price is less than the standard price</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm494214224">
+<problem id="fs-idm177528960">
+<para id="fs-idm199206736"><link class="lo-reference" document="m68071"/>What are some reasons for a material quantity variance?</para>
+<list id="fs-idm159597616" list-type="enumerated" number-style="upper-alpha"><item>building rental charges increase</item>
+<item>labor rate decreases</item>
+<item>more qualified workers</item>
+<item>change in the actual cost of materials</item>
+</list></problem>
+<solution id="fs-idm210230736">
+<para id="fs-idm206846064">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm199404976">
+<problem id="fs-idm217509952">
+<para id="fs-idm198124320"><link class="lo-reference" document="m68071"/>When is the material quantity variance favorable?</para>
+<list id="fs-idm214856816" list-type="enumerated" number-style="upper-alpha">
+<item>when the actual quantity used is greater than the standard quantity</item>
+<item>when the actual quantity used is less than the standard quantity</item>
+<item>when the actual price paid is greater than the standard price</item>
+<item>when the actual price is less than the standard price</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm195262432">
+<problem id="fs-idm491888688">
+<para id="fs-idm482655744"><link class="lo-reference" document="m68071"/>When is the material quantity unfavorable?</para>
+<list id="fs-idm223428528" list-type="enumerated" number-style="upper-alpha">
+<item>when the actual quantity used is greater than the standard quantity</item>
+<item>when the actual quantity used is less than the standard quantity</item>
+<item>when the actual price paid is greater than the standard price</item>
+<item>when the actual price is less than the standard price</item>
+</list>
+</problem>
+<solution id="fs-idm203152256">
+<para id="fs-idm201875760">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm176767872" class="questions">
+<exercise id="fs-idm194662800">
+<problem id="fs-idm195445040">
+<para id="fs-idm218675360"><link class="lo-reference" document="m68071"/>What causes the material price variance?</para>
+</problem>
+<solution id="fs-idm197995872">
+<para id="fs-idm218650064">Paying more or less than the standard price</para>
+</solution>
+</exercise>
+<exercise id="fs-idm209373600">
+<problem id="fs-idm200510144">
+<para id="fs-idm222568016"><link class="lo-reference" document="m68071"/>What causes the material quantity variance?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm207342896">
+<problem id="fs-idm223438544">
+<para id="fs-idm207271424"><link class="lo-reference" document="m68071"/>What are some possible causes of a material price variance?</para>
+</problem>
+<solution id="fs-idm199563056">
+<para id="fs-idm214266192">Buying a different quality level of material; good or bad purchasing/negotiation</para>
+</solution>
+</exercise>
+<exercise id="fs-idm183058912">
+<problem id="fs-idm197114816">
+<para id="fs-idm214519488"><link class="lo-reference" document="m68071"/>What are some possible causes of a material quantity variance?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm200943648" class="exercise-set-a">
+<exercise id="fs-idm208587424">
+<problem id="fs-idm200815456">
+<para id="fs-idm224103008"><link class="lo-reference" document="m68071"/>Sitka Industries uses a cost system that carries direct materials inventory at a standard cost. The controller has established these standards for one ladder (unit):</para>
+<media id="fs-idm217390304" alt="Standard Quantity times Standard Price equals Standard Cost. Direct materials, 3 pounds, $4.50 per pound, $13.50. Direct labor, 2.00 hours, $12.00 per hour, $24.00. Total cost, -, -, $37.50.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_02_EA01_img.jpg"/>
+</media>
+<para id="fs-idm224003712">Sitka Industries made 3,000 ladders in July and used 8,800 pounds of material to make these units. Sitka Industries bought 15,500 pounds of material in the current period. There was a $250 unfavorable direct materials price variance.</para><list id="fs-idm196507072" list-type="enumerated" number-style="upper-alpha">
+<item>How much in total did Sitka pay for the 15,500 pounds?</item>
+<item>What is the direct materials quantity variance?</item>
+<item>What is the total direct material cost variance?</item>
+<item>What if 9,500 pounds were used to make these ladders, what would be the direct materials quantity variance?</item>
+<item>If there was a $340 favorable direct materials price variance, how much did Sitka pay for the 15,500 pounds of material?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm200680368">
+<problem id="fs-idm208663808">
+<para id="fs-idm215142512"><link class="lo-reference" document="m68071"/>Use the information provided to answer the questions.</para>
+<media id="fs-idm224070784" alt="Actual price paid per pound of material $14.50, Total standard pounds for units produced this period 12,500, Pounds of material used 13,250, Direct materials price variance favorable $4,637.50.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_02_EA02_img.jpg"/>
+</media>
+<para id="fs-idm203755216">All material purchased was used in production.</para>
+<list id="fs-idm218699424" list-type="enumerated" number-style="upper-alpha"><item>What is the standard price for materials?</item>
+<item>What is the direct materials quantity variance?</item>
+<item>What is the total direct materials cost variance?</item>
+<item>If the direct materials price variance was unfavorable, what would be the standard price?</item>
+</list></problem>
+</exercise>
+<exercise id="fs-idm224001216">
+<problem id="fs-idm205746896">
+<para id="fs-idm458745168"><link class="lo-reference" document="m68071"/>Dog Bone Bakery, which bakes dog treats, makes a special biscuit for dogs. Each biscuit uses 0.75 cup of pure semolina flour. They buy 4,000 cups of flour at $0.55 per cup. They use 3,550 cups of flour to make 4,750 biscuits. The standard cost per cup of flour is $0.53.</para>
+<list id="fs-idm205244288" list-type="enumerated" number-style="upper-alpha">
+<item>What are the direct materials price variance, the direct materials quantity variances, and the total direct materials cost variance?</item>
+<item>What is the standard cost per biscuit for the semolina flour?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm479213584" class="exercise-set-b">
+<exercise id="fs-idm171953728">
+<problem id="fs-idm218599536">
+<para id="fs-idm201826688"><link class="lo-reference" document="m68071"/>Smith Industries uses a cost system that carries direct materials inventory at a standard cost. The controller has established these standards for the cost of one basket (unit):</para>
+<media id="fs-idm178938800" alt="Standard Quantity times Standard Price equals Standard Cost. Direct materials, 5 pounds, $2.60 per pound, $18.00. Direct labor, 1.25 hours, $12.00 per hour, $15.00. Total cost, -, -, $33.00.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_02_EB01_img.jpg"/>
+</media>
+<para id="fs-idm198280784">Smith Industries made 3,000 baskets in July and used 15,500 pounds of material to make these units. Smith Industries paid $39,370 for the 15,500 pounds of material.</para>
+<list id="fs-idm213084752" list-type="enumerated" number-style="upper-alpha">
+<item>What was the direct materials price variance for July?</item>
+<item>What was the direct materials quantity variance for July?</item>
+<item>What is the total direct materials cost variance?</item>
+<item>If Smith Industries used 15,750 pounds to make the baskets, what would be the direct materials quantity variance?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm465705872">
+<problem id="fs-idm162126272">
+<para id="fs-idm466524720"><link class="lo-reference" document="m68071"/>Lizbeth, Inc., makes ice cream. The toffee coffee ice cream takes 4 quarts of cream, 3 cups of sugar, 2 tablespoons of toffee flavoring, and 1.5 tablespoons of coffee flavoring per gallon. The standard prices are $2.00 per quart of cream, $0.40 per cup of sugar, $0.50 per tablespoon of toffee flavoring, and $0.75 per tablespoon of coffee flavoring.</para>
+<list id="fs-idm195986848" list-type="enumerated" number-style="upper-alpha">
+<item>What is the standard material cost for a gallon of toffee coffee ice cream?</item>
+<item>If Lizbeth makes 35 gallons of toffee coffee ice cream, how much of each of the ingredients should she use?</item>
+<item>If Lizbeth uses 105 quarts of cream to make 25 gallons of ice cream, what would be the cream (direct materials) quantity variance?</item>
+<item>If Lizbeth uses 45 tablespoons of toffee flavoring to make 25 gallons of ice cream, what would be the toffee flavoring (direct materials) quantity variance?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm469063392">
+<problem id="fs-idm175111152">
+<para id="fs-idm225681696"><link class="lo-reference" document="m68071"/>Woodpecker manufactures sawmill equipment. They use a standard costing system and recognize material price variance at the time of material purchases. They use carbide to make the teeth on their band-saw blades. They received an order for 250 band-saw blades, but they did not have any carbide in stock. They purchased 3,500 pounds of carbide for $14,875 but should have spent $16,275. Each saw blade has a standard carbide direct materials quantity of 7.8 pounds.</para>
+<list id="fs-idm214545296" list-type="enumerated" number-style="upper-alpha">
+<item>If they used 8 pounds per blade, what would be the direct materials quantity variance?</item>
+<item>If they used 7.5 pounds per blade, what would be the direct materials quantity variance?</item>
+<item>Compute the direct materials price variance based on 7.5 pounds of carbide per blade actually used.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm210210896" class="problem-set-a">
+<exercise id="fs-idm204103552">
+<problem id="fs-idm160351568">
+<para id="fs-idm178999808"><link class="lo-reference" document="m68071"/>April Industries employs a standard costing system in the manufacturing of its sole product, a park bench. They purchased 60,000 feet of raw material for $300,000, and it takes 5 feet of raw materials to produce one park bench. In August, the company produced 10,000 park benches. The standard cost for material output was $100,000, and there was an unfavorable direct materials quantity variance of $6,000.</para>
+<list id="fs-idm201226880" list-type="enumerated" number-style="upper-alpha">
+<item>What is April Industries’ standard price for one unit of material?</item>
+<item>What was the total number of units of material used to produce the August output?</item>
+<item>What was the direct materials price variance for August?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm478402000">
+<problem id="fs-idm195356912">
+<para id="fs-idm479016912"><link class="lo-reference" document="m68071"/>Ed Co. manufactures two types of O rings, large and small. Both rings use the same material but require different amounts. Standard materials for both are shown.</para>
+<table id="fs-idm199767104" class="unnumbered unstyled" summary="Assessment data">
+<label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">Large</entry>
+<entry valign="top" align="left">Small</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Rubber</entry>
+<entry valign="top" align="left">3 feet at $0.25 per foot</entry>
+<entry valign="top" align="left">1.25 feet at $0.25 per foot</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Connector</entry>
+<entry valign="top" align="left">1 at $0.03</entry>
+<entry valign="top" align="left">1 at $0.03</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm217527344">At the beginning of the month, Ed Co. bought 25,000 feet of rubber for $6,875. The company made 3,000 large O rings and 4,000 small O rings. The company used 14,500 feet of rubber.</para>
+<list id="fs-idm211737040" list-type="enumerated" number-style="upper-alpha">
+<item>What are the direct materials price variance, the direct materials quantity variance, and the total direct materials cost variance?</item>
+<item>If they bought 10,000 connectors costing $310, what would the direct materials price variance be for the connectors?</item>
+<item>If there was an unfavorable direct materials price variance of $125, how much did they pay per foot for the rubber?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm220533648">
+<problem id="fs-idm207460512">
+<para id="fs-idm196724784"><link class="lo-reference" document="m68071"/>The Whizbang Company makes a special type of toy. Each toy takes 6 ounces of a special material that costs $3 per ounce. Whizbang bought 4,000 ounces of the material at a cost of $11,300. They used 3,400 ounces to make 534 toys. Compute the direct materials price variance, the direct materials quantity variance, and the total direct materials quantity variance.</para></problem>
+</exercise>
+</section>
+<section id="fs-idm470175024" class="problem-set-b">
+<exercise id="fs-idm200734288">
+<problem id="fs-idm226250384">
+<para id="fs-idm205263968"><link class="lo-reference" document="m68071"/>A company bought 45,000 pounds of plastic pellets to make DVDs at a cost of $9,900. The standard cost per pound for the pellets is 20.5 cents. Some of these pellets were used in three jobs. The first job called for 7,500 pounds but used 7,250 pounds. The second job called for 8,800 pounds but used 9,000 pounds. The third job called for 2,300 pounds but used 2,250 pounds. Compute the direct materials price variance and the direct materials quantity variance for each job and in total. Why would you want to calculate the direct materials quantity variance for each job?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm203503600">
+<problem id="fs-idm224865968">
+<para id="fs-idm205204592"><link class="lo-reference" document="m68071"/>Illinois Company is a medium-sized company that makes dresses. During the month of June, 8,575 dresses were made. All material purchases were used to make the dresses. The company had this information: standard per dress of 6 yards of material at $6.20 per yard. The actual quantity was 52,000 yards at a cost of $325,520. Compute the direct materials price variance, the direct materials quantity variance, and the total direct materials cost variance.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm214385600">
+<problem id="fs-idm159614752">
+<para id="fs-idm209466400"><link class="lo-reference" document="m68071"/>Corolla Manufacturing has a standard cost for steel of $20 per pound for a product that uses 4 pounds of steel. During September, Corolla purchased and used 4,200 pounds of steel to make 1,040 units. They paid $20.75 per pound for the steel. Compute the direct materials price variance, the direct materials quantity variance, and the total direct materials cost variance for the month of September. What would change if Corolla had made 2,200 units?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm215467280" class="thought-provokers">
+<exercise id="fs-idm466596272">
+<problem id="fs-idm187777696">
+<para id="fs-idm197074912"><link class="lo-reference" document="m68071"/>You started your own construction business and need to determine the cost of materials used to build one house, and how many materials you will need to do so.</para>
+<list id="fs-idm197102848" list-type="bulleted">
+<item>Where would you begin to determine the standard price and quantity needs to build one house?</item>
+<item>What would produce a difference between the standard cost to build a house and the actual cost? What would cause a favorable outcome? What would cause an unfavorable outcome?</item>
+<item>What action might your company take if you had an unfavorable total direct materials cost variance?</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm217541536">
+<term>direct materials price variance</term>
+<meaning id="fs-idm163684672">difference between the actual price paid per unit for materials and what should have been paid per the standards</meaning>
+</definition>
+<definition id="fs-idm735945872">
+<term>direct materials quantity variance</term>
+<meaning id="fs-idm164653776">difference between the actual quantity of materials used and the standard materials that were expected to be used to make the actual units produced</meaning>
+</definition>
+<definition id="fs-idm224908368">
+<term>direct materials variance</term>
+<meaning id="fs-idm222556960">difference between the actual price or amount used and the standard amount</meaning>
+</definition>
+<definition id="fs-idm201021088">
+<term>total direct materials cost variance</term>
+<meaning id="fs-idm195314384">difference between actual materials cost and standard materials cost</meaning>
+</definition>
+</glossary>
+</document>

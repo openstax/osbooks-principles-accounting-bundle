@@ -1,0 +1,245 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Discuss the Applicability of Earnings per Share as a Method to Measure Performance</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67921</md:content-id>
+  <md:title>Discuss the Applicability of Earnings per Share as a Method to Measure Performance</md:title>
+  <md:abstract/>
+  <md:uuid>eb2c8657-e0fd-4f83-8a3f-c1579cdc4eb3</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm268825600"><term>Earnings per share (EPS)</term> measures the portion of a corporation’s profit allocated to each outstanding share of common stock. Many financial analysts believe that EPS is the single most important tool in assessing a stock’s market price. A high or increasing earnings per share can drive up a stock price. Conversely, falling earnings per share can lower a stock’s market price. EPS is also a component in calculating the price-to-earnings ratio (the market price of the stock divided by its earnings per share), which many investors find to be a key indicator of the value of a company’s stock.</para>
+<note id="fs-idm268302256" class="concepts-practice">
+<title>Microsoft Earnings Announcements Exceeds Wall Street Targets</title>
+<para id="fs-idm268287664">While a company’s board of directors makes the final approval of the reports, a key goal of each company is to look favorable to investors while providing financial statements that accurately reflect the financial condition of the company. Each quarter, public companies report EPS through a public announcement as one of the key measures of their profitability. These announcements are highly anticipated by investors and analysts. The suspense is heightened because analysts provide earnings estimates to the public prior to each announcement release. According to Matt Weinberger of <emphasis effect="italics">Business Insider</emphasis>, the announcement by <emphasis class="colored-text">Microsoft</emphasis> of its first quarter 2018 EPS reported at $0.95 per share, higher than analysts’ estimates of $0.85 per share, caused the value of its stock to rise by more than 3% within hours of the announcement.<footnote id="fs-idm282682912">Matt Weinberger. “Microsoft’s Cloud Business Is Driving a Revenue Surge That’s Well above Wall Street Targets.” <emphasis effect="italics">Business Insider.</emphasis> April 26, 2018. https://www.businessinsider.com/microsoft-q3-fy18-earnings-revenue-eps-analysis-2018-4</footnote> While revenue was the other key metric in <emphasis class="colored-text">Microsoft</emphasis>’s earnings announcement, EPS carried more weight in the surge of the company’s market price.</para>
+</note>
+<section id="fs-idm274280528">
+<title>Calculating Earnings per Share</title>
+<para id="fs-idm277377136">Earnings per share is the profit a company earns for each of its outstanding common shares. Both the balance sheet and income statement are needed to calculate EPS. The balance sheet provides details on the preferred dividend rate, the total par value of the preferred stock, and the number of common shares outstanding. The income statement indicates the net income for the period. The formula to calculate basic earnings per share is:</para>
+<media id="fs-idm272791424" class="scaled-down" alt="Earnings per Share equals (Net income minus Preferred dividends) divided by Weighted Average Common Shares Outstanding.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_05_EPSEq_img.jpg"/>
+</media>
+<para id="fs-idm274508176">By removing the preferred dividends from net income, the numerator represents the profit available to common shareholders. Because preferred dividends represent the amount of net income to be distributed to preferred shareholders, this portion of the income is obviously not available for common shareholders. While there are a number of variations of measuring a company’s profit used in the financial world, such as NOPAT (net operating profit after taxes) and EBITDA (earnings before interest, taxes, depreciation, and amortization), GAAP requires companies to calculate EPS based on a corporation’s net income, as this amount appears directly on a company’s income statement, which for public companies must be audited.</para>
+<para id="fs-idm271901184">In the denominator, only common shares are used to determine earnings per share because EPS is a measure of earnings for each common share of stock. The denominator can fluctuate throughout the year as a company issues and buys back shares of its own stock. The weighted average number of shares is used on the denominator because of this fluctuation. To illustrate, assume that a corporation began the year with 600 shares of common stock outstanding and then on April 1 issued 1,000 more shares. During the period January 1 to March 31, the company had the original 600 shares outstanding. Once the new shares were issued, the company had the original 600 plus the new 1,000 shares, for a total of 1,600 shares for each of the next nine months—from April 1 to December 31. To determine the weighted average shares, apply these fractional weights to both of the stock amounts, as shown in <link target-id="OSX_Acct_F14_05_WAshares"/>.</para>
+<figure id="OSX_Acct_F14_05_WAshares">
+<media id="fs-idm284124368" alt="Number of Shares times the Portion of Year equals Weighted Shares (respectively): 600 times 3/12 equals 150. 1,600 times 9/12 equals 1,200. Weighted average shares 1,350.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_05_WAshares.jpg"/>
+</media>
+<caption>Weighted Shares. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm277347264">If the shares were not weighted, the calculation would not consider the time period during which the shares were outstanding.</para>
+<para id="fs-idm268728736">To illustrate how EPS is calculated, assume Sanaron Company earns $50,000 in net income during 2020. During the year, the company also declared a $10,000 dividend on preferred stock and a $14,000 dividend on common stock. The company had 5,000 common shares outstanding the entire year along with 2,000 preferred shares. Sanaron has generated $8 of earnings ($50,000 less the $10,000 of preferred dividends) for each of the 5,000 common shares of stock it has outstanding.</para>
+<equation id="fs-idm281690000" class="unnumbered"><label/><m:math><m:mrow><m:mtext>Earnings per share</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$50,000</m:mn><m:mo>−</m:mo><m:mn>$10,000</m:mn></m:mrow><m:mrow><m:mn>5,000</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$8.00</m:mn></m:mrow></m:math></equation>
+<note id="fs-idm282854512" class="think-through"><title>Ethical Calculations of Earnings per Share </title><para id="fs-idm272657008">When a company issued new shares of stock and buys other back as treasury stock, EPS can be manipulated because both of these transactions affect the number of shares of stock outstanding. What are ethical considerations involved in calculating EPS?</para>
+</note></section>
+<section id="fs-idm276873760">
+<title>Measuring Performance with EPS</title>
+<para id="fs-idm283812688">EPS is a key profitability measure that both current and potential common stockholders monitor. Its importance is accentuated by the fact that GAAP requires public companies to report EPS on the face of a company’s income statement. This is only ratio that requires such prominent reporting. If fact, public companies are required to report two different earnings per share amounts on their income statements—basic and diluted. We’ve illustrated the calculation of basic EPS. Diluted EPS, which is not demonstrated here, involves the consideration of all securities such as stocks and bonds that could potentially dilute, or reduce, the basic EPS.</para>
+<note id="fs-idm270559920" class="link-to-learning">
+<para id="fs-idm271904112">Where can you find EPS information on public companies? Check out the <link url="https://openstax.org/l/50YahooFinance">Yahoo Finance website</link> and search for EPS data for your favorite corporation.</para>
+</note>
+<para id="fs-idm276894880">Common stock shares are normally purchased by investors to generate income through dividends or to sell at a profit in the future. Investors realize that inadequate EPS can result in poor or inconsistent dividend payments and fluctuating stock prices. As such, companies seek to produce EPS amounts that rise each period. However, an increase in EPS may not always reflect favorable performance, as there are multiple reasons that EPS may increase. One way EPS can increase is because of increased net income. On the other hand, it can also increase when a company buys back its own shares of stock. For example, assume that Ranadune Enterprises generated net income of $15,000 in 2020. In addition, 20,000 shares of common stock and no preferred stock were outstanding throughout 2020. On January 1, 2020, the company buys back 2,500 shares of its common stock and holds them as treasury shares. Net income for 2020 stayed static at $15,000. Just before the repurchasing of the stock, the company’s EPS is $0.75 per share:</para>
+<equation id="fs-idm284015424" class="unnumbered"><label/><m:math><m:mrow><m:mtext>Earnings per share</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$15,000</m:mn></m:mrow><m:mrow><m:mn>20,000</m:mn><m:mspace width="0.2em"/><m:mtext>shares</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$0.75</m:mn><m:mspace width="0.2em"/><m:mtext>per</m:mtext><m:mspace width="0.2em"/><m:mtext>share</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm284052896">The purchase of treasury stock in 2020 reduces the common shares outstanding to 17,500 because treasury shares are considered issued but not outstanding (20,000 − 2,500). EPS for 2020 is now $0.86 per share even though earnings remains the same.</para>
+<equation id="fs-idm280512656" class="unnumbered"><label/><m:math><m:mrow><m:mtext>Earnings per share</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$15,000</m:mn></m:mrow><m:mrow><m:mn>17,500</m:mn><m:mspace width="0.2em"/><m:mtext>shares</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$0.86</m:mn><m:mspace width="0.2em"/><m:mtext>per share</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm269013920">This increase in EPS occurred because the net income is now spread over fewer shares of stock. Similarly, EPS can decline even when a company’s net income increases if the number of shares increases at a higher degree than net income. Unfortunately, managers understand how the number of shares outstanding can affect EPS and are often in position to manipulate EPS by creating transactions that target a desired EPS number.</para>
+<note id="fs-idm281361696" class="ethical-considerations">
+<title>Stock Buybacks Drive Up Earnings per Share: Ethical?</title>
+<para id="fs-idm283530336">Public companies can increase their earnings per share by buying their own stock in the open market. The increase in earnings per share results because the number of shares is reduced by the purchase even though the earnings remain the same. With fewer shares and the same amount of earnings, the earnings per share increases without any change in overall profitability or operational efficiency. A <emphasis effect="italics">Market Watch</emphasis> article attributing Goldman Sachs states, “S&amp;P 500 companies will spend about $780 billion on share buybacks in 2017, marking a 30% rise from 2016.”<footnote id="fs-idm284098592">C. Linnane and T. Kilgore. “Share Buybacks Will Rise 30% to $780 Billion Next Year, says Goldman Sachs.” Market Watch. November 22, 2016 https://www.marketwatch.com/story/share-buybacks-will-return-with-a-vengeance-next-year-2016-11-21.</footnote> An article in <emphasis effect="italics">Forbes</emphasis> provides some perspective by pointing out that buying back shares was legalized in 1982, but for the majority of the twentieth century, corporate buybacks of shares was considered illegal because “they were thought to be a form of stock market manipulation. . . . Buying back company stock can inflate a company’s share price and boost its earnings per share—metrics that often guide lucrative executive bonuses.”<footnote id="fs-idm268865712">Arne Alsin. “The Ugly Truth Behind Stock Buybacks.” <emphasis effect="italics">Forbes</emphasis>. Feb. 28, 2017. https://www.forbes.com/sites/aalsin/2017/02/28/shareholders-should-be-required-to-vote-on-stock-buybacks/#69b300816b1e</footnote> Is a corporation buying back its shares an ethical way in which to raise or maintain the price of a company’s shares?</para>
+</note>
+<para id="fs-idm283786704">Earnings per share is interpreted differently by different analysts. Some financial experts favor companies with higher EPS values. The reasoning is that a higher EPS is a reflection of strong earnings and therefore a good investment prospect. A more meaningful analysis occurs when EPS is tracked over a number of years, such as when presented in the comparative income statements for <emphasis class="colored-text">Cracker Barrel Old Country Store, Inc.</emphasis>’s respective year ends in 2017, 2016, and 2015 shown in <link target-id="OSX_Acct_F14_04_CrackBar"/>.<footnote id="fs-idm271525872">Cracker Barrel. <emphasis effect="italics">Cracker Barrel Old Country Store 2017 Annual Report.</emphasis> September 22, 2017. http://investor.crackerbarrel.com/static-files/c05f90b8-1214-4f50-8508-d9a70301f51f</footnote> <emphasis class="colored-text">Cracker Barrel</emphasis>’s basic EPS is labeled as “net income per share: basic.”</para>
+<figure id="OSX_Acct_F14_04_CrackBar">
+<media id="fs-idm274547120" alt="Cracker Barrel Old Country Store, Inc. Consolidated Statements of Income (In thousands except share data) Fiscal years ended July 28, 2017, July 29, 2016, and July 31, 2015 (respectively): Total Revenue $2,926,289, 2,912,351, 2,842,284. Less Cost of goods sold (exclusive of depreciation and rent) 891,293, 928,176, 924,171. Less Labor and other related expenses 1,017,124, 1,066,188, 992,382. Less Other store operating expenses 563,300, 554,534, 523,307. Equals Store operating income 454,572, 423,453, 402,424. Less General and administrative expenses 141,414, 142,982, 147,544. Equals Operating income 313,158, 280,471, 254,880. Less Interest expense 14,271, 14,052, 16,679. Equals Income before income taxes, 298,887, 266,419, 238. Less Provision for income taxes 96,988, 77,120, 74,298. Equals Net income 201,899, 189,299, 163,903. Net income per share: basic $8.40, 7.91, 6.85. Net income per share: diluted $8.37, 7.86, 6.82. Basic weighted average shares outstanding 24,031,810, 23,945,041, 23,918,368. Diluted weighted average shares outstanding 24,118,288, 24,074,273, 24,048,924.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F14_04_CrackBar.jpg"/>
+</media>
+<caption>Consolidated Statements of Income for Cracker Barrel. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm270699472">Most analysts believe that a consistent improvement in EPS year after year is the indication of continuous improvement in the earning power of a company. This is what is seen in <emphasis class="colored-text">Cracker Barrel</emphasis>’s EPS amounts over each of the three years reported, moving from $6.85 to $7.91 to $8.40. However, it is important to remember that EPS is calculated on historical data, which is not always predictive of the future. In addition, when EPS is used to compare different companies, significant differences may exist. If companies are in the same industry, that comparison may be more valuable than if they are in different industries. Basically, EPS should be a tool used in decision-making, utilized alongside other analytic tools.</para>
+<note id="fs-idm280837600" class="your-turn">
+<title>Would You Have Invested?</title>
+<para id="fs-idm271574096">What if, in 1997, you invested $5,000 in <emphasis class="colored-text">Amazon</emphasis>? Today, your investment would be worth nearly $1 million. Potential investors viewing <emphasis class="colored-text">Amazon</emphasis>’s income statement in 1997 would have seen an EPS of a negative $0.11. In other words, <emphasis class="colored-text">Amazon</emphasis> lost $0.11 for each share of common stock outstanding. Would you have invested?</para>
+<para id="fs-idm269236544"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm280858000">Answers will vary. A strong response would include the idea that a negative or small EPS reflects upon the past historical operations of a company. EPS does not predict the future. Investors in 1997 looked beyond Amazon’s profitability and saw its business model having strong future potential.</para>
+</note>
+<note id="fs-idm277565696" class="think-through"><title>Using Earnings per Share in Decision-Making</title><para id="fs-idm273124992">As a valued employee, you have been awarded 10 shares of the company’s stock. Congratulations! How could you use earnings per share to help you decide whether to hold on to the stock or keep it for the future?</para>
+</note></section>
+<section id="fs-idm270124624" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm269904064" list-type="bulleted" bullet-style="bullet">
+<item>Earnings per share (EPS) measures the portion of a corporation’s profit allocated to each outstanding share of common stock.</item>
+<item>EPS is calculated by dividing the profit earned for common shareholders by the weighted average common shares of stock outstanding.</item>
+<item>Because EPS is a key profitability measure that both current and potential common stockholders monitor, it is important to understand how to interpret it.</item>
+</list>
+</section>
+<section id="fs-idm277578400" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm268463008">
+<problem id="fs-idm277564816">
+<para id="fs-idm268868912"><link class="lo-reference" document="m67921"/>Which of the following is a measurement of earnings that represents the profit before interest, taxes, depreciation and amortization are subtracted?</para>
+<list id="fs-idm272791184" list-type="enumerated" number-style="upper-alpha">
+<item>net income</item>
+<item>retained earnings</item>
+<item>EBITDA</item>
+<item>EPS</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm274538944">
+<problem id="fs-idm283247088">
+<para id="fs-idm270090928"><link class="lo-reference" document="m67921"/>Which of the following measures the portion of a corporation’s profit allocated to each outstanding share of common stock?</para>
+<list id="fs-idm269957408" list-type="enumerated" number-style="upper-alpha">
+<item>retained earnings</item>
+<item>EPS</item>
+<item>EBITDA</item>
+<item>NOPAT</item>
+</list>
+</problem>
+<solution id="fs-idm268274000">
+<para id="fs-idm276810352">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm268951680">
+<problem id="fs-idm277231120">
+<para id="fs-idm269070128"><link class="lo-reference" document="m67921"/>The measurement of earnings concept that consists of a company’s profit from operations after taxed are subtracted is ________.</para>
+<list id="fs-idm270128512" list-type="enumerated" number-style="upper-alpha">
+<item>ROI</item>
+<item>EPS</item>
+<item>EBITDA</item>
+<item>NOPAT</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm277209424">
+<problem id="fs-idm271512416">
+<para id="fs-idm281853856"><link class="lo-reference" document="m67921"/>The correct formula for the calculation of earnings per share is ________.</para>
+<list id="fs-idm276783200" list-type="enumerated" number-style="upper-alpha">
+<item>(Net income + Preferred dividends) / Weighted average common shares outstanding</item>
+<item>Net income / Weighted average common shares outstanding</item>
+<item>(Net income – Preferred dividends) / Weighted average common shares outstanding</item>
+<item>(Net income – Preferred dividends) / Treasury shares outstanding</item>
+</list>
+</problem>
+<solution id="fs-idm269837184">
+<para id="fs-idm274559600">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm274693808">
+<problem id="fs-idm271451808">
+<para id="fs-idm273241840"><link class="lo-reference" document="m67921"/>Most analysts believe which of the following is true about EPS?</para>
+<list id="fs-idm283889904" list-type="enumerated" number-style="upper-alpha">
+<item>Consistent improvement in EPS year after year is the indication of continuous improvement in the company’s earning power.</item>
+<item>Consistent improvement in EPS year after year is the indication of continuous decline in the company’s earning power.</item>
+<item>Consistent improvement in EPS year after year is the indication of fraud within the company.</item>
+<item>Consistent improvement in EPS year after year is the indication that the company will never suffer a year of net loss rather than net income.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm276952832" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm273050208">
+<problem id="fs-idm269769680">
+<para id="fs-idm274520224"><link class="lo-reference" document="m67921"/>Which financial statements do you need to calculate EPS?</para>
+</problem>
+<solution id="fs-idm274687104">
+<para id="fs-idm281852096">Comparative balance sheets and income statements.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm276798224">
+<problem id="fs-idm276797968">
+<para id="fs-idm277256736"><link class="lo-reference" document="m67921"/>Where is EPS disclosed for publicly traded companies?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm272473840">
+<problem id="fs-idm272473584">
+<para id="fs-idm274205792"><link class="lo-reference" document="m67921"/>Should investors rely on EPS as an investing tool? Why or why not?</para>
+</problem>
+<solution id="fs-idm270409120">
+<para id="fs-idm273239184">Yes, as one analytical tool among others.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm273230128">
+<problem id="fs-idm273229872">
+<para id="fs-idm277092944"><link class="lo-reference" document="m67921"/>What information do you need to calculate the weighted average common shares outstanding?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm283643712">
+<problem id="fs-idm283643456">
+<para id="fs-idm280618160"><link class="lo-reference" document="m67921"/>Which is the only ratio required to be reported on the face of a company’s financial statements? What are the two ways the ratio is required to be reported?</para>
+</problem>
+<solution id="fs-idm277226672">
+<para id="fs-idm277226416">EPS is the only ratio required by GAAP to be reported on the face of the income statement. It must be reported in two ways: basic and diluted (if applicable).</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm274684448" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm282092688">
+<problem id="fs-idm282092432">
+<para id="fs-idm283637312"><link class="lo-reference" document="m67921"/>Jupiter Corporation earned net income of $90,000 this year. The company began the year with 600 shares of common stock and issued 500 more on April 1. They issued $5,000 in preferred dividends for the year. What is Jupiter Corporation’s weighted average number of shares for the year?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm277403120">
+<problem id="fs-idm277402864">
+<para id="fs-idm271084368"><link class="lo-reference" document="m67921"/>Longmont Corporation earned net income of $90,000 this year. The company began the year with 600 shares of common stock and issued 500 more on April 1. They issued $5,000 in preferred dividends for the year. What is the numerator of the EPS calculation for Longmont?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm275514432">
+<problem id="fs-idm270394560">
+<para id="fs-idm270394304"><link class="lo-reference" document="m67921"/>James Corporation earned net income of $90,000 this year. The company began the year with 600 shares of common stock and issued 500 more on April 1. They issued $5,000 in preferred dividends for the year. What is the EPS for the year for James (rounded to the nearest dollar)?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm277520224" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm274667328">
+<problem id="fs-idm269834400">
+<para id="fs-idm269834144"><link class="lo-reference" document="m67921"/>Brunleigh Corporation earned net income of $200,000 this year. The company began the year with 10,000 shares of common stock and issued 5,000 more on April 1. They issued $7,500 in preferred dividends for the year. What is Brunleigh Corporation’s weighted average number of shares for the year?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm270603280">
+<problem id="fs-idm275518304">
+<para id="fs-idm275518048"><link class="lo-reference" document="m67921"/>Errol Corporation earned net income of $200,000 this year. The company began the year with 10,000 shares of common stock and issued 5,000 more on April 1. They issued $7,500 in preferred dividends for the year. What is the numerator of the EPS calculation for Errol?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm273084608">
+<problem id="fs-idm273084352">
+<para id="fs-idm274194304"><link class="lo-reference" document="m67921"/>Bastion Corporation earned net income of $200,000 this year. The company began the year with 10,000 shares of common stock and issued 5,000 more on April 1. They issued $7,500 in preferred dividends for the year. What is the EPS for the year for Bastion?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm274671344" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm270385760">
+<problem id="fs-idm269082912">
+<para id="fs-idm269082656"><link class="lo-reference" document="m67921"/>You have some funds that you would like to invest. Do some internet research to find two publicly traded companies in the same industry and compare their earnings per share. Would the earnings per share reported by each company influence your decision in selecting which company to invest in?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm283645792">
+<problem id="fs-idm282093984">
+<para id="fs-idm282093728"><link class="lo-reference" document="m67921"/>You are a consultant working with various companies that are considering incorporating and listing shares on a stock exchange. Explain the importance of the EPS calculation to financial analysts who follow companies on the stock exchanges.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm269931296" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm274202496">
+<problem id="fs-idm272577168">
+<para id="fs-idm272576912"><link class="lo-reference" document="m67921"/>You have some funds that you would like to invest and you are relying heavily on the EPS calculation to help you make your decision. Initially you are baffled about why preferred dividends are subtracted in the numerator and why a weighted average is used in the denominator, so you do some research and reflection and come to understand why. Your friend is interested in hearing about your thought process. How would you explain to your friend why it’s important to subtract preferred dividends and to use weighted averages?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm271564448">
+<problem id="fs-idm271564192">
+<para id="fs-idm274644656"><link class="lo-reference" document="m67921"/>You are a consultant working with various companies that are considering incorporating and listing shares on a stock exchange. One of your clients asks you about the various acronyms she has been hearing in conjunction with financial analysis. Explain the following acronyms and how they measure different things but may complement each other: EPS (earnings per share), EBITDA (earnings before interest, taxes, depreciation, and amortization), and NOPAT (net operating profit after taxes).</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm281425696">
+<term>earnings per share (EPS)</term>
+<meaning id="fs-idm281425056">measurement of the portion of a corporation’s profit allocated to each outstanding share of common stock</meaning>
+</definition>
+</glossary>
+</document>

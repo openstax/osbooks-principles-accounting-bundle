@@ -1,0 +1,438 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Use Discounted Cash Flow Models to Make Capital Investment Decisions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68093</md:content-id>
+  <md:title>Use Discounted Cash Flow Models to Make Capital Investment Decisions</md:title>
+  <md:abstract/>
+  <md:uuid>c65c5121-8331-465d-b2b8-b257bd1a0739</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm200188416">Your company, Rudolph Incorporated, has begun analyzing two potential future project alternatives that have passed the basic screening using the non–time value methods of determining the payback period and the accounting rate of return. Both proposed projects seem reasonable, but your company typically selects only one option to pursue. Which one should you choose? How will you decide? A discounted cash flow model can assist with this process. In this section, we will discuss two commonly used time value of money–based options: the net present value method (NPV) and the internal rate of return (IRR). Both of these methods are based on the discounted cash flow process.</para>
+<section id="fs-idm421003216">
+<title>Fundamentals of the Discounted Cash Flow Model</title>
+<para id="fs-idm428162592">The <term>discount cash flow model</term> assigns a value to a business opportunity using time-value measurement tools. The model considers future cash flows of the project, discounts them back to present time, and compares the outcome to an expected rate of return. If the outcome exceeds the expected rate of return and initial investment cost, the company would consider the investment. If the outcome does not exceed the expected rate of return or the initial investment, the company may not consider investment. When considering the discounted cash flow process, the time value of money plays a major role.</para>
+</section>
+<section id="fs-idm438151152">
+<title>Time Value-Based Methods</title>
+<para id="fs-idm201856160">As previously discussed, time value of money methods assume that the value of money today is worth more now than in the future. The payback period and accounting rate of return methods do not consider this concept when performing calculations and analyzing results. That is why they are typically only used as basic screening tools. To decide the best option between alternatives, a company performs preference measurement using tools, such as net present value and internal rate of return that do consider the time value of money concept. <term>Net present value (NPV)</term> discounts future cash flows to their present value at the expected rate of return and compares that to the initial investment. NPV does not determine the actual rate of return earned by a project. The <term>internal rate of return (IRR)</term> shows the profitability or growth potential of an investment at the point where NPV equals zero, so it determines the actual rate of return a project earns. As the name implies, net present value is stated in dollars, whereas the internal rate of return is stated as an interest rate. Both NPV and IRR require the company to determine a rate of return to be used as the target return rate, such as the minimum required rate of return or the weighted average cost of capital, which will be discussed in <link document="m68095">Balanced Scorecard and Other Performance Measures</link>.</para>
+<para id="fs-idm235439936">A positive NPV implies that the present value of the cash inflows from the project are greater than the present value of the cash outflows, which represent the expenses and costs associated with the project. In an NPV calculation, a positive NPV is typically considered a potentially good investment or project. However, other extenuating circumstances should be considered. For example, the company might not wish to borrow the necessary funding to make the investment because the company might be anticipating a downturn in the national economy.</para>
+<para id="fs-idm209048784">An IRR analysis compares the calculated IRR with either a predetermined rate of return or the cost of borrowing the money to invest in the project in order to determine whether a potential investment or project is favorable. For example, assume that the investment or equipment purchase is expected to generate an IRR of 15% and the company’s expected rate of return is 12%. In this case, similar to the NPV calculation, we assume that the proposed investment would be undertaken. However, remember that other factors must be considered, as they are with NPV.</para>
+<para id="fs-idm440795568">When considering cash inflows—whether using NPV or IRR—the accountant should examine both profits generated or expenses reduced. Investments that are made may generate additional revenue or could reduce production costs. Both cases assume that the new product or other type of investment generates a positive cash inflow that will be compared to the cost outflows to determine whether there is an overall positive or negative net present value.</para>
+<para id="fs-idm235366096">Additionally, a company would determine whether the projects being considered are mutually exclusive or not. If the projects or investment options are mutually exclusive, the company can evaluate and identify more than one alternative as a viable project or investment, but they can only invest in one option. For example, if a company needs one new delivery truck, it might solicit proposals from five different truck dealers and conduct NPV and IRR evaluations. Even if all proposals pass the financial requirements of the NPV and IRR methods, only one proposal will be accepted.</para>
+<para id="fs-idm224952096">Another consideration occurs when a company has the ability to evaluate and accept multiple proposals. For example, an automobile manufacturer is considering expanding its number of dealerships in the United States over the next ten-year period and has allocated $30,000,000 to buy the land. They could purchase any number of properties. They conduct NPV and IRR analyses of fifteen properties and determine that four meet their required standards and market feasibility needs and then purchase those four properties. The opportunities were not mutually exclusive: the number of properties purchased was driven by research and expansion projections, not by their need for only one option.</para>
+<note id="fs-idm199472944" class="continuing-application">
+<title>Capital Budgeting Decisions</title>
+<para id="fs-idm217757616"><emphasis class="colored-text">Gearhead Outfitters</emphasis> has expanded to many locations throughout its twenty-plus years in business. How did company management decide to expand? One of the financial tools a business can use is capital budgeting, which addresses many different issues involving the use of current cash flow for future return. As you’ve learned, capital outlay decisions can be evaluated through payback period, net present value, and methods involving rates of return.</para>
+<para id="fs-idm443478672">With this in mind, think about the capital budgeting issues <emphasis class="colored-text">Gearhead</emphasis>’s management might have faced. For example, in deciding to expand, should the company buy a building or lease one? What method should be used to evaluate this? Purchasing a building might require more initial outlay, but the company will retain an asset. How will such a decision affect the bottom line? With respect to equipment, <emphasis class="colored-text">Gearhead</emphasis> could maintain a fleet of vehicles. Should the vehicles be purchased or leased? What will need to be considered in the process?</para>
+<para id="fs-idm439061088">In developing and maintaining its strategy for sustainability, a business must not only consider day-to-day operations, but also address long-term decisions. Common capital budgeting items like equipment purchases to increase efficiency or reduce costs, decisions about replacement versus repair, and expansion all involve significant cash outlay. How will these items be evaluated? How long will recouping the initial investment take? How much revenue will be generated (or costs saved) through capital outlay? Does the company require a minimum rate of return before it moves forward with investment? If so, how is that return determined? Considering <emphasis class="colored-text">Gearhead</emphasis>’s decision to expand, what are some specific capital budgeting decisions important for the company to consider in their long-term strategy?</para>
+</note>
+<section id="fs-idm252538512">
+<title>Basic Characteristics of the Net Present Value Model</title>
+<para id="fs-idm205929344">Net present value helps companies choose between alternatives at a particular point in time by determining which produces the higher NPV. To determine the NPV, the initial investment is subtracted from the present value of cash inflows and outflows associated with a project at a required rate of return. If the outcome is positive, the company should consider investment. If the outcome is negative, the company would forgo investment.</para>
+<para id="fs-idm194394384">We previously discussed the calculation for present value using the present value tables, where <emphasis effect="italics">n</emphasis> is the number of years and <emphasis effect="italics">i</emphasis> is the expected interest rate. Once the present value factor is determined, it is multiplied by the expected net cash flows to produce the present value of future cash flows. The initial investment is subtracted from this present value calculation to determine the net present value.</para>
+<media id="fs-idm235095008" alt="Net present value equals sum of present value of cash inflows minus initial investment.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_NPVeq_img.jpg"/>
+</media>
+<para id="fs-idm236663808">Recall that the Present Value of $1 table is used for a lump sum payout, whereas the Present Value of an Ordinary Annuity table is used for a series of equal payments occurring at the end of each period. Taking this distinction one step further, NPV requires use of different tables depending on whether the future cash flows are equal or unequal in each time period. If the cash flows each period are equal, the company uses the Present Value of an Ordinary Annuity table, where the present value factor is multiplied by the cash flow amount for one period to get the present value. If the cash flows each period are unequal, the company uses the Present Value of $1 table, where the total present value is the sum of each of the unequal cash flows multiplied by the appropriate present value factor for each time period. This concept is discussed in the following example.</para>
+<para id="fs-idm194397392">Assume that your company, Rudolph Incorporated, is determining the NPV for a new X-ray machine. The X-ray machine has an initial investment of $200,000 and an expected cash flow of $40,000 each period for the next 10 years. The expected $40,000 cash flows from the new X-ray machine can be attributed to either additional revenue generated or cost savings realized by more efficient operations of the new machine. Since these annual cash flows of $40,000 are the same amount in each period over the ten-years this will be a stream of annuity amounts received. The required rate of return on such an investment is 8%. The present value factor (<emphasis effect="italics">i</emphasis> = 8, <emphasis effect="italics">n</emphasis> = 10) is 6.710 using the Present Value of an Ordinary Annuity table. Multiplying the present value factor (6.710) by the equal cash flow ($40,000) gives a present value of $268,400. NPV is found by taking the present value of $268,400 and subtracting the initial investment of $200,000 to arrive at $68,400. This is a positive NPV, so the company would consider investment.</para>
+<media id="fs-idm415940160" class="scaled-down" alt="Present Value of an Ordinary Annuity Table. Columns represent Rate (i), and rows represent Periods (n). Period, 1%, 2%, 3%, 5%, 8% respectively: 1, 0.990, 0.980, 0.971, 0.952, 0.926; 2, 1.970, 1.942, 1.913, 1,859, 1.783; 3, 2.941, 2.884, 2.829, 2.723, 2.577; 4, 3.902, 3.808, 3.717, 3.546, 3.312; 5, 4.853, 4.713, 4.580, 4.329, 3.993; 6, 5.795, 5.601, 5.417, 5.076, 4.623; 7, 6.728, 6.472, 6.230, 5.786, 5.206; 8, 7.652, 7.325, 7.020, 6.463, 5.747; 9, 8.566, 8.162, 7.786. 7.108, 6.247; 10, 9.471, 8.983, 8.530, 7.722, 6.710 (highlighted).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_NPV01_img.jpg"/>
+</media>
+<para id="fs-idm434988592">If there are two investments that have a positive NPV, and the investments are mutually exclusive, meaning only one can be chosen, the more profitable of the two investments is typically the appropriate one for a company to choose. We can also use the profitability index to compare them. The profitability index measures the amount of profit returned for each dollar invested in a project. This is particularly useful when projects being evaluated are of a different size, as the profitability index scales the projects to make them comparable. The profitability index is found by taking the present value of the net cash flows and dividing by the initial investment cost.</para>
+<media id="fs-idm253869792" class="scaled-down" alt="Profitability index equals present value of cash flows divided by initial investment cost.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_ProfEq_img.jpg"/>
+</media>
+<para id="fs-idm210788592">For example, Rudolph Incorporated is considering the X-ray machine that had present value cash flows of $268,400 (not considering salvage value) and an initial investment cost of $200,000. Another X-ray equipment option, option B, produces present value cash flows of $290,000 and an initial investment cost of $240,000. The profitability index is computed as follows.</para>
+<equation id="fs-idm236089456" class="unnumbered"><m:math><m:mtable><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mtext>Option A:</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>$268,400</m:mn></m:mrow><m:mrow><m:mn>$200,000</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>1.342</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Option B:</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>$290,000</m:mn></m:mrow><m:mrow><m:mn>$240,000</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>1.208</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm208460800">Based on this outcome, the company would invest in Option A, the project with a higher profitability index of 1.342.</para>
+<para id="fs-idm236788624">If there were unequal cash flows each period, the Present Value of $1 table would be used with a more complex calculation. Each year’s present value factor is determined and multiplied by that year’s cash flow. Then all cash flows are added together to get one overall present value figure. This overall present value figure is used when finding the difference between present value and the initial investment cost.</para>
+<para id="fs-idm241648240">For example, let’s say the X-ray machine information is the same, except now cash flows are as follows:</para>
+<media id="fs-idm435616256" alt="Year, Cash Flow Amount (respectively): 1, $20,000; 2, 25,000; 3, 20,000; 4, 40,000; 5, 40,000; 6, 60,000; 7, 30,000; 8, 35,000; 9, 25,000; 10, 45,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_CFTable.jpg"/>
+</media>
+<para id="fs-idm450098752">To find the overall present value, the following calculations take place using the present value of $1 table.</para>
+<media id="fs-idm428767824" alt="Year, Cash Flow Amount, PV Factor (i = 8, n = specific year), Present Value (respectively): 1, $20,000, (i = 8, n = 1) = 0.926, 0.926 x $20,000 = $18,520; 2, 25,000, (i = 8, n = 2) = 0.857, 0.857 x $25,000 = $21,425; 3, 20,000, (i = 8, n = 3) = 0.794, 0.794 x $20,000 = $15,880; 4, 40,000, (i = 8, n = 4) = 0.735, 0.735 x $40,000 = $29,400; 5, 40,000, (i = 8, n = 5) = 0.681, 0.681 x $40,000 = $27,240; 6, 60,000, (i = 8, n = 6) = 0.630, 0.630 x $60,000 = $37,800; 7, 30,000, (i = 8, n = 7) = 0.583, 0.583 x $30,000 = $17,490; 8, 35,000, (i = 8, n = 8) = 0.540, 0.540 x $35,000 = $18,900; 9, 25,000, (i = 8, n = 9) = 0.500, 0.500 x $25,000 = $12,500; 10, 45,000, (i = 8, n = 10) = 0.463, 0.463 x $45,000 = $20,835; Total, $340,000, - , $219,990.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_PV01_img.jpg"/>
+</media>
+<para id="fs-idm236018224">The Present Value of $1 table is used because, each year, a new “lump sum” cash flow is received, so the cash flow in each period is different. The cash flows are treated as one-time lump sum payouts during that year. The present value for each period looks at each year’s present value factor at an interest rate of 8%. All the PVs are added together for a total present value of $219,990. The initial investment of $200,000 is subtracted from the $219,990 to arrive at a positive NPV of $19,990. In this case, the company would consider investment since the outcome is positive. (More complex considerations, such as depreciation, the effects of income taxes, and inflation, which could affect the overall NPV, are covered in advanced accounting courses.)</para>
+<note id="fs-idm242832640" class="your-turn">
+<title>Analyzing a Postage Meter Investment</title>
+<para id="fs-idm194173216">Yellow Industries is considering investment in a new postage meter system. The postage meter system would have an initial investment cost of $135,000. Annual net cash flows are $40,000 for the next 5 years, and the expected interest rate return is 10%. Calculate net present value and decide whether or not Yellow Industries should invest in the new postage meter system.</para>
+<para id="fs-idm233929152"><emphasis effect="bold">Solution</emphasis></para>
+<para id="fs-idm236914048">Use the Present Value of an Ordinary Annuity table. Present value factor at <emphasis effect="italics">n</emphasis> = 5 and <emphasis effect="italics">i</emphasis> = 10% is 3.791. Present value = 3.791 × $40,000 = $151,640. NPV = $151,640 − $135,000 = $16,640. In this case, Yellow Industries should invest since the NPV is positive.</para>
+</note>
+</section>
+<section id="fs-idm210988256">
+<title>Calculation and Discussion of the Results of the Net Present Value Model</title>
+<para id="fs-idm211949104">To demonstrate NPV, assume that a company, Rayford Machining, is considering buying a drill press that will have an initial investment cost of $50,000 and annual cash flows of $10,000 for the next 7 years. Assume that Rayford expects a 5% rate of return on such an investment. We need to determine the NPV when cash flows are equal. The present value factor (<emphasis effect="italics">i</emphasis> = 5, <emphasis effect="italics">n</emphasis> = 7) is 5.786 using the Present Value of an Ordinary Annuity table. We multiply 5.786 by the equal cash flow of $10,000 to get a present value of $57,860. NPV is found by taking the present value of $57,860 and subtracting the initial investment of $50,000 to arrive at $7,860. This is a positive NPV, so the company would consider the investment.</para>
+<media id="fs-idm448116336" class="scaled-down" alt="Present Value of an Ordinary Annuity Table. Columns represent Rate (i), and rows represent Periods (n). Period, 1%, 2%, 3%, 5%, respectively: 1, 0.990, 0.980, 0.971, 0.952; 2, 1.970, 1.942, 1.913, 1,859; 3, 2.941, 2.884, 2.829, 2.723; 4, 3.902, 3.808, 3.717, 3.546; 5, 4.853, 4.713, 4.580, 4.329; 6, 5.795, 5.601, 5.417, 5.076; 7, 6.728, 6.472, 6.230, 5.786 (highlighted).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_NPV02_img.jpg"/>
+</media>
+<para id="fs-idm236531152">Let’s say Rayford Machining has another option, Option B, for a drill press purchase with an initial investment cost of $56,000 that produces present value cash flows of $60,500. The profitability index is computed as follows.</para>
+<equation id="fs-idm448428784" class="unnumbered"><m:math><m:mtable><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mtext>Option A:</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>$57,860</m:mn></m:mrow><m:mrow><m:mn>$50,000</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>1.157</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Option B:</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>$60,500</m:mn></m:mrow><m:mrow><m:mn>$56,000</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>1.080</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm241356928">Based on this outcome, the company would invest in Option A, the project with a higher profitability potential of 1.157.</para>
+<para id="fs-idm217516192">Now let’s assume cash flows are unequal. Unequal cash flow information for Rayford Machining is summarized here.</para>
+<media id="fs-idm439319264" class="scaled-down" alt="Year, Net Cash Flow Amount (respectively): 1, $10,000; 2, 5,000; 3, 7,000; 4, 3,000; 5, 10,000; 6, 10,000; 7, 10,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_NCashFl_img.jpg"/>
+</media>
+<para id="fs-idm195440464">To find the overall present value, the following calculations take place using the Present Value of $1 table.</para>
+<media id="fs-idm217265264" class="scaled-down" alt="Year, Cash Flow Amount, PV Factor (i = 5, n = specific year), Present Value (respectively): 1, $10,000, (i = 5, n = 1) = 0.952, 0.952 x $10,000 = $9,520; 2, 5,000, (i = 5, n = 2) = 0.907, 0.907 x $5,000 = $4,535; 3, 7,000, (i = 5, n = 3) = 0.864, 0.864 x $7,000 = $6,048; 4, 3,000, (i = 5, n = 4) = 0.823, 0.823 x $3,000 = $2,469; 5, 10,000, (i = 5, n = 5) = 0.784, 0.784 x $10,000 = $7,840; 6, 10,000, (i = 5, n = 6) = 0.746, 0.746 x $10,000 = $7,460; 7, 10,000, (i = 5, n = 7) = 0.711, 0.711 x 10,000 = $7,110; Total, $55,000, - , $44,982.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_PV02_img.jpg"/>
+</media>
+<para id="fs-idm236112032">The present value for each period looks at each year’s present value factor at an interest rate of 5%. All individual year present values are added together for a total present value of $44,982. The initial investment of $50,000 is subtracted from the $44,982 to arrive at a negative NPV of $5,018. In this case, Rayford Machining would not invest, since the outcome is negative. The negative NPV value does not mean the investment would be unprofitable; rather, it means the investment does not return the desired 5% the company is looking for in the investments that it makes.</para>
+</section>
+<section id="fs-idm201597984">
+<title>Basic Characteristics of the Internal Rate of Return Model</title>
+<para id="fs-idm239700672">The internal rate of return model allows for the comparison of profitability or growth potential among alternatives. All external factors, such as inflation, are removed from calculation, and the project with the highest return rate percentage is considered for investment.</para>
+<para id="fs-idm432069312">IRR is the discounted rate (interest rate) point at which NPV equals zero. In other words, the IRR is the point at which the present value cash inflows equal the initial investment cost. To consider investment, IRR needs to meet or exceed the required rate of return for the investment type. If IRR does not meet the required rate of return, the company will forgo investment.</para>
+<para id="fs-idm235626944">To find IRR using the present value tables, we need to know the cash flow number of return periods (<emphasis effect="italics">n</emphasis>) and the intersecting present value factor. To calculate present value factor, we use the following formula.</para>
+<media id="fs-idm217930256" class="scaled-down" alt="Present value factor equals initial investment cost divided by annual net cash flows.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_PVFact_img.jpg"/>
+</media>
+<para id="fs-idm204864000">We find the present value factor in the present value table in the row with the corresponding number of periods (<emphasis effect="italics">n</emphasis>). We find the matching interest rate (<emphasis effect="italics">i</emphasis>) at this present value factor. The corresponding interest rate at the number of periods (<emphasis effect="italics">n</emphasis>) is the IRR. When cash flows are equal, use the Present Value of an Ordinary Annuity table to find IRR.</para>
+<para id="fs-idm211766176">For example, a car manufacturer needs to replace welding equipment. The initial investment cost is $312,000 and each annual net cash flow is $49,944 for the next 9 years. We need to find the internal rate of return for this welding equipment. The expected rate of return for such a purchase is 6%. In this case, <emphasis effect="italics">n</emphasis> = 9 and the present value factor is computed as follows.</para>
+<equation id="fs-idm238809696" class="unnumbered"><m:math><m:mrow><m:mtext>Present Value Factor</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$312,000</m:mn></m:mrow><m:mrow><m:mn>$49,944</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>6.247</m:mn><m:mspace width="0.2em"/><m:mtext>(rounded)</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm248311856">Looking at the Present Value of an Ordinary Annuity table, where <emphasis effect="italics">n</emphasis> = 9 and the present value factor is 6.247, we discover that the corresponding return rate is 8%. This exceeds the expected return rate, so the company would typically invest in the project.</para>
+<media id="fs-idm236709840" alt="Present Value of an Ordinary Annuity Table. Columns represent Rate (i), and rows represent Periods (n). Period, 1%, 2%, 3%, 5%, 8%, 10% respectively: 1, 0.990, 0.980, 0.971, 0.952, 0.926, 0.909; 2, 1.970, 1.942, 1.913, 1,859, 1.783, 1.736; 3, 2.941, 2.884, 2.829, 2.723, 2.577, 2.487; 4, 3.902, 3.808, 3.717, 3.546, 3.312, 3,170; 5, 4.853, 4.713, 4.580, 4.329, 3.993, 3.791; 6, 5.795, 5.601, 5.417, 5.076, 4.623, 4.355; 7, 6.728, 6.472, 6.230, 5.786, 5.206, 4.868; 8, 7.652, 7.325, 7.020, 6.463, 5.747, 5.335; 9, 8.566, 8.162, 7.786. 7.108, 6.247 (highlighted), 5.759.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_IRR01_img.jpg"/>
+</media>
+<para id="fs-idm219739184">If there is more than one viable option, the company will select the alternative with the highest IRR that exceeds the expected rate of return.</para>
+<para id="fs-idm456443984">Our tables are limited in scope, and therefore, a present value factor may fall in between two interest rates. When this is the case, you may choose to identify an IRR range instead of a single interest rate figure. A spreadsheet program or financial calculator can produce a more accurate result and can also be used when cash flows are unequal.</para>
+</section>
+<section id="fs-idm245795024">
+<title>Calculation and Discussion of the Results of the Internal Rate of Return Model</title>
+<para id="fs-idm238384304">Assume that Rayford Machining wants to know the internal rate of return for the new drill press. The drill press has an initial investment cost of $50,000 and an annual cash flow of $10,000 for each of the next seven years. The company expects a 7% rate of return on this type of investment. We calculate the present value factor as:</para>
+<equation id="fs-idm233214304" class="unnumbered"><m:math><m:mrow><m:mtext>Present Value Factor</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$50,000</m:mn></m:mrow><m:mrow><m:mn>$10,000</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>5.000</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm252530512">Scanning the Present Value of an Ordinary Annuity table reveals that the interest rate where the present value factor is 5 and the number of periods is 7 is between 8 and 10%. Since the required rate of return was 7%, Rayford would consider investment in this metal press machine.</para>
+<media id="fs-idm252676512" alt="Present Value of an Ordinary Annuity Table. Columns represent Rate (i), and rows represent Periods (n). Period, 1%, 2%, 3%, 5%, 8%, 10% respectively: 1, 0.990, 0.980, 0.971, 0.952, 0.926, 0.909; 2, 1.970, 1.942, 1.913, 1,859, 1.783, 1.736; 3, 2.941, 2.884, 2.829, 2.723, 2.577, 2.487; 4, 3.902, 3.808, 3.717, 3.546, 3.312, 3,170; 5, 4.853, 4.713, 4.580, 4.329, 3.993, 3.791; 6, 5.795, 5.601, 5.417, 5.076, 4.623, 4.355; 7, 6.728, 6.472, 6.230, 5.786, 5.206 (highlighted), 4.868 (highlighted); 8, 7.652, 7.325, 7.020, 6.463, 5.747, 5.335; 9, 8.566, 8.162, 7.786. 7.108, 6.247, 5.759.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_IRR02_img.jpg"/>
+</media>
+<para id="fs-idm205979024">Consider another example using Rayford, where they have two drill press purchase options. Option A has an IRR between 8% and 10%. The other option, Option B, has an initial investment cost of $60,500 and equal annual net cash flows of $13,256 for the next seven years. We calculate the present value factor as:</para>
+<equation id="fs-idm245499440" class="unnumbered"><m:math><m:mrow><m:mtext>Present Value Factor</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$60,500</m:mn></m:mrow><m:mrow><m:mn>$13,256</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>4.564</m:mn><m:mspace width="0.2em"/><m:mtext>(rounded)</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm234259696">Scanning the Present Value of an Ordinary Annuity table reveals that, when the present value factor is 4.564 and the number of periods is 7, the interest rate is 12%. This not only exceeds the 7% required rate, it also exceeds Option A’s return of 8% to 10%. Therefore, if resources were limited, Rayford would select Option B over Option A.</para>
+<media id="fs-idm232645280" alt="Present Value of an Ordinary Annuity Table. Columns represent Rate (i), and rows represent Periods (n). Period, 1%, 2%, 3%, 5%, 8%, 10%, 12% respectively: 1, 0.990, 0.980, 0.971, 0.952, 0.926, 0.909, 0.893; 2, 1.970, 1.942, 1.913, 1,859, 1.783, 1.736, 1.690; 3, 2.941, 2.884, 2.829, 2.723, 2.577, 2.487, 2.402; 4, 3.902, 3.808, 3.717, 3.546, 3.312, 3,170, 3.037; 5, 4.853, 4.713, 4.580, 4.329, 3.993, 3.791, 3.605; 6, 5.795, 5.601, 5.417, 5.076, 4.623, 4.355, 4.111; 7, 6.728, 6.472, 6.230, 5.786, 5.206, 4.868, 4.564 (highlighted).">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_IRR03_img.jpg"/>
+</media>
+</section>
+</section>
+<section id="fs-idm236500512">
+<title>Final Summary of the Discounted Cash Flow Models</title>
+<para id="fs-idm249924832">The internal rate of return (IRR) and the net present value (NPV) methods are types of discounted cash flow analysis that require taking estimated future payments from a project and discounting them into present values. The difference between the two methods is that the NPV calculation determines the project’s estimated return in dollars and the IRR provides the percentage rate of return from a project needed to break even.</para>
+<para id="fs-idm237367792">When the NPV is determined to be $0, the present value of the cash inflows and the present value of the cash outflows are equal. For example, assume that the present value of the cash inflows is $10,000 and the present value of the cash outflows is also $10,000. In this example, the NPV would be $0. At a net present value of zero, the IRR would be exactly equal to the interest rate that was used to perform the NPV calculation. For example, in the previous example, where both the cash inflows and the cash outflows have present values of $10,000 and the NPV is $0, assume that they were discounted at an 8% interest rate. If you were to then calculate the internal rate of return, the IRR would be 8%, the same interest rate that gave us an NPV of $0.</para>
+<para id="fs-idm233081872">Overall, it is important to understand that a company must consider the time value of money when making capital investment decisions. Knowing the present value of a future cash flow enables a company to better select between alternatives. The net present value compares the initial investment cost to the present value of future cash flows and requires a positive outcome before investment. The internal rate of return also considers the present value of future cash flows but considers profitability stated in terms of percentage of return on the investment or project. These models allows two or more options to be compared to eliminate bias with raw financial figures.</para>
+<note id="fs-idm204909584" class="think-through">
+<title>Choosing Investments</title>
+<para id="fs-idm210111104">Companies are presented with viable alternatives that sometimes produce nearly identical results and profitability goals. If they have the ability to invest in both alternatives, they may do so. But what about when resources are constrained? How do they choose which investment is best for their company?</para>
+<para id="fs-idm448130720">Consider this: you have two projects that met the payback period and accounting rate of return screenings identically. Project 1 produced an NPV of $45,000 and had an IRR between 5% and 8%. Project 2 produced a NPV of $35,000 and had an IRR of 10%. This leaves you with a difficult choice, since each alternative has a measurement that exceeds the other and the other variables are the same. Which project would you invest in and why?</para>
+</note>
+</section>
+<section id="fs-idm240982432" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm240291520" list-type="bulleted" bullet-style="bullet">
+<item>The discounted cash flow model assigns values to a project’s alternatives using time value of money and discounts future rates back to present value. Two measurement tools are used in discounted cash flows: net present value and internal rate of return.</item>
+<item>Net present value considers an expected rate of return, converts future cash flows into present value, and compares that to the initial investment cost. If the outcome is positive, the company would look to invest in the project.</item>
+<item>Internal rate of return shows the profitability of an investment, where NPV equals zero. If the corresponding interest rate exceeds the expected rate of return, the company would invest in the project.</item>
+</list>
+</section>
+<section id="fs-idm210966672" class="multiple-choice">
+<exercise id="fs-idm232463264">
+<problem id="fs-idm195138144">
+<para id="fs-idm194524496"><link class="lo-reference" document="m68093"/>The NPV method assumes that cash inflows associated with a particular investment occur when?</para>
+<list id="fs-idm238553392" list-type="enumerated" number-style="upper-alpha">
+<item>only at the time of the initial investment</item>
+<item>only at the end of the year</item>
+<item>only at the beginning of the year</item>
+<item>at any of these times</item>
+</list>
+</problem>
+<solution id="fs-idm218749152">
+<para id="fs-idm440271552">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm239047488">
+<problem id="fs-idm238618576">
+<para id="fs-idm239011376"><link class="lo-reference" document="m68093"/>Which of the following does <emphasis effect="italics">not</emphasis> assign a value to a business opportunity using time-value measurement tools?</para>
+<list id="fs-idm252952432" list-type="enumerated" number-style="upper-alpha">
+<item>internal rate of return (IRR) method</item>
+<item>net present value (NPV)</item>
+<item>discounted cash flow model</item>
+<item>payback period method</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm204855984">
+<problem id="fs-idm210781616">
+<para id="fs-idm235230688"><link class="lo-reference" document="m68093"/>Which of the following discounts future cash flows to their present value at the expected rate of return, and compares that to the initial investment?</para>
+<list id="fs-idm433859360" list-type="enumerated" number-style="upper-alpha">
+<item>internal rate of return (IRR) method</item>
+<item>net present value (NPV)</item>
+<item>discounted cash flow model</item>
+<item>future value method</item>
+</list>
+</problem>
+<solution id="fs-idm250025760">
+<para id="fs-idm247794704">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm440036112">
+<problem id="fs-idm237507520">
+<para id="fs-idm225425968"><link class="lo-reference" document="m68093"/>This calculation determines profitability or growth potential of an investment, expressed as a percentage, at the point where NPV equals zero</para>
+<list id="fs-idm217251456" list-type="enumerated" number-style="upper-alpha">
+<item>internal rate of return (IRR) method</item>
+<item>net present value (NPV)</item>
+<item>discounted cash flow model</item>
+<item>future value method</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm206527904" class="questions">
+<exercise id="fs-idm237344064">
+<problem id="fs-idm214463072">
+<para id="fs-idm233079040"><link class="lo-reference" document="m68093"/>What is the difference between the discount rate used for net present value and the internal rate of return methods?</para>
+</problem>
+<solution id="fs-idm232524704">
+<para id="fs-idm439459264">For NPV computations, a minimum required rate of return or discount rate is used as a screening tool to determine whether or not a capital investment decision meets a predetermined set of criteria. If the net present value of an investment is positive, then the capital investment generates an actual return greater than the discount rate and the project will be deemed acceptable. The discount rate, however, is not the actual rate of return earned by the project.<newline/>
+The internal rate of return determines the actual rate of return that a project earns.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm246086768">
+<problem id="fs-idm439144688">
+<para id="fs-idm233136832"><link class="lo-reference" document="m68093"/>Briefly explain how NPV is computed and interpreted.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm237670720">
+<problem id="fs-idm436468432">
+<para id="fs-idm435750784"><link class="lo-reference" document="m68093"/>What is the basic benefit of using IRR?</para>
+</problem>
+<solution id="fs-idm245545056">
+<para id="fs-idm434446816">The internal rate of return (IRR) shows the profitability or growth potential of an investment. All external factors are removed from calculation, such as inflation concerns, and the project with the highest return rate percentage is considered for investment. A company may have several viable alternatives that need a differentiating factor. IRR gives a solid differentiation, presented as a percentage rather than a dollar figure, as seen in NPV. This removes bias from projects with dissimilar NPVs and is a way to compare more than one option.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm252343600">
+<problem id="fs-idm233712336">
+<para id="fs-idm253865472"><link class="lo-reference" document="m68093"/>How is the IRR determined if there are uneven cash flows?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm254864896" class="exercise-set-a">
+<exercise id="fs-idm254241328">
+<problem id="fs-idm232512224">
+<para id="fs-idm245941632"><link class="lo-reference" document="m68093"/>Project A costs $5,000 and will generate annual after-tax net cash inflows of $1,800 for five years. What is the NPV using 8% as the discount rate?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm238754720">
+<problem id="fs-idm210158064">
+<para id="fs-idm254618400"><link class="lo-reference" document="m68093"/>Project B cost $5,000 and will generate after-tax net cash inflows of $500 in year one, $1,200 in year two, $2,000 in year three, $2,500 in year four, and $2,000 in year five. What is the NPV using 8% as the discount rate? For further instructions on net present value in Excel, see <link document="m71404">Appendix C</link>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm254113696">
+<problem id="fs-idm234450944">
+<para id="fs-idm455418160"><link class="lo-reference" document="m68093"/>Gardner Denver Company is considering the purchase of a new piece of factory equipment that will cost $420,000 and will generate $95,000 per year for 5 years. Calculate the IRR for this piece of equipment. For further instructions on internal rate of return in Excel, see <link document="m71404">Appendix C</link>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm238333136">
+<problem id="fs-idm250844368">
+<para id="fs-idm235243728"><link class="lo-reference" document="m68093"/>Consolidated Aluminum is considering the purchase of a new machine that will cost $308,000 and provide the following cash flows over the next five years: $88,000, 92,000, $91,000, $72,000, and $71,000. Calculate the IRR for this piece of equipment. For further instructions on internal rate of return in Excel, see <link document="m71404">Appendix C</link>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm345340000">
+<problem id="fs-idm346254352">
+<para id="fs-idm354658848"><link class="lo-reference" document="m68093"/>Redbird Company is considering a project with an initial investment of $265,000 in new equipment that will yield annual net cash flows of $45,800 each year over its seven-year life. The company’s minimum required rate of return is 8%. What is the internal rate of return? Should Redbird accept the project based on IRR?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm238368064" class="exercise-set-b">
+<exercise id="fs-idm244844944">
+<problem id="fs-idm237067456">
+<para id="fs-idm235420736"><link class="lo-reference" document="m68093"/>Project X costs $10,000 and will generate annual net cash inflows of $4,800 for five years. What is the NPV using 8% as the discount rate?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm252965664">
+<problem id="fs-idm238440800">
+<para id="fs-idm418633616"><link class="lo-reference" document="m68093"/>Project Y cost $8,000 and will generate net cash inflows of $1,500 in year one, $2,000 in year two, $2,500 in year three, $3,000 in year four and $2,000 in year five. What is the NPV using 8% as the discount rate?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm239561952">
+<problem id="fs-idm212930016">
+<para id="fs-idm234938224"><link class="lo-reference" document="m68093"/>Caduceus Company is considering the purchase of a new piece of factory equipment that will cost $565,000 and will generate $135,000 per year for 5 years. Calculate the IRR for this piece of equipment. For further instructions on internal rate of return in Excel, see <link document="m71404">Appendix C</link>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm235229840">
+<problem id="fs-idm234926256">
+<para id="fs-idm235155584"><link class="lo-reference" document="m68093"/>Garnette Corp is considering the purchase of a new machine that will cost $342,000 and provide the following cash flows over the next five years: $99,000, $88,000, $92,000, $87,000, and $72,000. Calculate the IRR for this piece of equipment. For further instructions on internal rate of return in Excel, see <link document="m71404">Appendix C</link>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm351123632">
+<problem id="fs-idm333657728">
+<para id="fs-idm303598720"><link class="lo-reference" document="m68093"/>Wallace Company is considering two projects. Their required rate of return is 10%.</para>
+<table id="fs-idm330895456" class="unnumbered unstyled" summary="Assessment data">
+<label/><tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Project A</entry>
+<entry valign="top" align="left">Project B</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Initial investment</entry>
+<entry valign="top" align="left">$170,000</entry>
+<entry valign="top" align="left">$48,000</entry>
+</row>
+<row>
+<entry valign="top" align="left">Annual cash flows</entry>
+<entry valign="top" align="left">$41,352</entry>
+<entry valign="top" align="left">$12,022</entry>
+</row>
+<row>
+<entry valign="top" align="left">Life of the project</entry>
+<entry valign="top" align="left">6 years</entry>
+<entry valign="top" align="left">5 years</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm331766400">Which of the two projects, A or B, is better in terms of internal rate of return?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm237391296" class="problem-set-a">
+<exercise id="fs-idm249878448">
+<problem id="fs-idm218595680">
+<para id="fs-idm227144960"><link class="lo-reference" document="m68093"/>Falkland, Inc., is considering the purchase of a patent that has a cost of $50,000 and an estimated revenue producing life of 4 years. Falkland has a cost of capital of 8%. The patent is expected to generate the following amounts of annual income and cash flows:</para>
+<media id="fs-idm241824096" class="scaled-down" alt="Year 1, 2, 3, and 4 respectively: Net Income: $5,100, 6,500, 6,300, 3,000; Operating cash flows: $17,050, 18,450, 18,250, 14,850.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_PA01_img.jpg"/>
+</media>
+<list id="fs-idm233667248" list-type="enumerated" number-style="upper-alpha">
+<item>What is the NPV of the investment?</item>
+<item>What happens if the required rate of return increases?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm241587632">
+<problem id="fs-idm238742080">
+<para id="fs-idm234225248"><link class="lo-reference" document="m68093"/>There are two projects under consideration by the Rainbow factory. Each of the projects will require an initial investment of $35,000 and is expected to generate the following cash flows:</para>
+<media id="fs-idm217977584" class="scaled-down" alt="First year, Second Year, Third Year, Total (respectively): Alpha Project: 32,000, 22,500, 5,000, 59,500. Beta Project: 7,500, 23,500, 28,000, 59,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_PA02_img.jpg"/>
+</media>
+<para id="fs-idm234888400">If the discount rate is 12%, compute the NPV of each project.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm249739088">
+<problem id="fs-idm248214784">
+<para id="fs-idm232452096"><link class="lo-reference" document="m68093"/>There are two projects under consideration by the Rainbow factory. Each of the projects will require an initial investment of $35,000 and is expected to generate the following cash flows:</para>
+<media id="fs-idm210141616" class="scaled-down" alt="First year, Second Year, Third Year, Total (respectively): Alpha Project: 32,000, 22,500, 5,000, 59,500. Beta Project: 7,500, 23,500, 28,000, 59,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_PA03_img.jpg"/>
+</media>
+<para id="fs-idm246111248">Use the information from <link target-id="fs-idm241587632">the previous exercise</link> to calculate the internal rate of return on both projects and make a recommendation on which one to accept. For further instructions on internal rate of return in Excel, see <link document="m71404">Appendix C</link>.</para></problem>
+</exercise>
+<exercise id="fs-idm234793920">
+<problem id="fs-idm236350880">
+<para id="fs-idm247733280"><link class="lo-reference" document="m68093"/>Pompeii’s Pizza has a delivery car that it uses for pizza deliveries. The transmission needs to be replaced and there are several other repairs that need to be done. The car is nearing the end of its life, so the options are to either overhaul the car or replace it with a new car. Pompeii’s has put together the following budgetary items:</para>
+<media id="fs-idm241230688" alt="Present Car: Transmission replacement and other work needed $8,500, annual Cash Operating Cost $12,500, Fair Market Value Now $5,000, FMV in five more years $500. New Car: Purchase cost new $31,000, Annual Cash Operating Cost 10,000, FMV in five more years $5,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_PA04_img.jpg"/>
+</media>
+<para id="fs-idm237122464">If Pompeii’s replaces the transmission of the pizza delivery vehicle, they expect to be able to use the vehicle for another 5 years. If they sell the old vehicle and purchase a new vehicle, they will use that vehicle for 5 years and then trade it in for another new pizza delivery vehicle. If they trade for the new delivery vehicle, their operating expenses will decrease because the new vehicle is more gas efficient and the maintenance on a new car is less. This project is analyzed using a discount rate of 12%. What should Pompeii’s do?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm245897920">
+<problem id="fs-idm209805200">
+<para id="fs-idm232650016"><link class="lo-reference" document="m68093"/>Pitt Company is considering two alternative investments. The company requires a 12% return from its investments. Neither option has a salvage value.</para>
+<media id="fs-idm247705568" class="scaled-down" alt="Project X, Project Y, Respectively. Initial Investment $180,000, 118,000. Net cash flows anticipated in year: 1, 82,000, 35,000; 2, 59,000, 55,000; 3, 92,000, 72,000; 4, 81,000, 68,000; 5, 76,000, 27,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_PA05_img.jpg"/>
+</media>
+<para id="fs-idm241877728">Compute the IRR for both projects and recommend one of them. For further instructions on internal rate of return in Excel, see <link document="m71404">Appendix C</link>.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm443832176" class="problem-set-b">
+<exercise id="fs-idm205971024">
+<problem id="fs-idm235161776">
+<para id="fs-idm231325040"><link class="lo-reference" document="m68093"/>Mason, Inc., is considering the purchase of a patent that has a cost of $85,000 and an estimated revenue producing life of 4 years. Mason has a required rate of return that is 12% and a cost of capital of 11%. The patent is expected to generate the following amounts of annual income and cash flows:</para>
+<media id="fs-idm248411200" class="scaled-down" alt="Year 1, 2, 3, and 4 respectively: Net Income: $6,900, 9,600, 3,000, 6,300. Operating cash flows: 19,500, 18,700, 20,250, 15,9000">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_PB01_img.jpg"/>
+</media>
+<list id="fs-idm255068496" list-type="enumerated" number-style="upper-alpha">
+<item>What is the NPV of the investment?</item>
+<item>What happens if the required rate of return increases?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm245543360">
+<problem id="fs-idm249589424">
+<para id="fs-idm232663264"><link class="lo-reference" document="m68093"/>There are two projects under consideration by the Rainbow factory. Each of the projects will require an initial investment or $28,000 and is expected to generate the following cash flows:</para>
+<media id="fs-idm214367552" class="scaled-down" alt="First Year, Second Year, Third Year, Total (respectively): Alpha Project: 22,000, 23,500, 5,000, 50,500. Beta Project: 12,700, 22,000, 15,800, 50,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_PB02_img.jpg"/>
+</media>
+<para id="fs-idm234123936">If the discount rate is 5% compute the NPV of each project and make a recommendation of the project to be chosen.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm430329216">
+<problem id="fs-idm240063312">
+<para id="fs-idm254740432"><link class="lo-reference" document="m68093"/>Use the information from <link target-id="fs-idm245543360">the previous exercise</link> to calculate the Internal Rate of Return on both projects and make a recommendation regarding which one to accept.</para></problem>
+</exercise>
+<exercise id="fs-idm253787568">
+<problem id="fs-idm242329680">
+<para id="fs-idm238549200"><link class="lo-reference" document="m68093"/>D&amp;M Pizza has a delivery car that is uses for pizza deliveries. The transmission needs to be replaced, and there are several other repairs that need to be done. The car is nearing the end of its life, so the options are to either overhaul the car or replace it with a new car. D&amp;M’s has put together the following budgetary items:</para>
+<media id="fs-idm202683680" class="scaled-down" alt="Present Car: Transmission replacement and other work needed $6,500, annual Cash Operating Cost $8,500, Fair Market Value Now $6,000, FMV in five more years $100. New Car: Purchase cost new $30,000, Annual Cash Operating Cost 7,500, FMV in five more years $6,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_PB04_img.jpg"/>
+</media>
+<para id="fs-idm244254480">If D&amp;M replaces the transmission of the pizza delivery vehicle, they expect to be able to use the vehicle for another 5 years. If they purchase a new vehicle, they will sell the existing one and use the new vehicle for 5 years and then trade it in for another new pizza delivery vehicle. If they trade for the new delivery vehicle, their operating expenses will decrease because the new vehicle is more gas efficient. This project is analyzed using a discount rate of 15%. What should D&amp;M do?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm246026416">
+<problem id="fs-idm435808544">
+<para id="fs-idm248568240"><link class="lo-reference" document="m68093"/>Joliet Company is considering two alternative investments. The company requires an 18% return from its investments.</para>
+<media id="fs-idm232934416" class="scaled-down" alt="Project X, Project Y, Respectively: Initial Investment $108,000, 98,000. Net cash flows anticipated in year: 1, 36,000, 25,000; 2, 39,000, 45,000; 3, 32,000, 42,000; 4, 34,000, 28,000; 5, 25,000, 17,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M11_04_PB05_img.jpg"/>
+</media>
+<para id="fs-idm198624864">Compute the IRR for both Projects and recommend one of them. For further instructions on internal rate of return in Excel, see <link document="m71404">Appendix C</link>.</para></problem>
+</exercise>
+</section>
+<section id="fs-idm241525328" class="thought-provokers">
+<para id="fs-idm241054560">The following are independent situations. For each capital budgeting project, indicate whether management should accept or reject the project and list a brief reason why.</para>
+<exercise id="fs-idm217607536">
+<problem id="fs-idm239572576">
+<para id="fs-idm247770000"><link class="lo-reference" document="m68093"/>Midas Corp. evaluated a potential investment and determined the NPV to be zero. Midas Corp.’s required rate of return is 9.1% and its cost of capital is 6.4%.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm232485360">
+<problem id="fs-idm235648224">
+<para id="fs-idm227139488"><link class="lo-reference" document="m68093"/>Giorgio Co. is looking at an investment project with an internal rate of return of 10.8%. The initial outlay for the investment is $90,000. The hurdle rate or minimum acceptable rate of return is 10.2%.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm217935680">
+<problem id="fs-idm435331936">
+<para id="fs-idm242887472"><link class="lo-reference" document="m68093"/>Dinaro Inc. is looking at an investment project that has an NPV of ($5,000). The hurdle rate is 8%.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm441740000">
+<problem id="fs-idm234767968">
+<para id="fs-idm214393104"><link class="lo-reference" document="m68093"/>You begin a new job at Cabrera Medical Supplies. The company is considering a new accounting system, with an initial investment of about half a million dollars for new software and hardware. You are excited for the opportunity to apply your managerial accounting skills regarding screening and preference methods to decide on the best system for the company. Your boss is a little old-school, and when you mention some of the things you learned in managerial accounting, he says, “Discounted cash flow methods are not the only way to approach this. I have more of a gut reaction approach that blows most managers out of the water when they become absorbed by discounted cash flow methods (DCF).”</para>
+<para id="fs-idm206831888">How would you react and what would you discuss with your boss?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm239466400">
+<term>discounted cash flow model</term>
+<meaning id="fs-idm200756560">assigns a value to a business opportunity using time-value measurement tools</meaning>
+</definition>
+<definition id="fs-idm241611184">
+<term>internal rate of return method (IRR)</term>
+<meaning id="fs-idm246054816">calculation to determine profitability or growth potential of an investment, expressed as a percentage, at the point where NPV equals zero</meaning>
+</definition>
+<definition id="fs-idm198745040">
+<term>net present value method (NPV)</term>
+<meaning id="fs-idm240893424">discounts future cash flows to their present value at the expected rate of return, and compares that to the initial investment</meaning>
+</definition>
+</glossary>
+</document>

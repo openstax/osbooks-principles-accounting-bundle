@@ -1,0 +1,172 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Prepare a Trial Balance</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67841</md:content-id>
+  <md:title>Prepare a Trial Balance</md:title>
+  <md:abstract/>
+  <md:uuid>90c37e02-9ae2-435f-b0d6-9e5d6b077500</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm400917712">Once all the monthly transactions have been analyzed, journalized, and posted on a continuous day-to-day basis over the accounting period (a month in our example), we are ready to start working on preparing a trial balance (unadjusted). Preparing an unadjusted trial balance is the fourth step in the accounting cycle. A <term>trial balance</term> is a list of all accounts in the general ledger that have nonzero balances. A trial balance is an important step in the accounting process, because it helps identify any computational errors throughout the first three steps in the cycle.</para>
+<para id="fs-idm806691392">Note that for this step, we are considering our trial balance to be unadjusted. The <term>unadjusted trial balance</term> in this section includes accounts before they have been adjusted. As you see in step 6 of the accounting cycle, we create another trial balance that is adjusted (see <link document="m67848">The Adjustment Process</link>).</para>
+<para id="fs-idm393215504">When constructing a trial balance, we must consider a few formatting rules, akin to those requirements for financial statements:</para>
+<list id="fs-idm398120192" list-type="bulleted" bullet-style="bullet">
+<item>The header must contain the name of the company, the label of a Trial Balance (Unadjusted), and the date.</item>
+<item>Accounts are listed in the accounting equation order with assets listed first followed by liabilities and finally equity.</item>
+<item>Amounts at the top of each debit and credit column should have a dollar sign.</item>
+<item>When amounts are added, the final figure in each column should be underscored.</item>
+<item>The totals at the end of the trial balance need to have dollar signs and be double-underscored.</item>
+</list>
+<para id="fs-idm677317776">Transferring information from T-accounts to the trial balance requires consideration of the final balance in each account. If the final balance in the ledger account (T-account) is a debit balance, you will record the total in the left column of the trial balance. If the final balance in the ledger account (T-account) is a credit balance, you will record the total in the right column.</para>
+<para id="fs-idm390449328">Once all ledger accounts and their balances are recorded, the debit and credit columns on the trial balance are totaled to see if the figures in each column match each other. The final total in the debit column must be the same dollar amount that is determined in the final credit column. For example, if you determine that the final debit balance is $24,000 then the final credit balance in the trial balance must also be $24,000. If the two balances are not equal, there is a mistake in at least one of the columns.</para>
+<media id="fs-idm643117536" alt="Printing Plus, Unadjusted Trial Balance, January 31, 2019. Debit accounts: Cash $24,800; Accounts Receivable 1,200; Supplies 500; Equipment 3,500; Dividends 100; Salaries Expense 3,600; Utility Expense 300; Total Debits $34,000. Credit accounts: Accounts Payable 500; Unearned Revenue 4,000; Common Stock 20,000; Service Revenue 9,500; Total Credits $34,000. To the right of the unadjusted trial balance are eleven T-accounts with lines connecting the balances of the T-accounts to the account balances on the unadjusted trial balance. The eleven T-accounts, in order, are: Cash, with a debit entry dated January 3 for 20,000, a debit entry dated January 9 for 4,000, a debit entry dated January 17 for 2,800, a debit entry dated January 23 for 5,500, a credit entry dated January 12 for 300, a credit entry dated January 14 for 100, a credit entry dated January 18 for 3,500, a credit entry dated January 20 for 3,600, and a balance of 24,800. Accounts Receivable, with a debit entry dated January 10 for 5,500, a debit entry dated January 27 for 1,200, a credit entry dated January 23 for 5,500, and a balance of 1,200. Supplies, with a debit entry dated January 30 for 500, and a balance of 500. Equipment, with a debit entry dated January 5 for 3,500, and a balance of 3,500. Accounts Payable, with a debit entry dated January 18 for 3,500, a credit entry dated January 9 for 3,500, a credit entry dated January 30 for 500, and a balance of 500. Unearned Revenue, with a credit entry dated January 9 for 4,000, and a balance of 4,000. Common Stock, with a credit entry dated January 3 for 20,000, and a balance of 20,000. Dividends, with a debit entry dated January 14 for 100, and a balance of 100. Service Revenue, with a credit entry dated January 10 for 5,500, a credit entry dated January 17 for 2,800, a credit entry dated January 27 for 1,200, and a balance of 9,500. Salaries Expense, with a debit entry dated January 20 for 3,600, and a balance of 3,600. Utility Expense, with a debit entry dated January 12 for 300, and a balance of 300.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_06_UTB01_img.jpg"/>
+</media>
+<para id="fs-idm646345104">Let’s now take a look at the T-accounts and unadjusted trial balance for Printing Plus to see how the information is transferred from the T-accounts to the unadjusted trial balance.</para>
+<para id="fs-idm390459568">For example, Cash has a final balance of $24,800 on the debit side. This balance is transferred to the Cash account in the debit column on the unadjusted trial balance. Accounts Receivable ($1,200), Supplies ($500), Equipment ($3,500), Dividends ($100), Salaries Expense ($3,600), and Utility Expense ($300) also have debit final balances in their T-accounts, so this information will be transferred to the debit column on the unadjusted trial balance. Accounts Payable ($500), Unearned Revenue ($4,000), Common Stock ($20,000) and Service Revenue ($9,500) all have credit final balances in their T-accounts. These credit balances would transfer to the credit column on the unadjusted trial balance.</para>
+<para id="fs-idm635367264">Once all balances are transferred to the unadjusted trial balance, we will sum each of the debit and credit columns. The debit and credit columns both total $34,000, which means they are equal and in balance. However, just because the column totals are equal and in balance, we are still not guaranteed that a mistake is not present.</para>
+<media id="fs-idm673822560" class="scaled-down" alt="Printing Plus, Unadjusted Trial Balance, January 31, 2019. Debit accounts: Cash, $24,800; Accounts Receivable, 1,200; Supplies, 500; Equipment, 3,500; Dividends, 100; Salaries Expense, 3,600; Utility Expense, 300; Total Debits, $34,000. Credit accounts: Accounts Payable, 500; Unearned Revenue, 4,000; Common Stock, 20,000; Service Revenue, 9,500; Total Credits, $34,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_06_UTB02_img.jpg"/>
+</media>
+<para id="fs-idm390074384">What happens if the columns are not equal?</para>
+<note id="fs-idm393817952" class="concepts-practice">
+<title>Enron and Arthur Andersen</title>
+<para id="fs-idm391329152">One of the most well-known financial schemes is that involving the companies <emphasis class="colored-text">Enron Corporation</emphasis> and <emphasis class="colored-text">Arthur Andersen</emphasis>. <emphasis class="colored-text">Enron</emphasis> defrauded thousands by intentionally inflating revenues that did not exist. <emphasis class="colored-text">Arthur Andersen</emphasis> was the auditing firm in charge of independently verifying the accuracy of <emphasis class="colored-text">Enron</emphasis>’s financial statements and disclosures. This meant they would review statements to make sure they aligned with GAAP principles, assumptions, and concepts, among other things.</para>
+<para id="fs-idm365722352">It has been alleged that <emphasis class="colored-text">Arthur Andersen</emphasis> was negligent in its dealings with <emphasis class="colored-text">Enron</emphasis> and contributed to the collapse of the company. <emphasis class="colored-text">Arthur Andersen</emphasis> was brought up on a charge of obstruction of justice for shredding important documents related to criminal actions by <emphasis class="colored-text">Enron</emphasis>. They were found guilty but had that conviction overturned. However, the damage was done, and the company’s reputation prevented it from operating as it had.<footnote id="fs-idm500160144">James Titcomb. “Arthur Andersen Returns 12 Years after Enron Scandal.” <emphasis effect="italics">The Telegraph.</emphasis> September 2, 2014. https://www.telegraph.co.uk/finance/newsbysector/banksandfinance/11069713/Arthur-Andersen-returns-12-years-after-Enron-scandal.html</footnote></para>
+</note>
+<section id="fs-idm374650096">
+<title>Locating Errors</title>
+<para id="fs-idm353383440">Sometimes errors may occur in the accounting process, and the trial balance can make those errors apparent when it does not balance.</para>
+<para id="fs-idm398220560">One way to find the error is to take the difference between the two totals and divide the difference by two. For example, let’s assume the following is the trial balance for Printing Plus.</para>
+<media id="fs-idm372765568" class="scaled-down" alt="Printing Plus, Unadjusted Trial Balance, January 31, 2019. Debit accounts: Cash, $24,800; Accounts Receivable, 1,200; Supplies, 500; Equipment, 3,500; Salaries Expense, 3,600; Utility Expense, 300; Total Debits, $33,900. Credit accounts: Accounts Payable, 500; Unearned Revenue, 4,000; Common Stock, 20,000; Dividends, 100; Service Revenue, 9,500; Total Credits, $34,100.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_06_UTB03_img.jpg"/>
+</media>
+<para id="fs-idm372484528">You notice that the balances are not the same. Find the difference between the two totals: $34,100 – $33,900 = $200 difference. Now divide the difference by two: $200/2 = $100. Since the credit side has a higher total, look carefully at the numbers on the credit side to see if any of them are $100. The Dividends account has a $100 figure listed in the credit column. Dividends normally have a debit balance, but here it is a credit. Look back at the Dividends T-account to see if it was copied onto the trial balance incorrectly. If the answer is the same as the T-account, then trace it back to the journal entry to check for mistakes. You may discover in your investigation that you copied the number from the T-account incorrectly. Fix your error, and the debit total will go up $100 and the credit total down $100 so that they will both now be $34,000.</para>
+<para id="fs-idm407830656">Another way to find an error is to take the difference between the two totals and divide by nine. If the outcome of the difference is a whole number, then you may have transposed a figure. For example, let’s assume the following is the trial balance for Printing Plus.</para>
+<media id="fs-idm355687920" class="scaled-down" alt="Printing Plus, Unadjusted Trial Balance, January 31, 2019. Debit accounts: Cash, $24,800; Accounts Receivable, 1,200; Supplies, 500; Equipment, 5,300; Dividends, 100; Salaries Expense, 3,600; Utility Expense, 300; Total Debits, $35,800. Credit accounts: Accounts Payable, 500; Unearned Revenue, 4,000; Common Stock, 20,000; Service Revenue, 9,500; Total Credits, $34,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_06_UTB04_img.jpg"/>
+</media>
+<para id="fs-idm357201520">Find the difference between the two totals: $35,800 – 34,000 = $1,800 difference. This difference divided by nine is $200 ($1,800/9 = $200). Looking at the debit column, which has the higher total, we determine that the Equipment account had transposed figures. The account should be $3,500 and not $5,300. We transposed the three and the five.</para>
+<para id="fs-idm674262000">What do you do if you have tried both methods and neither has worked? Unfortunately, you will have to go back through one step at a time until you find the error.</para>
+<para id="fs-idm409063152">If a trial balance is in balance, does this mean that all of the numbers are correct? Not necessarily. We can have errors and still be mathematically in balance. It is important to go through each step very carefully and recheck your work often to avoid mistakes early on in the process.</para>
+<para id="fs-idm390497216">After the unadjusted trial balance is prepared and it appears error-free, a company might look at its financial statements to get an idea of the company’s position before adjustments are made to certain accounts. A more complete picture of company position develops after adjustments occur, and an adjusted trial balance has been prepared. These next steps in the accounting cycle are covered in <link document="m67848">The Adjustment Process</link>.</para>
+<note id="fs-idm390300688" class="your-turn">
+<title>Completing a Trial Balance</title>
+<para id="fs-idm355740368">Complete the trial balance for Magnificent Landscaping Service using the following T-account final balance information for April 30, 2018.</para>
+<media id="fs-idm353388560" class="scaled-down" alt="Six T-accounts. Cash, 10,000 debit entry, 6,000 credit entry, balance 4,000. Accounts Receivable, 400 debit entry, balance 400. Accounts Payable, 50 credit entry, balance 50. Common Stock, 2,050 credit entry, balance 2,050. Service Revenue, 2,000 and 400 credit entries, balance 2,400. Advertising Expense, 100 debit entry, balance 100.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_06_YT01TA01_img.png"/>
+</media>
+<para id="fs-idm391140896"><emphasis effect="bold">Solution</emphasis></para>
+<media id="fs-idm406470512" class="scaled-down" alt="Magnificent Landscaping Service, Trial Balance, April 30, 2018. Debit accounts: Cash, $4,000; Accounts Receivable, 400; Advertising expense, 100; Total Debits, $4,500. Credit accounts: Accounts Payable, 50; Common Stock, 2,050; Service Revenue, 2,400; Total Credits, $4,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_06_YT01Sol_img.png"/>
+</media>
+</note>
+<note id="fs-idm622580432" class="think-through">
+<title>Correcting Errors in the Trial Balance</title>
+<para id="fs-idm354196992">You own a small consulting business. Each month, you prepare a trial balance showing your company’s position. After preparing your trial balance this month, you discover that it does not balance. The debit column shows $2,000 more dollars than the credit column. You decide to investigate this error.</para>
+<para id="fs-idm372798544">What methods could you use to find the error? What are the ramifications if you do not find and fix this error? How can you minimize these types of errors in the future?</para>
+</note>
+</section>
+<section id="fs-idm375993632" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm416386352" list-type="bulleted" bullet-style="bullet">
+<item>The trial balance contains a listing of all accounts in the general ledger with nonzero balances. Information is transferred from the T-accounts to the trial balance.</item>
+<item>Sometimes errors occur on the trial balance, and there are ways to find these errors. One may have to go through each step of the accounting process to locate an error on the trial balance.</item>
+</list>
+</section>
+<section id="fs-idm388833440" class="exercise-set-a">
+<title>Exercise Set A</title>
+<exercise id="fs-idm366174944">
+<problem id="fs-idm639054160">
+<para id="fs-idm410094064"><link class="lo-reference" document="m67841"/>Prepare an unadjusted trial balance, in correct format, from the alphabetized account information as follows. Assume all accounts have normal balances.</para>
+<media id="fs-idm410187792" class="scaled-down" alt="Accounts payable $11,100; Accounts receivable 16,500; Administrative expense 54,712; Cash 64,888; Common stock 50,000; Service revenue 75,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_EA06_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm663793536" class="exercise-set-b">
+<title>Exercise Set B</title>
+<exercise id="fs-idm401437760">
+<problem id="fs-idm374686368">
+<para id="fs-idm395215248"><link class="lo-reference" document="m67841"/>Prepare an unadjusted trial balance, in correct format, from the alphabetized account information as follows. Assume all accounts have normal balances.</para>
+<media id="fs-idm393402656" class="scaled-down" alt="Accounts payable $8,005; Accounts receivable 12,500; Cash 56,015; Common stock 28,000; Fees earned revenue 75,510; Operating expense 43,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_EB06_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm659192336" class="problem-set-a">
+<title>Problem Set A</title>
+<exercise id="fs-idm397673232">
+<problem id="fs-idm394871376">
+<para id="fs-idm414178656"><link class="lo-reference" document="m67841"/>Prepare an unadjusted trial balance, in correct format, from the following alphabetized account information. Assume accounts have normal balances.</para>
+<media id="fs-idm401411168" class="scaled-down" alt="Accounts payable $9,500; Accounts receivable 14,260; Cash 22,222; Common stock 30,000; Dividends 5,000; Equipment 12,000; Investments (short term) 25,444; Land 20,000; Notes payable 26,000; Retained earnings 12,815; Salaries expense 53,500; Service revenue 89,550; Supplies 2,750; Utility expense 12,689.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_PA10_img-dae6.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm393829872">
+<problem id="fs-idm412120320">
+<para id="fs-idm405099088"><link class="lo-reference" document="m67841"/>Prepare an unadjusted trial balance, in correct format, from the following alphabetized account information. Assume all the accounts have normal balances.</para>
+<media id="fs-idm622584016" class="scaled-down" alt="Accounts payable $26,000; Accounts receivable 8,000; Cash 29,000; Common stock 33,000; Dividends 9,000; Equipment 68,000; Notes payable (due next month) 29,000; Salaries expense 42,000; Salaries payable 2,000; Service revenue 75,000; Supplies 5,000; Transportation expense 4,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_PA11_img-e2f7.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm685976048" class="problem-set-b">
+<title>Problem Set B</title>
+<exercise id="fs-idm389775840">
+<problem id="fs-idm392990528">
+<para id="fs-idm409952128"><link class="lo-reference" document="m67841"/>Prepare an unadjusted trial balance, in correct format, from the following alphabetized account information. Assume all accounts have normal balances.</para>
+<media id="fs-idm408883248" class="scaled-down" alt="Accounts payable $3,600; Accounts receivable 45,333; Building 156,000; Cash 50,480; Common stock 110,000; Dividends 18,000; Equipment 33,500; Fees earned revenue 225,430; Land 18,000; Miscellaneous expense 5,123; Notes payable 85,500; Retained earnings 60,606; Salaries expense 151,900; Supplies 6,800.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_PB07_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm373002416">
+<problem id="fs-idm415162624">
+<para id="fs-idm390310928"><link class="lo-reference" document="m67841"/>Prepare an unadjusted trial balance, in correct format, from the following alphabetized account information. Assume all accounts have normal balances.</para>
+<media id="fs-idm388325040" class="scaled-down" alt="Accounts payable $18,000; Accounts receivable 4,000; Automobile 28,000; Cash 19,000; Common stock 30,000; Dividends 16,000; Equipment 80,000; Insurance expense 8,000; Land 26,000; Notes payable (long term) 55,000; Salaries expense 37,000; Sales revenue 115,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_PB08_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm363310752" class="thought-provokers">
+<title>Thought Provokers</title>
+<exercise id="fs-idm397904016">
+<problem id="fs-idm391657424">
+<para id="fs-idm402068528"><link class="lo-reference" document="m67841"/>Analyze Trusty Company’s trial balance and the additional information provided to determine the following:</para>
+<list id="fs-idm413604928" list-type="enumerated" number-style="upper-alpha">
+<item>what is causing the trial balance to be out of balance</item>
+<item>any other errors that require corrections that are identified during your analysis</item>
+<item>the effect (if any) that correcting the errors will have on the accounting equation</item>
+</list>
+<media id="fs-idm402449520" class="scaled-down" alt="Trusty Company, Trial Balance, Ending December 31, 2018. Debit accounts: Cash $77,500; Accounts receivable 5,600; Supplies 2,450; Equipment 11,200; Dividends 6,000; Advertising expense 4,350; Salaries expense 46,500; Total Debits $153,600. Credit accounts: Accounts payable $17,000; Notes payable 27,400; Common stock 20,000; Retained earnings 7,900; Service revenue 99,300; Total Credits $171,600.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_TP01_img-afdf.jpg"/>
+</media>
+<para id="fs-idm417500144">A review of transactions revealed the following facts:</para>
+<list id="fs-idm415416768" list-type="bulleted" bullet-style="bullet">
+<item>A service fee of $18,000 was earned (but not yet collected) by the end of the period but was accidentally not recorded as revenue at that time.</item>
+<item>A transposition error occurred when transferring the account balances from the ledger to the trial balance. Salaries expense should have been listed on the trial balance as $64,500 but was inadvertently recorded as $46,500.</item>
+<item>Two machines that cost $9,000 each were purchased on account but were not recorded in company accounting records.</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm408583536">
+<term>trial balance</term>
+<meaning id="fs-idm397229168">list of all accounts in the general ledger that have nonzero balances</meaning>
+</definition>
+<definition id="fs-idm414240128">
+<term>unadjusted trial balance</term>
+<meaning id="fs-idm393243712">trial balance that includes accounts before they have been adjusted</meaning>
+</definition>
+</glossary>
+</document>

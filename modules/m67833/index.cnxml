@@ -1,0 +1,192 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Identify Users of Accounting Information and How They Apply Information</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67833</md:content-id>
+  <md:title>Identify Users of Accounting Information and How They Apply Information</md:title>
+  <md:abstract/>
+  <md:uuid>f01e22ee-c2d4-4b51-9585-3ae1e6d48f36</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm204589936">The ultimate goal of accounting is to provide information that is useful for decision-making. Users of accounting information are generally divided into two categories: internal and external. <term class="no-emphasis">Internal users</term> are those within an organization who use financial information to make day-to-day decisions. Internal users include managers and other employees who use financial information to confirm past results and help make adjustments for future activities.</para>
+<para id="fs-idm202692512"><term class="no-emphasis">External users</term> are those outside of the organization who use the financial information to make decisions or to evaluate an entity’s performance. For example, investors, financial analysts, loan officers, governmental auditors, such as IRS agents, and an assortment of other stakeholders are classified as external users, while still having an interest in an organization’s financial information. (Stakeholders are addressed in greater detail in <link document="m67835">Explain Why Accounting Is Important to Business Stakeholders</link>.)</para>
+<section id="fs-idm176760688">
+<title>Characteristics, Users, and Sources of Financial Accounting Information</title>
+<para id="fs-idm167193136">Organizations measure financial performance in monetary terms. In the United States, the dollar is used as the standard measurement basis. Measuring financial performance in monetary terms allows managers to compare the organization’s performance to previous periods, to expectations, and to other organizations or industry standards.</para>
+<para id="fs-idm216566048">Financial accounting is one of the broad categories in the study of accounting. While some industries and types of organizations have variations in how the financial information is prepared and communicated, accountants generally use the same methodologies—called accounting standards—to prepare the financial information. You learn in <link document="m67837">Introduction to Financial Statements</link> that financial information is primarily communicated through financial statements, which include the Income Statement, Statement of Owner’s Equity, Balance Sheet, and Statement of Cash Flows and Disclosures. These financial statements ensure the information is consistent from period to period and generally comparable between organizations. The conventions also ensure that the information provided is both reliable and relevant to the user.</para>
+<para id="fs-idm185149424">Virtually every activity and event that occurs in a business has an associated cost or value and is known as a <term>transaction</term>. Part of an accountant’s responsibility is to quantify these activities and events. In this course you will learn about the many types of transactions that occur within a business. You will also examine the effects of these transactions, including their impact on the financial position of the entity.</para>
+<para id="fs-idm170344432">Accountants often use computerized accounting systems to record and summarize the financial reports, which offer many benefits. The primary benefit of a computerized accounting system is the efficiency by which transactions can be recorded and summarized, and financial reports prepared. In addition, computerized accounting systems store data, which allows organizations to easily extract historical financial information.</para>
+<para id="fs-idm212509408">Common computerized accounting systems include QuickBooks, which is designed for small organizations, and SAP, which is designed for large and/or multinational organizations. QuickBooks is popular with smaller, less complex entities. It is less expensive than more sophisticated software packages, such as Oracle or SAP, and the QuickBooks skills that accountants developed at previous employers tend to be applicable to the needs of new employers, which can reduce both training time and costs spent on acclimating new employees to an employer’s software system. Also, being familiar with a common software package such as QuickBooks helps provide employment mobility when workers wish to reenter the job market.</para>
+<para id="fs-idm176633216">While QuickBooks has many advantages, once a company’s operations reach a certain level of complexity, it will need a basic software package or platform, such as Oracle or SAP, which is then customized to meet the unique informational needs of the entity.</para>
+<para id="fs-idm207856320">Financial accounting information is mostly historical in nature, although companies and other entities also incorporate estimates into their accounting processes. For example, you will learn how to use estimates to determine bad debt expenses or depreciation expenses for assets that will be used over a multiyear lifetime. That is, accountants prepare financial reports that summarize what has already occurred in an organization. This information provides what is called feedback value. The benefit of reporting what has already occurred is the reliability of the information. Accountants can, with a fair amount of confidence, accurately report the financial performance of the organization related to past activities. The feedback value offered by the accounting information is particularly useful to internal users. That is, reviewing how the organization performed in the past can help managers and other employees make better decisions about and adjustments to future activities.</para>
+<para id="fs-idm607967920">Financial information has limitations, however, as a predictive tool. Business involves a large amount of uncertainty, and accountants cannot predict how the organization will perform in the future. However, by observing historical financial information, users of the information can detect patterns or trends that may be useful for estimating the company’s future financial performance. Collecting and analyzing a series of historical financial data is useful to both internal and external users. For example, internal users can use financial information as a predictive tool to assess whether the long-term financial performance of the organization aligns with its long-term strategic goals.</para>
+<para id="fs-idm211512720">External users also use the historical pattern of an organization’s financial performance as a predictive tool. For example, when deciding whether to loan money to an organization, a bank may require a certain number of years of financial statements and other financial information from the organization. The bank will assess the historical performance in order to make an informed decision about the organization’s ability to repay the loan and interest (the cost of borrowing money). Similarly, a potential investor may look at a business’s past financial performance in order to assess whether or not to invest money in the company. In this scenario, the investor wants to know if the organization will provide a sufficient and consistent return on the investment. In these scenarios, the financial information provides value to the process of allocating scarce resources (money). If potential lenders and investors determine the organization is a worthwhile investment, money will be provided, and, if all goes well, those funds will be used by the organization to generate additional value at a rate greater than the alternate uses of the money.</para>
+</section>
+<section id="fs-idm167578688">
+<title>Characteristics, Users, and Sources of Managerial Accounting Information</title>
+<para id="fs-idm622367648">As you’ve learned, managerial accounting information is different from financial accounting information in several respects. Accountants use formal accounting standards in financial accounting. These accounting standards are referred to as <term>generally accepted accounting principles (GAAP)</term> and are the common set of rules, standards, and procedures that publicly traded companies must follow when composing their financial statements. The previously mentioned <term>Financial Accounting Standards Board (FASB)</term>, an independent, nonprofit organization that sets financial accounting and reporting standards for both public and private sector businesses in the United States, uses the GAAP guidelines as its foundation for its system of accepted accounting methods and practices, reports, and other documents.</para>
+<para id="fs-idm209727200">Since most managerial accounting activities are conducted for internal uses and applications, managerial accounting is not prepared using a comprehensive, prescribed set of conventions similar to those required by financial accounting. This is because managerial accountants provide managerial accounting information that is intended to serve the needs of internal, rather than external, users. In fact, managerial accounting information is rarely shared with those outside of the organization. Since the information often includes strategic or competitive decisions, managerial accounting information is often closely protected. The business environment is constantly changing, and managers and decision makers within organizations need a variety of information in order to view or assess issues from multiple perspectives.</para>
+<para id="fs-idm180557936">Accountants must be adaptable and flexible in their ability to generate the necessary information management decision-making. For example, information derived from a computerized accounting system is often the starting point for obtaining managerial accounting information. But accountants must also be able to extract information from other sources (internal and external) and analyze the data using mathematical, formula-driven software (such as Microsoft Excel).</para>
+<para id="fs-idm184586336">Management accounting information as a term encompasses many activities within an organization. Preparing a budget, for example, allows an organization to estimate the financial performance for the upcoming year or years and plan for adjustments to scale operations according to the projections. Accountants often lead the budgeting process by gathering information from internal (estimates from the sales and engineering departments, for example) and external (trade groups and economic forecasts, for example) sources. These data are then compiled and presented to decision makers within the organization.</para>
+<para id="fs-idm169571120">Examples of other decisions that require management accounting information include whether an organization should repair or replace equipment, make products internally or purchase the items from outside vendors, and hire additional workers or use automation.</para>
+<para id="fs-idm204497440">As you have learned, management accounting information uses both financial and nonfinancial information. This is important because there are situations in which a purely financial analysis might lead to one decision, while considering nonfinancial information might lead to a different decision. For example, suppose a financial analysis indicates that a particular product is unprofitable and should no longer be offered by a company. If the company fails to consider that customers also purchase a complementary good (you might recall that term from your study of economics), the company may be making the wrong decision. For example, assume that you have a company that produces and sells both computer printers and the replacement ink cartridges. If the company decided to eliminate the printers, then it would also lose the cartridge sales. In the past, in some cases, the elimination of one component, such as printers, led to customers switching to a different producer for its computers and other peripheral hardware. In the end, an organization needs to consider both the financial and nonfinancial aspects of a decision, and sometimes the effects are not intuitively obvious at the time of the decision. <link target-id="OSX_Acct_F01_02_FvsMAcct"/> offers an overview of some of the differences between financial and managerial accounting.</para>
+<figure id="OSX_Acct_F01_02_FvsMAcct">
+<media id="fs-idm209795936" alt="Chart with columns headed: Communication through Reporting; Financial Accounting; and Managerial Accounting (respectively): Users of reports; Primarily external users: stockholders, creditors, regulators; Internal users: mangers, officers, and other employees. Types of reports; Financial statements: balance sheet, income statement, cash-flow statement, etc.; Internal reports: job cost sheet, cost of goods manufactured, production cost report, etc. Frequency of reports; Quarterly, annually; As frequently as needed. Purpose of reports; Helps those external users make decisions: credit terms, investment, and other decisions; Assists the internal users in the planning and control decision-making process. Focus of reports; Pertains to company as a whole, Uses G A A P structure, Composed from a multitude or combination of other more individual data; Pertains to departments or sections of the business, Very detailed reporting, No G A A P constraints. Nature of reports; Monetary; Monetary and nonmonetary information. Verification of reports; Audited by C P A; No independent audits.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F01_02_FvsMAcct.jpg"/>
+</media>
+<caption>Comparing Reports between Financial and Managerial Accounting. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm620430240" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm154934016" list-type="bulleted" bullet-style="bullet">
+<item>The primary goal of accounting is to provide accurate, timely information to decision makers.</item>
+<item>Accountants provide information to internal and external users.</item>
+<item>Financial accounting measures an organization’s performance in monetary terms.</item>
+<item>Accountants use common conventions to prepare and convey financial information.</item>
+<item>Financial accounting is historical in nature, but a series of historical events can be useful in establishing predictions.</item>
+<item>Financial accounting is intended for use by both internal and external users.</item>
+<item>Managerial accounting is primarily intended for internal users.</item>
+</list>
+</section>
+<section id="fs-idm205414688" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm169728896">
+<problem id="fs-idm211944096">
+<para id="fs-idm206300368"><link class="lo-reference" document="m67832"/>Accounting is sometimes called the “language of _____.”</para><list id="fs-idm185119712" list-type="enumerated" number-style="upper-alpha">
+<item>Wall Street</item>
+<item>business</item>
+<item>Main Street</item>
+<item>financial statements</item>
+</list>
+</problem>
+<solution id="fs-idm214468880">
+<para id="fs-idm176449088">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm181308384">
+<problem id="fs-idm206205296">
+<para id="fs-idm203979712"><link class="lo-reference" document="m67833"/>Financial accounting information ________.</para>
+<list id="fs-idm202448960" list-type="enumerated" number-style="upper-alpha">
+<item>should be incomplete in order to confuse competitors</item>
+<item>should be prepared differently by each company</item>
+<item>provides investors guarantees about the future</item>
+<item>summarizes what has already occurred</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm170667104">
+<problem id="fs-idm207225040">
+<para id="fs-idm603357696"><link class="lo-reference" document="m67833"/>External users of financial accounting information include all of the following <emphasis effect="italics">except</emphasis> ________.</para>
+<list id="fs-idm167427456" list-type="enumerated" number-style="upper-alpha">
+<item>lenders such as bankers</item>
+<item>governmental agencies such as the IRS</item>
+<item>employees of a business</item>
+<item>potential investors</item>
+</list>
+</problem>
+<solution id="fs-idm176807232">
+<para id="fs-idm184674576">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm202187392">
+<problem id="fs-idm208494544">
+<para id="fs-idm180967264"><link class="lo-reference" document="m67833"/>Which of the following groups would have access to managerial accounting information?</para>
+<list id="fs-idm203344416" list-type="enumerated" number-style="upper-alpha">
+<item>bankers</item>
+<item>investors</item>
+<item>competitors of the business</item>
+<item>managers</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm170219888">
+<problem id="fs-idm191334368">
+<para id="fs-idm169358352"><link class="lo-reference" document="m67833"/>All of the following are examples of managerial accounting activities <emphasis effect="italics">except</emphasis> ________.</para>
+<list id="fs-idm158057136" list-type="enumerated" number-style="upper-alpha"><item>preparing external financial statements in compliance with GAAP</item>
+<item>deciding whether or not to use automation</item>
+<item>making equipment repair or replacement decisions</item>
+<item>measuring costs of production for each product produced</item>
+</list></problem>
+<solution id="fs-idm217951152">
+<para id="fs-idm214303552">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm206209152" class="questions">
+<title>Questions</title>
+<exercise id="fs-idm169659664">
+<problem id="fs-idm169857344">
+<para id="fs-idm206636832"><link class="lo-reference" document="m67833"/>Research your top five career choices. Identify financial factors that might influence your career choice. The following websites might be helpful in answering this question.</para>
+<list id="fs-idm207207248" list-type="bulleted" bullet-style="bullet">
+<item>Occupational Outlook Handbook: https://www.bls.gov/ooh/</item>
+<item>National Association of Colleges and Employers: http://www.naceweb.org/</item>
+<item>O*Net OnLine: https://www.onetonline.org/find/</item>
+</list>
+</problem>
+<solution id="fs-idm205425200">
+<para id="fs-idm214328464">Answers will vary but should include factors such as starting salaries, value of fringe benefits, cost of living, and other monetary factors.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm207677840">
+<problem id="fs-idm182023296">
+<para id="fs-idm184919536"><link class="lo-reference" document="m67833"/>Using the same top five career choices, identify nonfinancial factors that might influence your career choice. The following websites might be helpful in answering this question.</para>
+<list id="fs-idm204880528" list-type="bulleted" bullet-style="bullet">
+<item>Occupational Outlook Handbook: https://www.bls.gov/ooh/</item>
+<item>National Association of Colleges and Employers: http://www.naceweb.org/</item>
+<item>O*Net OnLine: https://www.onetonline.org/find/</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm167270016">
+<problem id="fs-idm207718608">
+<para id="fs-idm211850848"><link class="lo-reference" document="m67833"/>Think about a recent purchase you made. Describe what financial and nonfinancial factors went into that purchase. Rank the factors, and explain how you made the final decision to purchase the item.</para>
+</problem>
+<solution id="fs-idm212548544">
+<para id="fs-idm219132608">Answers will vary but should include considerations such as price, convenience, features, ease of purchase, availability, and other decision-making factors.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm203608256">
+<problem id="fs-idm181861568">
+<para id="fs-idm208028608"><link class="lo-reference" document="m67833"/>Computerized accounting systems help businesses efficiently record and utilize financial information. QuickBooks is a popular software package for small businesses. Explore the QuickBooks website at https://quickbooks.intuit.com/. Select one of the QuickBooks plans, and discuss some of the capabilities of the software. Taking the perspective of a small business owner, explain how this software might help the business.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm184997296">
+<problem id="fs-idm184593600">
+<para id="fs-idm210173984"><link class="lo-reference" document="m67833"/>The following information was taken from the <emphasis class="colored-text">Netflix</emphasis> financial statements.</para>
+<media id="fs-idm604912064" alt="Netflix, Inc., Consolidated Statement of Operations, For the Years, 2014, 2015, and 2016 Sales: December 31, 2014 $5,504,656*, December 31, 2015 $6,779,511, December 31, 2016 $8,830,669. *Dollar values are in thousand of U S dollars. Source: United States Security and Exchange Commission. “Netflix, Inc. Consolidated Statements of Operations.” www.sec.gov.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F01_02_Q05_img.jpg"/>
+</media>
+<para id="fs-idm205684112">For <emphasis class="colored-text">Netflix</emphasis>, sales is the product of the number of subscribers and the price charged for each subscription. What observations can you make about the previous three years of <emphasis class="colored-text">Netflix</emphasis>’s sales? Given this data, provide any predictions you can make about the future financial performance of <emphasis class="colored-text">Netflix</emphasis>. What nonfinancial factors influenced that prediction?</para>
+</problem>
+<solution id="fs-idm209872928">
+<para id="fs-idm211403488">Responses should comment on the growth Netflix has experienced. Although this may have been due to subscription price increases, the biggest driver of these increases is the number of subscriptions. While this is only a few data points, it does appear likely that Netflix will continue to grow sales in the next year or so. Factors influencing this prediction would be competition, changes in the streaming market, and economic considerations.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm212960176">
+<problem id="fs-idm175892720">
+<para id="fs-idm202719536"><link class="lo-reference" document="m67833"/>The following chart shows the price of <emphasis class="colored-text">Netflix</emphasis> stock for the six-month period from August 2017 to January 2018.</para>
+<media id="fs-idm212025424" alt="Chart with Dollars (in thousands) as the y axis and Date as the x axis. The line indicating the price of the stock August of 2017 starts at around 180 and fluctuates between 150 and 200 until January of 2018, when the price passes 200 in a sharp rise to nearly 300, then drops slightly at the end of the chart measurement. There are also lines on the chart indicating Volume (in millions) which fluctuate up and down throughout the time period, seemingly with no relation to the stock price line. Source: Nasdaq. “Netflix, Inc. Stock Chart.” www.nasdaq.com.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_F01_02_Q06_img.jpg"/>
+</media>
+<para id="fs-idm210220752">Assume you are considering purchasing <emphasis class="colored-text">Netflix</emphasis> stock. What considerations would influence your decision? Relative to <emphasis class="colored-text">Netflix</emphasis>’s financial performance, what factors would influence the decision, and how would those factors rank in your decision? What about the nonfinancial factors?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm210555248">
+<term>Financial Accounting Standards Board (FASB)</term>
+<meaning id="fs-idm185888048">independent, nonprofit organization that sets financial accounting and reporting standards for both public and private sector businesses in the United States that use Generally Accepted Accounting Principles (GAAP)</meaning>
+</definition>
+<definition id="fs-idm206225520">
+<term>generally accepted accounting principles (GAAP)</term>
+<meaning id="fs-idm178934768">common set of rules, standards, and procedures that publicly traded companies must follow when composing their financial statements</meaning>
+</definition>
+<definition id="fs-idm208437376">
+<term>transaction</term>
+<meaning id="fs-idm169472288">business activity or event that has an effect on financial information presented on financial statements</meaning>
+</definition>
+</glossary>
+</document>

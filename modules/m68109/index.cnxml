@@ -1,0 +1,514 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Distinguish between Merchandising, Manufacturing, and Service Organizations</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68109</md:content-id>
+  <md:title>Distinguish between Merchandising, Manufacturing, and Service Organizations</md:title>
+  <md:abstract/>
+  <md:uuid>50047b77-2614-4403-84d9-e918fac6f026</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm217886464">Most businesses can be classified into one or more of these three categories: <term class="no-emphasis">manufacturing</term>, <term class="no-emphasis">merchandising</term>, or <term class="no-emphasis">service</term>. Stated in broad terms, manufacturing firms typically produce a product that is then sold to a merchandising entity (a retailer) For example, <emphasis class="colored-text">Proctor and Gamble</emphasis> produces a variety of shampoos that it sells to retailers, such as <emphasis class="colored-text">Walmart</emphasis>, <emphasis class="colored-text">Target</emphasis>, or <emphasis class="colored-text">Walgreens</emphasis>. A service entity provides a service such as accounting or legal services or cable television and internet connections.</para>
+<para id="fs-idm217496928">Some companies combine aspects of two or all three of these categories within a single business. If it chooses, the same company can both produce and market its products directly to consumers. For example, <emphasis class="colored-text">Nike</emphasis> produces products that it directly sells to consumers and products that it sells to retailers. An example of a company that fits all three categories is Apple, which produces phones, sells them directly to consumers, and also provides services, such as extended warranties.</para>
+<para id="fs-idm212757648">Regardless of whether a business is a manufacturer of products, a retailer selling to the customer, a service provider, or some combination , all businesses set goals and have strategic plans that guide their operations. Strategic plans look very different from one company to another. For example, a retailer such as Walmart may have a strategic plan that focuses on increasing same store sales. <emphasis class="colored-text">Facebook’s</emphasis> strategic plan may focus on increasing subscribers and attracting new advertisers. An accounting firm may have long-term goals to open offices in neighboring cities in order to serve more clients. Although the goals differ, the process all companies use to achieve their goals is the same. First, they must develop a plan for how they will achieve the goal, and then management will gather, analyze, and use information regarding costs to make decisions, implement plans, and achieve goals.</para>
+<para id="fs-idm212674736"><link target-id="fs-idm211661040"/> lists examples of these costs. Some of these are similar across different types of businesses; others are unique to a particular business.</para>
+<table id="fs-idm211661040" class="top-titled" summary="Assessment information">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Costs</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Type of Business</entry>
+<entry valign="top" align="center">Costs Incurred</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Manufacturing Business</entry>
+<entry valign="top" align="left">
+<list id="fs-idm218461392" list-type="bulleted" bullet-style="bullet">
+<item>Direct labor</item>
+<item>Plant and equipment</item>
+<item>Manufacturing overhead</item>
+<item>Raw materials</item>
+</list>
+</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Merchandising Business</entry>
+<entry valign="top" align="left">
+<list id="fs-idm213899728" list-type="bulleted" bullet-style="bullet">
+<item>Lease on retail space</item>
+<item>Merchandise inventory</item>
+<item>Retail sales staff</item>
+</list>
+</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Service Business</entry>
+<entry valign="top" align="left">
+<list id="fs-idm217297616" list-type="bulleted" bullet-style="bullet">
+<item>Billing and collections</item>
+<item>Computer network equipment</item>
+<item>Professional staff</item>
+</list>
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Some costs, such as raw materials, are unique to a particular type of business. Other costs, such as billing and collections, are common to most businesses, regardless of the type.</caption>
+</table>
+<para id="fs-idm225977792">Knowing the basic characteristics of each cost category is important to understanding how businesses measure, classify, and control costs.</para>
+<section id="fs-idm225398336">
+<title>Merchandising Organizations</title>
+<para id="fs-idm211203216">A merchandising firm is one of the most common types of businesses. A <term>merchandising firm</term> is a business that purchases finished products and resells them to consumers. Consider your local grocery store or retail clothing store. Both of these are merchandising firms. Often, merchandising firms are referred to as <emphasis effect="italics">resellers</emphasis> or <emphasis effect="italics">retailers</emphasis> since they are in the business of reselling a product to the consumer at a profit.</para>
+<para id="fs-idm212584496">Think about purchasing toothpaste from your local drug store. The drug store purchases tens of thousands of tubes of toothpaste from a wholesale distributor or manufacturer in order to get a better per-tube cost. Then, they add their mark-up (or profit margin) to the toothpaste and offer it for sale to you. The drug store did not manufacture the toothpaste; instead, they are reselling a toothpaste that they purchased. Virtually all of your daily purchases are made from merchandising firms such as <emphasis class="colored-text">Walmart</emphasis>, <emphasis class="colored-text">Target</emphasis>, <emphasis class="colored-text">Macy’s</emphasis>, <emphasis class="colored-text">Walgreens</emphasis>, and <emphasis class="colored-text">AutoZone</emphasis>.</para>
+<para id="fs-idm215603568">Merchandising firms account for their costs in a different way from other types of business organizations. To understand merchandising costs, <link target-id="OSX_Acct_M02_01_Inc01"/> shows a simplified income statement for a merchandising firm:</para>
+<figure id="OSX_Acct_M02_01_Inc01" class="scaled-down-30">
+<media id="fs-idm224518080" alt="Sales revenue minus cost of goods sold equals gross profit. Gross profit minus operating expenses equals operating profit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_Inc01.jpg"/>
+</media>
+<caption>Simplified Income Statement for a Merchandising Firm. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm217502448">This simplified income statement demonstrates how merchandising firms account for their sales cycle or process. <emphasis effect="italics">Sales revenue</emphasis> is the income generated from the sale of finished goods to consumers rather than from the manufacture of goods or provision of services. Since a merchandising firm has to purchase goods for resale, they account for this cost as <emphasis effect="italics">cost of goods sold</emphasis>—what it cost them to acquire the goods that are then sold to the customer. The difference between what the drug store paid for the toothpaste and the revenue generated by selling the toothpaste to consumers is their <emphasis effect="italics">gross profit</emphasis>. However, in order to generate sales revenue, merchandising firms incur expenses related to the process of operating their business and selling the merchandise. These costs are called <emphasis effect="italics">operating expenses</emphasis>, and the business must deduct them from the gross profit to determine the <emphasis effect="italics">operating profit</emphasis>. (Note that while the terms “operating profit” and “operating income” are often used interchangeably, in real-world interactions you should confirm exactly what the user means in using those terms.) Operating expenses incurred by a merchandising firm include insurance, marketing, administrative salaries, and rent.</para>
+<figure id="OSX_Acct_M02_01_Retail" class="scaled-down-30">
+<media id="fs-idm220078208" alt="Photograph of a shopping mall.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_Retail.jpg"/>
+</media>
+<caption>Shopping Mall. Merchandising firms must identify and manage their costs to remain competitive and attract customers to their business. (credit: “stairs shopping mall” by “jarmoluk”/Pixabay, CC0)</caption>
+</figure>
+<note id="fs-idm217209952" class="concepts-practice">
+<title>Balancing Revenue and Expenses</title>
+<para id="fs-idm217156576">Plum Crazy is a small boutique selling the latest in fashion trends. They purchase clothing and fashion accessories from several distributors and manufacturers for resale. In 2017, they reported these revenue and expenses:</para>
+<media id="fs-idm227096144" alt="The first row lists Rent $12,000; Advertising $4,000; Utilities $1,500; Salaries and wages $35,000. The next row lists Sales revenue $150,000; Cost of goods sold $60,000; Supplies $3,000; Miscellaneous $1,200.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_CP01_img.png"/>
+</media>
+<para id="fs-idm227469872">Before examining the income statement, let’s look at Cost of Goods Sold in more detail. Merchandising companies have to account for inventory, a topic covered in <link document="m67888">Inventory</link>. As you recall, merchandising companies carry inventory from one period to another. When they prepare their income statement, a crucial step is identifying the actual cost of goods that were sold for the period. For Plum Crazy, their Cost of Goods Sold was calculated as shown in <link target-id="OSX_Acct_M02_01_CP02"/>.</para>
+<figure id="OSX_Acct_M02_01_CP02" class="scaled-down">
+<media id="fs-idm213991024" alt="Plum Crazy Cost of Goods Sold for the Year Ended December 31, 2017. Beginning Merchandise Inventory $23,500, plus Purchases $115,000 equals Goods Available for Sale $138,500, minus Ending Merchandise Inventory ($78,500), equals cost of goods sold $60,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_CP02.png"/>
+</media>
+<caption>Plum Crazy’s Cost of Goods Sold Statement. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm213475424">Once the calculation of the Cost of Goods Sold has been completed, Plum Crazy can now construct their income statement, which would appear as shown in <link target-id="OSX_Acct_M02_01_CP03"/>.</para>
+<figure id="OSX_Acct_M02_01_CP03" class="scaled-down">
+<media id="fs-idm229467664" alt="Plum Crazy Income Statement for the Year Ended December 31, 2017. Sales Revenue $150,000, plus Cost of Goods Sold $60,000 equals Gross Profit $90,000. Advertising $4,000, plus Rent $12,000, plus Salaries and Wages $35,000, plus Supplies $3,000, plus Utilities $1,500, plus Miscellaneous $1,200, equals Operating Expenses $56,700. Gross Profit $90,000 less Operating Expenses $56,700 equals Net Income $33,300.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_CP03.png"/>
+</media>
+<caption>Plum Crazy’s Income Statement. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm212059408">Since merchandising firms must pass the cost of goods on to the consumer to earn a profit, they are extremely cost sensitive. Large merchandising businesses like Walmart, Target, and <emphasis class="colored-text">Best Buy</emphasis> manage costs by buying in bulk and negotiating with manufacturers and suppliers to drive the per-unit cost.</para>
+</note>
+<note id="fs-idm227560544" class="continuing-application">
+<title>Introduction to the Gearhead Outfitters Story</title>
+<para id="fs-idm211763344"><emphasis class="colored-text">Gearhead Outfitters</emphasis>, founded by Ted Herget in 1997 in Jonesboro, AR, is a retail chain which sells outdoor gear for men, women, and children. The company’s inventory includes clothing, footwear for hiking and running, camping gear, backpacks, and accessories, by brands such as The North Face, Birkenstock, Wolverine, Yeti, Altra, Mizuno, and Patagonia. Ted fell in love with the outdoor lifestyle while working as a ski instructor in Colorado and wanted to bring that feeling back home to Arkansas. And so, Gearhead was born in a small downtown location in Jonesboro. The company has had great success over the years, expanding to numerous locations in Ted’s home state, as well as Louisiana, Oklahoma, and Missouri.</para>
+<para id="fs-idm225497296">While Ted knew his industry when starting Gearhead, like many entrepreneurs he faced regulatory and financial issues which were new to him. Several of these issues were related to accounting and the wealth of decision-making information which accounting systems provide.</para>
+<para id="fs-idm215932288">For example, measuring revenue and expenses, providing information about cash flow to potential lenders, analyzing whether profit and positive cash flow is sustainable to allow for expansion, and managing inventory levels. Accounting, or the preparation of financial statements (balance sheet, income statement, and statement of cash flows), provides the mechanism for business owners such as Ted to make fundamentally sound business decisions.</para>
+</note>
+<note id="fs-idm215518160" class="link-to-learning">
+<para id="fs-idm216167312">Walmart is inarguably a retail giant, but how did the company become so successful? Read the <link url="https://openstax.org/l/50Walmart">article about how low costs have allowed Walmart to keep prices low while still making a large profit</link> to learn more.</para>
+</note>
+</section>
+<section id="fs-idm219922560">
+<title>Manufacturing Organizations</title>
+<para id="fs-idm221844384">A <term>manufacturing organization</term> is a business that uses parts, components, or raw materials to produce finished goods (<link target-id="OSX_Acct_M02_01_Factory"/>). These finished goods are sold either directly to the consumer or to other manufacturing firms that use them as a component part to produce a finished product. For example, <emphasis class="colored-text">Diehard</emphasis> manufactures automobile batteries that are sold directly to consumers by retail outlets such as AutoZone, <emphasis class="colored-text">Costco</emphasis>, and <emphasis class="colored-text">Advance Auto</emphasis>. However, these batteries are also sold to automobile manufacturers such as <emphasis class="colored-text">Ford</emphasis>, <emphasis class="colored-text">Chevrolet</emphasis>, or <emphasis class="colored-text">Toyota</emphasis> to be installed in cars during the manufacturing process. Regardless of who the final consumer of the final product is, Diehard must control its costs so that the sale of batteries generates revenue sufficient to keep the organization profitable.</para>
+<figure id="OSX_Acct_M02_01_Factory" class="scaled-down-30">
+<media id="fs-idm216154048" alt="Photograph of an automobile worker.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_Factory.jpg"/>
+</media>
+<caption>Manufacturing firms apply direct labor to raw materials in order to produce the finished goods purchased from retailers. (credit: “work manufactures” by “dodaning0”/Pixabay, CC0)</caption>
+</figure>
+<para id="fs-idm213079488">Manufacturing firms are more complex organizations than merchandising firms and therefore have a larger variety of costs to control. For example, a merchandising firm may purchase furniture to sell to consumers, whereas a manufacturing firm must acquire raw materials such as lumber, paint, hardware, glue, and varnish that they transform into furniture. The manufacturer incurs additional costs, such as direct labor, to convert the raw materials into furniture. Operating a physical plant where the production process takes place also generates costs. Some of these costs are tied directly to production, while others are general expenses necessary to operate the business. Because the manufacturing process can be highly complex, manufacturing firms constantly evaluate their production processes to determine where cost savings are possible.</para>
+<note id="fs-idm220542912" class="concepts-practice">
+<title>Cost Control</title>
+<para id="fs-idm212724448">Controlling costs is an integral function of all managers, but companies often hire personnel to specifically oversee cost control. As you’ve learned, controlling costs is vital in all industries, but at <emphasis class="colored-text">Hilton Hotels</emphasis>, they translate this into the position of Cost Controller. Here is an excerpt from one of Hilton’s recent job postings.</para>
+<para id="fs-idm217019392"><emphasis effect="bold">Position Title: Cost Controller</emphasis></para>
+<para id="fs-idm220212736"><emphasis effect="bold">Job Description:</emphasis> “A Cost Controller will work with all Heads of Departments to effectively control all products that enter and exit the hotel.”<footnote id="fs-idm211654032">Hilton. “Cost Controller: Job Description.” Hosco. https://www.hosco.com/en/job/hilton-istanbul-bomonti-hotel-conference-center/cost-controller</footnote></para>
+<para id="fs-idm230723952"><emphasis effect="bold">Job Requirements:</emphasis></para>
+<para id="fs-idm233309216">“As Cost Controller, you will work with all Heads of Departments to effectively control all products that enter and exit the hotel. Specifically, you will be responsible for performing the following tasks to the highest standards:</para>
+<list id="fs-idm215729712" list-type="bulleted" bullet-style="bullet">
+<item>Review the daily intake of products into the hotel and ensure accurate pricing and quantity of goods received</item>
+<item>Control the stores by ensuring accuracy of inventory and stock control and the pricing of goods received</item>
+<item>Alert relevant parties of slow-moving goods and goods nearing expiry dates to reduce waste and alter product purchasing to accommodate</item>
+<item>Manage cost reporting on a weekly basis</item>
+<item>Attend finance meetings, as required</item>
+<item>Maintain good communication and working relationships with all hotel areas</item>
+<item>Act in accordance with fire, health and safety regulations and follow the correct procedures when required”<footnote id="fs-idm223470416">Hilton. “Cost Controller: Job Description.” Hosco. https://www.hosco.com/en/job/hilton-istanbul-bomonti-hotel-conference-center/cost-controller</footnote></item>
+</list>
+<para id="fs-idm211833568">As you can see, the individual in this position will interact with others across the organization to find ways to control costs for the benefit of the company. Some of the benefits of cost control include:</para>
+<list id="fs-idm232427872" list-type="bulleted" bullet-style="bullet">
+<item>Lowering overall company expenses, thereby increasing net income.</item>
+<item>Freeing up financial resources for investment in research &amp; development of new or improved products, goods, or services</item>
+<item>Providing funding for employee development and training, benefits, and bonuses</item>
+<item>Allowing corporate earnings to be used to support humanitarian and charitable causes</item>
+</list>
+</note>
+<para id="fs-idm217521872">Manufacturing organizations account for costs in a way that is similar to that of merchandising firms. However, as you will learn, there is a significant difference in the calculation of cost of goods sold. <link target-id="OSX_Acct_M02_01_Inc02"/> shows a simplification of the income statement for a manufacturing firm:</para>
+<figure id="OSX_Acct_M02_01_Inc02" class="scaled-down">
+<media id="fs-idm220260592" alt="Sales minus cost of goods sold equals gross profit. Gross profit minus operating expenses equals operating profit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_Inc02.jpg"/>
+</media>
+<caption>Simplified Income Statement for a Manufacturing Firm. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm227040192">At first it appears that there is no difference between the income statements of the merchandising firm and the manufacturing firm. However, the difference is in how these two types of firms account for the cost of goods sold. Merchandising firms determine their cost of goods sold by accounting for both existing inventory and new purchases, as shown in the Plum Crazy example. It is typically easy for merchandising firms to calculate their costs because they know exactly what they paid for their merchandise.</para>
+<para id="fs-idm213133072">Unlike merchandising firms, manufacturing firms must calculate their cost of goods sold based on how much they manufacture and how much it costs them to manufacture those goods. This requires manufacturing firms to prepare an additional statement before they can prepare their income statement. This additional statement is the <emphasis effect="italics">Cost of Goods Manufactured</emphasis> statement. Once the cost of goods manufactured is calculated, the cost is then incorporated into the manufacturing firm’s income statement to calculate its cost of goods sold.</para>
+<para id="fs-idm213473696">One thing manufacturing firms must consider in their cost of goods manufactured is that, at any given time, they have products at varying levels of production: some are finished and others are still process. The cost of goods manufactured statement measures the cost of the goods actually finished during the period, whether or not they were started during that period.</para>
+<para id="fs-idm213307440">Before examining the typical manufacturing firm’s process to track cost of goods manufactured, you need basic definitions of three terms in the schedule of Costs of Goods Manufactured: direct materials, direct labor, and manufacturing overhead. <term>Direct materials</term> are the components used in the production process whose costs can be identified on a per item-produced basis. For example, if you are producing cars, the engine would be a direct material item. The direct material cost would be the cost of one engine. <term>Direct labor</term> represents production labor costs that can be identified on a per item-produced basis. Referring to the car production example, assume that the engines are placed in the car by individuals rather than by an automated process. The direct labor cost would be the amount of labor in hours multiplied by the hourly labor cost. <term>Manufacturing overhead</term> generally includes those costs incurred in the production process that are not economically feasible to measure as direct material or direct labor costs. Examples include the department manager’s salary, the production factory’s utilities, or glue used to attach rubber molding in the auto production process. Since there are so many possible costs that can be classified as manufacturing overhead, they tend to be grouped and then allocated in a predetermined manner to the production process.</para>
+<para id="fs-idm216084880"><link target-id="OSX_Acct_M02_01_COGM"/> is an example of the calculation of the Cost of Goods Manufactured for Koeller Manufacturing. It demonstrates the relationship between cost of goods manufactured and cost of goods in progress and includes the three main types of manufacturing costs.</para>
+<figure id="OSX_Acct_M02_01_COGM" class="scaled-down">
+<media id="fs-idm219976640" alt="Koeller Manufacturing Schedule of Cost of Goods Manufactured For the Month Ended March 31, 2017. Work in Process Inventory (beginning balance) $75,000, plus Current Manufacturing Costs: Direct Material $15,000, Direct Labor 25,000, and Manufacturing Overhead 23,000, equals Total Manufacturing Costs of 63,000. Equals Total cost of Work in Process 138,000, less Work in Process, ending balances 43,000, equals Cost of Goods Manufactured $95,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_COGM.jpg"/>
+</media>
+<caption>Koeller Manufacturing’s Cost of Goods Manufactured. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm217089568">As you can see, the manufacturing firm takes into account its work-in-process (WIP) inventory as well as the costs incurred during the current period to finish not only the units that were in the beginning WIP inventory, but also a portion of any production that was started but not finished during the month. Notice that the current manufacturing costs, or the additional costs incurred during the month, include direct materials, direct labor, and manufacturing overhead. Direct materials are calculated as</para>
+<media id="fs-idm217215104" class="scaled-down-30" alt="Materials Inventory (Beginning Balance) plus Net Material Purchases equals Materials Available for Use. Materials Available for Use minus Materials Inventory (Ending Balance) equals Direct Materials Used in Production.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_DM_img.jpg"/>
+</media>
+<para id="fs-idm216180000">All of these costs are carefully tracked and classified because the cost of manufacturing is a vital component of the schedule of cost of goods sold. To continue with the example, Koeller Manufacturing calculated that the cost of goods manufactured was $95,000, which is carried through to the Schedule of Cost of Goods Sold (<link target-id="OSX_Acct_M02_01_COGS"/>).</para><figure id="OSX_Acct_M02_01_COGS" class="scaled-down">
+<media id="fs-idm217201248" alt="Koeller Manufacturing Schedule of Cost of Goods Sold For the Month Ending March 31, 2017. Beginning Finished Goods Inventory $65,000, plus Cost of Goods Manufactured 95,000, equals Goods Available for Sale 160,000. Less Ending Finished Goods Inventory 58,000 equals Cost of Goods Sold $102,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_COGS.jpg"/>
+</media>
+<caption>Koeller Manufacturing’s Cost of Goods Sold. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm218239792">Now when Koeller Manufacturing prepares its income statement, the simplified statement will appear as shown in <link target-id="OSX_Acct_M02_01_Inc03"/>.</para>
+<figure id="OSX_Acct_M02_01_Inc03" class="scaled-down">
+<media id="fs-idm220307904" alt="Koeller Manufacturing Income Statement For the Month Ending March 31, 2017. Sales $214,000, less Cost of Goods Sold 102,000, equals Gross Profit 112,000. Less Operating Expenses 80,000 equals Operating Income $32,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_Inc03.jpg"/>
+</media>
+<caption>Koeller Manufacturing’s Income Statement. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm219843072">So, even though the income statements for the merchandising firm and the manufacturing firm appear very similar at first glance, there are many more costs to be captured by the manufacturing firm. <link target-id="OSX_Acct_M02_01_Compare"/> compares and contrasts the methods merchandising and manufacturing firms use to calculate the cost of goods sold in their income statement.</para>
+<figure id="OSX_Acct_M02_01_Compare">
+<media id="fs-idm220412176" alt="Flow chart showing Koeller Manufacturing calculation is Beginning Inventory plus Cost of Goods Manufactured less Ending Inventory equals Cost of Goods Sold, and ABC Merchandising calculation is Beginning Inventory plus Cost of Goods Purchased less Ending Inventory equals Cost of Goods Sold.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_Compare.jpg"/>
+</media>
+<caption>Merchandising firms consider the cost of goods purchased, and manufacturing firms consider the cost of goods manufactured in order to determine the cost of goods sold. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm211217168" class="concepts-practice">
+<title>Calculating Cost of Goods Sold in Manufacturing</title>
+<para id="fs-idm221942928">Just Desserts is a bakery that produces and sells cakes and pies to grocery stores for resale. Although they are a small manufacturer, they incur many of the costs of a much larger organization. In 2017, they reported these revenue and expenses:</para>
+<media id="fs-idm213068816" alt="Office rent $20,000, Office utilities 1,500, Administrative salaries 35,000, Sales Revenue 150,000, Cost of Goods Sold 70,000, Administrative expenses 12,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_CP04_img.png"/>
+</media>
+<para id="fs-idm228980288">Their income statement is shown in <link target-id="OSX_Acct_M02_01_CP05"/>.</para>
+<figure id="OSX_Acct_M02_01_CP05" class="scaled-down">
+<media id="fs-idm212905872" alt="Just Desserts Income Statement For the Year Ended December 31, 2017. Sales Revenue $150,000, plus Cost of Goods Sold 70,000, equals Gross Profit 80,000. Administrative Expenses $12,000, plus Administrative Salaries 35,000, plus Office Utilities 1,500, plus Office Rent 20,000, equals Operating Expenses 68,500. Gross profit less Operating Expenses equals $11,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_CP05.png"/>
+</media>
+<caption>Just Desserts’ Income Statement. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm226317312">You’ll learn more about the flow of manufacturing costs in <link document="m68110">Identify and Apply Basic Cost Behavior Patterns</link>. For now, recognize that, unlike a merchandising firm, calculating cost of goods sold in manufacturing firms can be a complex task for management.</para>
+</note>
+</section>
+<section id="fs-idm213428192">
+<title>Service Organizations</title>
+<para id="fs-idm215918832">A <term>service organization</term> is a business that earns revenue by providing <term>intangible products</term>, those that have no physical substance. The service industry is a vital sector of the U.S. economy, providing 65% of the U.S. private-sector gross domestic product and more than 79% of U.S. private-sector jobs.<footnote id="fs-idm213613200">John Ward. “The Services Sector: How Best to Measure It?” International Trade Administration. Oct. 2010. https://2016.trade.gov/publications/ita-newsletter/1010/services-sector-how-best-to-measure-it.asp. “United States GDP from Private Services Producing Industries.” Trading Economics / U.S. Bureau of Economic Analysis. July 2018. https://tradingeconomics.com/united-states/gdp-from-services. “Employment in Services (% of Total Employment) (Modeled ILO Estimate).” International Labour Organization, ILOSTAT database. The World Bank. Sept. 2018. https://data.worldbank.org/indicator/SL.SRV.EMPL.ZS.</footnote> If <term>tangible products</term>, physical goods that customers can handle and see, are provided by a service organization, they are considered ancillary sources of revenue. Large service organizations such as airlines, insurance companies, and hospitals incur a variety of costs in the provision of their services. Costs such as labor, supplies, equipment, advertising, and facility maintenance can quickly spiral out of control if management is not careful. Therefore, although their cost drivers are sometimes not as complex as those of other types of firms, cost identification and control are every bit as important in the service industry.</para>
+<para id="fs-idm211708432">For example, consider the services that a law firm provides its clients. What clients pay for are services such as representation in legal proceedings, contract negotiations, and preparation of wills. Although the true value of these services is not contained in their physical form, they are of value to the client and the source of revenue to the firm. The managing partners in the firm must be as cost conscious as their counterparts in merchandising and manufacturing firms. Accounting for costs in service firms differs from merchandising and manufacturing firms in that they do not purchase or produce goods. For example, consider a medical practice. Although some services provided are tangible products, such as medications or medical devices, the primary benefits the physicians provide their patients are the intangible services that are comprised of his or her knowledge, experience, and expertise.</para>
+<para id="fs-idm223295488">Service providers have some costs (or revenue) derived from tangible goods that must be taken into account when pricing their services, but their largest cost categories are more likely to be administrative and personnel costs rather than product costs.</para>
+<media id="fs-idm228380192" class="scaled-down-30" alt="Service revenue minus operating expenses equals operating profit.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_Inc04_img.jpg"/>
+</media>
+<para id="fs-idm223505296">For example, Whichard &amp; Klein, LLP, is a full-service accounting firm with their primary offices in Baltimore, Maryland. With two senior partners and a small staff of accountants and payroll specialists, the majority of the costs they incur are related to personnel. The value of the accounting and payroll services they provide to their clients is intangible in comparison to goods sold by a merchandiser or produced by a manufacturer but has value and is the primary source of revenue for the firm. At the end of 2019, Whichard and Klein reported the following revenue and expenses:</para>
+<media id="fs-idm223838192" alt="Revenue from Service Provided $412,000, Accounting Personnel Salaries 210,000, Office Expense 35,000, Office Equipment $9,000, Utilities 11,000, Miscellaneous Expenses 7,500, Administrative salaries 45,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_RevExp_img.jpg"/>
+</media>
+<para id="fs-idm211814832">Their Income Statement for the period is shown in <link target-id="OSX_Acct_M02_01_Inc05"/>.</para>
+<figure id="OSX_Acct_M02_01_Inc05" class="scaled-down">
+<media id="fs-idm219929248" alt="Wichard &amp; Klein, LLP, Income Statement, For the Year Ending December 31, 2019. Service Revenue $412,000, Less Operating Expenses: Salaries 210,000, Administrative Salaries 45,000, Office Expense 35,000, Utilities 11,000, Office Equipment 9,000, Miscellaneous 7,500 equals Total Operating Expenses $317.500. Equals Operating Income $94,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_Inc05.jpg"/>
+</media>
+<caption>Whichard &amp; Klein’s Income Statement. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm213537376">The bulk of the expenses incurred by Whichard &amp; Klein are in personnel and administrative/office costs, which are very common among businesses that have services as their primary source of revenue.</para>
+<note id="fs-idm213220896" class="concepts-practice">
+<title>Revenue and Expenses for a Law Office</title>
+<para id="fs-idm221946992">The revenue and expenses for a law firm illustrate how the income statement for a service firm differs from that of a merchandising or manufacturing firm.</para>
+<para id="fs-idm221230432">Welch &amp; Graham is a well-established law firm that provides legal services in the areas of criminal law, real estate transactions, and personal injury. The firm employs several attorneys, paralegals, and office support staff. In 2017, they reported the following revenue and expenses:</para>
+<media id="fs-idm223824768" class="scaled-down" alt="Office rent $20,000, Office Utilities 12,500, Administrative salaries 150,000, Attorneys’ salaries 750,000, Paralegal salaries 100,000, Service Revenue 1,500,000, Office expenses 12,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_CP06_img.jpg"/>
+</media>
+<para id="fs-idm221966496">Their income statement is shown in <link target-id="OSX_Acct_M02_01_CP07"/>.</para>
+<figure id="OSX_Acct_M02_01_CP07" class="scaled-down">
+<media id="fs-idm214589600" alt="Welch &amp; Graham, Attorneys At Law, Income Statement, For the Year Ended December 31, 2017. Service Revenue $1,500,000, Less Operating Expenses: Attorney Salaries 750,000, Administrative Salaries 150,000, Paralegal Salaries 100,000, Office Rent 20,000, Office Utilities 12,500, Office Expenses 12,000, equals Total Operating Expenses $1,044.500. Equals Operating Income $455,500.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_CP07.png"/>
+</media>
+<caption>Welch &amp; Graham’s Income Statement. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm219829552">As you can see, the majority of the costs incurred by the law firm are personnel related. They may also incur costs from equipment and materials such computer networks, phone and switchboard equipment, rent, insurance, and law library materials necessary to support the practice, but these costs represent a much smaller percentage of total cost than the administrative and personnel costs.</para>
+</note>
+<note id="fs-idm216099152" class="think-through">
+<title>Expanding a Business</title>
+<para id="fs-idm231652320">Margo is the owner of a small retail business that sells gifts and home decorating accessories. Her business is well established, and she is now considering taking over additional retail space to expand her business to include gourmet foods and gift baskets. Based on customer feedback, she is confident that there is a demand for these items, but she is unsure how large that demand really is. Expanding her business this way will require that she incur not only new costs but also increases in existing costs.</para>
+<para id="fs-idm214583632">Margo has asked for your help in identifying the impact of her decision to expand in terms of her costs. When discussing these cost increases, be sure to specifically identify those costs that are directly tied to her products and that would be considered overhead expenses.</para>
+</note>
+</section>
+<section id="fs-idm226870928" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm226889248" list-type="bulleted" bullet-style="bullet">
+<item>Merchandising, manufacturing, and service organizations differ in what they provide to consumers; however, all three types of firms must control costs in order to remain profitable. The type of costs they incur is primarily determined by the product/good, or service they provide.</item>
+<item>As the type of organization differs, so does the way they account for costs. Some of these differences are reflected in the income statement.</item>
+</list>
+</section>
+<section id="fs-idm217509344" class="multiple-choice">
+<exercise id="fs-idm227199056">
+<problem id="fs-idm233681472">
+<para id="fs-idm226831232"><link class="lo-reference" document="m68109"/>Which of the following is the primary source of revenue for a service business?</para>
+<list id="fs-idm228397008" list-type="enumerated" number-style="upper-alpha">
+<item>the production of products from raw materials</item>
+<item>the purchase and resale of finished products</item>
+<item>providing intangible goods and services</item>
+<item>the sale of raw materials to manufacturing firms</item>
+</list>
+</problem>
+<solution id="fs-idm212942032">
+<para id="fs-idm218469728">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm231959328">
+<problem id="fs-idm220095472">
+<para id="fs-idm211913520"><link class="lo-reference" document="m68109"/>Which of the following is the primary source of revenue for a merchandising business?</para>
+<list id="fs-idm227240896" list-type="enumerated" number-style="upper-alpha">
+<item>the production of products from raw materials</item>
+<item>the purchase and resale of finished products</item>
+<item>the provision of intangible goods and services</item>
+<item>the sale of raw materials to manufacturing firms</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm228315696">
+<problem id="fs-idm215542560">
+<para id="fs-idm220438832"><link class="lo-reference" document="m68109"/>Which of the following is the primary source of revenue for a manufacturing business?</para>
+<list id="fs-idm214813744" list-type="enumerated" number-style="upper-alpha">
+<item>the production of products from raw materials</item>
+<item>the purchase and resale of finished products</item>
+<item>the provision of intangible goods and services</item>
+<item>both the provision of services and the sale of finished goods</item>
+</list>
+</problem>
+<solution id="fs-idm227265952">
+<para id="fs-idm228143232">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm224438608">
+<problem id="fs-idm212714352">
+<para id="fs-idm223976848"><link class="lo-reference" document="m68109"/>Which of the following represents the components of the income statement for a service business?</para>
+<list id="fs-idm223495424" list-type="enumerated" number-style="upper-alpha">
+<item>Sales Revenue – Cost of Goods Sold = gross profit</item>
+<item>Service Revenue – Operating Expenses = operating income</item>
+<item>Sales Revenue – Cost of Goods Manufactured = gross profit</item>
+<item>Service Revenue – Cost of Goods Purchased = gross profit</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm226901216">
+<problem id="fs-idm227995280">
+<para id="fs-idm213268480"><link class="lo-reference" document="m68109"/>Which of the following represents the components of the income statement for a manufacturing business?</para>
+<list id="fs-idm225964144" list-type="enumerated" number-style="upper-alpha">
+<item>Sales Revenue – Cost of Goods Sold = gross profit</item>
+<item>Service Revenue – Operating Expenses = gross profit</item>
+<item>Service Revenue – Cost of Goods Manufactured = gross profit</item>
+<item>Sales Revenue – Cost of Goods Manufactured = gross profit</item>
+</list>
+</problem>
+<solution id="fs-idm215527680">
+<para id="fs-idm220080208">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm215551504">
+<problem id="fs-idm215871408">
+<para id="fs-idm228247408"><link class="lo-reference" document="m68109"/>Which of the following represents the components of the income statement for a merchandising business?</para>
+<list id="fs-idm233819024" list-type="enumerated" number-style="upper-alpha">
+<item>Sales Revenue – Cost of Goods Sold = gross profit</item>
+<item>Service Revenue – Operating Expenses = gross profit</item>
+<item>Sales Revenue – Cost of Goods Manufactured = gross profit</item>
+<item>Service Revenue – Cost of Goods Purchased = gross profit</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm235701920" class="questions">
+<exercise id="fs-idm219710480">
+<problem id="fs-idm227318528">
+<para id="fs-idm212740544"><link class="lo-reference" document="m68109"/>Identify the three primary classifications of businesses and explain the differences among the three.</para>
+</problem>
+<solution id="fs-idm220542096">
+<para id="fs-idm235686560">Answers will vary but should include merchandising, service, and manufacturing businesses.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm220164336">
+<problem id="fs-idm228238816">
+<para id="fs-idm212827712"><link class="lo-reference" document="m68109"/>Explain how the income statement of a manufacturing company differs from the income statement of a merchandising company.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm224526320">
+<problem id="fs-idm215497424">
+<para id="fs-idm227259504"><link class="lo-reference" document="m68109"/>Walsh &amp; Coggins, a professional accounting firm, collects cost information about the services they provide to their clients. Describe the types of cost data they would collect and explain the importance of analyzing this cost data.</para>
+</problem>
+<solution id="fs-idm228106720">
+<para id="fs-idm220328160">Answers will vary but should include a discussion of operating costs such as salaries and wages, advertising, rent, and office expenses.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm220148192">
+<problem id="fs-idm224551088">
+<para id="fs-idm211363680"><link class="lo-reference" document="m68109"/>Lizzy’s is a retail clothing store, specializing in formal wear for weddings. They purchase their clothing for resale from specialty distributors and manufacturers. Recently the owners of Lizzy’s have noted an increased interest in costume jewelry and fashion accessories among their clientele. If the owners of Lizzy’s decide to expand their business to include these products, what cost data would they need to collect and analyze prior to expanding the business?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm217623280" class="exercise-set-a">
+<exercise id="fs-idm234438240">
+<problem id="fs-idm228245824">
+<para id="fs-idm213371888"><link class="lo-reference" document="m68109"/>Magio Company manufactures kitchen equipment used in hospitals. They distribute their products directly to the customer and, for the year ending 2019, they reported the following revenues and expenses. Use this information to construct an income statement for the year 2019.</para><media id="fs-idm217364112" class="scaled-down-30" alt="Sales Revenue $985,000, Cost of Goods Sold 489,000, Operating Expenses 245,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_EA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm235870928">
+<problem id="fs-idm211846816">
+<para id="fs-idm214726016"><link class="lo-reference" document="m68109"/>Park and West, LLC, provides consulting services to retail merchandisers in the Midwest. In 2019, they generated $720,000 in service revenue. Their total cost (fixed and variable) per client was $2,500 and they served 115 clients during the year. If operating expenses for the year were $302,000 what was their net income?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm228261376">
+<problem id="fs-idm214402096">
+<para id="fs-idm213465696"><link class="lo-reference" document="m68109"/>Canine Couture is a specialty dog clothing boutique that sells clothing and clothing accessories for dogs. In 2019, they had gross revenue from sales totaling $86,500. Their operating expenses for this same period were $27,500. If their Cost of Goods Sold (COGS) was 24% of gross revenue, what was their net operating income for the year?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm221204896" class="exercise-set-b">
+<exercise id="fs-idm219749680">
+<problem id="fs-idm228047984">
+<para id="fs-idm218101968"><link class="lo-reference" document="m68109"/>Winterfell Products manufactures electrical switches for the aerospace industry. For the year ending 2019, they reported these revenues and expenses. Use this information to construct an income statement for the year 2019.</para>
+<media id="fs-idm227536656" class="scaled-down-30" alt="Sales Revenue $865,000, Cost of Goods Sold 354,000, Operating Expenses 315,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_EB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm233181824">
+<problem id="fs-idm228239376">
+<para id="fs-idm223326512"><link class="lo-reference" document="m68109"/>CPK &amp; Associates is a mid-size legal firm, specializing in closings and real estate law in the south. In 2019, they generated $945,000 in sales revenue. Their expenses related to this year’s revenue are shown:</para>
+<media id="fs-idm213622464" class="scaled-down" alt="Operating Expenses (including salaries) $312,000, Cost of Services: Total Cost per client 1,750, Clients served in 2019 225.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_EB02_img.jpg"/>
+</media>
+<para id="fs-idm218098416">Based on the information provided for the year, what was their net operating income?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm219701792">
+<problem id="fs-idm219701536">
+<para id="fs-idm216449264"><link class="lo-reference" document="m68109"/>Flip or Flop is a retail shop selling a wide variety of sandals and beach footwear. In 2019, they had gross revenue from sales totaling $93,200. Their operating expenses for this same period were $34,000. If their Cost of Goods Sold (COGS) was 21% of gross revenue, what was their net operating income for the year?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm225813776" class="problem-set-a">
+<exercise id="fs-idm225813392">
+<problem id="fs-idm225813136">
+<para id="fs-idm227325344"><link class="lo-reference" document="m68109"/>Ballentine Manufacturing produces and sells lawnmowers through a national dealership network. They purchase raw materials from a variety of suppliers, and all manufacturing and assembly work is performed at their plant outside of Kansas City, Missouri. They recorded these costs for the year ending December 31, 2017. Construct an income statement for Ballentine Manufacturing to reflect their net income for 2017.</para>
+<media id="fs-idm216437824" class="scaled-down" alt="Administrative and selling expenses $425,000, Cost of Goods Sold 1,400,000, Rent on corporate headquarters 75,000, Marketing and advertising 400,000, Sales revenue 2,700,000, Straight-line depreciation on office equipment 100,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_PA01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm211182992">
+<problem id="fs-idm211182736">
+<para id="fs-idm211182480"><link class="lo-reference" document="m68109"/>Tom West is a land surveyor who operates a small surveying company, performing surveys for both residential and commercial clients. He has a staff of surveyors and engineers who are employed by the firm. For the year ending December 31, 2017, he reported these income and expenses. Using this information, construct an income statement to reflect his net income for 2017.</para>
+<media id="fs-idm220696256" class="scaled-down-30" alt="Service income $850,000, Surveyor salaries 124,000, Supplies and materials 32,000, Utilities 14,000, Office rent 24,000, Administrative expenses 115,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_PA02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm214417904">
+<problem id="fs-idm214417648">
+<para id="fs-idm215847216"><link class="lo-reference" document="m68109"/>Just Beachy is a retail business located on the coast of Florida where it sells a variety of beach apparel, T-shirts, and beach-related souvenir items. They purchase all of their inventory from wholesalers and distributors. For the year ending December 31, 2017, they reported these revenues and expenses. Using this information, prepare an income statement for Just Beachy for 2017.</para>
+<media id="fs-idm200723328" class="scaled-down-30" alt="Sales revenue $685,000, Building rent 48,000, Advertising 50,000, Sales staff salaries 85,000, Cost of Goods Sold 315,000, Utilities 23,000, Supplies 9,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_PA03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm226807136" class="problem-set-b">
+<exercise id="fs-idm213319408">
+<problem id="fs-idm213319152">
+<para id="fs-idm231988336"><link class="lo-reference" document="m68109"/>Hicks Products produces and sells patio furniture through a national dealership network. They purchase raw materials from a variety of suppliers and all manufacturing, and assembly work is performed at their plant outside of Cleveland, Ohio. They recorded these costs for the year ending December 31, 2017. Construct an income statement for Hicks Products, to reflect their net income for 2017.</para>
+<media id="fs-idm214404304" class="scaled-down" alt="Sales revenue $3,100,000, Straight-line depreciation on office equipment 90,000, Advertising and marketing expense 625,000, Administrative salaries 136,000, Cost of goods sold 1,700,000, Rent on corporate headquarters 65,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_PB01_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm220215136">
+<problem id="fs-idm215304960">
+<para id="fs-idm215304704"><link class="lo-reference" document="m68109"/>Conner &amp; Scheer, Attorneys at Law, provide a wide range of legal services for their clients. They employ several paralegal and administrative support staff in order to provide high-quality legal services at competitive prices. For the year ending December 31, 2017, the firm reported these income and expenses. Using this information, construct an income statement to reflect the firm’s net income for 2017.</para>
+<media id="fs-idm216442592" class="scaled-down-30" alt="Service revenue $2,250,000, Paralegal salaries 215,000, Supplies and materials 42,000, Utilities 26,000, Office rent 58,000, Administrative expenses 195,000, Attorney salaries 925,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_PB02_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm213839456">
+<problem id="fs-idm218465712">
+<para id="fs-idm218465456"><link class="lo-reference" document="m68109"/>Puzzles, Pranks &amp; Games is a retail business selling children’s toys and games as well as a wide selection of jigsaw puzzles and accessories. They purchase their inventory from local and national wholesale suppliers. For the year ending December 31, 2017, they reported these revenues and expenses. Using this information, prepare an income statement for Puzzles, Pranks &amp; Games for 2017.</para>
+<media id="fs-idm217061392" class="scaled-down-30" alt="Sales revenue $415,000, Rent 24,000, Advertising 13,000, Sales staff salaries 45,000, Merchandise inventory 210,000, Utilities 11,000, Supplies 4,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_01_PB03_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm220692704" class="thought-provokers">
+<exercise id="fs-idm214815824">
+<problem id="fs-idm214815568">
+<para id="fs-idm214815312"><link class="lo-reference" document="m68109"/>In a team of two or three students, interview the manager/owner of a local business. In this interview, ask the manager/owner the following questions:</para>
+<list id="fs-idm220686160" list-type="enumerated" number-style="upper-alpha">
+<item>Does the business collect and use cost information to make decisions?</item>
+<item>Does it have a specialist in cost estimation who works with this cost data? If not, who is responsible for the collection of cost information? Be as specific as possible.</item>
+<item>What type of cost information does the business collect and how is each type of information used?</item>
+<item>How important does the owner/manager believe cost information is to the success of the business?</item>
+</list>
+<para id="fs-idm234441104">Then, write a report to the instructor summarizing the results of the interview.</para>
+<para id="fs-idm213298864">Content of the memo must include</para>
+<list id="fs-idm213298480" list-type="bulleted" bullet-style="bullet">
+<item>date of the interview,</item>
+<item>the name and title of the person interviewed,</item>
+<item>name and location of the business,</item>
+<item>type of business (service, merchandising, manufacturing) and brief description of the goods/services provided by the business, and</item>
+<item>responses to questions A–D.</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm214590800">
+<term>direct materials</term>
+<meaning id="fs-idm220417232">materials used in the manufacturing process that can be traced directly to the product</meaning>
+</definition>
+<definition id="fs-idm217827440">
+<term>direct labor</term>
+<meaning id="fs-idm217826800">labor directly related to the manufacturing of the product or the production of a service</meaning>
+</definition>
+<definition id="fs-idm220700816">
+<term>intangible good</term>
+<meaning id="fs-idm211141712">good with financial value but no physical presence; examples include copyrights, patents, goodwill, and trademarks</meaning>
+</definition>
+<definition id="fs-idm211141200">
+<term>manufacturing organization</term>
+<meaning id="fs-idm221406368">business that uses parts, components, or raw materials to produce finished goods</meaning>
+</definition>
+<definition id="fs-idm218440608">
+<term>manufacturing overhead</term>
+<meaning id="fs-idm218439968">costs incurred in the production process that are not economically feasible to measure as direct material or direct labor costs; examples include indirect material, indirect labor, utilities, and depreciation</meaning>
+</definition>
+<definition id="fs-idm221851360">
+<term>merchandising firm</term>
+<meaning id="fs-idm218245728">business that purchases finished products and resells them to consumers</meaning>
+</definition>
+<definition id="fs-idm218245216">
+<term>service organization</term>
+<meaning id="fs-idm216447648">business that earns revenue primarily by providing an intangible product</meaning>
+</definition>
+<definition id="fs-idm221795152">
+<term>tangible good</term>
+<meaning id="fs-idm221794512">physical good that customers can handle and see</meaning>
+</definition>
+</glossary>
+</document>

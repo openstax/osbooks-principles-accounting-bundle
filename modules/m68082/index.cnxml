@@ -1,0 +1,242 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Evaluate and Determine Whether to Accept or Reject a Special Order</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68082</md:content-id>
+  <md:title>Evaluate and Determine Whether to Accept or Reject a Special Order</md:title>
+  <md:abstract/>
+  <md:uuid>7206ee7f-3ca5-49b9-8e2a-1d515c16927c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm195632384">Both manufacturing and service companies often receive requests to fill special orders. These <term>special orders</term> are typically for goods or services at a reduced price and are usually a one-time order that, in the short-run, does not affect normal sales. When deciding whether to accept a special order, management must consider several factors:</para>
+<list id="fs-idm183071968" list-type="bulleted">
+<item>The capacity required to fulfill the special order</item>
+<item>Whether the price offered by the buyer will cover the cost of producing the products</item>
+<item>The role of fixed costs in the analysis</item>
+<item>Qualitative factors</item>
+<item>Whether the order will violate the Robinson-Patman Act and other fair pricing legislation</item>
+</list>
+<section id="fs-idm177194016">
+<title>Fundamentals of the Decision to Accept or Reject a Special Order</title>
+<para id="fs-idm188571216">The starting point for making this decision is to assess the company’s normal production capacity. The <term>normal capacity</term> is the production level a company can achieve without adding additional production resources, such as additional equipment or labor. For example, if the company can produce 10,000 towels a month based on its current production capacity, and it is currently contracted to produce 9,000 a month, it could not take on a special one-time order for 3,000 towels without adding additional equipment or workers. Most companies do not work at maximum capacity; rather, they function at normal capacity, which is a concept related to a company’s relevant range. The <term>relevant range</term> is the quantitative range of units that can be produced based on the company’s current productive assets. These assets can include equipment capacity or its labor capacity. Labor capacity is typically easier to increase on a short-term basis than equipment capacity. The following example assumes that labor capacity is available, so only equipment capacity is considered in the example.</para>
+<para id="fs-idm177299856">Assume that based on a company’s present equipment, it can produce 20,000 units a month. Its relevant range of production would be zero to 20,000 units a month. As long as the units of production fall within this range, it does not need additional equipment. However, if it wanted to increase production from 20,000 units to 24,000 units, it would need to buy or lease additional equipment. If production is fewer than 20,000 units, the company would have unused capacity that could be used to produce additional units for its current customers or for new clients.</para>
+<para id="fs-idm192042656">If the company does not have the capacity to produce a special order, it will have to reduce production of another good or service in order to fulfill the special order or provide another means of producing the goods, such as hiring temporary workers, running an additional shift, or securing additional equipment. As you will learn, not having the capacity to fill the special order will create a different analysis than it would if there is sufficient capacity.</para>
+<para id="fs-idm209799904">Next, management must determine if the price offered by the buyer will result in enough revenue to cover the differential costs of producing the items. For example, if price does not meet the variable costs of production, then accepting the special order would be an unprofitable decision.</para>
+<para id="fs-idm203395312">Additionally, fixed costs may be relevant if the company is already operating at capacity, as there may be additional fixed costs, such as the need to run an extra shift, hire an additional supervisor, or buy or lease additional equipment. If the company is not operating at capacity—in other words, the company has <emphasis effect="italics">unused</emphasis> capacity—then the fixed costs are irrelevant to the decision if the special order can be met with this unused capacity.</para>
+<para id="fs-idm177461296">Special orders create several qualitative issues. A logical issue is the concern for how existing customers will feel if they discover a lower price was offered to the special-order customer. A special order that might be profitable could be rejected if the company determined that accepting the special order could damage relations with current customers. If the goods in the special order are modified so that they are cheaper to manufacture, current customers may prefer the modified, cheaper version of the product. Would this hurt the profitability of the company? Would it affect the reputation?</para>
+<para id="fs-idm187836304">In addition to these considerations, sometimes companies will take on a special order that will not cover costs based on qualitative assessments. For example, the business requesting the special order might be a potential client with whom the manufacturer has been trying to establish a business relationship and the producer is willing to take a one-time loss. However, our coverage of special orders concentrates on decisions based on quantitative factors.</para>
+<para id="fs-idm195504304">Companies considering special orders must also be aware of the anti–price discrimination rules established in the <term class="no-emphasis">Robinson-Patman Act</term>. The Robinson-Patman Act is a federal law that was passed in 1936. Its primary intent is to prevent some forms of price discrimination in sales transactions between smaller and larger businesses.</para>
+<note id="fs-idm198121184" class="link-to-learning">
+<para id="fs-idm196420768">The Robinson-Patman Act prevents large retailers from purchasing goods in bulk at a greater discount than smaller retailers are able to obtain them. It helps keep competition fair between large and small businesses and is sometimes called the “Anti-Chain Store Act.” Read the LegalDictionary.net <link url="https://openstax.org/l/50RobPatAct">full definition and example of the Robinson-Patman Act</link> to learn more.</para>
+</note>
+</section>
+<section id="fs-idm205282944">
+<title>Sample Data</title>
+<para id="fs-idm200653488">Franco, Inc., produces dental office examination chairs. Franco has the capacity to produce 5,000 chairs per year and currently is producing 4,000. Each chair retails for $2,800, and the costs to produce a single chair consist of direct materials of $750, direct labor of $600, and variable overhead of $300. Fixed overhead costs of $1,350,000 are met by selling the first 3,000 chairs. Franco has received a special order from Ghanem, Inc., to buy 800 chairs for $1,800. Should Franco accept the special order?</para>
+</section>
+<section id="fs-idm203253792">
+<title>Calculations Using Sample Data</title>
+<para id="fs-idm199310688">Franco is not operating at capacity and the special order does not take them over capacity. Additionally, all the fixed costs have already been met. Therefore, when evaluating the special order, Franco must determine if the special offer price will meet and exceed the costs to produce the chairs. <link target-id="OSX_Acct_M10_02_SpecOrd01"/> details the analysis.</para>
+<figure id="OSX_Acct_M10_02_SpecOrd01">
+<media id="fs-idm198936096" alt="Current Cost to Produce: Direct materials $750, Direct labor $600, Variable overhead $300 equals Variable costs to produce of $1,650. Compare to the special order price offer of $1,800 and the Difference in favor of accepting special order is $150 per chair.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_02_SpecOrd01.jpg"/>
+</media>
+<caption>Special Order: Supplier Has Excess Capacity. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<para id="fs-idm196439376">Since Franco has already met his fixed costs with current production and since he has the capacity to produce the additional 800 units, Franco only needs to consider his variable costs for this order. Franco’s variable cost to produce one chair is $1,650. Ghanem is offering to buy the chairs for $1,800 apiece. By accepting the special order, Franco would meet his variable costs and make $150 per chair. Considering only quantitative factors, Franco should accept the special offer.</para>
+<para id="fs-idm198694112">How would Franco’s decision change if the factory was already producing at capacity at the time of the special offer? In other words, assume the corporation is already producing the most it can produce without working more hours or adding more equipment. Accepting the order would likely mean that Franco would incur additional fixed costs. Assume that, to fill the order from Ghanem, Franco would have to run an extra shift, and this would require him to hire a temporary production manager at a cost of $90,000. Assume no other fixed costs would be incurred. Also assume Franco will incur additional costs related to maintenance and utilities for this extra shift and estimates those costs will be $70,000. As shown in <link target-id="OSX_Acct_M10_02_SpecOrd02"/>, in this scenario, Franco would have to charge Ghanem at least $1,850 in order to meet his cost.</para>
+<figure id="OSX_Acct_M10_02_SpecOrd02">
+<media id="fs-idm199983664" alt="Current Production: Selling Price $2,800 minus Variable cost to produce $1,650 equals Contribution margin $1,150. Special Order Current Offer: Selling Price $1,800 minus Variable cost to produce $1,650 minus Additiona Costs to Recover* $200 equals Contribution margin $(50). *90,000 supervisor salary plus $70,000 additional costs equals $160,000 in costs to recover. Divide by 800 charis in special order equals $200 per chair additional costs due to capacity issue.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_02_SpecOrd02.jpg"/>
+</media>
+<caption>Special Order: Supplier Does Not Have Excess Capacity. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm219845600">
+<title>Final Analysis of the Decision</title>
+<para id="fs-idm201040512">The analysis of Franco’s options did not consider any qualitative factors, such as the impact on morale if the company is already at capacity and opts to implement overtime or hire temporary workers to fill the special order. The analysis also does not consider the effect on regular customers if management elects to meet the special order by not fulfilling some of the regular orders. Another consideration is the impact on existing customers if the price offered for the special order is lower than the regular price. These effects may create a bad dynamic between the company and its customers, or they may cause customers to seek products from competitors. As in the example, Franco would need to consider the impact of displacing other customers and the risk of losing business from regular customers, such as dental supply companies, if he is unable to meet their orders. The next step is to do an overall cost/benefit analysis in which Franco would consider not only the quantitative but the qualitative factors before making his final decision on whether or not to accept the special order.</para>
+<note id="fs-idm220309872" class="think-through">
+<title>Athletic Jersey Special Orders</title>
+<para id="fs-idm199903488">Jake’s Jerseys has been asked to produce athletic jerseys for a local school district. The special order is for 1,000 jerseys of varying sizes, and the price offered by the school district is $10 less per jersey than the normal $50 market price. The school district interested in the jerseys is one of the largest in the area. What quantitative and qualitative factors should Jake consider in making the decision to accept or reject the special order?</para>
+</note>
+</section>
+<section id="fs-idm183099872" class="section-summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-idm177565888" list-type="bulleted" bullet-style="bullet">
+<item>Deciding to accept or reject a special order is a choice between alternatives.</item>
+<item>Accepting or rejecting a special order involves comparing the purchase price associated with the special order to the cost to produce the items.</item>
+<item>This decision is highly influenced by whether the firm being offered the special order is operating below or at capacity.</item>
+<item>Qualitative factors would include consequences such as potential loss of current customers or displacement of jobs.</item>
+</list>
+</section>
+<section id="fs-idm196752368" class="multiple-choice">
+<exercise id="fs-idm208516080">
+<problem id="fs-idm199327264">
+<para id="fs-idm213635360"><link class="lo-reference" document="m68082"/>Which of the following is sometimes referred to as the “Anti Chain Store Act”?</para>
+<list id="fs-idm198184672" list-type="enumerated" number-style="upper-alpha">
+<item>Sarbanes-Oxley Act</item>
+<item>Robinson-Patman Act</item>
+<item>Wright-Patman Act</item>
+<item>Securities Act of 1939</item>
+</list>
+</problem>
+<solution id="fs-idm224197872">
+<para id="fs-idm200643344">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm198680160">
+<problem id="fs-idm199993824">
+<para id="fs-idm197946656"><link class="lo-reference" document="m68082"/>Jansen Crafters has the capacity to produce 50,000 oak shelves per year and is currently selling 44,000 shelves for $32 each. Cutrate Furniture approached Jansen about buying 1,200 shelves for bookcases it is building and is willing to pay $26 for each shelf. No packaging will be required for the bulk order. Jansen usually packages shelves for Home Depot at a price of $1.50 per shelf. The $1.50 per-shelf cost is included in the unit variable cost of $27, with annual fixed costs of $320,000. However, the $1.50 packaging cost will not apply in this case. The fixed costs will be unaffected by the special order and the company has the capacity to accept the order. Based on this information, what would be the profit if Jansen accepts the special order?</para>
+<list id="fs-idm196400832" list-type="enumerated" number-style="upper-alpha">
+<item>Profits will decrease by $1,200.</item>
+<item>Profits will increase by $31,200.</item>
+<item>Profits will increase by $600.</item>
+<item>Profits will increase by $7,200.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm199963408" class="questions">
+<exercise id="fs-idm216238528">
+<problem id="fs-idm184020320">
+<para id="fs-idm206707120"><link class="lo-reference" document="m68082"/>What factors must any company consider before accepting a special-order contract?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm187799776">
+<problem id="fs-idm187799520">
+<para id="fs-idm179023232"><link class="lo-reference" document="m68082"/>What are some of the qualitative issues that a special order can create?</para>
+</problem>
+<solution id="fs-idm209788560">
+<para id="fs-idm196402224">One issue is the concern for how existing customers will feel if they discover that the company offered a lower price to the special-order customer for the same goods or services. If the goods in the special order are modified, and thus cheaper for that reason, current customers may prefer the modified, cheaper version of the product. The company would need to determine if selling the new version of the project would hurt profitability or the company’s reputation.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm209759968" class="exercise-set-a">
+<exercise id="fs-idm203562976">
+<problem id="fs-idm200883424">
+<para id="fs-idm194694704"><link class="lo-reference" document="m68082"/>Zena Technology sells arc computer printers for $55 per unit. Unit product costs are:</para>
+<media id="fs-idm210339536" class="scaled-down-30" alt="Direct materials $14, Direct labor $20, Manufacturing overhead $3 equals Total $37.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_02_EA01_img.jpg"/>
+</media>
+<para id="fs-idm218935920">A special order to purchase 15,000 arc printers has recently been received from another company and Zena has idle capacity to fill the order. Zena will incur an additional $2 per printer for additional labor costs due to a slight modification the buyer wants made to the original product. One-third of the manufacturing overhead costs is fixed and will be incurred no matter how many units are produced. When negotiating the price, what is the minimum selling price that Zena should accept for this special order?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm222469216">
+<problem id="fs-idm196509872">
+<para id="fs-idm205234640"><link class="lo-reference" document="m68082"/>Shelby Industries has a capacity to produce 45,000 oak shelves per year and is currently selling 40,000 shelves for $32 each. Martin Hardwoods has approached Shelby about buying 1,200 shelves for a new project and is willing to pay $26 each. The shelves can be packaged in bulk; this saves Shelby $1.50 per shelf compared to the normal packaging cost. Shelves have a unit variable cost of $27 with fixed costs of $350,000. Because the shelves don’t require packaging, the unit variable costs for the special order will drop from $27 per shelf to $25.50 per shelf. Shelby has enough idle capacity to accept the contract. What is the minimum price per shelf that Shelby should accept for this special order?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm219922704" class="exercise-set-b">
+<exercise id="fs-idm214735760">
+<problem id="fs-idm177272192">
+<para id="fs-idm196477984"><link class="lo-reference" document="m68082"/>Dimitri Designs has capacity to produce 30,000 desk chairs per year and is currently selling all 30,000 for $240 each. Country Enterprises has approached Dimitri to buy 800 chairs for $210 each. Dimitri’s normal variable cost is $165 per chair, including $50 per unit in direct labor per chair. Dimitri can produce the special order on an overtime shift, which means that direct labor would be paid overtime at 150% of the normal pay rate. The annual fixed costs will be unaffected by the special order and the contract will not disrupt any of Dimitri’s other operations. What will be the impact on profits of accepting the order?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm205741552">
+<problem id="fs-idm203915040">
+<para id="fs-idm210312720"><link class="lo-reference" document="m68082"/>Aspen Enterprises makes award pins for various events. Budget information regarding the current period is:</para>
+<media id="fs-idm206841520" alt="Revenue (200,000 pins at $3.00) $600,000, Direct materials $120,000, Direct labor $220,000, variable manufacturing overhead $50,000, Fixed manufacturing overhead $70,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_02_EB02_img.jpg"/>
+</media>
+<para id="fs-idm216199984">A fraternity with which Aspen has a long relationship approached Aspen with a special order for 6,000 pins at a price of $2.75 per pin. Variable costs will be the same as the current production, and the special order will not impact the rest of the company’s orders. However, Aspen is operating at capacity and will incur an additional $5,000 in fixed manufacturing overhead if the order is accepted. Based on this information, what is the differential income (loss) associated with accepting the special order?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm197378000" class="problem-set-a">
+<exercise id="fs-idm226407904">
+<problem id="fs-idm195356912">
+<para id="fs-idm215117616"><link class="lo-reference" document="m68082"/>Marcotti Cupcakes bakes and sells a basic cupcake for $1.25. The cost of producing 600,000 cupcakes in the prior year was:</para>
+<media id="fs-idm214869424" alt="Revenues $750,000, Direct materials $330,000, Direct labor $66,000, Manufacturing overhead (fixed) $132,000, Manufacturing overhead (variable) $84,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_02_PA03_img.jpg"/>
+</media>
+<para id="fs-idm196427456">At the start of the current year, Marcotti received a special order for 15,000 cupcakes to be sold for $1.10 per cupcake. To complete the order, the company must incur an additional $700 in total fixed costs to lease a special machine that will stamp the cupcakes with the customer’s logo. This order will not affect any of Marcotti’s other operations and it has excess capacity to fulfill the contract. Should the company accept the special order? (Show your work.)</para>
+</problem>
+</exercise>
+<exercise id="fs-idm201856800">
+<problem id="fs-idm221393440">
+<para id="fs-idm196195360"><link class="lo-reference" document="m68082"/>Ken Owens Construction specializes in small additions and repairs. His normal charge is $400/day plus materials. Due to his physical condition, David, an elderly gentleman, needs a downstairs room converted to a bathroom. Ken has produced a bid for $5000 to complete the bathroom. He did not provide David with the details of the bid. However, they are shown here.</para>
+<media id="fs-idm210130816" class="scaled-down-30" alt="Ken’s Bid Detail Dollars: Direct materials $2,200; Direct labor $1,600; Variable overhead $200; Fixed overhead $600; Profit $400 equals $5,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_02_PA02_img.jpg"/>
+</media>
+<list id="fs-idm222236032" list-type="enumerated" number-style="upper-alpha">
+<item>The town’s social services has asked Ken if he could reduce his bid to $4000. Should Ken accept the counter offer?<newline/>
+<media id="fs-idm218808608" alt="Current Bid: Direct materials $2,200; Direct labor $1,600; Variable overhead $200; Fixed overhead $600; Profit $400 equals $5,000. New Bid: Direct materials $2,200; Direct labor $1,600; Variable overhead $200; Fixed overhead $?; Profit $? equals $4,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_02_PA02b_img.jpg"/>
+</media></item>
+<item>How much would his income be reduced?</item>
+<item>If the town’s social services guaranteed him another job next month at his normal price, could he accept this job at $4000?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm216035520" class="problem-set-b">
+<exercise id="fs-idm176858320">
+<problem id="fs-idm224109424">
+<para id="fs-idm199239744"><link class="lo-reference" document="m68082"/>Cinnamon Depot bakes and sells cinnamon rolls for $1.75 each. The cost of producing 500,000 rolls in the prior year was:</para>
+<media id="fs-idm201908960" alt="Revenues $875,000, Direct materials $425,000, Direct labor $75,000, Manufacturing overhead (fixed) $125,000, Manufacturing overhead (variable) $90,000.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_02_PB03_img.jpg"/>
+</media>
+<para id="fs-idm199184496">At the start of the current year, Cinnamon Depot received a special order for 18,000 rolls to be sold for $1.50 per roll. The company estimates it will incur an additional $1,000 in total fixed costs in order to lease a special machine that forms the rolls in the shape of a heart per the customer’s request. This order will not affect any of its other operations. Should the company accept the special order? (Show your work.)</para>
+</problem>
+</exercise>
+<exercise id="fs-idm215177120">
+<problem id="fs-idm221119568">
+<para id="fs-idm217254448"><link class="lo-reference" document="m68082"/>Myrna White is a mobile housekeeper. The price for a standard house cleaning is $150 and takes 5 hours. Each worker is paid $25/hour, uses $15 of materials and $0.50 per mile to use their own vehicle to travel from job to job. The average job is 5 miles. Arniz Meyroyan has a family reunion at her house and needs her house freshened up. She offers $75 for this emergency tidy-up service. This service includes vacuuming and cleaning floors, dusting, and cleaning the bathrooms. Only $5 of materials would be used.</para>
+<list id="fs-idm212059232" list-type="enumerated" number-style="upper-alpha">
+<item>Prepare an Excel spread sheet to determine the differential income if the emergency tidy-up service is priced at $75. The tidy-up service will take 2 hours.</item>
+<item>If a $25 surcharge was included to make the price of $100 how would the differential income change?</item>
+<item>If the hourly worker rate increased to $30/hour, how would net income change?</item>
+<item>What other issue would you need to consider?</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm221118512">
+<problem id="fs-idm182851200">
+<para id="fs-idm226377472"><link class="lo-reference" document="m68082"/>Blake Cohen Painting Service specializes in small paint jobs. His normal charge is $350/day plus materials. Moesha needs her basement painted. Blake has produced a bid for $1500 to complete the basement painting. Blake completed a cost estimate for his service as shown.</para>
+<media id="fs-idm206762672" class="scaled-down-30" alt="Direct materials $200, Direct labor $700, Variable overhead $50, Fixed overhead $60, Profit $100 equals $1,110.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_02_PB0X_img.jpg"/>
+</media>
+<list id="fs-idm214672512" list-type="enumerated" number-style="upper-alpha">
+<item>Moesha mentions that she can’t pay the $1500. She is a widow and you feel an obligation to take care of widows but can’t lose money. How much would you charge and still be able to make a profit?</item>
+<item>Moesha has asked you to paint the rest of her house. Could you continue to give her the same deal?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm177998544" class="thought-provokers">
+<exercise id="fs-idm208587424">
+<problem id="fs-idm222090064">
+<para id="fs-idm215047712"><link class="lo-reference" document="m68082"/>Seda Sarkisian makes wedding cakes from her home. A customer has requested two duplicate wedding cakes: one for the wedding and one to be frozen for their anniversary. The couple has offered $400 for both cakes instead of $500 ($250 each). The cost information to make one cake is shown.</para>
+<media id="fs-idm215193136" class="scaled-down-30" alt="For one cake: Direct materials $50, Direct labor $100, Variable overhead $25, Fixed overhead $10.">
+<image mime-type="image/jpeg" src="../../media/OSX_Acct_M10_02_TP01_img.jpg"/>
+</media>
+<list id="fs-idm177356144" list-type="enumerated" number-style="upper-alpha">
+<item>What is the cost for the first cake?</item>
+<item>What cost would not be included in the second cake?</item>
+<item>What is the cost of the second cake?</item>
+<item>What would be the total cost of this order if the offer was accepted?</item>
+<item>How much profit will Seda be recording for this special order?</item>
+<item>If your company policy is to always have a 15% profit on all order, would you still accept this order?</item>
+<item>If you would not accept the order, what price would you negotiate?</item>
+</list>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm221544288">
+<term>normal capacity</term>
+<meaning id="fs-idm224085760">company’s maximum production level, without adding additional production resources, or within the company’s relevant range</meaning>
+</definition>
+<definition id="fs-idm207751760">
+<term>relevant range</term>
+<meaning id="fs-idm217739616">quantitative range of units that can be produced based on the company’s current productive assets; for example, if a company has sufficient fixed assets to produce up to 10,000 units of product, the relevant range would be between 0 and 10,000 units</meaning>
+</definition>
+<definition id="fs-idm199490224">
+<term>special order</term>
+<meaning id="fs-idm201140224">one-time order that does not typically affect current sales</meaning>
+</definition>
+</glossary>
+</document>
