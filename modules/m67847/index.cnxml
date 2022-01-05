@@ -12,7 +12,7 @@
 <para id="fs-idm355653984">When we introduced debits and credits, you learned about the usefulness of T-accounts as a graphic representation of any account in the general ledger. But before transactions are posted to the T-accounts, they are first recorded using special forms known as <emphasis effect="italics">journals</emphasis>.</para>
 <section id="fs-idm365580912">
 <title>Journals</title>
-<para id="fs-idm394796624">Accountants use special forms called <emphasis effect="italics">journals</emphasis> to keep track of their business transactions. A journal is the first place information is entered into the accounting system. A journal is often referred to as the <term>book of original entry</term> because it is the place the information originally enters into the system. A journal keeps a historical account of all recordable transactions with which the company has engaged. In other words, a journal is similar to a diary for a business. When you enter information into a journal, we say you are <term>journalizing</term> the entry. Journaling the entry is the second step in the accounting cycle. Here is a picture of a journal.</para>
+<para id="fs-idm394796624">Accountants use special forms called <emphasis effect="italics">journals</emphasis> to keep track of their business transactions. A journal is the first place information is entered into the accounting system. A journal is often referred to as the <term id="term-00001">book of original entry</term> because it is the place the information originally enters into the system. A journal keeps a historical account of all recordable transactions with which the company has engaged. In other words, a journal is similar to a diary for a business. When you enter information into a journal, we say you are <term id="term-00002">journalizing</term> the entry. Journaling the entry is the second step in the accounting cycle. Here is a picture of a journal.</para>
 <media id="fs-idm357330976" alt="A journal entry shows four columns labeled left to right: Date, Account, Debit, Credit. Under the column headings is a blank line with no entry.">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_jrlpaper_img.jpg"/>
 </media>
@@ -35,7 +35,7 @@
 <media id="fs-idm372750352" alt="A journal entry dated April 1, 2018. Debit Cash, 5,000. Credit Common Stock, 5,000. Explanation: “Received cash in exchange for common stock.”">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornEx01_img.jpg"/>
 </media>
-<para id="fs-idm355678128">Note that this example has only one debit account and one credit account, which is considered a <term>simple entry</term>. A <term>compound entry</term> is when there is more than one account listed under the debit and/or credit column of a journal entry (as seen in the following).</para>
+<para id="fs-idm355678128">Note that this example has only one debit account and one credit account, which is considered a <term id="term-00003">simple entry</term>. A <term id="term-00004">compound entry</term> is when there is more than one account listed under the debit and/or credit column of a journal entry (as seen in the following).</para>
 <media id="fs-idm646345104" alt="A journal entry dated April 1, 2018. Debit Cash, 3,000, and Supplies, 2,000. Credit Common Stock, 5,000. Explanation: “Received cash and supplies in exchange for common stock.”">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_F03_05_JornEx02_img.jpg"/>
 </media>

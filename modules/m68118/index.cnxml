@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<para id="fs-idm223250032">Finding the break-even point or the sales necessary to meet a desired profit is very useful to a business, but cost-volume-profit analysis also can be used to conduct a <term>sensitivity analysis</term>, which shows what will happen if the sales price, units sold, variable cost per unit, or fixed costs change. Companies use this type of analysis to consider possible scenarios that assist them in planning.</para>
+<para id="fs-idm223250032">Finding the break-even point or the sales necessary to meet a desired profit is very useful to a business, but cost-volume-profit analysis also can be used to conduct a <term id="term-00001">sensitivity analysis</term>, which shows what will happen if the sales price, units sold, variable cost per unit, or fixed costs change. Companies use this type of analysis to consider possible scenarios that assist them in planning.</para>
 <note id="fs-idm233929152" class="link-to-learning">
 <para id="fs-idm236366560">Watch this <link url="https://openstax.org/l/50BrkEvenChange">video that shows what happens if one or more of the variables in a break-even analysis is changed</link> to learn more.</para>
 </note>
@@ -27,7 +27,7 @@
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_M03_03_BkDr01_img.jpg"/>
 </media>
 <para id="fs-idm242465760">The only variable that has changed is the $0.50 increase in the price of their espresso drinks, but the net operating income will increase by $750. Another way to think of this increase in income is that, if the sales price increases by $0.50 per expresso drink and the estimated sales are 1,500 units, then this will result in an increase in overall contribution margin of $750. Moreover, since all of the fixed costs were met by the lower sales price, all of this $750 goes to profit. Again, this is assuming the higher sales price does not decrease the number of units sold. Since the other coffee shops will still be priced higher than Back Door, the owner believes that there will not be a decrease in sales volume.</para>
-<para id="fs-idm453004480">When making this adjustment to their sales price, Back Door Café is engaging in <term>target pricing</term>, a process in which a company uses market analysis and production information to determine the maximum price customers are willing to pay for a good or service in addition to the markup percentage. If the good can be produced at a cost that allows both the desired profit percentage as well as deliver the good at a price acceptable to the customer, then the company should proceed with the product; otherwise, the company will not achieve its desired profit goals.</para>
+<para id="fs-idm453004480">When making this adjustment to their sales price, Back Door Café is engaging in <term id="term-00002">target pricing</term>, a process in which a company uses market analysis and production information to determine the maximum price customers are willing to pay for a good or service in addition to the markup percentage. If the good can be produced at a cost that allows both the desired profit percentage as well as deliver the good at a price acceptable to the customer, then the company should proceed with the product; otherwise, the company will not achieve its desired profit goals.</para>
 </section>
 <section id="fs-idm193575840">
 <title>Change in Variable Cost</title>

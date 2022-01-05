@@ -12,10 +12,10 @@
 <para id="fs-idm199422512">In addition to evaluating materials usage, companies must assess how efficiently and effectively they are using labor in the production of their products. Direct labor is a cost associated with workers working directly in the production process. The company must look at both the quantity of hours used and the rate of the labor and compare outcomes to standard costs. Determining efficiency and effectiveness of labor leads to individual labor variances. A company can compute these labor variances and make informed decisions about labor operations based on these differences.</para>
 <section id="fs-idm432119568">
 <title>Fundamentals of Direct Labor Variances</title>
-<para id="fs-idm452049120">The <term>direct labor variance</term> measures how efficiently the company uses labor as well as how effective it is at pricing labor. There are two components to a labor variance, the direct labor rate variance and the direct labor time variance.</para>
+<para id="fs-idm452049120">The <term id="term-00001">direct labor variance</term> measures how efficiently the company uses labor as well as how effective it is at pricing labor. There are two components to a labor variance, the direct labor rate variance and the direct labor time variance.</para>
 <section id="fs-idm177989376">
 <title>Direct Labor Rate Variance</title>
-<para id="fs-idm443991936">The <term>direct labor rate variance</term> compares the actual rate per hour of direct labor to the standard rate per hour of labor for the hours worked. The direct labor rate variance is calculated using this formula:</para>
+<para id="fs-idm443991936">The <term id="term-00002">direct labor rate variance</term> compares the actual rate per hour of direct labor to the standard rate per hour of labor for the hours worked. The direct labor rate variance is calculated using this formula:</para>
 <media id="fs-idm206821008" alt="Direct Labor Rate Variance equals (Actual Hours Worked times Actual Rate per Hour) minus (Actual Hours Worked times Standard Rate per Hour).">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_EqDLRV01_img.jpg"/>
 </media>
@@ -36,7 +36,7 @@
 </section>
 <section id="fs-idm453453760">
 <title>Direct Labor Time Variance</title>
-<para id="fs-idm171991200">The <term>direct labor time variance</term> compares the actual labor hours used to the standard labor hours that were expected to be used to make the actual units produced. The variance is calculated using this formula:</para>
+<para id="fs-idm171991200">The <term id="term-00003">direct labor time variance</term> compares the actual labor hours used to the standard labor hours that were expected to be used to make the actual units produced. The variance is calculated using this formula:</para>
 <media id="fs-idm464701856" alt="Direct Labor Time Variance equals (Actual Hours Worked x Standard rate per Hour) minus (Standard Hours times Standard Rate per Hour).">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_EqDLTV01_img.jpg"/>
 </media>
@@ -64,7 +64,7 @@
 </section>
 <section id="fs-idm215046064">
 <title>Total Direct Labor Variance</title>
-<para id="fs-idm205694464">When a company makes a product and compares the actual labor cost to the standard labor cost, the result is the <term>total direct labor variance</term>.</para>
+<para id="fs-idm205694464">When a company makes a product and compares the actual labor cost to the standard labor cost, the result is the <term id="term-00004">total direct labor variance</term>.</para>
 <media id="fs-idm203359248" class="scaled-down" alt="Total Direct Labor Variance minus (Actual Hours times Actual Rate) minus (Standard Hours times Standard Rate).">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_03_EqTDLV01_img.jpg"/>
 </media>

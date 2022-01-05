@@ -18,7 +18,7 @@
 </note>
 <section id="fs-idm282112304">
 <title>Fundamentals of Partnership Dissolution</title>
-<para id="fs-idm283736384">The <term>liquidation</term> or <term class="no-emphasis">dissolution</term> process for partnerships is similar to the liquidation process for corporations. Over a period of time, the partnership’s non-cash assets are converted to cash, creditors are paid to the extent possible, and remaining funds, if any, are distributed to the partners. Partnership liquidations differ from corporate liquidations in some respects, however:</para>
+<para id="fs-idm283736384">The <term id="term-00001">liquidation</term> or <term class="no-emphasis" id="term-00002">dissolution</term> process for partnerships is similar to the liquidation process for corporations. Over a period of time, the partnership’s non-cash assets are converted to cash, creditors are paid to the extent possible, and remaining funds, if any, are distributed to the partners. Partnership liquidations differ from corporate liquidations in some respects, however:</para>
 <list id="fs-idm271941840" list-type="enumerated" number-style="arabic">
 <item>General partners, as you may recall, have unlimited liability. Any general partner may be asked to contribute additional funds to the partnership if its assets are insufficient to satisfy creditors’ claims.</item>
 <item>If a general partner does not make good on his or her deficit capital balance, the remaining partners must absorb that deficit balance. Absorption of the partner’s deficit balance gives the absorbing partner legal recourse against the deficit partner.</item>
@@ -28,7 +28,7 @@
 <title>Recording the Dissolution Process</title>
 <para id="fs-idm277329664">As discussed above, the liquidation or dissolution of a partnership is synonymous with closing the business. This may occur due to mutual partner agreement to sell the business, the death of a partner, or bankruptcy. Before proceeding with liquidation, the partnership should complete the accounting cycle for its final operational period. This will require closing the books with only balance sheet accounts remaining. Once that process has been completed, four steps remain in the accounting for the liquidation, each requiring an accounting entry. They are:</para>
 <list id="fs-idm272479216" list-type="bulleted" bullet-style="bullet">
-<item>Step 1: Sell noncash assets for cash and recognize a gain or loss on <term>realization</term>. Realization is the sale of noncash assets for cash.</item>
+<item>Step 1: Sell noncash assets for cash and recognize a gain or loss on <term id="term-00003">realization</term>. Realization is the sale of noncash assets for cash.</item>
 <item>Step 2: Allocate the gain or loss from realization to the partners based on their income ratios.</item>
 <item>Step 3: Pay partnership liabilities in cash.</item>
 <item>Step 4: Distribute any remaining cash to the partners on the basis of their capital balances.</item>

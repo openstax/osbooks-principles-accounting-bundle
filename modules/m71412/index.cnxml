@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<para id="fs-idm352319536">Recall that the standard cost of a product includes not only materials and labor but also variable and fixed overhead. It is likely that the amounts determined for standard overhead costs will differ from what actually occurs. This will lead to <term class="no-emphasis">overhead variances</term>.</para>
+<para id="fs-idm352319536">Recall that the standard cost of a product includes not only materials and labor but also variable and fixed overhead. It is likely that the amounts determined for standard overhead costs will differ from what actually occurs. This will lead to <term class="no-emphasis" id="term-00001">overhead variances</term>.</para>
 <section id="fs-idm617222608">
 <title>Determination and Evaluation of Overhead Variance</title>
 <para id="fs-idm348328800">In a standard cost system, overhead is applied to the goods based on a standard overhead rate. This is similar to the predetermined overhead rate used previously. The standard overhead rate is calculated by dividing budgeted overhead at a given level of production (known as normal capacity) by the level of activity required for that particular level of production.</para>
@@ -19,7 +19,7 @@
 <para id="fs-idm348154320">Usually, the level of activity is either direct labor hours or direct labor cost, but it could be machine hours or units of production.</para>
 <section id="fs-idm320311728">
 <title>Creation of Flexible Overhead Budget</title>
-<para id="fs-idm350935808">To determine the overhead standard cost, companies prepare a <term>flexible budget</term> that gives estimated revenues and costs at varying levels of production. The standard overhead cost is usually expressed as the sum of its component parts, fixed and variable costs per unit. Note that at different levels of production, total fixed costs are the same, so the standard fixed cost per unit will change for each production level. However, the variable standard cost per unit is the same per unit for each level of production, but the total variable costs will change.</para>
+<para id="fs-idm350935808">To determine the overhead standard cost, companies prepare a <term id="term-00002">flexible budget</term> that gives estimated revenues and costs at varying levels of production. The standard overhead cost is usually expressed as the sum of its component parts, fixed and variable costs per unit. Note that at different levels of production, total fixed costs are the same, so the standard fixed cost per unit will change for each production level. However, the variable standard cost per unit is the same per unit for each level of production, but the total variable costs will change.</para>
 <para id="fs-idm356469680">We continue to use Connie’s Candy Company to illustrate. Suppose Connie’s Candy budgets capacity of production at 100% and determines expected overhead at this capacity. Connie’s Candy also wants to understand what overhead cost outcomes will be at 90% capacity and 110% capacity. The following information is the flexible budget Connie’s Candy prepared to show expected overhead at each capacity level.</para>
 <media id="fs-idm348370832" class="scaled-down" alt="Percent of capacity: 90 percent, 100 percent, 110 percent respectively. Direct labor hours 1,800, 2,000, 2,200. Units of output 900, 1,000, 1,100. Variable overhead $3,600, 4,000, 4,400. Fixed overhead $6,000, 6,000, 6,000. Total overhead $9,600, 10,000, 10,400. Normal capacity equals 100 percent and overhead is applied based on direct labor hours. Standard Overhead Rate equals $10,000 divided by 2,000 equals $5 per direct labor hour.">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_Capacity_img.jpg"/>
@@ -63,7 +63,7 @@
 </section>
 <section id="fs-idm615255728">
 <title>Determination of Variable Overhead Rate Variance</title>
-<para id="fs-idm348074640">The <term>variable overhead rate variance</term>, also known as the spending variance, is the difference between the actual variable manufacturing overhead and the variable overhead that was expected given the number of hours worked. The variable overhead rate variance is calculated using this formula:</para>
+<para id="fs-idm348074640">The <term id="term-00003">variable overhead rate variance</term>, also known as the spending variance, is the difference between the actual variable manufacturing overhead and the variable overhead that was expected given the number of hours worked. The variable overhead rate variance is calculated using this formula:</para>
 <media id="fs-idm358139216" alt="Variable Overhead Rate Variance equals (Actual Hours Worked times Actual Variable Overhead Rate per Hour) minus (Actual Hours Worked times Standard Variable Overhead Rate per Hour).">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_EqVORV01_img.jpg"/>
 </media>
@@ -98,7 +98,7 @@
 </section>
 <section id="fs-idm360525392">
 <title>Determination of Variable Overhead Efficiency Variance</title>
-<para id="fs-idm354019712">The <term>variable overhead efficiency variance</term>, also known as the controllable variance, is driven by the difference between the actual hours worked and the standard hours expected for the units produced. This variance measures whether the allocation base was efficiently used. The variable overhead efficiency variance is calculated using this formula:</para>
+<para id="fs-idm354019712">The <term id="term-00004">variable overhead efficiency variance</term>, also known as the controllable variance, is driven by the difference between the actual hours worked and the standard hours expected for the units produced. This variance measures whether the allocation base was efficiently used. The variable overhead efficiency variance is calculated using this formula:</para>
 <media id="fs-idm345767648" alt="Variable Overhead Efficiency Variance equals Actual Hours Worked times Standard Variable Overhead Rate per Hour) minus (Standard Hours times Standard Variable Overhead rate per Hour).">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_04_EqVOER01_img.jpg"/>
 </media>
@@ -129,7 +129,7 @@
 <para id="fs-idm359975008">To determine the variable overhead efficiency variance, the actual hours worked and the standard hours worked at the production capacity of 100% must be determined. Actual hours worked are 1,800, and standard hours are 2,000. The standard variable overhead rate per hour is $2.00 ($4,000/2,000 hours), taken from the flexible budget at 100% capacity. Therefore,</para>
 <equation id="fs-idm353583232" class="unnumbered"><m:math><m:mrow><m:mtext>Variable Overhead Efficiency Variance</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1,800</m:mn><m:mo>–</m:mo><m:mn>2,000</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>$2.00</m:mn><m:mo>=</m:mo><m:mn>–$400</m:mn><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>$400</m:mn><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mtext>Favorable</m:mtext><m:mo>)</m:mo></m:mrow></m:math></equation>
 <para id="fs-idm356456496">This produces a favorable outcome. This could be for many reasons, and the production supervisor would need to determine where the variable cost difference is occurring to better understand the variable overhead efficiency reduction.</para>
-<para id="fs-idm354278928">The <term>total variable overhead cost variance</term> is also found by combining the variable overhead rate variance and the variable overhead efficiency variance. By showing the total variable overhead cost variance as the sum of the two components, management can better analyze the two variances and enhance decision-making.</para>
+<para id="fs-idm354278928">The <term id="term-00005">total variable overhead cost variance</term> is also found by combining the variable overhead rate variance and the variable overhead efficiency variance. By showing the total variable overhead cost variance as the sum of the two components, management can better analyze the two variances and enhance decision-making.</para>
 <para id="fs-idm318114224"><link target-id="OSX_Acct_M08_04_TreeTVOCV1"/> shows the connection between the variable overhead rate variance and variable overhead efficiency variance to total variable overhead cost variance.</para>
 <figure id="OSX_Acct_M08_04_TreeTVOCV1">
 <media id="fs-idm350555040" alt="There are three top row boxes. Two, Actual Hours (AH) times Actual Rate (AR) and Actual Hours (AH) times Standard Rate (SR) combine to point to a Second row box: Variable Overhead Rate Variance. Two top row boxes: Actual Hours (AH) times Standard Rate (SR) and Standard Hours (SH) times Standard Rate (SR) combine to point to Second row box: Variable Overhead Efficiency Variance. Notice the middle top row box is used for both of the variances. Second row boxes: Variable Overhead Rate Variance and Variable Overhead Efficiency Variance combine to point to bottom row box: Total Variable Overhead Cost Variance.">
@@ -157,7 +157,7 @@
 </section>
 <section id="fs-idm350987520">
 <title>Fundamentals of Fixed Factory Overhead Variances</title>
-<para id="fs-idm342625744">The <term>fixed factory overhead variance</term> represents the difference between the actual fixed overhead and the applied fixed overhead. There are two fixed overhead variances. One variance determines if too much or too little was spent on fixed overhead. The other variance computes whether or not actual production was above or below the expected production level.</para>
+<para id="fs-idm342625744">The <term id="term-00006">fixed factory overhead variance</term> represents the difference between the actual fixed overhead and the applied fixed overhead. There are two fixed overhead variances. One variance determines if too much or too little was spent on fixed overhead. The other variance computes whether or not actual production was above or below the expected production level.</para>
 <note id="fs-idm350969488" class="your-turn">
 <title>Sweet and Fresh Shampoo Overhead</title>
 <para id="fs-idm356680400">Biglow Company makes a hair shampoo called Sweet and Fresh. They have the following flexible budget data:</para>

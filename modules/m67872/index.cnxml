@@ -10,7 +10,7 @@
 
 <content>
 <para id="fs-idm237987312">Now that you have seen four special journals and two special ledgers, it is time to put all the pieces together.</para>
-<para id="fs-idm275857504">Record the following transactions for Store Inc. in the special journals and post to the general ledger provided. Also post to the subsidiary ledgers provided. Beginning account balances are shown below. Use the <term class="no-emphasis">perpetual inventory method</term> and the gross method of dealing with sales terms.</para>
+<para id="fs-idm275857504">Record the following transactions for Store Inc. in the special journals and post to the general ledger provided. Also post to the subsidiary ledgers provided. Beginning account balances are shown below. Use the <term class="no-emphasis" id="term-00001">perpetual inventory method</term> and the gross method of dealing with sales terms.</para>
 <para id="fs-idm274745440">First, enter these transactions manually by creating the relevant journals and subsidiary ledgers. Then enter them using QuickBooks.</para>
 <media id="fs-idm280037600" alt="Beginning Balances. Cash, $3,116. Accounts Receivable, 3,576. Prepaid Insurance, 130. Inventory, 8,917. Accounts Payable, $6,382. Stock, 5,000. Retained Earnings, 4,357.">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_BegBal_img.jpg"/>
@@ -212,7 +212,7 @@
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_F07_04_ActSch_img.jpg"/>
 </media>
 <para id="fs-idm270438560">If you check Accounts Receivable in the general ledger, you see the balance is $2,989, and the balance in Accounts Payable is $6,071. If the numbers did not match, we would have to find out where the error was and then fix it.</para>
-<para id="fs-idm952591392">The purpose of keeping <term class="no-emphasis">subsidiary ledger</term>s is for accuracy and efficiency. They aid us in keeping accurate records. Since the total of the accounts receivable subsidiary ledger must agree with the balance shown in the accounts receivable general ledger account, the system helps us find mistakes. Since bookkeeping using ledgers is older than the United States, it was an ingenious way to double-check without having to actually do everything twice. It provided an internal control over record keeping. Today, computerized accounting information systems use the same method to store and total amounts, but it takes a lot less time.</para>
+<para id="fs-idm952591392">The purpose of keeping <term class="no-emphasis" id="term-00002">subsidiary ledger</term>s is for accuracy and efficiency. They aid us in keeping accurate records. Since the total of the accounts receivable subsidiary ledger must agree with the balance shown in the accounts receivable general ledger account, the system helps us find mistakes. Since bookkeeping using ledgers is older than the United States, it was an ingenious way to double-check without having to actually do everything twice. It provided an internal control over record keeping. Today, computerized accounting information systems use the same method to store and total amounts, but it takes a lot less time.</para>
 <section id="fs-idm952306176" class="section-summary">
 <title>Key Concepts and Summary</title>
 <list id="fs-idm523554208" list-type="bulleted" bullet-style="bullet">

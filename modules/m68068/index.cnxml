@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<para id="fs-idm351272256">As you’ve learned, an advantage of budgeting is evaluating performance. Having a strong understanding of their budgets helps managers keep track of expenses and work toward the company’s goals. Companies need to understand their revenue and expense details to develop budgets as a tool for planning operations and cash flow. Part of understanding revenue and expenses is evaluating the prior year. Did the company earn the expected profit? Could it have earned a higher profit? What expenses or revenues were not on the budget? Critically evaluating the actual results versus the estimated budgetary results can help management plan for the future. <term class="no-emphasis">Variance analysis</term> helps the manager analyze its results. It does not necessarily find a problem, but it does indicate where a problem may exist. The same is true for favorable variances as well as unfavorable variances. A favorable variance occurs when revenue is higher than budgeted or expenses are lower than budgeted. An unfavorable variance is when revenue is lower than budgeted or expenses are higher than budgeted.</para>
+<para id="fs-idm351272256">As you’ve learned, an advantage of budgeting is evaluating performance. Having a strong understanding of their budgets helps managers keep track of expenses and work toward the company’s goals. Companies need to understand their revenue and expense details to develop budgets as a tool for planning operations and cash flow. Part of understanding revenue and expenses is evaluating the prior year. Did the company earn the expected profit? Could it have earned a higher profit? What expenses or revenues were not on the budget? Critically evaluating the actual results versus the estimated budgetary results can help management plan for the future. <term class="no-emphasis" id="term-00001">Variance analysis</term> helps the manager analyze its results. It does not necessarily find a problem, but it does indicate where a problem may exist. The same is true for favorable variances as well as unfavorable variances. A favorable variance occurs when revenue is higher than budgeted or expenses are lower than budgeted. An unfavorable variance is when revenue is lower than budgeted or expenses are higher than budgeted.</para>
 <table id="fs-idm294858704" class="top-titled" summary="alt text">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1"/>
@@ -25,12 +25,12 @@
 </thead>
 <tbody>
 <row valign="top">
-<entry valign="bottom" align="left">Actual Sales &gt; Budgeted Sales</entry>
+<entry valign="bottom" align="left">Actual Sales > Budgeted Sales</entry>
 <entry valign="bottom" align="left">Actual Sales &lt; Budgeted Sales</entry>
 </row>
 <row valign="top">
 <entry valign="bottom" align="left">Actual Expenses &lt; Budgeted Expenses</entry>
-<entry valign="bottom" align="left">Actual Expenses &gt; Budgeted expenses</entry>
+<entry valign="bottom" align="left">Actual Expenses > Budgeted expenses</entry>
 </row>
 </tbody>
 </tgroup>

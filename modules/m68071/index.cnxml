@@ -16,10 +16,10 @@
 </note>
 <section id="fs-idm453758624">
 <title>Fundamentals of Direct Materials Variances</title>
-<para id="fs-idm482586016">The direct materials variances measure how efficient the company is at using materials as well as how effective it is at using materials. There are two components to a <term>direct materials variance</term>, the direct materials price variance and the direct materials quantity variance, which both compare the actual price or amount used to the standard amount.</para>
+<para id="fs-idm482586016">The direct materials variances measure how efficient the company is at using materials as well as how effective it is at using materials. There are two components to a <term id="term-00001">direct materials variance</term>, the direct materials price variance and the direct materials quantity variance, which both compare the actual price or amount used to the standard amount.</para>
 <section id="fs-idm432119568">
 <title>Direct Materials Price Variance</title>
-<para id="fs-idm458760944">The <term>direct materials price variance</term> compares the actual price per unit (pound or yard, for example) of the direct materials to the standard price per unit of direct materials. The formula for direct materials price variance is calculated as:</para>
+<para id="fs-idm458760944">The <term id="term-00002">direct materials price variance</term> compares the actual price per unit (pound or yard, for example) of the direct materials to the standard price per unit of direct materials. The formula for direct materials price variance is calculated as:</para>
 <media id="fs-idm159481248" alt="Direct Materials Price Variance equals (Actual Quantity Used times Actual Price Paid) minus (Actual Quantity Used times Standard Price).">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_02_EqDMPV01_img.jpg"/>
 </media>
@@ -38,7 +38,7 @@
 </section>
 <section id="fs-idm200909472">
 <title>Direct Materials Quantity Variance</title>
-<para id="fs-idm166094160">The <term>direct materials quantity variance</term> compares the actual quantity of materials used to the standard materials that were expected to be used to make the actual units produced. The variance is calculated using this formula:</para>
+<para id="fs-idm166094160">The <term id="term-00003">direct materials quantity variance</term> compares the actual quantity of materials used to the standard materials that were expected to be used to make the actual units produced. The variance is calculated using this formula:</para>
 <media id="fs-idm194530848" alt="Direct Materials Quantity Variance equals (Actual Quantity of Materials Used for Units Produced minus Standard Quantity of Materials Expected for the Units Produced) times Standard Price.">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_02_EqDMQV01_img.jpg"/>
 </media>
@@ -63,7 +63,7 @@
 </section>
 <section id="fs-idm219727584">
 <title>Total Direct Materials Cost Variance</title>
-<para id="fs-idm216421040">When a company makes a product and compares the actual materials cost to the standard materials cost, the result is the <term>total direct materials cost variance</term>.</para>
+<para id="fs-idm216421040">When a company makes a product and compares the actual materials cost to the standard materials cost, the result is the <term id="term-00004">total direct materials cost variance</term>.</para>
 <media id="fs-idm214312480" class="scaled-down" alt="Total Direct Material Variance equals (Actual Quantity times Actual Price) minus (Standard Quantity times Standard Price).">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_M08_02_EqTDMV01_img.jpg"/>
 </media>
