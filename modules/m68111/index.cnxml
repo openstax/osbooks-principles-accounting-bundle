@@ -308,14 +308,14 @@
 <para id="fs-idm204440928">where <emphasis effect="italics">Y</emphasis><sub>2</sub> is the total cost at the highest level of activity; <emphasis effect="italics">Y</emphasis><sub>1</sub> is the total cost at the lowest level of activity; <emphasis effect="italics">X</emphasis><sub>2</sub> is the number of units, labor hours, etc., at the highest level of activity; and <emphasis effect="italics">X</emphasis><sub>1</sub> is the number of units, labor hours, etc., at the lowest level of activity.</para>
 <para id="fs-idm199813776">Using the maintenance cost data from Regent Airlines shown in <link target-id="OSX_Acct_M02_03_RAir03"/>, we will examine how this method works in practice.</para>
 <figure id="OSX_Acct_M02_03_RAir03" class="scaled-down">
-<media id="fs-idm199884400" alt="Month, Activity Level: Flight Hours, Maintenance Costs, respectively: January, 21,000, $84,000; February 23,000, 90,000; March 14,000, 70,500; April 17,000, 75,000; May 10,000, 64,500; June 19,000, 78,000.">
+<media id="fs-idm199884400" alt="Month, Activity Level: Flight Hours, Maintenance Costs, respectively: January, 21,000, $84,000; February 23,000, 90,000; March 14,000, 70,500; April 17,000, 75,000; May 10,000, 64,520; June 19,000, 78,000.">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_RAir03.jpg"/>
 </media>
 <caption>Monthly Maintenance Cost and Activity Detail for Regent Airlines. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
 </figure>
 <para id="fs-idm200072880">The first step in analyzing mixed costs with the high-low method is to identify the periods with the highest and lowest levels of activity. In this case, it would be February and May, as shown in <link target-id="OSX_Acct_M02_03_RAir04"/>. We always choose the highest and lowest activity and the costs that correspond with those levels of activity, even if they are not the highest and lowest costs.</para>
 <figure id="OSX_Acct_M02_03_RAir04">
-<media id="fs-idm202515744" alt="Activity Level (Flight Hours), Cost (Maintenance Costs), respectively are: Highest level (February), 23,000, $90,000; Lowest level (May), 10,000, 64,500.">
+<media id="fs-idm202515744" alt="Activity Level (Flight Hours), Cost (Maintenance Costs), respectively are: Highest level (February), 23,000, $90,000; Lowest level (May), 10,000, 64,520.">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_M02_03_RAir04.jpg"/>
 </media>
 <caption>High–Low Data Points for Regent Airlines Maintenance Costs. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
@@ -328,7 +328,7 @@
 <equation id="fs-idm199358784" class="unnumbered"><m:math><m:mrow><m:mtext>Variable Cost</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>$90,000</m:mn><m:mo>–</m:mo><m:mn>$64,500</m:mn></m:mrow><m:mrow><m:mn>23,000</m:mn><m:mo>–</m:mo><m:mn>10,000</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>$1.96</m:mn><m:mspace width="0.2em"/><m:mtext>per flight hour</m:mtext></m:mrow></m:math></equation>
 <para id="fs-idm199482000">Having determined that the variable cost per flight-hour is $1.96, we can now determine the amount of fixed costs. We can determine these fixed costs by taking the total costs at <emphasis effect="italics">either</emphasis> the high or the low level of activity and subtracting this variable component. You will recall that total cost = fixed costs + variable costs, so the fixed cost component for Regent Airlines can be isolated as shown:</para>
 <equation id="fs-idm212700256" class="unnumbered"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Fixed cost</m:mtext><m:mo>=</m:mo><m:mtext>total cost</m:mtext><m:mo>–</m:mo><m:mtext>variable cost</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Fixed cost</m:mtext><m:mo>=</m:mo><m:mn>$90,000</m:mn><m:mo>–</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>23,000</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>$1.96</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Fixed cost</m:mtext><m:mo>=</m:mo><m:mn>$44,920</m:mn></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
-<para id="fs-idm194227344">Notice that if we had chosen the other data point, the low cost and activity, we would still get the same fixed cost of $44,920 = [$64,500 – (10,000 × $1.96)].</para>
+<para id="fs-idm194227344">Notice that if we had chosen the other data point, the low cost and activity, we would still get the same fixed cost of $44,920 = [$64,520 – (10,000 × $1.96)].</para>
 <para id="fs-idm219793280">Now that we have isolated both the fixed and the variable components, we can express Regent Airlines’ cost of maintenance using the total cost equation:</para>
 <equation id="fs-idm216184768" class="unnumbered"><m:math><m:mrow><m:mi>Y</m:mi><m:mo>=</m:mo><m:mtext>$</m:mtext><m:mn>44,920</m:mn><m:mo>+</m:mo><m:mtext>$</m:mtext><m:mn>1.96</m:mn><m:mi>x</m:mi></m:mrow></m:math></equation>
 <para id="fs-idm219426464">where <emphasis effect="italics">Y</emphasis> is total cost and <emphasis effect="italics">x</emphasis> is flight hours.</para>
