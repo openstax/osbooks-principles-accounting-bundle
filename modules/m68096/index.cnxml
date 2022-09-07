@@ -21,7 +21,7 @@
 <para id="fs-idm199194208">Performance measurement is used to motivate managers to make decisions that benefit the corporation and themselves. Therefore, the key to good performance measurement techniques is to set goals that are realistic and that incorporate decisions over which the manager has control. Then, the company can evaluate the manager based on <term id="term-00003">controllable factors</term>, which are the components of the organization for which the manager is responsible and that the manager can control, such as revenues, costs and procurement of long-term assets, and other possible factors. Recall that in <link document="m68074">Responsibility Accounting and Decentralization</link>, you learned about responsibility centers, which are a means by which an organization can be divided based on factors that the manager can control. This makes it easier to align the goals of the manager with those of the organization and to design effective performance measures. The four types of responsibility centers are revenue centers, cost centers, profit centers, and investment centers.</para>
 <para id="fs-idm226858272">In a <term id="term-00004">revenue center</term>, the manager has control over the revenues that are generated for the corporation but not over the costs of the organization. For example, the reservations department of an airline is a revenue center because the reservationists can control revenues by selling customers upgrades such as meals or first-class seating, by selling trip insurance, or by trying to keep customers from going to another airline. However, reservationists cannot control the costs of the flights the airline is offering and reserving because the reservation department cannot control the cost of the planes, airport space rental, or jet fuel. Therefore, the manager of the reservation department should have performance evaluations measures closely related to revenue generation.</para>
 <para id="fs-idm435597808">In a <term id="term-00005">cost center</term>, the manager has control over costs but not over revenues. An example of a cost center would be the accounting department of a grocery store chain. The manager can control the types of people hired, the wages that are paid, and the hours that are worked within that department, and each of these costs contributes to the total cost of the department. However, the manager of the accounting department has no control over the generation of revenues.</para>
-<para id="fs-idm443811552">In a <term id="term-00006">profit center</term>, the manager has control over both revenues and costs. An example would be a single location of <emphasis class="colored-text">Best Buy</emphasis>. The manager at that store has control over both revenues and costs; therefore, one component of evaluation for that manager will be store profits.</para>
+<para id="fs-idm443811552">In a <term id="term-00006">profit center</term>, the manager has control over both revenues and costs. An example would be a single location of <span class="red-text">Best Buy</span>. The manager at that store has control over both revenues and costs; therefore, one component of evaluation for that manager will be store profits.</para>
 <para id="fs-idm244805888">An <term id="term-00007">investment center</term> is a component of a business for which the manager has control over revenues, costs, and capital assets. This means the manager not only can make decisions regarding generating revenues and controlling costs but also has authority to make decisions regarding assets, such as buying new machines, expanding facilities, or selling old assets. With each of these types of centers, designing the appropriate performance measures begins with evaluating management based on which business areas they oversee.</para>
 <para id="fs-idm210824016">Using the previous revenue center example, the manager of the reservation department should be evaluated on how well his team generates revenues. The proper incentives will motivate the team to perform better at their jobs. Evaluating a manager on the outcome of decisions over which he or she has no control, or <term id="term-00008">uncontrollable factors</term>, will be demotivating and does not promote goal congruence between the organization and the manager. The reservations manager has no control over fuel costs, plane maintenance costs, or pilot salaries. Thus, it would not be logical to evaluate the manager on flight costs.</para>
 <para id="fs-idm213194960">A good <term id="term-00009">performance measurement system</term> is one that utilizes appropriate <term id="term-00010">performance measures</term>, which are performance metrics used to evaluate a specific attribute of a manager’s role, to evaluate management in a way that will link the goals of the corporation with those of the manager. A <term id="term-00011">metric</term> is simply a means to measure something. For example, high school grade point average is a metric used by colleges when considering admission of prospective students, as it is considered a measure of prior academic success. In the business environment, individuals who design the performance measurement system must have extensive knowledge of the corporate strategic plan and the overall goals set by the organization, and a clear understanding of the job descriptions, responsibilities of each manager, and trends in rewards and compensation.</para>
@@ -273,7 +273,7 @@
 <item>Harbor Marketing, which wants Advertising Team Leaders to be able to respond quickly to needs of potential clients so Team Leaders have the authority to make decisions about advertising and pricing</item>
 <item>Couture’s Creations, with a single owner who manages the production, accounting, engineering, sales, and other administrative functions</item>
 <item>British Navy</item>
-<item><emphasis class="colored-text">McDonalds</emphasis> franchise #3101 in Canton, Ohio</item>
+<item><span class="red-text">McDonalds</span> franchise #3101 in Canton, Ohio</item>
 <item>United States Army</item>
 </list>
 </problem>
@@ -294,14 +294,14 @@
 <problem id="fs-idm242253296">
 <para id="fs-idm205971024"><link class="lo-reference" document="m68096"/>Identify the type of responsibility center (revenue center, cost center, profit center, or investment center) for each of the following situations.</para>
 <list id="fs-idm214649952" list-type="enumerated" number-style="upper-alpha">
-<item>the accounting department for <emphasis class="colored-text">Tubelite Inc.</emphasis></item>
-<item>the <emphasis class="colored-text">Best Buy</emphasis> in Traverse City, Michigan</item>
-<item>the reservation department of <emphasis class="colored-text">Allegiant</emphasis> airlines</item>
-<item>the sales department of <emphasis class="colored-text">Four Winns</emphasis></item>
-<item>the <emphasis class="colored-text">Kohl’s</emphasis> store in Mount Pleasant, Michigan</item>
-<item><emphasis class="colored-text">The Hershey Company</emphasis></item>
-<item><emphasis class="colored-text">Procter and Gamble</emphasis></item>
-<item>the shoe department in the <emphasis class="colored-text">Kohl’s</emphasis> store in Mount Pleasant, Michigan</item>
+<item>the accounting department for <span class="red-text">Tubelite Inc.</span></item>
+<item>the <span class="red-text">Best Buy</span> in Traverse City, Michigan</item>
+<item>the reservation department of <span class="red-text">Allegiant</span> airlines</item>
+<item>the sales department of <span class="red-text">Four Winns</span></item>
+<item>the <span class="red-text">Kohl’s</span> store in Mount Pleasant, Michigan</item>
+<item><span class="red-text">The Hershey Company</span></item>
+<item><span class="red-text">Procter and Gamble</span></item>
+<item>the shoe department in the <span class="red-text">Kohl’s</span> store in Mount Pleasant, Michigan</item>
 </list>
 </problem>
 </exercise>
@@ -312,8 +312,8 @@
 <para id="fs-idm213141168"><link class="lo-reference" document="m68096"/>For the following situations identify whether the description is a centralized or decentralized organization.</para>
 <list id="fs-idm241054560" list-type="enumerated" number-style="upper-alpha">
 <item>the United States Navy</item>
-<item>Farah’s <emphasis class="colored-text">Domino’s</emphasis> franchise store</item>
-<item><emphasis class="colored-text">Domino’s</emphasis> Pizza</item>
+<item>Farah’s <span class="red-text">Domino’s</span> franchise store</item>
+<item><span class="red-text">Domino’s</span> Pizza</item>
 <item>Middie’s Furniture, which is divided into separate operating units, such as living room, kitchen, flooring</item>
 <item>the local community college, which has a single payroll department, a single administrative headquarters, and a single human resources department since it “flattened” its organization structure</item>
 <item>Conner Corporation, which promotes managers from within the organization whenever possible and which has formal training programs for lower-level managers</item>
@@ -327,7 +327,7 @@
 <item>advertising for a merchandiser</item>
 <item>corporate income taxes</item>
 <item>office supplies for a merchandiser</item>
-<item>donations to the <emphasis class="colored-text">Salvation Army</emphasis></item>
+<item>donations to the <span class="red-text">Salvation Army</span></item>
 <item>insurance for delivery vehicles</item>
 </list>
 </problem>
@@ -336,14 +336,14 @@
 <problem id="fs-idm199159664">
 <para id="fs-idm237821008"><link class="lo-reference" document="m68096"/>Identify the type of responsibility center (revenue center, cost center, profit center, or investment center) for each of the following situations.</para>
 <list id="fs-idm252098912" list-type="enumerated" number-style="upper-alpha">
-<item>the legal department for <emphasis class="colored-text">Avon Manufacturing</emphasis></item>
-<item>the <emphasis class="colored-text">Macy’s</emphasis> store in Mansfield, Ohio</item>
-<item>the food and beverage division of the <emphasis class="colored-text">Best Western</emphasis></item>
-<item>the marketing department of the <emphasis class="colored-text">Hershey</emphasis> Company</item>
-<item>the <emphasis class="colored-text">Walmart</emphasis> #5030 on Central Avenue in Toledo, Ohio</item>
-<item><emphasis class="colored-text">Apple’s</emphasis> <emphasis class="colored-text">Braeburn Capital</emphasis> <emphasis class="colored-text">Inc.</emphasis>, where most of Apple’s billions of dollars are invested</item>
-<item><emphasis class="colored-text">Zappo’s</emphasis> department store</item>
-<item>the men’s clothing department in the <emphasis class="colored-text">Walmart</emphasis> #5030 in Toledo, Ohio</item>
+<item>the legal department for <span class="red-text">Avon Manufacturing</span></item>
+<item>the <span class="red-text">Macy’s</span> store in Mansfield, Ohio</item>
+<item>the food and beverage division of the <span class="red-text">Best Western</span></item>
+<item>the marketing department of the <span class="red-text">Hershey</span> Company</item>
+<item>the <span class="red-text">Walmart</span> #5030 on Central Avenue in Toledo, Ohio</item>
+<item><span class="red-text">Apple’s</span> <span class="red-text">Braeburn Capital Inc.</span>, where most of Apple’s billions of dollars are invested</item>
+<item><span class="red-text">Zappo’s</span> department store</item>
+<item>the men’s clothing department in the <span class="red-text">Walmart</span> #5030 in Toledo, Ohio</item>
 </list>
 </problem>
 </exercise>
