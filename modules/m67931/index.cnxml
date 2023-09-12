@@ -33,7 +33,7 @@
 <para id="fs-idm264172896">Transactions that do not affect cash but do affect long-term assets, long-term debt, and/or equity are disclosed, either as a notation at the bottom of the statement of cash flow, or in the notes to the financial statements.</para>
 <para id="fs-idm250846528">The remainder of this section demonstrates preparation of the statement of cash flows of the company whose financial statements are shown in <link target-id="OSX_Acct_F16_02_CBalSheet"/>, <link target-id="OSX_Acct_F16_02_CIncStmt"/>, and <link target-id="OSX_Acct_F16_02_SCFlow"/>.</para>
 <figure id="OSX_Acct_F16_02_CBalSheet">
-<media id="fs-idm259122896" alt="Propensity Company Comparative Balance Sheet December 31. Assets. Cash 2018 balance: $47,500; 2017 balance: $24,300; change: $23,200 increase. Accounts receivable 2018 balance: 21,500; 2017 balance: 26,000; change: 4,500 decrease. Prepaid insurance 2018 balance: 2,500; 2017 balance: 1,800; change: 700 increase. Inventory 2018 balance: 48,000; 2017 balance: 45,500; change: 2,500 increase. Land 2018 balance: 20,000; 2017 balance: 10,000; change: 10,000 increase. Plant assets 2018 balance: 230,000; 2017 balance: 190,000; change: 40,000. Accumulated depreciation 2018 balance: minus 85,500; 2017 balance: minus 71,100; change: minus 14,400 decrease. Total assets 2018 balance: 284,000, 2017 balance: 226,500; change: 57,500 increase. Liabilities and equity. Liabilities. Accounts payable 2018 balance: 17,200; 2017 balance: 19,000; change: 1,800 decrease. Salaries payable 2018 balance: 1,900; 2017 balance: 1,500; change: 400 increase. Notes payable 2018 balance: 85,000; 2017 balance: 75,000; change: 10,000 increase. Total liabilities 2018 balance: 104,100; 2017 balance: 95,500; change: 8,600. Equity. Common stock 2018 balance: 115,000; 2017 balance: 70,000; change: 45,000 increase. Retained earnings 2018 balance: 64,900; 2017 balance: 61,000; change: 3,900 increase. Total equity 2018 balance: 179,900; 2017 balance: 131,000; change: 48,900. Total liabilities and equity 2018 balance: 284,000; 2017 balance: 226,500; change: 57,500.">
+<media id="fs-idm259122896" alt="Propensity Company Comparative Balance Sheet December 31. Assets. Cash 2018 balance: $47,500; 2017 balance: $24,300; change: $23,200 increase. Accounts receivable 2018 balance: 21,500; 2017 balance: 26,000; change: 4,500 decrease. Prepaid insurance 2018 balance: 2,500; 2017 balance: 1,800; change: 700 increase. Inventory 2018 balance: 48,000; 2017 balance: 45,500; change: 2,500 increase. Land 2018 balance: 20,000; 2017 balance: 10,000; change: 10,000 increase. Plant assets 2018 balance: 230,000; 2017 balance: 170,000; change: 60,000. Accumulated depreciation 2018 balance: minus 85,500; 2017 balance: minus 71,100; change: minus 14,400 decrease. Total assets 2018 balance: 284,000, 2017 balance: 206,500; change: 77,500 increase. Liabilities and equity. Liabilities. Accounts payable 2018 balance: 17,200; 2017 balance: 19,000; change: 1,800 decrease. Salaries payable 2018 balance: 1,900; 2017 balance: 1,500; change: 400 increase. Notes payable 2018 balance: 85,000; 2017 balance: 75,000; change: 10,000 increase. Total liabilities 2018 balance: 104,100; 2017 balance: 95,500; change: 8,600. Equity. Common stock 2018 balance: 115,000; 2017 balance: 50,000; change: 65,000 increase. Retained earnings 2018 balance: 64,900; 2017 balance: 61,000; change: 3,900 increase. Total equity 2018 balance: 179,900; 2017 balance: 111,000; change: 48,900. Total liabilities and equity 2018 balance: 284,000; 2017 balance: 206,500; change: 77,500.">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_02_CBalSheet.jpg"/>
 </media>
 <caption>Comparative Balance Sheet. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
@@ -48,12 +48,13 @@
 <list id="fs-idm251320080" list-type="enumerated" number-style="arabic">
 <item>Propensity Company sold land with an original cost of $10,000, for $14,800 cash.</item>
 <item>A new parcel of land was purchased for $20,000, in exchange for a note payable.</item>
-<item>Plant assets were purchased for $40,000 cash.</item>
+<item>Plant assets were purchased for $50,000 cash.</item>
 <item>Propensity declared and paid a $440 cash dividend to shareholders.</item>
 <item>Propensity issued common stock in exchange for $45,000 cash.</item>
+<item>Propensity issued $20,000 in common stock to employees as a bonus.</item>
 </list>
 <figure id="OSX_Acct_F16_02_SCFlow">
-<media id="fs-idm247971632" alt="Propensity Company. Statement of Cash Flows. Indirect Method. Year Ended December 31, 2018. Cash Flow from Operating Activities: Net Income $4,340. Adjustments to Reconcile Net Income to Net Cash Flow from Operating Activities: Depreciation $14,400. Gain on Sale of Plant Assets (4,800). Accounts Receivable decrease 4,500. Prepaid Insurance increase (700). Inventory increase (2,500). Accounts Payable decrease (1,800). Salaries Payable increase 400. Total Adjustments 9,500. Net Cash Flow: Operating Activities $13,840. Cash Flow from Investing Activities: Proceeds from Sale of Land $14,800. Cost of New Plant Assets (Equipment) (40,000). Net Cash Flow: Investing Activities ($25,200). Cash Flow from Financing Activities: Payment of Notes Payable (principal) (10,000). Issuance of Common Stock 45,000. Payment of Dividends (440). Net Cash Flow: Financing Activities $34,560. Total Cash Flow increase 23,200. Cash Balance December 31, 2017 24,300. Cash Balance December 31, 2018 47,500. Non-cash Investing and Financing Activities. Land Acquired in Exchange for Note Payable $20,000.">
+<media id="fs-idm247971632" alt="Propensity Company. Statement of Cash Flows. Indirect Method. Year Ended December 31, 2018. Cash Flow from Operating Activities: Net Income $4,340. Adjustments to Reconcile Net Income to Net Cash Flow from Operating Activities: Depreciation $14,400. Gain on Sale of Plant Assets (4,800). Accounts Receivable decrease 4,500. Prepaid Insurance increase (700). Inventory increase (2,500). Accounts Payable decrease (1,800). Salaries Payable increase 400. Total Adjustments 9,500. Net Cash Flow: Operating Activities $13,840. Cash Flow from Investing Activities: Proceeds from Sale of Land $14,800. Cost of New Plant Assets (Equipment) (60,000). Net Cash Flow: Investing Activities ($45,200). Cash Flow from Financing Activities: Issuance of Notes Payable (principal) 10,000. Issuance of Common Stock 45,000. Payment of Dividends (440). Net Cash Flow: Financing Activities $54,560. Total Cash Flow increase 23,200. Cash Balance December 31, 2017 24,300. Cash Balance December 31, 2018 47,500. Non-cash Investing and Financing Activities. Land Acquired in Exchange for Note Payable $20,000.">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_02_SCFlow.jpg"/>
 </media>
 <caption>Statement of Cash Flows. (attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
@@ -168,11 +169,11 @@
 <para id="fs-idm233997008">In the Propensity Company example, the investing section included two transactions involving long-term assets, one of which increased cash, while the other one decreased cash, for a total net cash flow from investing of ($25,200). Analysis of Propensity Company’s comparative balance sheet revealed changes in land and plant assets. Further investigation identified that the change in long-term assets arose from three transactions:</para>
 <list id="fs-idm260138560" list-type="enumerated" number-style="arabic">
 <item>Investing activity: A tract of land that had an original cost of $10,000 was sold for $14,800.</item>
-<item>Investing activity: Plant assets were purchased, for $40,000 cash.</item>
+<item>Investing activity: Plant assets were purchased, for $60,000 cash.</item>
 <item>Noncash investing and financing activity: A new parcel of land was acquired, in exchange for a $20,000 note payable.</item>
 </list>
 <para id="fs-idm247297792">Details relating to the treatment of each of these transactions are provided in the following sections.</para>
-<media id="fs-idm249245632" alt="Three financial statement excerpts are shown. The first shows Cash Flow from Investing Activities: Proceeds from Sale of Land $14,800. Cost of New Plant Assets (Equipment) (40,000). Net Cash Flow: Investing Activities ($25,200). Proceeds from Sale of Land is highlighted. The second shows Cash Flow from Investing Activities: Proceeds from Sale of Land $14,800. Cost of New Plant Assets (Equipment) (40,000). Net Cash Flow: Investing Activities ($25,200). Cost of New Plant Assets is highlighted. The third shows Non-cash Investing and Financing Activities: Land Acquired in Exchange for Note Payable $20,000. Land Acquired in Exchange for Note Payable is highlighted.">
+<media id="fs-idm249245632" alt="Three financial statement excerpts are shown. The first shows Cash Flow from Investing Activities: Proceeds from Sale of Land $14,800. Cost of New Plant Assets (Equipment) (60,000). Net Cash Flow: Investing Activities ($45,200). Proceeds from Sale of Land is highlighted. The second shows Cash Flow from Investing Activities: Proceeds from Sale of Land $14,800. Cost of New Plant Assets (Equipment) (60,000). Net Cash Flow: Investing Activities ($45,200). Cost of New Plant Assets is highlighted. The third shows Non-cash Investing and Financing Activities: Land Acquired in Exchange for Note Payable $20,000. Land Acquired in Exchange for Note Payable is highlighted.">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_04_Flow01_img.jpg"/>
 </media>
 </section>
@@ -185,8 +186,8 @@
 </section>
 <section id="fs-idm264531184">
 <title>Investing Activities Leading to a Decrease in Cash</title>
-<para id="fs-idm259942352">Decreases in net cash flow from investing normally occur when long-term assets are purchased using cash. For example, in the Propensity Company example, there was a decrease in cash for the period relating to a simple purchase of new plant assets, in the amount of $40,000.</para>
-<media id="fs-idm251145232" alt="Cost of New Plant Assets (Equipment) $(40,000).">
+<para id="fs-idm259942352">Decreases in net cash flow from investing normally occur when long-term assets are purchased using cash. For example, in the Propensity Company example, there was a decrease in cash for the period relating to a simple purchase of new plant assets, in the amount of $60,000.</para>
+<media id="fs-idm251145232" alt="Cost of New Plant Assets (Equipment) $(60,000).">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_04_Flow03_img.jpg"/>
 </media>
 </section>
@@ -195,8 +196,8 @@
 <para id="fs-idm259845744">Cash flows from financing activities always relate to either long-term debt or equity transactions and may involve increases or decreases in cash relating to these transactions. Stockholders’ equity transactions, like stock issuance, dividend payments, and treasury stock buybacks are very common financing activities. Debt transactions, such as issuance of bonds payable or notes payable, and the related principal payback of them, are also frequent financing events. Changes in long-term liabilities and equity for the period can be identified in the Noncurrent Liabilities section and the Stockholders’ Equity section of the company’s Comparative Balance Sheet, and in the retained earnings statement.</para>
 <para id="fs-idm252378784">In the Propensity Company example, the financing section included three transactions. One long-term debt transaction decreased cash. Two transactions related to equity, one of which increased cash, while the other one decreased cash, for a total net cash flow from financing of $34,560. Analysis of Propensity Company’s Comparative Balance Sheet revealed changes in notes payable and common stock, while the retained earnings statement indicated that dividends were distributed to stockholders. Further investigation identified that the change in long-term liabilities and equity arose from three transactions:</para>
 <list id="fs-idm252692944" list-type="enumerated" number-style="arabic">
-<item>Financing activity: Principal payments of $10,000 were paid on notes payable.</item>
-<item>Financing activity: New shares of common stock were issued, in the amount of $45,000.</item>
+<item>Financing activity: Borrowed an additional $10,000 on notes payable.</item>
+<item>Financing activity: New shares of common stock were issued, in the amount of $45,000. (Note the $20,000 in common stock issued for employee bonuses is not a cash flow transaction.)</item>
 <item>Financing activity: Dividends of $440 were paid to shareholders.</item>
 </list>
 <para id="fs-idm248549712">Specifics about each of these three transactions are provided in the following sections.</para>
@@ -206,15 +207,15 @@
 </section>
 <section id="fs-idm262086496">
 <title>Financing Activities Leading to an Increase in Cash</title>
-<para id="fs-idm246590416">Increases in net cash flow from financing usually arise when the company issues share of stock, bonds, or notes payable to raise capital for cash flow. Propensity Company had one example of an increase in cash flows, from the issuance of common stock.</para>
-<media id="fs-idm255450592" alt="Issuance of Common Stock $45,000.">
+<para id="fs-idm246590416">Increases in net cash flow from financing usually arise when the company issues share of stock, bonds, or notes payable to raise capital for cash flow. Propensity Company had two examples of an increase in cash flows, one from the issuance of common stock, and one from increased borrowing through notes payable.</para>
+<media id="fs-idm255450592" alt="Issuance of Common Stock $45,000. Payment of Notes Payable (principal) (10,000).">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_04_Flow05_img.jpg"/>
 </media>
 </section>
 <section id="fs-idm237687824">
 <title>Financing Activities Leading to a Decrease in Cash</title>
 <para id="fs-idm255411440">Decreases in net cash flow from financing normally occur when (1) long-term liabilities, such as notes payable or bonds payable are repaid, (2) when the company reacquires some of its own stock (treasury stock), or (3) when the company pays dividends to shareholders. In the case of Propensity Company, the decreases in cash resulted from notes payable principal repayments and cash dividend payments.</para>
-<media id="fs-idm260988432" alt="Payment of Notes Payable (principal) (10,000). Payment of Dividends (440).">
+<media id="fs-idm260988432" alt="Payment of Dividends (440).">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_F16_04_Flow06_img.jpg"/>
 </media>
 </section>
