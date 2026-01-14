@@ -21,7 +21,7 @@
 <section id="fs-idm198635904">
 <title>Present Value of an Ordinary Annuity Table</title>
 <figure id="OSX_Acct_App_BB_PresValAnn">
-<media id="fs-idm464704128" alt="alt text">
+<media id="fs-idm464704128" alt="A financial table displaying the present value factors for an ordinary annuity across various interest rates (i) and periods (n), including the formula used for calculation.">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_App_BB_PresValAnn.jpg"/>
 </media>
 <caption>Present Value of an Ordinary Annuity Table.</caption>
@@ -30,7 +30,7 @@
 <section id="fs-idm167020240">
 <title>Future Value of $1 Table</title>
 <figure id="OSX_Acct_App_BB_FutVal01">
-<media id="fs-idm486381424" alt="alt text">
+<media id="fs-idm486381424" alt="A Future Value of $1 Table showing factors (1 + i)^n for various interest rates (1% to 20%) and periods (1 to 20 years), used for calculating the future value of an investment.">
 <image mime-type="image/jpeg" src="../../media/OSX_Acct_App_BB_FutVal01.jpg"/>
 </media>
 <caption>Future Value of $1 Table.</caption>
